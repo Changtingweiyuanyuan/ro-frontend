@@ -24,10 +24,9 @@ defineProps({
 }
 
 .monster-grid {
-  display: grid;
-  /* 自動填充，每張卡片最小 320px，最大 1fr (佔滿剩餘空間) */
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 40px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
 }
 
 .no-results {

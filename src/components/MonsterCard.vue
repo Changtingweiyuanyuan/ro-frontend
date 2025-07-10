@@ -65,7 +65,7 @@ const attackRange = computed(() => {
     if (atk.min === atk.max) {
         return atk.min;
     }
-    return `${atk.min} - ${atk.max}`;
+    return `${atk.min}-${atk.max}`;
 });
 </script>
 
@@ -73,9 +73,11 @@ const attackRange = computed(() => {
   <div class="monster-card-new">
     <div class="card-top">
       <div class="map-icon-container">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <!--<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line>
-        </svg>
+        </svg>-->
+				<img src="/images/ui/map1.png" class="map-icon" />
+				<img src="/images/ui/location.png" class="location-icon" />
 
         <div class="spawn-tooltip" v-if="monster.spawns && monster.spawns.length > 0">
           <div v-for="spawn in monster.spawns" :key="spawn.map_name + spawn.description" class="tooltip-item">
@@ -141,21 +143,17 @@ const attackRange = computed(() => {
 </template>
 
 <style scoped lang="scss">
-// 主卡片樣式
 .monster-card-new {
-  background-color: #f4f1eb;
-  border: 1px solid #dcd8d0;
+  background-color: #F9E7D0;
   border-radius: 8px;
-  padding: 12px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	padding: 18px;
   color: #594a41;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  box-shadow: 2px 2px 1px #000;
   display: flex;
   flex-direction: column;
-  height: 100%;
+	width: 260px;
 }
 
-// 頂部區塊
 .card-top {
   display: flex;
   justify-content: space-between;
@@ -168,15 +166,32 @@ const attackRange = computed(() => {
   color: #8c7f76;
   cursor: pointer;
   transition: color 0.2s;
-  padding: 4px;
-  margin: -4px;
+
+	.map-icon {
+		width: 32px;
+    height: 32px;
+		filter: drop-shadow(2px 2px 0px #000);
+
+		&:hover + .location-icon {
+			transform: translate(-23.5px, -12px);
+			opacity: 1;
+		}
+	}
+	.location-icon {
+    position: absolute;
+		width: 20px;
+    height: 20px;
+    transform: translate(-23.5px, -23px);
+		opacity: 0;
+		transition: opacity 0.2s ease, transform 0.2s ease;
+	}
 
   &:hover {
     color: #3d2d1b;
     .spawn-tooltip {
       visibility: visible;
       opacity: 1;
-      transform: translate(-50%, 0);
+    	transform: translate(0, -12px);
     }
   }
 }
@@ -184,24 +199,26 @@ const attackRange = computed(() => {
 .spawn-tooltip {
   visibility: hidden;
   opacity: 0;
+  //visibility: visible;
+  //opacity: 1;
   position: absolute;
-  background-color: #3d2d1b;
-  color: #f4f1eb;
+  background-color: #363636;
+  color: #fff;
+	border: 1.5px solid #B5A093;
   padding: 8px 12px;
-  border-radius: 6px;
+  border-radius: 4px;
   z-index: 10;
   width: max-content;
   max-width: 250px;
-  
-  bottom: 110%; 
-  left: 50%;
-  transform: translate(-50%, 10px);
+	left: calc(100% + 8px);
+	top: calc(100% - 32px);
+  transform: translate(0, -80px);
   
   pointer-events: none;
   transition: opacity 0.2s ease, transform 0.2s ease;
 
   &::after {
-    content: '';
+    //content: '';
     position: absolute;
     top: 100%;
     left: 50%;
@@ -221,31 +238,30 @@ const attackRange = computed(() => {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
-  color: #d66853;
-  line-height: 1.4;
+  color: #B62B14;
+  line-height: 18px;
 }
 
 .identity {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: 16px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 12px;
 }
 
 .monster-image-large {
-  width: 56px;
-  height: 56px;
-  object-fit: contain;
-  margin-bottom: 8px;
+	width: 60px;
+	height: 60px;
+	object-fit: contain;
+	margin-bottom: 4px;
 }
 
 .monster-name-primary {
   font-size: 20px;
   font-weight: bold;
-  color: #3d2d1b;
-  margin-bottom: 2px;
+  color: #2A1F18;
 }
 
 .monster-name-secondary {
@@ -264,7 +280,8 @@ const attackRange = computed(() => {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 15px;
+  font-size: 14px;
+	line-height: 18px;
 }
 
 .stat-label {
@@ -281,14 +298,14 @@ const attackRange = computed(() => {
   padding-top: 12px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
   flex-grow: 1; 
 }
 
 .drop-item-row {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 .drop-icon {
