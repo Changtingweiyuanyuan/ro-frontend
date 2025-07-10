@@ -1,0 +1,90 @@
+{
+  "id": 1048,
+  "name": {
+    "zh_tw": "盜蟲卵",
+    "en": "THIEF_BUG_EGG"
+  },
+  "image_url": "/images/monsters/1048.gif",
+  "basic_info": {
+    "level": 20,
+    "race": "昆蟲",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 344,
+    "attack": {
+      "min": 30,
+      "max": 32
+    },
+    "magic_attack": {
+      "min": 21,
+      "max": 23
+    },
+    "defense": 64,
+    "magic_defense": 10,
+    "hit_100_percent": 224,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 1,
+      "vit": 50,
+      "int": 1,
+      "dex": 3,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 0.5,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 737,
+      "name": "黑色杓子",
+      "rate": 0.05,
+      "icon_url": "/images/items/737.gif"
+    },
+    {
+      "item_id": 915,
+      "name": "蛹殼",
+      "rate": 50.0,
+      "icon_url": "/images/items/915.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 3.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 1002,
+      "name": "鐵礦石",
+      "rate": 1.25,
+      "icon_url": "/images/items/1002.gif"
+    },
+    {
+      "item_id": 1010,
+      "name": "強化武器金屬-級數一",
+      "rate": 6.0,
+      "icon_url": "/images/items/1010.gif"
+    },
+    {
+      "item_id": 2102,
+      "name": "鐵盾[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2102.gif"
+    },
+    {
+      "item_id": 4012,
+      "name": "盜蟲卵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

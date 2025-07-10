@@ -1,0 +1,90 @@
+{
+  "id": 1293,
+  "name": {
+    "zh_tw": "狂暴克瑞米",
+    "en": "CREMY_FEAR"
+  },
+  "image_url": "/images/monsters/1293.gif",
+  "basic_info": {
+    "level": 117,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 25084,
+    "attack": {
+      "min": 787,
+      "max": 1091
+    },
+    "magic_attack": {
+      "min": 243,
+      "max": 309
+    },
+    "defense": 76,
+    "magic_defense": 37,
+    "hit_100_percent": 359,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 65,
+      "agi": 36,
+      "vit": 33,
+      "int": 49,
+      "dex": 79,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 2.75,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 0.25,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 924,
+      "name": "蝴蝶翅膀粉末",
+      "rate": 22.75,
+      "icon_url": "/images/items/924.gif"
+    },
+    {
+      "item_id": 2333,
+      "name": "祕銀之衣[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2333.gif"
+    },
+    {
+      "item_id": 2726,
+      "name": "伊卡魯斯的羽翼",
+      "rate": 0.03,
+      "icon_url": "/images/items/2726.gif"
+    },
+    {
+      "item_id": 2899,
+      "name": "音波擴增器[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2899.gif"
+    },
+    {
+      "item_id": 4298,
+      "name": "狂暴克瑞米卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12676,
+      "name": "城戰紫色藥水箱",
+      "rate": 0.1,
+      "icon_url": "/images/items/12676.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2227,
+  "name": {
+    "zh_tw": "暗●冷豔舞姬",
+    "en": "TRENTINI"
+  },
+  "image_url": "/images/monsters/2227.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 204962,
+    "attack": {
+      "min": 1113,
+      "max": 1541
+    },
+    "magic_attack": {
+      "min": 2580,
+      "max": 4504
+    },
+    "defense": 70,
+    "magic_defense": 12,
+    "hit_100_percent": 438,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 115,
+      "agi": 81,
+      "vit": 65,
+      "int": 194,
+      "dex": 95,
+      "luk": 76
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1984,
+      "name": "節鞭[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/1984.gif"
+    },
+    {
+      "item_id": 2465,
+      "name": "舞鞋[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/2465.gif"
+    },
+    {
+      "item_id": 2892,
+      "name": "刺客腕甲[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/2892.gif"
+    },
+    {
+      "item_id": 4573,
+      "name": "暗●冷豔舞姬卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6470,
+      "name": "血的飢渴",
+      "rate": 1.5,
+      "icon_url": "/images/items/6470.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.01,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 20.0,
+      "icon_url": "/images/items/7347.gif"
+    },
+    {
+      "item_id": 25130,
+      "name": "不祥的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25130.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2882,
+  "name": {
+    "zh_tw": "精英石錘巨人 / 狡猾鈽鐳巨人",
+    "en": "C5_BRADIUM_GOLEM"
+  },
+  "image_url": "/images/monsters/2882.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 228695,
+    "attack": {
+      "min": 1576,
+      "max": 2204
+    },
+    "magic_attack": {
+      "min": 250,
+      "max": 312
+    },
+    "defense": 559,
+    "magic_defense": 12,
+    "hit_100_percent": 364,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 189,
+      "agi": 25,
+      "vit": 125,
+      "int": 45,
+      "dex": 104,
+      "luk": 33
+    }
+  },
+  "drops": [
+    {
+      "item_id": 953,
+      "name": "石心",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/953.gif"
+    },
+    {
+      "item_id": 2138,
+      "name": "魔力之石盾牌[1]",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2138.gif"
+    },
+    {
+      "item_id": 4472,
+      "name": "石錘巨人卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6090,
+      "name": "精煉魔力之石",
+      "rate": 12.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6090.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 12.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6224.gif"
+    },
+    {
+      "item_id": 7067,
+      "name": "石頭一角",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7067.gif"
+    },
+    {
+      "item_id": 12738,
+      "name": "珍稀符文原石",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12738.gif"
+    }
+  ]
+}

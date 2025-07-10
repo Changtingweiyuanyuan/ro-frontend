@@ -1,0 +1,90 @@
+{
+  "id": 1166,
+  "name": {
+    "zh_tw": "野豬",
+    "en": "SAVAGE"
+  },
+  "image_url": "/images/monsters/1166.gif",
+  "basic_info": {
+    "level": 59,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2301,
+    "attack": {
+      "min": 259,
+      "max": 333
+    },
+    "magic_attack": {
+      "min": 85,
+      "max": 99
+    },
+    "defense": 126,
+    "magic_defense": 3,
+    "hit_100_percent": 283,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 56,
+      "agi": 21,
+      "vit": 54,
+      "int": 10,
+      "dex": 52,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 514,
+      "name": "葡萄",
+      "rate": 1.5,
+      "icon_url": "/images/items/514.gif"
+    },
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 0.01,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 702,
+      "name": "家畜血",
+      "rate": 0.01,
+      "icon_url": "/images/items/702.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.35,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 1028,
+      "name": "野豬毛",
+      "rate": 45.0,
+      "icon_url": "/images/items/1028.gif"
+    },
+    {
+      "item_id": 2276,
+      "name": "大眼睛眼鏡",
+      "rate": 0.01,
+      "icon_url": "/images/items/2276.gif"
+    },
+    {
+      "item_id": 4078,
+      "name": "野豬卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6249,
+      "name": "野豬肉",
+      "rate": 0.25,
+      "icon_url": "/images/items/6249.gif"
+    }
+  ]
+}

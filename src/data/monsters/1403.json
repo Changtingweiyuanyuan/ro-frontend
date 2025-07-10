@@ -1,0 +1,90 @@
+{
+  "id": 1403,
+  "name": {
+    "zh_tw": "武士火鎗兵",
+    "en": "ANTIQUE_FIRELOCK"
+  },
+  "image_url": "/images/monsters/1403.gif",
+  "basic_info": {
+    "level": 88,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 7524,
+    "attack": {
+      "min": 439,
+      "max": 583
+    },
+    "magic_attack": {
+      "min": 149,
+      "max": 177
+    },
+    "defense": 72,
+    "magic_defense": 30,
+    "hit_100_percent": 338,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 44,
+      "vit": 30,
+      "int": 30,
+      "dex": 100,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 0.2,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 1.25,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 549,
+      "name": "美味番薯",
+      "rate": 1.75,
+      "icon_url": "/images/items/549.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 27.5,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 2285,
+      "name": "蘋果頭飾",
+      "rate": 0.01,
+      "icon_url": "/images/items/2285.gif"
+    },
+    {
+      "item_id": 4160,
+      "name": "武士火鎗兵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7126,
+      "name": "巨大傑勒比結晶",
+      "rate": 7.0,
+      "icon_url": "/images/items/7126.gif"
+    },
+    {
+      "item_id": 13152,
+      "name": "風暴來復槍[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/13152.gif"
+    }
+  ]
+}

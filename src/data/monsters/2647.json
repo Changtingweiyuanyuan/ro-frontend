@@ -1,0 +1,90 @@
+{
+  "id": 2647,
+  "name": {
+    "zh_tw": "精英岩石龜 / 雄壯岩石龜",
+    "en": "C2_SOLIDER"
+  },
+  "image_url": "/images/monsters/2647.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 87680,
+    "attack": {
+      "min": 509,
+      "max": 685
+    },
+    "magic_attack": {
+      "min": 135,
+      "max": 159
+    },
+    "defense": 206,
+    "magic_defense": 58,
+    "hit_100_percent": 340,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 65,
+      "agi": 44,
+      "vit": 60,
+      "int": 15,
+      "dex": 56,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 52.5,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 21.25,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 967,
+      "name": "烏龜外殼",
+      "rate": 100.0,
+      "icon_url": "/images/items/967.gif"
+    },
+    {
+      "item_id": 4220,
+      "name": "岩石龜卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7067,
+      "name": "石頭一角",
+      "rate": 21.25,
+      "icon_url": "/images/items/7067.gif"
+    },
+    {
+      "item_id": 7070,
+      "name": "破裂的硬殼",
+      "rate": 1.6,
+      "icon_url": "/images/items/7070.gif"
+    },
+    {
+      "item_id": 16040,
+      "name": "緋紅色鐵鎚[2]",
+      "rate": 2.5,
+      "icon_url": "/images/items/16040.gif"
+    },
+    {
+      "item_id": 22083,
+      "name": "喵族專屬靴子[1]",
+      "rate": 1.0,
+      "icon_url": "/images/items/22083.gif"
+    }
+  ]
+}

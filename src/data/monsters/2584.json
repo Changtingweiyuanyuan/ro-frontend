@@ -1,0 +1,41 @@
+{
+  "id": 2584,
+  "name": {
+    "zh_tw": "礦石魔",
+    "en": "G_MINERAL"
+  },
+  "image_url": "/images/monsters/2584.gif",
+  "basic_info": {
+    "level": 96,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 8300,
+    "attack": {
+      "min": 766,
+      "max": 1068
+    },
+    "magic_attack": {
+      "min": 185,
+      "max": 221
+    },
+    "defense": 127,
+    "magic_defense": 23,
+    "hit_100_percent": 367,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 61,
+      "vit": 40,
+      "int": 50,
+      "dex": 74,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

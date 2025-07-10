@@ -1,0 +1,90 @@
+{
+  "id": 2641,
+  "name": {
+    "zh_tw": "精英灰森靈 / 迅捷灰森靈",
+    "en": "C1_STEM_WORM"
+  },
+  "image_url": "/images/monsters/2641.gif",
+  "basic_info": {
+    "level": 84,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22650,
+    "attack": {
+      "min": 419,
+      "max": 561
+    },
+    "magic_attack": {
+      "min": 159,
+      "max": 185
+    },
+    "defense": 73,
+    "magic_defense": 50,
+    "hit_100_percent": 327,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 37,
+      "vit": 25,
+      "int": 47,
+      "dex": 84,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 45.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 608,
+      "name": "天地樹芽",
+      "rate": 0.25,
+      "icon_url": "/images/items/608.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 2.9,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 0.15,
+      "icon_url": "/images/items/997.gif"
+    },
+    {
+      "item_id": 1443,
+      "name": "緋紅色長矛[2]",
+      "rate": 2.5,
+      "icon_url": "/images/items/1443.gif"
+    },
+    {
+      "item_id": 1968,
+      "name": "跳繩",
+      "rate": 0.25,
+      "icon_url": "/images/items/1968.gif"
+    },
+    {
+      "item_id": 4224,
+      "name": "灰森靈卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7012,
+      "name": "強韌鱗梗",
+      "rate": 100.0,
+      "icon_url": "/images/items/7012.gif"
+    }
+  ]
+}

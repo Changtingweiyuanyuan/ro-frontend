@@ -1,0 +1,90 @@
+{
+  "id": 2398,
+  "name": {
+    "zh_tw": "寶貝波利",
+    "en": "LITTLE_PORING"
+  },
+  "image_url": "/images/monsters/2398.gif",
+  "basic_info": {
+    "level": 1,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 40,
+    "attack": {
+      "min": 13,
+      "max": 17
+    },
+    "magic_attack": {
+      "min": 2,
+      "max": 4
+    },
+    "defense": 2,
+    "magic_defense": 5,
+    "hit_100_percent": 203,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 6,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 6,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 10.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 10.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 512,
+      "name": "蘋果",
+      "rate": 50.0,
+      "icon_url": "/images/items/512.gif"
+    },
+    {
+      "item_id": 512,
+      "name": "蘋果",
+      "rate": 5.0,
+      "icon_url": "/images/items/512.gif"
+    },
+    {
+      "item_id": 909,
+      "name": "傑勒比結晶",
+      "rate": 90.0,
+      "icon_url": "/images/items/909.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 10.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 1202,
+      "name": "短劍[4]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1202.gif"
+    },
+    {
+      "item_id": 4545,
+      "name": "寶貝波利卡片",
+      "rate": 1.0,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

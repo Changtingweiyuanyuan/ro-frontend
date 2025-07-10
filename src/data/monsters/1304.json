@@ -1,0 +1,90 @@
+{
+  "id": 1304,
+  "name": {
+    "zh_tw": "狂暴蜘蛛",
+    "en": "GIANT_SPIDER"
+  },
+  "image_url": "/images/monsters/1304.gif",
+  "basic_info": {
+    "level": 117,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 25001,
+    "attack": {
+      "min": 782,
+      "max": 1080
+    },
+    "magic_attack": {
+      "min": 240,
+      "max": 314
+    },
+    "defense": 86,
+    "magic_defense": 38,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 58,
+      "vit": 43,
+      "int": 38,
+      "dex": 73,
+      "luk": 41
+    }
+  },
+  "drops": [
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 2.25,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.7,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 6.0,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 1025,
+      "name": "蜘蛛絲",
+      "rate": 22.75,
+      "icon_url": "/images/items/1025.gif"
+    },
+    {
+      "item_id": 1042,
+      "name": "昆蟲後腳",
+      "rate": 6.0,
+      "icon_url": "/images/items/1042.gif"
+    },
+    {
+      "item_id": 1096,
+      "name": "圓形外皮",
+      "rate": 3.4,
+      "icon_url": "/images/items/1096.gif"
+    },
+    {
+      "item_id": 4270,
+      "name": "狂暴蜘蛛卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12676,
+      "name": "城戰紫色藥水箱",
+      "rate": 0.02,
+      "icon_url": "/images/items/12676.gif"
+    }
+  ]
+}

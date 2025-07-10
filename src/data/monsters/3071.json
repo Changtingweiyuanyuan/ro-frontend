@@ -1,0 +1,78 @@
+{
+  "id": 3071,
+  "name": {
+    "zh_tw": "貝爾 / 派",
+    "en": "PERE3"
+  },
+  "image_url": "/images/monsters/3071.gif",
+  "basic_info": {
+    "level": 127,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 53290,
+    "attack": {
+      "min": 1098,
+      "max": 1538
+    },
+    "magic_attack": {
+      "min": 472,
+      "max": 668
+    },
+    "defense": 85,
+    "magic_defense": 45,
+    "hit_100_percent": 431,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 89,
+      "vit": 65,
+      "int": 118,
+      "dex": 147,
+      "luk": 75
+    }
+  },
+  "drops": [
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/993.gif"
+    },
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 0.25,
+      "icon_url": "/images/items/997.gif"
+    },
+    {
+      "item_id": 1934,
+      "name": "低音提琴[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1934.gif"
+    },
+    {
+      "item_id": 7004,
+      "name": "泥團",
+      "rate": 1.0,
+      "icon_url": "/images/items/7004.gif"
+    },
+    {
+      "item_id": 15101,
+      "name": "剛硬盔甲[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/15101.gif"
+    },
+    {
+      "item_id": 27107,
+      "name": "演奏貝爾卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27107.gif"
+    }
+  ]
+}

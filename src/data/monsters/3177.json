@@ -1,0 +1,84 @@
+{
+  "id": 3177,
+  "name": {
+    "zh_tw": "目擊者 / 惡魔之眼",
+    "en": "E1_BEHOLDER"
+  },
+  "image_url": "/images/monsters/3177.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 20313,
+    "attack": {
+      "min": 937,
+      "max": 1277
+    },
+    "magic_attack": {
+      "min": 275,
+      "max": 359
+    },
+    "defense": 76,
+    "magic_defense": 25,
+    "hit_100_percent": 400,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 141,
+      "agi": 75,
+      "vit": 48,
+      "int": 61,
+      "dex": 126,
+      "luk": 37
+    }
+  },
+  "drops": [
+    {
+      "item_id": 576,
+      "name": "榴蓮",
+      "rate": 5.0,
+      "icon_url": "/images/items/576.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.01,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 0.5,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.01,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 996,
+      "name": "風靈原石",
+      "rate": 0.5,
+      "icon_url": "/images/items/996.gif"
+    },
+    {
+      "item_id": 22046,
+      "name": "飛空艇靴子",
+      "rate": 0.5,
+      "icon_url": "/images/items/22046.gif"
+    },
+    {
+      "item_id": 27181,
+      "name": "飛空艇襲擊隊卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27181.gif"
+    }
+  ]
+}

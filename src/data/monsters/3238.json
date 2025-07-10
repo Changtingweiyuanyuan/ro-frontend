@@ -1,0 +1,41 @@
+{
+  "id": 3238,
+  "name": {
+    "zh_tw": "暗●宮廷樂師",
+    "en": "V_G_ALPHOCCIO"
+  },
+  "image_url": "/images/monsters/3238.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3600000,
+    "attack": {
+      "min": 3626,
+      "max": 5226
+    },
+    "magic_attack": {
+      "min": 4786,
+      "max": 8386
+    },
+    "defense": 240,
+    "magic_defense": 200,
+    "hit_100_percent": 722,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 240,
+      "agi": 300,
+      "vit": 140,
+      "int": 400,
+      "dex": 300,
+      "luk": 180
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1317,
+  "name": {
+    "zh_tw": "海豹寶寶",
+    "en": "FUR_SEAL"
+  },
+  "image_url": "/images/monsters/1317.gif",
+  "basic_info": {
+    "level": 47,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1371,
+    "attack": {
+      "min": 153,
+      "max": 189
+    },
+    "magic_attack": {
+      "min": 114,
+      "max": 138
+    },
+    "defense": 42,
+    "magic_defense": 16,
+    "hit_100_percent": 290,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 37,
+      "agi": 40,
+      "vit": 30,
+      "int": 39,
+      "dex": 35,
+      "luk": 19
+    }
+  },
+  "drops": [
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 1.0,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 746,
+      "name": "玻璃珠",
+      "rate": 0.6,
+      "icon_url": "/images/items/746.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 21.83,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 1452,
+      "name": "彎刃長矛[3]",
+      "rate": 0.01,
+      "icon_url": "/images/items/1452.gif"
+    },
+    {
+      "item_id": 2310,
+      "name": "長大衣[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2310.gif"
+    },
+    {
+      "item_id": 4312,
+      "name": "海豹寶寶卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 6.0,
+      "icon_url": "/images/items/7053.gif"
+    }
+  ]
+}

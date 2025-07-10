@@ -1,0 +1,78 @@
+{
+  "id": 3070,
+  "name": {
+    "zh_tw": "貝爾 / 派",
+    "en": "PERE2"
+  },
+  "image_url": "/images/monsters/3070.gif",
+  "basic_info": {
+    "level": 126,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 40718,
+    "attack": {
+      "min": 1137,
+      "max": 1599
+    },
+    "magic_attack": {
+      "min": 394,
+      "max": 526
+    },
+    "defense": 80,
+    "magic_defense": 45,
+    "hit_100_percent": 426,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 86,
+      "vit": 67,
+      "int": 116,
+      "dex": 153,
+      "luk": 71
+    }
+  },
+  "drops": [
+    {
+      "item_id": 504,
+      "name": "白色藥水",
+      "rate": 1.0,
+      "icon_url": "/images/items/504.gif"
+    },
+    {
+      "item_id": 991,
+      "name": "水靈礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/991.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.25,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 7004,
+      "name": "泥團",
+      "rate": 1.0,
+      "icon_url": "/images/items/7004.gif"
+    },
+    {
+      "item_id": 15100,
+      "name": "冰晶盔甲[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/15100.gif"
+    },
+    {
+      "item_id": 27107,
+      "name": "演奏貝爾卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27107.gif"
+    }
+  ]
+}

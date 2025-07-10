@@ -1,0 +1,84 @@
+{
+  "id": 1193,
+  "name": {
+    "zh_tw": "鐘怪",
+    "en": "ALARM"
+  },
+  "image_url": "/images/monsters/1193.gif",
+  "basic_info": {
+    "level": 88,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5562,
+    "attack": {
+      "min": 413,
+      "max": 541
+    },
+    "magic_attack": {
+      "min": 146,
+      "max": 176
+    },
+    "defense": 106,
+    "magic_defense": 53,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 72,
+      "vit": 40,
+      "int": 25,
+      "dex": 66,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 7.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.53,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1095,
+      "name": "指針",
+      "rate": 26.68,
+      "icon_url": "/images/items/1095.gif"
+    },
+    {
+      "item_id": 2607,
+      "name": "發夾[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2607.gif"
+    },
+    {
+      "item_id": 4244,
+      "name": "鐘怪卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 7.5,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 7026,
+      "name": "鐘塔之鑰",
+      "rate": 0.1,
+      "icon_url": "/images/items/7026.gif"
+    }
+  ]
+}

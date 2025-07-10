@@ -1,0 +1,78 @@
+{
+  "id": 3480,
+  "name": {
+    "zh_tw": "不死的 腐屍詛咒士兵",
+    "en": "AS_CURSED_SOLDIER"
+  },
+  "image_url": "/images/monsters/3480.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 405694,
+    "attack": {
+      "min": 2233,
+      "max": 3213
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 243
+    },
+    "defense": 123,
+    "magic_defense": 50,
+    "hit_100_percent": 452,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 117,
+      "agi": 86,
+      "vit": 93,
+      "int": 81,
+      "dex": 309,
+      "luk": 33
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1600,
+      "name": "邪念之權杖[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1600.gif"
+    },
+    {
+      "item_id": 1900,
+      "name": "邪念之小提琴[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1900.gif"
+    },
+    {
+      "item_id": 1996,
+      "name": "邪念之鐵鞭[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1996.gif"
+    },
+    {
+      "item_id": 2026,
+      "name": "邪念之法杖[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/2026.gif"
+    },
+    {
+      "item_id": 13128,
+      "name": "邪念之左輪手槍[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/13128.gif"
+    },
+    {
+      "item_id": 18121,
+      "name": "邪念之弓[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/18121.gif"
+    }
+  ]
+}

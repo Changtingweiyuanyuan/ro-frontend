@@ -1,0 +1,90 @@
+{
+  "id": 1650,
+  "name": {
+    "zh_tw": "暗●神射手 迪文",
+    "en": "B_SHECIL"
+  },
+  "image_url": "/images/monsters/1650.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4140000,
+    "attack": {
+      "min": 3660,
+      "max": 5322
+    },
+    "magic_attack": {
+      "min": 1377,
+      "max": 2307
+    },
+    "defense": 178,
+    "magic_defense": 135,
+    "hit_100_percent": 637,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 176,
+      "agi": 258,
+      "vit": 155,
+      "int": 132,
+      "dex": 464,
+      "luk": 95
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 45.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 1228,
+      "name": "戰鬥短劍",
+      "rate": 17.5,
+      "icon_url": "/images/items/1228.gif"
+    },
+    {
+      "item_id": 1237,
+      "name": "魔短劍 暗噬",
+      "rate": 17.5,
+      "icon_url": "/images/items/1237.gif"
+    },
+    {
+      "item_id": 1720,
+      "name": "熾天使之弓",
+      "rate": 7.5,
+      "icon_url": "/images/items/1720.gif"
+    },
+    {
+      "item_id": 1724,
+      "name": "天龍之翼",
+      "rate": 12.5,
+      "icon_url": "/images/items/1724.gif"
+    },
+    {
+      "item_id": 4367,
+      "name": "暗●神射手 迪文卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 50.0,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 50.0,
+      "icon_url": "/images/items/12623.gif"
+    }
+  ]
+}

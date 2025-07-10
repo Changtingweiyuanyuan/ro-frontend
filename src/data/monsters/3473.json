@@ -1,0 +1,90 @@
+{
+  "id": 3473,
+  "name": {
+    "zh_tw": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
+    "en": "AS_RAGGED_GOLEM"
+  },
+  "image_url": "/images/monsters/3473.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 20000000,
+    "attack": {
+      "min": 6910,
+      "max": 10162
+    },
+    "magic_attack": {
+      "min": 667,
+      "max": 1051
+    },
+    "defense": 146,
+    "magic_defense": 30,
+    "hit_100_percent": 425,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 248,
+      "agi": 57,
+      "vit": 16,
+      "int": 59,
+      "dex": 245,
+      "luk": 43
+    }
+  },
+  "drops": [
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 10.0,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 608,
+      "name": "天地樹芽",
+      "rate": 20.0,
+      "icon_url": "/images/items/608.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 35.0,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 35.0,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 2027,
+      "name": "向日葵魔杖[2]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2027.gif"
+    },
+    {
+      "item_id": 21018,
+      "name": "瑞爾雙手劍[2]",
+      "rate": 0.01,
+      "icon_url": "/images/items/21018.gif"
+    },
+    {
+      "item_id": 28010,
+      "name": "朱麗葉雷切爾拳刃[2]",
+      "rate": 0.01,
+      "icon_url": "/images/items/28010.gif"
+    },
+    {
+      "item_id": 31026,
+      "name": "史蒂芬傑克厄尼斯特狼卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/31026.gif"
+    }
+  ]
+}

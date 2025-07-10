@@ -1,0 +1,90 @@
+{
+  "id": 1303,
+  "name": {
+    "zh_tw": "狂暴蜂兵",
+    "en": "GIANT_HONET"
+  },
+  "image_url": "/images/monsters/1303.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 26521,
+    "attack": {
+      "min": 838,
+      "max": 1164
+    },
+    "magic_attack": {
+      "min": 244,
+      "max": 324
+    },
+    "defense": 80,
+    "magic_defense": 43,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 45,
+      "vit": 47,
+      "int": 32,
+      "dex": 74,
+      "luk": 34
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 6.0,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 0.06,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 2.75,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 722,
+      "name": "珍珠",
+      "rate": 0.1,
+      "icon_url": "/images/items/722.gif"
+    },
+    {
+      "item_id": 1736,
+      "name": "連發弓[3]",
+      "rate": 0.08,
+      "icon_url": "/images/items/1736.gif"
+    },
+    {
+      "item_id": 2025,
+      "name": "緋紅色魔杖[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/2025.gif"
+    },
+    {
+      "item_id": 4271,
+      "name": "狂暴蜂兵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12676,
+      "name": "城戰紫色藥水箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/12676.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1060,
+  "name": {
+    "zh_tw": "大腳熊",
+    "en": "BIGFOOT"
+  },
+  "image_url": "/images/monsters/1060.gif",
+  "basic_info": {
+    "level": 29,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 587,
+    "attack": {
+      "min": 87,
+      "max": 107
+    },
+    "magic_attack": {
+      "min": 38,
+      "max": 46
+    },
+    "defense": 55,
+    "magic_defense": 7,
+    "hit_100_percent": 233,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 18,
+      "agi": 4,
+      "vit": 7,
+      "int": 1,
+      "dex": 12,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 516,
+      "name": "番薯",
+      "rate": 7.5,
+      "icon_url": "/images/items/516.gif"
+    },
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 2.25,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.22,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 25.0,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 948,
+      "name": "熊掌",
+      "rate": 45.0,
+      "icon_url": "/images/items/948.gif"
+    },
+    {
+      "item_id": 2289,
+      "name": "糞便帽",
+      "rate": 0.03,
+      "icon_url": "/images/items/2289.gif"
+    },
+    {
+      "item_id": 4074,
+      "name": "大腳熊卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

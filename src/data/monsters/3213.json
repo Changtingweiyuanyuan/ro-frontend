@@ -1,0 +1,84 @@
+{
+  "id": 3213,
+  "name": {
+    "zh_tw": "暗●符文騎士 / 暗●盧恩騎士",
+    "en": "V_SEYREN"
+  },
+  "image_url": "/images/monsters/3213.gif",
+  "basic_info": {
+    "level": 179,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2448000,
+    "attack": {
+      "min": 5149,
+      "max": 7549
+    },
+    "magic_attack": {
+      "min": 2095,
+      "max": 3697
+    },
+    "defense": 400,
+    "magic_defense": 200,
+    "hit_100_percent": 491,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 170,
+      "agi": 100,
+      "vit": 200,
+      "int": 50,
+      "dex": 200,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4689,
+      "name": "真●符文騎士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6814,
+      "name": "劍士之魂",
+      "rate": 5.0,
+      "icon_url": "/images/items/6814.gif"
+    },
+    {
+      "item_id": 19961,
+      "name": "(時裝)符文頭箍",
+      "rate": 0.5,
+      "icon_url": "/images/items/19961.gif"
+    },
+    {
+      "item_id": 22687,
+      "name": "邪念碎片",
+      "rate": 6.0,
+      "icon_url": "/images/items/22687.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 4.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 25131,
+      "name": "墮落的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25131.gif"
+    }
+  ]
+}

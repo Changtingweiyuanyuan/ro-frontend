@@ -1,0 +1,90 @@
+{
+  "id": 1112,
+  "name": {
+    "zh_tw": "海盜之王",
+    "en": "DRAKE"
+  },
+  "image_url": "/images/monsters/1112.gif",
+  "basic_info": {
+    "level": 91,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 804500,
+    "attack": {
+      "min": 2227,
+      "max": 3235
+    },
+    "magic_attack": {
+      "min": 1180,
+      "max": 2022
+    },
+    "defense": 279,
+    "magic_defense": 135,
+    "hit_100_percent": 408,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 103,
+      "vit": 114,
+      "int": 107,
+      "dex": 162,
+      "luk": 71
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 16.0,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1125,
+      "name": "圓柄馬刀[3]",
+      "rate": 4.75,
+      "icon_url": "/images/items/1125.gif"
+    },
+    {
+      "item_id": 1127,
+      "name": "騎兵之劍[3]",
+      "rate": 3.0,
+      "icon_url": "/images/items/1127.gif"
+    },
+    {
+      "item_id": 1128,
+      "name": "海東劍[2]",
+      "rate": 2.0,
+      "icon_url": "/images/items/1128.gif"
+    },
+    {
+      "item_id": 1135,
+      "name": "狂擊之劍",
+      "rate": 0.75,
+      "icon_url": "/images/items/1135.gif"
+    },
+    {
+      "item_id": 1189,
+      "name": "紅雲長劍[3]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1189.gif"
+    },
+    {
+      "item_id": 4137,
+      "name": "海盜之王卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5019,
+      "name": "海盜船長帽",
+      "rate": 1.75,
+      "icon_url": "/images/items/5019.gif"
+    }
+  ]
+}

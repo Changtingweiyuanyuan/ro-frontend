@@ -1,0 +1,84 @@
+{
+  "id": 2312,
+  "name": {
+    "zh_tw": "猛酷巫師",
+    "en": "MANGKUKULAM"
+  },
+  "image_url": "/images/monsters/2312.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20151,
+    "attack": {
+      "min": 610,
+      "max": 844
+    },
+    "magic_attack": {
+      "min": 329,
+      "max": 447
+    },
+    "defense": 89,
+    "magic_defense": 75,
+    "hit_100_percent": 391,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 35,
+      "agi": 71,
+      "vit": 31,
+      "int": 82,
+      "dex": 64,
+      "luk": 52
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4585,
+      "name": "猛酷巫師卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6509,
+      "name": "神奇的花",
+      "rate": 10.0,
+      "icon_url": "/images/items/6509.gif"
+    },
+    {
+      "item_id": 6510,
+      "name": "淡雅的花",
+      "rate": 10.0,
+      "icon_url": "/images/items/6510.gif"
+    },
+    {
+      "item_id": 6511,
+      "name": "漂亮的花",
+      "rate": 10.0,
+      "icon_url": "/images/items/6511.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 10.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 7071,
+      "name": "破爛爛的衣服",
+      "rate": 10.0,
+      "icon_url": "/images/items/7071.gif"
+    },
+    {
+      "item_id": 12700,
+      "name": "反穿的襯衫",
+      "rate": 1.0,
+      "icon_url": "/images/items/12700.gif"
+    }
+  ]
+}

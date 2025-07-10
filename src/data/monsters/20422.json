@@ -1,0 +1,72 @@
+{
+  "id": 20422,
+  "name": {
+    "zh_tw": "汙染黑暗之王",
+    "en": "DARK_LORD_H"
+  },
+  "image_url": "/images/monsters/20422.gif",
+  "basic_info": {
+    "level": 194,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 74476822,
+    "attack": {
+      "min": 5824,
+      "max": 8502
+    },
+    "magic_attack": {
+      "min": 3179,
+      "max": 5485
+    },
+    "defense": 503,
+    "magic_defense": 134,
+    "hit_100_percent": 558,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 276,
+      "agi": 151,
+      "vit": 103,
+      "int": 297,
+      "dex": 172,
+      "luk": 66
+    }
+  },
+  "drops": [
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 25.0,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 50.0,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.5,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 27363,
+      "name": "汙染黑暗之王卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27363.gif"
+    }
+  ]
+}

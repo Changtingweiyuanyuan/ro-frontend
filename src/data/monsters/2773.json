@@ -1,0 +1,90 @@
+{
+  "id": 2773,
+  "name": {
+    "zh_tw": "精英 / 狡猾 魯修拉黃蜂",
+    "en": "C5_LUCIOLA_VESPA"
+  },
+  "image_url": "/images/monsters/2773.gif",
+  "basic_info": {
+    "level": 109,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 62330,
+    "attack": {
+      "min": 761,
+      "max": 1045
+    },
+    "magic_attack": {
+      "min": 218,
+      "max": 286
+    },
+    "defense": 59,
+    "magic_defense": 55,
+    "hit_100_percent": 409,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 89,
+      "vit": 55,
+      "int": 32,
+      "dex": 143,
+      "luk": 59
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 7.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/518.gif"
+    },
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/526.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/943.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 4.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/992.gif"
+    },
+    {
+      "item_id": 2744,
+      "name": "奔跑指環",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2744.gif"
+    },
+    {
+      "item_id": 4445,
+      "name": "毒黃蜂卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6224.gif"
+    },
+    {
+      "item_id": 15043,
+      "name": "黑翼之衣[1]",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/15043.gif"
+    }
+  ]
+}

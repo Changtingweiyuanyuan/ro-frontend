@@ -1,0 +1,41 @@
+{
+  "id": 1431,
+  "name": {
+    "zh_tw": "小巴風特",
+    "en": "G_BAPHOMET_"
+  },
+  "image_url": "/images/monsters/1431.gif",
+  "basic_info": {
+    "level": 57,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2035,
+    "attack": {
+      "min": 265,
+      "max": 343
+    },
+    "magic_attack": {
+      "min": 97,
+      "max": 117
+    },
+    "defense": 70,
+    "magic_defense": 25,
+    "hit_100_percent": 322,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 52,
+      "agi": 60,
+      "vit": 36,
+      "int": 17,
+      "dex": 57,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

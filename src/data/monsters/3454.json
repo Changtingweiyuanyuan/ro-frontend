@@ -1,0 +1,41 @@
+{
+  "id": 3454,
+  "name": {
+    "zh_tw": "可疑的入侵者",
+    "en": "HEART_HUNTER_N"
+  },
+  "image_url": "/images/monsters/3454.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20714,
+    "attack": {
+      "min": 701,
+      "max": 983
+    },
+    "magic_attack": {
+      "min": 249,
+      "max": 357
+    },
+    "defense": 49,
+    "magic_defense": 28,
+    "hit_100_percent": 357,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 36,
+      "agi": 53,
+      "vit": 32,
+      "int": 22,
+      "dex": 98,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

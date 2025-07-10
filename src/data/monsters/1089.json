@@ -1,0 +1,90 @@
+{
+  "id": 1089,
+  "name": {
+    "zh_tw": "蛙王",
+    "en": "TOAD"
+  },
+  "image_url": "/images/monsters/1089.gif",
+  "basic_info": {
+    "level": 27,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 660,
+    "attack": {
+      "min": 115,
+      "max": 143
+    },
+    "magic_attack": {
+      "min": 50,
+      "max": 62
+    },
+    "defense": 24,
+    "magic_defense": 6,
+    "hit_100_percent": 247,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 32,
+      "agi": 19,
+      "vit": 27,
+      "int": 10,
+      "dex": 24,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 10.0,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 729,
+      "name": "青綠寶石",
+      "rate": 5.0,
+      "icon_url": "/images/items/729.gif"
+    },
+    {
+      "item_id": 970,
+      "name": "酒精",
+      "rate": 0.5,
+      "icon_url": "/images/items/970.gif"
+    },
+    {
+      "item_id": 971,
+      "name": "帝特立米藥水",
+      "rate": 0.5,
+      "icon_url": "/images/items/971.gif"
+    },
+    {
+      "item_id": 2244,
+      "name": "紅蝶發帶",
+      "rate": 0.25,
+      "icon_url": "/images/items/2244.gif"
+    },
+    {
+      "item_id": 4306,
+      "name": "蛙王卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5125,
+      "name": "天使之吻[1]",
+      "rate": 5.0,
+      "icon_url": "/images/items/5125.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 2.5,
+      "icon_url": "/images/items/7938.gif"
+    }
+  ]
+}

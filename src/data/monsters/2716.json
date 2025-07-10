@@ -1,0 +1,90 @@
+{
+  "id": 2716,
+  "name": {
+    "zh_tw": "精英梅納海葵 / 菁英梅納海葵",
+    "en": "C3_PENOMENA"
+  },
+  "image_url": "/images/monsters/2716.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "魚貝",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22945,
+    "attack": {
+      "min": 622,
+      "max": 854
+    },
+    "magic_attack": {
+      "min": 148,
+      "max": 174
+    },
+    "defense": 85,
+    "magic_defense": 32,
+    "hit_100_percent": 325,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 76,
+      "agi": 38,
+      "vit": 35,
+      "int": 35,
+      "dex": 107,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 5.0,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 13.75,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 719,
+      "name": "紫寶石",
+      "rate": 0.4,
+      "icon_url": "/images/items/719.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 100.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 962,
+      "name": "觸鬚",
+      "rate": 100.0,
+      "icon_url": "/images/items/962.gif"
+    },
+    {
+      "item_id": 1258,
+      "name": "火靈拳刃",
+      "rate": 0.05,
+      "icon_url": "/images/items/1258.gif"
+    },
+    {
+      "item_id": 4314,
+      "name": "梅納海葵卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7013,
+      "name": "珊瑚",
+      "rate": 100.0,
+      "icon_url": "/images/items/7013.gif"
+    }
+  ]
+}

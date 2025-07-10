@@ -1,0 +1,84 @@
+{
+  "id": 1584,
+  "name": {
+    "zh_tw": "塔嚕安",
+    "en": "TAMRUAN"
+  },
+  "image_url": "/images/monsters/1584.gif",
+  "basic_info": {
+    "level": 73,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3195,
+    "attack": {
+      "min": 401,
+      "max": 537
+    },
+    "magic_attack": {
+      "min": 118,
+      "max": 142
+    },
+    "defense": 63,
+    "magic_defense": 30,
+    "hit_100_percent": 315,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 38,
+      "vit": 40,
+      "int": 20,
+      "dex": 73,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1155,
+      "name": "亞爾特劍[3]",
+      "rate": 0.04,
+      "icon_url": "/images/items/1155.gif"
+    },
+    {
+      "item_id": 2315,
+      "name": "鋼鐵鎖子甲[1]",
+      "rate": 0.02,
+      "icon_url": "/images/items/2315.gif"
+    },
+    {
+      "item_id": 4304,
+      "name": "塔嚕安卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7069,
+      "name": "破裂的盔甲一角",
+      "rate": 15.0,
+      "icon_url": "/images/items/7069.gif"
+    },
+    {
+      "item_id": 7301,
+      "name": "紅色流蘇",
+      "rate": 24.25,
+      "icon_url": "/images/items/7301.gif"
+    },
+    {
+      "item_id": 12736,
+      "name": "神祕符文原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/12736.gif"
+    },
+    {
+      "item_id": 21015,
+      "name": "緋紅色雙手巨劍[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/21015.gif"
+    }
+  ]
+}

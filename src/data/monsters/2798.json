@@ -1,0 +1,90 @@
+{
+  "id": 2798,
+  "name": {
+    "zh_tw": "精英蜂兵 / 狡猾蜂兵",
+    "en": "C5_HORNET"
+  },
+  "image_url": "/images/monsters/2798.gif",
+  "basic_info": {
+    "level": 11,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 450,
+    "attack": {
+      "min": 35,
+      "max": 41
+    },
+    "magic_attack": {
+      "min": 18,
+      "max": 20
+    },
+    "defense": 7,
+    "magic_defense": 1,
+    "hit_100_percent": 236,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 12,
+      "agi": 24,
+      "vit": 4,
+      "int": 5,
+      "dex": 6,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 25.0,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 5.0,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 909,
+      "name": "傑勒比結晶",
+      "rate": 100.0,
+      "icon_url": "/images/items/909.gif"
+    },
+    {
+      "item_id": 939,
+      "name": "蜂針",
+      "rate": 100.0,
+      "icon_url": "/images/items/939.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 4.0,
+      "icon_url": "/images/items/992.gif"
+    },
+    {
+      "item_id": 1208,
+      "name": "笨拙短劍[4]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1208.gif"
+    },
+    {
+      "item_id": 4019,
+      "name": "蜂兵卡片",
+      "rate": 1.0,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2249,
+  "name": {
+    "zh_tw": "淘汰者傅立葉",
+    "en": "PYURIEL"
+  },
+  "image_url": "/images/monsters/2249.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2205000,
+    "attack": {
+      "min": 2349,
+      "max": 3355
+    },
+    "magic_attack": {
+      "min": 1476,
+      "max": 2384
+    },
+    "defense": 388,
+    "magic_defense": 206,
+    "hit_100_percent": 503,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 196,
+      "agi": 131,
+      "vit": 125,
+      "int": 276,
+      "dex": 401,
+      "luk": 156
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 5.0,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 30.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 4578,
+      "name": "淘汰者傅立葉卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 1.0,
+      "icon_url": "/images/items/12623.gif"
+    },
+    {
+      "item_id": 12675,
+      "name": "城戰武器補給箱",
+      "rate": 30.0,
+      "icon_url": "/images/items/12675.gif"
+    },
+    {
+      "item_id": 12679,
+      "name": "城戰白色藥水箱",
+      "rate": 20.0,
+      "icon_url": "/images/items/12679.gif"
+    },
+    {
+      "item_id": 12680,
+      "name": "攻城用藍色藥水箱子",
+      "rate": 10.0,
+      "icon_url": "/images/items/12680.gif"
+    }
+  ]
+}

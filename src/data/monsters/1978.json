@@ -1,0 +1,90 @@
+{
+  "id": 1978,
+  "name": {
+    "zh_tw": "地獄阿修羅機械戰士",
+    "en": "HELL_APOCALIPS"
+  },
+  "image_url": "/images/monsters/1978.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 22100,
+    "attack": {
+      "min": 1129,
+      "max": 1567
+    },
+    "magic_attack": {
+      "min": 254,
+      "max": 328
+    },
+    "defense": 155,
+    "magic_defense": 43,
+    "hit_100_percent": 390,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 135,
+      "agi": 62,
+      "vit": 80,
+      "int": 48,
+      "dex": 125,
+      "luk": 37
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.03,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 12.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1484,
+      "name": "柱槍[1]",
+      "rate": 0.02,
+      "icon_url": "/images/items/1484.gif"
+    },
+    {
+      "item_id": 2391,
+      "name": "生命之環[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2391.gif"
+    },
+    {
+      "item_id": 4477,
+      "name": "地獄機械戰士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7093,
+      "name": "齒輪",
+      "rate": 11.0,
+      "icon_url": "/images/items/7093.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 12.0,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7095,
+      "name": "金屬破片",
+      "rate": 26.68,
+      "icon_url": "/images/items/7095.gif"
+    }
+  ]
+}

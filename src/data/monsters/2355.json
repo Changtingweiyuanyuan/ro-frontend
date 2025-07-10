@@ -1,0 +1,90 @@
+{
+  "id": 2355,
+  "name": {
+    "zh_tw": "木乃伊犬-咪魘",
+    "en": "N_VERIT"
+  },
+  "image_url": "/images/monsters/2355.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21034,
+    "attack": {
+      "min": 670,
+      "max": 920
+    },
+    "magic_attack": {
+      "min": 229,
+      "max": 315
+    },
+    "defense": 82,
+    "magic_defense": 20,
+    "hit_100_percent": 323,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 57,
+      "agi": 7,
+      "vit": 31,
+      "int": 15,
+      "dex": 7,
+      "luk": 7
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 6.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 639,
+      "name": "馴服手鐲",
+      "rate": 0.2,
+      "icon_url": "/images/items/639.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 7.0,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 929,
+      "name": "不死心臟",
+      "rate": 90.0,
+      "icon_url": "/images/items/929.gif"
+    },
+    {
+      "item_id": 930,
+      "name": "腐爛繃帶",
+      "rate": 11.0,
+      "icon_url": "/images/items/930.gif"
+    },
+    {
+      "item_id": 2609,
+      "name": "骷髏戒指",
+      "rate": 0.02,
+      "icon_url": "/images/items/2609.gif"
+    },
+    {
+      "item_id": 2612,
+      "name": "花戒指",
+      "rate": 2.0,
+      "icon_url": "/images/items/2612.gif"
+    },
+    {
+      "item_id": 4658,
+      "name": "滅絕木乃伊犬卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

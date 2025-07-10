@@ -1,0 +1,90 @@
+{
+  "id": 2732,
+  "name": {
+    "zh_tw": "精英七彩咪魘 / 憤怒七彩咪魘",
+    "en": "C4_NIGHTMARE_TERROR"
+  },
+  "image_url": "/images/monsters/2732.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 66445,
+    "attack": {
+      "min": 1105,
+      "max": 1545
+    },
+    "magic_attack": {
+      "min": 328,
+      "max": 464
+    },
+    "defense": 78,
+    "magic_defense": 37,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 68,
+      "vit": 55,
+      "int": 63,
+      "dex": 106,
+      "luk": 43
+    }
+  },
+  "drops": [
+    {
+      "item_id": 505,
+      "name": "藍色藥水",
+      "rate": 1.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/505.gif"
+    },
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 3.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/510.gif"
+    },
+    {
+      "item_id": 695,
+      "name": "聖靈召喚 等級5",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/695.gif"
+    },
+    {
+      "item_id": 1261,
+      "name": "刺殺拳刃",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1261.gif"
+    },
+    {
+      "item_id": 2608,
+      "name": "幸運珠鍊",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2608.gif"
+    },
+    {
+      "item_id": 2626,
+      "name": "幸運珠鍊[1]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2626.gif"
+    },
+    {
+      "item_id": 4166,
+      "name": "七彩咪魘卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7120,
+      "name": "燃燒的馬蹄鐵",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7120.gif"
+    }
+  ]
+}

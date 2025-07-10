@@ -1,0 +1,90 @@
+{
+  "id": 2674,
+  "name": {
+    "zh_tw": "精英泥人 / 憤怒泥人",
+    "en": "C4_SAND_MAN"
+  },
+  "image_url": "/images/monsters/2674.gif",
+  "basic_info": {
+    "level": 61,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 14435,
+    "attack": {
+      "min": 261,
+      "max": 341
+    },
+    "magic_attack": {
+      "min": 115,
+      "max": 149
+    },
+    "defense": 126,
+    "magic_defense": 24,
+    "hit_100_percent": 276,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 44,
+      "agi": 10,
+      "vit": 55,
+      "int": 15,
+      "dex": 34,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 2.95,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+    },
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 0.9,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/997.gif"
+    },
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1001.gif"
+    },
+    {
+      "item_id": 1056,
+      "name": "黃玉碎片",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1056.gif"
+    },
+    {
+      "item_id": 1257,
+      "name": "刺藤拳刃",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1257.gif"
+    },
+    {
+      "item_id": 1622,
+      "name": "催眠師的魔杖[2]",
+      "rate": 0.15,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1622.gif"
+    },
+    {
+      "item_id": 4101,
+      "name": "泥人卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7043,
+      "name": "黃晶沙",
+      "rate": 8.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7043.gif"
+    }
+  ]
+}

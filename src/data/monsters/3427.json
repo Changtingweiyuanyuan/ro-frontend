@@ -1,0 +1,90 @@
+{
+  "id": 3427,
+  "name": {
+    "zh_tw": "俄塞里斯",
+    "en": "MIN_OSIRIS"
+  },
+  "image_url": "/images/monsters/3427.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2850000,
+    "attack": {
+      "min": 1720,
+      "max": 2480
+    },
+    "magic_attack": {
+      "min": 1286,
+      "max": 2188
+    },
+    "defense": 172,
+    "magic_defense": 164,
+    "hit_100_percent": 415,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 99,
+      "vit": 86,
+      "int": 131,
+      "dex": 165,
+      "luk": 67
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/617.gif"
+    },
+    {
+      "item_id": 1232,
+      "name": "妖短劍 泣神怨",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1232.gif"
+    },
+    {
+      "item_id": 1255,
+      "name": "祕刃 暗嘯[1]",
+      "rate": 3.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1255.gif"
+    },
+    {
+      "item_id": 1285,
+      "name": "脈輪之刃[2]",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1285.gif"
+    },
+    {
+      "item_id": 2235,
+      "name": "王冠",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2235.gif"
+    },
+    {
+      "item_id": 4647,
+      "name": "無限俄塞里斯卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 5053,
+      "name": "人面獅身帽",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/5053.gif"
+    },
+    {
+      "item_id": 6905,
+      "name": "破碎的魔法石",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6905.gif"
+    }
+  ]
+}

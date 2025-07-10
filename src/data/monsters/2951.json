@@ -1,0 +1,60 @@
+{
+  "id": 2951,
+  "name": {
+    "zh_tw": "聲聲歎息 / 漂流的悲哀",
+    "en": "FLOATING_WORD"
+  },
+  "image_url": "/images/monsters/2951.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 11276,
+    "attack": {
+      "min": 1080,
+      "max": 1510
+    },
+    "magic_attack": {
+      "min": 180,
+      "max": 182
+    },
+    "defense": 93,
+    "magic_defense": 40,
+    "hit_100_percent": 413,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 90,
+      "vit": 60,
+      "int": 70,
+      "dex": 139,
+      "luk": 65
+    }
+  },
+  "drops": [
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 30.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 947,
+      "name": "硬角",
+      "rate": 25.0,
+      "icon_url": "/images/items/947.gif"
+    },
+    {
+      "item_id": 6672,
+      "name": "土色碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/6672.gif"
+    }
+  ]
+}

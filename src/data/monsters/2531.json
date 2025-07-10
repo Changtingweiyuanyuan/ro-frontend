@@ -1,0 +1,54 @@
+{
+  "id": 2531,
+  "name": {
+    "zh_tw": "毒袋",
+    "en": "VENOM_BUG"
+  },
+  "image_url": "/images/monsters/2531.gif",
+  "basic_info": {
+    "level": 140,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 340,
+      "max": 340
+    },
+    "magic_attack": {
+      "min": 340,
+      "max": 340
+    },
+    "defense": 200,
+    "magic_defense": 100,
+    "hit_100_percent": 580,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 200,
+      "agi": 200,
+      "vit": 200,
+      "int": 200,
+      "dex": 200,
+      "luk": 200
+    }
+  },
+  "drops": [
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 50.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 7326,
+      "name": "熒光色的液體",
+      "rate": 10.0,
+      "icon_url": "/images/items/7326.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1176,
+  "name": {
+    "zh_tw": "黑蟻",
+    "en": "VITATA"
+  },
+  "image_url": "/images/monsters/1176.gif",
+  "basic_info": {
+    "level": 35,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 756,
+    "attack": {
+      "min": 109,
+      "max": 137
+    },
+    "magic_attack": {
+      "min": 67,
+      "max": 79
+    },
+    "defense": 44,
+    "magic_defense": 12,
+    "hit_100_percent": 247,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 11,
+      "vit": 24,
+      "int": 20,
+      "dex": 21,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 1.75,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 1.0,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.13,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 1.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 955,
+      "name": "昆蟲外殼",
+      "rate": 25.0,
+      "icon_url": "/images/items/955.gif"
+    },
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 0.45,
+      "icon_url": "/images/items/993.gif"
+    },
+    {
+      "item_id": 4053,
+      "name": "黑蟻卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

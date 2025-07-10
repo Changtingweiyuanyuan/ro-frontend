@@ -1,0 +1,90 @@
+{
+  "id": 2015,
+  "name": {
+    "zh_tw": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+    "en": "PINGUICULA_D"
+  },
+  "image_url": "/images/monsters/2015.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 17002,
+    "attack": {
+      "min": 562,
+      "max": 744
+    },
+    "magic_attack": {
+      "min": 760,
+      "max": 1234
+    },
+    "defense": 59,
+    "magic_defense": 35,
+    "hit_100_percent": 370,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 89,
+      "agi": 55,
+      "vit": 55,
+      "int": 95,
+      "dex": 92,
+      "luk": 12
+    }
+  },
+  "drops": [
+    {
+      "item_id": 972,
+      "name": "卡勒波迪藥水",
+      "rate": 0.05,
+      "icon_url": "/images/items/972.gif"
+    },
+    {
+      "item_id": 2148,
+      "name": "玫瑰盾牌[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2148.gif"
+    },
+    {
+      "item_id": 4468,
+      "name": "黑暗捕蟲堇卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6086,
+      "name": "凋謝的花",
+      "rate": 5.0,
+      "icon_url": "/images/items/6086.gif"
+    },
+    {
+      "item_id": 7100,
+      "name": "尖銳的葉子",
+      "rate": 25.0,
+      "icon_url": "/images/items/7100.gif"
+    },
+    {
+      "item_id": 7188,
+      "name": "褐色樹根",
+      "rate": 15.0,
+      "icon_url": "/images/items/7188.gif"
+    },
+    {
+      "item_id": 7198,
+      "name": "巨大葉子",
+      "rate": 10.0,
+      "icon_url": "/images/items/7198.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 7.5,
+      "icon_url": "/images/items/7939.gif"
+    }
+  ]
+}

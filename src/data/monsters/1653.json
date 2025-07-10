@@ -1,0 +1,90 @@
+{
+  "id": 1653,
+  "name": {
+    "zh_tw": "暗●盜賊",
+    "en": "WHIKEBAIN"
+  },
+  "image_url": "/images/monsters/1653.gif",
+  "basic_info": {
+    "level": 132,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 43191,
+    "attack": {
+      "min": 1377,
+      "max": 1943
+    },
+    "magic_attack": {
+      "min": 274,
+      "max": 362
+    },
+    "defense": 114,
+    "magic_defense": 66,
+    "hit_100_percent": 434,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 114,
+      "agi": 91,
+      "vit": 69,
+      "int": 42,
+      "dex": 128,
+      "luk": 55
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1223,
+      "name": "幸運短劍",
+      "rate": 0.01,
+      "icon_url": "/images/items/1223.gif"
+    },
+    {
+      "item_id": 2620,
+      "name": "怪盜戒指",
+      "rate": 0.01,
+      "icon_url": "/images/items/2620.gif"
+    },
+    {
+      "item_id": 4348,
+      "name": "暗●盜賊卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.01,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 10.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 13004,
+      "name": "考爾德短刀[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/13004.gif"
+    },
+    {
+      "item_id": 25127,
+      "name": "寂靜的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25127.gif"
+    },
+    {
+      "item_id": 25128,
+      "name": "微弱的能量碎片",
+      "rate": 2.5,
+      "icon_url": "/images/items/25128.gif"
+    }
+  ]
+}

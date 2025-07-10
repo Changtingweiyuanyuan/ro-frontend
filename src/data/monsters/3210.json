@@ -1,0 +1,84 @@
+{
+  "id": 3210,
+  "name": {
+    "zh_tw": "暗●大法師 / 暗●咒術士",
+    "en": "V_KATRINN"
+  },
+  "image_url": "/images/monsters/3210.gif",
+  "basic_info": {
+    "level": 177,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2040000,
+    "attack": {
+      "min": 1353,
+      "max": 1887
+    },
+    "magic_attack": {
+      "min": 3177,
+      "max": 5577
+    },
+    "defense": 110,
+    "magic_defense": 400,
+    "hit_100_percent": 467,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 110,
+      "agi": 80,
+      "vit": 60,
+      "int": 200,
+      "dex": 210,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4686,
+      "name": "真●大法師卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6817,
+      "name": "魔法師之魂",
+      "rate": 5.0,
+      "icon_url": "/images/items/6817.gif"
+    },
+    {
+      "item_id": 19968,
+      "name": "(時裝)魔力石帽子",
+      "rate": 0.5,
+      "icon_url": "/images/items/19968.gif"
+    },
+    {
+      "item_id": 22687,
+      "name": "邪念碎片",
+      "rate": 6.0,
+      "icon_url": "/images/items/22687.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 4.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 25131,
+      "name": "墮落的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25131.gif"
+    }
+  ]
+}

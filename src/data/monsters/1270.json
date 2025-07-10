@@ -1,0 +1,90 @@
+{
+  "id": 1270,
+  "name": {
+    "zh_tw": "鐘塔守護者",
+    "en": "C_TOWER_MANAGER"
+  },
+  "image_url": "/images/monsters/1270.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 6400,
+    "attack": {
+      "min": 511,
+      "max": 683
+    },
+    "magic_attack": {
+      "min": 164,
+      "max": 206
+    },
+    "defense": 96,
+    "magic_defense": 60,
+    "hit_100_percent": 327,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 80,
+      "agi": 28,
+      "vit": 40,
+      "int": 25,
+      "dex": 88,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 520,
+      "name": "西納雷葉子",
+      "rate": 4.25,
+      "icon_url": "/images/items/520.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 2.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1095,
+      "name": "指針",
+      "rate": 26.68,
+      "icon_url": "/images/items/1095.gif"
+    },
+    {
+      "item_id": 2109,
+      "name": "謊言紀錄本",
+      "rate": 0.01,
+      "icon_url": "/images/items/2109.gif"
+    },
+    {
+      "item_id": 4229,
+      "name": "鐘塔守護者卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7026,
+      "name": "鐘塔之鑰",
+      "rate": 10.0,
+      "icon_url": "/images/items/7026.gif"
+    },
+    {
+      "item_id": 7027,
+      "name": "鐘塔鑰匙",
+      "rate": 10.0,
+      "icon_url": "/images/items/7027.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 26.68,
+      "icon_url": "/images/items/7054.gif"
+    }
+  ]
+}

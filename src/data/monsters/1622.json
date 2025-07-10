@@ -1,0 +1,90 @@
+{
+  "id": 1622,
+  "name": {
+    "zh_tw": "玩偶熊",
+    "en": "TEDDY_BEAR"
+  },
+  "image_url": "/images/monsters/1622.gif",
+  "basic_info": {
+    "level": 91,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 7238,
+    "attack": {
+      "min": 533,
+      "max": 727
+    },
+    "magic_attack": {
+      "min": 154,
+      "max": 192
+    },
+    "defense": 106,
+    "magic_defense": 39,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 57,
+      "agi": 81,
+      "vit": 66,
+      "int": 20,
+      "dex": 82,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 5.0,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 615,
+      "name": "神之金屬錘子",
+      "rate": 1.5,
+      "icon_url": "/images/items/615.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.5,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 2652,
+      "name": "受詛咒的幸運別針",
+      "rate": 0.05,
+      "icon_url": "/images/items/2652.gif"
+    },
+    {
+      "item_id": 4340,
+      "name": "玩偶熊卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5113,
+      "name": "憤怒的嘴",
+      "rate": 0.25,
+      "icon_url": "/images/items/5113.gif"
+    },
+    {
+      "item_id": 7317,
+      "name": "生鏽的螺絲",
+      "rate": 19.0,
+      "icon_url": "/images/items/7317.gif"
+    },
+    {
+      "item_id": 13106,
+      "name": "黃金勒克斯手槍",
+      "rate": 0.03,
+      "icon_url": "/images/items/13106.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2847,
+  "name": {
+    "zh_tw": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+    "en": "C5_DRAINLIAR"
+  },
+  "image_url": "/images/monsters/2847.gif",
+  "basic_info": {
+    "level": 47,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 5810,
+    "attack": {
+      "min": 178,
+      "max": 226
+    },
+    "magic_attack": {
+      "min": 98,
+      "max": 124
+    },
+    "defense": 50,
+    "magic_defense": 15,
+    "hit_100_percent": 285,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 35,
+      "agi": 34,
+      "vit": 24,
+      "int": 22,
+      "dex": 50,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 25.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 725,
+      "name": "大紅寶石",
+      "rate": 0.5,
+      "icon_url": "/images/items/725.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 1.0,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 913,
+      "name": "蝙蝠牙",
+      "rate": 75.0,
+      "icon_url": "/images/items/913.gif"
+    },
+    {
+      "item_id": 1011,
+      "name": "強化武器金屬-級數二",
+      "rate": 1.5,
+      "icon_url": "/images/items/1011.gif"
+    },
+    {
+      "item_id": 4069,
+      "name": "紅蝙蝠卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7006,
+      "name": "紅色蝙蝠翅膀",
+      "rate": 100.0,
+      "icon_url": "/images/items/7006.gif"
+    }
+  ]
+}

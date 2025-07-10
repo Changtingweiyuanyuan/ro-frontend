@@ -1,0 +1,72 @@
+{
+  "id": 2989,
+  "name": {
+    "zh_tw": "暴戾甜餅人 / 禮物包裝負責人",
+    "en": "XM_COOKIE"
+  },
+  "image_url": "/images/monsters/2989.gif",
+  "basic_info": {
+    "level": 149,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 187760,
+    "attack": {
+      "min": 1348,
+      "max": 1926
+    },
+    "magic_attack": {
+      "min": 193,
+      "max": 195
+    },
+    "defense": 48,
+    "magic_defense": 44,
+    "hit_100_percent": 445,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 44,
+      "agi": 88,
+      "vit": 44,
+      "int": 44,
+      "dex": 144,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 530,
+      "name": "拐杖糖",
+      "rate": 5.0,
+      "icon_url": "/images/items/530.gif"
+    },
+    {
+      "item_id": 538,
+      "name": "姜餅",
+      "rate": 5.0,
+      "icon_url": "/images/items/538.gif"
+    },
+    {
+      "item_id": 718,
+      "name": "深紅寶石",
+      "rate": 1.0,
+      "icon_url": "/images/items/718.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 20.0,
+      "icon_url": "/images/items/7001.gif"
+    },
+    {
+      "item_id": 31017,
+      "name": "暴虐甜餅人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/31017.gif"
+    }
+  ]
+}

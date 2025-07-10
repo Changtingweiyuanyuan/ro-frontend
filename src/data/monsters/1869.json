@@ -1,0 +1,72 @@
+{
+  "id": 1869,
+  "name": {
+    "zh_tw": "火焰顱骨 / 火焰骷髏頭",
+    "en": "FLAME_SKULL"
+  },
+  "image_url": "/images/monsters/1869.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 21276,
+    "attack": {
+      "min": 1091,
+      "max": 1521
+    },
+    "magic_attack": {
+      "min": 285,
+      "max": 367
+    },
+    "defense": 93,
+    "magic_defense": 40,
+    "hit_100_percent": 424,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 90,
+      "vit": 60,
+      "int": 70,
+      "dex": 139,
+      "luk": 65
+    }
+  },
+  "drops": [
+    {
+      "item_id": 958,
+      "name": "亡者牙齒",
+      "rate": 30.0,
+      "icon_url": "/images/items/958.gif"
+    },
+    {
+      "item_id": 2425,
+      "name": "黑皮靴",
+      "rate": 0.1,
+      "icon_url": "/images/items/2425.gif"
+    },
+    {
+      "item_id": 4439,
+      "name": "火焰顱骨卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 25.0,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 13170,
+      "name": "優化的來復槍[2]",
+      "rate": 0.1,
+      "icon_url": "/images/items/13170.gif"
+    }
+  ]
+}

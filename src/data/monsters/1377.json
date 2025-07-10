@@ -1,0 +1,90 @@
+{
+  "id": 1377,
+  "name": {
+    "zh_tw": "邪靈魔導士",
+    "en": "ELDER"
+  },
+  "image_url": "/images/monsters/1377.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 7341,
+    "attack": {
+      "min": 446,
+      "max": 590
+    },
+    "magic_attack": {
+      "min": 752,
+      "max": 1234
+    },
+    "defense": 72,
+    "magic_defense": 41,
+    "hit_100_percent": 367,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 63,
+      "vit": 35,
+      "int": 99,
+      "dex": 106,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 0.01,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 1473,
+      "name": "大巫師之杖",
+      "rate": 0.01,
+      "icon_url": "/images/items/1473.gif"
+    },
+    {
+      "item_id": 1564,
+      "name": "大百科全書[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1564.gif"
+    },
+    {
+      "item_id": 4251,
+      "name": "邪靈魔導士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7027,
+      "name": "鐘塔鑰匙",
+      "rate": 15.0,
+      "icon_url": "/images/items/7027.gif"
+    },
+    {
+      "item_id": 7099,
+      "name": "老舊魔法圖",
+      "rate": 20.0,
+      "icon_url": "/images/items/7099.gif"
+    },
+    {
+      "item_id": 7117,
+      "name": "撕裂的魔法書",
+      "rate": 7.5,
+      "icon_url": "/images/items/7117.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 5.0,
+      "icon_url": "/images/items/7939.gif"
+    }
+  ]
+}

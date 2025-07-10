@@ -1,0 +1,90 @@
+{
+  "id": 2629,
+  "name": {
+    "zh_tw": "精英 / 菁英 溫古力安特",
+    "en": "C3_UNGOLIANT"
+  },
+  "image_url": "/images/monsters/2629.gif",
+  "basic_info": {
+    "level": 94,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 135350,
+    "attack": {
+      "min": 1409,
+      "max": 2031
+    },
+    "magic_attack": {
+      "min": 237,
+      "max": 325
+    },
+    "defense": 108,
+    "magic_defense": 28,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 70,
+      "vit": 58,
+      "int": 43,
+      "dex": 110,
+      "luk": 38
+    }
+  },
+  "drops": [
+    {
+      "item_id": 718,
+      "name": "深紅寶石",
+      "rate": 37.5,
+      "icon_url": "/images/items/718.gif"
+    },
+    {
+      "item_id": 1013,
+      "name": "彩色昆蟲外殼",
+      "rate": 25.0,
+      "icon_url": "/images/items/1013.gif"
+    },
+    {
+      "item_id": 1014,
+      "name": "螞蟻下巴",
+      "rate": 87.5,
+      "icon_url": "/images/items/1014.gif"
+    },
+    {
+      "item_id": 2406,
+      "name": "戰士長靴[1]",
+      "rate": 12.5,
+      "icon_url": "/images/items/2406.gif"
+    },
+    {
+      "item_id": 4336,
+      "name": "溫古力安特卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7289,
+      "name": "橄纜石",
+      "rate": 37.5,
+      "icon_url": "/images/items/7289.gif"
+    },
+    {
+      "item_id": 7316,
+      "name": "昆蟲的長腿",
+      "rate": 100.0,
+      "icon_url": "/images/items/7316.gif"
+    },
+    {
+      "item_id": 7326,
+      "name": "熒光色的液體",
+      "rate": 62.5,
+      "icon_url": "/images/items/7326.gif"
+    }
+  ]
+}

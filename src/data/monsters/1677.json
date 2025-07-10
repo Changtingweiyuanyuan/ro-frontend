@@ -1,0 +1,90 @@
+{
+  "id": 1677,
+  "name": {
+    "zh_tw": "綠凡娜圖",
+    "en": "VENATU_2"
+  },
+  "image_url": "/images/monsters/1677.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 14717,
+    "attack": {
+      "min": 945,
+      "max": 1313
+    },
+    "magic_attack": {
+      "min": 249,
+      "max": 315
+    },
+    "defense": 86,
+    "magic_defense": 20,
+    "hit_100_percent": 392,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 99,
+      "agi": 73,
+      "vit": 58,
+      "int": 62,
+      "dex": 137,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.05,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 1.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 4369,
+      "name": "紅凡娜圖卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 1.5,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7317,
+      "name": "生鏽的螺絲",
+      "rate": 10.0,
+      "icon_url": "/images/items/7317.gif"
+    },
+    {
+      "item_id": 7357,
+      "name": "頂飾的碎片",
+      "rate": 2.5,
+      "icon_url": "/images/items/7357.gif"
+    },
+    {
+      "item_id": 12127,
+      "name": "高級的烹飪用具",
+      "rate": 0.5,
+      "icon_url": "/images/items/12127.gif"
+    },
+    {
+      "item_id": 13164,
+      "name": "長身來復槍[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/13164.gif"
+    }
+  ]
+}

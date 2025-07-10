@@ -1,0 +1,90 @@
+{
+  "id": 1297,
+  "name": {
+    "zh_tw": "狂暴木乃伊",
+    "en": "ANCIENT_MUMMY"
+  },
+  "image_url": "/images/monsters/1297.gif",
+  "basic_info": {
+    "level": 114,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 27157,
+    "attack": {
+      "min": 1024,
+      "max": 1418
+    },
+    "magic_attack": {
+      "min": 323,
+      "max": 443
+    },
+    "defense": 93,
+    "magic_defense": 51,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 126,
+      "agi": 57,
+      "vit": 55,
+      "int": 69,
+      "dex": 157,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.75,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.5,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 930,
+      "name": "腐爛繃帶",
+      "rate": 22.07,
+      "icon_url": "/images/items/930.gif"
+    },
+    {
+      "item_id": 934,
+      "name": "亡者遺物",
+      "rate": 9.0,
+      "icon_url": "/images/items/934.gif"
+    },
+    {
+      "item_id": 2611,
+      "name": "銀戒指",
+      "rate": 0.75,
+      "icon_url": "/images/items/2611.gif"
+    },
+    {
+      "item_id": 2624,
+      "name": "防禦手套[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2624.gif"
+    },
+    {
+      "item_id": 4248,
+      "name": "狂暴木乃伊卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12735,
+      "name": "古代符文原石",
+      "rate": 0.05,
+      "icon_url": "/images/items/12735.gif"
+    }
+  ]
+}

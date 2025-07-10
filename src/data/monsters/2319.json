@@ -1,0 +1,84 @@
+{
+  "id": 2319,
+  "name": {
+    "zh_tw": "寶箱巨鱷",
+    "en": "BUWAYA"
+  },
+  "image_url": "/images/monsters/2319.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "龍",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 4090365,
+    "attack": {
+      "min": 3193,
+      "max": 4639
+    },
+    "magic_attack": {
+      "min": 2832,
+      "max": 4934
+    },
+    "defense": 201,
+    "magic_defense": 78,
+    "hit_100_percent": 565,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 151,
+      "agi": 201,
+      "vit": 130,
+      "int": 231,
+      "dex": 310,
+      "luk": 66
+    }
+  },
+  "drops": [
+    {
+      "item_id": 2169,
+      "name": "卡拉沙矩盾",
+      "rate": 1.0,
+      "icon_url": "/images/items/2169.gif"
+    },
+    {
+      "item_id": 2590,
+      "name": "寶箱巨鱷披肩",
+      "rate": 10.0,
+      "icon_url": "/images/items/2590.gif"
+    },
+    {
+      "item_id": 4592,
+      "name": "寶箱巨鱷卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6499,
+      "name": "古代的咒符",
+      "rate": 20.0,
+      "icon_url": "/images/items/6499.gif"
+    },
+    {
+      "item_id": 6499,
+      "name": "古代的咒符",
+      "rate": 100.0,
+      "icon_url": "/images/items/6499.gif"
+    },
+    {
+      "item_id": 6518,
+      "name": "寶箱巨鱷玩偶",
+      "rate": 20.0,
+      "icon_url": "/images/items/6518.gif"
+    },
+    {
+      "item_id": 6525,
+      "name": "寶箱巨鱷靈魂碎片",
+      "rate": 20.0,
+      "icon_url": "/images/items/6525.gif"
+    }
+  ]
+}

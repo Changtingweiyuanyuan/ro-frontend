@@ -1,0 +1,78 @@
+{
+  "id": 3247,
+  "name": {
+    "zh_tw": "綠惡靈之霧",
+    "en": "CENERE_G"
+  },
+  "image_url": "/images/monsters/3247.gif",
+  "basic_info": {
+    "level": 150,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 140088,
+    "attack": {
+      "min": 1737,
+      "max": 2497
+    },
+    "magic_attack": {
+      "min": 264,
+      "max": 330
+    },
+    "defense": 91,
+    "magic_defense": 81,
+    "hit_100_percent": 407,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 48,
+      "vit": 40,
+      "int": 37,
+      "dex": 100,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 6561,
+      "name": "塵埃",
+      "rate": 50.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6561.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7001.gif"
+    },
+    {
+      "item_id": 7320,
+      "name": "粉塵",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7320.gif"
+    },
+    {
+      "item_id": 7322,
+      "name": "有毒瓦斯",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7322.gif"
+    },
+    {
+      "item_id": 12815,
+      "name": "世界樹之塵",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12815.gif"
+    },
+    {
+      "item_id": 27014,
+      "name": "綠惡靈之霧卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/27014.gif"
+    }
+  ]
+}

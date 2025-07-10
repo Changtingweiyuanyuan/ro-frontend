@@ -1,0 +1,78 @@
+{
+  "id": 2132,
+  "name": {
+    "zh_tw": "食人蜘蛛",
+    "en": "POM_SPIDER"
+  },
+  "image_url": "/images/monsters/2132.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 122110,
+    "attack": {
+      "min": 1059,
+      "max": 1439
+    },
+    "magic_attack": {
+      "min": 383,
+      "max": 513
+    },
+    "defense": 240,
+    "magic_defense": 115,
+    "hit_100_percent": 450,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 156,
+      "agi": 85,
+      "vit": 178,
+      "int": 88,
+      "dex": 209,
+      "luk": 102
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1042,
+      "name": "昆蟲後腳",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1042.gif"
+    },
+    {
+      "item_id": 1654,
+      "name": "精神手杖[1]",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1654.gif"
+    },
+    {
+      "item_id": 4514,
+      "name": "食人蜘蛛卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 11520,
+      "name": "穆拉柑橘",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/11520.gif"
+    },
+    {
+      "item_id": 12573,
+      "name": "水果禮盒",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12573.gif"
+    },
+    {
+      "item_id": 13431,
+      "name": "鉻合金單手劍",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/13431.gif"
+    }
+  ]
+}

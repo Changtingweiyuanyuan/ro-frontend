@@ -1,0 +1,90 @@
+{
+  "id": 1503,
+  "name": {
+    "zh_tw": "鬼娃樹",
+    "en": "GIBBET"
+  },
+  "image_url": "/images/monsters/1503.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 12999,
+    "attack": {
+      "min": 765,
+      "max": 1045
+    },
+    "magic_attack": {
+      "min": 219,
+      "max": 271
+    },
+    "defense": 116,
+    "magic_defense": 45,
+    "hit_100_percent": 368,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 103,
+      "agi": 56,
+      "vit": 62,
+      "int": 55,
+      "dex": 73,
+      "luk": 37
+    }
+  },
+  "drops": [
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 0.05,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 0.5,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 724,
+      "name": "詛咒紅寶石",
+      "rate": 1.5,
+      "icon_url": "/images/items/724.gif"
+    },
+    {
+      "item_id": 4278,
+      "name": "鬼娃樹卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7212,
+      "name": "吊頸娃娃",
+      "rate": 9.0,
+      "icon_url": "/images/items/7212.gif"
+    },
+    {
+      "item_id": 7218,
+      "name": "腐爛的繩子",
+      "rate": 26.68,
+      "icon_url": "/images/items/7218.gif"
+    },
+    {
+      "item_id": 7222,
+      "name": "原木塊",
+      "rate": 20.37,
+      "icon_url": "/images/items/7222.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 0.5,
+      "icon_url": "/images/items/7939.gif"
+    }
+  ]
+}

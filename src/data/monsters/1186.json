@@ -1,0 +1,72 @@
+{
+  "id": 1186,
+  "name": {
+    "zh_tw": "巨大白幽靈",
+    "en": "WHISPER_BOSS"
+  },
+  "image_url": "/images/monsters/1186.gif",
+  "basic_info": {
+    "level": 66,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2570,
+    "attack": {
+      "min": 342,
+      "max": 462
+    },
+    "magic_attack": {
+      "min": 158,
+      "max": 194
+    },
+    "defense": 94,
+    "magic_defense": 45,
+    "hit_100_percent": 351,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 40,
+      "agi": 79,
+      "vit": 44,
+      "int": 51,
+      "dex": 74,
+      "luk": 31
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 0.75,
+      "icon_url": "/images/items/1001.gif"
+    },
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 26.68,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 2282,
+      "name": "光環",
+      "rate": 0.01,
+      "icon_url": "/images/items/2282.gif"
+    },
+    {
+      "item_id": 2333,
+      "name": "祕銀之衣[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2333.gif"
+    },
+    {
+      "item_id": 4303,
+      "name": "巨大白幽靈卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

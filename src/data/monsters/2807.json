@@ -1,0 +1,84 @@
+{
+  "id": 2807,
+  "name": {
+    "zh_tw": "精英鳥人哈比 / 憤怒鳥人哈比",
+    "en": "C4_HARPY"
+  },
+  "image_url": "/images/monsters/2807.gif",
+  "basic_info": {
+    "level": 83,
+    "race": "惡魔",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22115,
+    "attack": {
+      "min": 480,
+      "max": 644
+    },
+    "magic_attack": {
+      "min": 142,
+      "max": 168
+    },
+    "defense": 69,
+    "magic_defense": 44,
+    "hit_100_percent": 335,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 50,
+      "vit": 50,
+      "int": 31,
+      "dex": 125,
+      "luk": 12
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 37.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/508.gif"
+    },
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/508.gif"
+    },
+    {
+      "item_id": 709,
+      "name": "迷幻藥",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/709.gif"
+    },
+    {
+      "item_id": 1820,
+      "name": "雷霆拳套[3]",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1820.gif"
+    },
+    {
+      "item_id": 4325,
+      "name": "鳥人哈比卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7115,
+      "name": "哈比的羽毛",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7115.gif"
+    },
+    {
+      "item_id": 7116,
+      "name": "哈比的指甲",
+      "rate": 62.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7116.gif"
+    }
+  ]
+}

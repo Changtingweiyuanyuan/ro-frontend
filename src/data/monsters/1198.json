@@ -1,0 +1,90 @@
+{
+  "id": 1198,
+  "name": {
+    "zh_tw": "暗黑祭司",
+    "en": "DARK_PRIEST"
+  },
+  "image_url": "/images/monsters/1198.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 12090,
+    "attack": {
+      "min": 472,
+      "max": 658
+    },
+    "magic_attack": {
+      "min": 368,
+      "max": 524
+    },
+    "defense": 56,
+    "magic_defense": 30,
+    "hit_100_percent": 366,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 5,
+      "agi": 60,
+      "vit": 41,
+      "int": 89,
+      "dex": 94,
+      "luk": 42
+    }
+  },
+  "drops": [
+    {
+      "item_id": 505,
+      "name": "藍色藥水",
+      "rate": 0.5,
+      "icon_url": "/images/items/505.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 2.25,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 1009,
+      "name": "神之手",
+      "rate": 0.01,
+      "icon_url": "/images/items/1009.gif"
+    },
+    {
+      "item_id": 1557,
+      "name": "預言錄",
+      "rate": 0.03,
+      "icon_url": "/images/items/1557.gif"
+    },
+    {
+      "item_id": 2319,
+      "name": "祕衣 惡德[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2319.gif"
+    },
+    {
+      "item_id": 2608,
+      "name": "幸運珠鍊",
+      "rate": 0.15,
+      "icon_url": "/images/items/2608.gif"
+    },
+    {
+      "item_id": 4171,
+      "name": "暗黑祭司卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 15.0,
+      "icon_url": "/images/items/7005.gif"
+    }
+  ]
+}

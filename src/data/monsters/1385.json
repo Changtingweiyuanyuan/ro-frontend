@@ -1,0 +1,90 @@
+{
+  "id": 1385,
+  "name": {
+    "zh_tw": "七彩地龍",
+    "en": "DELETER_"
+  },
+  "image_url": "/images/monsters/1385.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "龍",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 733,
+      "max": 999
+    },
+    "magic_attack": {
+      "min": 324,
+      "max": 452
+    },
+    "defense": 114,
+    "magic_defense": 53,
+    "hit_100_percent": 384,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 98,
+      "agi": 65,
+      "vit": 49,
+      "int": 72,
+      "dex": 68,
+      "luk": 73
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1035,
+      "name": "龍牙",
+      "rate": 13.0,
+      "icon_url": "/images/items/1035.gif"
+    },
+    {
+      "item_id": 1036,
+      "name": "龍鱗",
+      "rate": 10.0,
+      "icon_url": "/images/items/1036.gif"
+    },
+    {
+      "item_id": 1037,
+      "name": "龍尾",
+      "rate": 10.0,
+      "icon_url": "/images/items/1037.gif"
+    },
+    {
+      "item_id": 1695,
+      "name": "精美狐尾草模型[2]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1695.gif"
+    },
+    {
+      "item_id": 2114,
+      "name": "石制圓盾[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2114.gif"
+    },
+    {
+      "item_id": 4279,
+      "name": "七彩地龍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7123,
+      "name": "龍皮",
+      "rate": 10.0,
+      "icon_url": "/images/items/7123.gif"
+    },
+    {
+      "item_id": 22083,
+      "name": "喵族專屬靴子[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/22083.gif"
+    }
+  ]
+}

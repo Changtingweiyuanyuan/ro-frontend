@@ -1,0 +1,41 @@
+{
+  "id": 3515,
+  "name": {
+    "zh_tw": "冰封之心",
+    "en": "POPE_MD_E_ICICLE"
+  },
+  "image_url": "/images/monsters/3515.gif",
+  "basic_info": {
+    "level": 80,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1012,
+    "attack": {
+      "min": 408,
+      "max": 524
+    },
+    "magic_attack": {
+      "min": 81,
+      "max": 83
+    },
+    "defense": 2,
+    "magic_defense": 10,
+    "hit_100_percent": 281,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 99,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 50,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3439,
+  "name": {
+    "zh_tw": "獸人戰士長",
+    "en": "MIN_G_HIGH_ORC"
+  },
+  "image_url": "/images/monsters/3439.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 100000,
+    "attack": {
+      "min": 731,
+      "max": 1009
+    },
+    "magic_attack": {
+      "min": 799,
+      "max": 1373
+    },
+    "defense": 101,
+    "magic_defense": 45,
+    "hit_100_percent": 320,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 75,
+      "agi": 16,
+      "vit": 40,
+      "int": 31,
+      "dex": 83,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1110,
+  "name": {
+    "zh_tw": "土人",
+    "en": "DOKEBI"
+  },
+  "image_url": "/images/monsters/1110.gif",
+  "basic_info": {
+    "level": 68,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2820,
+    "attack": {
+      "min": 386,
+      "max": 520
+    },
+    "magic_attack": {
+      "min": 109,
+      "max": 127
+    },
+    "defense": 85,
+    "magic_defense": 20,
+    "hit_100_percent": 329,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 52,
+      "agi": 56,
+      "vit": 35,
+      "int": 20,
+      "dex": 66,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.75,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 969,
+      "name": "黃金",
+      "rate": 0.01,
+      "icon_url": "/images/items/969.gif"
+    },
+    {
+      "item_id": 1005,
+      "name": "高級鐵砧",
+      "rate": 0.03,
+      "icon_url": "/images/items/1005.gif"
+    },
+    {
+      "item_id": 1021,
+      "name": "土人之角",
+      "rate": 45.0,
+      "icon_url": "/images/items/1021.gif"
+    },
+    {
+      "item_id": 1517,
+      "name": "尖刃鐵鎚[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/1517.gif"
+    },
+    {
+      "item_id": 1613,
+      "name": "巫杖 魂咬",
+      "rate": 0.01,
+      "icon_url": "/images/items/1613.gif"
+    },
+    {
+      "item_id": 4098,
+      "name": "土人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 10038,
+      "name": "護角",
+      "rate": 0.05,
+      "icon_url": "/images/items/10038.gif"
+    }
+  ]
+}

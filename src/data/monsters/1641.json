@@ -1,0 +1,54 @@
+{
+  "id": 1641,
+  "name": {
+    "zh_tw": "十字刺客 艾勒梅斯",
+    "en": "G_EREMES"
+  },
+  "image_url": "/images/monsters/1641.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1230000,
+    "attack": {
+      "min": 5237,
+      "max": 7671
+    },
+    "magic_attack": {
+      "min": 1207,
+      "max": 2035
+    },
+    "defense": 445,
+    "magic_defense": 98,
+    "hit_100_percent": 710,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 211,
+      "agi": 338,
+      "vit": 114,
+      "int": 83,
+      "dex": 338,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/6223.gif"
+    }
+  ]
+}

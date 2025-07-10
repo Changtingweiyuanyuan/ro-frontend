@@ -1,0 +1,78 @@
+{
+  "id": 3736,
+  "name": {
+    "zh_tw": "草寇",
+    "en": "散弹枪"
+  },
+  "image_url": "/images/monsters/3736.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 11819,
+    "attack": {
+      "min": 561,
+      "max": 765
+    },
+    "magic_attack": {
+      "min": 184,
+      "max": 238
+    },
+    "defense": 98,
+    "magic_defense": 25,
+    "hit_100_percent": 370,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 51,
+      "agi": 58,
+      "vit": 49,
+      "int": 20,
+      "dex": 86,
+      "luk": 49
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 10.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 12337,
+      "name": "烤香腸",
+      "rate": 0.1,
+      "icon_url": "/images/items/12337.gif"
+    },
+    {
+      "item_id": 13169,
+      "name": "THUNDER-P[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/13169.gif"
+    },
+    {
+      "item_id": 18145,
+      "name": "巡衛隊天弓[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/18145.gif"
+    },
+    {
+      "item_id": 25279,
+      "name": "粗糙子彈",
+      "rate": 25.0,
+      "icon_url": "/images/items/25279.gif"
+    },
+    {
+      "item_id": 27170,
+      "name": "霰彈槍草寇卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27170.gif"
+    }
+  ]
+}

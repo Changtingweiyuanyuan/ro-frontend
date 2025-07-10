@@ -1,0 +1,60 @@
+{
+  "id": 2958,
+  "name": {
+    "zh_tw": "往事只能回味 / 致命的日子",
+    "en": "FATAL_DAYS"
+  },
+  "image_url": "/images/monsters/2958.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 24240,
+    "attack": {
+      "min": 1025,
+      "max": 1429
+    },
+    "magic_attack": {
+      "min": 205,
+      "max": 207
+    },
+    "defense": 72,
+    "magic_defense": 15,
+    "hit_100_percent": 398,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 71,
+      "vit": 63,
+      "int": 85,
+      "dex": 115,
+      "luk": 37
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1038,
+      "name": "小惡魔角",
+      "rate": 25.0,
+      "icon_url": "/images/items/1038.gif"
+    },
+    {
+      "item_id": 1050,
+      "name": "血管",
+      "rate": 25.0,
+      "icon_url": "/images/items/1050.gif"
+    },
+    {
+      "item_id": 6672,
+      "name": "土色碎片",
+      "rate": 15.0,
+      "icon_url": "/images/items/6672.gif"
+    }
+  ]
+}

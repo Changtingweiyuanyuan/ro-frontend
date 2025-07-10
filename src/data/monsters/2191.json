@@ -1,0 +1,41 @@
+{
+  "id": 2191,
+  "name": {
+    "zh_tw": "海草",
+    "en": "MD_SEAWEED"
+  },
+  "image_url": "/images/monsters/2191.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 100000,
+    "attack": {
+      "min": 101,
+      "max": 103
+    },
+    "magic_attack": {
+      "min": 101,
+      "max": 103
+    },
+    "defense": 1,
+    "magic_defense": 1,
+    "hit_100_percent": 301,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

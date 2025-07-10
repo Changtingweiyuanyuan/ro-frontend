@@ -1,0 +1,72 @@
+{
+  "id": 1378,
+  "name": {
+    "zh_tw": "天邪鬼",
+    "en": "DEMON_PUNGUS"
+  },
+  "image_url": "/images/monsters/1378.gif",
+  "basic_info": {
+    "level": 91,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 6466,
+    "attack": {
+      "min": 598,
+      "max": 822
+    },
+    "magic_attack": {
+      "min": 174,
+      "max": 214
+    },
+    "defense": 80,
+    "magic_defense": 52,
+    "hit_100_percent": 360,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 63,
+      "agi": 61,
+      "vit": 30,
+      "int": 38,
+      "dex": 95,
+      "luk": 43
+    }
+  },
+  "drops": [
+    {
+      "item_id": 715,
+      "name": "黃色魔力礦石",
+      "rate": 19.4,
+      "icon_url": "/images/items/715.gif"
+    },
+    {
+      "item_id": 1061,
+      "name": "魔女之星沙",
+      "rate": 25.0,
+      "icon_url": "/images/items/1061.gif"
+    },
+    {
+      "item_id": 4173,
+      "name": "天邪鬼卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 22.8,
+      "icon_url": "/images/items/7001.gif"
+    },
+    {
+      "item_id": 7119,
+      "name": "菌絲",
+      "rate": 20.37,
+      "icon_url": "/images/items/7119.gif"
+    }
+  ]
+}

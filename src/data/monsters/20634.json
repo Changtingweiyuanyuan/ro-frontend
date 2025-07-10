@@ -1,0 +1,84 @@
+{
+  "id": 20634,
+  "name": {
+    "zh_tw": "故障的搓澡師",
+    "en": "EP17_2_BETA_CLEANER_B"
+  },
+  "image_url": "/images/monsters/20634.gif",
+  "basic_info": {
+    "level": 144,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 150304,
+    "attack": {
+      "min": 1961,
+      "max": 2811
+    },
+    "magic_attack": {
+      "min": 830,
+      "max": 1344
+    },
+    "defense": 288,
+    "magic_defense": 83,
+    "hit_100_percent": 447,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 89,
+      "vit": 48,
+      "int": 89,
+      "dex": 109,
+      "luk": 74
+    }
+  },
+  "drops": [
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 5.0,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 1.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 7507,
+      "name": "堅固的鐵片",
+      "rate": 3.0,
+      "icon_url": "/images/items/7507.gif"
+    },
+    {
+      "item_id": 7512,
+      "name": "燒焦的部品碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/7512.gif"
+    },
+    {
+      "item_id": 7512,
+      "name": "燒焦的部品碎片",
+      "rate": 0.5,
+      "icon_url": "/images/items/7512.gif"
+    },
+    {
+      "item_id": 300101,
+      "name": "故障的搓澡師卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300101.gif"
+    },
+    {
+      "item_id": 650003,
+      "name": "雷士大齒輪飛鏢[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/650003.gif"
+    }
+  ]
+}

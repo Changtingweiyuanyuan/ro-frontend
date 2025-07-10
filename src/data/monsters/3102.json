@@ -1,0 +1,41 @@
+{
+  "id": 3102,
+  "name": {
+    "zh_tw": "生命的瑪娜",
+    "en": "MM_MANA_RED"
+  },
+  "image_url": "/images/monsters/3102.gif",
+  "basic_info": {
+    "level": 1,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 30,
+    "attack": {
+      "min": 2,
+      "max": 4
+    },
+    "magic_attack": {
+      "min": 2,
+      "max": 4
+    },
+    "defense": 1,
+    "magic_defense": 1,
+    "hit_100_percent": 202,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

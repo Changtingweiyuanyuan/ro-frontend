@@ -1,0 +1,90 @@
+{
+  "id": 1311,
+  "name": {
+    "zh_tw": "狂暴野豬",
+    "en": "GULLINBURSTI"
+  },
+  "image_url": "/images/monsters/1311.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 25098,
+    "attack": {
+      "min": 1030,
+      "max": 1442
+    },
+    "magic_attack": {
+      "min": 258,
+      "max": 348
+    },
+    "defense": 108,
+    "magic_defense": 43,
+    "hit_100_percent": 377,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 54,
+      "vit": 82,
+      "int": 35,
+      "dex": 76,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 514,
+      "name": "葡萄",
+      "rate": 1.45,
+      "icon_url": "/images/items/514.gif"
+    },
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 0.08,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 702,
+      "name": "家畜血",
+      "rate": 0.03,
+      "icon_url": "/images/items/702.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 0.8,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 1028,
+      "name": "野豬毛",
+      "rate": 17.5,
+      "icon_url": "/images/items/1028.gif"
+    },
+    {
+      "item_id": 2276,
+      "name": "大眼睛眼鏡",
+      "rate": 0.01,
+      "icon_url": "/images/items/2276.gif"
+    },
+    {
+      "item_id": 2627,
+      "name": "皮帶[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2627.gif"
+    },
+    {
+      "item_id": 4164,
+      "name": "狂暴野豬卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

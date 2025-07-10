@@ -1,0 +1,90 @@
+{
+  "id": 2603,
+  "name": {
+    "zh_tw": "精英殭屍屠戮者 / 迅捷屠殺腐屍",
+    "en": "C1_ZOMBIE_SLAUGHTER"
+  },
+  "image_url": "/images/monsters/2603.gif",
+  "basic_info": {
+    "level": 124,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 202200,
+    "attack": {
+      "min": 1383,
+      "max": 1955
+    },
+    "magic_attack": {
+      "min": 218,
+      "max": 290
+    },
+    "defense": 100,
+    "magic_defense": 45,
+    "hit_100_percent": 386,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 117,
+      "agi": 58,
+      "vit": 82,
+      "int": 13,
+      "dex": 136,
+      "luk": 21
+    }
+  },
+  "drops": [
+    {
+      "item_id": 934,
+      "name": "亡者遺物",
+      "rate": 37.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/934.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+    },
+    {
+      "item_id": 2886,
+      "name": "薩巴斯的指環",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2886.gif"
+    },
+    {
+      "item_id": 4435,
+      "name": "殭屍屠戮者卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6223.gif"
+    },
+    {
+      "item_id": 7752,
+      "name": "抖落的骷髏",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7752.gif"
+    },
+    {
+      "item_id": 7753,
+      "name": "斷裂的農器具",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7753.gif"
+    },
+    {
+      "item_id": 13404,
+      "name": "鉑金彎刀[1]",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/13404.gif"
+    }
+  ]
+}

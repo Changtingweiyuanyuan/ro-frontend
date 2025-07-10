@@ -1,0 +1,90 @@
+{
+  "id": 20372,
+  "name": {
+    "zh_tw": "堅硬火焰妖",
+    "en": "BLAZZER_H"
+  },
+  "image_url": "/images/monsters/20372.gif",
+  "basic_info": {
+    "level": 178,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1218064,
+    "attack": {
+      "min": 2001,
+      "max": 2865
+    },
+    "magic_attack": {
+      "min": 1397,
+      "max": 2331
+    },
+    "defense": 318,
+    "magic_defense": 56,
+    "hit_100_percent": 487,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 96,
+      "vit": 73,
+      "int": 131,
+      "dex": 131,
+      "luk": 67
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 7.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 7097,
+      "name": "燃燒的心臟",
+      "rate": 20.0,
+      "icon_url": "/images/items/7097.gif"
+    },
+    {
+      "item_id": 7098,
+      "name": "火種",
+      "rate": 12.0,
+      "icon_url": "/images/items/7098.gif"
+    },
+    {
+      "item_id": 15379,
+      "name": "熔岩獸皮外套[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/15379.gif"
+    },
+    {
+      "item_id": 22200,
+      "name": "熔岩獸皮短靴[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/22200.gif"
+    },
+    {
+      "item_id": 23815,
+      "name": "熔岩精華",
+      "rate": 0.05,
+      "icon_url": "/images/items/23815.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 0.8,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 27353,
+      "name": "堅硬火焰妖卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27353.gif"
+    }
+  ]
+}

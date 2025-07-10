@@ -1,0 +1,78 @@
+{
+  "id": 2472,
+  "name": {
+    "zh_tw": "受詛咒騎士 / 血腥騎士",
+    "en": "MG_BLOODY_KNIGHT"
+  },
+  "image_url": "/images/monsters/2472.gif",
+  "basic_info": {
+    "level": 143,
+    "race": "不死",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 246751,
+    "attack": {
+      "min": 1779,
+      "max": 2533
+    },
+    "magic_attack": {
+      "min": 2534,
+      "max": 4454
+    },
+    "defense": 122,
+    "magic_defense": 300,
+    "hit_100_percent": 407,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 132,
+      "agi": 55,
+      "vit": 89,
+      "int": 151,
+      "dex": 137,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1157,
+      "name": "雙手巨劍[1]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1157.gif"
+    },
+    {
+      "item_id": 1160,
+      "name": "雙手重劍[1]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1160.gif"
+    },
+    {
+      "item_id": 6608,
+      "name": "凝固的魔力",
+      "rate": 0.5,
+      "icon_url": "/images/items/6608.gif"
+    },
+    {
+      "item_id": 6609,
+      "name": "古城亡者的指甲",
+      "rate": 3.0,
+      "icon_url": "/images/items/6609.gif"
+    },
+    {
+      "item_id": 6610,
+      "name": "古城亡者的牙齒",
+      "rate": 2.0,
+      "icon_url": "/images/items/6610.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 50.0,
+      "icon_url": "/images/items/7054.gif"
+    }
+  ]
+}

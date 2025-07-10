@@ -1,0 +1,90 @@
+{
+  "id": 3228,
+  "name": {
+    "zh_tw": "暗●元素使 / 暗●妖術師",
+    "en": "V_CELIA"
+  },
+  "image_url": "/images/monsters/3228.gif",
+  "basic_info": {
+    "level": 178,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2295000,
+    "attack": {
+      "min": 1918,
+      "max": 2718
+    },
+    "magic_attack": {
+      "min": 2661,
+      "max": 4661
+    },
+    "defense": 110,
+    "magic_defense": 800,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 140,
+      "agi": 100,
+      "vit": 60,
+      "int": 150,
+      "dex": 120,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4692,
+      "name": "真●元素使卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6817,
+      "name": "魔法師之魂",
+      "rate": 5.0,
+      "icon_url": "/images/items/6817.gif"
+    },
+    {
+      "item_id": 19970,
+      "name": "(時裝)徐風之耳語",
+      "rate": 0.5,
+      "icon_url": "/images/items/19970.gif"
+    },
+    {
+      "item_id": 22679,
+      "name": "死亡之櫃",
+      "rate": 0.1,
+      "icon_url": "/images/items/22679.gif"
+    },
+    {
+      "item_id": 22687,
+      "name": "邪念碎片",
+      "rate": 6.0,
+      "icon_url": "/images/items/22687.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 4.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 25131,
+      "name": "墮落的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25131.gif"
+    }
+  ]
+}

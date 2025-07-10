@@ -1,0 +1,84 @@
+{
+  "id": 20645,
+  "name": {
+    "zh_tw": "熱池變異魚",
+    "en": "EP17_2_SWORD_FISH"
+  },
+  "image_url": "/images/monsters/20645.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 133151,
+    "attack": {
+      "min": 1677,
+      "max": 2395
+    },
+    "magic_attack": {
+      "min": 830,
+      "max": 1344
+    },
+    "defense": 414,
+    "magic_defense": 81,
+    "hit_100_percent": 461,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 104,
+      "agi": 109,
+      "vit": 92,
+      "int": 93,
+      "dex": 101,
+      "luk": 70
+    }
+  },
+  "drops": [
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 0.03,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 9.5,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 956,
+      "name": "鰓刺",
+      "rate": 25.0,
+      "icon_url": "/images/items/956.gif"
+    },
+    {
+      "item_id": 1023,
+      "name": "魚尾",
+      "rate": 25.0,
+      "icon_url": "/images/items/1023.gif"
+    },
+    {
+      "item_id": 2257,
+      "name": "獸角頭飾",
+      "rate": 0.01,
+      "icon_url": "/images/items/2257.gif"
+    },
+    {
+      "item_id": 300119,
+      "name": "熱池異變魚卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300119.gif"
+    },
+    {
+      "item_id": 590006,
+      "name": "恩比聖光棒[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/590006.gif"
+    }
+  ]
+}

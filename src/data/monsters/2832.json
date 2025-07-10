@@ -1,0 +1,90 @@
+{
+  "id": 2832,
+  "name": {
+    "zh_tw": "精英紅貝勒斯 / 憤怒綠貝勒斯",
+    "en": "C4_FERUS_"
+  },
+  "image_url": "/images/monsters/2832.gif",
+  "basic_info": {
+    "level": 126,
+    "race": "龍",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 195270,
+    "attack": {
+      "min": 1085,
+      "max": 1521
+    },
+    "magic_attack": {
+      "min": 272,
+      "max": 346
+    },
+    "defense": 111,
+    "magic_defense": 33,
+    "hit_100_percent": 410,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 74,
+      "vit": 57,
+      "int": 61,
+      "dex": 87,
+      "luk": 51
+    }
+  },
+  "drops": [
+    {
+      "item_id": 579,
+      "name": "美味的魚",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/579.gif"
+    },
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/997.gif"
+    },
+    {
+      "item_id": 1035,
+      "name": "龍牙",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1035.gif"
+    },
+    {
+      "item_id": 1036,
+      "name": "龍鱗",
+      "rate": 89.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1036.gif"
+    },
+    {
+      "item_id": 2891,
+      "name": "黑翼胸針",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2891.gif"
+    },
+    {
+      "item_id": 4381,
+      "name": "綠貝勒斯卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7445,
+      "name": "綠色龍珠",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7445.gif"
+    },
+    {
+      "item_id": 7445,
+      "name": "綠色龍珠",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7445.gif"
+    }
+  ]
+}

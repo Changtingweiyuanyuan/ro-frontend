@@ -1,0 +1,90 @@
+{
+  "id": 1127,
+  "name": {
+    "zh_tw": "蚯蚓",
+    "en": "HODE"
+  },
+  "image_url": "/images/monsters/1127.gif",
+  "basic_info": {
+    "level": 63,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2676,
+    "attack": {
+      "min": 267,
+      "max": 339
+    },
+    "magic_attack": {
+      "min": 99,
+      "max": 127
+    },
+    "defense": 91,
+    "magic_defense": 24,
+    "hit_100_percent": 287,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 16,
+      "vit": 42,
+      "int": 5,
+      "dex": 32,
+      "luk": 40
+    }
+  },
+  "drops": [
+    {
+      "item_id": 632,
+      "name": "營養蚯蚓",
+      "rate": 0.1,
+      "icon_url": "/images/items/632.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.4,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 15.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 0.6,
+      "icon_url": "/images/items/993.gif"
+    },
+    {
+      "item_id": 1055,
+      "name": "蚯蚓皮",
+      "rate": 45.0,
+      "icon_url": "/images/items/1055.gif"
+    },
+    {
+      "item_id": 1147,
+      "name": "湯恩劍[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1147.gif"
+    },
+    {
+      "item_id": 4081,
+      "name": "蚯蚓卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7021,
+      "name": "盲人之證",
+      "rate": 0.01,
+      "icon_url": "/images/items/7021.gif"
+    }
+  ]
+}

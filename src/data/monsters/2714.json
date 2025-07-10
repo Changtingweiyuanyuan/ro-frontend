@@ -1,0 +1,90 @@
+{
+  "id": 2714,
+  "name": {
+    "zh_tw": "精英 / 迅捷 畢帝特地龍",
+    "en": "C1_PETIT"
+  },
+  "image_url": "/images/monsters/2714.gif",
+  "basic_info": {
+    "level": 86,
+    "race": "龍",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 28995,
+    "attack": {
+      "min": 449,
+      "max": 603
+    },
+    "magic_attack": {
+      "min": 169,
+      "max": 209
+    },
+    "defense": 99,
+    "magic_defense": 49,
+    "hit_100_percent": 322,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 32,
+      "vit": 38,
+      "int": 37,
+      "dex": 65,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 25.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 606,
+      "name": "蘆薈汁液",
+      "rate": 0.4,
+      "icon_url": "/images/items/606.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 3.5,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 1035,
+      "name": "龍牙",
+      "rate": 100.0,
+      "icon_url": "/images/items/1035.gif"
+    },
+    {
+      "item_id": 1037,
+      "name": "龍尾",
+      "rate": 7.5,
+      "icon_url": "/images/items/1037.gif"
+    },
+    {
+      "item_id": 4118,
+      "name": "畢帝特地龍卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6260,
+      "name": "畢帝特龍的尾巴",
+      "rate": 2.5,
+      "icon_url": "/images/items/6260.gif"
+    },
+    {
+      "item_id": 16040,
+      "name": "緋紅色鐵鎚[2]",
+      "rate": 2.5,
+      "icon_url": "/images/items/16040.gif"
+    }
+  ]
+}

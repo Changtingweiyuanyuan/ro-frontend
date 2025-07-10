@@ -1,0 +1,90 @@
+{
+  "id": 1282,
+  "name": {
+    "zh_tw": "犬妖弓箭手",
+    "en": "KOBOLD_ARCHER"
+  },
+  "image_url": "/images/monsters/1282.gif",
+  "basic_info": {
+    "level": 108,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 11053,
+    "attack": {
+      "min": 816,
+      "max": 1122
+    },
+    "magic_attack": {
+      "min": 161,
+      "max": 181
+    },
+    "defense": 84,
+    "magic_defense": 5,
+    "hit_100_percent": 352,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 99,
+      "agi": 39,
+      "vit": 48,
+      "int": 30,
+      "dex": 124,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.4,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 1.25,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 0.3,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1034,
+      "name": "犬妖的毛",
+      "rate": 24.25,
+      "icon_url": "/images/items/1034.gif"
+    },
+    {
+      "item_id": 1711,
+      "name": "十字弓[3]",
+      "rate": 0.03,
+      "icon_url": "/images/items/1711.gif"
+    },
+    {
+      "item_id": 1763,
+      "name": "毒箭矢",
+      "rate": 10.0,
+      "icon_url": "/images/items/1763.gif"
+    },
+    {
+      "item_id": 4292,
+      "name": "犬妖弓箭手卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5118,
+      "name": "小狗發圈",
+      "rate": 0.25,
+      "icon_url": "/images/items/5118.gif"
+    }
+  ]
+}

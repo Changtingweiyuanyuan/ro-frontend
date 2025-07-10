@@ -1,0 +1,84 @@
+{
+  "id": 3749,
+  "name": {
+    "zh_tw": "精英 / 菁英草寇",
+    "en": "弯刀"
+  },
+  "image_url": "/images/monsters/3749.gif",
+  "basic_info": {
+    "level": 152,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 174345,
+    "attack": {
+      "min": 1716,
+      "max": 2416
+    },
+    "magic_attack": {
+      "min": 385,
+      "max": 549
+    },
+    "defense": 150,
+    "magic_defense": 83,
+    "hit_100_percent": 406,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 44,
+      "vit": 95,
+      "int": 43,
+      "dex": 176,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 20.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 11706,
+      "name": "黑椒牛排",
+      "rate": 0.5,
+      "icon_url": "/images/items/11706.gif"
+    },
+    {
+      "item_id": 11707,
+      "name": "烤牛肉",
+      "rate": 0.1,
+      "icon_url": "/images/items/11707.gif"
+    },
+    {
+      "item_id": 25281,
+      "name": "粗糙彎刀",
+      "rate": 25.0,
+      "icon_url": "/images/items/25281.gif"
+    },
+    {
+      "item_id": 27175,
+      "name": "精英彎刀草寇卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27175.gif"
+    },
+    {
+      "item_id": 28116,
+      "name": "礦工十字鎬[2]",
+      "rate": 0.01,
+      "icon_url": "/images/items/28116.gif"
+    },
+    {
+      "item_id": 28608,
+      "name": "元素起源[2]",
+      "rate": 1.5,
+      "icon_url": "/images/items/28608.gif"
+    }
+  ]
+}

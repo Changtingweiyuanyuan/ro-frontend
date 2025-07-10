@@ -1,0 +1,84 @@
+{
+  "id": 20641,
+  "name": {
+    "zh_tw": "故障的掃地機器人-歐米茄",
+    "en": "EP17_2_OMEGA_CLEANER_NG"
+  },
+  "image_url": "/images/monsters/20641.gif",
+  "basic_info": {
+    "level": 175,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1200685,
+    "attack": {
+      "min": 2765,
+      "max": 3991
+    },
+    "magic_attack": {
+      "min": 1284,
+      "max": 2132
+    },
+    "defense": 475,
+    "magic_defense": 103,
+    "hit_100_percent": 477,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 140,
+      "agi": 90,
+      "vit": 100,
+      "int": 121,
+      "dex": 130,
+      "luk": 64
+    }
+  },
+  "drops": [
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 5.0,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 1.0,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 1.5,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7512,
+      "name": "燒焦的部品碎片",
+      "rate": 0.5,
+      "icon_url": "/images/items/7512.gif"
+    },
+    {
+      "item_id": 300077,
+      "name": "故障的掃地機器人Ω卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300077.gif"
+    },
+    {
+      "item_id": 700007,
+      "name": "蘇佩爾維亞天弓[2]",
+      "rate": 0.04,
+      "icon_url": "/images/items/700007.gif"
+    },
+    {
+      "item_id": 700008,
+      "name": "古拉根槍弩[2]",
+      "rate": 0.04,
+      "icon_url": "/images/items/700008.gif"
+    }
+  ]
+}

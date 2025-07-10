@@ -1,0 +1,90 @@
+{
+  "id": 2913,
+  "name": {
+    "zh_tw": "精英俄希托斯 / 菁英俄希托斯",
+    "en": "C3_ACIDUS_"
+  },
+  "image_url": "/images/monsters/2913.gif",
+  "basic_info": {
+    "level": 130,
+    "race": "龍",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 203590,
+    "attack": {
+      "min": 1660,
+      "max": 2372
+    },
+    "magic_attack": {
+      "min": 293,
+      "max": 389
+    },
+    "defense": 98,
+    "magic_defense": 47,
+    "hit_100_percent": 450,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 110,
+      "vit": 61,
+      "int": 53,
+      "dex": 133,
+      "luk": 53
+    }
+  },
+  "drops": [
+    {
+      "item_id": 505,
+      "name": "藍色藥水",
+      "rate": 3.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/505.gif"
+    },
+    {
+      "item_id": 996,
+      "name": "風靈原石",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/996.gif"
+    },
+    {
+      "item_id": 1035,
+      "name": "龍牙",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1035.gif"
+    },
+    {
+      "item_id": 1036,
+      "name": "龍鱗",
+      "rate": 89.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1036.gif"
+    },
+    {
+      "item_id": 2890,
+      "name": "白翼胸針",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2890.gif"
+    },
+    {
+      "item_id": 4379,
+      "name": "灰俄希托斯卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7446,
+      "name": "藍色龍珠",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7446.gif"
+    },
+    {
+      "item_id": 7446,
+      "name": "藍色龍珠",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7446.gif"
+    }
+  ]
+}

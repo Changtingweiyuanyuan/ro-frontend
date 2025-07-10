@@ -1,0 +1,84 @@
+{
+  "id": 2421,
+  "name": {
+    "zh_tw": "暗●十字軍",
+    "en": "L_YGNIZEM"
+  },
+  "image_url": "/images/monsters/2421.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13440,
+    "attack": {
+      "min": 937,
+      "max": 1279
+    },
+    "magic_attack": {
+      "min": 412,
+      "max": 618
+    },
+    "defense": 136,
+    "magic_defense": 8,
+    "hit_100_percent": 413,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 158,
+      "agi": 101,
+      "vit": 94,
+      "int": 75,
+      "dex": 108,
+      "luk": 74
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.02,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 1129,
+      "name": "水紋之劍",
+      "rate": 0.5,
+      "icon_url": "/images/items/1129.gif"
+    },
+    {
+      "item_id": 1145,
+      "name": "神聖復仇者之劍",
+      "rate": 0.05,
+      "icon_url": "/images/items/1145.gif"
+    },
+    {
+      "item_id": 2316,
+      "name": "鋼鐵盔甲",
+      "rate": 0.2,
+      "icon_url": "/images/items/2316.gif"
+    },
+    {
+      "item_id": 2317,
+      "name": "鋼鐵盔甲[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2317.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 25.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 50.0,
+      "icon_url": "/images/items/7347.gif"
+    }
+  ]
+}

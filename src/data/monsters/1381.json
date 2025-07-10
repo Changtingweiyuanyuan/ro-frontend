@@ -1,0 +1,72 @@
+{
+  "id": 1381,
+  "name": {
+    "zh_tw": "暴焰野熊",
+    "en": "GRIZZLY"
+  },
+  "image_url": "/images/monsters/1381.gif",
+  "basic_info": {
+    "level": 66,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2241,
+    "attack": {
+      "min": 339,
+      "max": 447
+    },
+    "magic_attack": {
+      "min": 78,
+      "max": 86
+    },
+    "defense": 109,
+    "magic_defense": 2,
+    "hit_100_percent": 295,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 26,
+      "vit": 44,
+      "int": 3,
+      "dex": 86,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 549,
+      "name": "美味番薯",
+      "rate": 12.5,
+      "icon_url": "/images/items/549.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 25.0,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 948,
+      "name": "熊掌",
+      "rate": 25.0,
+      "icon_url": "/images/items/948.gif"
+    },
+    {
+      "item_id": 2353,
+      "name": "奧丁的祝福[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/2353.gif"
+    },
+    {
+      "item_id": 4162,
+      "name": "暴焰野熊卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

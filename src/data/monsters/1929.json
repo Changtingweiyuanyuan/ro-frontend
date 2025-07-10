@@ -1,0 +1,90 @@
+{
+  "id": 1929,
+  "name": {
+    "zh_tw": "巨大的巴風特",
+    "en": "BAPHOMET_I"
+  },
+  "image_url": "/images/monsters/1929.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 4520500,
+    "attack": {
+      "min": 4606,
+      "max": 6790
+    },
+    "magic_attack": {
+      "min": 1793,
+      "max": 3173
+    },
+    "defense": 190,
+    "magic_defense": 45,
+    "hit_100_percent": 469,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 140,
+      "agi": 152,
+      "vit": 5,
+      "int": 85,
+      "dex": 240,
+      "luk": 95
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1181,
+      "name": "太刀[2]",
+      "rate": 25.0,
+      "icon_url": "/images/items/1181.gif"
+    },
+    {
+      "item_id": 1466,
+      "name": "死神之鐮",
+      "rate": 45.0,
+      "icon_url": "/images/items/1466.gif"
+    },
+    {
+      "item_id": 2327,
+      "name": "天衣 月舞",
+      "rate": 35.0,
+      "icon_url": "/images/items/2327.gif"
+    },
+    {
+      "item_id": 2513,
+      "name": "薄紗圍巾[1]",
+      "rate": 35.0,
+      "icon_url": "/images/items/2513.gif"
+    },
+    {
+      "item_id": 2514,
+      "name": "護肩甲[1]",
+      "rate": 35.0,
+      "icon_url": "/images/items/2514.gif"
+    },
+    {
+      "item_id": 2655,
+      "name": "血跡鐵球",
+      "rate": 0.5,
+      "icon_url": "/images/items/2655.gif"
+    },
+    {
+      "item_id": 4147,
+      "name": "巴風特卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6004,
+      "name": "附有魔力的巴風特娃娃",
+      "rate": 2.5,
+      "icon_url": "/images/items/6004.gif"
+    }
+  ]
+}

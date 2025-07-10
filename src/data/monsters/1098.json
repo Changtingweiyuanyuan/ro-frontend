@@ -1,0 +1,90 @@
+{
+  "id": 1098,
+  "name": {
+    "zh_tw": "安畢斯 / 胡狼頭神",
+    "en": "ANUBIS"
+  },
+  "image_url": "/images/monsters/1098.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "人形",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 38826,
+    "attack": {
+      "min": 980,
+      "max": 1374
+    },
+    "magic_attack": {
+      "min": 523,
+      "max": 773
+    },
+    "defense": 103,
+    "magic_defense": 48,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 67,
+      "vit": 40,
+      "int": 128,
+      "dex": 107,
+      "luk": 55
+    }
+  },
+  "drops": [
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.53,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1045,
+      "name": "聖殿士面具",
+      "rate": 21.83,
+      "icon_url": "/images/items/1045.gif"
+    },
+    {
+      "item_id": 1614,
+      "name": "聖杖 英靈",
+      "rate": 0.02,
+      "icon_url": "/images/items/1614.gif"
+    },
+    {
+      "item_id": 1625,
+      "name": "恢復之杖",
+      "rate": 0.05,
+      "icon_url": "/images/items/1625.gif"
+    },
+    {
+      "item_id": 2617,
+      "name": "智慧手套",
+      "rate": 0.01,
+      "icon_url": "/images/items/2617.gif"
+    },
+    {
+      "item_id": 4138,
+      "name": "安畢斯卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12735,
+      "name": "古代符文原石",
+      "rate": 0.05,
+      "icon_url": "/images/items/12735.gif"
+    },
+    {
+      "item_id": 15042,
+      "name": "白翼之衣[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/15042.gif"
+    }
+  ]
+}

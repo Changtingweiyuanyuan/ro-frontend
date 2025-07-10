@@ -1,0 +1,90 @@
+{
+  "id": 1796,
+  "name": {
+    "zh_tw": "阿烏奴艾 / 阿吾諾耶",
+    "en": "AUNOE"
+  },
+  "image_url": "/images/monsters/1796.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13050,
+    "attack": {
+      "min": 900,
+      "max": 1236
+    },
+    "magic_attack": {
+      "min": 243,
+      "max": 293
+    },
+    "defense": 107,
+    "magic_defense": 42,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 63,
+      "vit": 62,
+      "int": 77,
+      "dex": 84,
+      "luk": 35
+    }
+  },
+  "drops": [
+    {
+      "item_id": 2109,
+      "name": "謊言紀錄本",
+      "rate": 0.01,
+      "icon_url": "/images/items/2109.gif"
+    },
+    {
+      "item_id": 2422,
+      "name": "高級涼鞋[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2422.gif"
+    },
+    {
+      "item_id": 2545,
+      "name": "聖堂長袍[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2545.gif"
+    },
+    {
+      "item_id": 4464,
+      "name": "阿烏奴艾卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 20.0,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 0.5,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7568,
+      "name": "白色面具",
+      "rate": 12.5,
+      "icon_url": "/images/items/7568.gif"
+    },
+    {
+      "item_id": 12183,
+      "name": "神聖箭矢筒",
+      "rate": 0.25,
+      "icon_url": "/images/items/12183.gif"
+    }
+  ]
+}

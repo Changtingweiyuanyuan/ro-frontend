@@ -1,0 +1,41 @@
+{
+  "id": 3089,
+  "name": {
+    "zh_tw": "瘋狂卡薩",
+    "en": "MM_LOCO_KASA"
+  },
+  "image_url": "/images/monsters/3089.gif",
+  "basic_info": {
+    "level": 155,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 185000,
+    "attack": {
+      "min": 2855,
+      "max": 4163
+    },
+    "magic_attack": {
+      "min": 642,
+      "max": 1042
+    },
+    "defense": 30,
+    "magic_defense": 30,
+    "hit_100_percent": 407,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 44,
+      "vit": 88,
+      "int": 21,
+      "dex": 95,
+      "luk": 44
+    }
+  },
+  "drops": []
+}

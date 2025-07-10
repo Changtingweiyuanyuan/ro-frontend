@@ -1,0 +1,48 @@
+{
+  "id": 1761,
+  "name": {
+    "zh_tw": "皮影魔",
+    "en": "G_SKOGUL"
+  },
+  "image_url": "/images/monsters/1761.gif",
+  "basic_info": {
+    "level": 126,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 34240,
+    "attack": {
+      "min": 1031,
+      "max": 1435
+    },
+    "magic_attack": {
+      "min": 530,
+      "max": 804
+    },
+    "defense": 72,
+    "magic_defense": 15,
+    "hit_100_percent": 404,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 71,
+      "vit": 63,
+      "int": 85,
+      "dex": 115,
+      "luk": 37
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7511,
+      "name": "黑暗的輪",
+      "rate": 2.5,
+      "icon_url": "/images/items/7511.gif"
+    }
+  ]
+}

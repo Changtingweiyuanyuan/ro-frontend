@@ -1,0 +1,90 @@
+{
+  "id": 2918,
+  "name": {
+    "zh_tw": "時光守護者",
+    "en": "TIME_KEEPER"
+  },
+  "image_url": "/images/monsters/2918.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 256000,
+    "attack": {
+      "min": 2668,
+      "max": 3864
+    },
+    "magic_attack": {
+      "min": 418,
+      "max": 586
+    },
+    "defense": 127,
+    "magic_defense": 60,
+    "hit_100_percent": 440,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 112,
+      "agi": 60,
+      "vit": 72,
+      "int": 57,
+      "dex": 120,
+      "luk": 77
+    }
+  },
+  "drops": [
+    {
+      "item_id": 520,
+      "name": "西納雷葉子",
+      "rate": 4.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/520.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+    },
+    {
+      "item_id": 1095,
+      "name": "指針",
+      "rate": 30.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1095.gif"
+    },
+    {
+      "item_id": 2121,
+      "name": "謊言紀錄本[1]",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2121.gif"
+    },
+    {
+      "item_id": 4630,
+      "name": "時光守護者卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 30.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7054.gif"
+    },
+    {
+      "item_id": 22515,
+      "name": "扭曲的時間鑰匙",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/22515.gif"
+    },
+    {
+      "item_id": 22515,
+      "name": "扭曲的時間鑰匙",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/22515.gif"
+    }
+  ]
+}

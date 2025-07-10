@@ -1,0 +1,84 @@
+{
+  "id": 2184,
+  "name": {
+    "zh_tw": "深海人魚",
+    "en": "MD_OBEAUNE"
+  },
+  "image_url": "/images/monsters/2184.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 700000,
+    "attack": {
+      "min": 1518,
+      "max": 2120
+    },
+    "magic_attack": {
+      "min": 3075,
+      "max": 5383
+    },
+    "defense": 68,
+    "magic_defense": 326,
+    "hit_100_percent": 449,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 166,
+      "agi": 87,
+      "vit": 101,
+      "int": 233,
+      "dex": 196,
+      "luk": 55
+    }
+  },
+  "drops": [
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 0.05,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 748,
+      "name": "永恆玫瑰",
+      "rate": 0.15,
+      "icon_url": "/images/items/748.gif"
+    },
+    {
+      "item_id": 950,
+      "name": "人魚之心",
+      "rate": 45.0,
+      "icon_url": "/images/items/950.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 2.5,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.07,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 2326,
+      "name": "聖職之衣[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2326.gif"
+    },
+    {
+      "item_id": 12614,
+      "name": "中級錢袋",
+      "rate": 0.03,
+      "icon_url": "/images/items/12614.gif"
+    }
+  ]
+}

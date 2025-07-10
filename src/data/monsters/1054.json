@@ -1,0 +1,90 @@
+{
+  "id": 1054,
+  "name": {
+    "zh_tw": "瑪勒盜蟲",
+    "en": "THIEF_BUG__"
+  },
+  "image_url": "/images/monsters/1054.gif",
+  "basic_info": {
+    "level": 30,
+    "race": "昆蟲",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 595,
+    "attack": {
+      "min": 83,
+      "max": 103
+    },
+    "magic_attack": {
+      "min": 49,
+      "max": 63
+    },
+    "defense": 40,
+    "magic_defense": 20,
+    "hit_100_percent": 269,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 17,
+      "agi": 37,
+      "vit": 22,
+      "int": 5,
+      "dex": 31,
+      "luk": 13
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 729,
+      "name": "青綠寶石",
+      "rate": 0.03,
+      "icon_url": "/images/items/729.gif"
+    },
+    {
+      "item_id": 928,
+      "name": "昆蟲觸角",
+      "rate": 27.5,
+      "icon_url": "/images/items/928.gif"
+    },
+    {
+      "item_id": 955,
+      "name": "昆蟲外殼",
+      "rate": 7.5,
+      "icon_url": "/images/items/955.gif"
+    },
+    {
+      "item_id": 1011,
+      "name": "強化武器金屬-級數二",
+      "rate": 0.2,
+      "icon_url": "/images/items/1011.gif"
+    },
+    {
+      "item_id": 1116,
+      "name": "武士刀[3]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1116.gif"
+    },
+    {
+      "item_id": 1152,
+      "name": "雙手劍[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1152.gif"
+    },
+    {
+      "item_id": 4050,
+      "name": "瑪勒盜蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

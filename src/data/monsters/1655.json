@@ -1,0 +1,90 @@
+{
+  "id": 1655,
+  "name": {
+    "zh_tw": "暗●服事",
+    "en": "EREND"
+  },
+  "image_url": "/images/monsters/1655.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 42764,
+    "attack": {
+      "min": 959,
+      "max": 1335
+    },
+    "magic_attack": {
+      "min": 664,
+      "max": 996
+    },
+    "defense": 106,
+    "magic_defense": 99,
+    "hit_100_percent": 411,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 66,
+      "vit": 90,
+      "int": 145,
+      "dex": 131,
+      "luk": 62
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1514,
+      "name": "日星鎚[2]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1514.gif"
+    },
+    {
+      "item_id": 1523,
+      "name": "暗盲之錘",
+      "rate": 0.01,
+      "icon_url": "/images/items/1523.gif"
+    },
+    {
+      "item_id": 2217,
+      "name": "聖職之帽[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2217.gif"
+    },
+    {
+      "item_id": 4349,
+      "name": "暗●服事卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.01,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 2.5,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 25127,
+      "name": "寂靜的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25127.gif"
+    },
+    {
+      "item_id": 25128,
+      "name": "微弱的能量碎片",
+      "rate": 2.5,
+      "icon_url": "/images/items/25128.gif"
+    }
+  ]
+}

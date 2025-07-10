@@ -1,0 +1,41 @@
+{
+  "id": 2998,
+  "name": {
+    "zh_tw": "弱化的咪羅克",
+    "en": "EP14_MORS_EVENT"
+  },
+  "image_url": "/images/monsters/2998.gif",
+  "basic_info": {
+    "level": 158,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1771440,
+    "attack": {
+      "min": 1742,
+      "max": 2492
+    },
+    "magic_attack": {
+      "min": 876,
+      "max": 1416
+    },
+    "defense": 113,
+    "magic_defense": 45,
+    "hit_100_percent": 419,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 87,
+      "agi": 51,
+      "vit": 45,
+      "int": 88,
+      "dex": 106,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

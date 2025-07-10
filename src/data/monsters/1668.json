@@ -1,0 +1,84 @@
+{
+  "id": 1668,
+  "name": {
+    "zh_tw": "阿克坦",
+    "en": "ARCHDAM"
+  },
+  "image_url": "/images/monsters/1668.gif",
+  "basic_info": {
+    "level": 119,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 20700,
+    "attack": {
+      "min": 912,
+      "max": 1250
+    },
+    "magic_attack": {
+      "min": 267,
+      "max": 339
+    },
+    "defense": 98,
+    "magic_defense": 15,
+    "hit_100_percent": 388,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 64,
+      "vit": 70,
+      "int": 65,
+      "dex": 92,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 1.0,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 1.0,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 2.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 4371,
+      "name": "阿克坦卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7317,
+      "name": "生鏽的螺絲",
+      "rate": 25.0,
+      "icon_url": "/images/items/7317.gif"
+    },
+    {
+      "item_id": 13156,
+      "name": "守門霰彈槍",
+      "rate": 0.03,
+      "icon_url": "/images/items/13156.gif"
+    },
+    {
+      "item_id": 13167,
+      "name": "短口槍-DD",
+      "rate": 0.03,
+      "icon_url": "/images/items/13167.gif"
+    }
+  ]
+}

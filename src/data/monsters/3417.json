@@ -1,0 +1,90 @@
+{
+  "id": 3417,
+  "name": {
+    "zh_tw": "邪骸食人魚",
+    "en": "MIN_MEGALODON"
+  },
+  "image_url": "/images/monsters/3417.gif",
+  "basic_info": {
+    "level": 108,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 145000,
+    "attack": {
+      "min": 825,
+      "max": 1113
+    },
+    "magic_attack": {
+      "min": 197,
+      "max": 217
+    },
+    "defense": 179,
+    "magic_defense": 28,
+    "hit_100_percent": 401,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 141,
+      "agi": 82,
+      "vit": 101,
+      "int": 67,
+      "dex": 152,
+      "luk": 57
+    }
+  },
+  "drops": [
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 0.4,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.01,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 624,
+      "name": "腐臭之魚",
+      "rate": 0.1,
+      "icon_url": "/images/items/624.gif"
+    },
+    {
+      "item_id": 719,
+      "name": "紫寶石",
+      "rate": 0.05,
+      "icon_url": "/images/items/719.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 7.5,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 959,
+      "name": "腐爛鱗片",
+      "rate": 27.5,
+      "icon_url": "/images/items/959.gif"
+    },
+    {
+      "item_id": 4067,
+      "name": "邪骸食人魚卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

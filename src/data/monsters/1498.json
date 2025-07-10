@@ -1,0 +1,90 @@
+{
+  "id": 1498,
+  "name": {
+    "zh_tw": "伍坦彈弓手",
+    "en": "WOOTAN_SHOOTER"
+  },
+  "image_url": "/images/monsters/1498.gif",
+  "basic_info": {
+    "level": 67,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3096,
+    "attack": {
+      "min": 216,
+      "max": 276
+    },
+    "magic_attack": {
+      "min": 111,
+      "max": 133
+    },
+    "defense": 91,
+    "magic_defense": 21,
+    "hit_100_percent": 292,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 32,
+      "agi": 23,
+      "vit": 38,
+      "int": 20,
+      "dex": 76,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 513,
+      "name": "香蕉",
+      "rate": 5.0,
+      "icon_url": "/images/items/513.gif"
+    },
+    {
+      "item_id": 4260,
+      "name": "伍坦彈弓手卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5116,
+      "name": "香蕉帽",
+      "rate": 0.05,
+      "icon_url": "/images/items/5116.gif"
+    },
+    {
+      "item_id": 7049,
+      "name": "石頭",
+      "rate": 5.0,
+      "icon_url": "/images/items/7049.gif"
+    },
+    {
+      "item_id": 7182,
+      "name": "可可",
+      "rate": 0.5,
+      "icon_url": "/images/items/7182.gif"
+    },
+    {
+      "item_id": 7195,
+      "name": "彈弓",
+      "rate": 22.5,
+      "icon_url": "/images/items/7195.gif"
+    },
+    {
+      "item_id": 7200,
+      "name": "橡皮筋",
+      "rate": 17.5,
+      "icon_url": "/images/items/7200.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 0.5,
+      "icon_url": "/images/items/7939.gif"
+    }
+  ]
+}

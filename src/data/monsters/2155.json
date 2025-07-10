@@ -1,0 +1,66 @@
+{
+  "id": 2155,
+  "name": {
+    "zh_tw": "布托異竺",
+    "en": "BUTOIJO"
+  },
+  "image_url": "/images/monsters/2155.gif",
+  "basic_info": {
+    "level": 88,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 7524,
+    "attack": {
+      "min": 440,
+      "max": 584
+    },
+    "magic_attack": {
+      "min": 189,
+      "max": 251
+    },
+    "defense": 77,
+    "magic_defense": 12,
+    "hit_100_percent": 361,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 65,
+      "vit": 30,
+      "int": 30,
+      "dex": 106,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 517,
+      "name": "肉",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/517.gif"
+    },
+    {
+      "item_id": 520,
+      "name": "西納雷葉子",
+      "rate": 2.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/520.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 13.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+    },
+    {
+      "item_id": 4519,
+      "name": "布托異竺卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    }
+  ]
+}

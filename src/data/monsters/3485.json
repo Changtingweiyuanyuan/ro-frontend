@@ -1,0 +1,41 @@
+{
+  "id": 3485,
+  "name": {
+    "zh_tw": "畢尤的詛咒戰士",
+    "en": "AS_D_CURSED_SOLDIER"
+  },
+  "image_url": "/images/monsters/3485.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 405694,
+    "attack": {
+      "min": 2233,
+      "max": 3213
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 243
+    },
+    "defense": 123,
+    "magic_defense": 50,
+    "hit_100_percent": 452,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 117,
+      "agi": 86,
+      "vit": 93,
+      "int": 81,
+      "dex": 309,
+      "luk": 33
+    }
+  },
+  "drops": []
+}

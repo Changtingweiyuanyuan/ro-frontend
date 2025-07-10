@@ -1,0 +1,90 @@
+{
+  "id": 1312,
+  "name": {
+    "zh_tw": "烏龜將軍",
+    "en": "TURTLE_GENERAL"
+  },
+  "image_url": "/images/monsters/1312.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1442000,
+    "attack": {
+      "min": 2761,
+      "max": 4029
+    },
+    "magic_attack": {
+      "min": 1655,
+      "max": 2895
+    },
+    "defense": 394,
+    "magic_defense": 123,
+    "hit_100_percent": 452,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 116,
+      "agi": 123,
+      "vit": 154,
+      "int": 99,
+      "dex": 217,
+      "luk": 98
+    }
+  },
+  "drops": [
+    {
+      "item_id": 658,
+      "name": "組織的團結力",
+      "rate": 0.01,
+      "icon_url": "/images/items/658.gif"
+    },
+    {
+      "item_id": 1141,
+      "name": "聖劍 混沌",
+      "rate": 0.4,
+      "icon_url": "/images/items/1141.gif"
+    },
+    {
+      "item_id": 1306,
+      "name": "血腥戰斧[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/1306.gif"
+    },
+    {
+      "item_id": 1417,
+      "name": "鐮戟[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1417.gif"
+    },
+    {
+      "item_id": 1529,
+      "name": "高爾夫球杆",
+      "rate": 0.04,
+      "icon_url": "/images/items/1529.gif"
+    },
+    {
+      "item_id": 4305,
+      "name": "烏龜將軍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7070,
+      "name": "破裂的硬殼",
+      "rate": 26.68,
+      "icon_url": "/images/items/7070.gif"
+    },
+    {
+      "item_id": 7480,
+      "name": "9級烹飪書",
+      "rate": 1.0,
+      "icon_url": "/images/items/7480.gif"
+    }
+  ]
+}

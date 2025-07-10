@@ -1,0 +1,90 @@
+{
+  "id": 2163,
+  "name": {
+    "zh_tw": "鹿角甲蟲",
+    "en": "噩梦"
+  },
+  "image_url": "/images/monsters/2163.gif",
+  "basic_info": {
+    "level": 136,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 250400,
+    "attack": {
+      "min": 488,
+      "max": 654
+    },
+    "magic_attack": {
+      "min": 2592,
+      "max": 4520
+    },
+    "defense": 155,
+    "magic_defense": 20,
+    "hit_100_percent": 404,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 23,
+      "agi": 59,
+      "vit": 59,
+      "int": 209,
+      "dex": 191,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 0.05,
+      "icon_url": "/images/items/993.gif"
+    },
+    {
+      "item_id": 1930,
+      "name": "翠綠草笛[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1930.gif"
+    },
+    {
+      "item_id": 4508,
+      "name": "黃金甲蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6322,
+      "name": "鹿角帽子",
+      "rate": 32.5,
+      "icon_url": "/images/items/6322.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 0.5,
+      "icon_url": "/images/items/7939.gif"
+    },
+    {
+      "item_id": 12107,
+      "name": "包裝的面具",
+      "rate": 0.05,
+      "icon_url": "/images/items/12107.gif"
+    },
+    {
+      "item_id": 12735,
+      "name": "古代符文原石",
+      "rate": 0.5,
+      "icon_url": "/images/items/12735.gif"
+    }
+  ]
+}

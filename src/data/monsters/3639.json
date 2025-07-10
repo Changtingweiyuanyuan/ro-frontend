@@ -1,0 +1,90 @@
+{
+  "id": 3639,
+  "name": {
+    "zh_tw": "邪骸戰士",
+    "en": "MD_SKELETON_100"
+  },
+  "image_url": "/images/monsters/3639.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 16430,
+    "attack": {
+      "min": 597,
+      "max": 825
+    },
+    "magic_attack": {
+      "min": 531,
+      "max": 873
+    },
+    "defense": 51,
+    "magic_defense": 12,
+    "hit_100_percent": 333,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 41,
+      "agi": 32,
+      "vit": 47,
+      "int": 32,
+      "dex": 43,
+      "luk": 6
+    }
+  },
+  "drops": [
+    {
+      "item_id": 545,
+      "name": "紅色纖細藥水",
+      "rate": 10.0,
+      "icon_url": "/images/items/545.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 16.0,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.9,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1517,
+      "name": "尖刃鐵鎚[1]",
+      "rate": 0.8,
+      "icon_url": "/images/items/1517.gif"
+    },
+    {
+      "item_id": 2609,
+      "name": "骷髏戒指",
+      "rate": 0.3,
+      "icon_url": "/images/items/2609.gif"
+    },
+    {
+      "item_id": 4025,
+      "name": "邪骸戰士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 30.0,
+      "icon_url": "/images/items/7054.gif"
+    }
+  ]
+}

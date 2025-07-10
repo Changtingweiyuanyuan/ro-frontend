@@ -1,0 +1,41 @@
+{
+  "id": 1288,
+  "name": {
+    "zh_tw": "華麗金屬",
+    "en": "EMPELIUM"
+  },
+  "image_url": "/images/monsters/1288.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "天使",
+    "element": {
+      "type": "聖",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 100,
+    "attack": {
+      "min": 143,
+      "max": 171
+    },
+    "magic_attack": {
+      "min": 149,
+      "max": 157
+    },
+    "defense": 64,
+    "magic_defense": 50,
+    "hit_100_percent": 311,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 17,
+      "vit": 80,
+      "int": 50,
+      "dex": 31,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1012,
+  "name": {
+    "zh_tw": "羅達蛙",
+    "en": "RODA_FROG"
+  },
+  "image_url": "/images/monsters/1012.gif",
+  "basic_info": {
+    "level": 13,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 160,
+    "attack": {
+      "min": 40,
+      "max": 48
+    },
+    "magic_attack": {
+      "min": 16,
+      "max": 20
+    },
+    "defense": 12,
+    "magic_defense": 5,
+    "hit_100_percent": 220,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 12,
+      "agi": 6,
+      "vit": 4,
+      "int": 1,
+      "dex": 14,
+      "luk": 9
+    }
+  },
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 3.0,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 721,
+      "name": "綠寶石",
+      "rate": 0.08,
+      "icon_url": "/images/items/721.gif"
+    },
+    {
+      "item_id": 908,
+      "name": "青蛙蛋",
+      "rate": 5.0,
+      "icon_url": "/images/items/908.gif"
+    },
+    {
+      "item_id": 918,
+      "name": "粘糊的蹼",
+      "rate": 45.0,
+      "icon_url": "/images/items/918.gif"
+    },
+    {
+      "item_id": 4014,
+      "name": "羅達蛙卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

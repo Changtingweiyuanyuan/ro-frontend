@@ -1,0 +1,66 @@
+{
+  "id": 2777,
+  "name": {
+    "zh_tw": "精英玩偶魔妖 / 憤怒玩偶魔妖",
+    "en": "C4_LITTLE_FATUM"
+  },
+  "image_url": "/images/monsters/2777.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 425500,
+    "attack": {
+      "min": 787,
+      "max": 1105
+    },
+    "magic_attack": {
+      "min": 606,
+      "max": 878
+    },
+    "defense": 51,
+    "magic_defense": 198,
+    "hit_100_percent": 446,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 85,
+      "vit": 17,
+      "int": 148,
+      "dex": 222,
+      "luk": 97
+    }
+  },
+  "drops": [
+    {
+      "item_id": 2465,
+      "name": "舞鞋[1]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2465.gif"
+    },
+    {
+      "item_id": 4511,
+      "name": "玩偶魔妖卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6395,
+      "name": "精靈魔法粉末",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6395.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7938.gif"
+    }
+  ]
+}

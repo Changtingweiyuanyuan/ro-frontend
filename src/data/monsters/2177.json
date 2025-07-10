@@ -1,0 +1,84 @@
+{
+  "id": 2177,
+  "name": {
+    "zh_tw": "深海海螺",
+    "en": "MD_CORNUTUS"
+  },
+  "image_url": "/images/monsters/2177.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 160000,
+    "attack": {
+      "min": 1125,
+      "max": 1577
+    },
+    "magic_attack": {
+      "min": 331,
+      "max": 475
+    },
+    "defense": 342,
+    "magic_defense": 48,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 87,
+      "vit": 135,
+      "int": 66,
+      "dex": 137,
+      "luk": 75
+    }
+  },
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.38,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 6.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 7.5,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 961,
+      "name": "海螺",
+      "rate": 41.24,
+      "icon_url": "/images/items/961.gif"
+    },
+    {
+      "item_id": 991,
+      "name": "水靈礦石",
+      "rate": 0.32,
+      "icon_url": "/images/items/991.gif"
+    },
+    {
+      "item_id": 2106,
+      "name": "鋼盾[1]",
+      "rate": 0.02,
+      "icon_url": "/images/items/2106.gif"
+    },
+    {
+      "item_id": 12615,
+      "name": "下級錢袋",
+      "rate": 0.02,
+      "icon_url": "/images/items/12615.gif"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 3000,
+  "name": {
+    "zh_tw": "咪羅克的亡靈巫師",
+    "en": "EP14_MORS_BOSSB"
+  },
+  "image_url": "/images/monsters/3000.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 80000000,
+    "attack": {
+      "min": 662,
+      "max": 942
+    },
+    "magic_attack": {
+      "min": 281,
+      "max": 283
+    },
+    "defense": 1,
+    "magic_defense": 1,
+    "hit_100_percent": 302,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 180,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 2.0,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 2.0,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 2.0,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 20.0,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 22537,
+      "name": "勇士的戰利品",
+      "rate": 100.0,
+      "icon_url": "/images/items/22537.gif"
+    },
+    {
+      "item_id": 22537,
+      "name": "勇士的戰利品",
+      "rate": 100.0,
+      "icon_url": "/images/items/22537.gif"
+    }
+  ]
+}

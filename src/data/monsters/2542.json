@@ -1,0 +1,90 @@
+{
+  "id": 2542,
+  "name": {
+    "zh_tw": "艾琳長老",
+    "en": "IRENE_ELDER"
+  },
+  "image_url": "/images/monsters/2542.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 433110,
+    "attack": {
+      "min": 1582,
+      "max": 2282
+    },
+    "magic_attack": {
+      "min": 453,
+      "max": 669
+    },
+    "defense": 145,
+    "magic_defense": 73,
+    "hit_100_percent": 354,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 82,
+      "agi": 36,
+      "vit": 55,
+      "int": 100,
+      "dex": 182,
+      "luk": 88
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7481,
+      "name": "10級烹飪書",
+      "rate": 0.01,
+      "icon_url": "/images/items/7481.gif"
+    },
+    {
+      "item_id": 12072,
+      "name": "整只BBQ",
+      "rate": 30.0,
+      "icon_url": "/images/items/12072.gif"
+    },
+    {
+      "item_id": 12077,
+      "name": "特製蜂膠藥草茶",
+      "rate": 30.0,
+      "icon_url": "/images/items/12077.gif"
+    },
+    {
+      "item_id": 12082,
+      "name": "特製山珍海味",
+      "rate": 30.0,
+      "icon_url": "/images/items/12082.gif"
+    },
+    {
+      "item_id": 12087,
+      "name": "特製烤鱷魚蒸野菜",
+      "rate": 30.0,
+      "icon_url": "/images/items/12087.gif"
+    },
+    {
+      "item_id": 12092,
+      "name": "黯然銷魂的麵包",
+      "rate": 30.0,
+      "icon_url": "/images/items/12092.gif"
+    },
+    {
+      "item_id": 12097,
+      "name": "海陸串烤",
+      "rate": 30.0,
+      "icon_url": "/images/items/12097.gif"
+    },
+    {
+      "item_id": 27168,
+      "name": "艾琳長老卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27168.gif"
+    }
+  ]
+}

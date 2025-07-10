@@ -1,0 +1,78 @@
+{
+  "id": 2017,
+  "name": {
+    "zh_tw": "拉塔 / 刷尾負鼠",
+    "en": "RATA"
+  },
+  "image_url": "/images/monsters/2017.gif",
+  "basic_info": {
+    "level": 131,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 58299,
+    "attack": {
+      "min": 1096,
+      "max": 1528
+    },
+    "magic_attack": {
+      "min": 329,
+      "max": 457
+    },
+    "defense": 81,
+    "magic_defense": 46,
+    "hit_100_percent": 416,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 101,
+      "agi": 74,
+      "vit": 71,
+      "int": 51,
+      "dex": 147,
+      "luk": 56
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1026,
+      "name": "橡實",
+      "rate": 25.0,
+      "icon_url": "/images/items/1026.gif"
+    },
+    {
+      "item_id": 1548,
+      "name": "老兵之錘[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1548.gif"
+    },
+    {
+      "item_id": 4459,
+      "name": "拉塔卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 2.5,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 0.05,
+      "icon_url": "/images/items/6224.gif"
+    },
+    {
+      "item_id": 12346,
+      "name": "未成熟的榛子",
+      "rate": 25.0,
+      "icon_url": "/images/items/12346.gif"
+    }
+  ]
+}

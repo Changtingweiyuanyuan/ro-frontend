@@ -1,0 +1,90 @@
+{
+  "id": 1989,
+  "name": {
+    "zh_tw": "希斯利安 / 三角幼獅獸",
+    "en": "HILLSRION"
+  },
+  "image_url": "/images/monsters/1989.gif",
+  "basic_info": {
+    "level": 123,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 21422,
+    "attack": {
+      "min": 737,
+      "max": 989
+    },
+    "magic_attack": {
+      "min": 235,
+      "max": 297
+    },
+    "defense": 83,
+    "magic_defense": 11,
+    "hit_100_percent": 394,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 110,
+      "agi": 69,
+      "vit": 72,
+      "int": 41,
+      "dex": 143,
+      "luk": 12
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1268,
+      "name": "巨魔指甲[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1268.gif"
+    },
+    {
+      "item_id": 1825,
+      "name": "希斯利安之魂[3]",
+      "rate": 0.1,
+      "icon_url": "/images/items/1825.gif"
+    },
+    {
+      "item_id": 2440,
+      "name": "奔跑長靴[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2440.gif"
+    },
+    {
+      "item_id": 4453,
+      "name": "希斯利安卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6020,
+      "name": "銀色毛皮",
+      "rate": 10.0,
+      "icon_url": "/images/items/6020.gif"
+    },
+    {
+      "item_id": 6032,
+      "name": "希斯利安之角",
+      "rate": 15.0,
+      "icon_url": "/images/items/6032.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 24.25,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 6.0,
+      "icon_url": "/images/items/7938.gif"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3218,
+  "name": {
+    "zh_tw": "暗●機匠",
+    "en": "V_G_HARWORD"
+  },
+  "image_url": "/images/monsters/3218.gif",
+  "basic_info": {
+    "level": 187,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4500000,
+    "attack": {
+      "min": 4507,
+      "max": 6507
+    },
+    "magic_attack": {
+      "min": 2407,
+      "max": 4207
+    },
+    "defense": 400,
+    "magic_defense": 200,
+    "hit_100_percent": 567,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 320,
+      "agi": 160,
+      "vit": 400,
+      "int": 120,
+      "dex": 260,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

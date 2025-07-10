@@ -1,0 +1,90 @@
+{
+  "id": 1213,
+  "name": {
+    "zh_tw": "獸人戰士長",
+    "en": "HIGH_ORC"
+  },
+  "image_url": "/images/monsters/1213.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 4193,
+    "attack": {
+      "min": 498,
+      "max": 670
+    },
+    "magic_attack": {
+      "min": 147,
+      "max": 177
+    },
+    "defense": 101,
+    "magic_defense": 45,
+    "hit_100_percent": 301,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 75,
+      "agi": 16,
+      "vit": 40,
+      "int": 31,
+      "dex": 83,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 4.5,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.98,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 6.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 931,
+      "name": "獸人戰士之證",
+      "rate": 37.5,
+      "icon_url": "/images/items/931.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 0.45,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1304,
+      "name": "獸人斧",
+      "rate": 0.05,
+      "icon_url": "/images/items/1304.gif"
+    },
+    {
+      "item_id": 4322,
+      "name": "獸人戰士長卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7002,
+      "name": "獸人之牙",
+      "rate": 12.5,
+      "icon_url": "/images/items/7002.gif"
+    }
+  ]
+}

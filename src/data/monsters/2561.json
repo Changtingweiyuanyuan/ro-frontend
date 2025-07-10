@@ -1,0 +1,48 @@
+{
+  "id": 2561,
+  "name": {
+    "zh_tw": "元素使 朱朱",
+    "en": "GEFFEN_MAGE_11"
+  },
+  "image_url": "/images/monsters/2561.gif",
+  "basic_info": {
+    "level": 155,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5000000,
+    "attack": {
+      "min": 1045,
+      "max": 1465
+    },
+    "magic_attack": {
+      "min": 1090,
+      "max": 1720
+    },
+    "defense": 170,
+    "magic_defense": 65,
+    "hit_100_percent": 475,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 100,
+      "vit": 100,
+      "int": 200,
+      "dex": 220,
+      "luk": 100
+    }
+  },
+  "drops": [
+    {
+      "item_id": 27261,
+      "name": "朱朱卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27261.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1116,
+  "name": {
+    "zh_tw": "轉轉蛋",
+    "en": "EGGYRA"
+  },
+  "image_url": "/images/monsters/1116.gif",
+  "basic_info": {
+    "level": 53,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1676,
+    "attack": {
+      "min": 187,
+      "max": 231
+    },
+    "magic_attack": {
+      "min": 96,
+      "max": 120
+    },
+    "defense": 85,
+    "magic_defense": 20,
+    "hit_100_percent": 282,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 46,
+      "agi": 25,
+      "vit": 25,
+      "int": 15,
+      "dex": 57,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 5.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 643,
+      "name": "攜帶用孵蛋器",
+      "rate": 1.5,
+      "icon_url": "/images/items/643.gif"
+    },
+    {
+      "item_id": 645,
+      "name": "集中藥水",
+      "rate": 1.25,
+      "icon_url": "/images/items/645.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.29,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 5.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 4070,
+      "name": "轉轉蛋卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5015,
+      "name": "蛋殼帽",
+      "rate": 0.1,
+      "icon_url": "/images/items/5015.gif"
+    },
+    {
+      "item_id": 7032,
+      "name": "蛋殼碎片",
+      "rate": 2.75,
+      "icon_url": "/images/items/7032.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1190,
+  "name": {
+    "zh_tw": "獸人酋長",
+    "en": "ORC_LORD"
+  },
+  "image_url": "/images/monsters/1190.gif",
+  "basic_info": {
+    "level": 55,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 552000,
+    "attack": {
+      "min": 774,
+      "max": 1086
+    },
+    "magic_attack": {
+      "min": 604,
+      "max": 994
+    },
+    "defense": 256,
+    "magic_defense": 92,
+    "hit_100_percent": 367,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 95,
+      "agi": 95,
+      "vit": 103,
+      "int": 96,
+      "dex": 155,
+      "luk": 85
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 5.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 21.34,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1363,
+      "name": "血斧",
+      "rate": 2.0,
+      "icon_url": "/images/items/1363.gif"
+    },
+    {
+      "item_id": 1371,
+      "name": "超重雙手斧[1]",
+      "rate": 2.0,
+      "icon_url": "/images/items/1371.gif"
+    },
+    {
+      "item_id": 2621,
+      "name": "力量戒指[1]",
+      "rate": 2.0,
+      "icon_url": "/images/items/2621.gif"
+    },
+    {
+      "item_id": 4135,
+      "name": "獸人酋長卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5007,
+      "name": "領導者頭箍",
+      "rate": 2.0,
+      "icon_url": "/images/items/5007.gif"
+    },
+    {
+      "item_id": 16000,
+      "name": "艾爾德之錘[2]",
+      "rate": 15.5,
+      "icon_url": "/images/items/16000.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1050,
+  "name": {
+    "zh_tw": "蛋殼小雞",
+    "en": "PICKY_"
+  },
+  "image_url": "/images/monsters/1050.gif",
+  "basic_info": {
+    "level": 10,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 89,
+    "attack": {
+      "min": 39,
+      "max": 47
+    },
+    "magic_attack": {
+      "min": 29,
+      "max": 41
+    },
+    "defense": 48,
+    "magic_defense": 10,
+    "hit_100_percent": 218,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 15,
+      "agi": 8,
+      "vit": 8,
+      "int": 5,
+      "dex": 9,
+      "luk": 3
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 10.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 519,
+      "name": "牛奶",
+      "rate": 10.0,
+      "icon_url": "/images/items/519.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 916,
+      "name": "羽毛",
+      "rate": 70.0,
+      "icon_url": "/images/items/916.gif"
+    },
+    {
+      "item_id": 949,
+      "name": "柔毛",
+      "rate": 10.0,
+      "icon_url": "/images/items/949.gif"
+    },
+    {
+      "item_id": 4011,
+      "name": "蛋殼小雞卡片",
+      "rate": 0.2,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5015,
+      "name": "蛋殼帽",
+      "rate": 0.3,
+      "icon_url": "/images/items/5015.gif"
+    },
+    {
+      "item_id": 10012,
+      "name": "寵物蛋殼帽",
+      "rate": 0.2,
+      "icon_url": "/images/items/10012.gif"
+    }
+  ]
+}

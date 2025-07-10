@@ -1,0 +1,90 @@
+{
+  "id": 2987,
+  "name": {
+    "zh_tw": "惡靈樹裝飾 / 驚悚的裝飾樹",
+    "en": "XM_TREE"
+  },
+  "image_url": "/images/monsters/2987.gif",
+  "basic_info": {
+    "level": 148,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 544444,
+    "attack": {
+      "min": 1347,
+      "max": 1925
+    },
+    "magic_attack": {
+      "min": 1202,
+      "max": 2070
+    },
+    "defense": 116,
+    "magic_defense": 44,
+    "hit_100_percent": 422,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 44,
+      "agi": 66,
+      "vit": 44,
+      "int": 44,
+      "dex": 144,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 0.2,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 0.5,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 7212,
+      "name": "吊頸娃娃",
+      "rate": 9.0,
+      "icon_url": "/images/items/7212.gif"
+    },
+    {
+      "item_id": 7218,
+      "name": "腐爛的繩子",
+      "rate": 26.68,
+      "icon_url": "/images/items/7218.gif"
+    },
+    {
+      "item_id": 7222,
+      "name": "原木塊",
+      "rate": 20.37,
+      "icon_url": "/images/items/7222.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 2.0,
+      "icon_url": "/images/items/7939.gif"
+    },
+    {
+      "item_id": 12490,
+      "name": "生動的樂譜",
+      "rate": 5.0,
+      "icon_url": "/images/items/12490.gif"
+    },
+    {
+      "item_id": 31016,
+      "name": "惡靈樹裝飾卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/31016.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1199,
+  "name": {
+    "zh_tw": "朽魔",
+    "en": "PUNK"
+  },
+  "image_url": "/images/monsters/1199.gif",
+  "basic_info": {
+    "level": 82,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 3869,
+    "attack": {
+      "min": 383,
+      "max": 501
+    },
+    "magic_attack": {
+      "min": 154,
+      "max": 188
+    },
+    "defense": 68,
+    "magic_defense": 55,
+    "hit_100_percent": 330,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 39,
+      "vit": 30,
+      "int": 35,
+      "dex": 95,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 715,
+      "name": "黃色魔力礦石",
+      "rate": 4.0,
+      "icon_url": "/images/items/715.gif"
+    },
+    {
+      "item_id": 1057,
+      "name": "蛾蝶翅膀粉末",
+      "rate": 15.0,
+      "icon_url": "/images/items/1057.gif"
+    },
+    {
+      "item_id": 1061,
+      "name": "魔女之星沙",
+      "rate": 5.0,
+      "icon_url": "/images/items/1061.gif"
+    },
+    {
+      "item_id": 2502,
+      "name": "連帽披肩[1]",
+      "rate": 0.08,
+      "icon_url": "/images/items/2502.gif"
+    },
+    {
+      "item_id": 4313,
+      "name": "朽魔卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 26.68,
+      "icon_url": "/images/items/7001.gif"
+    },
+    {
+      "item_id": 10004,
+      "name": "寵物奶嘴",
+      "rate": 0.5,
+      "icon_url": "/images/items/10004.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1940,
+  "name": {
+    "zh_tw": "寶物箱子",
+    "en": "TREASURE_BOX43"
+  },
+  "image_url": "/images/monsters/1940.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1,
+    "attack": {
+      "min": 100,
+      "max": 100
+    },
+    "magic_attack": {
+      "min": 100,
+      "max": 100
+    },
+    "defense": 0,
+    "magic_defense": 0,
+    "hit_100_percent": 300,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1199,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 50.0,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 658,
+      "name": "組織的團結力",
+      "rate": 2.5,
+      "icon_url": "/images/items/658.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 24.25,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 36.38,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1271,
+      "name": "血之淚[2]",
+      "rate": 0.75,
+      "icon_url": "/images/items/1271.gif"
+    },
+    {
+      "item_id": 1376,
+      "name": "碎心斧[1]",
+      "rate": 0.75,
+      "icon_url": "/images/items/1376.gif"
+    },
+    {
+      "item_id": 7832,
+      "name": "布倫希爾德的鎧甲碎片",
+      "rate": 0.05,
+      "icon_url": "/images/items/7832.gif"
+    },
+    {
+      "item_id": 13027,
+      "name": "手術刀[3]",
+      "rate": 0.75,
+      "icon_url": "/images/items/13027.gif"
+    }
+  ]
+}

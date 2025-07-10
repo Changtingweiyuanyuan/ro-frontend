@@ -1,0 +1,90 @@
+{
+  "id": 2801,
+  "name": {
+    "zh_tw": "精英異形 / 菁英異形",
+    "en": "C3_HODREMLIN"
+  },
+  "image_url": "/images/monsters/2801.gif",
+  "basic_info": {
+    "level": 122,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 115910,
+    "attack": {
+      "min": 1144,
+      "max": 1604
+    },
+    "magic_attack": {
+      "min": 289,
+      "max": 383
+    },
+    "defense": 75,
+    "magic_defense": 25,
+    "hit_100_percent": 400,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 70,
+      "vit": 77,
+      "int": 60,
+      "dex": 83,
+      "luk": 40
+    }
+  },
+  "drops": [
+    {
+      "item_id": 587,
+      "name": "紅色榴蓮",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/587.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+    },
+    {
+      "item_id": 1061,
+      "name": "魔女之星沙",
+      "rate": 50.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1061.gif"
+    },
+    {
+      "item_id": 2406,
+      "name": "戰士長靴[1]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2406.gif"
+    },
+    {
+      "item_id": 2426,
+      "name": "陰影之靴",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2426.gif"
+    },
+    {
+      "item_id": 4413,
+      "name": "邪惡妖精卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7340,
+      "name": "黑暗的意志",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7340.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7563.gif"
+    }
+  ]
+}

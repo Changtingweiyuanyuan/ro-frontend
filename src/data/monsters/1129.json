@@ -1,0 +1,90 @@
+{
+  "id": 1129,
+  "name": {
+    "zh_tw": "鬼火",
+    "en": "HORONG"
+  },
+  "image_url": "/images/monsters/1129.gif",
+  "basic_info": {
+    "level": 66,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2304,
+    "attack": {
+      "min": 322,
+      "max": 432
+    },
+    "magic_attack": {
+      "min": 160,
+      "max": 202
+    },
+    "defense": 84,
+    "magic_defense": 35,
+    "hit_100_percent": 303,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 36,
+      "agi": 32,
+      "vit": 35,
+      "int": 45,
+      "dex": 62,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 633,
+      "name": "魔物番薯",
+      "rate": 0.1,
+      "icon_url": "/images/items/633.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.59,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 2.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 953,
+      "name": "石心",
+      "rate": 32.5,
+      "icon_url": "/images/items/953.gif"
+    },
+    {
+      "item_id": 970,
+      "name": "酒精",
+      "rate": 0.25,
+      "icon_url": "/images/items/970.gif"
+    },
+    {
+      "item_id": 1752,
+      "name": "火箭矢",
+      "rate": 50.0,
+      "icon_url": "/images/items/1752.gif"
+    },
+    {
+      "item_id": 2279,
+      "name": "火線頭飾",
+      "rate": 0.03,
+      "icon_url": "/images/items/2279.gif"
+    },
+    {
+      "item_id": 4103,
+      "name": "鬼火卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

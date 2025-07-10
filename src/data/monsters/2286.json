@@ -1,0 +1,41 @@
+{
+  "id": 2286,
+  "name": {
+    "zh_tw": "深淵犬妖",
+    "en": "刺锤"
+  },
+  "image_url": "/images/monsters/2286.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 182830,
+    "attack": {
+      "min": 1284,
+      "max": 1806
+    },
+    "magic_attack": {
+      "min": 276,
+      "max": 358
+    },
+    "defense": 109,
+    "magic_defense": 48,
+    "hit_100_percent": 409,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 103,
+      "agi": 64,
+      "vit": 59,
+      "int": 42,
+      "dex": 80,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

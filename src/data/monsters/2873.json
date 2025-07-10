@@ -1,0 +1,90 @@
+{
+  "id": 2873,
+  "name": {
+    "zh_tw": "精英突變蜈蚣 / 迅捷變異蜈蚣",
+    "en": "C1_CENTIPEDE"
+  },
+  "image_url": "/images/monsters/2873.gif",
+  "basic_info": {
+    "level": 125,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 124960,
+    "attack": {
+      "min": 1065,
+      "max": 1469
+    },
+    "magic_attack": {
+      "min": 242,
+      "max": 310
+    },
+    "defense": 143,
+    "magic_defense": 25,
+    "hit_100_percent": 405,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 133,
+      "agi": 71,
+      "vit": 69,
+      "int": 39,
+      "dex": 120,
+      "luk": 49
+    }
+  },
+  "drops": [
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 100.0,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 62.5,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 1042,
+      "name": "昆蟲後腳",
+      "rate": 100.0,
+      "icon_url": "/images/items/1042.gif"
+    },
+    {
+      "item_id": 1741,
+      "name": "詛咒之弓[1]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1741.gif"
+    },
+    {
+      "item_id": 2746,
+      "name": "冷酷之心",
+      "rate": 0.05,
+      "icon_url": "/images/items/2746.gif"
+    },
+    {
+      "item_id": 2747,
+      "name": "黑貓胸針",
+      "rate": 0.05,
+      "icon_url": "/images/items/2747.gif"
+    },
+    {
+      "item_id": 4447,
+      "name": "變異蜈蚣卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 0.25,
+      "icon_url": "/images/items/6224.gif"
+    }
+  ]
+}

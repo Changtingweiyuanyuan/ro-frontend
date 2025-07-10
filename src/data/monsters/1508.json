@@ -1,0 +1,78 @@
+{
+  "id": 1508,
+  "name": {
+    "zh_tw": "萬聖魔",
+    "en": "QUVE"
+  },
+  "image_url": "/images/monsters/1508.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 11090,
+    "attack": {
+      "min": 419,
+      "max": 537
+    },
+    "magic_attack": {
+      "min": 217,
+      "max": 277
+    },
+    "defense": 96,
+    "magic_defense": 55,
+    "hit_100_percent": 366,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 84,
+      "agi": 54,
+      "vit": 55,
+      "int": 50,
+      "dex": 85,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.05,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 4294,
+      "name": "萬聖魔卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6245,
+      "name": "黑色粉末",
+      "rate": 2.5,
+      "icon_url": "/images/items/6245.gif"
+    },
+    {
+      "item_id": 7154,
+      "name": "毒粉",
+      "rate": 0.5,
+      "icon_url": "/images/items/7154.gif"
+    },
+    {
+      "item_id": 7205,
+      "name": "黑色布條",
+      "rate": 16.0,
+      "icon_url": "/images/items/7205.gif"
+    },
+    {
+      "item_id": 7220,
+      "name": "綠色粘稠物",
+      "rate": 28.62,
+      "icon_url": "/images/items/7220.gif"
+    }
+  ]
+}

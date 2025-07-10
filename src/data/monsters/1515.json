@@ -1,0 +1,78 @@
+{
+  "id": 1515,
+  "name": {
+    "zh_tw": "卡崙寶寶",
+    "en": "GARM_BABY"
+  },
+  "image_url": "/images/monsters/1515.gif",
+  "basic_info": {
+    "level": 94,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10016,
+    "attack": {
+      "min": 561,
+      "max": 761
+    },
+    "magic_attack": {
+      "min": 197,
+      "max": 235
+    },
+    "defense": 62,
+    "magic_defense": 43,
+    "hit_100_percent": 364,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 61,
+      "vit": 55,
+      "int": 61,
+      "dex": 106,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 749,
+      "name": "冰雕玫瑰",
+      "rate": 0.5,
+      "icon_url": "/images/items/749.gif"
+    },
+    {
+      "item_id": 4323,
+      "name": "卡崙寶寶卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7066,
+      "name": "冰塊一角",
+      "rate": 21.83,
+      "icon_url": "/images/items/7066.gif"
+    },
+    {
+      "item_id": 7269,
+      "name": "圍兜兜",
+      "rate": 12.5,
+      "icon_url": "/images/items/7269.gif"
+    },
+    {
+      "item_id": 7270,
+      "name": "嬰兒的奶瓶",
+      "rate": 7.5,
+      "icon_url": "/images/items/7270.gif"
+    },
+    {
+      "item_id": 12000,
+      "name": "冰凍術 等級5",
+      "rate": 0.5,
+      "icon_url": "/images/items/12000.gif"
+    }
+  ]
+}

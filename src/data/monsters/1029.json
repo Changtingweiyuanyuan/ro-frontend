@@ -1,0 +1,90 @@
+{
+  "id": 1029,
+  "name": {
+    "zh_tw": "蛇女伊絲",
+    "en": "ISIS"
+  },
+  "image_url": "/images/monsters/1029.gif",
+  "basic_info": {
+    "level": 59,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2092,
+    "attack": {
+      "min": 278,
+      "max": 360
+    },
+    "magic_attack": {
+      "min": 89,
+      "max": 113
+    },
+    "defense": 83,
+    "magic_defense": 5,
+    "hit_100_percent": 305,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 43,
+      "vit": 22,
+      "int": 5,
+      "dex": 43,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 731,
+      "name": "2克拉鑽石",
+      "rate": 0.03,
+      "icon_url": "/images/items/731.gif"
+    },
+    {
+      "item_id": 732,
+      "name": "3克拉鑽石",
+      "rate": 0.1,
+      "icon_url": "/images/items/732.gif"
+    },
+    {
+      "item_id": 733,
+      "name": "受損的鑽石",
+      "rate": 0.75,
+      "icon_url": "/images/items/733.gif"
+    },
+    {
+      "item_id": 936,
+      "name": "鱗片皮膚",
+      "rate": 26.68,
+      "icon_url": "/images/items/936.gif"
+    },
+    {
+      "item_id": 954,
+      "name": "發亮鱗片",
+      "rate": 5.0,
+      "icon_url": "/images/items/954.gif"
+    },
+    {
+      "item_id": 2233,
+      "name": "頭箍[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2233.gif"
+    },
+    {
+      "item_id": 2603,
+      "name": "體力項鍊",
+      "rate": 0.01,
+      "icon_url": "/images/items/2603.gif"
+    },
+    {
+      "item_id": 4116,
+      "name": "蛇女伊絲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

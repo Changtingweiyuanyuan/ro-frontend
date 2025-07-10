@@ -1,0 +1,41 @@
+{
+  "id": 2333,
+  "name": {
+    "zh_tw": "寶箱巨鱷的弱點",
+    "en": "BUWAYA_WEAK"
+  },
+  "image_url": "/images/monsters/2333.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 20,
+    "attack": {
+      "min": 139,
+      "max": 139
+    },
+    "magic_attack": {
+      "min": 139,
+      "max": 141
+    },
+    "defense": 100,
+    "magic_defense": 78,
+    "hit_100_percent": 339,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

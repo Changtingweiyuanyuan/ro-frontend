@@ -1,0 +1,72 @@
+{
+  "id": 2467,
+  "name": {
+    "zh_tw": "蛆蟲 / 卷甲蟲",
+    "en": "MG_ARCLOUSE"
+  },
+  "image_url": "/images/monsters/2467.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 80811,
+    "attack": {
+      "min": 1189,
+      "max": 1689
+    },
+    "magic_attack": {
+      "min": 1047,
+      "max": 1803
+    },
+    "defense": 121,
+    "magic_defense": 36,
+    "hit_100_percent": 439,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 103,
+      "vit": 45,
+      "int": 35,
+      "dex": 172,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 1.0,
+      "icon_url": "/images/items/997.gif"
+    },
+    {
+      "item_id": 1096,
+      "name": "圓形外皮",
+      "rate": 30.0,
+      "icon_url": "/images/items/1096.gif"
+    },
+    {
+      "item_id": 6608,
+      "name": "凝固的魔力",
+      "rate": 0.1,
+      "icon_url": "/images/items/6608.gif"
+    },
+    {
+      "item_id": 6609,
+      "name": "古城亡者的指甲",
+      "rate": 1.0,
+      "icon_url": "/images/items/6609.gif"
+    },
+    {
+      "item_id": 6610,
+      "name": "古城亡者的牙齒",
+      "rate": 1.0,
+      "icon_url": "/images/items/6610.gif"
+    }
+  ]
+}

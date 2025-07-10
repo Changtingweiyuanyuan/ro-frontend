@@ -1,0 +1,78 @@
+{
+  "id": 20340,
+  "name": {
+    "zh_tw": "EL1-A17T",
+    "en": "MD_EL_A17T"
+  },
+  "image_url": "/images/monsters/20340.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 16412000,
+    "attack": {
+      "min": 1525,
+      "max": 2143
+    },
+    "magic_attack": {
+      "min": 863,
+      "max": 1377
+    },
+    "defense": 355,
+    "magic_defense": 42,
+    "hit_100_percent": 477,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 173,
+      "agi": 143,
+      "vit": 77,
+      "int": 148,
+      "dex": 202,
+      "luk": 84
+    }
+  },
+  "drops": [
+    {
+      "item_id": 6751,
+      "name": "扭曲的鐵板",
+      "rate": 15.0,
+      "icon_url": "/images/items/6751.gif"
+    },
+    {
+      "item_id": 7319,
+      "name": "老舊的鐵板",
+      "rate": 35.0,
+      "icon_url": "/images/items/7319.gif"
+    },
+    {
+      "item_id": 25668,
+      "name": "武器殘骸",
+      "rate": 1.0,
+      "icon_url": "/images/items/25668.gif"
+    },
+    {
+      "item_id": 25669,
+      "name": "神祕零件",
+      "rate": 25.0,
+      "icon_url": "/images/items/25669.gif"
+    },
+    {
+      "item_id": 25723,
+      "name": "核心元件",
+      "rate": 10.0,
+      "icon_url": "/images/items/25723.gif"
+    },
+    {
+      "item_id": 27305,
+      "name": "EL-A17T卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27305.gif"
+    }
+  ]
+}

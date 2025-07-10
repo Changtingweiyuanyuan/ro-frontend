@@ -1,0 +1,84 @@
+{
+  "id": 1045,
+  "name": {
+    "zh_tw": "馬克",
+    "en": "MARC"
+  },
+  "image_url": "/images/monsters/1045.gif",
+  "basic_info": {
+    "level": 56,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2522,
+    "attack": {
+      "min": 222,
+      "max": 280
+    },
+    "magic_attack": {
+      "min": 88,
+      "max": 104
+    },
+    "defense": 55,
+    "magic_defense": 24,
+    "hit_100_percent": 284,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 24,
+      "vit": 22,
+      "int": 15,
+      "dex": 53,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 3.5,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 0.05,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.48,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 5.0,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 956,
+      "name": "鰓刺",
+      "rate": 45.0,
+      "icon_url": "/images/items/956.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.09,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 4105,
+      "name": "馬克卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

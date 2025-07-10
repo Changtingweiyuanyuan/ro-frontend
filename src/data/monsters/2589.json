@@ -1,0 +1,41 @@
+{
+  "id": 2589,
+  "name": {
+    "zh_tw": "波波利",
+    "en": "G_POPORING"
+  },
+  "image_url": "/images/monsters/2589.gif",
+  "basic_info": {
+    "level": 30,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 524,
+    "attack": {
+      "min": 106,
+      "max": 136
+    },
+    "magic_attack": {
+      "min": 62,
+      "max": 74
+    },
+    "defense": 36,
+    "magic_defense": 17,
+    "hit_100_percent": 257,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 17,
+      "agi": 26,
+      "vit": 20,
+      "int": 18,
+      "dex": 36,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

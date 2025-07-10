@@ -1,0 +1,66 @@
+{
+  "id": 20381,
+  "name": {
+    "zh_tw": "R48-85-貝斯帝亞",
+    "en": "EP17_1_R4885_BESTIA"
+  },
+  "image_url": "/images/monsters/20381.gif",
+  "basic_info": {
+    "level": 174,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 8885000,
+    "attack": {
+      "min": 4010,
+      "max": 5818
+    },
+    "magic_attack": {
+      "min": 3197,
+      "max": 5687
+    },
+    "defense": 855,
+    "magic_defense": 124,
+    "hit_100_percent": 637,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 220,
+      "agi": 244,
+      "vit": 72,
+      "int": 118,
+      "dex": 255,
+      "luk": 95
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7450,
+      "name": "骨制盔甲的碎片",
+      "rate": 40.0,
+      "icon_url": "/images/items/7450.gif"
+    },
+    {
+      "item_id": 25669,
+      "name": "神祕零件",
+      "rate": 50.0,
+      "icon_url": "/images/items/25669.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 50.0,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 27319,
+      "name": "R48-85-BESTIA卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27319.gif"
+    }
+  ]
+}

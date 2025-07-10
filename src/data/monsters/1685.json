@@ -1,0 +1,90 @@
+{
+  "id": 1685,
+  "name": {
+    "zh_tw": "貝思波",
+    "en": "APOCALIPS_H"
+  },
+  "image_url": "/images/monsters/1685.gif",
+  "basic_info": {
+    "level": 128,
+    "race": "動物",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3802000,
+    "attack": {
+      "min": 3239,
+      "max": 4707
+    },
+    "magic_attack": {
+      "min": 3517,
+      "max": 6311
+    },
+    "defense": 402,
+    "magic_defense": 109,
+    "hit_100_percent": 543,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 177,
+      "agi": 195,
+      "vit": 165,
+      "int": 130,
+      "dex": 255,
+      "luk": 102
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 5.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 2659,
+      "name": "晚禱鐘核心 01",
+      "rate": 0.5,
+      "icon_url": "/images/items/2659.gif"
+    },
+    {
+      "item_id": 2660,
+      "name": "晚禱鐘核心 02",
+      "rate": 0.5,
+      "icon_url": "/images/items/2660.gif"
+    },
+    {
+      "item_id": 2661,
+      "name": "晚禱鐘核心 03",
+      "rate": 0.5,
+      "icon_url": "/images/items/2661.gif"
+    },
+    {
+      "item_id": 2662,
+      "name": "晚禱鐘核心 04",
+      "rate": 0.5,
+      "icon_url": "/images/items/2662.gif"
+    },
+    {
+      "item_id": 4374,
+      "name": "貝思波卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 15.0,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7095,
+      "name": "金屬破片",
+      "rate": 25.0,
+      "icon_url": "/images/items/7095.gif"
+    }
+  ]
+}

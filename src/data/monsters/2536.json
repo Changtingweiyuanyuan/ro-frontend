@@ -1,0 +1,41 @@
+{
+  "id": 2536,
+  "name": {
+    "zh_tw": "隱形怪物3",
+    "en": "HIDDEN_MOB3"
+  },
+  "image_url": "/images/monsters/2536.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 1851,
+      "max": 2651
+    },
+    "magic_attack": {
+      "min": 251,
+      "max": 251
+    },
+    "defense": 200,
+    "magic_defense": 100,
+    "hit_100_percent": 471,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 100,
+      "vit": 100,
+      "int": 100,
+      "dex": 100,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

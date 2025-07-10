@@ -1,0 +1,90 @@
+{
+  "id": 1080,
+  "name": {
+    "zh_tw": "綠草",
+    "en": "GREEN_PLANT"
+  },
+  "image_url": "/images/monsters/1080.gif",
+  "basic_info": {
+    "level": 1,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10,
+    "attack": {
+      "min": 2,
+      "max": 4
+    },
+    "magic_attack": {
+      "min": 2,
+      "max": 4
+    },
+    "defense": 100,
+    "magic_defense": 99,
+    "hit_100_percent": 202,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 35.0,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 521,
+      "name": "蘆薈葉子",
+      "rate": 0.25,
+      "icon_url": "/images/items/521.gif"
+    },
+    {
+      "item_id": 621,
+      "name": "苦味草",
+      "rate": 0.1,
+      "icon_url": "/images/items/621.gif"
+    },
+    {
+      "item_id": 704,
+      "name": "蘆薈",
+      "rate": 0.25,
+      "icon_url": "/images/items/704.gif"
+    },
+    {
+      "item_id": 905,
+      "name": "植物梗",
+      "rate": 15.0,
+      "icon_url": "/images/items/905.gif"
+    },
+    {
+      "item_id": 906,
+      "name": "鱗片梗",
+      "rate": 7.5,
+      "icon_url": "/images/items/906.gif"
+    },
+    {
+      "item_id": 2270,
+      "name": "草葉",
+      "rate": 0.01,
+      "icon_url": "/images/items/2270.gif"
+    },
+    {
+      "item_id": 7934,
+      "name": "毒草斑葉竹",
+      "rate": 1.5,
+      "icon_url": "/images/items/7934.gif"
+    }
+  ]
+}

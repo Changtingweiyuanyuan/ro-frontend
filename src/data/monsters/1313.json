@@ -1,0 +1,90 @@
+{
+  "id": 1313,
+  "name": {
+    "zh_tw": "流氓",
+    "en": "MOBSTER"
+  },
+  "image_url": "/images/monsters/1313.gif",
+  "basic_info": {
+    "level": 58,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2253,
+    "attack": {
+      "min": 254,
+      "max": 318
+    },
+    "magic_attack": {
+      "min": 95,
+      "max": 109
+    },
+    "defense": 87,
+    "magic_defense": 18,
+    "hit_100_percent": 295,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 36,
+      "vit": 33,
+      "int": 21,
+      "dex": 45,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 2.25,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 726,
+      "name": "藍寶石",
+      "rate": 22.8,
+      "icon_url": "/images/items/726.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 12.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 1239,
+      "name": "巨毒短劍",
+      "rate": 0.02,
+      "icon_url": "/images/items/1239.gif"
+    },
+    {
+      "item_id": 2621,
+      "name": "力量戒指[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2621.gif"
+    },
+    {
+      "item_id": 4317,
+      "name": "流氓卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6264,
+      "name": "甜瓜",
+      "rate": 2.5,
+      "icon_url": "/images/items/6264.gif"
+    },
+    {
+      "item_id": 6265,
+      "name": "菠蘿",
+      "rate": 2.5,
+      "icon_url": "/images/items/6265.gif"
+    }
+  ]
+}

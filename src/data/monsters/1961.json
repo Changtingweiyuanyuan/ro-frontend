@@ -1,0 +1,41 @@
+{
+  "id": 1961,
+  "name": {
+    "zh_tw": "淨化藤蔓",
+    "en": "G_ENTWEIHEN_S"
+  },
+  "image_url": "/images/monsters/1961.gif",
+  "basic_info": {
+    "level": 89,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 5400000,
+    "attack": {
+      "min": 1885,
+      "max": 2783
+    },
+    "magic_attack": {
+      "min": 745,
+      "max": 1153
+    },
+    "defense": 71,
+    "magic_defense": 66,
+    "hit_100_percent": 330,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 35,
+      "vit": 33,
+      "int": 180,
+      "dex": 150,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

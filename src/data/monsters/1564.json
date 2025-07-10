@@ -1,0 +1,41 @@
+{
+  "id": 1564,
+  "name": {
+    "zh_tw": "妖仙女",
+    "en": "G_WICKED_NYMPH"
+  },
+  "image_url": "/images/monsters/1564.gif",
+  "basic_info": {
+    "level": 97,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8491,
+    "attack": {
+      "min": 407,
+      "max": 521
+    },
+    "magic_attack": {
+      "min": 256,
+      "max": 334
+    },
+    "defense": 46,
+    "magic_defense": 45,
+    "hit_100_percent": 355,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 84,
+      "agi": 46,
+      "vit": 45,
+      "int": 70,
+      "dex": 92,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

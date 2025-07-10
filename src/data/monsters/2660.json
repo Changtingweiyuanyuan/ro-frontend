@@ -1,0 +1,90 @@
+{
+  "id": 2660,
+  "name": {
+    "zh_tw": "精英 / 狡猾 邪骸礦工",
+    "en": "C5_SKEL_WORKER"
+  },
+  "image_url": "/images/monsters/2660.gif",
+  "basic_info": {
+    "level": 44,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6200,
+    "attack": {
+      "min": 162,
+      "max": 206
+    },
+    "magic_attack": {
+      "min": 62,
+      "max": 70
+    },
+    "defense": 45,
+    "magic_defense": 5,
+    "hit_100_percent": 262,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 30,
+      "agi": 13,
+      "vit": 22,
+      "int": 10,
+      "dex": 37,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 2.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/998.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+    },
+    {
+      "item_id": 1003,
+      "name": "煤礦",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1003.gif"
+    },
+    {
+      "item_id": 1041,
+      "name": "手提燈",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1041.gif"
+    },
+    {
+      "item_id": 4092,
+      "name": "邪骸礦工卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 5009,
+      "name": "安全帽",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/5009.gif"
+    }
+  ]
+}

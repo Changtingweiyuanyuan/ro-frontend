@@ -1,0 +1,90 @@
+{
+  "id": 2604,
+  "name": {
+    "zh_tw": "精英 / 雄壯 腐屍戰俘",
+    "en": "C2_ZOMBIE_PRISONER"
+  },
+  "image_url": "/images/monsters/2604.gif",
+  "basic_info": {
+    "level": 89,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 80450,
+    "attack": {
+      "min": 552,
+      "max": 740
+    },
+    "magic_attack": {
+      "min": 136,
+      "max": 172
+    },
+    "defense": 89,
+    "magic_defense": 28,
+    "hit_100_percent": 330,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 87,
+      "agi": 39,
+      "vit": 58,
+      "int": 5,
+      "dex": 82,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/716.gif"
+    },
+    {
+      "item_id": 930,
+      "name": "腐爛繃帶",
+      "rate": 87.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/930.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 2.8,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+    },
+    {
+      "item_id": 1099,
+      "name": "老舊犯人服",
+      "rate": 87.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1099.gif"
+    },
+    {
+      "item_id": 2266,
+      "name": "金屬口罩",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2266.gif"
+    },
+    {
+      "item_id": 2408,
+      "name": "腳煉",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2408.gif"
+    },
+    {
+      "item_id": 4275,
+      "name": "腐屍戰俘卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7016,
+      "name": "老舊湯匙",
+      "rate": 2.65,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7016.gif"
+    }
+  ]
+}

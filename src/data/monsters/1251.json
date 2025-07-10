@@ -1,0 +1,90 @@
+{
+  "id": 1251,
+  "name": {
+    "zh_tw": "冰暴騎士",
+    "en": "KNIGHT_OF_WINDSTORM"
+  },
+  "image_url": "/images/monsters/1251.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 630500,
+    "attack": {
+      "min": 3002,
+      "max": 4394
+    },
+    "magic_attack": {
+      "min": 1199,
+      "max": 2059
+    },
+    "defense": 306,
+    "magic_defense": 166,
+    "hit_100_percent": 472,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 126,
+      "agi": 165,
+      "vit": 132,
+      "int": 104,
+      "dex": 205,
+      "luk": 79
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 15.0,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 20.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 22.8,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1468,
+      "name": "風靈之矛",
+      "rate": 0.75,
+      "icon_url": "/images/items/1468.gif"
+    },
+    {
+      "item_id": 2506,
+      "name": "斗篷[1]",
+      "rate": 2.5,
+      "icon_url": "/images/items/2506.gif"
+    },
+    {
+      "item_id": 2621,
+      "name": "力量戒指[1]",
+      "rate": 1.0,
+      "icon_url": "/images/items/2621.gif"
+    },
+    {
+      "item_id": 4318,
+      "name": "冰暴騎士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5007,
+      "name": "領導者頭箍",
+      "rate": 0.01,
+      "icon_url": "/images/items/5007.gif"
+    }
+  ]
+}

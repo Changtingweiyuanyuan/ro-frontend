@@ -1,0 +1,41 @@
+{
+  "id": 3484,
+  "name": {
+    "zh_tw": "歐內斯特 斯特凡 傑克",
+    "en": "AS_D_RAGGED_GOLEM"
+  },
+  "image_url": "/images/monsters/3484.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 20000000,
+    "attack": {
+      "min": 6910,
+      "max": 10162
+    },
+    "magic_attack": {
+      "min": 667,
+      "max": 1051
+    },
+    "defense": 146,
+    "magic_defense": 30,
+    "hit_100_percent": 425,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 248,
+      "agi": 57,
+      "vit": 16,
+      "int": 59,
+      "dex": 245,
+      "luk": 43
+    }
+  },
+  "drops": []
+}

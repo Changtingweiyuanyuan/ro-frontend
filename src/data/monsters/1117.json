@@ -1,0 +1,90 @@
+{
+  "id": 1117,
+  "name": {
+    "zh_tw": "暗神官",
+    "en": "EVIL_DRUID"
+  },
+  "image_url": "/images/monsters/1117.gif",
+  "basic_info": {
+    "level": 80,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5149,
+    "attack": {
+      "min": 444,
+      "max": 596
+    },
+    "magic_attack": {
+      "min": 172,
+      "max": 214
+    },
+    "defense": 88,
+    "magic_defense": 45,
+    "hit_100_percent": 313,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 62,
+      "agi": 32,
+      "vit": 24,
+      "int": 45,
+      "dex": 85,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 10.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 1615,
+      "name": "骷髏魔杖",
+      "rate": 0.01,
+      "icon_url": "/images/items/1615.gif"
+    },
+    {
+      "item_id": 2217,
+      "name": "聖職之帽[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2217.gif"
+    },
+    {
+      "item_id": 2508,
+      "name": "抗魔斗篷",
+      "rate": 0.01,
+      "icon_url": "/images/items/2508.gif"
+    },
+    {
+      "item_id": 4141,
+      "name": "暗神官卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7478,
+      "name": "7級烹飪書",
+      "rate": 0.02,
+      "icon_url": "/images/items/7478.gif"
+    },
+    {
+      "item_id": 23256,
+      "name": "靈驗繃帶",
+      "rate": 0.05,
+      "icon_url": "/images/items/23256.gif"
+    },
+    {
+      "item_id": 28604,
+      "name": "緋紅色聖言之書[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/28604.gif"
+    }
+  ]
+}

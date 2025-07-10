@@ -1,0 +1,84 @@
+{
+  "id": 2693,
+  "name": {
+    "zh_tw": "精英尖角甲蟲 / 憤怒尖角甲蟲",
+    "en": "C4_RAKE_SCARABA"
+  },
+  "image_url": "/images/monsters/2693.gif",
+  "basic_info": {
+    "level": 139,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 338500,
+    "attack": {
+      "min": 1808,
+      "max": 2598
+    },
+    "magic_attack": {
+      "min": 269,
+      "max": 337
+    },
+    "defense": 250,
+    "magic_defense": 70,
+    "hit_100_percent": 439,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 85,
+      "vit": 145,
+      "int": 52,
+      "dex": 168,
+      "luk": 77
+    }
+  },
+  "drops": [
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/993.gif"
+    },
+    {
+      "item_id": 4505,
+      "name": "甲蟲卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6321,
+      "name": "尖角帽子",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6321.gif"
+    },
+    {
+      "item_id": 12735,
+      "name": "古代符文原石",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12735.gif"
+    },
+    {
+      "item_id": 15000,
+      "name": "骷髏盔甲[1]",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/15000.gif"
+    },
+    {
+      "item_id": 16010,
+      "name": "紅色以太手提包[1]",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/16010.gif"
+    },
+    {
+      "item_id": 20789,
+      "name": "喵族高級鬥篷[1]",
+      "rate": 0.3,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/20789.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1648,
+  "name": {
+    "zh_tw": "暗●神工匠 哈沃得",
+    "en": "B_HARWORD"
+  },
+  "image_url": "/images/monsters/1648.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6750000,
+    "attack": {
+      "min": 4635,
+      "max": 6735
+    },
+    "magic_attack": {
+      "min": 1257,
+      "max": 2137
+    },
+    "defense": 301,
+    "magic_defense": 106,
+    "hit_100_percent": 520,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 275,
+      "agi": 148,
+      "vit": 156,
+      "int": 72,
+      "dex": 266,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1138,
+      "name": "妖劍 弒光",
+      "rate": 17.5,
+      "icon_url": "/images/items/1138.gif"
+    },
+    {
+      "item_id": 1140,
+      "name": "首領之劍",
+      "rate": 12.5,
+      "icon_url": "/images/items/1140.gif"
+    },
+    {
+      "item_id": 1365,
+      "name": "暗靈之斧",
+      "rate": 17.5,
+      "icon_url": "/images/items/1365.gif"
+    },
+    {
+      "item_id": 1368,
+      "name": "風靈之斧",
+      "rate": 17.5,
+      "icon_url": "/images/items/1368.gif"
+    },
+    {
+      "item_id": 1369,
+      "name": "斬首之斧",
+      "rate": 12.5,
+      "icon_url": "/images/items/1369.gif"
+    },
+    {
+      "item_id": 4361,
+      "name": "暗●神工匠 哈沃得卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 50.0,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 50.0,
+      "icon_url": "/images/items/12623.gif"
+    }
+  ]
+}

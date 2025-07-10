@@ -1,0 +1,84 @@
+{
+  "id": 1704,
+  "name": {
+    "zh_tw": "達納托斯的憎恨",
+    "en": "THA_ODIUM"
+  },
+  "image_url": "/images/monsters/1704.gif",
+  "basic_info": {
+    "level": 129,
+    "race": "不死",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 40200,
+    "attack": {
+      "min": 1083,
+      "max": 1509
+    },
+    "magic_attack": {
+      "min": 283,
+      "max": 371
+    },
+    "defense": 120,
+    "magic_defense": 30,
+    "hit_100_percent": 413,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 78,
+      "vit": 71,
+      "int": 54,
+      "dex": 181,
+      "luk": 31
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 0.05,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 731,
+      "name": "2克拉鑽石",
+      "rate": 2.5,
+      "icon_url": "/images/items/731.gif"
+    },
+    {
+      "item_id": 732,
+      "name": "3克拉鑽石",
+      "rate": 0.5,
+      "icon_url": "/images/items/732.gif"
+    },
+    {
+      "item_id": 2520,
+      "name": "哥夫內肩飾",
+      "rate": 5.0,
+      "icon_url": "/images/items/2520.gif"
+    },
+    {
+      "item_id": 4396,
+      "name": "達納托斯的憎恨卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 5.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 7438,
+      "name": "憎恨的碎片",
+      "rate": 50.0,
+      "icon_url": "/images/items/7438.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2774,
+  "name": {
+    "zh_tw": "精英銀月魔女 / 迅捷銀月魔女",
+    "en": "C1_LOLI_RURI"
+  },
+  "image_url": "/images/monsters/2774.gif",
+  "basic_info": {
+    "level": 109,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 76400,
+    "attack": {
+      "min": 1297,
+      "max": 1837
+    },
+    "magic_attack": {
+      "min": 384,
+      "max": 552
+    },
+    "defense": 53,
+    "magic_defense": 44,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 50,
+      "vit": 47,
+      "int": 79,
+      "dex": 95,
+      "luk": 79
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+    },
+    {
+      "item_id": 2718,
+      "name": "月亮胸針[1]",
+      "rate": 0.15,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2718.gif"
+    },
+    {
+      "item_id": 4191,
+      "name": "銀月魔女卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7019,
+      "name": "傲慢之像",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7019.gif"
+    },
+    {
+      "item_id": 7206,
+      "name": "黑貓娃娃",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7206.gif"
+    },
+    {
+      "item_id": 7214,
+      "name": "蝙蝠籠子",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7214.gif"
+    },
+    {
+      "item_id": 7219,
+      "name": "彩色襪子",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7219.gif"
+    },
+    {
+      "item_id": 15038,
+      "name": "薩巴斯的外袍[1]",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/15038.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2615,
+  "name": {
+    "zh_tw": "精英樹精 / 菁英樹精",
+    "en": "C3_WILOW"
+  },
+  "image_url": "/images/monsters/2615.gif",
+  "basic_info": {
+    "level": 8,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 455,
+    "attack": {
+      "min": 33,
+      "max": 39
+    },
+    "magic_attack": {
+      "min": 16,
+      "max": 20
+    },
+    "defense": 38,
+    "magic_defense": 2,
+    "hit_100_percent": 212,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 13,
+      "agi": 3,
+      "vit": 8,
+      "int": 5,
+      "dex": 12,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 516,
+      "name": "番薯",
+      "rate": 50.0,
+      "icon_url": "/images/items/516.gif"
+    },
+    {
+      "item_id": 902,
+      "name": "樹根",
+      "rate": 100.0,
+      "icon_url": "/images/items/902.gif"
+    },
+    {
+      "item_id": 907,
+      "name": "枯木汁",
+      "rate": 100.0,
+      "icon_url": "/images/items/907.gif"
+    },
+    {
+      "item_id": 1019,
+      "name": "瑪哪樹枝",
+      "rate": 5.0,
+      "icon_url": "/images/items/1019.gif"
+    },
+    {
+      "item_id": 1066,
+      "name": "天地樹枝",
+      "rate": 50.0,
+      "icon_url": "/images/items/1066.gif"
+    },
+    {
+      "item_id": 1067,
+      "name": "智慧樹枝",
+      "rate": 100.0,
+      "icon_url": "/images/items/1067.gif"
+    },
+    {
+      "item_id": 1068,
+      "name": "世界樹枝",
+      "rate": 100.0,
+      "icon_url": "/images/items/1068.gif"
+    },
+    {
+      "item_id": 4010,
+      "name": "樹精卡片",
+      "rate": 0.5,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

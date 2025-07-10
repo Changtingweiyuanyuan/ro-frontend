@@ -1,0 +1,90 @@
+{
+  "id": 2795,
+  "name": {
+    "zh_tw": "精英亞拉 / 雄壯亞拉",
+    "en": "C2_IARA"
+  },
+  "image_url": "/images/monsters/2795.gif",
+  "basic_info": {
+    "level": 79,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 58900,
+    "attack": {
+      "min": 328,
+      "max": 418
+    },
+    "magic_attack": {
+      "min": 208,
+      "max": 268
+    },
+    "defense": 0,
+    "magic_defense": 76,
+    "hit_100_percent": 297,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 14,
+      "vit": 41,
+      "int": 60,
+      "dex": 83,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 710,
+      "name": "幻想花",
+      "rate": 0.25,
+      "icon_url": "/images/items/710.gif"
+    },
+    {
+      "item_id": 747,
+      "name": "水晶鏡子",
+      "rate": 2.5,
+      "icon_url": "/images/items/747.gif"
+    },
+    {
+      "item_id": 748,
+      "name": "永恆玫瑰",
+      "rate": 1.25,
+      "icon_url": "/images/items/748.gif"
+    },
+    {
+      "item_id": 950,
+      "name": "人魚之心",
+      "rate": 100.0,
+      "icon_url": "/images/items/950.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 12.5,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.15,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 2334,
+      "name": "魔法外套",
+      "rate": 0.05,
+      "icon_url": "/images/items/2334.gif"
+    },
+    {
+      "item_id": 27120,
+      "name": "亞拉卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/27120.gif"
+    }
+  ]
+}

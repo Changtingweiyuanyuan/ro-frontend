@@ -1,0 +1,54 @@
+{
+  "id": 2232,
+  "name": {
+    "zh_tw": "神行太保 科迪",
+    "en": "G_GERTIE"
+  },
+  "image_url": "/images/monsters/2232.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2135410,
+    "attack": {
+      "min": 5306,
+      "max": 7772
+    },
+    "magic_attack": {
+      "min": 1102,
+      "max": 1868
+    },
+    "defense": 251,
+    "magic_defense": 107,
+    "hit_100_percent": 687,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 217,
+      "agi": 315,
+      "vit": 127,
+      "int": 51,
+      "dex": 333,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.1,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 1.0,
+      "icon_url": "/images/items/6224.gif"
+    }
+  ]
+}

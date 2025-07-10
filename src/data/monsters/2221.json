@@ -1,0 +1,90 @@
+{
+  "id": 2221,
+  "name": {
+    "zh_tw": "暗●聖殿十字軍",
+    "en": "RANDEL"
+  },
+  "image_url": "/images/monsters/2221.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 478745,
+    "attack": {
+      "min": 2743,
+      "max": 3965
+    },
+    "magic_attack": {
+      "min": 1052,
+      "max": 1790
+    },
+    "defense": 180,
+    "magic_defense": 56,
+    "hit_100_percent": 428,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 158,
+      "agi": 74,
+      "vit": 213,
+      "int": 50,
+      "dex": 185,
+      "luk": 65
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 1.0,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1435,
+      "name": "重炮長槍[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/1435.gif"
+    },
+    {
+      "item_id": 2162,
+      "name": "誓約之書(第二卷)[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/2162.gif"
+    },
+    {
+      "item_id": 4572,
+      "name": "暗●聖殿十字軍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6470,
+      "name": "血的飢渴",
+      "rate": 1.5,
+      "icon_url": "/images/items/6470.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.01,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 20.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 25130,
+      "name": "不祥的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25130.gif"
+    }
+  ]
+}

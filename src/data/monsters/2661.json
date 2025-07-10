@@ -1,0 +1,84 @@
+{
+  "id": 2661,
+  "name": {
+    "zh_tw": "精英小雪獸 / 迅捷小雪獸",
+    "en": "C1_SIROMA"
+  },
+  "image_url": "/images/monsters/2661.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 59550,
+    "attack": {
+      "min": 666,
+      "max": 910
+    },
+    "magic_attack": {
+      "min": 238,
+      "max": 298
+    },
+    "defense": 64,
+    "magic_defense": 38,
+    "hit_100_percent": 353,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 83,
+      "agi": 43,
+      "vit": 50,
+      "int": 70,
+      "dex": 96,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 0.25,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 991,
+      "name": "水靈礦石",
+      "rate": 0.5,
+      "icon_url": "/images/items/991.gif"
+    },
+    {
+      "item_id": 1691,
+      "name": "奇妙狐尾草魔杖[2]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1691.gif"
+    },
+    {
+      "item_id": 1695,
+      "name": "精美狐尾草模型[2]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1695.gif"
+    },
+    {
+      "item_id": 4416,
+      "name": "小雪怪卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7066,
+      "name": "冰塊一角",
+      "rate": 37.5,
+      "icon_url": "/images/items/7066.gif"
+    },
+    {
+      "item_id": 7561,
+      "name": "冰塊心臟",
+      "rate": 12.5,
+      "icon_url": "/images/items/7561.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1296,
+  "name": {
+    "zh_tw": "犬妖首領",
+    "en": "KOBOLD_LEADER"
+  },
+  "image_url": "/images/monsters/1296.gif",
+  "basic_info": {
+    "level": 112,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13520,
+    "attack": {
+      "min": 1043,
+      "max": 1441
+    },
+    "magic_attack": {
+      "min": 235,
+      "max": 293
+    },
+    "defense": 90,
+    "magic_defense": 62,
+    "hit_100_percent": 355,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 135,
+      "agi": 34,
+      "vit": 68,
+      "int": 56,
+      "dex": 116,
+      "luk": 47
+    }
+  },
+  "drops": [
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 0.75,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 0.5,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 6.0,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 2.25,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1034,
+      "name": "犬妖的毛",
+      "rate": 31.53,
+      "icon_url": "/images/items/1034.gif"
+    },
+    {
+      "item_id": 1613,
+      "name": "巫杖 魂咬",
+      "rate": 0.01,
+      "icon_url": "/images/items/1613.gif"
+    },
+    {
+      "item_id": 4291,
+      "name": "犬妖首領卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 16040,
+      "name": "緋紅色鐵鎚[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/16040.gif"
+    }
+  ]
+}

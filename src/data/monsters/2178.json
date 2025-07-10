@@ -1,0 +1,84 @@
+{
+  "id": 2178,
+  "name": {
+    "zh_tw": "深海貝殼",
+    "en": "MD_SHELLFISH"
+  },
+  "image_url": "/images/monsters/2178.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 160000,
+    "attack": {
+      "min": 748,
+      "max": 1036
+    },
+    "magic_attack": {
+      "min": 1110,
+      "max": 1784
+    },
+    "defense": 43,
+    "magic_defense": 215,
+    "hit_100_percent": 343,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 31,
+      "vit": 68,
+      "int": 225,
+      "dex": 166,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.12,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 965,
+      "name": "蛤蜊外殼",
+      "rate": 41.24,
+      "icon_url": "/images/items/965.gif"
+    },
+    {
+      "item_id": 966,
+      "name": "蛤蜊肉",
+      "rate": 7.5,
+      "icon_url": "/images/items/966.gif"
+    },
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 0.06,
+      "icon_url": "/images/items/1001.gif"
+    },
+    {
+      "item_id": 1056,
+      "name": "黃玉碎片",
+      "rate": 7.5,
+      "icon_url": "/images/items/1056.gif"
+    },
+    {
+      "item_id": 7049,
+      "name": "石頭",
+      "rate": 3.74,
+      "icon_url": "/images/items/7049.gif"
+    },
+    {
+      "item_id": 12615,
+      "name": "下級錢袋",
+      "rate": 0.02,
+      "icon_url": "/images/items/12615.gif"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 3156,
+  "name": {
+    "zh_tw": "勘查機器人",
+    "en": "EXPLORATION_ROVER"
+  },
+  "image_url": "/images/monsters/3156.gif",
+  "basic_info": {
+    "level": 168,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 293640,
+    "attack": {
+      "min": 2278,
+      "max": 3284
+    },
+    "magic_attack": {
+      "min": 828,
+      "max": 1310
+    },
+    "defense": 105,
+    "magic_defense": 41,
+    "hit_100_percent": 443,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 63,
+      "vit": 35,
+      "int": 99,
+      "dex": 106,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.01,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 50.0,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 0.01,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 6961,
+      "name": "大型廢鐵",
+      "rate": 0.01,
+      "icon_url": "/images/items/6961.gif"
+    }
+  ]
+}

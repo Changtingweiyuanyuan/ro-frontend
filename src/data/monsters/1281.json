@@ -1,0 +1,90 @@
+{
+  "id": 1281,
+  "name": {
+    "zh_tw": "賢者蟲",
+    "en": "SAGEWORM"
+  },
+  "image_url": "/images/monsters/1281.gif",
+  "basic_info": {
+    "level": 70,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2872,
+    "attack": {
+      "min": 241,
+      "max": 309
+    },
+    "magic_attack": {
+      "min": 225,
+      "max": 299
+    },
+    "defense": 109,
+    "magic_defense": 45,
+    "hit_100_percent": 305,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 39,
+      "agi": 29,
+      "vit": 28,
+      "int": 71,
+      "dex": 48,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 689,
+      "name": "冰箭術 等級5",
+      "rate": 0.5,
+      "icon_url": "/images/items/689.gif"
+    },
+    {
+      "item_id": 691,
+      "name": "火箭術卷軸Lv5",
+      "rate": 0.5,
+      "icon_url": "/images/items/691.gif"
+    },
+    {
+      "item_id": 1055,
+      "name": "蚯蚓皮",
+      "rate": 15.0,
+      "icon_url": "/images/items/1055.gif"
+    },
+    {
+      "item_id": 1097,
+      "name": "破舊書頁",
+      "rate": 5.0,
+      "icon_url": "/images/items/1097.gif"
+    },
+    {
+      "item_id": 2716,
+      "name": "圖書管理員的手套[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2716.gif"
+    },
+    {
+      "item_id": 4219,
+      "name": "賢者蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5012,
+      "name": "學士帽",
+      "rate": 0.01,
+      "icon_url": "/images/items/5012.gif"
+    },
+    {
+      "item_id": 10024,
+      "name": "時尚眼鏡",
+      "rate": 0.05,
+      "icon_url": "/images/items/10024.gif"
+    }
+  ]
+}

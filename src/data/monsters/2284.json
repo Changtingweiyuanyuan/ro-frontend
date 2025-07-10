@@ -1,0 +1,41 @@
+{
+  "id": 2284,
+  "name": {
+    "zh_tw": "深淵犬妖",
+    "en": "大斧"
+  },
+  "image_url": "/images/monsters/2284.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 194830,
+    "attack": {
+      "min": 1734,
+      "max": 2476
+    },
+    "magic_attack": {
+      "min": 338,
+      "max": 460
+    },
+    "defense": 103,
+    "magic_defense": 25,
+    "hit_100_percent": 427,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 76,
+      "vit": 61,
+      "int": 53,
+      "dex": 98,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

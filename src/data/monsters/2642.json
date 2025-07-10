@@ -1,0 +1,90 @@
+{
+  "id": 2642,
+  "name": {
+    "zh_tw": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+    "en": "C2_STEEL_CHONCHON"
+  },
+  "image_url": "/images/monsters/2642.gif",
+  "basic_info": {
+    "level": 48,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 11990,
+    "attack": {
+      "min": 151,
+      "max": 189
+    },
+    "magic_attack": {
+      "min": 82,
+      "max": 104
+    },
+    "defense": 57,
+    "magic_defense": 20,
+    "hit_100_percent": 312,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 30,
+      "agi": 62,
+      "vit": 20,
+      "int": 10,
+      "dex": 56,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 910,
+      "name": "加勒結晶",
+      "rate": 60.0,
+      "icon_url": "/images/items/910.gif"
+    },
+    {
+      "item_id": 935,
+      "name": "堅硬外殼",
+      "rate": 100.0,
+      "icon_url": "/images/items/935.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 0.75,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 2.25,
+      "icon_url": "/images/items/992.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 5.0,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 0.75,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 4042,
+      "name": "綠蒼蠅卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

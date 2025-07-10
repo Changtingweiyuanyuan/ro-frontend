@@ -1,0 +1,90 @@
+{
+  "id": 1032,
+  "name": {
+    "zh_tw": "畢萊特",
+    "en": "VERIT"
+  },
+  "image_url": "/images/monsters/1032.gif",
+  "basic_info": {
+    "level": 52,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1944,
+    "attack": {
+      "min": 214,
+      "max": 270
+    },
+    "magic_attack": {
+      "min": 76,
+      "max": 88
+    },
+    "defense": 63,
+    "magic_defense": 10,
+    "hit_100_percent": 257,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 51,
+      "agi": 4,
+      "vit": 25,
+      "int": 10,
+      "dex": 6,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 3.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 639,
+      "name": "馴服手鐲",
+      "rate": 0.1,
+      "icon_url": "/images/items/639.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 3.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 929,
+      "name": "不死心臟",
+      "rate": 45.0,
+      "icon_url": "/images/items/929.gif"
+    },
+    {
+      "item_id": 930,
+      "name": "腐爛繃帶",
+      "rate": 5.5,
+      "icon_url": "/images/items/930.gif"
+    },
+    {
+      "item_id": 2609,
+      "name": "骷髏戒指",
+      "rate": 0.01,
+      "icon_url": "/images/items/2609.gif"
+    },
+    {
+      "item_id": 2612,
+      "name": "花戒指",
+      "rate": 1.0,
+      "icon_url": "/images/items/2612.gif"
+    },
+    {
+      "item_id": 4107,
+      "name": "木乃伊犬卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

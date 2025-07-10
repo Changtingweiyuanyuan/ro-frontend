@@ -1,0 +1,84 @@
+{
+  "id": 2842,
+  "name": {
+    "zh_tw": "精英獵蠅 / 憤怒獵蠅",
+    "en": "C4_DUSTINESS"
+  },
+  "image_url": "/images/monsters/2842.gif",
+  "basic_info": {
+    "level": 62,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10130,
+    "attack": {
+      "min": 266,
+      "max": 346
+    },
+    "magic_attack": {
+      "min": 143,
+      "max": 163
+    },
+    "defense": 69,
+    "magic_defense": 50,
+    "hit_100_percent": 311,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 46,
+      "agi": 28,
+      "vit": 46,
+      "int": 60,
+      "dex": 75,
+      "luk": 105
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 30.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 928,
+      "name": "昆蟲觸角",
+      "rate": 50.0,
+      "icon_url": "/images/items/928.gif"
+    },
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 0.25,
+      "icon_url": "/images/items/1001.gif"
+    },
+    {
+      "item_id": 1057,
+      "name": "蛾蝶翅膀粉末",
+      "rate": 100.0,
+      "icon_url": "/images/items/1057.gif"
+    },
+    {
+      "item_id": 1058,
+      "name": "蛾蝶翅膀",
+      "rate": 12.5,
+      "icon_url": "/images/items/1058.gif"
+    },
+    {
+      "item_id": 2291,
+      "name": "蝴蝶假面",
+      "rate": 0.1,
+      "icon_url": "/images/items/2291.gif"
+    },
+    {
+      "item_id": 4056,
+      "name": "獵蠅卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

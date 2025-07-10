@@ -1,0 +1,90 @@
+{
+  "id": 2735,
+  "name": {
+    "zh_tw": "精英豬籠草 / 雄壯豬籠草",
+    "en": "C2_NEPENTHES"
+  },
+  "image_url": "/images/monsters/2735.gif",
+  "basic_info": {
+    "level": 114,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 150990,
+    "attack": {
+      "min": 1016,
+      "max": 1422
+    },
+    "magic_attack": {
+      "min": 240,
+      "max": 316
+    },
+    "defense": 25,
+    "magic_defense": 5,
+    "hit_100_percent": 357,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 94,
+      "agi": 32,
+      "vit": 41,
+      "int": 39,
+      "dex": 210,
+      "luk": 59
+    }
+  },
+  "drops": [
+    {
+      "item_id": 905,
+      "name": "植物梗",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/905.gif"
+    },
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 1.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/993.gif"
+    },
+    {
+      "item_id": 1740,
+      "name": "豬籠草之弓[2]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1740.gif"
+    },
+    {
+      "item_id": 1926,
+      "name": "豬籠草豎琴[2]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1926.gif"
+    },
+    {
+      "item_id": 1979,
+      "name": "豬籠草的莖[2]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1979.gif"
+    },
+    {
+      "item_id": 4470,
+      "name": "豬籠草卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 5399,
+      "name": "曼陀羅帽子[1]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/5399.gif"
+    },
+    {
+      "item_id": 6041,
+      "name": "結實的藤",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6041.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1885,
+  "name": {
+    "zh_tw": "青冠龍",
+    "en": "GOPINICH"
+  },
+  "image_url": "/images/monsters/1885.gif",
+  "basic_info": {
+    "level": 97,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1120500,
+    "attack": {
+      "min": 2291,
+      "max": 3325
+    },
+    "magic_attack": {
+      "min": 1501,
+      "max": 2619
+    },
+    "defense": 355,
+    "magic_defense": 121,
+    "hit_100_percent": 414,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 127,
+      "agi": 102,
+      "vit": 143,
+      "int": 102,
+      "dex": 182,
+      "luk": 76
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 20.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 1417,
+      "name": "鐮戟[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/1417.gif"
+    },
+    {
+      "item_id": 1737,
+      "name": "伊克西翁之翼[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1737.gif"
+    },
+    {
+      "item_id": 2621,
+      "name": "力量戒指[1]",
+      "rate": 1.0,
+      "icon_url": "/images/items/2621.gif"
+    },
+    {
+      "item_id": 5007,
+      "name": "領導者頭箍",
+      "rate": 0.01,
+      "icon_url": "/images/items/5007.gif"
+    },
+    {
+      "item_id": 7444,
+      "name": "財寶箱",
+      "rate": 25.0,
+      "icon_url": "/images/items/7444.gif"
+    },
+    {
+      "item_id": 12080,
+      "name": "雞尾酒龍的呼吸",
+      "rate": 5.0,
+      "icon_url": "/images/items/12080.gif"
+    },
+    {
+      "item_id": 27162,
+      "name": "青冠龍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27162.gif"
+    }
+  ]
+}

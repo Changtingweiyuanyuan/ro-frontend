@@ -1,0 +1,90 @@
+{
+  "id": 2707,
+  "name": {
+    "zh_tw": "精英漂浮蟲 / 憤怒漂浮蟲",
+    "en": "C4_PLANKTON"
+  },
+  "image_url": "/images/monsters/2707.gif",
+  "basic_info": {
+    "level": 40,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 6160,
+    "attack": {
+      "min": 135,
+      "max": 171
+    },
+    "magic_attack": {
+      "min": 120,
+      "max": 142
+    },
+    "defense": 28,
+    "magic_defense": 28,
+    "hit_100_percent": 310,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 23,
+      "agi": 68,
+      "vit": 25,
+      "int": 55,
+      "dex": 35,
+      "luk": 14
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 630,
+      "name": "青苔",
+      "rate": 0.5,
+      "icon_url": "/images/items/630.gif"
+    },
+    {
+      "item_id": 645,
+      "name": "集中藥水",
+      "rate": 1.25,
+      "icon_url": "/images/items/645.gif"
+    },
+    {
+      "item_id": 910,
+      "name": "加勒結晶",
+      "rate": 7.5,
+      "icon_url": "/images/items/910.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 17.5,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 970,
+      "name": "酒精",
+      "rate": 0.1,
+      "icon_url": "/images/items/970.gif"
+    },
+    {
+      "item_id": 1052,
+      "name": "單細胞",
+      "rate": 100.0,
+      "icon_url": "/images/items/1052.gif"
+    },
+    {
+      "item_id": 4024,
+      "name": "漂浮蟲卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2760,
+  "name": {
+    "zh_tw": "精英土撥鼠 / 雄壯土撥鼠",
+    "en": "C2_MARTIN"
+  },
+  "image_url": "/images/monsters/2760.gif",
+  "basic_info": {
+    "level": 39,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10560,
+    "attack": {
+      "min": 131,
+      "max": 165
+    },
+    "magic_attack": {
+      "min": 66,
+      "max": 78
+    },
+    "defense": 58,
+    "magic_defense": 19,
+    "hit_100_percent": 270,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 25,
+      "agi": 29,
+      "vit": 28,
+      "int": 15,
+      "dex": 30,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 1017,
+      "name": "鼠須",
+      "rate": 100.0,
+      "icon_url": "/images/items/1017.gif"
+    },
+    {
+      "item_id": 1018,
+      "name": "鼠指甲",
+      "rate": 100.0,
+      "icon_url": "/images/items/1018.gif"
+    },
+    {
+      "item_id": 1251,
+      "name": "拳刃[3]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1251.gif"
+    },
+    {
+      "item_id": 2225,
+      "name": "防風皮革眼鏡[1]",
+      "rate": 0.15,
+      "icon_url": "/images/items/2225.gif"
+    },
+    {
+      "item_id": 4046,
+      "name": "土撥鼠卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5009,
+      "name": "安全帽",
+      "rate": 0.05,
+      "icon_url": "/images/items/5009.gif"
+    },
+    {
+      "item_id": 10010,
+      "name": "變形鍋子",
+      "rate": 0.25,
+      "icon_url": "/images/items/10010.gif"
+    }
+  ]
+}

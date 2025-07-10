@@ -1,0 +1,90 @@
+{
+  "id": 1009,
+  "name": {
+    "zh_tw": "禿鷹",
+    "en": "CONDOR"
+  },
+  "image_url": "/images/monsters/1009.gif",
+  "basic_info": {
+    "level": 12,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 114,
+    "attack": {
+      "min": 37,
+      "max": 43
+    },
+    "magic_attack": {
+      "min": 17,
+      "max": 21
+    },
+    "defense": 7,
+    "magic_defense": 5,
+    "hit_100_percent": 220,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 14,
+      "agi": 7,
+      "vit": 6,
+      "int": 1,
+      "dex": 13,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 517,
+      "name": "肉",
+      "rate": 4.0,
+      "icon_url": "/images/items/517.gif"
+    },
+    {
+      "item_id": 582,
+      "name": "橙子",
+      "rate": 6.0,
+      "icon_url": "/images/items/582.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 916,
+      "name": "羽毛",
+      "rate": 30.0,
+      "icon_url": "/images/items/916.gif"
+    },
+    {
+      "item_id": 917,
+      "name": "鳥指甲",
+      "rate": 80.0,
+      "icon_url": "/images/items/917.gif"
+    },
+    {
+      "item_id": 1702,
+      "name": "弓[4]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1702.gif"
+    },
+    {
+      "item_id": 1750,
+      "name": "箭矢",
+      "rate": 50.0,
+      "icon_url": "/images/items/1750.gif"
+    },
+    {
+      "item_id": 4015,
+      "name": "禿鷹卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

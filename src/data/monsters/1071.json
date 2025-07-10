@@ -1,0 +1,90 @@
+{
+  "id": 1071,
+  "name": {
+    "zh_tw": "邪骸海盜",
+    "en": "PIRATE_SKEL"
+  },
+  "image_url": "/images/monsters/1071.gif",
+  "basic_info": {
+    "level": 48,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1411,
+    "attack": {
+      "min": 167,
+      "max": 209
+    },
+    "magic_attack": {
+      "min": 77,
+      "max": 89
+    },
+    "defense": 53,
+    "magic_defense": 20,
+    "hit_100_percent": 275,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 35,
+      "agi": 25,
+      "vit": 25,
+      "int": 15,
+      "dex": 30,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 628,
+      "name": "營養大骨",
+      "rate": 0.1,
+      "icon_url": "/images/items/628.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.22,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 15.0,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 1104,
+      "name": "圓月刀[3]",
+      "rate": 1.25,
+      "icon_url": "/images/items/1104.gif"
+    },
+    {
+      "item_id": 2287,
+      "name": "海盜頭巾",
+      "rate": 0.08,
+      "icon_url": "/images/items/2287.gif"
+    },
+    {
+      "item_id": 4073,
+      "name": "邪骸海盜卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7477,
+      "name": "6級烹飪書",
+      "rate": 0.03,
+      "icon_url": "/images/items/7477.gif"
+    }
+  ]
+}

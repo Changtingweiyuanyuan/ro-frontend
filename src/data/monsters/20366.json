@@ -1,0 +1,78 @@
+{
+  "id": 20366,
+  "name": {
+    "zh_tw": "異種雙頭卡夫特",
+    "en": "EP17_1_TWIN_CAPUT2"
+  },
+  "image_url": "/images/monsters/20366.gif",
+  "basic_info": {
+    "level": 175,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 750501,
+    "attack": {
+      "min": 3634,
+      "max": 5272
+    },
+    "magic_attack": {
+      "min": 1284,
+      "max": 2132
+    },
+    "defense": 290,
+    "magic_defense": 68,
+    "hit_100_percent": 474,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 187,
+      "agi": 90,
+      "vit": 101,
+      "int": 121,
+      "dex": 143,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1044,
+      "name": "茲諾克之牙",
+      "rate": 16.0,
+      "icon_url": "/images/items/1044.gif"
+    },
+    {
+      "item_id": 1050,
+      "name": "血管",
+      "rate": 20.0,
+      "icon_url": "/images/items/1050.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 20.0,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 7511,
+      "name": "黑暗的輪",
+      "rate": 25.0,
+      "icon_url": "/images/items/7511.gif"
+    },
+    {
+      "item_id": 25723,
+      "name": "核心元件",
+      "rate": 0.1,
+      "icon_url": "/images/items/25723.gif"
+    },
+    {
+      "item_id": 27317,
+      "name": "變異雙頭卡夫特卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27317.gif"
+    }
+  ]
+}

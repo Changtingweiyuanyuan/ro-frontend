@@ -1,0 +1,41 @@
+{
+  "id": 3086,
+  "name": {
+    "zh_tw": "Mercenary",
+    "en": "WA_MERCENARY"
+  },
+  "image_url": "/images/monsters/3086.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20099,
+    "attack": {
+      "min": 566,
+      "max": 790
+    },
+    "magic_attack": {
+      "min": 678,
+      "max": 1144
+    },
+    "defense": 66,
+    "magic_defense": 36,
+    "hit_100_percent": 353,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 46,
+      "vit": 25,
+      "int": 35,
+      "dex": 64,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

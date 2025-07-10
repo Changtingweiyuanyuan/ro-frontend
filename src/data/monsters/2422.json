@@ -1,0 +1,84 @@
+{
+  "id": 2422,
+  "name": {
+    "zh_tw": "暗●流氓",
+    "en": "L_WHIKEBAIN"
+  },
+  "image_url": "/images/monsters/2422.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 11712,
+    "attack": {
+      "min": 659,
+      "max": 877
+    },
+    "magic_attack": {
+      "min": 295,
+      "max": 425
+    },
+    "defense": 125,
+    "magic_defense": 72,
+    "hit_100_percent": 410,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 125,
+      "agi": 100,
+      "vit": 75,
+      "int": 46,
+      "dex": 93,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.02,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 1231,
+      "name": "華麗短劍",
+      "rate": 0.05,
+      "icon_url": "/images/items/1231.gif"
+    },
+    {
+      "item_id": 1239,
+      "name": "巨毒短劍",
+      "rate": 0.5,
+      "icon_url": "/images/items/1239.gif"
+    },
+    {
+      "item_id": 2335,
+      "name": "盜賊之衣",
+      "rate": 0.2,
+      "icon_url": "/images/items/2335.gif"
+    },
+    {
+      "item_id": 2336,
+      "name": "盜賊之衣[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2336.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 25.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 50.0,
+      "icon_url": "/images/items/7347.gif"
+    }
+  ]
+}
