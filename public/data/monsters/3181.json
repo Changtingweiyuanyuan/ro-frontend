@@ -1,0 +1,90 @@
+{
+  "id": 3181,
+  "name": {
+    "zh_tw": "暴走的船長裴陸",
+    "en": "E1_FELOCK"
+  },
+  "image_url": "/images/monsters/3181.gif",
+  "basic_info": {
+    "level": 130,
+    "race": "龍",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3000000,
+    "attack": {
+      "min": 935,
+      "max": 1285
+    },
+    "magic_attack": {
+      "min": 671,
+      "max": 1089
+    },
+    "defense": 101,
+    "magic_defense": 90,
+    "hit_100_percent": 419,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 78,
+      "vit": 50,
+      "int": 55,
+      "dex": 108,
+      "luk": 55
+    }
+  },
+  "drops": [
+    {
+      "item_id": 12072,
+      "name": "整只BBQ",
+      "rate": 30.0,
+      "icon_url": "/images/items/12072.gif"
+    },
+    {
+      "item_id": 12077,
+      "name": "特製蜂膠藥草茶",
+      "rate": 30.0,
+      "icon_url": "/images/items/12077.gif"
+    },
+    {
+      "item_id": 12087,
+      "name": "特製烤鱷魚蒸野菜",
+      "rate": 30.0,
+      "icon_url": "/images/items/12087.gif"
+    },
+    {
+      "item_id": 15117,
+      "name": "裴陸船長盔甲",
+      "rate": 1.0,
+      "icon_url": "/images/items/15117.gif"
+    },
+    {
+      "item_id": 19914,
+      "name": "(時裝)裴陸船長帽",
+      "rate": 0.1,
+      "icon_url": "/images/items/19914.gif"
+    },
+    {
+      "item_id": 20744,
+      "name": "裴陸船長斗篷[1]",
+      "rate": 1.0,
+      "icon_url": "/images/items/20744.gif"
+    },
+    {
+      "item_id": 22047,
+      "name": "裴陸船長靴子",
+      "rate": 1.0,
+      "icon_url": "/images/items/22047.gif"
+    },
+    {
+      "item_id": 27182,
+      "name": "船長裴陸卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27182.gif"
+    }
+  ]
+}

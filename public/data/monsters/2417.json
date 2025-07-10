@@ -1,0 +1,84 @@
+{
+  "id": 2417,
+  "name": {
+    "zh_tw": "暗●鐵匠",
+    "en": "L_HARWORD"
+  },
+  "image_url": "/images/monsters/2417.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 11803,
+    "attack": {
+      "min": 847,
+      "max": 1161
+    },
+    "magic_attack": {
+      "min": 322,
+      "max": 474
+    },
+    "defense": 117,
+    "magic_defense": 9,
+    "hit_100_percent": 377,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 124,
+      "agi": 71,
+      "vit": 55,
+      "int": 47,
+      "dex": 73,
+      "luk": 43
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.02,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 1361,
+      "name": "雙手斧[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1361.gif"
+    },
+    {
+      "item_id": 1375,
+      "name": "強襲戰斧[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1375.gif"
+    },
+    {
+      "item_id": 2310,
+      "name": "長大衣[1]",
+      "rate": 0.25,
+      "icon_url": "/images/items/2310.gif"
+    },
+    {
+      "item_id": 2318,
+      "name": "祕衣 美德[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2318.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 50.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 25.0,
+      "icon_url": "/images/items/7347.gif"
+    }
+  ]
+}

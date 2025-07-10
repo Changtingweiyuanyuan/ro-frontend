@@ -1,0 +1,90 @@
+{
+  "id": 2763,
+  "name": {
+    "zh_tw": "精英馬爾杜克 / 狡猾馬爾杜克",
+    "en": "C5_MARDUK"
+  },
+  "image_url": "/images/monsters/2763.gif",
+  "basic_info": {
+    "level": 73,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 14465,
+    "attack": {
+      "min": 328,
+      "max": 424
+    },
+    "magic_attack": {
+      "min": 191,
+      "max": 259
+    },
+    "defense": 66,
+    "magic_defense": 43,
+    "hit_100_percent": 327,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 49,
+      "vit": 21,
+      "int": 40,
+      "dex": 79,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 642,
+      "name": "惡魔召喚書",
+      "rate": 0.5,
+      "icon_url": "/images/items/642.gif"
+    },
+    {
+      "item_id": 691,
+      "name": "火箭術卷軸Lv5",
+      "rate": 2.5,
+      "icon_url": "/images/items/691.gif"
+    },
+    {
+      "item_id": 994,
+      "name": "火靈原石",
+      "rate": 0.9,
+      "icon_url": "/images/items/994.gif"
+    },
+    {
+      "item_id": 1045,
+      "name": "聖殿士面具",
+      "rate": 100.0,
+      "icon_url": "/images/items/1045.gif"
+    },
+    {
+      "item_id": 1608,
+      "name": "智慧魔杖[3]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1608.gif"
+    },
+    {
+      "item_id": 1614,
+      "name": "聖杖 英靈",
+      "rate": 0.1,
+      "icon_url": "/images/items/1614.gif"
+    },
+    {
+      "item_id": 2617,
+      "name": "智慧手套",
+      "rate": 0.05,
+      "icon_url": "/images/items/2617.gif"
+    },
+    {
+      "item_id": 4112,
+      "name": "馬爾杜克卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

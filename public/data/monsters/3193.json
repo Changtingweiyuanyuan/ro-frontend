@@ -1,0 +1,48 @@
+{
+  "id": 3193,
+  "name": {
+    "zh_tw": "古代的中型基勘特斯",
+    "en": "MM_M_GIGAN3"
+  },
+  "image_url": "/images/monsters/3193.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1126300,
+    "attack": {
+      "min": 3454,
+      "max": 5042
+    },
+    "magic_attack": {
+      "min": 310,
+      "max": 410
+    },
+    "defense": 113,
+    "magic_defense": 155,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 125,
+      "vit": 45,
+      "int": 35,
+      "dex": 271,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 27183,
+      "name": "基勘特斯卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27183.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1261,
+  "name": {
+    "zh_tw": "狂暴野貓",
+    "en": "WILD_ROSE"
+  },
+  "image_url": "/images/monsters/1261.gif",
+  "basic_info": {
+    "level": 70,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2682,
+    "attack": {
+      "min": 231,
+      "max": 291
+    },
+    "magic_attack": {
+      "min": 136,
+      "max": 164
+    },
+    "defense": 75,
+    "magic_defense": 15,
+    "hit_100_percent": 373,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 44,
+      "agi": 87,
+      "vit": 31,
+      "int": 35,
+      "dex": 69,
+      "luk": 80
+    }
+  },
+  "drops": [
+    {
+      "item_id": 528,
+      "name": "魔物飼料",
+      "rate": 3.0,
+      "icon_url": "/images/items/528.gif"
+    },
+    {
+      "item_id": 624,
+      "name": "腐臭之魚",
+      "rate": 0.18,
+      "icon_url": "/images/items/624.gif"
+    },
+    {
+      "item_id": 748,
+      "name": "永恆玫瑰",
+      "rate": 0.25,
+      "icon_url": "/images/items/748.gif"
+    },
+    {
+      "item_id": 2244,
+      "name": "紅蝶發帶",
+      "rate": 0.01,
+      "icon_url": "/images/items/2244.gif"
+    },
+    {
+      "item_id": 2336,
+      "name": "盜賊之衣[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2336.gif"
+    },
+    {
+      "item_id": 4257,
+      "name": "狂暴野貓卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5037,
+      "name": "水果皮帽",
+      "rate": 0.6,
+      "icon_url": "/images/items/5037.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 26.68,
+      "icon_url": "/images/items/7053.gif"
+    }
+  ]
+}

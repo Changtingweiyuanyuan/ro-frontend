@@ -1,0 +1,84 @@
+{
+  "id": 1073,
+  "name": {
+    "zh_tw": "卡拉蟹",
+    "en": "CRAB"
+  },
+  "image_url": "/images/monsters/1073.gif",
+  "basic_info": {
+    "level": 43,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1233,
+    "attack": {
+      "min": 120,
+      "max": 148
+    },
+    "magic_attack": {
+      "min": 57,
+      "max": 63
+    },
+    "defense": 36,
+    "magic_defense": 11,
+    "hit_100_percent": 260,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 22,
+      "agi": 14,
+      "vit": 24,
+      "int": 7,
+      "dex": 28,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.19,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 960,
+      "name": "鉗子",
+      "rate": 7.5,
+      "icon_url": "/images/items/960.gif"
+    },
+    {
+      "item_id": 964,
+      "name": "螃蟹外殼",
+      "rate": 27.5,
+      "icon_url": "/images/items/964.gif"
+    },
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 0.07,
+      "icon_url": "/images/items/1001.gif"
+    },
+    {
+      "item_id": 4153,
+      "name": "卡拉蟹卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7049,
+      "name": "石頭",
+      "rate": 3.5,
+      "icon_url": "/images/items/7049.gif"
+    }
+  ]
+}

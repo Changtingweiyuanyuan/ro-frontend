@@ -1,0 +1,90 @@
+{
+  "id": 1315,
+  "name": {
+    "zh_tw": "風靈龜",
+    "en": "ASSULTER"
+  },
+  "image_url": "/images/monsters/1315.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8977,
+    "attack": {
+      "min": 701,
+      "max": 953
+    },
+    "magic_attack": {
+      "min": 166,
+      "max": 208
+    },
+    "defense": 169,
+    "magic_defense": 49,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 92,
+      "vit": 30,
+      "int": 20,
+      "dex": 144,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.01,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 967,
+      "name": "烏龜外殼",
+      "rate": 22.07,
+      "icon_url": "/images/items/967.gif"
+    },
+    {
+      "item_id": 4246,
+      "name": "風靈龜卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6214,
+      "name": "煙幕粉末",
+      "rate": 1.0,
+      "icon_url": "/images/items/6214.gif"
+    },
+    {
+      "item_id": 7069,
+      "name": "破裂的盔甲一角",
+      "rate": 6.0,
+      "icon_url": "/images/items/7069.gif"
+    },
+    {
+      "item_id": 7072,
+      "name": "鏽的飛鏢",
+      "rate": 4.2,
+      "icon_url": "/images/items/7072.gif"
+    },
+    {
+      "item_id": 13300,
+      "name": "風魔翼飛鏢",
+      "rate": 0.03,
+      "icon_url": "/images/items/13300.gif"
+    },
+    {
+      "item_id": 20788,
+      "name": "喵族專屬斗篷[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/20788.gif"
+    }
+  ]
+}

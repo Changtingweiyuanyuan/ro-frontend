@@ -1,0 +1,90 @@
+{
+  "id": 20377,
+  "name": {
+    "zh_tw": "堅硬卡浩",
+    "en": "KAHO_H"
+  },
+  "image_url": "/images/monsters/20377.gif",
+  "basic_info": {
+    "level": 173,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1178774,
+    "attack": {
+      "min": 1929,
+      "max": 2761
+    },
+    "magic_attack": {
+      "min": 1524,
+      "max": 2556
+    },
+    "defense": 208,
+    "magic_defense": 70,
+    "hit_100_percent": 513,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 96,
+      "agi": 130,
+      "vit": 29,
+      "int": 149,
+      "dex": 112,
+      "luk": 51
+    }
+  },
+  "drops": [
+    {
+      "item_id": 690,
+      "name": "火箭術卷軸Lv3",
+      "rate": 0.5,
+      "icon_url": "/images/items/690.gif"
+    },
+    {
+      "item_id": 994,
+      "name": "火靈原石",
+      "rate": 0.15,
+      "icon_url": "/images/items/994.gif"
+    },
+    {
+      "item_id": 1003,
+      "name": "煤礦",
+      "rate": 0.75,
+      "icon_url": "/images/items/1003.gif"
+    },
+    {
+      "item_id": 7097,
+      "name": "燃燒的心臟",
+      "rate": 15.0,
+      "icon_url": "/images/items/7097.gif"
+    },
+    {
+      "item_id": 20937,
+      "name": "熔岩獸皮兜帽[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/20937.gif"
+    },
+    {
+      "item_id": 23815,
+      "name": "熔岩精華",
+      "rate": 0.05,
+      "icon_url": "/images/items/23815.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 0.8,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 27347,
+      "name": "堅硬卡浩卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27347.gif"
+    }
+  ]
+}

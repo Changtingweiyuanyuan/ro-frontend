@@ -1,0 +1,78 @@
+{
+  "id": 20651,
+  "name": {
+    "zh_tw": "藍肉食人火龍果",
+    "en": "EP17_2_PITAYA_B"
+  },
+  "image_url": "/images/monsters/20651.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 662911,
+    "attack": {
+      "min": 2247,
+      "max": 3229
+    },
+    "magic_attack": {
+      "min": 1043,
+      "max": 1711
+    },
+    "defense": 444,
+    "magic_defense": 95,
+    "hit_100_percent": 542,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 119,
+      "agi": 162,
+      "vit": 93,
+      "int": 101,
+      "dex": 143,
+      "luk": 77
+    }
+  },
+  "drops": [
+    {
+      "item_id": 576,
+      "name": "榴蓮",
+      "rate": 0.75,
+      "icon_url": "/images/items/576.gif"
+    },
+    {
+      "item_id": 903,
+      "name": "爬蟲類舌頭",
+      "rate": 12.5,
+      "icon_url": "/images/items/903.gif"
+    },
+    {
+      "item_id": 7312,
+      "name": "朱畢雷",
+      "rate": 1.0,
+      "icon_url": "/images/items/7312.gif"
+    },
+    {
+      "item_id": 12573,
+      "name": "水果禮盒",
+      "rate": 0.5,
+      "icon_url": "/images/items/12573.gif"
+    },
+    {
+      "item_id": 300124,
+      "name": "藍肉食人火龍果卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300124.gif"
+    },
+    {
+      "item_id": 530002,
+      "name": "格雷特尼光矛[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/530002.gif"
+    }
+  ]
+}

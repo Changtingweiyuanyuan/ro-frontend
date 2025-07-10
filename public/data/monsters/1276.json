@@ -1,0 +1,84 @@
+{
+  "id": 1276,
+  "name": {
+    "zh_tw": "幽靈弓箭手",
+    "en": "RAYDRIC_ARCHER"
+  },
+  "image_url": "/images/monsters/1276.gif",
+  "basic_info": {
+    "level": 82,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4437,
+    "attack": {
+      "min": 467,
+      "max": 633
+    },
+    "magic_attack": {
+      "min": 109,
+      "max": 121
+    },
+    "defense": 63,
+    "magic_defense": 40,
+    "hit_100_percent": 312,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 53,
+      "agi": 24,
+      "vit": 40,
+      "int": 15,
+      "dex": 134,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.53,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1715,
+      "name": "埃布爾雷弓[2]",
+      "rate": 0.02,
+      "icon_url": "/images/items/1715.gif"
+    },
+    {
+      "item_id": 1764,
+      "name": "銳利箭矢",
+      "rate": 10.0,
+      "icon_url": "/images/items/1764.gif"
+    },
+    {
+      "item_id": 2315,
+      "name": "鋼鐵鎖子甲[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2315.gif"
+    },
+    {
+      "item_id": 4187,
+      "name": "幽靈弓箭手卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 23.28,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 15013,
+      "name": "克萊爾外套[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/15013.gif"
+    }
+  ]
+}

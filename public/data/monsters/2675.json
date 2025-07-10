@@ -1,0 +1,90 @@
+{
+  "id": 2675,
+  "name": {
+    "zh_tw": "精英火蜥蜴 / 狡猾火蜥蜴",
+    "en": "C5_SALAMANDER"
+  },
+  "image_url": "/images/monsters/2675.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 401950,
+    "attack": {
+      "min": 2533,
+      "max": 3637
+    },
+    "magic_attack": {
+      "min": 643,
+      "max": 1003
+    },
+    "defense": 141,
+    "magic_defense": 68,
+    "hit_100_percent": 457,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 189,
+      "agi": 105,
+      "vit": 92,
+      "int": 85,
+      "dex": 198,
+      "luk": 72
+    }
+  },
+  "drops": [
+    {
+      "item_id": 994,
+      "name": "火靈原石",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/994.gif"
+    },
+    {
+      "item_id": 1920,
+      "name": "英勇吉他",
+      "rate": 1.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1920.gif"
+    },
+    {
+      "item_id": 2364,
+      "name": "隕石盔甲[1]",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2364.gif"
+    },
+    {
+      "item_id": 2621,
+      "name": "力量戒指[1]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2621.gif"
+    },
+    {
+      "item_id": 2680,
+      "name": "下級精靈的戒指",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2680.gif"
+    },
+    {
+      "item_id": 4429,
+      "name": "熔岩蜥蜴卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6223.gif"
+    },
+    {
+      "item_id": 7097,
+      "name": "燃燒的心臟",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7097.gif"
+    }
+  ]
+}

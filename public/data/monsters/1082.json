@@ -1,0 +1,90 @@
+{
+  "id": 1082,
+  "name": {
+    "zh_tw": "白草",
+    "en": "WHITE_PLANT"
+  },
+  "image_url": "/images/monsters/1082.gif",
+  "basic_info": {
+    "level": 1,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10,
+    "attack": {
+      "min": 2,
+      "max": 4
+    },
+    "magic_attack": {
+      "min": 2,
+      "max": 4
+    },
+    "defense": 100,
+    "magic_defense": 99,
+    "hit_100_percent": 202,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 27.5,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 521,
+      "name": "蘆薈葉子",
+      "rate": 0.25,
+      "icon_url": "/images/items/521.gif"
+    },
+    {
+      "item_id": 631,
+      "name": "青嫩毒草",
+      "rate": 0.1,
+      "icon_url": "/images/items/631.gif"
+    },
+    {
+      "item_id": 703,
+      "name": "西納雷花",
+      "rate": 0.25,
+      "icon_url": "/images/items/703.gif"
+    },
+    {
+      "item_id": 712,
+      "name": "花",
+      "rate": 5.0,
+      "icon_url": "/images/items/712.gif"
+    },
+    {
+      "item_id": 905,
+      "name": "植物梗",
+      "rate": 15.0,
+      "icon_url": "/images/items/905.gif"
+    },
+    {
+      "item_id": 2269,
+      "name": "花葉",
+      "rate": 0.01,
+      "icon_url": "/images/items/2269.gif"
+    },
+    {
+      "item_id": 7935,
+      "name": "毒草蛇足草",
+      "rate": 1.5,
+      "icon_url": "/images/items/7935.gif"
+    }
+  ]
+}

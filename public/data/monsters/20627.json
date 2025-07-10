@@ -1,0 +1,84 @@
+{
+  "id": 20627,
+  "name": {
+    "zh_tw": "咪魘特殊泰坦魔芋花 / 花園監視者",
+    "en": "MD_ALNOLDI_EX_H"
+  },
+  "image_url": "/images/monsters/20627.gif",
+  "basic_info": {
+    "level": 193,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2954324,
+    "attack": {
+      "min": 3786,
+      "max": 5494
+    },
+    "magic_attack": {
+      "min": 1323,
+      "max": 2197
+    },
+    "defense": 283,
+    "magic_defense": 111,
+    "hit_100_percent": 583,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 177,
+      "agi": 176,
+      "vit": 30,
+      "int": 113,
+      "dex": 191,
+      "luk": 70
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7100,
+      "name": "尖銳的葉子",
+      "rate": 10.0,
+      "icon_url": "/images/items/7100.gif"
+    },
+    {
+      "item_id": 7188,
+      "name": "褐色樹根",
+      "rate": 15.0,
+      "icon_url": "/images/items/7188.gif"
+    },
+    {
+      "item_id": 7198,
+      "name": "巨大葉子",
+      "rate": 10.0,
+      "icon_url": "/images/items/7198.gif"
+    },
+    {
+      "item_id": 7298,
+      "name": "樹葉衣",
+      "rate": 12.5,
+      "icon_url": "/images/items/7298.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 1.4,
+      "icon_url": "/images/items/7939.gif"
+    },
+    {
+      "item_id": 300086,
+      "name": "咪魘特殊泰坦魔芋花卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300086.gif"
+    },
+    {
+      "item_id": 550009,
+      "name": "奧可軒狐尾杖[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/550009.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3659,
+  "name": {
+    "zh_tw": "亡者的君主",
+    "en": "MD_LICH_LORD_160"
+  },
+  "image_url": "/images/monsters/3659.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 23485539,
+    "attack": {
+      "min": 13540,
+      "max": 20156
+    },
+    "magic_attack": {
+      "min": 9761,
+      "max": 17843
+    },
+    "defense": 330,
+    "magic_defense": 168,
+    "hit_100_percent": 555,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 148,
+      "agi": 176,
+      "vit": 194,
+      "int": 172,
+      "dex": 243,
+      "luk": 96
+    }
+  },
+  "drops": [
+    {
+      "item_id": 12858,
+      "name": "RG黃金藥水",
+      "rate": 100.0,
+      "icon_url": "/images/items/12858.gif"
+    },
+    {
+      "item_id": 12858,
+      "name": "RG黃金藥水",
+      "rate": 100.0,
+      "icon_url": "/images/items/12858.gif"
+    },
+    {
+      "item_id": 23191,
+      "name": "聖鎗刺擊卷軸",
+      "rate": 5.0,
+      "icon_url": "/images/items/23191.gif"
+    },
+    {
+      "item_id": 23192,
+      "name": "鑽石星塵捲軸",
+      "rate": 5.0,
+      "icon_url": "/images/items/23192.gif"
+    },
+    {
+      "item_id": 23193,
+      "name": "碧血隕石卷軸",
+      "rate": 5.0,
+      "icon_url": "/images/items/23193.gif"
+    },
+    {
+      "item_id": 23194,
+      "name": "石化詛咒卷軸",
+      "rate": 5.0,
+      "icon_url": "/images/items/23194.gif"
+    },
+    {
+      "item_id": 27025,
+      "name": "亡者之君主卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27025.gif"
+    },
+    {
+      "item_id": 28483,
+      "name": "王的守護戒指[1]",
+      "rate": 10.0,
+      "icon_url": "/images/items/28483.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2241,
+  "name": {
+    "zh_tw": "暗●冷豔舞姬 特蘭提尼",
+    "en": "B_TRENTINI"
+  },
+  "image_url": "/images/monsters/2241.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3894278,
+    "attack": {
+      "min": 1939,
+      "max": 2747
+    },
+    "magic_attack": {
+      "min": 3202,
+      "max": 5624
+    },
+    "defense": 181,
+    "magic_defense": 112,
+    "hit_100_percent": 619,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 167,
+      "agi": 247,
+      "vit": 165,
+      "int": 217,
+      "dex": 233,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 30.0,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 1985,
+      "name": "毒鞭薔薇",
+      "rate": 20.0,
+      "icon_url": "/images/items/1985.gif"
+    },
+    {
+      "item_id": 4566,
+      "name": "暗●冷豔舞姬 特蘭提尼卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 20.0,
+      "icon_url": "/images/items/6224.gif"
+    },
+    {
+      "item_id": 12616,
+      "name": "S級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12616.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 50.0,
+      "icon_url": "/images/items/12623.gif"
+    },
+    {
+      "item_id": 18103,
+      "name": "神祕之弓",
+      "rate": 20.0,
+      "icon_url": "/images/items/18103.gif"
+    }
+  ]
+}

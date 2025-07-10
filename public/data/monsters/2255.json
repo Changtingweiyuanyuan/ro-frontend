@@ -1,0 +1,84 @@
+{
+  "id": 2255,
+  "name": {
+    "zh_tw": "亡靈的守護者卡德斯",
+    "en": "KADES"
+  },
+  "image_url": "/images/monsters/2255.gif",
+  "basic_info": {
+    "level": 143,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2505000,
+    "attack": {
+      "min": 2094,
+      "max": 2976
+    },
+    "magic_attack": {
+      "min": 1698,
+      "max": 2900
+    },
+    "defense": 479,
+    "magic_defense": 262,
+    "hit_100_percent": 598,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 191,
+      "agi": 223,
+      "vit": 187,
+      "int": 155,
+      "dex": 362,
+      "luk": 163
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 5.0,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 30.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 4580,
+      "name": "亡靈的守護者卡德斯卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 1.0,
+      "icon_url": "/images/items/12623.gif"
+    },
+    {
+      "item_id": 12675,
+      "name": "城戰武器補給箱",
+      "rate": 30.0,
+      "icon_url": "/images/items/12675.gif"
+    },
+    {
+      "item_id": 12679,
+      "name": "城戰白色藥水箱",
+      "rate": 20.0,
+      "icon_url": "/images/items/12679.gif"
+    },
+    {
+      "item_id": 12680,
+      "name": "攻城用藍色藥水箱子",
+      "rate": 10.0,
+      "icon_url": "/images/items/12680.gif"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 3154,
+  "name": {
+    "zh_tw": "巡邏機器人",
+    "en": "RECON_ROBOT"
+  },
+  "image_url": "/images/monsters/3154.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 256000,
+    "attack": {
+      "min": 2668,
+      "max": 3864
+    },
+    "magic_attack": {
+      "min": 418,
+      "max": 586
+    },
+    "defense": 127,
+    "magic_defense": 60,
+    "hit_100_percent": 440,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 112,
+      "agi": 60,
+      "vit": 72,
+      "int": 57,
+      "dex": 120,
+      "luk": 77
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.01,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 0.01,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 11597,
+      "name": "嗜鐵蟲",
+      "rate": 0.01,
+      "icon_url": "/images/items/11597.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2638,
+  "name": {
+    "zh_tw": "精英白鼠 / 菁英白鼠",
+    "en": "C3_TAROU"
+  },
+  "image_url": "/images/monsters/2638.gif",
+  "basic_info": {
+    "level": 22,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2100,
+    "attack": {
+      "min": 111,
+      "max": 147
+    },
+    "magic_attack": {
+      "min": 27,
+      "max": 31
+    },
+    "defense": 23,
+    "magic_defense": 5,
+    "hit_100_percent": 228,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 21,
+      "agi": 6,
+      "vit": 12,
+      "int": 1,
+      "dex": 10,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 528,
+      "name": "魔物飼料",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/528.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+    },
+    {
+      "item_id": 701,
+      "name": "歐拉歐拉",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/701.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/919.gif"
+    },
+    {
+      "item_id": 949,
+      "name": "柔毛",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/949.gif"
+    },
+    {
+      "item_id": 1016,
+      "name": "鼠尾",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1016.gif"
+    },
+    {
+      "item_id": 4028,
+      "name": "白鼠卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    }
+  ]
+}

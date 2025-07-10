@@ -1,0 +1,90 @@
+{
+  "id": 2909,
+  "name": {
+    "zh_tw": "精英愛麗削 / 憤怒愛麗削",
+    "en": "C4_ALICEL"
+  },
+  "image_url": "/images/monsters/2909.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 90000,
+    "attack": {
+      "min": 1149,
+      "max": 1607
+    },
+    "magic_attack": {
+      "min": 456,
+      "max": 696
+    },
+    "defense": 109,
+    "magic_defense": 30,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 68,
+      "vit": 59,
+      "int": 63,
+      "dex": 102,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.25,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1270,
+      "name": "鑽孔拳刃[1]",
+      "rate": 0.15,
+      "icon_url": "/images/items/1270.gif"
+    },
+    {
+      "item_id": 2148,
+      "name": "玫瑰盾牌[1]",
+      "rate": 0.15,
+      "icon_url": "/images/items/2148.gif"
+    },
+    {
+      "item_id": 2517,
+      "name": "貝利的斗篷",
+      "rate": 0.5,
+      "icon_url": "/images/items/2517.gif"
+    },
+    {
+      "item_id": 4401,
+      "name": "愛麗削卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6214,
+      "name": "煙幕粉末",
+      "rate": 5.0,
+      "icon_url": "/images/items/6214.gif"
+    },
+    {
+      "item_id": 7507,
+      "name": "堅固的鐵片",
+      "rate": 75.0,
+      "icon_url": "/images/items/7507.gif"
+    },
+    {
+      "item_id": 7512,
+      "name": "燒焦的部品碎片",
+      "rate": 50.0,
+      "icon_url": "/images/items/7512.gif"
+    }
+  ]
+}

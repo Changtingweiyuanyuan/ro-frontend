@@ -1,0 +1,84 @@
+{
+  "id": 20639,
+  "name": {
+    "zh_tw": "故障的警衛型-B",
+    "en": "EP17_2_BETA_GUARDS_NG"
+  },
+  "image_url": "/images/monsters/20639.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1909523,
+    "attack": {
+      "min": 3165,
+      "max": 4579
+    },
+    "magic_attack": {
+      "min": 1483,
+      "max": 2481
+    },
+    "defense": 522,
+    "magic_defense": 110,
+    "hit_100_percent": 481,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 152,
+      "agi": 76,
+      "vit": 112,
+      "int": 134,
+      "dex": 114,
+      "luk": 98
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 5.0,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 6832,
+      "name": "可疑的零件",
+      "rate": 0.1,
+      "icon_url": "/images/items/6832.gif"
+    },
+    {
+      "item_id": 7095,
+      "name": "金屬破片",
+      "rate": 5.0,
+      "icon_url": "/images/items/7095.gif"
+    },
+    {
+      "item_id": 7317,
+      "name": "生鏽的螺絲",
+      "rate": 0.5,
+      "icon_url": "/images/items/7317.gif"
+    },
+    {
+      "item_id": 300076,
+      "name": "故障的警衛型機器人β卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300076.gif"
+    },
+    {
+      "item_id": 520002,
+      "name": "普萊德鋼斧[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/520002.gif"
+    }
+  ]
+}

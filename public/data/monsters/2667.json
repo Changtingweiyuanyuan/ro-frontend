@@ -1,0 +1,90 @@
+{
+  "id": 2667,
+  "name": {
+    "zh_tw": "精英 / 雄壯 暗●神射手",
+    "en": "C2_SHECIL"
+  },
+  "image_url": "/images/monsters/2667.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2002550,
+    "attack": {
+      "min": 3849,
+      "max": 5643
+    },
+    "magic_attack": {
+      "min": 1094,
+      "max": 1844
+    },
+    "defense": 76,
+    "magic_defense": 15,
+    "hit_100_percent": 475,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 126,
+      "vit": 67,
+      "int": 80,
+      "dex": 308,
+      "luk": 42
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1745,
+      "name": "紅色閃電[2]",
+      "rate": 10.0,
+      "icon_url": "/images/items/1745.gif"
+    },
+    {
+      "item_id": 4368,
+      "name": "暗●神射手卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6469,
+      "name": "勇士的意志",
+      "rate": 10.0,
+      "icon_url": "/images/items/6469.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.05,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 75.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 12014,
+      "name": "無形箭矢筒",
+      "rate": 2.75,
+      "icon_url": "/images/items/12014.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 0.15,
+      "icon_url": "/images/items/12623.gif"
+    },
+    {
+      "item_id": 18110,
+      "name": "巨型十字弓[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/18110.gif"
+    }
+  ]
+}

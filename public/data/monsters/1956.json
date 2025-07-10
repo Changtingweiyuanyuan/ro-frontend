@@ -1,0 +1,90 @@
+{
+  "id": 1956,
+  "name": {
+    "zh_tw": "納戶特基格",
+    "en": "NAGHT_SIEGER"
+  },
+  "image_url": "/images/monsters/1956.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5000000,
+    "attack": {
+      "min": 5905,
+      "max": 8713
+    },
+    "magic_attack": {
+      "min": 2559,
+      "max": 4479
+    },
+    "defense": 410,
+    "magic_defense": 40,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 190,
+      "agi": 60,
+      "vit": 80,
+      "int": 220,
+      "dex": 317,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 45.0,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 2514,
+      "name": "護肩甲[1]",
+      "rate": 45.0,
+      "icon_url": "/images/items/2514.gif"
+    },
+    {
+      "item_id": 2542,
+      "name": "納戶特基格的斗篷[1]",
+      "rate": 45.0,
+      "icon_url": "/images/items/2542.gif"
+    },
+    {
+      "item_id": 4457,
+      "name": "納戶特基格卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5017,
+      "name": "骨制頭盔",
+      "rate": 45.0,
+      "icon_url": "/images/items/5017.gif"
+    },
+    {
+      "item_id": 7294,
+      "name": "綠松石",
+      "rate": 45.0,
+      "icon_url": "/images/items/7294.gif"
+    },
+    {
+      "item_id": 13412,
+      "name": "納戶特基格的寒冰劍[3]",
+      "rate": 45.0,
+      "icon_url": "/images/items/13412.gif"
+    },
+    {
+      "item_id": 13413,
+      "name": "納戶特基格的火焰劍[3]",
+      "rate": 45.0,
+      "icon_url": "/images/items/13413.gif"
+    }
+  ]
+}

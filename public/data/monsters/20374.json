@@ -1,0 +1,90 @@
+{
+  "id": 20374,
+  "name": {
+    "zh_tw": "堅硬七彩飛龍",
+    "en": "DELETER1_H"
+  },
+  "image_url": "/images/monsters/20374.gif",
+  "basic_info": {
+    "level": 174,
+    "race": "龍",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1189532,
+    "attack": {
+      "min": 2308,
+      "max": 3318
+    },
+    "magic_attack": {
+      "min": 867,
+      "max": 1397
+    },
+    "defense": 290,
+    "magic_defense": 51,
+    "hit_100_percent": 492,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 116,
+      "agi": 109,
+      "vit": 63,
+      "int": 76,
+      "dex": 119,
+      "luk": 47
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1035,
+      "name": "龍牙",
+      "rate": 13.34,
+      "icon_url": "/images/items/1035.gif"
+    },
+    {
+      "item_id": 1037,
+      "name": "龍尾",
+      "rate": 9.2,
+      "icon_url": "/images/items/1037.gif"
+    },
+    {
+      "item_id": 7123,
+      "name": "龍皮",
+      "rate": 10.15,
+      "icon_url": "/images/items/7123.gif"
+    },
+    {
+      "item_id": 15380,
+      "name": "熔岩獸皮外袍[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/15380.gif"
+    },
+    {
+      "item_id": 23815,
+      "name": "熔岩精華",
+      "rate": 0.05,
+      "icon_url": "/images/items/23815.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 0.8,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 0.8,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 27351,
+      "name": "堅硬七彩飛龍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27351.gif"
+    }
+  ]
+}

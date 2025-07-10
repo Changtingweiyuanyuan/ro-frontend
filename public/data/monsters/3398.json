@@ -1,0 +1,90 @@
+{
+  "id": 3398,
+  "name": {
+    "zh_tw": "毒蛇",
+    "en": "MIN_ANACONDAQ"
+  },
+  "image_url": "/images/monsters/3398.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 70000,
+    "attack": {
+      "min": 729,
+      "max": 981
+    },
+    "magic_attack": {
+      "min": 189,
+      "max": 223
+    },
+    "defense": 160,
+    "magic_defense": 0,
+    "hit_100_percent": 373,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 63,
+      "vit": 82,
+      "int": 48,
+      "dex": 133,
+      "luk": 38
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 0.75,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.25,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 926,
+      "name": "蛇鱗",
+      "rate": 7.5,
+      "icon_url": "/images/items/926.gif"
+    },
+    {
+      "item_id": 936,
+      "name": "鱗片皮膚",
+      "rate": 1.0,
+      "icon_url": "/images/items/936.gif"
+    },
+    {
+      "item_id": 937,
+      "name": "毒牙",
+      "rate": 45.0,
+      "icon_url": "/images/items/937.gif"
+    },
+    {
+      "item_id": 1455,
+      "name": "長槍[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1455.gif"
+    },
+    {
+      "item_id": 4062,
+      "name": "黃蛇卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6247,
+      "name": "白色粉末",
+      "rate": 1.0,
+      "icon_url": "/images/items/6247.gif"
+    }
+  ]
+}

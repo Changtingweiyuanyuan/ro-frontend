@@ -1,0 +1,90 @@
+{
+  "id": 2895,
+  "name": {
+    "zh_tw": "精英 / 憤怒 阿修羅機械戰士",
+    "en": "C4_APOCALIPS"
+  },
+  "image_url": "/images/monsters/2895.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 110450,
+    "attack": {
+      "min": 1260,
+      "max": 1766
+    },
+    "magic_attack": {
+      "min": 227,
+      "max": 297
+    },
+    "defense": 136,
+    "magic_defense": 26,
+    "hit_100_percent": 392,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 68,
+      "vit": 76,
+      "int": 25,
+      "dex": 125,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.15,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 2506,
+      "name": "斗篷[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/2506.gif"
+    },
+    {
+      "item_id": 4242,
+      "name": "阿修羅機械戰士卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7093,
+      "name": "齒輪",
+      "rate": 55.0,
+      "icon_url": "/images/items/7093.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 60.0,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7095,
+      "name": "金屬破片",
+      "rate": 100.0,
+      "icon_url": "/images/items/7095.gif"
+    },
+    {
+      "item_id": 12735,
+      "name": "古代符文原石",
+      "rate": 2.5,
+      "icon_url": "/images/items/12735.gif"
+    },
+    {
+      "item_id": 13161,
+      "name": "破壞者榴彈槍[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/13161.gif"
+    }
+  ]
+}

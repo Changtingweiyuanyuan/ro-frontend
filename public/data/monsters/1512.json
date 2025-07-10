@@ -1,0 +1,90 @@
+{
+  "id": 1512,
+  "name": {
+    "zh_tw": "妖君",
+    "en": "HYEGUN"
+  },
+  "image_url": "/images/monsters/1512.gif",
+  "basic_info": {
+    "level": 87,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6996,
+    "attack": {
+      "min": 372,
+      "max": 482
+    },
+    "magic_attack": {
+      "min": 140,
+      "max": 170
+    },
+    "defense": 84,
+    "magic_defense": 43,
+    "hit_100_percent": 329,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 38,
+      "vit": 40,
+      "int": 20,
+      "dex": 82,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 609,
+      "name": "返魂符",
+      "rate": 0.5,
+      "icon_url": "/images/items/609.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.05,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 2406,
+      "name": "戰士長靴[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2406.gif"
+    },
+    {
+      "item_id": 4328,
+      "name": "妖君卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5367,
+      "name": "妖君帽[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/5367.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 19.4,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 7277,
+      "name": "殭屍娃娃",
+      "rate": 1.5,
+      "icon_url": "/images/items/7277.gif"
+    },
+    {
+      "item_id": 15013,
+      "name": "克萊爾外套[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/15013.gif"
+    }
+  ]
+}

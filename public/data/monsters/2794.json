@@ -1,0 +1,90 @@
+{
+  "id": 2794,
+  "name": {
+    "zh_tw": "精英冰巨人 / 迅捷冰巨人",
+    "en": "C1_ICE_TITAN"
+  },
+  "image_url": "/images/monsters/2794.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 104100,
+    "attack": {
+      "min": 1287,
+      "max": 1809
+    },
+    "magic_attack": {
+      "min": 211,
+      "max": 271
+    },
+    "defense": 344,
+    "magic_defense": 11,
+    "hit_100_percent": 369,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 133,
+      "agi": 54,
+      "vit": 78,
+      "int": 33,
+      "dex": 94,
+      "luk": 26
+    }
+  },
+  "drops": [
+    {
+      "item_id": 749,
+      "name": "冰雕玫瑰",
+      "rate": 2.5,
+      "icon_url": "/images/items/749.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.25,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 2.5,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 4417,
+      "name": "寒冰巨人卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6253,
+      "name": "寒冷的冰塊",
+      "rate": 12.5,
+      "icon_url": "/images/items/6253.gif"
+    },
+    {
+      "item_id": 7066,
+      "name": "冰塊一角",
+      "rate": 75.0,
+      "icon_url": "/images/items/7066.gif"
+    },
+    {
+      "item_id": 7561,
+      "name": "冰塊心臟",
+      "rate": 100.0,
+      "icon_url": "/images/items/7561.gif"
+    },
+    {
+      "item_id": 13314,
+      "name": "風魔手裡劍亂雪",
+      "rate": 0.25,
+      "icon_url": "/images/items/13314.gif"
+    }
+  ]
+}

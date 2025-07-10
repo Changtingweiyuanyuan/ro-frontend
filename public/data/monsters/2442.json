@@ -1,0 +1,78 @@
+{
+  "id": 2442,
+  "name": {
+    "zh_tw": "超級初心者之王 / 魔鬼孩子王",
+    "en": "B_SUPERNOVICE"
+  },
+  "image_url": "/images/monsters/2442.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 268800,
+    "attack": {
+      "min": 5006,
+      "max": 7358
+    },
+    "magic_attack": {
+      "min": 2723,
+      "max": 4839
+    },
+    "defense": 410,
+    "magic_defense": 192,
+    "hit_100_percent": 516,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 206,
+      "agi": 194,
+      "vit": 181,
+      "int": 156,
+      "dex": 203,
+      "luk": 115
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 30.0,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 5.0,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 40.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 1622,
+      "name": "催眠師的魔杖[2]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1622.gif"
+    },
+    {
+      "item_id": 2000,
+      "name": "毀滅之杖[1]",
+      "rate": 0.02,
+      "icon_url": "/images/items/2000.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 25.0,
+      "icon_url": "/images/items/7345.gif"
+    }
+  ]
+}

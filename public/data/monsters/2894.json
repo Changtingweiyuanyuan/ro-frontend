@@ -1,0 +1,90 @@
+{
+  "id": 2894,
+  "name": {
+    "zh_tw": "精英卷甲蟲 / 菁英卷甲蟲",
+    "en": "C3_ARCLOUSE"
+  },
+  "image_url": "/images/monsters/2894.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 50100,
+    "attack": {
+      "min": 503,
+      "max": 671
+    },
+    "magic_attack": {
+      "min": 170,
+      "max": 194
+    },
+    "defense": 101,
+    "magic_defense": 36,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 73,
+      "vit": 45,
+      "int": 35,
+      "dex": 168,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 7.5,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 11.25,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 62.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 75.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 20.0,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 0.5,
+      "icon_url": "/images/items/997.gif"
+    },
+    {
+      "item_id": 1096,
+      "name": "圓形外皮",
+      "rate": 87.5,
+      "icon_url": "/images/items/1096.gif"
+    },
+    {
+      "item_id": 4240,
+      "name": "卷甲蟲卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

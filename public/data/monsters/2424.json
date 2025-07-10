@@ -1,0 +1,84 @@
+{
+  "id": 2424,
+  "name": {
+    "zh_tw": "暗●詩人",
+    "en": "L_KAVAC"
+  },
+  "image_url": "/images/monsters/2424.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 12637,
+    "attack": {
+      "min": 695,
+      "max": 937
+    },
+    "magic_attack": {
+      "min": 288,
+      "max": 404
+    },
+    "defense": 94,
+    "magic_defense": 52,
+    "hit_100_percent": 427,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 113,
+      "agi": 119,
+      "vit": 68,
+      "int": 55,
+      "dex": 163,
+      "luk": 52
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.02,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 1910,
+      "name": "豎琴[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1910.gif"
+    },
+    {
+      "item_id": 1913,
+      "name": "電子吉他",
+      "rate": 0.05,
+      "icon_url": "/images/items/1913.gif"
+    },
+    {
+      "item_id": 2330,
+      "name": "緊身便衣",
+      "rate": 0.22,
+      "icon_url": "/images/items/2330.gif"
+    },
+    {
+      "item_id": 2331,
+      "name": "緊身便衣[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2331.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 25.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 50.0,
+      "icon_url": "/images/items/7347.gif"
+    }
+  ]
+}

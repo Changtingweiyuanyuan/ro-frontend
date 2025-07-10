@@ -1,0 +1,78 @@
+{
+  "id": 3520,
+  "name": {
+    "zh_tw": "生氣的信徒",
+    "en": "POPE_MD_H_BELIEVER_2"
+  },
+  "image_url": "/images/monsters/3520.gif",
+  "basic_info": {
+    "level": 134,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 135000,
+    "attack": {
+      "min": 1293,
+      "max": 1817
+    },
+    "magic_attack": {
+      "min": 301,
+      "max": 427
+    },
+    "defense": 108,
+    "magic_defense": 55,
+    "hit_100_percent": 421,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 113,
+      "agi": 75,
+      "vit": 66,
+      "int": 20,
+      "dex": 80,
+      "luk": 63
+    }
+  },
+  "drops": [
+    {
+      "item_id": 504,
+      "name": "白色藥水",
+      "rate": 10.0,
+      "icon_url": "/images/items/504.gif"
+    },
+    {
+      "item_id": 1039,
+      "name": "小惡魔翅膀",
+      "rate": 10.0,
+      "icon_url": "/images/items/1039.gif"
+    },
+    {
+      "item_id": 7568,
+      "name": "白色面具",
+      "rate": 20.0,
+      "icon_url": "/images/items/7568.gif"
+    },
+    {
+      "item_id": 7752,
+      "name": "抖落的骷髏",
+      "rate": 20.0,
+      "icon_url": "/images/items/7752.gif"
+    },
+    {
+      "item_id": 11565,
+      "name": "白色藥水",
+      "rate": 5.0,
+      "icon_url": "/images/items/11565.gif"
+    },
+    {
+      "item_id": 22542,
+      "name": "[非賣品]集中藥水",
+      "rate": 1.0,
+      "icon_url": "/images/items/22542.gif"
+    }
+  ]
+}

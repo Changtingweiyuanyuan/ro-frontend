@@ -1,0 +1,54 @@
+{
+  "id": 1642,
+  "name": {
+    "zh_tw": "神工匠 哈沃得",
+    "en": "G_HARWORD"
+  },
+  "image_url": "/images/monsters/1642.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3750000,
+    "attack": {
+      "min": 4635,
+      "max": 6735
+    },
+    "magic_attack": {
+      "min": 1257,
+      "max": 2137
+    },
+    "defense": 301,
+    "magic_defense": 106,
+    "hit_100_percent": 520,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 275,
+      "agi": 148,
+      "vit": 156,
+      "int": 72,
+      "dex": 266,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/6223.gif"
+    }
+  ]
+}

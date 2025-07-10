@@ -1,0 +1,48 @@
+{
+  "id": 1745,
+  "name": {
+    "zh_tw": "恆量魔",
+    "en": "G_CONSTANT"
+  },
+  "image_url": "/images/monsters/1745.gif",
+  "basic_info": {
+    "level": 108,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2000,
+    "attack": {
+      "min": 816,
+      "max": 1108
+    },
+    "magic_attack": {
+      "min": 265,
+      "max": 353
+    },
+    "defense": 92,
+    "magic_defense": 82,
+    "hit_100_percent": 412,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 126,
+      "agi": 98,
+      "vit": 62,
+      "int": 57,
+      "dex": 109,
+      "luk": 34
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7507,
+      "name": "堅固的鐵片",
+      "rate": 2.5,
+      "icon_url": "/images/items/7507.gif"
+    }
+  ]
+}

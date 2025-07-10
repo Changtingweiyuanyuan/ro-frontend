@@ -1,0 +1,84 @@
+{
+  "id": 20420,
+  "name": {
+    "zh_tw": "汙染邪骸浪人",
+    "en": "WANDER_MAN_H"
+  },
+  "image_url": "/images/monsters/20420.gif",
+  "basic_info": {
+    "level": 187,
+    "race": "惡魔",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2387582,
+    "attack": {
+      "min": 3654,
+      "max": 5300
+    },
+    "magic_attack": {
+      "min": 838,
+      "max": 1340
+    },
+    "defense": 289,
+    "magic_defense": 102,
+    "hit_100_percent": 523,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 176,
+      "agi": 121,
+      "vit": 34,
+      "int": 67,
+      "dex": 139,
+      "luk": 77
+    }
+  },
+  "drops": [
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.57,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 2270,
+      "name": "草葉",
+      "rate": 0.03,
+      "icon_url": "/images/items/2270.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 24.25,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 21039,
+      "name": "王室騎士巨劍[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/21039.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 27361,
+      "name": "汙染邪骸浪人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27361.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3124,
+  "name": {
+    "zh_tw": "查爾斯頓3號",
+    "en": "CHARLESTON3"
+  },
+  "image_url": "/images/monsters/3124.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 23671401,
+    "attack": {
+      "min": 1553,
+      "max": 2153
+    },
+    "magic_attack": {
+      "min": 1051,
+      "max": 1651
+    },
+    "defense": 200,
+    "magic_defense": 90,
+    "hit_100_percent": 472,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 208,
+      "agi": 106,
+      "vit": 205,
+      "int": 206,
+      "dex": 228,
+      "luk": 105
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4697,
+      "name": "查爾斯頓卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6752,
+      "name": "查爾斯頓零件",
+      "rate": 50.0,
+      "icon_url": "/images/items/6752.gif"
+    },
+    {
+      "item_id": 16031,
+      "name": "沖擊錐 P",
+      "rate": 2.0,
+      "icon_url": "/images/items/16031.gif"
+    },
+    {
+      "item_id": 16033,
+      "name": "機器人的機械手臂[2]",
+      "rate": 1.0,
+      "icon_url": "/images/items/16033.gif"
+    },
+    {
+      "item_id": 21011,
+      "name": "巨人手劍[1]",
+      "rate": 2.0,
+      "icon_url": "/images/items/21011.gif"
+    },
+    {
+      "item_id": 22043,
+      "name": "敏捷補充裝置[1]",
+      "rate": 4.0,
+      "icon_url": "/images/items/22043.gif"
+    },
+    {
+      "item_id": 22044,
+      "name": "強化助推器[1]",
+      "rate": 4.0,
+      "icon_url": "/images/items/22044.gif"
+    },
+    {
+      "item_id": 28101,
+      "name": "旋風戰斧[1]",
+      "rate": 2.0,
+      "icon_url": "/images/items/28101.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1688,
+  "name": {
+    "zh_tw": "嗒妮小姐",
+    "en": "LADY_TANEE"
+  },
+  "image_url": "/images/monsters/1688.gif",
+  "basic_info": {
+    "level": 80,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 360000,
+    "attack": {
+      "min": 1714,
+      "max": 2490
+    },
+    "magic_attack": {
+      "min": 848,
+      "max": 1404
+    },
+    "defense": 241,
+    "magic_defense": 104,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 86,
+      "agi": 108,
+      "vit": 88,
+      "int": 121,
+      "dex": 240,
+      "luk": 71
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 10.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 634,
+      "name": "魔物香蕉",
+      "rate": 20.0,
+      "icon_url": "/images/items/634.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 25.0,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1716,
+      "name": "角弓[2]",
+      "rate": 30.0,
+      "icon_url": "/images/items/1716.gif"
+    },
+    {
+      "item_id": 4376,
+      "name": "嗒妮小姐卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5116,
+      "name": "香蕉帽",
+      "rate": 5.0,
+      "icon_url": "/images/items/5116.gif"
+    },
+    {
+      "item_id": 12090,
+      "name": "沙漠蠍子蒸鍋",
+      "rate": 25.0,
+      "icon_url": "/images/items/12090.gif"
+    },
+    {
+      "item_id": 12129,
+      "name": "咪幻的烹飪用具",
+      "rate": 5.0,
+      "icon_url": "/images/items/12129.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1291,
+  "name": {
+    "zh_tw": "狂暴惡靈",
+    "en": "WRAITH_DEAD"
+  },
+  "image_url": "/images/monsters/1291.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 25990,
+    "attack": {
+      "min": 985,
+      "max": 1387
+    },
+    "magic_attack": {
+      "min": 278,
+      "max": 374
+    },
+    "defense": 88,
+    "magic_defense": 56,
+    "hit_100_percent": 399,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 63,
+      "agi": 69,
+      "vit": 55,
+      "int": 45,
+      "dex": 106,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.02,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 3.5,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 732,
+      "name": "3克拉鑽石",
+      "rate": 0.03,
+      "icon_url": "/images/items/732.gif"
+    },
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 22.07,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 2206,
+      "name": "婚禮頭紗",
+      "rate": 0.05,
+      "icon_url": "/images/items/2206.gif"
+    },
+    {
+      "item_id": 2506,
+      "name": "斗篷[1]",
+      "rate": 0.04,
+      "icon_url": "/images/items/2506.gif"
+    },
+    {
+      "item_id": 2898,
+      "name": "暗黑幸運珠鍊[1]",
+      "rate": 0.02,
+      "icon_url": "/images/items/2898.gif"
+    },
+    {
+      "item_id": 4189,
+      "name": "狂暴惡靈卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

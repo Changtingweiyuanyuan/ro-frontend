@@ -1,0 +1,90 @@
+{
+  "id": 20373,
+  "name": {
+    "zh_tw": "堅硬七彩咪魘",
+    "en": "NIGHTMARE_TERROR_H"
+  },
+  "image_url": "/images/monsters/20373.gif",
+  "basic_info": {
+    "level": 179,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1218702,
+    "attack": {
+      "min": 1709,
+      "max": 2435
+    },
+    "magic_attack": {
+      "min": 1919,
+      "max": 3251
+    },
+    "defense": 194,
+    "magic_defense": 60,
+    "hit_100_percent": 540,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 81,
+      "agi": 149,
+      "vit": 21,
+      "int": 186,
+      "dex": 129,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 505,
+      "name": "藍色藥水",
+      "rate": 0.15,
+      "icon_url": "/images/items/505.gif"
+    },
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 0.25,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 7120,
+      "name": "燃燒的馬蹄鐵",
+      "rate": 21.0,
+      "icon_url": "/images/items/7120.gif"
+    },
+    {
+      "item_id": 20935,
+      "name": "熔岩獸皮斗篷[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/20935.gif"
+    },
+    {
+      "item_id": 23815,
+      "name": "熔岩精華",
+      "rate": 0.05,
+      "icon_url": "/images/items/23815.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 0.8,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 0.8,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 27352,
+      "name": "堅硬七彩咪魘卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27352.gif"
+    }
+  ]
+}

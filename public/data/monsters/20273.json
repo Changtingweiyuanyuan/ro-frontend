@@ -1,0 +1,90 @@
+{
+  "id": 20273,
+  "name": {
+    "zh_tw": "古代塔奧群卡",
+    "en": "ILL_TAO_GUNKA"
+  },
+  "image_url": "/images/monsters/20273.gif",
+  "basic_info": {
+    "level": 169,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 19280000,
+    "attack": {
+      "min": 4405,
+      "max": 6433
+    },
+    "magic_attack": {
+      "min": 2399,
+      "max": 4217
+    },
+    "defense": 905,
+    "magic_defense": 143,
+    "hit_100_percent": 593,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 180,
+      "agi": 216,
+      "vit": 100,
+      "int": 111,
+      "dex": 212,
+      "luk": 42
+    }
+  },
+  "drops": [
+    {
+      "item_id": 728,
+      "name": "黃寶石",
+      "rate": 5.0,
+      "icon_url": "/images/items/728.gif"
+    },
+    {
+      "item_id": 2354,
+      "name": "哥夫內的盔甲",
+      "rate": 1.0,
+      "icon_url": "/images/items/2354.gif"
+    },
+    {
+      "item_id": 2520,
+      "name": "哥夫內肩飾",
+      "rate": 1.0,
+      "icon_url": "/images/items/2520.gif"
+    },
+    {
+      "item_id": 7300,
+      "name": "寶石原石",
+      "rate": 24.25,
+      "icon_url": "/images/items/7300.gif"
+    },
+    {
+      "item_id": 12738,
+      "name": "珍稀符文原石",
+      "rate": 1.0,
+      "icon_url": "/images/items/12738.gif"
+    },
+    {
+      "item_id": 25638,
+      "name": "巨石徽章",
+      "rate": 12.5,
+      "icon_url": "/images/items/25638.gif"
+    },
+    {
+      "item_id": 25639,
+      "name": "雷擊石塊",
+      "rate": 24.25,
+      "icon_url": "/images/items/25639.gif"
+    },
+    {
+      "item_id": 27294,
+      "name": "古代塔奧群卡卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27294.gif"
+    }
+  ]
+}

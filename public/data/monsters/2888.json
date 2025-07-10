@@ -1,0 +1,78 @@
+{
+  "id": 2888,
+  "name": {
+    "zh_tw": "精英 / 雄壯 巴拿斯帕堤",
+    "en": "C2_BANASPATY"
+  },
+  "image_url": "/images/monsters/2888.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 46800,
+    "attack": {
+      "min": 338,
+      "max": 434
+    },
+    "magic_attack": {
+      "min": 289,
+      "max": 399
+    },
+    "defense": 63,
+    "magic_defense": 89,
+    "hit_100_percent": 367,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 78,
+      "vit": 35,
+      "int": 77,
+      "dex": 79,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 37.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 50.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/912.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 37.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+    },
+    {
+      "item_id": 1003,
+      "name": "煤礦",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1003.gif"
+    },
+    {
+      "item_id": 4518,
+      "name": "巴拿斯帕堤卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 12008,
+      "name": "火箭矢筒",
+      "rate": 0.3,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12008.gif"
+    }
+  ]
+}

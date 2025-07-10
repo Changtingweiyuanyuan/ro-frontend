@@ -1,0 +1,84 @@
+{
+  "id": 2478,
+  "name": {
+    "zh_tw": "受詛咒的書",
+    "en": "NG_RIDEWORD"
+  },
+  "image_url": "/images/monsters/2478.gif",
+  "basic_info": {
+    "level": 146,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 103220,
+    "attack": {
+      "min": 2133,
+      "max": 3063
+    },
+    "magic_attack": {
+      "min": 327,
+      "max": 427
+    },
+    "defense": 140,
+    "magic_defense": 59,
+    "hit_100_percent": 542,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 131,
+      "agi": 195,
+      "vit": 58,
+      "int": 66,
+      "dex": 263,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1097,
+      "name": "破舊書頁",
+      "rate": 48.5,
+      "icon_url": "/images/items/1097.gif"
+    },
+    {
+      "item_id": 1568,
+      "name": "水靈之書[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1568.gif"
+    },
+    {
+      "item_id": 1569,
+      "name": "地靈之書[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1569.gif"
+    },
+    {
+      "item_id": 1570,
+      "name": "火靈之書[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1570.gif"
+    },
+    {
+      "item_id": 1571,
+      "name": "風靈之書[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1571.gif"
+    },
+    {
+      "item_id": 7015,
+      "name": "回憶書籤",
+      "rate": 1.5,
+      "icon_url": "/images/items/7015.gif"
+    },
+    {
+      "item_id": 18752,
+      "name": "受詛咒的書[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/18752.gif"
+    }
+  ]
+}

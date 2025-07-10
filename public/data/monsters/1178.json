@@ -1,0 +1,90 @@
+{
+  "id": 1178,
+  "name": {
+    "zh_tw": "傑洛米",
+    "en": "ZEROM"
+  },
+  "image_url": "/images/monsters/1178.gif",
+  "basic_info": {
+    "level": 70,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2687,
+    "attack": {
+      "min": 389,
+      "max": 521
+    },
+    "magic_attack": {
+      "min": 111,
+      "max": 135
+    },
+    "defense": 93,
+    "magic_defense": 15,
+    "hit_100_percent": 323,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 57,
+      "agi": 49,
+      "vit": 30,
+      "int": 15,
+      "dex": 62,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 0.95,
+      "icon_url": "/images/items/998.gif"
+    },
+    {
+      "item_id": 1002,
+      "name": "鐵礦石",
+      "rate": 1.5,
+      "icon_url": "/images/items/1002.gif"
+    },
+    {
+      "item_id": 1011,
+      "name": "強化武器金屬-級數二",
+      "rate": 0.28,
+      "icon_url": "/images/items/1011.gif"
+    },
+    {
+      "item_id": 2265,
+      "name": "侍衛口罩",
+      "rate": 0.02,
+      "icon_url": "/images/items/2265.gif"
+    },
+    {
+      "item_id": 2339,
+      "name": "三角褲",
+      "rate": 1.0,
+      "icon_url": "/images/items/2339.gif"
+    },
+    {
+      "item_id": 2408,
+      "name": "腳煉",
+      "rate": 0.05,
+      "icon_url": "/images/items/2408.gif"
+    },
+    {
+      "item_id": 4064,
+      "name": "傑洛米卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 0.01,
+      "icon_url": "/images/items/7938.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 20355,
+  "name": {
+    "zh_tw": "貝拉雷 / 邪心獵人貝拉雷",
+    "en": "EP17_1_BELLARE1"
+  },
+  "image_url": "/images/monsters/20355.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 29619,
+    "attack": {
+      "min": 848,
+      "max": 1184
+    },
+    "magic_attack": {
+      "min": 469,
+      "max": 725
+    },
+    "defense": 146,
+    "magic_defense": 27,
+    "hit_100_percent": 405,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 56,
+      "agi": 72,
+      "vit": 43,
+      "int": 53,
+      "dex": 131,
+      "luk": 67
+    }
+  },
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.12,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 6213,
+      "name": "炸彈粉末",
+      "rate": 0.3,
+      "icon_url": "/images/items/6213.gif"
+    },
+    {
+      "item_id": 25159,
+      "name": "邪心獵人之印",
+      "rate": 12.5,
+      "icon_url": "/images/items/25159.gif"
+    },
+    {
+      "item_id": 25669,
+      "name": "神祕零件",
+      "rate": 0.1,
+      "icon_url": "/images/items/25669.gif"
+    },
+    {
+      "item_id": 25723,
+      "name": "核心元件",
+      "rate": 0.05,
+      "icon_url": "/images/items/25723.gif"
+    },
+    {
+      "item_id": 27306,
+      "name": "貝拉雷卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27306.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3661,
+  "name": {
+    "zh_tw": "咪魘",
+    "en": "MD_NIGHTMARE_160"
+  },
+  "image_url": "/images/monsters/3661.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 199129,
+    "attack": {
+      "min": 2424,
+      "max": 3514
+    },
+    "magic_attack": {
+      "min": 1864,
+      "max": 3286
+    },
+    "defense": 116,
+    "magic_defense": 15,
+    "hit_100_percent": 441,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 87,
+      "agi": 72,
+      "vit": 60,
+      "int": 45,
+      "dex": 127,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 2.5,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.15,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 944,
+      "name": "馬蹄",
+      "rate": 30.0,
+      "icon_url": "/images/items/944.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.3,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1297,
+      "name": "龍鱗拳刃[2]",
+      "rate": 0.01,
+      "icon_url": "/images/items/1297.gif"
+    },
+    {
+      "item_id": 2608,
+      "name": "幸運珠鍊",
+      "rate": 0.01,
+      "icon_url": "/images/items/2608.gif"
+    },
+    {
+      "item_id": 4127,
+      "name": "咪魘卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 25235,
+      "name": "附魔原石",
+      "rate": 5.0,
+      "icon_url": "/images/items/25235.gif"
+    }
+  ]
+}

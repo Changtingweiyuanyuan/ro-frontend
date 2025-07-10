@@ -1,0 +1,90 @@
+{
+  "id": 1031,
+  "name": {
+    "zh_tw": "波波利",
+    "en": "POPORING"
+  },
+  "image_url": "/images/monsters/1031.gif",
+  "basic_info": {
+    "level": 30,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 524,
+    "attack": {
+      "min": 106,
+      "max": 136
+    },
+    "magic_attack": {
+      "min": 62,
+      "max": 74
+    },
+    "defense": 36,
+    "magic_defense": 17,
+    "hit_100_percent": 257,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 17,
+      "agi": 26,
+      "vit": 20,
+      "int": 18,
+      "dex": 36,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 10.0,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 512,
+      "name": "蘋果",
+      "rate": 1.25,
+      "icon_url": "/images/items/512.gif"
+    },
+    {
+      "item_id": 514,
+      "name": "葡萄",
+      "rate": 2.0,
+      "icon_url": "/images/items/514.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 910,
+      "name": "加勒結晶",
+      "rate": 10.0,
+      "icon_url": "/images/items/910.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 60.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 1207,
+      "name": "笨拙短劍[3]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1207.gif"
+    },
+    {
+      "item_id": 4033,
+      "name": "波波利卡片",
+      "rate": 0.1,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1272,
+  "name": {
+    "zh_tw": "黑暗之王",
+    "en": "DARK_LORD"
+  },
+  "image_url": "/images/monsters/1272.gif",
+  "basic_info": {
+    "level": 96,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1190900,
+    "attack": {
+      "min": 3362,
+      "max": 4936
+    },
+    "magic_attack": {
+      "min": 2047,
+      "max": 3599
+    },
+    "defense": 330,
+    "magic_defense": 168,
+    "hit_100_percent": 445,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 136,
+      "vit": 154,
+      "int": 142,
+      "dex": 193,
+      "luk": 66
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 25.71,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1237,
+      "name": "魔短劍 暗噬",
+      "rate": 1.5,
+      "icon_url": "/images/items/1237.gif"
+    },
+    {
+      "item_id": 1615,
+      "name": "骷髏魔杖",
+      "rate": 4.0,
+      "icon_url": "/images/items/1615.gif"
+    },
+    {
+      "item_id": 2004,
+      "name": "克羅諾斯之杖",
+      "rate": 0.5,
+      "icon_url": "/images/items/2004.gif"
+    },
+    {
+      "item_id": 2334,
+      "name": "魔法外套",
+      "rate": 1.5,
+      "icon_url": "/images/items/2334.gif"
+    },
+    {
+      "item_id": 2507,
+      "name": "伯爵斗篷",
+      "rate": 0.5,
+      "icon_url": "/images/items/2507.gif"
+    },
+    {
+      "item_id": 4168,
+      "name": "黑暗之王卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5162,
+      "name": "骨制頭盔[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/5162.gif"
+    }
+  ]
+}

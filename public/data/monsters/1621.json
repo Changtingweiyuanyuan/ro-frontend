@@ -1,0 +1,90 @@
+{
+  "id": 1621,
+  "name": {
+    "zh_tw": "毒液魔",
+    "en": "VENOMOUS"
+  },
+  "image_url": "/images/monsters/1621.gif",
+  "basic_info": {
+    "level": 87,
+    "race": "無形",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4770,
+    "attack": {
+      "min": 400,
+      "max": 528
+    },
+    "magic_attack": {
+      "min": 177,
+      "max": 207
+    },
+    "defense": 104,
+    "magic_defense": 65,
+    "hit_100_percent": 325,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 28,
+      "vit": 60,
+      "int": 55,
+      "dex": 54,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.01,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 4333,
+      "name": "毒液魔卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6213,
+      "name": "炸彈粉末",
+      "rate": 1.5,
+      "icon_url": "/images/items/6213.gif"
+    },
+    {
+      "item_id": 6215,
+      "name": "催淚瓦斯",
+      "rate": 3.0,
+      "icon_url": "/images/items/6215.gif"
+    },
+    {
+      "item_id": 7119,
+      "name": "菌絲",
+      "rate": 15.0,
+      "icon_url": "/images/items/7119.gif"
+    },
+    {
+      "item_id": 7154,
+      "name": "毒粉",
+      "rate": 5.0,
+      "icon_url": "/images/items/7154.gif"
+    },
+    {
+      "item_id": 7320,
+      "name": "粉塵",
+      "rate": 25.0,
+      "icon_url": "/images/items/7320.gif"
+    },
+    {
+      "item_id": 7322,
+      "name": "有毒瓦斯",
+      "rate": 10.0,
+      "icon_url": "/images/items/7322.gif"
+    }
+  ]
+}

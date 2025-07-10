@@ -1,0 +1,90 @@
+{
+  "id": 1736,
+  "name": {
+    "zh_tw": "愛麗俄",
+    "en": "ALIOT"
+  },
+  "image_url": "/images/monsters/1736.gif",
+  "basic_info": {
+    "level": 112,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 15669,
+    "attack": {
+      "min": 1063,
+      "max": 1485
+    },
+    "magic_attack": {
+      "min": 216,
+      "max": 270
+    },
+    "defense": 106,
+    "magic_defense": 15,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 56,
+      "vit": 55,
+      "int": 42,
+      "dex": 107,
+      "luk": 75
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.05,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1839,
+      "name": "緋紅色拳套[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1839.gif"
+    },
+    {
+      "item_id": 2516,
+      "name": "獵鷹披肩",
+      "rate": 0.05,
+      "icon_url": "/images/items/2516.gif"
+    },
+    {
+      "item_id": 4402,
+      "name": "愛麗俄卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6214,
+      "name": "煙幕粉末",
+      "rate": 1.0,
+      "icon_url": "/images/items/6214.gif"
+    },
+    {
+      "item_id": 7507,
+      "name": "堅固的鐵片",
+      "rate": 15.0,
+      "icon_url": "/images/items/7507.gif"
+    },
+    {
+      "item_id": 7512,
+      "name": "燒焦的部品碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/7512.gif"
+    },
+    {
+      "item_id": 13405,
+      "name": "細刃[2]",
+      "rate": 0.08,
+      "icon_url": "/images/items/13405.gif"
+    }
+  ]
+}

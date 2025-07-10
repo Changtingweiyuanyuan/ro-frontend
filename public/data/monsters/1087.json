@@ -1,0 +1,90 @@
+{
+  "id": 1087,
+  "name": {
+    "zh_tw": "獸人英雄",
+    "en": "ORK_HERO"
+  },
+  "image_url": "/images/monsters/1087.gif",
+  "basic_info": {
+    "level": 50,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 362000,
+    "attack": {
+      "min": 676,
+      "max": 942
+    },
+    "magic_attack": {
+      "min": 429,
+      "max": 695
+    },
+    "defense": 197,
+    "magic_defense": 70,
+    "hit_100_percent": 340,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 82,
+      "vit": 107,
+      "int": 71,
+      "dex": 144,
+      "luk": 43
+    }
+  },
+  "drops": [
+    {
+      "item_id": 968,
+      "name": "獸人英雄之證",
+      "rate": 48.5,
+      "icon_url": "/images/items/968.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 22.8,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1124,
+      "name": "獸人刀",
+      "rate": 5.0,
+      "icon_url": "/images/items/1124.gif"
+    },
+    {
+      "item_id": 1366,
+      "name": "智天使之斧",
+      "rate": 0.75,
+      "icon_url": "/images/items/1366.gif"
+    },
+    {
+      "item_id": 1387,
+      "name": "巨人戰斧[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1387.gif"
+    },
+    {
+      "item_id": 2106,
+      "name": "鋼盾[1]",
+      "rate": 1.25,
+      "icon_url": "/images/items/2106.gif"
+    },
+    {
+      "item_id": 4143,
+      "name": "獸人英雄卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 10018,
+      "name": "猴子發箍",
+      "rate": 2.5,
+      "icon_url": "/images/items/10018.gif"
+    }
+  ]
+}

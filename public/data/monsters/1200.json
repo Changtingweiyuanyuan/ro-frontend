@@ -1,0 +1,90 @@
+{
+  "id": 1200,
+  "name": {
+    "zh_tw": "艾斯恩魔女",
+    "en": "ZHERLTHSH"
+  },
+  "image_url": "/images/monsters/1200.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 61350,
+    "attack": {
+      "min": 987,
+      "max": 1385
+    },
+    "magic_attack": {
+      "min": 342,
+      "max": 492
+    },
+    "defense": 91,
+    "magic_defense": 99,
+    "hit_100_percent": 378,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 61,
+      "vit": 51,
+      "int": 62,
+      "dex": 136,
+      "luk": 60
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1970,
+      "name": "女王的鞭子",
+      "rate": 0.5,
+      "icon_url": "/images/items/1970.gif"
+    },
+    {
+      "item_id": 2291,
+      "name": "蝴蝶假面",
+      "rate": 0.02,
+      "icon_url": "/images/items/2291.gif"
+    },
+    {
+      "item_id": 2331,
+      "name": "緊身便衣[1]",
+      "rate": 0.04,
+      "icon_url": "/images/items/2331.gif"
+    },
+    {
+      "item_id": 2622,
+      "name": "智力耳環[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2622.gif"
+    },
+    {
+      "item_id": 4277,
+      "name": "艾斯恩魔女卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7017,
+      "name": "行刑者手套",
+      "rate": 0.03,
+      "icon_url": "/images/items/7017.gif"
+    },
+    {
+      "item_id": 7293,
+      "name": "玫瑰石英",
+      "rate": 7.5,
+      "icon_url": "/images/items/7293.gif"
+    },
+    {
+      "item_id": 10037,
+      "name": "黑蝴蝶假面",
+      "rate": 0.05,
+      "icon_url": "/images/items/10037.gif"
+    }
+  ]
+}

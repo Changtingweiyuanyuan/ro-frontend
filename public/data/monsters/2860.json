@@ -1,0 +1,90 @@
+{
+  "id": 2860,
+  "name": {
+    "zh_tw": "精英死亡魔書 / 菁英死亡魔書",
+    "en": "C3_DEATHWORD"
+  },
+  "image_url": "/images/monsters/2860.gif",
+  "basic_info": {
+    "level": 114,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 81950,
+    "attack": {
+      "min": 1005,
+      "max": 1405
+    },
+    "magic_attack": {
+      "min": 289,
+      "max": 365
+    },
+    "defense": 68,
+    "magic_defense": 40,
+    "hit_100_percent": 388,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 64,
+      "vit": 53,
+      "int": 88,
+      "dex": 139,
+      "luk": 54
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1097,
+      "name": "破舊書頁",
+      "rate": 100.0,
+      "icon_url": "/images/items/1097.gif"
+    },
+    {
+      "item_id": 2418,
+      "name": "迪塔樂長靴",
+      "rate": 0.25,
+      "icon_url": "/images/items/2418.gif"
+    },
+    {
+      "item_id": 4388,
+      "name": "死亡魔書卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7015,
+      "name": "回憶書籤",
+      "rate": 7.5,
+      "icon_url": "/images/items/7015.gif"
+    },
+    {
+      "item_id": 7449,
+      "name": "染血的書頁",
+      "rate": 12.5,
+      "icon_url": "/images/items/7449.gif"
+    },
+    {
+      "item_id": 7479,
+      "name": "8級烹飪書",
+      "rate": 0.05,
+      "icon_url": "/images/items/7479.gif"
+    },
+    {
+      "item_id": 7480,
+      "name": "9級烹飪書",
+      "rate": 0.05,
+      "icon_url": "/images/items/7480.gif"
+    },
+    {
+      "item_id": 11003,
+      "name": "世紀末卡普拉傳說 第1本",
+      "rate": 1.25,
+      "icon_url": "/images/items/11003.gif"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 2811,
+  "name": {
+    "zh_tw": "精英 / 菁英 七彩大嘴鳥",
+    "en": "C3_GRAND_PECO"
+  },
+  "image_url": "/images/monsters/2811.gif",
+  "basic_info": {
+    "level": 75,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 15750,
+    "attack": {
+      "min": 471,
+      "max": 639
+    },
+    "magic_attack": {
+      "min": 137,
+      "max": 171
+    },
+    "defense": 95,
+    "magic_defense": 30,
+    "hit_100_percent": 325,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 63,
+      "agi": 45,
+      "vit": 50,
+      "int": 23,
+      "dex": 61,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 7.5,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 582,
+      "name": "橙子",
+      "rate": 12.5,
+      "icon_url": "/images/items/582.gif"
+    },
+    {
+      "item_id": 969,
+      "name": "黃金",
+      "rate": 0.01,
+      "icon_url": "/images/items/969.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 25.0,
+      "icon_url": "/images/items/992.gif"
+    },
+    {
+      "item_id": 4161,
+      "name": "七彩大嘴鳥卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7101,
+      "name": "七彩大嘴鳥之羽",
+      "rate": 100.0,
+      "icon_url": "/images/items/7101.gif"
+    }
+  ]
+}

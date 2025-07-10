@@ -1,0 +1,84 @@
+{
+  "id": 3760,
+  "name": {
+    "zh_tw": "憤懣殭屍 / 憤恨的殭屍",
+    "en": "ILL_MUNAK"
+  },
+  "image_url": "/images/monsters/3760.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 17728,
+    "attack": {
+      "min": 722,
+      "max": 978
+    },
+    "magic_attack": {
+      "min": 203,
+      "max": 267
+    },
+    "defense": 77,
+    "magic_defense": 15,
+    "hit_100_percent": 332,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 103,
+      "agi": 18,
+      "vit": 50,
+      "int": 20,
+      "dex": 66,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 609,
+      "name": "返魂符",
+      "rate": 0.2,
+      "icon_url": "/images/items/609.gif"
+    },
+    {
+      "item_id": 2264,
+      "name": "殭屍帽",
+      "rate": 0.1,
+      "icon_url": "/images/items/2264.gif"
+    },
+    {
+      "item_id": 7935,
+      "name": "毒草蛇足草",
+      "rate": 1.5,
+      "icon_url": "/images/items/7935.gif"
+    },
+    {
+      "item_id": 12197,
+      "name": "鹹鹹的糕餅",
+      "rate": 1.5,
+      "icon_url": "/images/items/12197.gif"
+    },
+    {
+      "item_id": 23228,
+      "name": "朦朧月餅",
+      "rate": 10.0,
+      "icon_url": "/images/items/23228.gif"
+    },
+    {
+      "item_id": 23228,
+      "name": "朦朧月餅",
+      "rate": 10.0,
+      "icon_url": "/images/items/23228.gif"
+    },
+    {
+      "item_id": 27085,
+      "name": "憤懣殭屍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27085.gif"
+    }
+  ]
+}

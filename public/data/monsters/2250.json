@@ -1,0 +1,84 @@
+{
+  "id": 2250,
+  "name": {
+    "zh_tw": "女戰士羅拉",
+    "en": "LORA"
+  },
+  "image_url": "/images/monsters/2250.gif",
+  "basic_info": {
+    "level": 136,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 500255,
+    "attack": {
+      "min": 1868,
+      "max": 2662
+    },
+    "magic_attack": {
+      "min": 1395,
+      "max": 2417
+    },
+    "defense": 224,
+    "magic_defense": 58,
+    "hit_100_percent": 441,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 144,
+      "agi": 92,
+      "vit": 86,
+      "int": 69,
+      "dex": 149,
+      "luk": 68
+    }
+  },
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 0.5,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 30.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 4579,
+      "name": "女戰士蘿拉卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 0.05,
+      "icon_url": "/images/items/12623.gif"
+    },
+    {
+      "item_id": 12675,
+      "name": "城戰武器補給箱",
+      "rate": 0.5,
+      "icon_url": "/images/items/12675.gif"
+    },
+    {
+      "item_id": 12679,
+      "name": "城戰白色藥水箱",
+      "rate": 5.0,
+      "icon_url": "/images/items/12679.gif"
+    },
+    {
+      "item_id": 12680,
+      "name": "攻城用藍色藥水箱子",
+      "rate": 5.0,
+      "icon_url": "/images/items/12680.gif"
+    }
+  ]
+}

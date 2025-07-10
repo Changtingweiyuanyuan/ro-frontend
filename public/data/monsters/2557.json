@@ -1,0 +1,48 @@
+{
+  "id": 2557,
+  "name": {
+    "zh_tw": "影狼 庫洛雅庫瑪",
+    "en": "GEFFEN_MAGE_7"
+  },
+  "image_url": "/images/monsters/2557.gif",
+  "basic_info": {
+    "level": 130,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1200000,
+    "attack": {
+      "min": 761,
+      "max": 1027
+    },
+    "magic_attack": {
+      "min": 694,
+      "max": 1094
+    },
+    "defense": 135,
+    "magic_defense": 10,
+    "hit_100_percent": 450,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 100,
+      "vit": 100,
+      "int": 100,
+      "dex": 145,
+      "luk": 100
+    }
+  },
+  "drops": [
+    {
+      "item_id": 27257,
+      "name": "庫洛雅庫瑪卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27257.gif"
+    }
+  ]
+}

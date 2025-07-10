@@ -1,0 +1,90 @@
+{
+  "id": 1026,
+  "name": {
+    "zh_tw": "殭屍",
+    "en": "MUNAK"
+  },
+  "image_url": "/images/monsters/1026.gif",
+  "basic_info": {
+    "level": 58,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2445,
+    "attack": {
+      "min": 258,
+      "max": 332
+    },
+    "magic_attack": {
+      "min": 89,
+      "max": 107
+    },
+    "defense": 77,
+    "magic_defense": 15,
+    "hit_100_percent": 269,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 53,
+      "agi": 9,
+      "vit": 25,
+      "int": 10,
+      "dex": 33,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 609,
+      "name": "返魂符",
+      "rate": 0.1,
+      "icon_url": "/images/items/609.gif"
+    },
+    {
+      "item_id": 901,
+      "name": "辮子",
+      "rate": 45.0,
+      "icon_url": "/images/items/901.gif"
+    },
+    {
+      "item_id": 1558,
+      "name": "日記本[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/1558.gif"
+    },
+    {
+      "item_id": 2264,
+      "name": "殭屍帽",
+      "rate": 0.01,
+      "icon_url": "/images/items/2264.gif"
+    },
+    {
+      "item_id": 2305,
+      "name": "冒險衣",
+      "rate": 0.5,
+      "icon_url": "/images/items/2305.gif"
+    },
+    {
+      "item_id": 2337,
+      "name": "忍服 血櫻",
+      "rate": 0.01,
+      "icon_url": "/images/items/2337.gif"
+    },
+    {
+      "item_id": 2404,
+      "name": "長靴[1]",
+      "rate": 0.08,
+      "icon_url": "/images/items/2404.gif"
+    },
+    {
+      "item_id": 4090,
+      "name": "殭屍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

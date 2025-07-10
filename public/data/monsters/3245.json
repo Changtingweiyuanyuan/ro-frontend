@@ -1,0 +1,90 @@
+{
+  "id": 3245,
+  "name": {
+    "zh_tw": "暗●宮廷樂師 雅歐帕奇爾",
+    "en": "V_B_ALPHOCCIO"
+  },
+  "image_url": "/images/monsters/3245.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10800000,
+    "attack": {
+      "min": 3626,
+      "max": 5226
+    },
+    "magic_attack": {
+      "min": 4786,
+      "max": 8386
+    },
+    "defense": 240,
+    "magic_defense": 200,
+    "hit_100_percent": 722,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 240,
+      "agi": 300,
+      "vit": 140,
+      "int": 400,
+      "dex": 300,
+      "luk": 180
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4673,
+      "name": "暗●宮廷樂師 雅歐帕奇爾卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6818,
+      "name": "弓箭手之魂",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6818.gif"
+    },
+    {
+      "item_id": 6818,
+      "name": "弓箭手之魂",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6818.gif"
+    },
+    {
+      "item_id": 6818,
+      "name": "弓箭手之魂",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6818.gif"
+    },
+    {
+      "item_id": 20748,
+      "name": "戰死者斗篷",
+      "rate": 1.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/20748.gif"
+    },
+    {
+      "item_id": 20748,
+      "name": "戰死者斗篷",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/20748.gif"
+    },
+    {
+      "item_id": 22687,
+      "name": "邪念碎片",
+      "rate": 50.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/22687.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 30.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/23016.gif"
+    }
+  ]
+}

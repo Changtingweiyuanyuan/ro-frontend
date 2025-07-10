@@ -1,0 +1,90 @@
+{
+  "id": 1882,
+  "name": {
+    "zh_tw": "芭芭亞卡",
+    "en": "VAVAYAGA"
+  },
+  "image_url": "/images/monsters/1882.gif",
+  "basic_info": {
+    "level": 87,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6498,
+    "attack": {
+      "min": 404,
+      "max": 528
+    },
+    "magic_attack": {
+      "min": 196,
+      "max": 240
+    },
+    "defense": 63,
+    "magic_defense": 60,
+    "hit_100_percent": 339,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 45,
+      "vit": 30,
+      "int": 60,
+      "dex": 61,
+      "luk": 35
+    }
+  },
+  "drops": [
+    {
+      "item_id": 519,
+      "name": "牛奶",
+      "rate": 7.5,
+      "icon_url": "/images/items/519.gif"
+    },
+    {
+      "item_id": 539,
+      "name": "小蛋糕",
+      "rate": 7.5,
+      "icon_url": "/images/items/539.gif"
+    },
+    {
+      "item_id": 580,
+      "name": "麵包",
+      "rate": 7.5,
+      "icon_url": "/images/items/580.gif"
+    },
+    {
+      "item_id": 1630,
+      "name": "許願之杖",
+      "rate": 0.05,
+      "icon_url": "/images/items/1630.gif"
+    },
+    {
+      "item_id": 7099,
+      "name": "老舊魔法圖",
+      "rate": 5.0,
+      "icon_url": "/images/items/7099.gif"
+    },
+    {
+      "item_id": 7226,
+      "name": "幻藥",
+      "rate": 0.75,
+      "icon_url": "/images/items/7226.gif"
+    },
+    {
+      "item_id": 7762,
+      "name": "亞卡祖母的杵棒",
+      "rate": 25.0,
+      "icon_url": "/images/items/7762.gif"
+    },
+    {
+      "item_id": 27160,
+      "name": "芭芭亞卡卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27160.gif"
+    }
+  ]
+}

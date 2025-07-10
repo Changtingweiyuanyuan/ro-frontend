@@ -1,0 +1,90 @@
+{
+  "id": 1670,
+  "name": {
+    "zh_tw": "暴風迪靡克",
+    "en": "DIMIK_1"
+  },
+  "image_url": "/images/monsters/1670.gif",
+  "basic_info": {
+    "level": 116,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 17552,
+    "attack": {
+      "min": 1524,
+      "max": 2172
+    },
+    "magic_attack": {
+      "min": 242,
+      "max": 308
+    },
+    "defense": 93,
+    "magic_defense": 28,
+    "hit_100_percent": 414,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 114,
+      "agi": 90,
+      "vit": 66,
+      "int": 52,
+      "dex": 201,
+      "luk": 41
+    }
+  },
+  "drops": [
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.05,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 4370,
+      "name": "迪靡克卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6216,
+      "name": "油瓶",
+      "rate": 0.35,
+      "icon_url": "/images/items/6216.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 1.5,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7319,
+      "name": "老舊的鐵板",
+      "rate": 10.0,
+      "icon_url": "/images/items/7319.gif"
+    },
+    {
+      "item_id": 7352,
+      "name": "綠透明板",
+      "rate": 0.25,
+      "icon_url": "/images/items/7352.gif"
+    },
+    {
+      "item_id": 12128,
+      "name": "御用的烹飪用具",
+      "rate": 0.25,
+      "icon_url": "/images/items/12128.gif"
+    },
+    {
+      "item_id": 13153,
+      "name": "昏暗來復槍[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/13153.gif"
+    }
+  ]
+}

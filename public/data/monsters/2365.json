@@ -1,0 +1,78 @@
+{
+  "id": 2365,
+  "name": {
+    "zh_tw": "惡靈之霧",
+    "en": "CENERE"
+  },
+  "image_url": "/images/monsters/2365.gif",
+  "basic_info": {
+    "level": 146,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 130131,
+    "attack": {
+      "min": 1654,
+      "max": 2376
+    },
+    "magic_attack": {
+      "min": 902,
+      "max": 1522
+    },
+    "defense": 87,
+    "magic_defense": 81,
+    "hit_100_percent": 394,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 39,
+      "vit": 30,
+      "int": 35,
+      "dex": 95,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4595,
+      "name": "惡靈之霧卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6561,
+      "name": "塵埃",
+      "rate": 50.0,
+      "icon_url": "/images/items/6561.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 15.0,
+      "icon_url": "/images/items/7001.gif"
+    },
+    {
+      "item_id": 7320,
+      "name": "粉塵",
+      "rate": 10.0,
+      "icon_url": "/images/items/7320.gif"
+    },
+    {
+      "item_id": 7322,
+      "name": "有毒瓦斯",
+      "rate": 5.0,
+      "icon_url": "/images/items/7322.gif"
+    },
+    {
+      "item_id": 12815,
+      "name": "世界樹之塵",
+      "rate": 5.0,
+      "icon_url": "/images/items/12815.gif"
+    }
+  ]
+}

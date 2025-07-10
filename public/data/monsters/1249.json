@@ -1,0 +1,90 @@
+{
+  "id": 1249,
+  "name": {
+    "zh_tw": "邪惡禮盒",
+    "en": "MYSTCASE"
+  },
+  "image_url": "/images/monsters/1249.gif",
+  "basic_info": {
+    "level": 39,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 879,
+    "attack": {
+      "min": 119,
+      "max": 147
+    },
+    "magic_attack": {
+      "min": 88,
+      "max": 102
+    },
+    "defense": 50,
+    "magic_defense": 11,
+    "hit_100_percent": 263,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 26,
+      "agi": 19,
+      "vit": 40,
+      "int": 35,
+      "dex": 31,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 529,
+      "name": "糖果",
+      "rate": 1.7,
+      "icon_url": "/images/items/529.gif"
+    },
+    {
+      "item_id": 530,
+      "name": "拐杖糖",
+      "rate": 0.45,
+      "icon_url": "/images/items/530.gif"
+    },
+    {
+      "item_id": 539,
+      "name": "小蛋糕",
+      "rate": 10.0,
+      "icon_url": "/images/items/539.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.1,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 722,
+      "name": "珍珠",
+      "rate": 0.75,
+      "icon_url": "/images/items/722.gif"
+    },
+    {
+      "item_id": 731,
+      "name": "2克拉鑽石",
+      "rate": 0.03,
+      "icon_url": "/images/items/731.gif"
+    },
+    {
+      "item_id": 4206,
+      "name": "邪惡禮盒卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

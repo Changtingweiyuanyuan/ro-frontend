@@ -1,0 +1,72 @@
+{
+  "id": 20348,
+  "name": {
+    "zh_tw": "A013-卡夫特",
+    "en": "MD_A013_CAPUT"
+  },
+  "image_url": "/images/monsters/20348.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 31000,
+    "attack": {
+      "min": 945,
+      "max": 1305
+    },
+    "magic_attack": {
+      "min": 307,
+      "max": 397
+    },
+    "defense": 79,
+    "magic_defense": 40,
+    "hit_100_percent": 404,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 115,
+      "agi": 85,
+      "vit": 81,
+      "int": 92,
+      "dex": 121,
+      "luk": 47
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1044,
+      "name": "茲諾克之牙",
+      "rate": 8.0,
+      "icon_url": "/images/items/1044.gif"
+    },
+    {
+      "item_id": 1050,
+      "name": "血管",
+      "rate": 20.0,
+      "icon_url": "/images/items/1050.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 7511,
+      "name": "黑暗的輪",
+      "rate": 12.5,
+      "icon_url": "/images/items/7511.gif"
+    },
+    {
+      "item_id": 25723,
+      "name": "核心元件",
+      "rate": 0.03,
+      "icon_url": "/images/items/25723.gif"
+    }
+  ]
+}

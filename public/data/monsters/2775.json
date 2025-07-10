@@ -1,0 +1,84 @@
+{
+  "id": 2775,
+  "name": {
+    "zh_tw": "精英猴桃木 / 雄壯猴桃木",
+    "en": "C2_LIVE_PEACH_TREE"
+  },
+  "image_url": "/images/monsters/2775.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 87770,
+    "attack": {
+      "min": 504,
+      "max": 674
+    },
+    "magic_attack": {
+      "min": 182,
+      "max": 226
+    },
+    "defense": 109,
+    "magic_defense": 40,
+    "hit_100_percent": 354,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 76,
+      "agi": 52,
+      "vit": 55,
+      "int": 40,
+      "dex": 92,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/526.gif"
+    },
+    {
+      "item_id": 532,
+      "name": "香蕉汁",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/532.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.15,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/603.gif"
+    },
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/604.gif"
+    },
+    {
+      "item_id": 4217,
+      "name": "猴桃木卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7164,
+      "name": "石榴桃",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7164.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7939.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2208,
+  "name": {
+    "zh_tw": "野貓騎士",
+    "en": "WILD_RIDER"
+  },
+  "image_url": "/images/monsters/2208.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 33300,
+    "attack": {
+      "min": 1240,
+      "max": 1768
+    },
+    "magic_attack": {
+      "min": 382,
+      "max": 580
+    },
+    "defense": 480,
+    "magic_defense": 22,
+    "hit_100_percent": 430,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 89,
+      "agi": 124,
+      "vit": 89,
+      "int": 56,
+      "dex": 112,
+      "luk": 56
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 10.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 25.0,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 956,
+      "name": "鰓刺",
+      "rate": 25.0,
+      "icon_url": "/images/items/956.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 5.0,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 4532,
+      "name": "野貓騎士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 5.0,
+      "icon_url": "/images/items/7938.gif"
+    },
+    {
+      "item_id": 12624,
+      "name": "可口果凍",
+      "rate": 25.0,
+      "icon_url": "/images/items/12624.gif"
+    }
+  ]
+}

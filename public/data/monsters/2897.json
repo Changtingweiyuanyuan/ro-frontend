@@ -1,0 +1,66 @@
+{
+  "id": 2897,
+  "name": {
+    "zh_tw": "精英 / 迅捷 古靈精怪書",
+    "en": "C1_ANTIQUE_BOOK"
+  },
+  "image_url": "/images/monsters/2897.gif",
+  "basic_info": {
+    "level": 148,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 673075,
+    "attack": {
+      "min": 2001,
+      "max": 2895
+    },
+    "magic_attack": {
+      "min": 1041,
+      "max": 1769
+    },
+    "defense": 74,
+    "magic_defense": 42,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 53,
+      "vit": 32,
+      "int": 44,
+      "dex": 125,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1097,
+      "name": "破舊書頁",
+      "rate": 50.0,
+      "icon_url": "/images/items/1097.gif"
+    },
+    {
+      "item_id": 6560,
+      "name": "楓葉書籤",
+      "rate": 100.0,
+      "icon_url": "/images/items/6560.gif"
+    },
+    {
+      "item_id": 7015,
+      "name": "回憶書籤",
+      "rate": 50.0,
+      "icon_url": "/images/items/7015.gif"
+    },
+    {
+      "item_id": 12812,
+      "name": "冰雪花瓣",
+      "rate": 0.25,
+      "icon_url": "/images/items/12812.gif"
+    }
+  ]
+}

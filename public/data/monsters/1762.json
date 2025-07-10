@@ -1,0 +1,48 @@
+{
+  "id": 1762,
+  "name": {
+    "zh_tw": "彩色皮影魔",
+    "en": "G_FRUS"
+  },
+  "image_url": "/images/monsters/1762.gif",
+  "basic_info": {
+    "level": 128,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 39520,
+    "attack": {
+      "min": 1437,
+      "max": 2035
+    },
+    "magic_attack": {
+      "min": 297,
+      "max": 399
+    },
+    "defense": 65,
+    "magic_defense": 35,
+    "hit_100_percent": 410,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 114,
+      "agi": 77,
+      "vit": 66,
+      "int": 51,
+      "dex": 111,
+      "luk": 27
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7511,
+      "name": "黑暗的輪",
+      "rate": 2.5,
+      "icon_url": "/images/items/7511.gif"
+    }
+  ]
+}

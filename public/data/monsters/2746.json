@@ -1,0 +1,90 @@
+{
+  "id": 2746,
+  "name": {
+    "zh_tw": "精英米雅畢 / 菁英米雅畢",
+    "en": "C3_MIYABI_NINGYO"
+  },
+  "image_url": "/images/monsters/2746.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 25940,
+    "attack": {
+      "min": 379,
+      "max": 493
+    },
+    "magic_attack": {
+      "min": 186,
+      "max": 226
+    },
+    "defense": 57,
+    "magic_defense": 19,
+    "hit_100_percent": 323,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 30,
+      "vit": 30,
+      "int": 55,
+      "dex": 88,
+      "luk": 40
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 38.75,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 1000,
+      "name": "星星的角",
+      "rate": 31.25,
+      "icon_url": "/images/items/1000.gif"
+    },
+    {
+      "item_id": 1939,
+      "name": "緋紅色小提琴[2]",
+      "rate": 2.5,
+      "icon_url": "/images/items/1939.gif"
+    },
+    {
+      "item_id": 4208,
+      "name": "米雅畢卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7152,
+      "name": "光澤的頭髮",
+      "rate": 100.0,
+      "icon_url": "/images/items/7152.gif"
+    },
+    {
+      "item_id": 7153,
+      "name": "舊和服",
+      "rate": 62.5,
+      "icon_url": "/images/items/7153.gif"
+    },
+    {
+      "item_id": 12127,
+      "name": "高級的烹飪用具",
+      "rate": 0.25,
+      "icon_url": "/images/items/12127.gif"
+    },
+    {
+      "item_id": 13014,
+      "name": "骨頭劍",
+      "rate": 0.15,
+      "icon_url": "/images/items/13014.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2670,
+  "name": {
+    "zh_tw": "精英蠍子 / 狡猾蠍子",
+    "en": "C5_SCORPION"
+  },
+  "image_url": "/images/monsters/2670.gif",
+  "basic_info": {
+    "level": 16,
+    "race": "昆蟲",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 765,
+    "attack": {
+      "min": 59,
+      "max": 75
+    },
+    "magic_attack": {
+      "min": 25,
+      "max": 31
+    },
+    "defense": 16,
+    "magic_defense": 5,
+    "hit_100_percent": 232,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 12,
+      "agi": 15,
+      "vit": 10,
+      "int": 5,
+      "dex": 19,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 5.0,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 625,
+      "name": "鏽鐵",
+      "rate": 0.5,
+      "icon_url": "/images/items/625.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 1.45,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 904,
+      "name": "蠍子尾巴",
+      "rate": 100.0,
+      "icon_url": "/images/items/904.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 5.25,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 990,
+      "name": "火靈礦石",
+      "rate": 1.75,
+      "icon_url": "/images/items/990.gif"
+    },
+    {
+      "item_id": 4068,
+      "name": "蠍子卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

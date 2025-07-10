@@ -1,0 +1,60 @@
+{
+  "id": 2961,
+  "name": {
+    "zh_tw": "異變的王子 / 扭曲的救贖主",
+    "en": "灵魂"
+  },
+  "image_url": "/images/monsters/2961.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 103342,
+    "attack": {
+      "min": 121,
+      "max": 123
+    },
+    "magic_attack": {
+      "min": 121,
+      "max": 123
+    },
+    "defense": 144,
+    "magic_defense": 28,
+    "hit_100_percent": 321,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 923,
+      "name": "惡魔角",
+      "rate": 20.0,
+      "icon_url": "/images/items/923.gif"
+    },
+    {
+      "item_id": 6672,
+      "name": "土色碎片",
+      "rate": 100.0,
+      "icon_url": "/images/items/6672.gif"
+    },
+    {
+      "item_id": 6672,
+      "name": "土色碎片",
+      "rate": 100.0,
+      "icon_url": "/images/items/6672.gif"
+    }
+  ]
+}

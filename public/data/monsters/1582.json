@@ -1,0 +1,90 @@
+{
+  "id": 1582,
+  "name": {
+    "zh_tw": "惡魔波利",
+    "en": "DEVILING"
+  },
+  "image_url": "/images/monsters/1582.gif",
+  "basic_info": {
+    "level": 66,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 16890,
+    "attack": {
+      "min": 364,
+      "max": 490
+    },
+    "magic_attack": {
+      "min": 269,
+      "max": 379
+    },
+    "defense": 67,
+    "magic_defense": 70,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 48,
+      "agi": 50,
+      "vit": 33,
+      "int": 75,
+      "dex": 85,
+      "luk": 200
+    }
+  },
+  "drops": [
+    {
+      "item_id": 512,
+      "name": "蘋果",
+      "rate": 25.0,
+      "icon_url": "/images/items/512.gif"
+    },
+    {
+      "item_id": 694,
+      "name": "聖靈召喚 等級3",
+      "rate": 0.5,
+      "icon_url": "/images/items/694.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 24.25,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 983,
+      "name": "黑色染料",
+      "rate": 0.5,
+      "icon_url": "/images/items/983.gif"
+    },
+    {
+      "item_id": 1039,
+      "name": "小惡魔翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/1039.gif"
+    },
+    {
+      "item_id": 2255,
+      "name": "惡魔發圈",
+      "rate": 0.5,
+      "icon_url": "/images/items/2255.gif"
+    },
+    {
+      "item_id": 4174,
+      "name": "惡魔波利卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7023,
+      "name": "斷柄之刀",
+      "rate": 0.01,
+      "icon_url": "/images/items/7023.gif"
+    }
+  ]
+}

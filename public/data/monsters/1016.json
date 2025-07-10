@@ -1,0 +1,90 @@
+{
+  "id": 1016,
+  "name": {
+    "zh_tw": "邪骸弓箭手",
+    "en": "ARCHER_SKELETON"
+  },
+  "image_url": "/images/monsters/1016.gif",
+  "basic_info": {
+    "level": 50,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1646,
+    "attack": {
+      "min": 156,
+      "max": 194
+    },
+    "magic_attack": {
+      "min": 76,
+      "max": 90
+    },
+    "defense": 47,
+    "magic_defense": 10,
+    "hit_100_percent": 280,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 30,
+      "agi": 29,
+      "vit": 20,
+      "int": 10,
+      "dex": 35,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 9.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.35,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 22.5,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 1708,
+      "name": "克羅伊特弓[3]",
+      "rate": 0.18,
+      "icon_url": "/images/items/1708.gif"
+    },
+    {
+      "item_id": 1752,
+      "name": "火箭矢",
+      "rate": 5.0,
+      "icon_url": "/images/items/1752.gif"
+    },
+    {
+      "item_id": 2285,
+      "name": "蘋果頭飾",
+      "rate": 0.02,
+      "icon_url": "/images/items/2285.gif"
+    },
+    {
+      "item_id": 4094,
+      "name": "邪骸弓箭手卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

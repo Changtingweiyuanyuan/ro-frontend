@@ -1,0 +1,78 @@
+{
+  "id": 20361,
+  "name": {
+    "zh_tw": "朵洛爾",
+    "en": "EP17_1_DOLOR1"
+  },
+  "image_url": "/images/monsters/20361.gif",
+  "basic_info": {
+    "level": 122,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 40204,
+    "attack": {
+      "min": 1099,
+      "max": 1551
+    },
+    "magic_attack": {
+      "min": 583,
+      "max": 921
+    },
+    "defense": 227,
+    "magic_defense": 28,
+    "hit_100_percent": 393,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 74,
+      "agi": 71,
+      "vit": 83,
+      "int": 69,
+      "dex": 111,
+      "luk": 2
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1019,
+      "name": "瑪哪樹枝",
+      "rate": 10.0,
+      "icon_url": "/images/items/1019.gif"
+    },
+    {
+      "item_id": 7012,
+      "name": "強韌鱗梗",
+      "rate": 12.5,
+      "icon_url": "/images/items/7012.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 8.0,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7565,
+      "name": "黏黏的毒液",
+      "rate": 10.0,
+      "icon_url": "/images/items/7565.gif"
+    },
+    {
+      "item_id": 25723,
+      "name": "核心元件",
+      "rate": 0.05,
+      "icon_url": "/images/items/25723.gif"
+    },
+    {
+      "item_id": 27312,
+      "name": "朵洛爾卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27312.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 20371,
+  "name": {
+    "zh_tw": "越獄腐屍",
+    "en": "RAGGED_ZOMBIE_H"
+  },
+  "image_url": "/images/monsters/20371.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "人形",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2375279,
+    "attack": {
+      "min": 2871,
+      "max": 4145
+    },
+    "magic_attack": {
+      "min": 1144,
+      "max": 1882
+    },
+    "defense": 297,
+    "magic_defense": 105,
+    "hit_100_percent": 469,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 137,
+      "agi": 71,
+      "vit": 37,
+      "int": 99,
+      "dex": 156,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.1,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1098,
+      "name": "手銬",
+      "rate": 17.5,
+      "icon_url": "/images/items/1098.gif"
+    },
+    {
+      "item_id": 7016,
+      "name": "老舊湯匙",
+      "rate": 0.5,
+      "icon_url": "/images/items/7016.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 27358,
+      "name": "越獄腐屍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27358.gif"
+    },
+    {
+      "item_id": 28619,
+      "name": "囚犯日記本[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/28619.gif"
+    }
+  ]
+}

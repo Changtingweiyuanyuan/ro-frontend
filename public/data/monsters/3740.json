@@ -1,0 +1,90 @@
+{
+  "id": 3740,
+  "name": {
+    "zh_tw": "瓦斯特",
+    "en": "GASTER"
+  },
+  "image_url": "/images/monsters/3740.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "無形",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 90574,
+    "attack": {
+      "min": 1406,
+      "max": 2004
+    },
+    "magic_attack": {
+      "min": 369,
+      "max": 509
+    },
+    "defense": 191,
+    "magic_defense": 96,
+    "hit_100_percent": 483,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 141,
+      "vit": 12,
+      "int": 67,
+      "dex": 128,
+      "luk": 8
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.01,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 0.25,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 6213,
+      "name": "炸彈粉末",
+      "rate": 3.0,
+      "icon_url": "/images/items/6213.gif"
+    },
+    {
+      "item_id": 6214,
+      "name": "煙幕粉末",
+      "rate": 3.0,
+      "icon_url": "/images/items/6214.gif"
+    },
+    {
+      "item_id": 6215,
+      "name": "催淚瓦斯",
+      "rate": 3.0,
+      "icon_url": "/images/items/6215.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 15.0,
+      "icon_url": "/images/items/7001.gif"
+    },
+    {
+      "item_id": 25277,
+      "name": "劇毒粉",
+      "rate": 25.0,
+      "icon_url": "/images/items/25277.gif"
+    },
+    {
+      "item_id": 27178,
+      "name": "瓦斯特卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27178.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3220,
+  "name": {
+    "zh_tw": "暗●十字切割者 艾勒梅斯",
+    "en": "V_B_EREMES"
+  },
+  "image_url": "/images/monsters/3220.gif",
+  "basic_info": {
+    "level": 189,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 12600000,
+    "attack": {
+      "min": 6889,
+      "max": 10089
+    },
+    "magic_attack": {
+      "min": 1729,
+      "max": 2929
+    },
+    "defense": 360,
+    "magic_defense": 200,
+    "hit_100_percent": 801,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 300,
+      "agi": 380,
+      "vit": 120,
+      "int": 140,
+      "dex": 400,
+      "luk": 160
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4674,
+      "name": "暗●十字切割者 艾勒梅斯卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6816,
+      "name": "盜賊之魂",
+      "rate": 100.0,
+      "icon_url": "/images/items/6816.gif"
+    },
+    {
+      "item_id": 6816,
+      "name": "盜賊之魂",
+      "rate": 100.0,
+      "icon_url": "/images/items/6816.gif"
+    },
+    {
+      "item_id": 6816,
+      "name": "盜賊之魂",
+      "rate": 100.0,
+      "icon_url": "/images/items/6816.gif"
+    },
+    {
+      "item_id": 20748,
+      "name": "戰死者斗篷",
+      "rate": 1.5,
+      "icon_url": "/images/items/20748.gif"
+    },
+    {
+      "item_id": 20748,
+      "name": "戰死者斗篷",
+      "rate": 5.0,
+      "icon_url": "/images/items/20748.gif"
+    },
+    {
+      "item_id": 22687,
+      "name": "邪念碎片",
+      "rate": 50.0,
+      "icon_url": "/images/items/22687.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 30.0,
+      "icon_url": "/images/items/23016.gif"
+    }
+  ]
+}

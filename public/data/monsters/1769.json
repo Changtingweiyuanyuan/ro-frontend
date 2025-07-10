@@ -1,0 +1,90 @@
+{
+  "id": 1769,
+  "name": {
+    "zh_tw": "阿卡布",
+    "en": "AGAV"
+  },
+  "image_url": "/images/monsters/1769.gif",
+  "basic_info": {
+    "level": 128,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 40000,
+    "attack": {
+      "min": 926,
+      "max": 1284
+    },
+    "magic_attack": {
+      "min": 367,
+      "max": 477
+    },
+    "defense": 77,
+    "magic_defense": 82,
+    "hit_100_percent": 406,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 85,
+      "agi": 66,
+      "vit": 55,
+      "int": 113,
+      "dex": 120,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1061,
+      "name": "魔女之星沙",
+      "rate": 12.5,
+      "icon_url": "/images/items/1061.gif"
+    },
+    {
+      "item_id": 2109,
+      "name": "謊言紀錄本",
+      "rate": 0.01,
+      "icon_url": "/images/items/2109.gif"
+    },
+    {
+      "item_id": 2422,
+      "name": "高級涼鞋[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2422.gif"
+    },
+    {
+      "item_id": 4409,
+      "name": "阿加波卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 20.0,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 0.5,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7567,
+      "name": "異常的帽子",
+      "rate": 12.5,
+      "icon_url": "/images/items/7567.gif"
+    },
+    {
+      "item_id": 12183,
+      "name": "神聖箭矢筒",
+      "rate": 0.25,
+      "icon_url": "/images/items/12183.gif"
+    }
+  ]
+}

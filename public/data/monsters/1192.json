@@ -1,0 +1,84 @@
+{
+  "id": 1192,
+  "name": {
+    "zh_tw": "惡靈",
+    "en": "WRAITH"
+  },
+  "image_url": "/images/monsters/1192.gif",
+  "basic_info": {
+    "level": 77,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5168,
+    "attack": {
+      "min": 434,
+      "max": 582
+    },
+    "magic_attack": {
+      "min": 174,
+      "max": 212
+    },
+    "defense": 80,
+    "magic_defense": 40,
+    "hit_100_percent": 304,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 62,
+      "agi": 26,
+      "vit": 30,
+      "int": 55,
+      "dex": 91,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 3.25,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 731,
+      "name": "2克拉鑽石",
+      "rate": 0.03,
+      "icon_url": "/images/items/731.gif"
+    },
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 29.1,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 2206,
+      "name": "婚禮頭紗",
+      "rate": 0.05,
+      "icon_url": "/images/items/2206.gif"
+    },
+    {
+      "item_id": 2505,
+      "name": "斗篷",
+      "rate": 0.05,
+      "icon_url": "/images/items/2505.gif"
+    },
+    {
+      "item_id": 2506,
+      "name": "斗篷[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2506.gif"
+    },
+    {
+      "item_id": 4190,
+      "name": "惡靈卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2850,
+  "name": {
+    "zh_tw": "精英狡蛛 / 菁英狡蛛",
+    "en": "C3_DOLOMEDES"
+  },
+  "image_url": "/images/monsters/2850.gif",
+  "basic_info": {
+    "level": 132,
+    "race": "昆蟲",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 272955,
+    "attack": {
+      "min": 1256,
+      "max": 1744
+    },
+    "magic_attack": {
+      "min": 387,
+      "max": 559
+    },
+    "defense": 112,
+    "magic_defense": 52,
+    "hit_100_percent": 379,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 149,
+      "agi": 34,
+      "vit": 82,
+      "int": 55,
+      "dex": 143,
+      "luk": 67
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1984,
+      "name": "節鞭[1]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1984.gif"
+    },
+    {
+      "item_id": 2789,
+      "name": "鈽鐳戒指[1]",
+      "rate": 0.25,
+      "icon_url": "/images/items/2789.gif"
+    },
+    {
+      "item_id": 4506,
+      "name": "狡蛛卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6090,
+      "name": "精煉魔力之石",
+      "rate": 12.5,
+      "icon_url": "/images/items/6090.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 12.5,
+      "icon_url": "/images/items/6224.gif"
+    },
+    {
+      "item_id": 6319,
+      "name": "細小的魔力之石",
+      "rate": 75.0,
+      "icon_url": "/images/items/6319.gif"
+    },
+    {
+      "item_id": 6325,
+      "name": "白色蜘蛛腿",
+      "rate": 100.0,
+      "icon_url": "/images/items/6325.gif"
+    },
+    {
+      "item_id": 12738,
+      "name": "珍稀符文原石",
+      "rate": 0.25,
+      "icon_url": "/images/items/12738.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1130,
+  "name": {
+    "zh_tw": "南瓜先生",
+    "en": "JAKK"
+  },
+  "image_url": "/images/monsters/1130.gif",
+  "basic_info": {
+    "level": 63,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2054,
+    "attack": {
+      "min": 304,
+      "max": 396
+    },
+    "magic_attack": {
+      "min": 113,
+      "max": 137
+    },
+    "defense": 90,
+    "magic_defense": 25,
+    "hit_100_percent": 309,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 43,
+      "vit": 42,
+      "int": 25,
+      "dex": 61,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 535,
+      "name": "南瓜",
+      "rate": 5.0,
+      "icon_url": "/images/items/535.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 4.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.16,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1008,
+      "name": "泯滅之心",
+      "rate": 0.03,
+      "icon_url": "/images/items/1008.gif"
+    },
+    {
+      "item_id": 1062,
+      "name": "南瓜頭",
+      "rate": 45.0,
+      "icon_url": "/images/items/1062.gif"
+    },
+    {
+      "item_id": 2331,
+      "name": "緊身便衣[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2331.gif"
+    },
+    {
+      "item_id": 4109,
+      "name": "南瓜先生卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 0.05,
+      "icon_url": "/images/items/7938.gif"
+    }
+  ]
+}

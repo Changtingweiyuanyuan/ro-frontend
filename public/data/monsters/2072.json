@@ -1,0 +1,78 @@
+{
+  "id": 2072,
+  "name": {
+    "zh_tw": "美洲虎",
+    "en": "JAGUAR"
+  },
+  "image_url": "/images/monsters/2072.gif",
+  "basic_info": {
+    "level": 71,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3914,
+    "attack": {
+      "min": 308,
+      "max": 394
+    },
+    "magic_attack": {
+      "min": 105,
+      "max": 131
+    },
+    "defense": 44,
+    "magic_defense": 15,
+    "hit_100_percent": 302,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 30,
+      "vit": 45,
+      "int": 5,
+      "dex": 71,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.2,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 5.0,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 1839,
+      "name": "緋紅色拳套[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1839.gif"
+    },
+    {
+      "item_id": 7171,
+      "name": "花豹外皮",
+      "rate": 15.0,
+      "icon_url": "/images/items/7171.gif"
+    },
+    {
+      "item_id": 7172,
+      "name": "花豹指甲",
+      "rate": 10.0,
+      "icon_url": "/images/items/7172.gif"
+    },
+    {
+      "item_id": 27124,
+      "name": "美洲虎卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27124.gif"
+    }
+  ]
+}

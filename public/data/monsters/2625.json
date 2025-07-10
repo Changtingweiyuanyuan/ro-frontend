@@ -1,0 +1,90 @@
+{
+  "id": 2625,
+  "name": {
+    "zh_tw": "精英凡娜圖 / 憤怒凡娜圖",
+    "en": "C4_VENATU_1"
+  },
+  "image_url": "/images/monsters/2625.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 79500,
+    "attack": {
+      "min": 1817,
+      "max": 2615
+    },
+    "magic_attack": {
+      "min": 222,
+      "max": 274
+    },
+    "defense": 95,
+    "magic_defense": 20,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 70,
+      "vit": 60,
+      "int": 50,
+      "dex": 84,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.25,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 4369,
+      "name": "紅凡娜圖卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6216,
+      "name": "油瓶",
+      "rate": 2.5,
+      "icon_url": "/images/items/6216.gif"
+    },
+    {
+      "item_id": 7094,
+      "name": "未知的碎片",
+      "rate": 7.5,
+      "icon_url": "/images/items/7094.gif"
+    },
+    {
+      "item_id": 7317,
+      "name": "生鏽的螺絲",
+      "rate": 50.0,
+      "icon_url": "/images/items/7317.gif"
+    },
+    {
+      "item_id": 7356,
+      "name": "頂飾的碎片",
+      "rate": 8.75,
+      "icon_url": "/images/items/7356.gif"
+    },
+    {
+      "item_id": 12127,
+      "name": "高級的烹飪用具",
+      "rate": 2.5,
+      "icon_url": "/images/items/12127.gif"
+    },
+    {
+      "item_id": 13157,
+      "name": "漂流者格林機槍[1]",
+      "rate": 0.15,
+      "icon_url": "/images/items/13157.gif"
+    }
+  ]
+}

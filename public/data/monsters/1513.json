@@ -1,0 +1,78 @@
+{
+  "id": 1513,
+  "name": {
+    "zh_tw": "狐仙",
+    "en": "CIVIL_SERVANT"
+  },
+  "image_url": "/images/monsters/1513.gif",
+  "basic_info": {
+    "level": 89,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5292,
+    "attack": {
+      "min": 399,
+      "max": 521
+    },
+    "magic_attack": {
+      "min": 196,
+      "max": 234
+    },
+    "defense": 90,
+    "magic_defense": 56,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 76,
+      "vit": 40,
+      "int": 65,
+      "dex": 74,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 606,
+      "name": "蘆薈汁液",
+      "rate": 0.05,
+      "icon_url": "/images/items/606.gif"
+    },
+    {
+      "item_id": 693,
+      "name": "雷擊術 等級5",
+      "rate": 0.5,
+      "icon_url": "/images/items/693.gif"
+    },
+    {
+      "item_id": 1023,
+      "name": "魚尾",
+      "rate": 0.5,
+      "icon_url": "/images/items/1023.gif"
+    },
+    {
+      "item_id": 4202,
+      "name": "狐仙卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7262,
+      "name": "摺扇",
+      "rate": 20.86,
+      "icon_url": "/images/items/7262.gif"
+    },
+    {
+      "item_id": 7263,
+      "name": "貓眼石",
+      "rate": 10.0,
+      "icon_url": "/images/items/7263.gif"
+    }
+  ]
+}

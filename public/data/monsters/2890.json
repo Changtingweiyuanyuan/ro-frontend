@@ -1,0 +1,90 @@
+{
+  "id": 2890,
+  "name": {
+    "zh_tw": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+    "en": "C4_ARGOS"
+  },
+  "image_url": "/images/monsters/2890.gif",
+  "basic_info": {
+    "level": 47,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5025,
+    "attack": {
+      "min": 176,
+      "max": 222
+    },
+    "magic_attack": {
+      "min": 75,
+      "max": 95
+    },
+    "defense": 58,
+    "magic_defense": 8,
+    "hit_100_percent": 272,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 38,
+      "agi": 22,
+      "vit": 25,
+      "int": 5,
+      "dex": 26,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 16.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/511.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 1.55,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 30.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/911.gif"
+    },
+    {
+      "item_id": 1025,
+      "name": "蜘蛛絲",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1025.gif"
+    },
+    {
+      "item_id": 1042,
+      "name": "昆蟲後腳",
+      "rate": 12.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1042.gif"
+    },
+    {
+      "item_id": 4075,
+      "name": "艾斯蜘蛛卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 10017,
+      "name": "樹皮褲",
+      "rate": 0.4,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/10017.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1033,
+  "name": {
+    "zh_tw": "長老樹精",
+    "en": "ELDER_WILOW"
+  },
+  "image_url": "/images/monsters/1033.gif",
+  "basic_info": {
+    "level": 34,
+    "race": "植物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 599,
+    "attack": {
+      "min": 108,
+      "max": 140
+    },
+    "magic_attack": {
+      "min": 44,
+      "max": 54
+    },
+    "defense": 45,
+    "magic_defense": 0,
+    "hit_100_percent": 248,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 14,
+      "vit": 25,
+      "int": 1,
+      "dex": 29,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 0.5,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 690,
+      "name": "火箭術卷軸Lv3",
+      "rate": 0.5,
+      "icon_url": "/images/items/690.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.2,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 907,
+      "name": "枯木汁",
+      "rate": 45.0,
+      "icon_url": "/images/items/907.gif"
+    },
+    {
+      "item_id": 990,
+      "name": "火靈礦石",
+      "rate": 0.25,
+      "icon_url": "/images/items/990.gif"
+    },
+    {
+      "item_id": 4052,
+      "name": "長老樹精卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 0.01,
+      "icon_url": "/images/items/7939.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2187,
+  "name": {
+    "zh_tw": "黑暗腔棘魚",
+    "en": "COELACANTH_N_A"
+  },
+  "image_url": "/images/monsters/2187.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2200000,
+    "attack": {
+      "min": 1772,
+      "max": 2528
+    },
+    "magic_attack": {
+      "min": 1583,
+      "max": 2717
+    },
+    "defense": 280,
+    "magic_defense": 280,
+    "hit_100_percent": 492,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 160,
+      "agi": 160,
+      "vit": 160,
+      "int": 160,
+      "dex": 160,
+      "luk": 160
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4526,
+      "name": "古怪腔棘魚卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12614,
+      "name": "中級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12614.gif"
+    },
+    {
+      "item_id": 12614,
+      "name": "中級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12614.gif"
+    },
+    {
+      "item_id": 12615,
+      "name": "下級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12615.gif"
+    },
+    {
+      "item_id": 12615,
+      "name": "下級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12615.gif"
+    },
+    {
+      "item_id": 12615,
+      "name": "下級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12615.gif"
+    },
+    {
+      "item_id": 12617,
+      "name": "A級錢袋",
+      "rate": 50.0,
+      "icon_url": "/images/items/12617.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 7.5,
+      "icon_url": "/images/items/12623.gif"
+    }
+  ]
+}

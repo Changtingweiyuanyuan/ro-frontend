@@ -1,0 +1,90 @@
+{
+  "id": 1299,
+  "name": {
+    "zh_tw": "哥布靈首領",
+    "en": "GOBLIN_LEADER"
+  },
+  "image_url": "/images/monsters/1299.gif",
+  "basic_info": {
+    "level": 55,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21692,
+    "attack": {
+      "min": 253,
+      "max": 323
+    },
+    "magic_attack": {
+      "min": 107,
+      "max": 137
+    },
+    "defense": 72,
+    "magic_defense": 30,
+    "hit_100_percent": 326,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 67,
+      "vit": 45,
+      "int": 18,
+      "dex": 73,
+      "luk": 23
+    }
+  },
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 3.25,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.6,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 4.0,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 2106,
+      "name": "鋼盾[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2106.gif"
+    },
+    {
+      "item_id": 4155,
+      "name": "哥布靈首領卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5090,
+      "name": "哥布靈首領假面",
+      "rate": 0.25,
+      "icon_url": "/images/items/5090.gif"
+    },
+    {
+      "item_id": 5113,
+      "name": "憤怒的嘴",
+      "rate": 0.05,
+      "icon_url": "/images/items/5113.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 7.5,
+      "icon_url": "/images/items/7054.gif"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 3442,
+  "name": {
+    "zh_tw": "極凍戰狼 / 冰狼",
+    "en": "FROZENWOLF"
+  },
+  "image_url": "/images/monsters/3442.gif",
+  "basic_info": {
+    "level": 140,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 80000,
+    "attack": {
+      "min": 1040,
+      "max": 1440
+    },
+    "magic_attack": {
+      "min": 940,
+      "max": 1540
+    },
+    "defense": 50,
+    "magic_defense": 50,
+    "hit_100_percent": 430,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 80,
+      "vit": 100,
+      "int": 100,
+      "dex": 100,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 749,
+      "name": "冰雕玫瑰",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/749.gif"
+    },
+    {
+      "item_id": 4640,
+      "name": "極凍戰狼卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6256,
+      "name": "冰碎片",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6256.gif"
+    },
+    {
+      "item_id": 6921,
+      "name": "除溼盒",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6921.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7053.gif"
+    },
+    {
+      "item_id": 7066,
+      "name": "冰塊一角",
+      "rate": 21.83,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7066.gif"
+    }
+  ]
+}

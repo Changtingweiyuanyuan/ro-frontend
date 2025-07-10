@@ -1,0 +1,90 @@
+{
+  "id": 2543,
+  "name": {
+    "zh_tw": "斐揚警衛兵",
+    "en": "PAYONSOLDIER"
+  },
+  "image_url": "/images/monsters/2543.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20099,
+    "attack": {
+      "min": 557,
+      "max": 775
+    },
+    "magic_attack": {
+      "min": 171,
+      "max": 203
+    },
+    "defense": 66,
+    "magic_defense": 36,
+    "hit_100_percent": 353,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 46,
+      "vit": 25,
+      "int": 35,
+      "dex": 64,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7479,
+      "name": "8級烹飪書",
+      "rate": 0.01,
+      "icon_url": "/images/items/7479.gif"
+    },
+    {
+      "item_id": 12044,
+      "name": "藥草醃排骨",
+      "rate": 5.33,
+      "icon_url": "/images/items/12044.gif"
+    },
+    {
+      "item_id": 12049,
+      "name": "咪羅克果汁酒",
+      "rate": 5.33,
+      "icon_url": "/images/items/12049.gif"
+    },
+    {
+      "item_id": 12054,
+      "name": "涼拌海蜇",
+      "rate": 5.33,
+      "icon_url": "/images/items/12054.gif"
+    },
+    {
+      "item_id": 12059,
+      "name": "姜餅城辣醬面",
+      "rate": 5.33,
+      "icon_url": "/images/items/12059.gif"
+    },
+    {
+      "item_id": 12064,
+      "name": "奶油三明治",
+      "rate": 5.33,
+      "icon_url": "/images/items/12064.gif"
+    },
+    {
+      "item_id": 12069,
+      "name": "人魚料理",
+      "rate": 5.33,
+      "icon_url": "/images/items/12069.gif"
+    },
+    {
+      "item_id": 27169,
+      "name": "斐揚士兵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27169.gif"
+    }
+  ]
+}

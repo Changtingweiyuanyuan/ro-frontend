@@ -1,0 +1,90 @@
+{
+  "id": 1147,
+  "name": {
+    "zh_tw": "蟻後",
+    "en": "MAYA"
+  },
+  "image_url": "/images/monsters/1147.gif",
+  "basic_info": {
+    "level": 55,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 380000,
+    "attack": {
+      "min": 587,
+      "max": 809
+    },
+    "magic_attack": {
+      "min": 342,
+      "max": 502
+    },
+    "defense": 183,
+    "magic_defense": 50,
+    "hit_100_percent": 342,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 72,
+      "vit": 76,
+      "int": 102,
+      "dex": 92,
+      "luk": 76
+    }
+  },
+  "drops": [
+    {
+      "item_id": 639,
+      "name": "馴服手鐲",
+      "rate": 2.5,
+      "icon_url": "/images/items/639.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 17.5,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 2005,
+      "name": "黛雅之杖[1]",
+      "rate": 0.5,
+      "icon_url": "/images/items/2005.gif"
+    },
+    {
+      "item_id": 2234,
+      "name": "后冠",
+      "rate": 1.0,
+      "icon_url": "/images/items/2234.gif"
+    },
+    {
+      "item_id": 2615,
+      "name": "防禦戒指",
+      "rate": 1.0,
+      "icon_url": "/images/items/2615.gif"
+    },
+    {
+      "item_id": 4146,
+      "name": "蟻後卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7020,
+      "name": "惡咪之石",
+      "rate": 0.05,
+      "icon_url": "/images/items/7020.gif"
+    },
+    {
+      "item_id": 10006,
+      "name": "蛇飾發箍",
+      "rate": 2.5,
+      "icon_url": "/images/items/10006.gif"
+    }
+  ]
+}

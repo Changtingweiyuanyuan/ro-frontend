@@ -1,0 +1,90 @@
+{
+  "id": 2224,
+  "name": {
+    "zh_tw": "暗●武術宗師",
+    "en": "CHEN"
+  },
+  "image_url": "/images/monsters/2224.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 279562,
+    "attack": {
+      "min": 2263,
+      "max": 3265
+    },
+    "magic_attack": {
+      "min": 1144,
+      "max": 1894
+    },
+    "defense": 125,
+    "magic_defense": 56,
+    "hit_100_percent": 434,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 81,
+      "vit": 83,
+      "int": 130,
+      "dex": 201,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 1.0,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1814,
+      "name": "祕拳套 閃光",
+      "rate": 0.05,
+      "icon_url": "/images/items/1814.gif"
+    },
+    {
+      "item_id": 1830,
+      "name": "霸王亂舞[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/1830.gif"
+    },
+    {
+      "item_id": 4569,
+      "name": "暗●武術宗師卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6470,
+      "name": "血的飢渴",
+      "rate": 1.5,
+      "icon_url": "/images/items/6470.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.01,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 20.0,
+      "icon_url": "/images/items/7347.gif"
+    },
+    {
+      "item_id": 25130,
+      "name": "不祥的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25130.gif"
+    }
+  ]
+}

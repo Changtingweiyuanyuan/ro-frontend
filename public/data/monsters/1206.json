@@ -1,0 +1,90 @@
+{
+  "id": 1206,
+  "name": {
+    "zh_tw": "虎蜥人",
+    "en": "ANOLIAN"
+  },
+  "image_url": "/images/monsters/1206.gif",
+  "basic_info": {
+    "level": 109,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 15547,
+    "attack": {
+      "min": 759,
+      "max": 1019
+    },
+    "magic_attack": {
+      "min": 252,
+      "max": 318
+    },
+    "defense": 61,
+    "magic_defense": 11,
+    "hit_100_percent": 381,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 63,
+      "vit": 55,
+      "int": 66,
+      "dex": 70,
+      "luk": 48
+    }
+  },
+  "drops": [
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 0.03,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.67,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1754,
+      "name": "水靈箭矢",
+      "rate": 10.0,
+      "icon_url": "/images/items/1754.gif"
+    },
+    {
+      "item_id": 2625,
+      "name": "敏捷別針[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2625.gif"
+    },
+    {
+      "item_id": 4234,
+      "name": "虎蜥人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7003,
+      "name": "虎蜥皮",
+      "rate": 24.25,
+      "icon_url": "/images/items/7003.gif"
+    },
+    {
+      "item_id": 10019,
+      "name": "紅色領巾",
+      "rate": 0.05,
+      "icon_url": "/images/items/10019.gif"
+    },
+    {
+      "item_id": 16003,
+      "name": "卡爾加權杖[2]",
+      "rate": 0.01,
+      "icon_url": "/images/items/16003.gif"
+    }
+  ]
+}

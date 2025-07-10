@@ -1,0 +1,90 @@
+{
+  "id": 2865,
+  "name": {
+    "zh_tw": "精英甜餅人 / 菁英甜餅人",
+    "en": "C3_COOKIE"
+  },
+  "image_url": "/images/monsters/2865.gif",
+  "basic_info": {
+    "level": 35,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 3330,
+    "attack": {
+      "min": 106,
+      "max": 134
+    },
+    "magic_attack": {
+      "min": 64,
+      "max": 80
+    },
+    "defense": 56,
+    "magic_defense": 28,
+    "hit_100_percent": 261,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 15,
+      "agi": 23,
+      "vit": 35,
+      "int": 12,
+      "dex": 31,
+      "luk": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 529,
+      "name": "糖果",
+      "rate": 8.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/529.gif"
+    },
+    {
+      "item_id": 530,
+      "name": "拐杖糖",
+      "rate": 3.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/530.gif"
+    },
+    {
+      "item_id": 538,
+      "name": "姜餅",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/538.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+    },
+    {
+      "item_id": 2402,
+      "name": "輕便鞋[1]",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2402.gif"
+    },
+    {
+      "item_id": 4293,
+      "name": "甜餅人卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 11002,
+      "name": "料理王奧爾里昂 第1本",
+      "rate": 1.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/11002.gif"
+    },
+    {
+      "item_id": 12001,
+      "name": "治愈術 等級3",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12001.gif"
+    }
+  ]
+}

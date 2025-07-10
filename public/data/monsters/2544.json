@@ -1,0 +1,90 @@
+{
+  "id": 2544,
+  "name": {
+    "zh_tw": "斐揚衛士",
+    "en": "PAYONSOLDIER2"
+  },
+  "image_url": "/images/monsters/2544.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21099,
+    "attack": {
+      "min": 678,
+      "max": 958
+    },
+    "magic_attack": {
+      "min": 171,
+      "max": 203
+    },
+    "defense": 66,
+    "magic_defense": 36,
+    "hit_100_percent": 353,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 46,
+      "vit": 25,
+      "int": 35,
+      "dex": 64,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 7480,
+      "name": "9級烹飪書",
+      "rate": 0.01,
+      "icon_url": "/images/items/7480.gif"
+    },
+    {
+      "item_id": 12071,
+      "name": "鱗片燴肉",
+      "rate": 4.0,
+      "icon_url": "/images/items/12071.gif"
+    },
+    {
+      "item_id": 12076,
+      "name": "紅蘑菇葡萄酒",
+      "rate": 4.0,
+      "icon_url": "/images/items/12076.gif"
+    },
+    {
+      "item_id": 12081,
+      "name": "非常苦的補藥",
+      "rate": 4.0,
+      "icon_url": "/images/items/12081.gif"
+    },
+    {
+      "item_id": 12086,
+      "name": "紅辣椒蝦肉羹",
+      "rate": 4.0,
+      "icon_url": "/images/items/12086.gif"
+    },
+    {
+      "item_id": 12091,
+      "name": "蜜桃蛋糕",
+      "rate": 4.0,
+      "icon_url": "/images/items/12091.gif"
+    },
+    {
+      "item_id": 12096,
+      "name": "舌頭湯",
+      "rate": 4.0,
+      "icon_url": "/images/items/12096.gif"
+    },
+    {
+      "item_id": 27169,
+      "name": "斐揚士兵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27169.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3403,
+  "name": {
+    "zh_tw": "工蟻",
+    "en": "MIN_PIERE"
+  },
+  "image_url": "/images/monsters/3403.gif",
+  "basic_info": {
+    "level": 104,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 85000,
+    "attack": {
+      "min": 743,
+      "max": 999
+    },
+    "magic_attack": {
+      "min": 171,
+      "max": 183
+    },
+    "defense": 165,
+    "magic_defense": 16,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 127,
+      "agi": 68,
+      "vit": 87,
+      "int": 53,
+      "dex": 138,
+      "luk": 43
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.16,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+    },
+    {
+      "item_id": 910,
+      "name": "加勒結晶",
+      "rate": 5.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/910.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 3.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+    },
+    {
+      "item_id": 955,
+      "name": "昆蟲外殼",
+      "rate": 45.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/955.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 0.15,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/992.gif"
+    },
+    {
+      "item_id": 1002,
+      "name": "鐵礦石",
+      "rate": 2.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1002.gif"
+    },
+    {
+      "item_id": 4043,
+      "name": "白蟻卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    }
+  ]
+}

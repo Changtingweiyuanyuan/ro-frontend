@@ -1,0 +1,90 @@
+{
+  "id": 1507,
+  "name": {
+    "zh_tw": "嗜血怪人",
+    "en": "BLOODY_MURDERER"
+  },
+  "image_url": "/images/monsters/1507.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 14099,
+    "attack": {
+      "min": 1347,
+      "max": 1907
+    },
+    "magic_attack": {
+      "min": 359,
+      "max": 539
+    },
+    "defense": 84,
+    "magic_defense": 41,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 120,
+      "agi": 65,
+      "vit": 66,
+      "int": 41,
+      "dex": 107,
+      "luk": 26
+    }
+  },
+  "drops": [
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1229,
+      "name": "廚刀",
+      "rate": 0.02,
+      "icon_url": "/images/items/1229.gif"
+    },
+    {
+      "item_id": 2288,
+      "name": "整人面具",
+      "rate": 0.25,
+      "icon_url": "/images/items/2288.gif"
+    },
+    {
+      "item_id": 4214,
+      "name": "嗜血怪人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7207,
+      "name": "舊斗篷",
+      "rate": 20.86,
+      "icon_url": "/images/items/7207.gif"
+    },
+    {
+      "item_id": 7208,
+      "name": "生鏽廚刀",
+      "rate": 10.0,
+      "icon_url": "/images/items/7208.gif"
+    },
+    {
+      "item_id": 7223,
+      "name": "扭曲的自畫像",
+      "rate": 5.0,
+      "icon_url": "/images/items/7223.gif"
+    },
+    {
+      "item_id": 13002,
+      "name": "卡卡普劍",
+      "rate": 0.01,
+      "icon_url": "/images/items/13002.gif"
+    }
+  ]
+}

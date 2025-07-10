@@ -1,0 +1,84 @@
+{
+  "id": 1866,
+  "name": {
+    "zh_tw": "地獄犬 / 地獄貴賓狗",
+    "en": "HELL_POODLE"
+  },
+  "image_url": "/images/monsters/1866.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 17168,
+    "attack": {
+      "min": 948,
+      "max": 1308
+    },
+    "magic_attack": {
+      "min": 298,
+      "max": 386
+    },
+    "defense": 86,
+    "magic_defense": 20,
+    "hit_100_percent": 381,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 114,
+      "agi": 56,
+      "vit": 59,
+      "int": 82,
+      "dex": 108,
+      "luk": 54
+    }
+  },
+  "drops": [
+    {
+      "item_id": 528,
+      "name": "魔物飼料",
+      "rate": 25.0,
+      "icon_url": "/images/items/528.gif"
+    },
+    {
+      "item_id": 628,
+      "name": "營養大骨",
+      "rate": 0.1,
+      "icon_url": "/images/items/628.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 27.5,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 22.5,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 1268,
+      "name": "巨魔指甲[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1268.gif"
+    },
+    {
+      "item_id": 4437,
+      "name": "地獄犬卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 13028,
+      "name": "牙科手術刀[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/13028.gif"
+    }
+  ]
+}

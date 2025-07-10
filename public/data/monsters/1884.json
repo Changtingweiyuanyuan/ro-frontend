@@ -1,0 +1,90 @@
+{
+  "id": 1884,
+  "name": {
+    "zh_tw": "森林妖精",
+    "en": "MAVKA"
+  },
+  "image_url": "/images/monsters/1884.gif",
+  "basic_info": {
+    "level": 84,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5421,
+    "attack": {
+      "min": 380,
+      "max": 496
+    },
+    "magic_attack": {
+      "min": 161,
+      "max": 197
+    },
+    "defense": 98,
+    "magic_defense": 58,
+    "hit_100_percent": 321,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 65,
+      "agi": 31,
+      "vit": 50,
+      "int": 35,
+      "dex": 97,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 15.0,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 629,
+      "name": "呢喃花",
+      "rate": 1.5,
+      "icon_url": "/images/items/629.gif"
+    },
+    {
+      "item_id": 707,
+      "name": "哀唱草",
+      "rate": 1.5,
+      "icon_url": "/images/items/707.gif"
+    },
+    {
+      "item_id": 710,
+      "name": "幻想花",
+      "rate": 0.25,
+      "icon_url": "/images/items/710.gif"
+    },
+    {
+      "item_id": 747,
+      "name": "水晶鏡子",
+      "rate": 7.5,
+      "icon_url": "/images/items/747.gif"
+    },
+    {
+      "item_id": 748,
+      "name": "永恆玫瑰",
+      "rate": 1.5,
+      "icon_url": "/images/items/748.gif"
+    },
+    {
+      "item_id": 1572,
+      "name": "魔法策略[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/1572.gif"
+    },
+    {
+      "item_id": 27161,
+      "name": "森林妖精卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27161.gif"
+    }
+  ]
+}

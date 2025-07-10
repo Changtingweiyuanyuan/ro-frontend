@@ -1,0 +1,84 @@
+{
+  "id": 2783,
+  "name": {
+    "zh_tw": "精英暗●刺客 / 狡猾暗●刺客",
+    "en": "C5_L_EREMES"
+  },
+  "image_url": "/images/monsters/2783.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 45145,
+    "attack": {
+      "min": 936,
+      "max": 1292
+    },
+    "magic_attack": {
+      "min": 265,
+      "max": 357
+    },
+    "defense": 109,
+    "magic_defense": 10,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 78,
+      "vit": 53,
+      "int": 60,
+      "dex": 114,
+      "luk": 68
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.1,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 1261,
+      "name": "刺殺拳刃",
+      "rate": 5.0,
+      "icon_url": "/images/items/1261.gif"
+    },
+    {
+      "item_id": 1285,
+      "name": "脈輪之刃[2]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1285.gif"
+    },
+    {
+      "item_id": 2337,
+      "name": "忍服 血櫻",
+      "rate": 25.0,
+      "icon_url": "/images/items/2337.gif"
+    },
+    {
+      "item_id": 2359,
+      "name": "忍服血櫻[1]",
+      "rate": 0.25,
+      "icon_url": "/images/items/2359.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 100.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 7347,
+      "name": "研究員紀錄表",
+      "rate": 100.0,
+      "icon_url": "/images/items/7347.gif"
+    }
+  ]
+}

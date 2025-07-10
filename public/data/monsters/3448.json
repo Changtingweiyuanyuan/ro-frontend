@@ -1,0 +1,72 @@
+{
+  "id": 3448,
+  "name": {
+    "zh_tw": "強化?答萊屍 / 改造的暗答萊屍",
+    "en": "P_AMDARAIS"
+  },
+  "image_url": "/images/monsters/3448.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 10000000,
+    "attack": {
+      "min": 889,
+      "max": 1209
+    },
+    "magic_attack": {
+      "min": 709,
+      "max": 1189
+    },
+    "defense": 30,
+    "magic_defense": 30,
+    "hit_100_percent": 359,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 150,
+      "agi": 50,
+      "vit": 100,
+      "int": 50,
+      "dex": 70,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 983,
+      "name": "黑色染料",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/983.gif"
+    },
+    {
+      "item_id": 4635,
+      "name": "強化暗答萊屍卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6244,
+      "name": "火藥粉末",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6244.gif"
+    },
+    {
+      "item_id": 6245,
+      "name": "黑色粉末",
+      "rate": 10.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6245.gif"
+    },
+    {
+      "item_id": 6942,
+      "name": "主人的意志",
+      "rate": 50.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6942.gif"
+    }
+  ]
+}

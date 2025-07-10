@@ -1,0 +1,78 @@
+{
+  "id": 2481,
+  "name": {
+    "zh_tw": "守墓怨靈 / 被詛咒的守墓人",
+    "en": "NG_WRAITH_DEAD"
+  },
+  "image_url": "/images/monsters/2481.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 15579,
+    "attack": {
+      "min": 787,
+      "max": 1093
+    },
+    "magic_attack": {
+      "min": 250,
+      "max": 324
+    },
+    "defense": 93,
+    "magic_defense": 53,
+    "hit_100_percent": 367,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 52,
+      "vit": 47,
+      "int": 55,
+      "dex": 109,
+      "luk": 28
+    }
+  },
+  "drops": [
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 7.5,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 732,
+      "name": "3克拉鑽石",
+      "rate": 0.1,
+      "icon_url": "/images/items/732.gif"
+    },
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 44.0,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 2206,
+      "name": "婚禮頭紗",
+      "rate": 0.1,
+      "icon_url": "/images/items/2206.gif"
+    },
+    {
+      "item_id": 2505,
+      "name": "斗篷",
+      "rate": 0.1,
+      "icon_url": "/images/items/2505.gif"
+    },
+    {
+      "item_id": 2506,
+      "name": "斗篷[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2506.gif"
+    }
+  ]
+}

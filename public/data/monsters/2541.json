@@ -1,0 +1,72 @@
+{
+  "id": 2541,
+  "name": {
+    "zh_tw": "驚駭森靈幼蟲 / 人面蟲幼蟲",
+    "en": "FACEWORM_LARVA"
+  },
+  "image_url": "/images/monsters/2541.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 260380,
+    "attack": {
+      "min": 1286,
+      "max": 1852
+    },
+    "magic_attack": {
+      "min": 1043,
+      "max": 1771
+    },
+    "defense": 10,
+    "magic_defense": 10,
+    "hit_100_percent": 405,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 50,
+      "vit": 50,
+      "int": 50,
+      "dex": 180,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 2.25,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 15.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 4.0,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 1096,
+      "name": "圓形外皮",
+      "rate": 17.5,
+      "icon_url": "/images/items/1096.gif"
+    },
+    {
+      "item_id": 27167,
+      "name": "驚駭森靈幼蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27167.gif"
+    }
+  ]
+}

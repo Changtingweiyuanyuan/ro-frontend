@@ -1,0 +1,90 @@
+{
+  "id": 1370,
+  "name": {
+    "zh_tw": "惡魔女僕",
+    "en": "SUCCUBUS"
+  },
+  "image_url": "/images/monsters/1370.gif",
+  "basic_info": {
+    "level": 119,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 24960,
+    "attack": {
+      "min": 1129,
+      "max": 1585
+    },
+    "magic_attack": {
+      "min": 474,
+      "max": 712
+    },
+    "defense": 76,
+    "magic_defense": 48,
+    "hit_100_percent": 400,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 64,
+      "vit": 45,
+      "int": 80,
+      "dex": 115,
+      "luk": 85
+    }
+  },
+  "drops": [
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 7.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/522.gif"
+    },
+    {
+      "item_id": 1472,
+      "name": "靈魂之杖",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1472.gif"
+    },
+    {
+      "item_id": 2407,
+      "name": "玻璃鞋",
+      "rate": 0.02,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2407.gif"
+    },
+    {
+      "item_id": 2613,
+      "name": "鑽石戒指",
+      "rate": 1.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2613.gif"
+    },
+    {
+      "item_id": 4218,
+      "name": "惡魔女僕卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 5066,
+      "name": "惡魔女僕的角",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/5066.gif"
+    },
+    {
+      "item_id": 12373,
+      "name": "少年的純情",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12373.gif"
+    },
+    {
+      "item_id": 13313,
+      "name": "風魔手裡劍亂華[2]",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/13313.gif"
+    }
+  ]
+}

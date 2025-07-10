@@ -1,0 +1,90 @@
+{
+  "id": 20600,
+  "name": {
+    "zh_tw": "珠寶 / 珠寶大盜",
+    "en": "JEWEL"
+  },
+  "image_url": "/images/monsters/20600.gif",
+  "basic_info": {
+    "level": 192,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 100,
+    "attack": {
+      "min": 193,
+      "max": 195
+    },
+    "magic_attack": {
+      "min": 193,
+      "max": 195
+    },
+    "defense": 504,
+    "magic_defense": 71,
+    "hit_100_percent": 393,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 9517,
+      "name": "虛實原石",
+      "rate": 2.5,
+      "icon_url": "/images/items/9517.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25809,
+      "name": "紅色神力礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/25809.gif"
+    },
+    {
+      "item_id": 25810,
+      "name": "綠色神力礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/25810.gif"
+    },
+    {
+      "item_id": 25811,
+      "name": "橘色神力礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/25811.gif"
+    },
+    {
+      "item_id": 25812,
+      "name": "紫色神力礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/25812.gif"
+    },
+    {
+      "item_id": 25813,
+      "name": "白色神力礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/25813.gif"
+    },
+    {
+      "item_id": 25814,
+      "name": "超神力礦石",
+      "rate": 1.0,
+      "icon_url": "/images/items/25814.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2785,
+  "name": {
+    "zh_tw": "精英犬妖 / 雄壯犬妖",
+    "en": "C2_KOBOLD_1"
+  },
+  "image_url": "/images/monsters/2785.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 104830,
+    "attack": {
+      "min": 888,
+      "max": 1226
+    },
+    "magic_attack": {
+      "min": 220,
+      "max": 274
+    },
+    "defense": 103,
+    "magic_defense": 25,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 76,
+      "vit": 61,
+      "int": 53,
+      "dex": 98,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.65,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 17.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 2.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1034,
+      "name": "犬妖的毛",
+      "rate": 100.0,
+      "icon_url": "/images/items/1034.gif"
+    },
+    {
+      "item_id": 1220,
+      "name": "長柄短劍[3]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1220.gif"
+    },
+    {
+      "item_id": 2104,
+      "name": "圓盾[1]",
+      "rate": 0.15,
+      "icon_url": "/images/items/2104.gif"
+    },
+    {
+      "item_id": 2859,
+      "name": "鈦合金靈球",
+      "rate": 0.25,
+      "icon_url": "/images/items/2859.gif"
+    },
+    {
+      "item_id": 4091,
+      "name": "犬妖卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

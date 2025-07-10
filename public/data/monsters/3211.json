@@ -1,0 +1,90 @@
+{
+  "id": 3211,
+  "name": {
+    "zh_tw": "暗●遊俠",
+    "en": "V_SHECIL"
+  },
+  "image_url": "/images/monsters/3211.gif",
+  "basic_info": {
+    "level": 179,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2142000,
+    "attack": {
+      "min": 4042,
+      "max": 5910
+    },
+    "magic_attack": {
+      "min": 1192,
+      "max": 1992
+    },
+    "defense": 100,
+    "magic_defense": 100,
+    "hit_100_percent": 519,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 130,
+      "vit": 70,
+      "int": 80,
+      "dex": 300,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4687,
+      "name": "真●遊俠卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6818,
+      "name": "弓箭手之魂",
+      "rate": 5.0,
+      "icon_url": "/images/items/6818.gif"
+    },
+    {
+      "item_id": 19974,
+      "name": "(時裝)斑紋兔連帽披肩",
+      "rate": 0.5,
+      "icon_url": "/images/items/19974.gif"
+    },
+    {
+      "item_id": 20392,
+      "name": "(時裝)神射手風鏡",
+      "rate": 0.5,
+      "icon_url": "/images/items/20392.gif"
+    },
+    {
+      "item_id": 22687,
+      "name": "邪念碎片",
+      "rate": 6.0,
+      "icon_url": "/images/items/22687.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 4.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 23016,
+      "name": "怨念碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/23016.gif"
+    },
+    {
+      "item_id": 25131,
+      "name": "墮落的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25131.gif"
+    }
+  ]
+}

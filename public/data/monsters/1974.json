@@ -1,0 +1,90 @@
+{
+  "id": 1974,
+  "name": {
+    "zh_tw": "愛爾蘭女妖首領",
+    "en": "BANSHEE_MASTER"
+  },
+  "image_url": "/images/monsters/1974.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20320,
+    "attack": {
+      "min": 910,
+      "max": 1246
+    },
+    "magic_attack": {
+      "min": 448,
+      "max": 628
+    },
+    "defense": 87,
+    "magic_defense": 94,
+    "hit_100_percent": 384,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 58,
+      "vit": 48,
+      "int": 122,
+      "dex": 84,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 934,
+      "name": "亡者遺物",
+      "rate": 7.5,
+      "icon_url": "/images/items/934.gif"
+    },
+    {
+      "item_id": 2135,
+      "name": "陰影守護[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/2135.gif"
+    },
+    {
+      "item_id": 2365,
+      "name": "奧爾里昂的制服[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2365.gif"
+    },
+    {
+      "item_id": 2528,
+      "name": "羊毛圍巾[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2528.gif"
+    },
+    {
+      "item_id": 2748,
+      "name": "詛咒之星",
+      "rate": 0.01,
+      "icon_url": "/images/items/2748.gif"
+    },
+    {
+      "item_id": 4450,
+      "name": "女妖首領卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 26.68,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 7751,
+      "name": "破舊的白衣",
+      "rate": 15.0,
+      "icon_url": "/images/items/7751.gif"
+    }
+  ]
+}

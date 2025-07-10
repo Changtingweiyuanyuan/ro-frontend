@@ -1,0 +1,84 @@
+{
+  "id": 2181,
+  "name": {
+    "zh_tw": "遠古異變魚",
+    "en": "MD_SWORD_FISH"
+  },
+  "image_url": "/images/monsters/2181.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 400000,
+    "attack": {
+      "min": 1779,
+      "max": 2519
+    },
+    "magic_attack": {
+      "min": 394,
+      "max": 536
+    },
+    "defense": 255,
+    "magic_defense": 17,
+    "hit_100_percent": 514,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 155,
+      "agi": 156,
+      "vit": 115,
+      "int": 85,
+      "dex": 194,
+      "luk": 65
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.24,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.36,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 956,
+      "name": "鰓刺",
+      "rate": 4.5,
+      "icon_url": "/images/items/956.gif"
+    },
+    {
+      "item_id": 963,
+      "name": "銳利麟片",
+      "rate": 67.5,
+      "icon_url": "/images/items/963.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.06,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 2257,
+      "name": "獸角頭飾",
+      "rate": 0.01,
+      "icon_url": "/images/items/2257.gif"
+    },
+    {
+      "item_id": 12614,
+      "name": "中級錢袋",
+      "rate": 0.02,
+      "icon_url": "/images/items/12614.gif"
+    }
+  ]
+}

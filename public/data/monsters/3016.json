@@ -1,0 +1,84 @@
+{
+  "id": 3016,
+  "name": {
+    "zh_tw": "墮落的獸人腐屍",
+    "en": "EP14_3_DEATH_C_MOB1"
+  },
+  "image_url": "/images/monsters/3016.gif",
+  "basic_info": {
+    "level": 158,
+    "race": "人形",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 375000,
+    "attack": {
+      "min": 1096,
+      "max": 1476
+    },
+    "magic_attack": {
+      "min": 348,
+      "max": 478
+    },
+    "defense": 150,
+    "magic_defense": 150,
+    "hit_100_percent": 509,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 180,
+      "agi": 145,
+      "vit": 202,
+      "int": 40,
+      "dex": 88,
+      "luk": 30
+    }
+  },
+  "drops": [
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 0.2,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.2,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 0.2,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 0.1,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 715,
+      "name": "黃色魔力礦石",
+      "rate": 0.2,
+      "icon_url": "/images/items/715.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 0.2,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 717,
+      "name": "藍色魔力礦石",
+      "rate": 0.2,
+      "icon_url": "/images/items/717.gif"
+    }
+  ]
+}

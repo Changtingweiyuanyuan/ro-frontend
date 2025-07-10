@@ -1,0 +1,90 @@
+{
+  "id": 2727,
+  "name": {
+    "zh_tw": "精英廢氣魔 / 憤怒廢氣魔",
+    "en": "C4_NOXIOUS"
+  },
+  "image_url": "/images/monsters/2727.gif",
+  "basic_info": {
+    "level": 87,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 27150,
+    "attack": {
+      "min": 413,
+      "max": 549
+    },
+    "magic_attack": {
+      "min": 191,
+      "max": 235
+    },
+    "defense": 117,
+    "magic_defense": 66,
+    "hit_100_percent": 355,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 58,
+      "vit": 60,
+      "int": 55,
+      "dex": 68,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.05,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 1.25,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 4334,
+      "name": "廢氣魔卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6213,
+      "name": "炸彈粉末",
+      "rate": 15.0,
+      "icon_url": "/images/items/6213.gif"
+    },
+    {
+      "item_id": 6215,
+      "name": "催淚瓦斯",
+      "rate": 7.5,
+      "icon_url": "/images/items/6215.gif"
+    },
+    {
+      "item_id": 7001,
+      "name": "黴菌粉末",
+      "rate": 75.0,
+      "icon_url": "/images/items/7001.gif"
+    },
+    {
+      "item_id": 7320,
+      "name": "粉塵",
+      "rate": 75.0,
+      "icon_url": "/images/items/7320.gif"
+    },
+    {
+      "item_id": 7322,
+      "name": "有毒瓦斯",
+      "rate": 25.0,
+      "icon_url": "/images/items/7322.gif"
+    }
+  ]
+}

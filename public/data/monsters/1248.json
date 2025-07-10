@@ -1,0 +1,90 @@
+{
+  "id": 1248,
+  "name": {
+    "zh_tw": "玩具士兵",
+    "en": "CRUISER"
+  },
+  "image_url": "/images/monsters/1248.gif",
+  "basic_info": {
+    "level": 41,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 919,
+    "attack": {
+      "min": 102,
+      "max": 124
+    },
+    "magic_attack": {
+      "min": 70,
+      "max": 82
+    },
+    "defense": 20,
+    "magic_defense": 18,
+    "hit_100_percent": 253,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 17,
+      "agi": 10,
+      "vit": 23,
+      "int": 15,
+      "dex": 34,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.44,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 17.5,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 996,
+      "name": "風靈原石",
+      "rate": 0.03,
+      "icon_url": "/images/items/996.gif"
+    },
+    {
+      "item_id": 1098,
+      "name": "手銬",
+      "rate": 4.5,
+      "icon_url": "/images/items/1098.gif"
+    },
+    {
+      "item_id": 2251,
+      "name": "神聖之帽",
+      "rate": 0.01,
+      "icon_url": "/images/items/2251.gif"
+    },
+    {
+      "item_id": 4297,
+      "name": "玩具士兵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 13150,
+      "name": "布爾其來復槍[3]",
+      "rate": 0.03,
+      "icon_url": "/images/items/13150.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 3747,
+  "name": {
+    "zh_tw": "精英 / 菁英草寇",
+    "en": "散弹枪"
+  },
+  "image_url": "/images/monsters/3747.gif",
+  "basic_info": {
+    "level": 148,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 135292,
+    "attack": {
+      "min": 1566,
+      "max": 2226
+    },
+    "magic_attack": {
+      "min": 338,
+      "max": 484
+    },
+    "defense": 99,
+    "magic_defense": 36,
+    "hit_100_percent": 403,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 98,
+      "agi": 55,
+      "vit": 61,
+      "int": 22,
+      "dex": 168,
+      "luk": 2
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1944,
+      "name": "嬉皮摩登吉他[2]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1944.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 20.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 13196,
+      "name": "破壞者散彈槍[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/13196.gif"
+    },
+    {
+      "item_id": 18145,
+      "name": "巡衛隊天弓[2]",
+      "rate": 1.0,
+      "icon_url": "/images/items/18145.gif"
+    },
+    {
+      "item_id": 25280,
+      "name": "故障霰彈槍",
+      "rate": 25.0,
+      "icon_url": "/images/items/25280.gif"
+    },
+    {
+      "item_id": 26200,
+      "name": "嬉皮七彩皮鞭[2]",
+      "rate": 1.0,
+      "icon_url": "/images/items/26200.gif"
+    },
+    {
+      "item_id": 27173,
+      "name": "精英霰彈槍草寇卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27173.gif"
+    }
+  ]
+}

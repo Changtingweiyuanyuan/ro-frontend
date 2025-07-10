@@ -1,0 +1,90 @@
+{
+  "id": 3645,
+  "name": {
+    "zh_tw": "吸血蝙蝠",
+    "en": "MD_FARMILIAR_100"
+  },
+  "image_url": "/images/monsters/3645.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 15830,
+    "attack": {
+      "min": 532,
+      "max": 728
+    },
+    "magic_attack": {
+      "min": 471,
+      "max": 765
+    },
+    "defense": 34,
+    "magic_defense": 30,
+    "hit_100_percent": 338,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 40,
+      "agi": 37,
+      "vit": 38,
+      "int": 28,
+      "dex": 65,
+      "luk": 6
+    }
+  },
+  "drops": [
+    {
+      "item_id": 514,
+      "name": "葡萄",
+      "rate": 1.5,
+      "icon_url": "/images/items/514.gif"
+    },
+    {
+      "item_id": 545,
+      "name": "紅色纖細藥水",
+      "rate": 3.5,
+      "icon_url": "/images/items/545.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 645,
+      "name": "集中藥水",
+      "rate": 0.25,
+      "icon_url": "/images/items/645.gif"
+    },
+    {
+      "item_id": 913,
+      "name": "蝙蝠牙",
+      "rate": 27.5,
+      "icon_url": "/images/items/913.gif"
+    },
+    {
+      "item_id": 1127,
+      "name": "騎兵之劍[3]",
+      "rate": 0.8,
+      "icon_url": "/images/items/1127.gif"
+    },
+    {
+      "item_id": 2245,
+      "name": "紳士帽",
+      "rate": 0.08,
+      "icon_url": "/images/items/2245.gif"
+    },
+    {
+      "item_id": 4020,
+      "name": "吸血蝙蝠卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

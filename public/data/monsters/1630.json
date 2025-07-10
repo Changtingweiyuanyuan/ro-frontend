@@ -1,0 +1,90 @@
+{
+  "id": 1630,
+  "name": {
+    "zh_tw": "白素貞",
+    "en": "BACSOJIN_"
+  },
+  "image_url": "/images/monsters/1630.gif",
+  "basic_info": {
+    "level": 97,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 720500,
+    "attack": {
+      "min": 1346,
+      "max": 1912
+    },
+    "magic_attack": {
+      "min": 1648,
+      "max": 2870
+    },
+    "defense": 210,
+    "magic_defense": 178,
+    "hit_100_percent": 561,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 244,
+      "vit": 98,
+      "int": 126,
+      "dex": 246,
+      "luk": 102
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 25.0,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 15.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 1020,
+      "name": "長發",
+      "rate": 27.5,
+      "icon_url": "/images/items/1020.gif"
+    },
+    {
+      "item_id": 2234,
+      "name": "后冠",
+      "rate": 0.05,
+      "icon_url": "/images/items/2234.gif"
+    },
+    {
+      "item_id": 2700,
+      "name": "封印的紅色綢緞",
+      "rate": 0.5,
+      "icon_url": "/images/items/2700.gif"
+    },
+    {
+      "item_id": 4372,
+      "name": "白素貞卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7165,
+      "name": "害羞之服",
+      "rate": 15.0,
+      "icon_url": "/images/items/7165.gif"
+    },
+    {
+      "item_id": 12395,
+      "name": "擔擔麵",
+      "rate": 0.25,
+      "icon_url": "/images/items/12395.gif"
+    }
+  ]
+}

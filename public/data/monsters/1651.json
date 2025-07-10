@@ -1,0 +1,90 @@
+{
+  "id": 1651,
+  "name": {
+    "zh_tw": "暗●超魔導師 凱特莉娜",
+    "en": "B_KATRINN"
+  },
+  "image_url": "/images/monsters/1651.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4500000,
+    "attack": {
+      "min": 2002,
+      "max": 2842
+    },
+    "magic_attack": {
+      "min": 3373,
+      "max": 5927
+    },
+    "defense": 215,
+    "magic_defense": 555,
+    "hit_100_percent": 568,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 190,
+      "vit": 142,
+      "int": 236,
+      "dex": 299,
+      "luk": 93
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1241,
+      "name": "詛咒的短劍",
+      "rate": 17.5,
+      "icon_url": "/images/items/1241.gif"
+    },
+    {
+      "item_id": 2319,
+      "name": "祕衣 惡德[1]",
+      "rate": 17.5,
+      "icon_url": "/images/items/2319.gif"
+    },
+    {
+      "item_id": 2343,
+      "name": "創作者外袍",
+      "rate": 12.5,
+      "icon_url": "/images/items/2343.gif"
+    },
+    {
+      "item_id": 2616,
+      "name": "潛能戒指",
+      "rate": 45.0,
+      "icon_url": "/images/items/2616.gif"
+    },
+    {
+      "item_id": 4365,
+      "name": "暗●超魔導師 凱特莉娜卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 50.0,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 10.0,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 12623,
+      "name": "高級武器箱子",
+      "rate": 50.0,
+      "icon_url": "/images/items/12623.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1412,
+  "name": {
+    "zh_tw": "惡雲仙人",
+    "en": "EVIL_CLOUD_HERMIT"
+  },
+  "image_url": "/images/monsters/1412.gif",
+  "basic_info": {
+    "level": 96,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 8266,
+    "attack": {
+      "min": 647,
+      "max": 893
+    },
+    "magic_attack": {
+      "min": 177,
+      "max": 195
+    },
+    "defense": 66,
+    "magic_defense": 46,
+    "hit_100_percent": 362,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 63,
+      "agi": 57,
+      "vit": 45,
+      "int": 60,
+      "dex": 119,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 548,
+      "name": "吉士",
+      "rate": 28.0,
+      "icon_url": "/images/items/548.gif"
+    },
+    {
+      "item_id": 550,
+      "name": "仙貝",
+      "rate": 22.5,
+      "icon_url": "/images/items/550.gif"
+    },
+    {
+      "item_id": 553,
+      "name": "包子",
+      "rate": 34.0,
+      "icon_url": "/images/items/553.gif"
+    },
+    {
+      "item_id": 693,
+      "name": "雷擊術 等級5",
+      "rate": 0.5,
+      "icon_url": "/images/items/693.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.75,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 1908,
+      "name": "吉他[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/1908.gif"
+    },
+    {
+      "item_id": 4262,
+      "name": "惡雲仙人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7162,
+      "name": "片雲",
+      "rate": 23.28,
+      "icon_url": "/images/items/7162.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3664,
+  "name": {
+    "zh_tw": "綠腐屍",
+    "en": "MD_GHOUL_100"
+  },
+  "image_url": "/images/monsters/3664.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 24471,
+    "attack": {
+      "min": 670,
+      "max": 922
+    },
+    "magic_attack": {
+      "min": 489,
+      "max": 807
+    },
+    "defense": 78,
+    "magic_defense": 5,
+    "hit_100_percent": 336,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 32,
+      "vit": 39,
+      "int": 21,
+      "dex": 60,
+      "luk": 20
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 3.5,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 934,
+      "name": "亡者遺物",
+      "rate": 7.5,
+      "icon_url": "/images/items/934.gif"
+    },
+    {
+      "item_id": 958,
+      "name": "亡者牙齒",
+      "rate": 30.0,
+      "icon_url": "/images/items/958.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 2609,
+      "name": "骷髏戒指",
+      "rate": 0.03,
+      "icon_url": "/images/items/2609.gif"
+    },
+    {
+      "item_id": 4110,
+      "name": "綠腐屍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7932,
+      "name": "毒草夾竹桃",
+      "rate": 0.1,
+      "icon_url": "/images/items/7932.gif"
+    },
+    {
+      "item_id": 25235,
+      "name": "附魔原石",
+      "rate": 0.1,
+      "icon_url": "/images/items/25235.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3421,
+  "name": {
+    "zh_tw": "蛙王",
+    "en": "MIN_TOAD"
+  },
+  "image_url": "/images/monsters/3421.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 900000,
+    "attack": {
+      "min": 1337,
+      "max": 1937
+    },
+    "magic_attack": {
+      "min": 128,
+      "max": 140
+    },
+    "defense": 24,
+    "magic_defense": 6,
+    "hit_100_percent": 325,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 32,
+      "agi": 19,
+      "vit": 27,
+      "int": 10,
+      "dex": 24,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 729,
+      "name": "青綠寶石",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/729.gif"
+    },
+    {
+      "item_id": 970,
+      "name": "酒精",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/970.gif"
+    },
+    {
+      "item_id": 971,
+      "name": "帝特立米藥水",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/971.gif"
+    },
+    {
+      "item_id": 2244,
+      "name": "紅蝶發帶",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2244.gif"
+    },
+    {
+      "item_id": 4642,
+      "name": "無限蛙王卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 5125,
+      "name": "天使之吻[1]",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/5125.gif"
+    },
+    {
+      "item_id": 6905,
+      "name": "破碎的魔法石",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6905.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7938.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1307,
+  "name": {
+    "zh_tw": "狂暴月夜貓",
+    "en": "CAT_O_NINE_TAIL"
+  },
+  "image_url": "/images/monsters/1307.gif",
+  "basic_info": {
+    "level": 79,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23600,
+    "attack": {
+      "min": 524,
+      "max": 712
+    },
+    "magic_attack": {
+      "min": 185,
+      "max": 233
+    },
+    "defense": 100,
+    "magic_defense": 50,
+    "hit_100_percent": 363,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 75,
+      "vit": 40,
+      "int": 50,
+      "dex": 79,
+      "luk": 48
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.01,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 638,
+      "name": "純潔銀刃",
+      "rate": 0.75,
+      "icon_url": "/images/items/638.gif"
+    },
+    {
+      "item_id": 969,
+      "name": "黃金",
+      "rate": 0.01,
+      "icon_url": "/images/items/969.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 4.0,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 3.0,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 4290,
+      "name": "狂暴月夜貓卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5008,
+      "name": "花冠",
+      "rate": 0.01,
+      "icon_url": "/images/items/5008.gif"
+    },
+    {
+      "item_id": 10008,
+      "name": "體罰棒",
+      "rate": 0.03,
+      "icon_url": "/images/items/10008.gif"
+    }
+  ]
+}

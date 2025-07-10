@@ -1,0 +1,54 @@
+{
+  "id": 3196,
+  "name": {
+    "zh_tw": "大型基勘特斯 / 古代的基勘特斯",
+    "en": "MM_L_GIGAN3"
+  },
+  "image_url": "/images/monsters/3196.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 12063464,
+    "attack": {
+      "min": 7528,
+      "max": 11112
+    },
+    "magic_attack": {
+      "min": 268,
+      "max": 306
+    },
+    "defense": 48,
+    "magic_defense": 190,
+    "hit_100_percent": 521,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 203,
+      "agi": 141,
+      "vit": 1,
+      "int": 66,
+      "dex": 355,
+      "luk": 103
+    }
+  },
+  "drops": [
+    {
+      "item_id": 6803,
+      "name": "基勘特斯的碎片",
+      "rate": 100.0,
+      "icon_url": "/images/items/6803.gif"
+    },
+    {
+      "item_id": 27183,
+      "name": "基勘特斯卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27183.gif"
+    }
+  ]
+}

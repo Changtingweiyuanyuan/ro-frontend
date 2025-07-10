@@ -1,0 +1,54 @@
+{
+  "id": 3020,
+  "name": {
+    "zh_tw": "火焰禿鷹",
+    "en": "FIRE_CONDOR"
+  },
+  "image_url": "/images/monsters/3020.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 125114,
+    "attack": {
+      "min": 1336,
+      "max": 1882
+    },
+    "magic_attack": {
+      "min": 991,
+      "max": 1713
+    },
+    "defense": 71,
+    "magic_defense": 45,
+    "hit_100_percent": 423,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 104,
+      "agi": 72,
+      "vit": 66,
+      "int": 10,
+      "dex": 113,
+      "luk": 52
+    }
+  },
+  "drops": [
+    {
+      "item_id": 6691,
+      "name": "火焰羽毛",
+      "rate": 20.0,
+      "icon_url": "/images/items/6691.gif"
+    },
+    {
+      "item_id": 27026,
+      "name": "Fire Condor Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/27026.gif"
+    }
+  ]
+}

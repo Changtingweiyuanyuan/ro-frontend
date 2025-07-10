@@ -1,0 +1,84 @@
+{
+  "id": 2994,
+  "name": {
+    "zh_tw": "扭動的傀儡 / 尚未包裝的玩偶",
+    "en": "XM_MARIONETTE"
+  },
+  "image_url": "/images/monsters/2994.gif",
+  "basic_info": {
+    "level": 148,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 280000,
+    "attack": {
+      "min": 547,
+      "max": 725
+    },
+    "magic_attack": {
+      "min": 1302,
+      "max": 2170
+    },
+    "defense": 35,
+    "magic_defense": 44,
+    "hit_100_percent": 400,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 44,
+      "agi": 44,
+      "vit": 44,
+      "int": 144,
+      "dex": 88,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 625,
+      "name": "鏽鐵",
+      "rate": 1.0,
+      "icon_url": "/images/items/625.gif"
+    },
+    {
+      "item_id": 699,
+      "name": "火焰之壁5級卷軸",
+      "rate": 0.5,
+      "icon_url": "/images/items/699.gif"
+    },
+    {
+      "item_id": 2486,
+      "name": "陰暗步行長靴[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2486.gif"
+    },
+    {
+      "item_id": 2625,
+      "name": "敏捷別針[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2625.gif"
+    },
+    {
+      "item_id": 6100,
+      "name": "陰森之黑暗",
+      "rate": 1.0,
+      "icon_url": "/images/items/6100.gif"
+    },
+    {
+      "item_id": 22516,
+      "name": "染血石頭",
+      "rate": 10.0,
+      "icon_url": "/images/items/22516.gif"
+    },
+    {
+      "item_id": 31021,
+      "name": "舞動傀儡卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/31021.gif"
+    }
+  ]
+}

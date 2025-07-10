@@ -1,0 +1,84 @@
+{
+  "id": 1384,
+  "name": {
+    "zh_tw": "七彩飛龍",
+    "en": "DELETER"
+  },
+  "image_url": "/images/monsters/1384.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "龍",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 732,
+      "max": 994
+    },
+    "magic_attack": {
+      "min": 298,
+      "max": 406
+    },
+    "defense": 111,
+    "magic_defense": 53,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 105,
+      "agi": 55,
+      "vit": 53,
+      "int": 68,
+      "dex": 80,
+      "luk": 73
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1035,
+      "name": "龍牙",
+      "rate": 13.0,
+      "icon_url": "/images/items/1035.gif"
+    },
+    {
+      "item_id": 1036,
+      "name": "龍鱗",
+      "rate": 10.0,
+      "icon_url": "/images/items/1036.gif"
+    },
+    {
+      "item_id": 1037,
+      "name": "龍尾",
+      "rate": 10.0,
+      "icon_url": "/images/items/1037.gif"
+    },
+    {
+      "item_id": 1691,
+      "name": "奇妙狐尾草魔杖[2]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1691.gif"
+    },
+    {
+      "item_id": 4158,
+      "name": "七彩飛龍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7123,
+      "name": "龍皮",
+      "rate": 10.0,
+      "icon_url": "/images/items/7123.gif"
+    },
+    {
+      "item_id": 20788,
+      "name": "喵族專屬斗篷[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/20788.gif"
+    }
+  ]
+}

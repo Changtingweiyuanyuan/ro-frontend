@@ -1,0 +1,84 @@
+{
+  "id": 2766,
+  "name": {
+    "zh_tw": "精英瑪那能革 / 菁英瑪那能革",
+    "en": "C3_MANANANGGAL"
+  },
+  "image_url": "/images/monsters/2766.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 102255,
+    "attack": {
+      "min": 950,
+      "max": 1336
+    },
+    "magic_attack": {
+      "min": 250,
+      "max": 312
+    },
+    "defense": 64,
+    "magic_defense": 31,
+    "hit_100_percent": 401,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 75,
+      "agi": 85,
+      "vit": 45,
+      "int": 71,
+      "dex": 75,
+      "luk": 46
+    }
+  },
+  "drops": [
+    {
+      "item_id": 913,
+      "name": "蝙蝠牙",
+      "rate": 50.0,
+      "icon_url": "/images/items/913.gif"
+    },
+    {
+      "item_id": 6508,
+      "name": "銀手鍊",
+      "rate": 100.0,
+      "icon_url": "/images/items/6508.gif"
+    },
+    {
+      "item_id": 6509,
+      "name": "神奇的花",
+      "rate": 50.0,
+      "icon_url": "/images/items/6509.gif"
+    },
+    {
+      "item_id": 6510,
+      "name": "淡雅的花",
+      "rate": 50.0,
+      "icon_url": "/images/items/6510.gif"
+    },
+    {
+      "item_id": 6511,
+      "name": "漂亮的花",
+      "rate": 50.0,
+      "icon_url": "/images/items/6511.gif"
+    },
+    {
+      "item_id": 7006,
+      "name": "紅色蝙蝠翅膀",
+      "rate": 50.0,
+      "icon_url": "/images/items/7006.gif"
+    },
+    {
+      "item_id": 12700,
+      "name": "反穿的襯衫",
+      "rate": 5.0,
+      "icon_url": "/images/items/12700.gif"
+    }
+  ]
+}

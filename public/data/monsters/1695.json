@@ -1,0 +1,72 @@
+{
+  "id": 1695,
+  "name": {
+    "zh_tw": "綠色等離子體",
+    "en": "PLASMA_G"
+  },
+  "image_url": "/images/monsters/1695.gif",
+  "basic_info": {
+    "level": 116,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 24975,
+    "attack": {
+      "min": 917,
+      "max": 1259
+    },
+    "magic_attack": {
+      "min": 256,
+      "max": 324
+    },
+    "defense": 120,
+    "magic_defense": 3,
+    "hit_100_percent": 386,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 60,
+      "vit": 58,
+      "int": 62,
+      "dex": 102,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 644,
+      "name": "禮物箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/644.gif"
+    },
+    {
+      "item_id": 731,
+      "name": "2克拉鑽石",
+      "rate": 0.01,
+      "icon_url": "/images/items/731.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 0.5,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 0.2,
+      "icon_url": "/images/items/993.gif"
+    },
+    {
+      "item_id": 4389,
+      "name": "等離子體卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

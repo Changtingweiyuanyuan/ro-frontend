@@ -1,0 +1,48 @@
+{
+  "id": 3097,
+  "name": {
+    "zh_tw": "絕望之神咪羅克",
+    "en": "MM_MOROCC_ADT"
+  },
+  "image_url": "/images/monsters/3097.gif",
+  "basic_info": {
+    "level": 175,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 120000000,
+    "attack": {
+      "min": 4715,
+      "max": 6925
+    },
+    "magic_attack": {
+      "min": 403,
+      "max": 509
+    },
+    "defense": 203,
+    "magic_defense": 155,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 103,
+      "vit": 12,
+      "int": 106,
+      "dex": 269,
+      "luk": 51
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4559,
+      "name": "魔神咪羅克卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    }
+  ]
+}

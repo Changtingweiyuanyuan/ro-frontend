@@ -1,0 +1,78 @@
+{
+  "id": 2465,
+  "name": {
+    "zh_tw": "怨恨女僕 / 惡靈",
+    "en": "MG_WRAITH"
+  },
+  "image_url": "/images/monsters/2465.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 100168,
+    "attack": {
+      "min": 948,
+      "max": 1348
+    },
+    "magic_attack": {
+      "min": 2198,
+      "max": 3872
+    },
+    "defense": 80,
+    "magic_defense": 200,
+    "hit_100_percent": 360,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 16,
+      "agi": 26,
+      "vit": 30,
+      "int": 115,
+      "dex": 79,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 731,
+      "name": "2克拉鑽石",
+      "rate": 1.0,
+      "icon_url": "/images/items/731.gif"
+    },
+    {
+      "item_id": 747,
+      "name": "水晶鏡子",
+      "rate": 5.0,
+      "icon_url": "/images/items/747.gif"
+    },
+    {
+      "item_id": 2206,
+      "name": "婚禮頭紗",
+      "rate": 1.0,
+      "icon_url": "/images/items/2206.gif"
+    },
+    {
+      "item_id": 6608,
+      "name": "凝固的魔力",
+      "rate": 0.1,
+      "icon_url": "/images/items/6608.gif"
+    },
+    {
+      "item_id": 6609,
+      "name": "古城亡者的指甲",
+      "rate": 1.0,
+      "icon_url": "/images/items/6609.gif"
+    },
+    {
+      "item_id": 6610,
+      "name": "古城亡者的牙齒",
+      "rate": 1.0,
+      "icon_url": "/images/items/6610.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1314,
+  "name": {
+    "zh_tw": "果樹龜",
+    "en": "PERMETER"
+  },
+  "image_url": "/images/monsters/1314.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6575,
+    "attack": {
+      "min": 391,
+      "max": 509
+    },
+    "magic_attack": {
+      "min": 169,
+      "max": 203
+    },
+    "defense": 144,
+    "magic_defense": 50,
+    "hit_100_percent": 323,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 68,
+      "agi": 28,
+      "vit": 55,
+      "int": 40,
+      "dex": 50,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 12.25,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 0.13,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 0.01,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 6.2,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 967,
+      "name": "烏龜外殼",
+      "rate": 22.07,
+      "icon_url": "/images/items/967.gif"
+    },
+    {
+      "item_id": 4311,
+      "name": "果樹龜卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6263,
+      "name": "椰果",
+      "rate": 1.0,
+      "icon_url": "/images/items/6263.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 0.5,
+      "icon_url": "/images/items/7939.gif"
+    }
+  ]
+}

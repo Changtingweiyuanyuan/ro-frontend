@@ -1,0 +1,90 @@
+{
+  "id": 1374,
+  "name": {
+    "zh_tw": "惡魔侍者",
+    "en": "INCUBUS"
+  },
+  "image_url": "/images/monsters/1374.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 28000,
+    "attack": {
+      "min": 1244,
+      "max": 1748
+    },
+    "magic_attack": {
+      "min": 457,
+      "max": 683
+    },
+    "defense": 72,
+    "magic_defense": 46,
+    "hit_100_percent": 390,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 120,
+      "agi": 56,
+      "vit": 52,
+      "int": 75,
+      "dex": 139,
+      "luk": 70
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 27.5,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 522,
+      "name": "瑪絲黛拉果實",
+      "rate": 7.5,
+      "icon_url": "/images/items/522.gif"
+    },
+    {
+      "item_id": 2610,
+      "name": "金戒指",
+      "rate": 2.5,
+      "icon_url": "/images/items/2610.gif"
+    },
+    {
+      "item_id": 2613,
+      "name": "鑽石戒指",
+      "rate": 0.75,
+      "icon_url": "/images/items/2613.gif"
+    },
+    {
+      "item_id": 2621,
+      "name": "力量戒指[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2621.gif"
+    },
+    {
+      "item_id": 4269,
+      "name": "惡魔侍者卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5072,
+      "name": "惡魔侍者的角",
+      "rate": 0.01,
+      "icon_url": "/images/items/5072.gif"
+    },
+    {
+      "item_id": 13313,
+      "name": "風魔手裡劍亂華[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/13313.gif"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2233,
+  "name": {
+    "zh_tw": "搞笑藝人 雅歐帕奇爾",
+    "en": "G_ALPHOCCIO"
+  },
+  "image_url": "/images/monsters/2233.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2049620,
+    "attack": {
+      "min": 2491,
+      "max": 3549
+    },
+    "magic_attack": {
+      "min": 2891,
+      "max": 5141
+    },
+    "defense": 201,
+    "magic_defense": 109,
+    "hit_100_percent": 540,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 219,
+      "agi": 161,
+      "vit": 130,
+      "int": 107,
+      "dex": 270,
+      "luk": 99
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.1,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 1.0,
+      "icon_url": "/images/items/6223.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2635,
+  "name": {
+    "zh_tw": "精英突變蛙 / 狡猾突變蛙",
+    "en": "C5_THARA_FROG"
+  },
+  "image_url": "/images/monsters/2635.gif",
+  "basic_info": {
+    "level": 40,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5785,
+    "attack": {
+      "min": 134,
+      "max": 170
+    },
+    "magic_attack": {
+      "min": 79,
+      "max": 97
+    },
+    "defense": 37,
+    "magic_defense": 17,
+    "hit_100_percent": 250,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 25,
+      "agi": 10,
+      "vit": 10,
+      "int": 18,
+      "dex": 30,
+      "luk": 2
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/509.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 25.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+    },
+    {
+      "item_id": 725,
+      "name": "大紅寶石",
+      "rate": 0.15,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/725.gif"
+    },
+    {
+      "item_id": 908,
+      "name": "青蛙蛋",
+      "rate": 100.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/908.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/911.gif"
+    },
+    {
+      "item_id": 918,
+      "name": "粘糊的蹼",
+      "rate": 50.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/918.gif"
+    },
+    {
+      "item_id": 1011,
+      "name": "強化武器金屬-級數二",
+      "rate": 1.15,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1011.gif"
+    },
+    {
+      "item_id": 4058,
+      "name": "突變蛙卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    }
+  ]
+}

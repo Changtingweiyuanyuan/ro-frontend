@@ -1,0 +1,90 @@
+{
+  "id": 2792,
+  "name": {
+    "zh_tw": "精英邪惡使者 / 憤怒邪惡使者",
+    "en": "C4_INJUSTICE"
+  },
+  "image_url": "/images/monsters/2792.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "不死",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 39760,
+    "attack": {
+      "min": 600,
+      "max": 816
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 311
+    },
+    "defense": 76,
+    "magic_defense": 31,
+    "hit_100_percent": 381,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 76,
+      "vit": 58,
+      "int": 65,
+      "dex": 88,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 660,
+      "name": "紅色蠟燭",
+      "rate": 0.05,
+      "icon_url": "/images/items/660.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 7.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 2313,
+      "name": "鐵制盔甲[1]",
+      "rate": 0.15,
+      "icon_url": "/images/items/2313.gif"
+    },
+    {
+      "item_id": 2316,
+      "name": "鋼鐵盔甲",
+      "rate": 0.05,
+      "icon_url": "/images/items/2316.gif"
+    },
+    {
+      "item_id": 4268,
+      "name": "邪惡使者卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 87.5,
+      "icon_url": "/images/items/7053.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 100.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 28007,
+      "name": "緋紅色拳刃[2]",
+      "rate": 2.5,
+      "icon_url": "/images/items/28007.gif"
+    }
+  ]
+}

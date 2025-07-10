@@ -1,0 +1,78 @@
+{
+  "id": 2087,
+  "name": {
+    "zh_tw": "女王甲蟲",
+    "en": "QUEEN_SCARABA"
+  },
+  "image_url": "/images/monsters/2087.gif",
+  "basic_info": {
+    "level": 140,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2441600,
+    "attack": {
+      "min": 2507,
+      "max": 3641
+    },
+    "magic_attack": {
+      "min": 1157,
+      "max": 1901
+    },
+    "defense": 350,
+    "magic_defense": 220,
+    "hit_100_percent": 456,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 88,
+      "vit": 82,
+      "int": 149,
+      "dex": 317,
+      "luk": 144
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1191,
+      "name": "海鷹召喚者",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1191.gif"
+    },
+    {
+      "item_id": 1196,
+      "name": "鉻合金雙手巨劍",
+      "rate": 2.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1196.gif"
+    },
+    {
+      "item_id": 2364,
+      "name": "隕石盔甲[1]",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2364.gif"
+    },
+    {
+      "item_id": 4507,
+      "name": "女王甲蟲卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6326,
+      "name": "女王的翅膀碎片",
+      "rate": 35.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6326.gif"
+    },
+    {
+      "item_id": 18103,
+      "name": "神祕之弓",
+      "rate": 2.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/18103.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 20380,
+  "name": {
+    "zh_tw": "火魔巫師",
+    "en": "FLAME_GHOST_H"
+  },
+  "image_url": "/images/monsters/20380.gif",
+  "basic_info": {
+    "level": 189,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2410282,
+    "attack": {
+      "min": 2556,
+      "max": 3682
+    },
+    "magic_attack": {
+      "min": 2025,
+      "max": 3439
+    },
+    "defense": 237,
+    "magic_defense": 118,
+    "hit_100_percent": 500,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 119,
+      "agi": 99,
+      "vit": 16,
+      "int": 187,
+      "dex": 149,
+      "luk": 61
+    }
+  },
+  "drops": [
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 22.8,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 30.0,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 2.5,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 26138,
+      "name": "業火魔杖[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/26138.gif"
+    },
+    {
+      "item_id": 27360,
+      "name": "火魔巫師卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27360.gif"
+    }
+  ]
+}

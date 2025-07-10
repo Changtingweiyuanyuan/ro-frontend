@@ -1,0 +1,90 @@
+{
+  "id": 2156,
+  "name": {
+    "zh_tw": "讓特",
+    "en": "LEAK"
+  },
+  "image_url": "/images/monsters/2156.gif",
+  "basic_info": {
+    "level": 94,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1266000,
+    "attack": {
+      "min": 3194,
+      "max": 4684
+    },
+    "magic_attack": {
+      "min": 1077,
+      "max": 1849
+    },
+    "defense": 280,
+    "magic_defense": 128,
+    "hit_100_percent": 430,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 125,
+      "vit": 30,
+      "int": 85,
+      "dex": 186,
+      "luk": 55
+    }
+  },
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 12.5,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 12.5,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 12.5,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 969,
+      "name": "黃金",
+      "rate": 10.0,
+      "icon_url": "/images/items/969.gif"
+    },
+    {
+      "item_id": 1422,
+      "name": "狩獵之矛[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1422.gif"
+    },
+    {
+      "item_id": 4520,
+      "name": "讓特卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 12738,
+      "name": "珍稀符文原石",
+      "rate": 17.5,
+      "icon_url": "/images/items/12738.gif"
+    },
+    {
+      "item_id": 15032,
+      "name": "印度尼西亞傳統盔甲[1]",
+      "rate": 2.5,
+      "icon_url": "/images/items/15032.gif"
+    }
+  ]
+}

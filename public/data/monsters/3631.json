@@ -1,0 +1,90 @@
+{
+  "id": 3631,
+  "name": {
+    "zh_tw": "人型凱美拉",
+    "en": "EP16_2_HUMAN_KIMERA"
+  },
+  "image_url": "/images/monsters/3631.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 36968,
+    "attack": {
+      "min": 1302,
+      "max": 1880
+    },
+    "magic_attack": {
+      "min": 344,
+      "max": 470
+    },
+    "defense": 80,
+    "magic_defense": 100,
+    "hit_100_percent": 350,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 50,
+      "vit": 100,
+      "int": 100,
+      "dex": 140,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.3,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 608,
+      "name": "天地樹芽",
+      "rate": 0.3,
+      "icon_url": "/images/items/608.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.8,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 23076,
+      "name": "強化藥水SS",
+      "rate": 2.0,
+      "icon_url": "/images/items/23076.gif"
+    },
+    {
+      "item_id": 23077,
+      "name": "強化藥水SC",
+      "rate": 2.0,
+      "icon_url": "/images/items/23077.gif"
+    },
+    {
+      "item_id": 23078,
+      "name": "強化藥水AC",
+      "rate": 2.0,
+      "icon_url": "/images/items/23078.gif"
+    },
+    {
+      "item_id": 25157,
+      "name": "楓葉樹枝",
+      "rate": 10.0,
+      "icon_url": "/images/items/25157.gif"
+    },
+    {
+      "item_id": 27147,
+      "name": "人型凱美拉卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27147.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2676,
+  "name": {
+    "zh_tw": "精英 / 迅捷 蠻刀海盜骷髏",
+    "en": "C1_SAILOR_SKELETON"
+  },
+  "image_url": "/images/monsters/2676.gif",
+  "basic_info": {
+    "level": 19,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1550,
+    "attack": {
+      "min": 59,
+      "max": 73
+    },
+    "magic_attack": {
+      "min": 39,
+      "max": 45
+    },
+    "defense": 12,
+    "magic_defense": 2,
+    "hit_100_percent": 226,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 15,
+      "agi": 5,
+      "vit": 10,
+      "int": 15,
+      "dex": 12,
+      "luk": 10
+    }
+  },
+  "drops": [
+    {
+      "item_id": 628,
+      "name": "營養大骨",
+      "rate": 0.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/628.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 35.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/932.gif"
+    },
+    {
+      "item_id": 1104,
+      "name": "圓月刀[3]",
+      "rate": 3.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1104.gif"
+    },
+    {
+      "item_id": 2211,
+      "name": "方頭巾",
+      "rate": 3.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2211.gif"
+    },
+    {
+      "item_id": 2287,
+      "name": "海盜頭巾",
+      "rate": 0.2,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2287.gif"
+    },
+    {
+      "item_id": 7477,
+      "name": "6級烹飪書",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7477.gif"
+    }
+  ]
+}

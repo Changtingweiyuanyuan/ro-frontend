@@ -1,0 +1,54 @@
+{
+  "id": 1644,
+  "name": {
+    "zh_tw": "神射手 迪文",
+    "en": "G_SHECIL"
+  },
+  "image_url": "/images/monsters/1644.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4140000,
+    "attack": {
+      "min": 3660,
+      "max": 5322
+    },
+    "magic_attack": {
+      "min": 1377,
+      "max": 2307
+    },
+    "defense": 178,
+    "magic_defense": 135,
+    "hit_100_percent": 637,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 176,
+      "agi": 258,
+      "vit": 155,
+      "int": 132,
+      "dex": 464,
+      "luk": 95
+    }
+  },
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 0.05,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/6223.gif"
+    }
+  ]
+}

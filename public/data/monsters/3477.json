@@ -1,0 +1,72 @@
+{
+  "id": 3477,
+  "name": {
+    "zh_tw": "不死的要塞軍團兵",
+    "en": "AS_IMMORTAL_CORPS"
+  },
+  "image_url": "/images/monsters/3477.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 405694,
+    "attack": {
+      "min": 2281,
+      "max": 3261
+    },
+    "magic_attack": {
+      "min": 1317,
+      "max": 2245
+    },
+    "defense": 150,
+    "magic_defense": 83,
+    "hit_100_percent": 460,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 90,
+      "vit": 95,
+      "int": 75,
+      "dex": 180,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1400,
+      "name": "邪念之長矛[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1400.gif"
+    },
+    {
+      "item_id": 1450,
+      "name": "邪念之長矛[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/1450.gif"
+    },
+    {
+      "item_id": 13455,
+      "name": "邪念之騎兵劍[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/13455.gif"
+    },
+    {
+      "item_id": 21016,
+      "name": "邪念之雙手巨劍[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/21016.gif"
+    },
+    {
+      "item_id": 28706,
+      "name": "邪念之短劍[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/28706.gif"
+    }
+  ]
+}

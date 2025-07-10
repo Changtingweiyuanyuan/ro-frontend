@@ -1,0 +1,84 @@
+{
+  "id": 2134,
+  "name": {
+    "zh_tw": "惡魔啄木鳥",
+    "en": "PARUS"
+  },
+  "image_url": "/images/monsters/2134.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 86990,
+    "attack": {
+      "min": 835,
+      "max": 1143
+    },
+    "magic_attack": {
+      "min": 292,
+      "max": 384
+    },
+    "defense": 161,
+    "magic_defense": 39,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 80,
+      "agi": 136,
+      "vit": 128,
+      "int": 44,
+      "dex": 158,
+      "luk": 51
+    }
+  },
+  "drops": [
+    {
+      "item_id": 4512,
+      "name": "惡魔啄木鳥卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6383,
+      "name": "洛佩之線索",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6383.gif"
+    },
+    {
+      "item_id": 6383,
+      "name": "洛佩之線索",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6383.gif"
+    },
+    {
+      "item_id": 6383,
+      "name": "洛佩之線索",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6383.gif"
+    },
+    {
+      "item_id": 6393,
+      "name": "輕盈羽毛",
+      "rate": 15.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6393.gif"
+    },
+    {
+      "item_id": 7063,
+      "name": "柔軟的羽毛",
+      "rate": 5.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7063.gif"
+    },
+    {
+      "item_id": 12736,
+      "name": "神祕符文原石",
+      "rate": 0.5,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/12736.gif"
+    }
+  ]
+}

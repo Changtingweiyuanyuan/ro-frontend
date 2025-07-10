@@ -1,0 +1,90 @@
+{
+  "id": 3405,
+  "name": {
+    "zh_tw": "巨石怪",
+    "en": "MIN_GOLEM"
+  },
+  "image_url": "/images/monsters/3405.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 100000,
+    "attack": {
+      "min": 762,
+      "max": 1026
+    },
+    "magic_attack": {
+      "min": 177,
+      "max": 193
+    },
+    "defense": 167,
+    "magic_defense": 12,
+    "hit_100_percent": 384,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 129,
+      "agi": 70,
+      "vit": 89,
+      "int": 55,
+      "dex": 140,
+      "luk": 45
+    }
+  },
+  "drops": [
+    {
+      "item_id": 715,
+      "name": "黃色魔力礦石",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/715.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.35,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 1.1,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/912.gif"
+    },
+    {
+      "item_id": 953,
+      "name": "石心",
+      "rate": 45.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/953.gif"
+    },
+    {
+      "item_id": 998,
+      "name": "鐵",
+      "rate": 1.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/998.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 0.75,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+    },
+    {
+      "item_id": 2146,
+      "name": "銀色盾牌[1]",
+      "rate": 0.03,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/2146.gif"
+    },
+    {
+      "item_id": 4072,
+      "name": "巨石怪卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    }
+  ]
+}

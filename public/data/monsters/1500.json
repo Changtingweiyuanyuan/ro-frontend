@@ -1,0 +1,90 @@
+{
+  "id": 1500,
+  "name": {
+    "zh_tw": "苗娃佩瑞絲",
+    "en": "PARASITE"
+  },
+  "image_url": "/images/monsters/1500.gif",
+  "basic_info": {
+    "level": 76,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3222,
+    "attack": {
+      "min": 272,
+      "max": 344
+    },
+    "magic_attack": {
+      "min": 157,
+      "max": 185
+    },
+    "defense": 63,
+    "magic_defense": 30,
+    "hit_100_percent": 362,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 78,
+      "vit": 33,
+      "int": 50,
+      "dex": 106,
+      "luk": 40
+    }
+  },
+  "drops": [
+    {
+      "item_id": 1957,
+      "name": "流星鞭子[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/1957.gif"
+    },
+    {
+      "item_id": 1969,
+      "name": "利刃之鞭",
+      "rate": 0.01,
+      "icon_url": "/images/items/1969.gif"
+    },
+    {
+      "item_id": 4309,
+      "name": "苗娃佩瑞絲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6265,
+      "name": "菠蘿",
+      "rate": 4.0,
+      "icon_url": "/images/items/6265.gif"
+    },
+    {
+      "item_id": 7186,
+      "name": "細長梗",
+      "rate": 19.4,
+      "icon_url": "/images/items/7186.gif"
+    },
+    {
+      "item_id": 7193,
+      "name": "綠芽",
+      "rate": 27.5,
+      "icon_url": "/images/items/7193.gif"
+    },
+    {
+      "item_id": 7194,
+      "name": "柔軟的草葉",
+      "rate": 10.0,
+      "icon_url": "/images/items/7194.gif"
+    },
+    {
+      "item_id": 7198,
+      "name": "巨大葉子",
+      "rate": 2.5,
+      "icon_url": "/images/items/7198.gif"
+    }
+  ]
+}

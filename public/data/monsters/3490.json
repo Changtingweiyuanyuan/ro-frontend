@@ -1,0 +1,90 @@
+{
+  "id": 3490,
+  "name": {
+    "zh_tw": "不死的軍團軍官",
+    "en": "IMMORTAL_CO_CMDER"
+  },
+  "image_url": "/images/monsters/3490.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 500000,
+    "attack": {
+      "min": 1042,
+      "max": 1398
+    },
+    "magic_attack": {
+      "min": 385,
+      "max": 505
+    },
+    "defense": 200,
+    "magic_defense": 120,
+    "hit_100_percent": 458,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 170,
+      "agi": 80,
+      "vit": 100,
+      "int": 85,
+      "dex": 160,
+      "luk": 90
+    }
+  },
+  "drops": [
+    {
+      "item_id": 564,
+      "name": "肉粽",
+      "rate": 40.0,
+      "icon_url": "/images/items/564.gif"
+    },
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 2.5,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 748,
+      "name": "永恆玫瑰",
+      "rate": 3.0,
+      "icon_url": "/images/items/748.gif"
+    },
+    {
+      "item_id": 1295,
+      "name": "血淚拳刃[3]",
+      "rate": 0.3,
+      "icon_url": "/images/items/1295.gif"
+    },
+    {
+      "item_id": 4637,
+      "name": "不死軍團卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6940,
+      "name": "蠕動的黑色物質",
+      "rate": 40.0,
+      "icon_url": "/images/items/6940.gif"
+    },
+    {
+      "item_id": 12020,
+      "name": "暗水",
+      "rate": 3.0,
+      "icon_url": "/images/items/12020.gif"
+    },
+    {
+      "item_id": 16039,
+      "name": "勺子[1]",
+      "rate": 5.0,
+      "icon_url": "/images/items/16039.gif"
+    }
+  ]
+}

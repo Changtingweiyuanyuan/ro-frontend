@@ -1,0 +1,90 @@
+{
+  "id": 2854,
+  "name": {
+    "zh_tw": "精英 / 雄壯小惡魔",
+    "en": "C2_DEVIRUCHI"
+  },
+  "image_url": "/images/monsters/2854.gif",
+  "basic_info": {
+    "level": 93,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 89120,
+    "attack": {
+      "min": 611,
+      "max": 841
+    },
+    "magic_attack": {
+      "min": 305,
+      "max": 415
+    },
+    "defense": 72,
+    "magic_defense": 16,
+    "hit_100_percent": 343,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 49,
+      "vit": 30,
+      "int": 85,
+      "dex": 119,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 3.85,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 0.05,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1009,
+      "name": "神之手",
+      "rate": 0.15,
+      "icon_url": "/images/items/1009.gif"
+    },
+    {
+      "item_id": 1038,
+      "name": "小惡魔角",
+      "rate": 100.0,
+      "icon_url": "/images/items/1038.gif"
+    },
+    {
+      "item_id": 1039,
+      "name": "小惡魔翅膀",
+      "rate": 10.0,
+      "icon_url": "/images/items/1039.gif"
+    },
+    {
+      "item_id": 1458,
+      "name": "雙刃長戟[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1458.gif"
+    },
+    {
+      "item_id": 1691,
+      "name": "奇妙狐尾草魔杖[2]",
+      "rate": 1.0,
+      "icon_url": "/images/items/1691.gif"
+    },
+    {
+      "item_id": 4122,
+      "name": "小惡魔卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

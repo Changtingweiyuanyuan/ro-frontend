@@ -1,0 +1,90 @@
+{
+  "id": 1938,
+  "name": {
+    "zh_tw": "寶物箱子",
+    "en": "TREASURE_BOX41"
+  },
+  "image_url": "/images/monsters/1938.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1,
+    "attack": {
+      "min": 100,
+      "max": 100
+    },
+    "magic_attack": {
+      "min": 100,
+      "max": 100
+    },
+    "defense": 0,
+    "magic_defense": 0,
+    "hit_100_percent": 300,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1199,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 50.0,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 658,
+      "name": "組織的團結力",
+      "rate": 2.5,
+      "icon_url": "/images/items/658.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 24.25,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 36.38,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1268,
+      "name": "巨魔指甲[1]",
+      "rate": 0.75,
+      "icon_url": "/images/items/1268.gif"
+    },
+    {
+      "item_id": 1625,
+      "name": "恢復之杖",
+      "rate": 0.75,
+      "icon_url": "/images/items/1625.gif"
+    },
+    {
+      "item_id": 2514,
+      "name": "護肩甲[1]",
+      "rate": 0.2,
+      "icon_url": "/images/items/2514.gif"
+    },
+    {
+      "item_id": 7830,
+      "name": "女神的眼淚",
+      "rate": 0.05,
+      "icon_url": "/images/items/7830.gif"
+    }
+  ]
+}

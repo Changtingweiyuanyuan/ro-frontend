@@ -1,0 +1,84 @@
+{
+  "id": 1256,
+  "name": {
+    "zh_tw": "單眼蟲",
+    "en": "PEST"
+  },
+  "image_url": "/images/monsters/1256.gif",
+  "basic_info": {
+    "level": 89,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 5747,
+    "attack": {
+      "min": 429,
+      "max": 563
+    },
+    "magic_attack": {
+      "min": 137,
+      "max": 167
+    },
+    "defense": 55,
+    "magic_defense": 33,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 73,
+      "agi": 77,
+      "vit": 48,
+      "int": 15,
+      "dex": 106,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 0.5,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 702,
+      "name": "家畜血",
+      "rate": 0.05,
+      "icon_url": "/images/items/702.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 1.25,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.58,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 1055,
+      "name": "蚯蚓皮",
+      "rate": 27.5,
+      "icon_url": "/images/items/1055.gif"
+    },
+    {
+      "item_id": 4315,
+      "name": "單眼蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 1.0,
+      "icon_url": "/images/items/7054.gif"
+    }
+  ]
+}

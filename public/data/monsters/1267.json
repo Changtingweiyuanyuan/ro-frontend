@@ -1,0 +1,90 @@
+{
+  "id": 1267,
+  "name": {
+    "zh_tw": "卡拉特小丑",
+    "en": "CARAT"
+  },
+  "image_url": "/images/monsters/1267.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "惡魔",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 9222,
+    "attack": {
+      "min": 826,
+      "max": 1138
+    },
+    "magic_attack": {
+      "min": 196,
+      "max": 242
+    },
+    "defense": 111,
+    "magic_defense": 67,
+    "hit_100_percent": 377,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 64,
+      "vit": 60,
+      "int": 40,
+      "dex": 80,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 7.25,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 536,
+      "name": "冰淇淋",
+      "rate": 5.0,
+      "icon_url": "/images/items/536.gif"
+    },
+    {
+      "item_id": 2409,
+      "name": "抗魔鞋",
+      "rate": 0.03,
+      "icon_url": "/images/items/2409.gif"
+    },
+    {
+      "item_id": 4288,
+      "name": "卡拉特小丑卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5003,
+      "name": "小丑帽",
+      "rate": 0.01,
+      "icon_url": "/images/items/5003.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 16.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 15029,
+      "name": "慈愛之袍",
+      "rate": 0.05,
+      "icon_url": "/images/items/15029.gif"
+    },
+    {
+      "item_id": 15030,
+      "name": "審判之袍",
+      "rate": 0.05,
+      "icon_url": "/images/items/15030.gif"
+    }
+  ]
+}

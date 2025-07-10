@@ -1,0 +1,84 @@
+{
+  "id": 1152,
+  "name": {
+    "zh_tw": "邪骸獸人",
+    "en": "ORC_SKELETON"
+  },
+  "image_url": "/images/monsters/1152.gif",
+  "basic_info": {
+    "level": 53,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2077,
+    "attack": {
+      "min": 201,
+      "max": 251
+    },
+    "magic_attack": {
+      "min": 75,
+      "max": 91
+    },
+    "defense": 82,
+    "magic_defense": 10,
+    "hit_100_percent": 270,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 52,
+      "agi": 16,
+      "vit": 24,
+      "int": 5,
+      "dex": 24,
+      "luk": 5
+    }
+  },
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 0.25,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.4,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 922,
+      "name": "獸人犬齒",
+      "rate": 27.5,
+      "icon_url": "/images/items/922.gif"
+    },
+    {
+      "item_id": 932,
+      "name": "死人遺骨",
+      "rate": 17.5,
+      "icon_url": "/images/items/932.gif"
+    },
+    {
+      "item_id": 1358,
+      "name": "毀滅之斧[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/1358.gif"
+    },
+    {
+      "item_id": 2299,
+      "name": "獸人頭盔",
+      "rate": 0.01,
+      "icon_url": "/images/items/2299.gif"
+    },
+    {
+      "item_id": 4085,
+      "name": "邪骸獸人卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

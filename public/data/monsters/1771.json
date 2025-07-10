@@ -1,0 +1,90 @@
+{
+  "id": 1771,
+  "name": {
+    "zh_tw": "潘貝勒克",
+    "en": "VANBERK"
+  },
+  "image_url": "/images/monsters/1771.gif",
+  "basic_info": {
+    "level": 123,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 24605,
+    "attack": {
+      "min": 966,
+      "max": 1334
+    },
+    "magic_attack": {
+      "min": 281,
+      "max": 367
+    },
+    "defense": 100,
+    "magic_defense": 6,
+    "hit_100_percent": 403,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 70,
+      "vit": 55,
+      "int": 60,
+      "dex": 122,
+      "luk": 54
+    }
+  },
+  "drops": [
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 0.05,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 2883,
+      "name": "烏魯茲符文印記[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2883.gif"
+    },
+    {
+      "item_id": 4411,
+      "name": "凡貝爾克卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5172,
+      "name": "貝雷帽",
+      "rate": 0.13,
+      "icon_url": "/images/items/5172.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 5.0,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 0.5,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7568,
+      "name": "白色面具",
+      "rate": 12.5,
+      "icon_url": "/images/items/7568.gif"
+    },
+    {
+      "item_id": 13027,
+      "name": "手術刀[3]",
+      "rate": 0.03,
+      "icon_url": "/images/items/13027.gif"
+    }
+  ]
+}

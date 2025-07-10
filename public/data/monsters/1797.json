@@ -1,0 +1,84 @@
+{
+  "id": 1797,
+  "name": {
+    "zh_tw": "法恩特",
+    "en": "FANAT"
+  },
+  "image_url": "/images/monsters/1797.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21000,
+    "attack": {
+      "min": 893,
+      "max": 1229
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 305
+    },
+    "defense": 81,
+    "magic_defense": 64,
+    "hit_100_percent": 397,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 66,
+      "vit": 70,
+      "int": 47,
+      "dex": 111,
+      "luk": 57
+    }
+  },
+  "drops": [
+    {
+      "item_id": 2109,
+      "name": "謊言紀錄本",
+      "rate": 0.01,
+      "icon_url": "/images/items/2109.gif"
+    },
+    {
+      "item_id": 2388,
+      "name": "中東長袍[1]",
+      "rate": 0.05,
+      "icon_url": "/images/items/2388.gif"
+    },
+    {
+      "item_id": 2422,
+      "name": "高級涼鞋[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2422.gif"
+    },
+    {
+      "item_id": 4465,
+      "name": "法恩特卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7563,
+      "name": "血色的輪",
+      "rate": 20.0,
+      "icon_url": "/images/items/7563.gif"
+    },
+    {
+      "item_id": 7568,
+      "name": "白色面具",
+      "rate": 12.5,
+      "icon_url": "/images/items/7568.gif"
+    },
+    {
+      "item_id": 12183,
+      "name": "神聖箭矢筒",
+      "rate": 0.25,
+      "icon_url": "/images/items/12183.gif"
+    }
+  ]
+}

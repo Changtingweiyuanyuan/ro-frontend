@@ -1,0 +1,84 @@
+{
+  "id": 2677,
+  "name": {
+    "zh_tw": "精英土狼 / 雄壯土狼",
+    "en": "C2_ROWEEN"
+  },
+  "image_url": "/images/monsters/2677.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 73850,
+    "attack": {
+      "min": 729,
+      "max": 1011
+    },
+    "magic_attack": {
+      "min": 164,
+      "max": 186
+    },
+    "defense": 73,
+    "magic_defense": 33,
+    "hit_100_percent": 382,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 82,
+      "vit": 55,
+      "int": 45,
+      "dex": 108,
+      "luk": 25
+    }
+  },
+  "drops": [
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/919.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 1.25,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/992.gif"
+    },
+    {
+      "item_id": 1695,
+      "name": "精美狐尾草模型[2]",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1695.gif"
+    },
+    {
+      "item_id": 1822,
+      "name": "連擊拳套[4]",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/1822.gif"
+    },
+    {
+      "item_id": 4422,
+      "name": "鼬卡片",
+      "rate": 0.05,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 7564,
+      "name": "腐臭之肉",
+      "rate": 75.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/7564.gif"
+    },
+    {
+      "item_id": 28382,
+      "name": "幸運符草項鍊[1]",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/28382.gif"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 3444,
+  "name": {
+    "zh_tw": "觀察者",
+    "en": "WATCHER"
+  },
+  "image_url": "/images/monsters/3444.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 120000,
+    "attack": {
+      "min": 1365,
+      "max": 1925
+    },
+    "magic_attack": {
+      "min": 1225,
+      "max": 2065
+    },
+    "defense": 125,
+    "magic_defense": 47,
+    "hit_100_percent": 435,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 80,
+      "vit": 100,
+      "int": 100,
+      "dex": 80,
+      "luk": 50
+    }
+  },
+  "drops": [
+    {
+      "item_id": 576,
+      "name": "榴蓮",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/576.gif"
+    },
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/603.gif"
+    },
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/605.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.1,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+    },
+    {
+      "item_id": 996,
+      "name": "風靈原石",
+      "rate": 1.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/996.gif"
+    },
+    {
+      "item_id": 4638,
+      "name": "觀察者卡片",
+      "rate": 0.01,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+    },
+    {
+      "item_id": 6924,
+      "name": "魔物紅眼",
+      "rate": 20.0,
+      "icon_url": "https://file5s.ratemyserver.net/items/small/6924.gif"
+    }
+  ]
+}

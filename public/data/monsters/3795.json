@@ -1,0 +1,90 @@
+{
+  "id": 3795,
+  "name": {
+    "zh_tw": "堅硬冰柱",
+    "en": "ILL_ICEICLE"
+  },
+  "image_url": "/images/monsters/3795.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1012,
+    "attack": {
+      "min": 1576,
+      "max": 2198
+    },
+    "magic_attack": {
+      "min": 136,
+      "max": 138
+    },
+    "defense": 50,
+    "magic_defense": 35,
+    "hit_100_percent": 336,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 199,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 244,
+      "luk": 1
+    }
+  },
+  "drops": [
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    },
+    {
+      "item_id": 25297,
+      "name": "凍石碎片",
+      "rate": 2.0,
+      "icon_url": "/images/items/25297.gif"
+    }
+  ]
+}

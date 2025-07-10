@@ -1,0 +1,48 @@
+{
+  "id": 2939,
+  "name": {
+    "zh_tw": "魔神的影子",
+    "en": "MM_EVIL_SHADOW1"
+  },
+  "image_url": "/images/monsters/2939.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 112000,
+    "attack": {
+      "min": 2838,
+      "max": 4146
+    },
+    "magic_attack": {
+      "min": 625,
+      "max": 1025
+    },
+    "defense": 30,
+    "magic_defense": 30,
+    "hit_100_percent": 390,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 44,
+      "vit": 88,
+      "int": 21,
+      "dex": 95,
+      "luk": 44
+    }
+  },
+  "drops": [
+    {
+      "item_id": 27264,
+      "name": "魔神影子卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27264.gif"
+    }
+  ]
+}
