@@ -1,0 +1,85 @@
+{
+  "id": 20660,
+  "name": {
+    "zh_tw": "紅肉食人火龍果",
+    "en": "MD_PITAYA_R"
+  },
+  "image_url": "/images/monsters/20660.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 158478,
+    "attack": {
+      "min": 1169,
+      "max": 1651
+    },
+    "magic_attack": {
+      "min": 561,
+      "max": 879
+    },
+    "defense": 267,
+    "magic_defense": 74,
+    "hit_100_percent": 429,
+    "flee_95_percent": 416,
+    "base_stats": {
+      "str": 73,
+      "agi": 85,
+      "vit": 45,
+      "int": 60,
+      "dex": 93,
+      "luk": 64
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@lost",
+      "description": "- 被時間遺忘的飼養場",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 578,
+      "name": "草莓",
+      "rate": 3.0,
+      "icon_url": "/images/items/578.gif"
+    },
+    {
+      "item_id": 903,
+      "name": "爬蟲類舌頭",
+      "rate": 12.5,
+      "icon_url": "/images/items/903.gif"
+    },
+    {
+      "item_id": 7312,
+      "name": "朱畢雷",
+      "rate": 1.0,
+      "icon_url": "/images/items/7312.gif"
+    },
+    {
+      "item_id": 12573,
+      "name": "水果禮盒",
+      "rate": 1.0,
+      "icon_url": "/images/items/12573.gif"
+    },
+    {
+      "item_id": 300106,
+      "name": "紅肉食人火龍果卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300106.gif"
+    },
+    {
+      "item_id": 840000,
+      "name": "羅斯特榴彈槍[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/840000.gif"
+    }
+  ]
+}

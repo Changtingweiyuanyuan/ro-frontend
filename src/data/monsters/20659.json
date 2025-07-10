@@ -1,0 +1,85 @@
+{
+  "id": 20659,
+  "name": {
+    "zh_tw": "大王喵喵",
+    "en": "MD_PITAYA_BOSS"
+  },
+  "image_url": "/images/monsters/20659.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 7221377,
+    "attack": {
+      "min": 1485,
+      "max": 2113
+    },
+    "magic_attack": {
+      "min": 807,
+      "max": 1305
+    },
+    "defense": 498,
+    "magic_defense": 80,
+    "hit_100_percent": 420,
+    "flee_95_percent": 449,
+    "base_stats": {
+      "str": 91,
+      "agi": 70,
+      "vit": 120,
+      "int": 90,
+      "dex": 121,
+      "luk": 60
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@lost",
+      "description": "- 被時間遺忘的飼養場",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 616,
+      "name": "老舊收集冊",
+      "rate": 15.0,
+      "icon_url": "/images/items/616.gif"
+    },
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 25.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 903,
+      "name": "爬蟲類舌頭",
+      "rate": 25.0,
+      "icon_url": "/images/items/903.gif"
+    },
+    {
+      "item_id": 7312,
+      "name": "朱畢雷",
+      "rate": 30.0,
+      "icon_url": "/images/items/7312.gif"
+    },
+    {
+      "item_id": 12573,
+      "name": "水果禮盒",
+      "rate": 25.0,
+      "icon_url": "/images/items/12573.gif"
+    },
+    {
+      "item_id": 300107,
+      "name": "大王喵喵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300107.gif"
+    }
+  ]
+}

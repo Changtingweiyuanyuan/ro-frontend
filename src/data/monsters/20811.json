@@ -1,0 +1,91 @@
+{
+  "id": 20811,
+  "name": {
+    "zh_tw": "深海魔鬼大烏賊",
+    "en": "ILL_KRAKEN"
+  },
+  "image_url": "/images/monsters/20811.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 81289587,
+    "attack": {
+      "min": 9228,
+      "max": 13578
+    },
+    "magic_attack": {
+      "min": 1803,
+      "max": 2937
+    },
+    "defense": 335,
+    "magic_defense": 271,
+    "hit_100_percent": 605,
+    "flee_95_percent": 592,
+    "base_stats": {
+      "str": 325,
+      "agi": 190,
+      "vit": 169,
+      "int": 277,
+      "dex": 200,
+      "luk": 55
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d04_i",
+      "description": "- 幻影: 深淵海底洞穴 上層",
+      "spawn_info": "1x / 120 分鐘"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 962,
+      "name": "觸鬚",
+      "rate": 30.0,
+      "icon_url": "/images/items/962.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 5.0,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 2519,
+      "name": "茉莉雅娜斗篷",
+      "rate": 3.0,
+      "icon_url": "/images/items/2519.gif"
+    },
+    {
+      "item_id": 7324,
+      "name": "Deep Sea Kraken's Leg",
+      "rate": 30.0,
+      "icon_url": "/images/items/7324.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.5,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 10.0,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300151,
+      "name": "Deep Sea Kraken Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300151.gif"
+    }
+  ]
+}

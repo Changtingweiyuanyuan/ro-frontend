@@ -1,0 +1,48 @@
+{
+  "id": 20699,
+  "name": {
+    "zh_tw": "精英貝拉雷 / 邪心獵人偷襲兵",
+    "en": "G_BELLARE3"
+  },
+  "image_url": "/images/monsters/20699.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 295508,
+    "attack": {
+      "min": 1795,
+      "max": 2569
+    },
+    "magic_attack": {
+      "min": 664,
+      "max": 1054
+    },
+    "defense": 383,
+    "magic_defense": 80,
+    "hit_100_percent": 480,
+    "flee_95_percent": 452,
+    "base_stats": {
+      "str": 108,
+      "agi": 121,
+      "vit": 80,
+      "int": 68,
+      "dex": 113,
+      "luk": 80
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@bamn",
+      "description": "- 暮光庭院",
+      "spawn_info": ""
+    }
+  ],
+  "drops": []
+}

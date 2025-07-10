@@ -1,0 +1,79 @@
+{
+  "id": 20686,
+  "name": {
+    "zh_tw": "下水道藍鼠",
+    "en": "EP17_2_CRAMP"
+  },
+  "image_url": "/images/monsters/20686.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 285388,
+    "attack": {
+      "min": 1835,
+      "max": 2627
+    },
+    "magic_attack": {
+      "min": 562,
+      "max": 876
+    },
+    "defense": 254,
+    "magic_defense": 77,
+    "hit_100_percent": 471,
+    "flee_95_percent": 441,
+    "base_stats": {
+      "str": 113,
+      "agi": 118,
+      "vit": 38,
+      "int": 56,
+      "dex": 109,
+      "luk": 66
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw02",
+      "description": "- 汙水處理廠",
+      "spawn_info": "80x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 528,
+      "name": "魔物飼料",
+      "rate": 5.0,
+      "icon_url": "/images/items/528.gif"
+    },
+    {
+      "item_id": 568,
+      "name": "檸檬",
+      "rate": 1.25,
+      "icon_url": "/images/items/568.gif"
+    },
+    {
+      "item_id": 7007,
+      "name": "巨鼠指甲",
+      "rate": 23.28,
+      "icon_url": "/images/items/7007.gif"
+    },
+    {
+      "item_id": 300109,
+      "name": "下水道藍鼠卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300109.gif"
+    },
+    {
+      "item_id": 510008,
+      "name": "雷士光劍[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/510008.gif"
+    }
+  ]
+}

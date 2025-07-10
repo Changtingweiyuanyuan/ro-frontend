@@ -1,0 +1,79 @@
+{
+  "id": 20665,
+  "name": {
+    "zh_tw": "韋爾波泰",
+    "en": "MD_VERPORTA"
+  },
+  "image_url": "/images/monsters/20665.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 239037,
+    "attack": {
+      "min": 1485,
+      "max": 2115
+    },
+    "magic_attack": {
+      "min": 966,
+      "max": 1582
+    },
+    "defense": 424,
+    "magic_defense": 82,
+    "hit_100_percent": 449,
+    "flee_95_percent": 411,
+    "base_stats": {
+      "str": 93,
+      "agi": 98,
+      "vit": 96,
+      "int": 113,
+      "dex": 80,
+      "luk": 76
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 6246,
+      "name": "黃色粉末",
+      "rate": 2.5,
+      "icon_url": "/images/items/6246.gif"
+    },
+    {
+      "item_id": 7194,
+      "name": "柔軟的草葉",
+      "rate": 10.0,
+      "icon_url": "/images/items/7194.gif"
+    },
+    {
+      "item_id": 7326,
+      "name": "熒光色的液體",
+      "rate": 5.0,
+      "icon_url": "/images/items/7326.gif"
+    },
+    {
+      "item_id": 7565,
+      "name": "黏黏的毒液",
+      "rate": 10.0,
+      "icon_url": "/images/items/7565.gif"
+    },
+    {
+      "item_id": 300089,
+      "name": "韋爾波泰卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300089.gif"
+    }
+  ]
+}

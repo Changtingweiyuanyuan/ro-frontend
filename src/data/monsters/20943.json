@@ -1,0 +1,91 @@
+{
+  "id": 20943,
+  "name": {
+    "zh_tw": "死亡女巫",
+    "en": "DEATH_WITCH"
+  },
+  "image_url": "/images/monsters/20943.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 398856250,
+    "attack": {
+      "min": 12405,
+      "max": 18269
+    },
+    "magic_attack": {
+      "min": 2558,
+      "max": 4172
+    },
+    "defense": 687,
+    "magic_defense": 210,
+    "hit_100_percent": 725,
+    "flee_95_percent": 724,
+    "base_stats": {
+      "str": 424,
+      "agi": 236,
+      "vit": 214,
+      "int": 423,
+      "dex": 241,
+      "luk": 174
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun02",
+      "description": "- 尼芙菲姆密穴 - 崩塌的歌劇院",
+      "spawn_info": "1x / 360~370 分鐘"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 15.0,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 608,
+      "name": "天地樹芽",
+      "rate": 15.0,
+      "icon_url": "/images/items/608.gif"
+    },
+    {
+      "item_id": 610,
+      "name": "天地樹葉子",
+      "rate": 15.0,
+      "icon_url": "/images/items/610.gif"
+    },
+    {
+      "item_id": 7220,
+      "name": "綠色粘稠物",
+      "rate": 2.0,
+      "icon_url": "/images/items/7220.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 10.0,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 10.0,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300248,
+      "name": "Death Witch Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300248.gif"
+    }
+  ]
+}

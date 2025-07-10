@@ -1,0 +1,91 @@
+{
+  "id": 20802,
+  "name": {
+    "zh_tw": "深海人魚",
+    "en": "ILL_OBEAUNE"
+  },
+  "image_url": "/images/monsters/20802.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 340238,
+    "attack": {
+      "min": 2400,
+      "max": 3460
+    },
+    "magic_attack": {
+      "min": 494,
+      "max": 726
+    },
+    "defense": 255,
+    "magic_defense": 90,
+    "hit_100_percent": 409,
+    "flee_95_percent": 449,
+    "base_stats": {
+      "str": 134,
+      "agi": 50,
+      "vit": 114,
+      "int": 77,
+      "dex": 114,
+      "luk": 50
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d04_i",
+      "description": "- 幻影: 深淵海底洞穴 上層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 0.05,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 950,
+      "name": "人魚之心",
+      "rate": 25.0,
+      "icon_url": "/images/items/950.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 1.5,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 2325,
+      "name": "聖職之衣",
+      "rate": 0.1,
+      "icon_url": "/images/items/2325.gif"
+    },
+    {
+      "item_id": 25894,
+      "name": "Rotten Deep Sea Fish",
+      "rate": 10.0,
+      "icon_url": "/images/items/25894.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300141,
+      "name": "Deep Sea Obeaune Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300141.gif"
+    }
+  ]
+}

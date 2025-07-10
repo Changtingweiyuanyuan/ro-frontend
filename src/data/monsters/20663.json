@@ -1,0 +1,85 @@
+{
+  "id": 20663,
+  "name": {
+    "zh_tw": "紫肉食人火龍果",
+    "en": "MD_PITAYA_V"
+  },
+  "image_url": "/images/monsters/20663.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 165308,
+    "attack": {
+      "min": 1585,
+      "max": 2261
+    },
+    "magic_attack": {
+      "min": 529,
+      "max": 821
+    },
+    "defense": 393,
+    "magic_defense": 74,
+    "hit_100_percent": 434,
+    "flee_95_percent": 448,
+    "base_stats": {
+      "str": 100,
+      "agi": 86,
+      "vit": 86,
+      "int": 54,
+      "dex": 121,
+      "luk": 67
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@lost",
+      "description": "- 被時間遺忘的飼養場",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 514,
+      "name": "葡萄",
+      "rate": 3.0,
+      "icon_url": "/images/items/514.gif"
+    },
+    {
+      "item_id": 903,
+      "name": "爬蟲類舌頭",
+      "rate": 12.5,
+      "icon_url": "/images/items/903.gif"
+    },
+    {
+      "item_id": 7312,
+      "name": "朱畢雷",
+      "rate": 1.0,
+      "icon_url": "/images/items/7312.gif"
+    },
+    {
+      "item_id": 12573,
+      "name": "水果禮盒",
+      "rate": 1.0,
+      "icon_url": "/images/items/12573.gif"
+    },
+    {
+      "item_id": 300123,
+      "name": "紫肉食人火龍果卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300123.gif"
+    },
+    {
+      "item_id": 510009,
+      "name": "古拉提斯短劍[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/510009.gif"
+    }
+  ]
+}

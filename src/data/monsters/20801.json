@@ -1,0 +1,91 @@
+{
+  "id": 20801,
+  "name": {
+    "zh_tw": "幻影深海電鰻",
+    "en": "ILL_SROPHO"
+  },
+  "image_url": "/images/monsters/20801.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 336823,
+    "attack": {
+      "min": 2417,
+      "max": 3481
+    },
+    "magic_attack": {
+      "min": 465,
+      "max": 669
+    },
+    "defense": 224,
+    "magic_defense": 81,
+    "hit_100_percent": 407,
+    "flee_95_percent": 443,
+    "base_stats": {
+      "str": 145,
+      "agi": 50,
+      "vit": 95,
+      "int": 80,
+      "dex": 110,
+      "luk": 50
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d04_i",
+      "description": "- 幻影: 深淵海底洞穴 上層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 0.5,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 25.0,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 1972,
+      "name": "電鰻[2]",
+      "rate": 0.25,
+      "icon_url": "/images/items/1972.gif"
+    },
+    {
+      "item_id": 12012,
+      "name": "水靈箭矢筒",
+      "rate": 0.5,
+      "icon_url": "/images/items/12012.gif"
+    },
+    {
+      "item_id": 25893,
+      "name": "Deep Sea Fish's Tail",
+      "rate": 10.0,
+      "icon_url": "/images/items/25893.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300140,
+      "name": "Deep Sea Sropho Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300140.gif"
+    }
+  ]
+}

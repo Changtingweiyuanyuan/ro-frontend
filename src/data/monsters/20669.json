@@ -1,0 +1,85 @@
+{
+  "id": 20669,
+  "name": {
+    "zh_tw": "帕皮拉",
+    "en": "MD_PAPILA"
+  },
+  "image_url": "/images/monsters/20669.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 240713,
+    "attack": {
+      "min": 1499,
+      "max": 2135
+    },
+    "magic_attack": {
+      "min": 904,
+      "max": 1474
+    },
+    "defense": 378,
+    "magic_defense": 82,
+    "hit_100_percent": 458,
+    "flee_95_percent": 421,
+    "base_stats": {
+      "str": 92,
+      "agi": 108,
+      "vit": 80,
+      "int": 103,
+      "dex": 93,
+      "luk": 60
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 712,
+      "name": "花",
+      "rate": 30.0,
+      "icon_url": "/images/items/712.gif"
+    },
+    {
+      "item_id": 924,
+      "name": "蝴蝶翅膀粉末",
+      "rate": 20.0,
+      "icon_url": "/images/items/924.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7163,
+      "name": "銳利的觸角",
+      "rate": 5.0,
+      "icon_url": "/images/items/7163.gif"
+    },
+    {
+      "item_id": 7168,
+      "name": "巨大翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/7168.gif"
+    },
+    {
+      "item_id": 300091,
+      "name": "帕皮拉卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300091.gif"
+    }
+  ]
+}

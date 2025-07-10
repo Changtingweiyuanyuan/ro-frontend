@@ -1,0 +1,91 @@
+{
+  "id": 20803,
+  "name": {
+    "zh_tw": "深海狄奧斯",
+    "en": "ILL_DEVIACE"
+  },
+  "image_url": "/images/monsters/20803.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 348355,
+    "attack": {
+      "min": 2472,
+      "max": 3558
+    },
+    "magic_attack": {
+      "min": 510,
+      "max": 752
+    },
+    "defense": 274,
+    "magic_defense": 91,
+    "hit_100_percent": 419,
+    "flee_95_percent": 459,
+    "base_stats": {
+      "str": 151,
+      "agi": 58,
+      "vit": 121,
+      "int": 80,
+      "dex": 120,
+      "luk": 58
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d04_i",
+      "description": "- 幻影: 深淵海底洞穴 上層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.1,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 1053,
+      "name": "人魚之牙",
+      "rate": 25.0,
+      "icon_url": "/images/items/1053.gif"
+    },
+    {
+      "item_id": 1054,
+      "name": "人魚嘴巴",
+      "rate": 3.0,
+      "icon_url": "/images/items/1054.gif"
+    },
+    {
+      "item_id": 1256,
+      "name": "冰靈拳刃",
+      "rate": 0.05,
+      "icon_url": "/images/items/1256.gif"
+    },
+    {
+      "item_id": 25892,
+      "name": "Deep Sea Shell",
+      "rate": 10.0,
+      "icon_url": "/images/items/25892.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300142,
+      "name": "Deep Sea Deviace Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300142.gif"
+    }
+  ]
+}

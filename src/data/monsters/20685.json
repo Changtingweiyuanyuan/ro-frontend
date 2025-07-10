@@ -1,0 +1,79 @@
+{
+  "id": 20685,
+  "name": {
+    "zh_tw": "下水道貝納姆",
+    "en": "EP17_2_VENENUM3"
+  },
+  "image_url": "/images/monsters/20685.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 290128,
+    "attack": {
+      "min": 1656,
+      "max": 2374
+    },
+    "magic_attack": {
+      "min": 721,
+      "max": 1153
+    },
+    "defense": 277,
+    "magic_defense": 81,
+    "hit_100_percent": 451,
+    "flee_95_percent": 428,
+    "base_stats": {
+      "str": 80,
+      "agi": 97,
+      "vit": 45,
+      "int": 76,
+      "dex": 96,
+      "luk": 61
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw02",
+      "description": "- 汙水處理廠",
+      "spawn_info": "60x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 2.4,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 25.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 7565,
+      "name": "黏黏的毒液",
+      "rate": 20.0,
+      "icon_url": "/images/items/7565.gif"
+    },
+    {
+      "item_id": 300108,
+      "name": "下水道貝納姆卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300108.gif"
+    },
+    {
+      "item_id": 550008,
+      "name": "格萊德魔杖[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/550008.gif"
+    }
+  ]
+}

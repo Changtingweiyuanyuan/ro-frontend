@@ -1,0 +1,79 @@
+{
+  "id": 20668,
+  "name": {
+    "zh_tw": "格蘭帕皮利亞",
+    "en": "MD_GRAN_PAPILIA"
+  },
+  "image_url": "/images/monsters/20668.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 74730723,
+    "attack": {
+      "min": 3860,
+      "max": 5608
+    },
+    "magic_attack": {
+      "min": 2114,
+      "max": 3596
+    },
+    "defense": 384,
+    "magic_defense": 121,
+    "hit_100_percent": 513,
+    "flee_95_percent": 572,
+    "base_stats": {
+      "str": 171,
+      "agi": 103,
+      "vit": 63,
+      "int": 190,
+      "dex": 181,
+      "luk": 79
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 710,
+      "name": "幻想花",
+      "rate": 5.0,
+      "icon_url": "/images/items/710.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 35.0,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7203,
+      "name": "堅硬樹枝",
+      "rate": 30.0,
+      "icon_url": "/images/items/7203.gif"
+    },
+    {
+      "item_id": 300100,
+      "name": "格蘭帕皮利亞卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300100.gif"
+    }
+  ]
+}

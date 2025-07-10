@@ -1,0 +1,91 @@
+{
+  "id": 20928,
+  "name": {
+    "zh_tw": "變異救世主凱美拉",
+    "en": "CHIMERA_THEONE"
+  },
+  "image_url": "/images/monsters/20928.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 275042400,
+    "attack": {
+      "min": 12292,
+      "max": 18110
+    },
+    "magic_attack": {
+      "min": 2558,
+      "max": 4212
+    },
+    "defense": 654,
+    "magic_defense": 114,
+    "hit_100_percent": 726,
+    "flee_95_percent": 741,
+    "base_stats": {
+      "str": 415,
+      "agi": 244,
+      "vit": 221,
+      "int": 384,
+      "dex": 264,
+      "luk": 188
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "amicitia2",
+      "description": "- 廢棄研究所 阿米希提婭 二樓",
+      "spawn_info": "1x / 360~370 分鐘"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 994,
+      "name": "火靈原石",
+      "rate": 10.0,
+      "icon_url": "/images/items/994.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 10.0,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 996,
+      "name": "風靈原石",
+      "rate": 10.0,
+      "icon_url": "/images/items/996.gif"
+    },
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 10.0,
+      "icon_url": "/images/items/997.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 10.0,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 10.0,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300262,
+      "name": "The One Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300262.gif"
+    }
+  ]
+}

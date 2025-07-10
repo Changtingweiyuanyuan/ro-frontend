@@ -1,0 +1,97 @@
+{
+  "id": 20940,
+  "name": {
+    "zh_tw": "藍月魔女",
+    "en": "BLUEMOON_LOLI_RURI"
+  },
+  "image_url": "/images/monsters/20940.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 46338500,
+    "attack": {
+      "min": 8016,
+      "max": 11746
+    },
+    "magic_attack": {
+      "min": 1400,
+      "max": 2208
+    },
+    "defense": 457,
+    "magic_defense": 191,
+    "hit_100_percent": 701,
+    "flee_95_percent": 685,
+    "base_stats": {
+      "str": 301,
+      "agi": 205,
+      "vit": 187,
+      "int": 204,
+      "dex": 192,
+      "luk": 205
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun02",
+      "description": "- 尼芙菲姆密穴 - 崩塌的歌劇院",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 7019,
+      "name": "傲慢之像",
+      "rate": 0.02,
+      "icon_url": "/images/items/7019.gif"
+    },
+    {
+      "item_id": 7206,
+      "name": "黑貓娃娃",
+      "rate": 5.0,
+      "icon_url": "/images/items/7206.gif"
+    },
+    {
+      "item_id": 7214,
+      "name": "蝙蝠籠子",
+      "rate": 20.0,
+      "icon_url": "/images/items/7214.gif"
+    },
+    {
+      "item_id": 7219,
+      "name": "彩色襪子",
+      "rate": 24.0,
+      "icon_url": "/images/items/7219.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.25,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300245,
+      "name": "Blue Moon Loli Ruri Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300245.gif"
+    }
+  ]
+}

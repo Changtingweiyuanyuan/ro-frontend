@@ -1,0 +1,85 @@
+{
+  "id": 20666,
+  "name": {
+    "zh_tw": "韋爾波特 / 貝爾福特",
+    "en": "MD_VERPORTE_H"
+  },
+  "image_url": "/images/monsters/20666.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2390934,
+    "attack": {
+      "min": 3400,
+      "max": 4926
+    },
+    "magic_attack": {
+      "min": 1860,
+      "max": 3148
+    },
+    "defense": 600,
+    "magic_defense": 115,
+    "hit_100_percent": 574,
+    "flee_95_percent": 511,
+    "base_stats": {
+      "str": 164,
+      "agi": 168,
+      "vit": 138,
+      "int": 173,
+      "dex": 121,
+      "luk": 102
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 6246,
+      "name": "黃色粉末",
+      "rate": 2.5,
+      "icon_url": "/images/items/6246.gif"
+    },
+    {
+      "item_id": 7194,
+      "name": "柔軟的草葉",
+      "rate": 10.0,
+      "icon_url": "/images/items/7194.gif"
+    },
+    {
+      "item_id": 7326,
+      "name": "熒光色的液體",
+      "rate": 5.0,
+      "icon_url": "/images/items/7326.gif"
+    },
+    {
+      "item_id": 7565,
+      "name": "黏黏的毒液",
+      "rate": 10.0,
+      "icon_url": "/images/items/7565.gif"
+    },
+    {
+      "item_id": 300090,
+      "name": "韋爾波特卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300090.gif"
+    },
+    {
+      "item_id": 500008,
+      "name": "印祖迪亞纏線劍[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/500008.gif"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 20676,
+  "name": {
+    "zh_tw": "帕皮拉凱依",
+    "en": "MD_PAPILA_CAE2"
+  },
+  "image_url": "/images/monsters/20676.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 1270,
+      "max": 1796
+    },
+    "magic_attack": {
+      "min": 710,
+      "max": 1130
+    },
+    "defense": 360,
+    "magic_defense": 84,
+    "hit_100_percent": 434,
+    "flee_95_percent": 413,
+    "base_stats": {
+      "str": 70,
+      "agi": 70,
+      "vit": 70,
+      "int": 70,
+      "dex": 70,
+      "luk": 70
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
+  "drops": []
+}

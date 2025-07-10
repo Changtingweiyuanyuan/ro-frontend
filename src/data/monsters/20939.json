@@ -1,0 +1,97 @@
+{
+  "id": 20939,
+  "name": {
+    "zh_tw": "伽利略南瓜魂",
+    "en": "LUDE_GAL"
+  },
+  "image_url": "/images/monsters/20939.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 12840680,
+    "attack": {
+      "min": 6827,
+      "max": 9997
+    },
+    "magic_attack": {
+      "min": 1055,
+      "max": 1657
+    },
+    "defense": 410,
+    "magic_defense": 105,
+    "hit_100_percent": 610,
+    "flee_95_percent": 595,
+    "base_stats": {
+      "str": 274,
+      "agi": 171,
+      "vit": 168,
+      "int": 142,
+      "dex": 168,
+      "luk": 134
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun01",
+      "description": "- 尼芙菲姆密穴 - 亡者宴會廳",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 5.0,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 7220,
+      "name": "綠色粘稠物",
+      "rate": 20.0,
+      "icon_url": "/images/items/7220.gif"
+    },
+    {
+      "item_id": 7225,
+      "name": "南瓜燈籠",
+      "rate": 25.0,
+      "icon_url": "/images/items/7225.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.12,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.12,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300243,
+      "name": "Lude Gal Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300243.gif"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 20684,
+  "name": {
+    "zh_tw": "流浪魔法書",
+    "en": "EP17_2_ROAMING_SPLBOOK"
+  },
+  "image_url": "/images/monsters/20684.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 256849,
+    "attack": {
+      "min": 1838,
+      "max": 2630
+    },
+    "magic_attack": {
+      "min": 892,
+      "max": 1452
+    },
+    "defense": 258,
+    "magic_defense": 84,
+    "hit_100_percent": 504,
+    "flee_95_percent": 489,
+    "base_stats": {
+      "str": 110,
+      "agi": 147,
+      "vit": 38,
+      "int": 97,
+      "dex": 153,
+      "luk": 66
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_lib",
+      "description": "- 圖書館記憶迴廊",
+      "spawn_info": "70x / 5 秒"
+    },
+    {
+      "map_name": "ba_maison",
+      "description": "- 霸肋門德 大宅庭院",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 1006,
+      "name": "古魔法書",
+      "rate": 0.5,
+      "icon_url": "/images/items/1006.gif"
+    },
+    {
+      "item_id": 1097,
+      "name": "破舊書頁",
+      "rate": 24.25,
+      "icon_url": "/images/items/1097.gif"
+    },
+    {
+      "item_id": 6561,
+      "name": "塵埃",
+      "rate": 25.0,
+      "icon_url": "/images/items/6561.gif"
+    },
+    {
+      "item_id": 7015,
+      "name": "回憶書籤",
+      "rate": 3.5,
+      "icon_url": "/images/items/7015.gif"
+    },
+    {
+      "item_id": 300105,
+      "name": "流浪魔法書卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300105.gif"
+    },
+    {
+      "item_id": 540004,
+      "name": "斯洛夫技術圖書[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/540004.gif"
+    }
+  ]
+}

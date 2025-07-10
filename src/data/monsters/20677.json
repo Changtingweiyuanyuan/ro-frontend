@@ -1,0 +1,73 @@
+{
+  "id": 20677,
+  "name": {
+    "zh_tw": "艾裡厄斯",
+    "en": "MD_ARIES"
+  },
+  "image_url": "/images/monsters/20677.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 360702,
+    "attack": {
+      "min": 1565,
+      "max": 2231
+    },
+    "magic_attack": {
+      "min": 818,
+      "max": 1322
+    },
+    "defense": 356,
+    "magic_defense": 81,
+    "hit_100_percent": 453,
+    "flee_95_percent": 413,
+    "base_stats": {
+      "str": 95,
+      "agi": 107,
+      "vit": 72,
+      "int": 90,
+      "dex": 93,
+      "luk": 32
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 710,
+      "name": "幻想花",
+      "rate": 0.01,
+      "icon_url": "/images/items/710.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 2.5,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7168,
+      "name": "巨大翅膀",
+      "rate": 25.0,
+      "icon_url": "/images/items/7168.gif"
+    },
+    {
+      "item_id": 300097,
+      "name": "艾裡厄斯卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300097.gif"
+    }
+  ]
+}

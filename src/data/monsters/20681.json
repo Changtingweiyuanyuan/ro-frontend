@@ -1,0 +1,48 @@
+{
+  "id": 20681,
+  "name": {
+    "zh_tw": "邪心獵人偵察兵",
+    "en": "G_EP17_2_HEART_HUNTER"
+  },
+  "image_url": "/images/monsters/20681.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 180367,
+    "attack": {
+      "min": 1250,
+      "max": 1770
+    },
+    "magic_attack": {
+      "min": 603,
+      "max": 953
+    },
+    "defense": 334,
+    "magic_defense": 73,
+    "hit_100_percent": 458,
+    "flee_95_percent": 427,
+    "base_stats": {
+      "str": 80,
+      "agi": 113,
+      "vit": 68,
+      "int": 67,
+      "dex": 102,
+      "luk": 77
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@bamn",
+      "description": "- 暮光庭院",
+      "spawn_info": ""
+    }
+  ],
+  "drops": []
+}

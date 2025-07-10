@@ -1,0 +1,79 @@
+{
+  "id": 20690,
+  "name": {
+    "zh_tw": "釋放魔力",
+    "en": "EP17_2_PLASMA_Y"
+  },
+  "image_url": "/images/monsters/20690.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 291046,
+    "attack": {
+      "min": 1637,
+      "max": 2337
+    },
+    "magic_attack": {
+      "min": 1070,
+      "max": 1762
+    },
+    "defense": 180,
+    "magic_defense": 87,
+    "hit_100_percent": 479,
+    "flee_95_percent": 429,
+    "base_stats": {
+      "str": 97,
+      "agi": 120,
+      "vit": 12,
+      "int": 120,
+      "dex": 90,
+      "luk": 77
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw01",
+      "description": "- 第一魔力發電廠",
+      "spawn_info": "50x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 715,
+      "name": "黃色魔力礦石",
+      "rate": 2.0,
+      "icon_url": "/images/items/715.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 10.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 1.5,
+      "icon_url": "/images/items/7938.gif"
+    },
+    {
+      "item_id": 300113,
+      "name": "釋放魔力卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300113.gif"
+    },
+    {
+      "item_id": 640005,
+      "name": "普萊特斯通手杖[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/640005.gif"
+    }
+  ]
+}

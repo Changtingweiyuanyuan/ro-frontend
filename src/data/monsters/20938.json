@@ -1,0 +1,97 @@
+{
+  "id": 20938,
+  "name": {
+    "zh_tw": "幽靈魔方",
+    "en": "GHOST_CUBE"
+  },
+  "image_url": "/images/monsters/20938.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 12735150,
+    "attack": {
+      "min": 6978,
+      "max": 10224
+    },
+    "magic_attack": {
+      "min": 1096,
+      "max": 1716
+    },
+    "defense": 482,
+    "magic_defense": 114,
+    "hit_100_percent": 631,
+    "flee_95_percent": 616,
+    "base_stats": {
+      "str": 274,
+      "agi": 185,
+      "vit": 161,
+      "int": 161,
+      "dex": 177,
+      "luk": 169
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun01",
+      "description": "- 尼芙菲姆密穴 - 亡者宴會廳",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 6245,
+      "name": "黑色粉末",
+      "rate": 2.5,
+      "icon_url": "/images/items/6245.gif"
+    },
+    {
+      "item_id": 7205,
+      "name": "黑色布條",
+      "rate": 24.0,
+      "icon_url": "/images/items/7205.gif"
+    },
+    {
+      "item_id": 7220,
+      "name": "綠色粘稠物",
+      "rate": 20.0,
+      "icon_url": "/images/items/7220.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.12,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.12,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300242,
+      "name": "Ghost Cube Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300242.gif"
+    }
+  ]
+}

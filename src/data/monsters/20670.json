@@ -1,0 +1,91 @@
+{
+  "id": 20670,
+  "name": {
+    "zh_tw": "咪魘帕皮拉",
+    "en": "MD_PAPILA_H"
+  },
+  "image_url": "/images/monsters/20670.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2409593,
+    "attack": {
+      "min": 3297,
+      "max": 4773
+    },
+    "magic_attack": {
+      "min": 1781,
+      "max": 3007
+    },
+    "defense": 467,
+    "magic_defense": 114,
+    "hit_100_percent": 575,
+    "flee_95_percent": 515,
+    "base_stats": {
+      "str": 157,
+      "agi": 172,
+      "vit": 93,
+      "int": 163,
+      "dex": 132,
+      "luk": 76
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 712,
+      "name": "花",
+      "rate": 30.0,
+      "icon_url": "/images/items/712.gif"
+    },
+    {
+      "item_id": 924,
+      "name": "蝴蝶翅膀粉末",
+      "rate": 20.0,
+      "icon_url": "/images/items/924.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7163,
+      "name": "銳利的觸角",
+      "rate": 5.0,
+      "icon_url": "/images/items/7163.gif"
+    },
+    {
+      "item_id": 7168,
+      "name": "巨大翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/7168.gif"
+    },
+    {
+      "item_id": 300092,
+      "name": "咪魘帕皮拉卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300092.gif"
+    },
+    {
+      "item_id": 530002,
+      "name": "格雷特尼光矛[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/530002.gif"
+    }
+  ]
+}

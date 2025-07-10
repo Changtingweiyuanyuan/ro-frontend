@@ -1,0 +1,97 @@
+{
+  "id": 20806,
+  "name": {
+    "zh_tw": "深海賽杜拉",
+    "en": "ILL_SEDORA"
+  },
+  "image_url": "/images/monsters/20806.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2875143,
+    "attack": {
+      "min": 5690,
+      "max": 8320
+    },
+    "magic_attack": {
+      "min": 903,
+      "max": 1381
+    },
+    "defense": 274,
+    "magic_defense": 100,
+    "hit_100_percent": 558,
+    "flee_95_percent": 529,
+    "base_stats": {
+      "str": 232,
+      "agi": 147,
+      "vit": 78,
+      "int": 147,
+      "dex": 140,
+      "luk": 60
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d05_i",
+      "description": "- 幻影: 深淵海底洞穴 下層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 603,
+      "name": "神祕箱子",
+      "rate": 0.05,
+      "icon_url": "/images/items/603.gif"
+    },
+    {
+      "item_id": 962,
+      "name": "觸鬚",
+      "rate": 20.0,
+      "icon_url": "/images/items/962.gif"
+    },
+    {
+      "item_id": 991,
+      "name": "水靈礦石",
+      "rate": 0.2,
+      "icon_url": "/images/items/991.gif"
+    },
+    {
+      "item_id": 1024,
+      "name": "墨汁",
+      "rate": 10.0,
+      "icon_url": "/images/items/1024.gif"
+    },
+    {
+      "item_id": 1913,
+      "name": "電子吉他",
+      "rate": 0.05,
+      "icon_url": "/images/items/1913.gif"
+    },
+    {
+      "item_id": 25892,
+      "name": "Deep Sea Shell",
+      "rate": 25.0,
+      "icon_url": "/images/items/25892.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300146,
+      "name": "Deep Sea Sedora Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300146.gif"
+    }
+  ]
+}

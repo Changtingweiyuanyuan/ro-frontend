@@ -1,0 +1,85 @@
+{
+  "id": 20691,
+  "name": {
+    "zh_tw": "魔癮普拉加",
+    "en": "EP17_2_PLAGA3"
+  },
+  "image_url": "/images/monsters/20691.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2946697,
+    "attack": {
+      "min": 4252,
+      "max": 6182
+    },
+    "magic_attack": {
+      "min": 1715,
+      "max": 2891
+    },
+    "defense": 462,
+    "magic_defense": 115,
+    "hit_100_percent": 589,
+    "flee_95_percent": 582,
+    "base_stats": {
+      "str": 201,
+      "agi": 177,
+      "vit": 90,
+      "int": 153,
+      "dex": 186,
+      "luk": 103
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw03",
+      "description": "- 第二魔力發電廠",
+      "spawn_info": "80x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 7123,
+      "name": "龍皮",
+      "rate": 10.0,
+      "icon_url": "/images/items/7123.gif"
+    },
+    {
+      "item_id": 7326,
+      "name": "熒光色的液體",
+      "rate": 2.5,
+      "icon_url": "/images/items/7326.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300114,
+      "name": "魔癮普拉加卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300114.gif"
+    },
+    {
+      "item_id": 820000,
+      "name": "羅斯特霰彈槍[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/820000.gif"
+    }
+  ]
+}

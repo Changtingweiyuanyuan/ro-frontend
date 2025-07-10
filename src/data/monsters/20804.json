@@ -1,0 +1,97 @@
+{
+  "id": 20804,
+  "name": {
+    "zh_tw": "深海烏賊",
+    "en": "ILL_MARSE"
+  },
+  "image_url": "/images/monsters/20804.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 335141,
+    "attack": {
+      "min": 2588,
+      "max": 3730
+    },
+    "magic_attack": {
+      "min": 530,
+      "max": 782
+    },
+    "defense": 288,
+    "magic_defense": 100,
+    "hit_100_percent": 421,
+    "flee_95_percent": 459,
+    "base_stats": {
+      "str": 159,
+      "agi": 60,
+      "vit": 135,
+      "int": 90,
+      "dex": 120,
+      "luk": 60
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d04_i",
+      "description": "- 幻影: 深淵海底洞穴 上層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 0.05,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 962,
+      "name": "觸鬚",
+      "rate": 10.0,
+      "icon_url": "/images/items/962.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.06,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 1024,
+      "name": "墨汁",
+      "rate": 25.0,
+      "icon_url": "/images/items/1024.gif"
+    },
+    {
+      "item_id": 2346,
+      "name": "水鱗盔甲",
+      "rate": 0.1,
+      "icon_url": "/images/items/2346.gif"
+    },
+    {
+      "item_id": 25895,
+      "name": "Deep Sea Starfish",
+      "rate": 10.0,
+      "icon_url": "/images/items/25895.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300143,
+      "name": "Deep Sea Marse Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300143.gif"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": 20924,
+  "name": {
+    "zh_tw": "變異阿米特拉凱美拉",
+    "en": "CHIMERA_AMITERA"
+  },
+  "image_url": "/images/monsters/20924.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 27974600,
+    "attack": {
+      "min": 6985,
+      "max": 10227
+    },
+    "magic_attack": {
+      "min": 1034,
+      "max": 1624
+    },
+    "defense": 345,
+    "magic_defense": 101,
+    "hit_100_percent": 643,
+    "flee_95_percent": 620,
+    "base_stats": {
+      "str": 277,
+      "agi": 188,
+      "vit": 124,
+      "int": 121,
+      "dex": 177,
+      "luk": 140
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "amicitia1",
+      "description": "- 廢棄研究所 阿米希提婭 一樓",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 711,
+      "name": "芽苗",
+      "rate": 3.0,
+      "icon_url": "/images/items/711.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 16.0,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 949,
+      "name": "柔毛",
+      "rate": 24.0,
+      "icon_url": "/images/items/949.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.15,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.15,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300254,
+      "name": "Amitera Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300254.gif"
+    }
+  ]
+}

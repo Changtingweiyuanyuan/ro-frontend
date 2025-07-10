@@ -1,0 +1,79 @@
+{
+  "id": 20667,
+  "name": {
+    "zh_tw": "席瓦帕皮利亞",
+    "en": "MD_SILVA_PAPILIA"
+  },
+  "image_url": "/images/monsters/20667.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 7375012,
+    "attack": {
+      "min": 1385,
+      "max": 1965
+    },
+    "magic_attack": {
+      "min": 1216,
+      "max": 2018
+    },
+    "defense": 241,
+    "magic_defense": 90,
+    "hit_100_percent": 450,
+    "flee_95_percent": 453,
+    "base_stats": {
+      "str": 80,
+      "agi": 90,
+      "vit": 32,
+      "int": 138,
+      "dex": 112,
+      "luk": 79
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 710,
+      "name": "幻想花",
+      "rate": 5.0,
+      "icon_url": "/images/items/710.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 35.0,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7203,
+      "name": "堅硬樹枝",
+      "rate": 30.0,
+      "icon_url": "/images/items/7203.gif"
+    },
+    {
+      "item_id": 300099,
+      "name": "席瓦帕皮利亞卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300099.gif"
+    }
+  ]
+}

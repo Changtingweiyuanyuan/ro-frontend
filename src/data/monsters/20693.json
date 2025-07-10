@@ -1,0 +1,85 @@
+{
+  "id": 20693,
+  "name": {
+    "zh_tw": "強大魔力",
+    "en": "EP17_2_PLASMA_R"
+  },
+  "image_url": "/images/monsters/20693.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2961272,
+    "attack": {
+      "min": 3786,
+      "max": 5494
+    },
+    "magic_attack": {
+      "min": 2154,
+      "max": 3668
+    },
+    "defense": 445,
+    "magic_defense": 121,
+    "hit_100_percent": 608,
+    "flee_95_percent": 556,
+    "base_stats": {
+      "str": 177,
+      "agi": 201,
+      "vit": 84,
+      "int": 196,
+      "dex": 170,
+      "luk": 70
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw03",
+      "description": "- 第二魔力發電廠",
+      "spawn_info": "70x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 715,
+      "name": "黃色魔力礦石",
+      "rate": 2.0,
+      "icon_url": "/images/items/715.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 10.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300116,
+      "name": "強大魔力卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300116.gif"
+    },
+    {
+      "item_id": 570005,
+      "name": "普里格蒂亞電吉他[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/570005.gif"
+    }
+  ]
+}

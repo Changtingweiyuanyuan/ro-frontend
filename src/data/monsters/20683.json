@@ -1,0 +1,96 @@
+{
+  "id": 20683,
+  "name": {
+    "zh_tw": "書蟲",
+    "en": "EP17_2_BOOKWORM"
+  },
+  "image_url": "/images/monsters/20683.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 250264,
+    "attack": {
+      "min": 1696,
+      "max": 2422
+    },
+    "magic_attack": {
+      "min": 830,
+      "max": 1344
+    },
+    "defense": 210,
+    "magic_defense": 82,
+    "hit_100_percent": 431,
+    "flee_95_percent": 420,
+    "base_stats": {
+      "str": 103,
+      "agi": 89,
+      "vit": 23,
+      "int": 91,
+      "dex": 107,
+      "luk": 7
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_lib",
+      "description": "- 圖書館記憶迴廊",
+      "spawn_info": "80x / 5 秒"
+    },
+    {
+      "map_name": "ba_maison",
+      "description": "- 霸肋門德 大宅庭院",
+      "spawn_info": "2x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 10.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 5.0,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 1013,
+      "name": "彩色昆蟲外殼",
+      "rate": 5.0,
+      "icon_url": "/images/items/1013.gif"
+    },
+    {
+      "item_id": 7316,
+      "name": "昆蟲的長腿",
+      "rate": 22.5,
+      "icon_url": "/images/items/7316.gif"
+    },
+    {
+      "item_id": 7326,
+      "name": "熒光色的液體",
+      "rate": 5.0,
+      "icon_url": "/images/items/7326.gif"
+    },
+    {
+      "item_id": 300104,
+      "name": "書蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300104.gif"
+    },
+    {
+      "item_id": 540005,
+      "name": "斯洛夫聖書[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/540005.gif"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": 20805,
+  "name": {
+    "zh_tw": "深海人魚士兵",
+    "en": "ILL_MERMAN"
+  },
+  "image_url": "/images/monsters/20805.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 337534,
+    "attack": {
+      "min": 2547,
+      "max": 3669
+    },
+    "magic_attack": {
+      "min": 502,
+      "max": 744
+    },
+    "defense": 268,
+    "magic_defense": 75,
+    "hit_100_percent": 417,
+    "flee_95_percent": 444,
+    "base_stats": {
+      "str": 159,
+      "agi": 60,
+      "vit": 134,
+      "int": 74,
+      "dex": 110,
+      "luk": 48
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d04_i",
+      "description": "- 幻影: 深淵海底洞穴 上層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 607,
+      "name": "天地樹果實",
+      "rate": 0.8,
+      "icon_url": "/images/items/607.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 1.0,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 1054,
+      "name": "人魚嘴巴",
+      "rate": 10.0,
+      "icon_url": "/images/items/1054.gif"
+    },
+    {
+      "item_id": 1468,
+      "name": "風靈之矛",
+      "rate": 0.05,
+      "icon_url": "/images/items/1468.gif"
+    },
+    {
+      "item_id": 25896,
+      "name": "Deep Sea Crab",
+      "rate": 10.0,
+      "icon_url": "/images/items/25896.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300144,
+      "name": "Deep Sea Merman Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300144.gif"
+    }
+  ]
+}

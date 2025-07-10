@@ -1,0 +1,97 @@
+{
+  "id": 20922,
+  "name": {
+    "zh_tw": "變異納佩奧凱美拉",
+    "en": "CHIMERA_NAPEO"
+  },
+  "image_url": "/images/monsters/20922.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 30324840,
+    "attack": {
+      "min": 7771,
+      "max": 11385
+    },
+    "magic_attack": {
+      "min": 1204,
+      "max": 1906
+    },
+    "defense": 511,
+    "magic_defense": 144,
+    "hit_100_percent": 632,
+    "flee_95_percent": 640,
+    "base_stats": {
+      "str": 301,
+      "agi": 147,
+      "vit": 166,
+      "int": 141,
+      "dex": 157,
+      "luk": 207
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "amicitia2",
+      "description": "- 廢棄研究所 阿米希提婭 二樓",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 928,
+      "name": "昆蟲觸角",
+      "rate": 20.0,
+      "icon_url": "/images/items/928.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/992.gif"
+    },
+    {
+      "item_id": 996,
+      "name": "風靈原石",
+      "rate": 0.5,
+      "icon_url": "/images/items/996.gif"
+    },
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 16.0,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.2,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300260,
+      "name": "Napeo Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300260.gif"
+    }
+  ]
+}

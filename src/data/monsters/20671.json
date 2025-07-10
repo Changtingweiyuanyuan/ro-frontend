@@ -1,0 +1,85 @@
+{
+  "id": 20671,
+  "name": {
+    "zh_tw": "帕皮拉盧巴",
+    "en": "MD_PAPILA_RUBA"
+  },
+  "image_url": "/images/monsters/20671.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 240372,
+    "attack": {
+      "min": 1420,
+      "max": 2018
+    },
+    "magic_attack": {
+      "min": 707,
+      "max": 1131
+    },
+    "defense": 325,
+    "magic_defense": 79,
+    "hit_100_percent": 469,
+    "flee_95_percent": 441,
+    "base_stats": {
+      "str": 86,
+      "agi": 113,
+      "vit": 62,
+      "int": 76,
+      "dex": 104,
+      "luk": 86
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 924,
+      "name": "蝴蝶翅膀粉末",
+      "rate": 20.0,
+      "icon_url": "/images/items/924.gif"
+    },
+    {
+      "item_id": 6086,
+      "name": "凋謝的花",
+      "rate": 5.0,
+      "icon_url": "/images/items/6086.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7163,
+      "name": "銳利的觸角",
+      "rate": 5.0,
+      "icon_url": "/images/items/7163.gif"
+    },
+    {
+      "item_id": 7168,
+      "name": "巨大翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/7168.gif"
+    },
+    {
+      "item_id": 300093,
+      "name": "帕皮拉盧巴卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300093.gif"
+    }
+  ]
+}

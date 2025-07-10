@@ -1,0 +1,91 @@
+{
+  "id": 20935,
+  "name": {
+    "zh_tw": "甘坎",
+    "en": "GAN_CEANN"
+  },
+  "image_url": "/images/monsters/20935.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 11785610,
+    "attack": {
+      "min": 6853,
+      "max": 10035
+    },
+    "magic_attack": {
+      "min": 981,
+      "max": 1535
+    },
+    "defense": 380,
+    "magic_defense": 99,
+    "hit_100_percent": 605,
+    "flee_95_percent": 604,
+    "base_stats": {
+      "str": 278,
+      "agi": 166,
+      "vit": 121,
+      "int": 121,
+      "dex": 178,
+      "luk": 123
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun01",
+      "description": "- 尼芙菲姆密穴 - 亡者宴會廳",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 7069,
+      "name": "破裂的盔甲一角",
+      "rate": 24.0,
+      "icon_url": "/images/items/7069.gif"
+    },
+    {
+      "item_id": 7095,
+      "name": "金屬破片",
+      "rate": 16.0,
+      "icon_url": "/images/items/7095.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.12,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.12,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300240,
+      "name": "Gan Ceann Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300240.gif"
+    }
+  ]
+}

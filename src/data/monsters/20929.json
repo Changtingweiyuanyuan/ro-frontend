@@ -1,0 +1,97 @@
+{
+  "id": 20929,
+  "name": {
+    "zh_tw": "巨人卡夫特",
+    "en": "GIANT_CAPUT"
+  },
+  "image_url": "/images/monsters/20929.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 12405430,
+    "attack": {
+      "min": 6178,
+      "max": 9032
+    },
+    "magic_attack": {
+      "min": 944,
+      "max": 1482
+    },
+    "defense": 288,
+    "magic_defense": 125,
+    "hit_100_percent": 606,
+    "flee_95_percent": 609,
+    "base_stats": {
+      "str": 257,
+      "agi": 159,
+      "vit": 106,
+      "int": 106,
+      "dex": 170,
+      "luk": 170
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "sp_rudus4",
+      "description": "- 實驗體廢棄場 魯杜斯 4層",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 1044,
+      "name": "茲諾克之牙",
+      "rate": 16.0,
+      "icon_url": "/images/items/1044.gif"
+    },
+    {
+      "item_id": 1050,
+      "name": "血管",
+      "rate": 20.0,
+      "icon_url": "/images/items/1050.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 20.0,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 7511,
+      "name": "黑暗的輪",
+      "rate": 20.0,
+      "icon_url": "/images/items/7511.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.12,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300249,
+      "name": "Giant Caput Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300249.gif"
+    }
+  ]
+}

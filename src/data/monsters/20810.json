@@ -1,0 +1,91 @@
+{
+  "id": 20810,
+  "name": {
+    "zh_tw": "深海大腳龍蝦",
+    "en": "ILL_KING_DRAMOH"
+  },
+  "image_url": "/images/monsters/20810.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3115698,
+    "attack": {
+      "min": 5263,
+      "max": 7697
+    },
+    "magic_attack": {
+      "min": 899,
+      "max": 1409
+    },
+    "defense": 330,
+    "magic_defense": 40,
+    "hit_100_percent": 572,
+    "flee_95_percent": 543,
+    "base_stats": {
+      "str": 194,
+      "agi": 151,
+      "vit": 150,
+      "int": 100,
+      "dex": 142,
+      "luk": 80
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d05_i",
+      "description": "- 幻影: 深淵海底洞穴 下層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 15.0,
+      "icon_url": "/images/items/943.gif"
+    },
+    {
+      "item_id": 960,
+      "name": "鉗子",
+      "rate": 15.0,
+      "icon_url": "/images/items/960.gif"
+    },
+    {
+      "item_id": 1186,
+      "name": "死亡引導者[2]",
+      "rate": 0.5,
+      "icon_url": "/images/items/1186.gif"
+    },
+    {
+      "item_id": 2650,
+      "name": "茉莉雅娜腰帶",
+      "rate": 0.5,
+      "icon_url": "/images/items/2650.gif"
+    },
+    {
+      "item_id": 25896,
+      "name": "Deep Sea Crab",
+      "rate": 25.0,
+      "icon_url": "/images/items/25896.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300150,
+      "name": "Deep Sea King Dramoh Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300150.gif"
+    }
+  ]
+}

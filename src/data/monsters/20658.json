@@ -1,0 +1,48 @@
+{
+  "id": 20658,
+  "name": {
+    "zh_tw": "綠肉食人火龍果",
+    "en": "G_PITAYA_G"
+  },
+  "image_url": "/images/monsters/20658.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 165105,
+    "attack": {
+      "min": 1566,
+      "max": 2234
+    },
+    "magic_attack": {
+      "min": 789,
+      "max": 1275
+    },
+    "defense": 340,
+    "magic_defense": 91,
+    "hit_100_percent": 457,
+    "flee_95_percent": 439,
+    "base_stats": {
+      "str": 98,
+      "agi": 108,
+      "vit": 68,
+      "int": 89,
+      "dex": 111,
+      "luk": 67
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@lost",
+      "description": "- 被時間遺忘的飼養場",
+      "spawn_info": ""
+    }
+  ],
+  "drops": []
+}

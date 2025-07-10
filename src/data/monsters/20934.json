@@ -1,0 +1,79 @@
+{
+  "id": 20934,
+  "name": {
+    "zh_tw": "R001-貝斯蒂亞",
+    "en": "R001_BESTIA"
+  },
+  "image_url": "/images/monsters/20934.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 134179630,
+    "attack": {
+      "min": 10858,
+      "max": 16008
+    },
+    "magic_attack": {
+      "min": 2086,
+      "max": 3400
+    },
+    "defense": 540,
+    "magic_defense": 140,
+    "hit_100_percent": 561,
+    "flee_95_percent": 588,
+    "base_stats": {
+      "str": 347,
+      "agi": 124,
+      "vit": 259,
+      "int": 341,
+      "dex": 167,
+      "luk": 110
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "sp_rudus4",
+      "description": "- 實驗體廢棄場 魯杜斯 4層",
+      "spawn_info": "1x / 360~370 分鐘"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 617,
+      "name": "神祕紫箱",
+      "rate": 40.0,
+      "icon_url": "/images/items/617.gif"
+    },
+    {
+      "item_id": 7450,
+      "name": "骨制盔甲的碎片",
+      "rate": 40.0,
+      "icon_url": "/images/items/7450.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 40.0,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 40.0,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300281,
+      "name": "R001-Bestia Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300281.gif"
+    }
+  ]
+}

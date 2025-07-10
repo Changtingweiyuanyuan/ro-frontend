@@ -1,0 +1,91 @@
+{
+  "id": 20675,
+  "name": {
+    "zh_tw": "咪魘帕皮拉凱依",
+    "en": "MD_PAPILA_CAE_H"
+  },
+  "image_url": "/images/monsters/20675.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2405191,
+    "attack": {
+      "min": 3181,
+      "max": 4603
+    },
+    "magic_attack": {
+      "min": 1820,
+      "max": 3078
+    },
+    "defense": 628,
+    "magic_defense": 115,
+    "hit_100_percent": 581,
+    "flee_95_percent": 563,
+    "base_stats": {
+      "str": 152,
+      "agi": 181,
+      "vit": 147,
+      "int": 168,
+      "dex": 184,
+      "luk": 67
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 924,
+      "name": "蝴蝶翅膀粉末",
+      "rate": 20.0,
+      "icon_url": "/images/items/924.gif"
+    },
+    {
+      "item_id": 6086,
+      "name": "凋謝的花",
+      "rate": 5.0,
+      "icon_url": "/images/items/6086.gif"
+    },
+    {
+      "item_id": 6557,
+      "name": "絢麗精靈翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/6557.gif"
+    },
+    {
+      "item_id": 7163,
+      "name": "銳利的觸角",
+      "rate": 5.0,
+      "icon_url": "/images/items/7163.gif"
+    },
+    {
+      "item_id": 7168,
+      "name": "巨大翅膀",
+      "rate": 15.0,
+      "icon_url": "/images/items/7168.gif"
+    },
+    {
+      "item_id": 300096,
+      "name": "咪魘帕皮拉凱依卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300096.gif"
+    },
+    {
+      "item_id": 630003,
+      "name": "盧克蘇里亞長矛[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/630003.gif"
+    }
+  ]
+}

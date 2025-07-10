@@ -1,0 +1,48 @@
+{
+  "id": 21071,
+  "name": {
+    "zh_tw": "測試用魔物",
+    "en": "昆蟲"
+  },
+  "image_url": "/images/monsters/21071.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "昆蟲",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2000000000,
+    "attack": {
+      "min": 109,
+      "max": 113
+    },
+    "magic_attack": {
+      "min": 108,
+      "max": 114
+    },
+    "defense": 0,
+    "magic_defense": 0,
+    "hit_100_percent": 301,
+    "flee_95_percent": 271,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "tra_fild",
+      "description": "- 普隆德拉外圍訓練場",
+      "spawn_info": ""
+    }
+  ],
+  "drops": []
+}

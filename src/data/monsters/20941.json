@@ -1,0 +1,97 @@
+{
+  "id": 20941,
+  "name": {
+    "zh_tw": "格羅特",
+    "en": "GROTE"
+  },
+  "image_url": "/images/monsters/20941.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "惡魔",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 47842600,
+    "attack": {
+      "min": 8047,
+      "max": 11789
+    },
+    "magic_attack": {
+      "min": 1298,
+      "max": 2090
+    },
+    "defense": 456,
+    "magic_defense": 117,
+    "hit_100_percent": 701,
+    "flee_95_percent": 691,
+    "base_stats": {
+      "str": 311,
+      "agi": 207,
+      "vit": 187,
+      "int": 121,
+      "dex": 199,
+      "luk": 207
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun02",
+      "description": "- 尼芙菲姆密穴 - 崩塌的歌劇院",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 0.05,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 7212,
+      "name": "吊頸娃娃",
+      "rate": 10.0,
+      "icon_url": "/images/items/7212.gif"
+    },
+    {
+      "item_id": 7218,
+      "name": "腐爛的繩子",
+      "rate": 25.0,
+      "icon_url": "/images/items/7218.gif"
+    },
+    {
+      "item_id": 7222,
+      "name": "原木塊",
+      "rate": 20.0,
+      "icon_url": "/images/items/7222.gif"
+    },
+    {
+      "item_id": 12103,
+      "name": "血跡樹枝",
+      "rate": 0.02,
+      "icon_url": "/images/items/12103.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.25,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.25,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300246,
+      "name": "Grote Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300246.gif"
+    }
+  ]
+}

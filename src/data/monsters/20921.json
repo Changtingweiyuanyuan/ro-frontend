@@ -1,0 +1,97 @@
+{
+  "id": 20921,
+  "name": {
+    "zh_tw": "變異獨角光輝凱美拉",
+    "en": "CHIMERA_FULGOR"
+  },
+  "image_url": "/images/monsters/20921.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 36820210,
+    "attack": {
+      "min": 7765,
+      "max": 11375
+    },
+    "magic_attack": {
+      "min": 1219,
+      "max": 1939
+    },
+    "defense": 511,
+    "magic_defense": 142,
+    "hit_100_percent": 667,
+    "flee_95_percent": 633,
+    "base_stats": {
+      "str": 303,
+      "agi": 201,
+      "vit": 137,
+      "int": 138,
+      "dex": 181,
+      "luk": 114
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "amicitia2",
+      "description": "- 廢棄研究所 阿米希提婭 二樓",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 10.0,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 947,
+      "name": "硬角",
+      "rate": 21.0,
+      "icon_url": "/images/items/947.gif"
+    },
+    {
+      "item_id": 991,
+      "name": "水靈礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/991.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.5,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.2,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300259,
+      "name": "Fulgor Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300259.gif"
+    }
+  ]
+}

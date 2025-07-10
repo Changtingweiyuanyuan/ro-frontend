@@ -1,0 +1,97 @@
+{
+  "id": 20937,
+  "name": {
+    "zh_tw": "殘忍殺手",
+    "en": "BRUTAL_MURDERER"
+  },
+  "image_url": "/images/monsters/20937.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 13909270,
+    "attack": {
+      "min": 6999,
+      "max": 10253
+    },
+    "magic_attack": {
+      "min": 1046,
+      "max": 1646
+    },
+    "defense": 470,
+    "magic_defense": 80,
+    "hit_100_percent": 614,
+    "flee_95_percent": 558,
+    "base_stats": {
+      "str": 277,
+      "agi": 174,
+      "vit": 175,
+      "int": 134,
+      "dex": 131,
+      "luk": 130
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "nif_dun01",
+      "description": "- 尼芙菲姆密穴 - 亡者宴會廳",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 2288,
+      "name": "整人面具",
+      "rate": 0.2,
+      "icon_url": "/images/items/2288.gif"
+    },
+    {
+      "item_id": 7207,
+      "name": "舊斗篷",
+      "rate": 24.0,
+      "icon_url": "/images/items/7207.gif"
+    },
+    {
+      "item_id": 7208,
+      "name": "生鏽廚刀",
+      "rate": 16.0,
+      "icon_url": "/images/items/7208.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.12,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.12,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300241,
+      "name": "Brutal Murderer Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300241.gif"
+    }
+  ]
+}

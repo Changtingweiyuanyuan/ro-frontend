@@ -1,0 +1,90 @@
+{
+  "id": 20688,
+  "name": {
+    "zh_tw": "精英貝拉雷",
+    "en": "EP17_2_BELLARE3"
+  },
+  "image_url": "/images/monsters/20688.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 295508,
+    "attack": {
+      "min": 1795,
+      "max": 2569
+    },
+    "magic_attack": {
+      "min": 664,
+      "max": 1054
+    },
+    "defense": 383,
+    "magic_defense": 80,
+    "hit_100_percent": 480,
+    "flee_95_percent": 452,
+    "base_stats": {
+      "str": 108,
+      "agi": 121,
+      "vit": 80,
+      "int": 68,
+      "dex": 113,
+      "luk": 80
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw01",
+      "description": "- 第一魔力發電廠",
+      "spawn_info": "90x / 5 秒"
+    },
+    {
+      "map_name": "ba_pw02",
+      "description": "- 汙水處理廠",
+      "spawn_info": "60x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 6213,
+      "name": "炸彈粉末",
+      "rate": 0.3,
+      "icon_url": "/images/items/6213.gif"
+    },
+    {
+      "item_id": 25159,
+      "name": "邪心獵人之印",
+      "rate": 12.5,
+      "icon_url": "/images/items/25159.gif"
+    },
+    {
+      "item_id": 300111,
+      "name": "精英貝拉雷卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300111.gif"
+    },
+    {
+      "item_id": 810000,
+      "name": "羅斯特來復槍[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/810000.gif"
+    },
+    {
+      "item_id": 820000,
+      "name": "羅斯特霰彈槍[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/820000.gif"
+    }
+  ]
+}

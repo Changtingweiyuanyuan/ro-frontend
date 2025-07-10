@@ -1,0 +1,91 @@
+{
+  "id": 20933,
+  "name": {
+    "zh_tw": "貝內迪",
+    "en": "VENEDI"
+  },
+  "image_url": "/images/monsters/20933.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 11790680,
+    "attack": {
+      "min": 6166,
+      "max": 9016
+    },
+    "magic_attack": {
+      "min": 951,
+      "max": 1499
+    },
+    "defense": 207,
+    "magic_defense": 110,
+    "hit_100_percent": 603,
+    "flee_95_percent": 587,
+    "base_stats": {
+      "str": 256,
+      "agi": 167,
+      "vit": 115,
+      "int": 101,
+      "dex": 165,
+      "luk": 117
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "sp_rudus4",
+      "description": "- 實驗體廢棄場 魯杜斯 4層",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 24.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 7565,
+      "name": "黏黏的毒液",
+      "rate": 24.0,
+      "icon_url": "/images/items/7565.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.12,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.12,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300253,
+      "name": "Venedi Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300253.gif"
+    }
+  ]
+}

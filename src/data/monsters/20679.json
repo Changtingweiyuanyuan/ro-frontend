@@ -1,0 +1,58 @@
+{
+  "id": 20679,
+  "name": {
+    "zh_tw": "守護者零件",
+    "en": "EP17_2_GUARDIAN_PARTS"
+  },
+  "image_url": "/images/monsters/20679.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 20,
+    "attack": {
+      "min": 131,
+      "max": 133
+    },
+    "magic_attack": {
+      "min": 131,
+      "max": 133
+    },
+    "defense": 1,
+    "magic_defense": 1,
+    "hit_100_percent": 331,
+    "flee_95_percent": 301,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "1@herbs",
+      "description": "- 祕密花園",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@herbs(hard)",
+      "description": "- 祕密花園 - 噩咪模式",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ba_maison",
+      "description": "- 霸肋門德 大宅庭院",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
+  "drops": []
+}

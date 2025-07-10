@@ -1,0 +1,97 @@
+{
+  "id": 20808,
+  "name": {
+    "zh_tw": "深海海神",
+    "en": "ILL_STROUF"
+  },
+  "image_url": "/images/monsters/20808.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2967419,
+    "attack": {
+      "min": 5182,
+      "max": 7562
+    },
+    "magic_attack": {
+      "min": 893,
+      "max": 1381
+    },
+    "defense": 277,
+    "magic_defense": 80,
+    "hit_100_percent": 573,
+    "flee_95_percent": 553,
+    "base_stats": {
+      "str": 224,
+      "agi": 160,
+      "vit": 99,
+      "int": 125,
+      "dex": 161,
+      "luk": 64
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "iz_d05_i",
+      "description": "- 幻影: 深淵海底洞穴 下層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 720,
+      "name": "天藍寶石",
+      "rate": 0.1,
+      "icon_url": "/images/items/720.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.1,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 951,
+      "name": "背鰭",
+      "rate": 20.0,
+      "icon_url": "/images/items/951.gif"
+    },
+    {
+      "item_id": 995,
+      "name": "水靈原石",
+      "rate": 0.2,
+      "icon_url": "/images/items/995.gif"
+    },
+    {
+      "item_id": 1470,
+      "name": "聖光之戟",
+      "rate": 0.5,
+      "icon_url": "/images/items/1470.gif"
+    },
+    {
+      "item_id": 25895,
+      "name": "Deep Sea Starfish",
+      "rate": 25.0,
+      "icon_url": "/images/items/25895.gif"
+    },
+    {
+      "item_id": 25899,
+      "name": "Abyssal Essence",
+      "rate": 2.5,
+      "icon_url": "/images/items/25899.gif"
+    },
+    {
+      "item_id": 300148,
+      "name": "Deep Sea Strouf Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300148.gif"
+    }
+  ]
+}

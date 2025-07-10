@@ -1,0 +1,79 @@
+{
+  "id": 20687,
+  "name": {
+    "zh_tw": "下水道瀑布",
+    "en": "EP17_2_WATERFALL"
+  },
+  "image_url": "/images/monsters/20687.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "無形",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 287897,
+    "attack": {
+      "min": 1575,
+      "max": 2245
+    },
+    "magic_attack": {
+      "min": 906,
+      "max": 1476
+    },
+    "defense": 270,
+    "magic_defense": 83,
+    "hit_100_percent": 461,
+    "flee_95_percent": 423,
+    "base_stats": {
+      "str": 95,
+      "agi": 111,
+      "vit": 43,
+      "int": 101,
+      "dex": 96,
+      "luk": 48
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw02",
+      "description": "- 汙水處理廠",
+      "spawn_info": "60x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 1003,
+      "name": "煤礦",
+      "rate": 0.65,
+      "icon_url": "/images/items/1003.gif"
+    },
+    {
+      "item_id": 7004,
+      "name": "泥團",
+      "rate": 24.25,
+      "icon_url": "/images/items/7004.gif"
+    },
+    {
+      "item_id": 7565,
+      "name": "黏黏的毒液",
+      "rate": 10.0,
+      "icon_url": "/images/items/7565.gif"
+    },
+    {
+      "item_id": 300110,
+      "name": "下水道瀑布卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300110.gif"
+    },
+    {
+      "item_id": 610006,
+      "name": "阿瓦裡提亞拳刃[2]",
+      "rate": 0.03,
+      "icon_url": "/images/items/610006.gif"
+    }
+  ]
+}

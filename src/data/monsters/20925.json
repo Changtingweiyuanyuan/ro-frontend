@@ -1,0 +1,97 @@
+{
+  "id": 20925,
+  "name": {
+    "zh_tw": "變異利圖斯凱美拉",
+    "en": "CHIMERA_LITUS"
+  },
+  "image_url": "/images/monsters/20925.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23160350,
+    "attack": {
+      "min": 7005,
+      "max": 10257
+    },
+    "magic_attack": {
+      "min": 1045,
+      "max": 1639
+    },
+    "defense": 421,
+    "magic_defense": 125,
+    "hit_100_percent": 657,
+    "flee_95_percent": 629,
+    "base_stats": {
+      "str": 277,
+      "agi": 199,
+      "vit": 127,
+      "int": 126,
+      "dex": 181,
+      "luk": 150
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "amicitia1",
+      "description": "- 廢棄研究所 阿米希提婭 一樓",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 10.0,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 7067,
+      "name": "石頭一角",
+      "rate": 16.0,
+      "icon_url": "/images/items/7067.gif"
+    },
+    {
+      "item_id": 7194,
+      "name": "柔軟的草葉",
+      "rate": 24.0,
+      "icon_url": "/images/items/7194.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.15,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.15,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300255,
+      "name": "Litus Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300255.gif"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": 20926,
+  "name": {
+    "zh_tw": "變異菲利凱美拉",
+    "en": "CHIMERA_FILLIA"
+  },
+  "image_url": "/images/monsters/20926.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23252650,
+    "attack": {
+      "min": 7174,
+      "max": 10504
+    },
+    "magic_attack": {
+      "min": 1049,
+      "max": 1643
+    },
+    "defense": 486,
+    "magic_defense": 130,
+    "hit_100_percent": 651,
+    "flee_95_percent": 629,
+    "base_stats": {
+      "str": 288,
+      "agi": 190,
+      "vit": 127,
+      "int": 127,
+      "dex": 177,
+      "luk": 161
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "amicitia1",
+      "description": "- 廢棄研究所 阿米希提婭 一樓",
+      "spawn_info": ""
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 916,
+      "name": "羽毛",
+      "rate": 25.0,
+      "icon_url": "/images/items/916.gif"
+    },
+    {
+      "item_id": 990,
+      "name": "火靈礦石",
+      "rate": 3.0,
+      "icon_url": "/images/items/990.gif"
+    },
+    {
+      "item_id": 7097,
+      "name": "燃燒的心臟",
+      "rate": 3.0,
+      "icon_url": "/images/items/7097.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25729,
+      "name": "影子神祕金屬",
+      "rate": 0.15,
+      "icon_url": "/images/items/25729.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 25731,
+      "name": "鍺金石",
+      "rate": 0.15,
+      "icon_url": "/images/items/25731.gif"
+    },
+    {
+      "item_id": 300256,
+      "name": "Fillia Card",
+      "rate": 0.01,
+      "icon_url": "/images/items/300256.gif"
+    }
+  ]
+}

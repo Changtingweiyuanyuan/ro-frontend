@@ -1,0 +1,85 @@
+{
+  "id": 20692,
+  "name": {
+    "zh_tw": "魔癮薩納雷",
+    "en": "EP17_2_SANARE3"
+  },
+  "image_url": "/images/monsters/20692.gif",
+  "basic_info": {
+    "level": 0,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2979073,
+    "attack": {
+      "min": 3947,
+      "max": 5733
+    },
+    "magic_attack": {
+      "min": 2184,
+      "max": 3722
+    },
+    "defense": 503,
+    "magic_defense": 122,
+    "hit_100_percent": 576,
+    "flee_95_percent": 550,
+    "base_stats": {
+      "str": 184,
+      "agi": 168,
+      "vit": 103,
+      "int": 198,
+      "dex": 162,
+      "luk": 72
+    }
+  },
+  "spawns": [
+    {
+      "map_name": "ba_pw03",
+      "description": "- 第二魔力發電廠",
+      "spawn_info": "80x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 25159,
+      "name": "邪心獵人之印",
+      "rate": 12.5,
+      "icon_url": "/images/items/25159.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.5,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 300115,
+      "name": "魔癮薩納雷卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/300115.gif"
+    },
+    {
+      "item_id": 590006,
+      "name": "恩比聖光棒[2]",
+      "rate": 0.05,
+      "icon_url": "/images/items/590006.gif"
+    },
+    {
+      "item_id": 1000225,
+      "name": "土豆晶片",
+      "rate": 20.0,
+      "icon_url": "/images/items/1000225.gif"
+    }
+  ]
+}
