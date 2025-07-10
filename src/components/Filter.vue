@@ -1,6 +1,8 @@
 <script setup>
 import FilterButton from './FilterButton.vue'
 
+const baseUrl = import.meta.env.BASE_URL;
+
 // 接收來自父元件的狀態
 defineProps({
   searchQuery: String,
@@ -47,7 +49,7 @@ const elementOptions = [
     { label: ELEMENTS.FIRE, imgPath: '/images/ui/element-fire.png', tooltipText: '火' },
     { label: ELEMENTS.WIND, imgPath: '/images/ui/element-wind.png', tooltipText: '風' },
     { label: ELEMENTS.POISON, imgPath: '/images/ui/element-poison.png', tooltipText: '毒' },
-    { label: ELEMENTS.HOLY, imgPath: '/images/ui/element-holy.png', tooltipText: '聖' },
+	{ label: ELEMENTS.HOLY, imgPath: '/images/ui/element-holy.png', tooltipText: '聖' },
     { label: ELEMENTS.DARK, imgPath: '/images/ui/element-dark.png', tooltipText: '暗' },
     { label: ELEMENTS.GHOST, imgPath: '/images/ui/element-ghost.png', tooltipText: '念' },
     { label: ELEMENTS.UNDEAD, imgPath: '/images/ui/element-undead.png', tooltipText: '不死' },
@@ -81,7 +83,7 @@ const sizeOptions = [
           v-for="race in raceOptions"
           :key="race.label"
           :text="race.label === RACES.ALL ? race.label.toUpperCase() : undefined"
-          :img-path="race.label !== RACES.ALL ? race.imgPath : undefined"
+          :img-path="race.label !== RACES.ALL ? baseUrl + race.imgPath : undefined"
           :tooltip-text="race.label !== RACES.ALL ? race.tooltipText : undefined"
           :is-active="activeRace === race.label"
           @click="emit('update:activeRace', race.label)"
@@ -95,7 +97,7 @@ const sizeOptions = [
           v-for="el in elementOptions"
           :key="el.label"
           :text="[ELEMENTS.ALL, ELEMENTS.NONE].includes(el.label) ? el.label.toUpperCase() : undefined"
-          :img-path="![ELEMENTS.ALL, ELEMENTS.NONE].includes(el.label) ? el.imgPath : undefined"
+          :img-path="![ELEMENTS.ALL, ELEMENTS.NONE].includes(el.label) ? baseUrl + el.imgPath : undefined"
           :tooltip-text="el.label !== ELEMENTS.ALL ? el.tooltipText : undefined"
           :is-active="activeElement === el.label"
           @click="emit('update:activeElement', el.label)"

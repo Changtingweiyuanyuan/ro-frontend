@@ -1,6 +1,8 @@
 <script setup>
 import { computed } from 'vue';
 
+const baseUrl = import.meta.env.BASE_URL;
+
 const props = defineProps({
   monster: Object,
 })
@@ -73,11 +75,8 @@ const attackRange = computed(() => {
   <div class="monster-card-new">
     <div class="card-top">
       <div class="map-icon-container">
-        <!--<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line>
-        </svg>-->
-				<img src="/images/ui/map1.png" class="map-icon" />
-				<img src="/images/ui/location.png" class="location-icon" />
+				<img :src="baseUrl + 'images/ui/map1.png'" class="map-icon" />
+				<img :src="baseUrl + 'images/ui/location.png'" class="location-icon" />
 
         <div class="spawn-tooltip" v-if="monster.spawns && monster.spawns.length > 0">
           <div v-for="spawn in monster.spawns" :key="spawn.map_name + spawn.description" class="tooltip-item">
@@ -94,7 +93,7 @@ const attackRange = computed(() => {
     </div>
 
     <div class="identity">
-      <img :src="monster.image_url" :alt="monster.name.zh_tw" class="monster-image-large">
+      <img :src="baseUrl + monster.image_url" :alt="monster.name.zh_tw" class="monster-image-large">
       <div class="monster-name-primary">{{ monster.name.zh_tw }}</div>
       <div class="monster-name-secondary">{{ monster.name.en }}</div>
     </div>
@@ -132,7 +131,7 @@ const attackRange = computed(() => {
 
     <div class="drops-list" v-if="monster.drops && monster.drops.length > 0">
         <div v-for="drop in monster.drops" :key="drop.item_id" class="drop-item-row">
-            <img :src="drop.icon_url" :alt="getDropName(drop)" class="drop-icon">
+            <img :src="baseUrl + drop.icon_url" :alt="getDropName(drop)" class="drop-icon">
             <span class="drop-name">{{ getDropName(drop) }}</span>
             <span class="drop-rate">{{ getDropRate(drop) }}</span>
         </div>
