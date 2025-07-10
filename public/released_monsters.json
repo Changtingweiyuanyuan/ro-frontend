@@ -1,1652 +1,6602 @@
 {
-  "1001": true,
-  "1002": false,
-  "1004": false,
-  "1005": false,
-  "1007": false,
-  "1008": false,
-  "1009": false,
-  "1010": false,
-  "1011": false,
-  "1012": false,
-  "1013": false,
-  "1014": false,
-  "1015": false,
-  "1016": false,
-  "1018": false,
-  "1019": false,
-  "1020": false,
-  "1023": false,
-  "1024": false,
-  "1025": false,
-  "1026": false,
-  "1028": false,
-  "1029": false,
-  "1030": false,
-  "1031": false,
-  "1032": false,
-  "1033": false,
-  "1034": false,
-  "1035": false,
-  "1036": false,
-  "1037": false,
-  "1038": false,
-  "1039": false,
-  "1040": false,
-  "1041": false,
-  "1042": false,
-  "1044": false,
-  "1045": false,
-  "1046": false,
-  "1047": false,
-  "1048": false,
-  "1049": false,
-  "1050": false,
-  "1051": false,
-  "1052": false,
-  "1053": false,
-  "1054": false,
-  "1055": false,
-  "1056": false,
-  "1057": false,
-  "1058": false,
-  "1059": false,
-  "1060": false,
-  "1061": false,
-  "1063": false,
-  "1064": false,
-  "1065": false,
-  "1066": false,
-  "1067": false,
-  "1068": false,
-  "1069": false,
-  "1070": false,
-  "1071": false,
-  "1072": false,
-  "1073": false,
-  "1074": false,
-  "1076": false,
-  "1077": false,
-  "1078": false,
-  "1079": false,
-  "1080": false,
-  "1081": false,
-  "1082": false,
-  "1083": false,
-  "1084": false,
-  "1085": false,
-  "1086": false,
-  "1087": false,
-  "1088": false,
-  "1089": false,
-  "1090": false,
-  "1091": false,
-  "1092": false,
-  "1093": false,
-  "1094": false,
-  "1095": false,
-  "1096": false,
-  "1097": false,
-  "1098": false,
-  "1099": false,
-  "1100": false,
-  "1101": false,
-  "1102": false,
-  "1103": false,
-  "1104": false,
-  "1105": false,
-  "1106": false,
-  "1107": false,
-  "1108": false,
-  "1109": false,
-  "1110": false,
-  "1111": false,
-  "1112": false,
-  "1113": false,
-  "1114": false,
-  "1115": false,
-  "1116": false,
-  "1117": false,
-  "1118": false,
-  "1119": false,
-  "1120": false,
-  "1121": false,
-  "1122": false,
-  "1123": false,
-  "1124": false,
-  "1125": false,
-  "1126": false,
-  "1127": false,
-  "1128": false,
-  "1129": false,
-  "1130": false,
-  "1131": false,
-  "1132": false,
-  "1133": false,
-  "1134": false,
-  "1135": false,
-  "1138": false,
-  "1139": false,
-  "1140": false,
-  "1141": false,
-  "1142": false,
-  "1143": false,
-  "1144": false,
-  "1145": false,
-  "1146": false,
-  "1147": false,
-  "1148": false,
-  "1149": false,
-  "1150": false,
-  "1151": false,
-  "1152": false,
-  "1153": false,
-  "1154": false,
-  "1155": false,
-  "1156": false,
-  "1157": false,
-  "1158": false,
-  "1159": false,
-  "1160": false,
-  "1161": false,
-  "1162": false,
-  "1163": false,
-  "1164": false,
-  "1165": false,
-  "1166": false,
-  "1167": false,
-  "1169": false,
-  "1170": false,
-  "1174": false,
-  "1175": false,
-  "1176": false,
-  "1177": false,
-  "1178": false,
-  "1179": false,
-  "1180": false,
-  "1185": false,
-  "1186": false,
-  "1188": false,
-  "1189": false,
-  "1190": false,
-  "1191": false,
-  "1192": false,
-  "1193": false,
-  "1194": false,
-  "1195": false,
-  "1196": false,
-  "1197": false,
-  "1198": false,
-  "1199": false,
-  "1200": false,
-  "1201": false,
-  "1202": false,
-  "1203": false,
-  "1204": false,
-  "1205": false,
-  "1206": false,
-  "1207": false,
-  "1208": false,
-  "1209": false,
-  "1211": false,
-  "1212": false,
-  "1213": false,
-  "1214": false,
-  "1215": false,
-  "1216": false,
-  "1219": false,
-  "1242": false,
-  "1243": false,
-  "1246": false,
-  "1248": false,
-  "1249": false,
-  "1250": false,
-  "1251": false,
-  "1252": false,
-  "1253": false,
-  "1254": false,
-  "1255": false,
-  "1256": false,
-  "1257": false,
-  "1258": false,
-  "1259": false,
-  "1260": false,
-  "1261": false,
-  "1262": false,
-  "1263": false,
-  "1264": false,
-  "1265": false,
-  "1266": false,
-  "1267": false,
-  "1268": false,
-  "1269": false,
-  "1270": false,
-  "1271": false,
-  "1272": false,
-  "1273": false,
-  "1274": false,
-  "1275": false,
-  "1276": false,
-  "1277": false,
-  "1278": false,
-  "1279": false,
-  "1280": false,
-  "1281": false,
-  "1282": false,
-  "1283": false,
-  "1285": false,
-  "1286": false,
-  "1287": false,
-  "1288": false,
-  "1289": false,
-  "1290": false,
-  "1291": false,
-  "1292": false,
-  "1293": false,
-  "1294": false,
-  "1295": false,
-  "1296": false,
-  "1297": false,
-  "1298": false,
-  "1299": false,
-  "1300": false,
-  "1301": false,
-  "1302": false,
-  "1303": false,
-  "1304": false,
-  "1305": false,
-  "1306": false,
-  "1307": false,
-  "1308": false,
-  "1309": false,
-  "1310": false,
-  "1311": false,
-  "1312": false,
-  "1313": false,
-  "1314": false,
-  "1315": false,
-  "1316": false,
-  "1317": false,
-  "1318": false,
-  "1319": false,
-  "1320": false,
-  "1321": false,
-  "1322": false,
-  "1323": false,
-  "1324": false,
-  "1325": false,
-  "1326": false,
-  "1327": false,
-  "1328": false,
-  "1329": false,
-  "1330": false,
-  "1331": false,
-  "1332": false,
-  "1333": false,
-  "1334": false,
-  "1335": false,
-  "1336": false,
-  "1337": false,
-  "1338": false,
-  "1339": false,
-  "1340": false,
-  "1341": false,
-  "1342": false,
-  "1343": false,
-  "1344": false,
-  "1345": false,
-  "1346": false,
-  "1347": false,
-  "1348": false,
-  "1349": false,
-  "1350": false,
-  "1351": false,
-  "1352": false,
-  "1353": false,
-  "1354": false,
-  "1355": false,
-  "1356": false,
-  "1357": false,
-  "1358": false,
-  "1359": false,
-  "1360": false,
-  "1361": false,
-  "1362": false,
-  "1363": false,
-  "1365": false,
-  "1366": false,
-  "1367": false,
-  "1368": false,
-  "1369": false,
-  "1370": false,
-  "1371": false,
-  "1372": false,
-  "1373": false,
-  "1374": false,
-  "1375": false,
-  "1376": false,
-  "1377": false,
-  "1378": false,
-  "1379": false,
-  "1380": false,
-  "1381": false,
-  "1382": false,
-  "1383": false,
-  "1384": false,
-  "1385": false,
-  "1386": false,
-  "1387": false,
-  "1388": false,
-  "1389": false,
-  "1390": false,
-  "1391": false,
-  "1392": false,
-  "1400": false,
-  "1401": false,
-  "1402": false,
-  "1403": false,
-  "1404": false,
-  "1405": false,
-  "1406": false,
-  "1408": false,
-  "1409": false,
-  "1410": false,
-  "1412": false,
-  "1413": false,
-  "1415": false,
-  "1416": false,
-  "1417": false,
-  "1418": false,
-  "1422": false,
-  "1424": false,
-  "1429": false,
-  "1430": false,
-  "1431": false,
-  "1441": false,
-  "1457": false,
-  "1459": false,
-  "1475": false,
-  "1483": false,
-  "1492": false,
-  "1493": false,
-  "1494": false,
-  "1495": false,
-  "1497": false,
-  "1498": false,
-  "1499": false,
-  "1500": false,
-  "1503": false,
-  "1504": false,
-  "1505": false,
-  "1506": false,
-  "1507": false,
-  "1508": false,
-  "1509": false,
-  "1510": false,
-  "1511": false,
-  "1512": false,
-  "1513": false,
-  "1514": false,
-  "1515": false,
-  "1516": false,
-  "1517": false,
-  "1519": false,
-  "1531": false,
-  "1549": false,
-  "1564": false,
-  "1565": false,
-  "1573": false,
-  "1582": false,
-  "1583": false,
-  "1584": false,
-  "1586": false,
-  "1587": false,
-  "1600": false,
-  "1603": false,
-  "1606": false,
-  "1613": false,
-  "1614": false,
-  "1615": false,
-  "1616": false,
-  "1617": false,
-  "1618": false,
-  "1619": false,
-  "1620": false,
-  "1621": false,
-  "1622": false,
-  "1623": false,
-  "1624": false,
-  "1626": false,
-  "1627": false,
-  "1628": false,
-  "1629": false,
-  "1630": false,
-  "1631": false,
-  "1632": false,
-  "1633": false,
-  "1634": false,
-  "1635": false,
-  "1636": false,
-  "1637": false,
-  "1638": false,
-  "1639": false,
-  "1640": false,
-  "1641": false,
-  "1642": false,
-  "1643": false,
-  "1644": false,
-  "1645": false,
-  "1646": false,
-  "1647": false,
-  "1648": false,
-  "1649": false,
-  "1650": false,
-  "1651": false,
-  "1652": false,
-  "1653": false,
-  "1654": false,
-  "1655": false,
-  "1656": false,
-  "1657": false,
-  "1658": false,
-  "1668": false,
-  "1670": false,
-  "1671": false,
-  "1672": false,
-  "1673": false,
-  "1676": false,
-  "1677": false,
-  "1678": false,
-  "1679": false,
-  "1680": false,
-  "1681": false,
-  "1682": false,
-  "1685": false,
-  "1686": false,
-  "1687": false,
-  "1688": false,
-  "1692": false,
-  "1693": false,
-  "1694": false,
-  "1695": false,
-  "1696": false,
-  "1697": false,
-  "1698": false,
-  "1699": false,
-  "1700": false,
-  "1701": false,
-  "1702": false,
-  "1703": false,
-  "1704": false,
-  "1705": false,
-  "1706": false,
-  "1707": false,
-  "1708": false,
-  "1709": false,
-  "1710": false,
-  "1711": false,
-  "1712": false,
-  "1713": false,
-  "1714": false,
-  "1715": false,
-  "1716": false,
-  "1717": false,
-  "1718": false,
-  "1719": false,
-  "1720": false,
-  "1721": false,
-  "1734": false,
-  "1735": false,
-  "1736": false,
-  "1737": false,
-  "1738": false,
-  "1739": false,
-  "1740": false,
-  "1745": false,
-  "1746": false,
-  "1747": false,
-  "1751": false,
-  "1752": false,
-  "1753": false,
-  "1754": false,
-  "1755": false,
-  "1761": false,
-  "1762": false,
-  "1765": false,
-  "1768": false,
-  "1769": false,
-  "1770": false,
-  "1771": false,
-  "1772": false,
-  "1773": false,
-  "1774": false,
-  "1775": false,
-  "1776": false,
-  "1777": false,
-  "1778": false,
-  "1779": false,
-  "1780": false,
-  "1781": false,
-  "1782": false,
-  "1783": false,
-  "1784": false,
-  "1785": false,
-  "1789": false,
-  "1791": false,
-  "1794": false,
-  "1796": false,
-  "1797": false,
-  "1829": false,
-  "1830": false,
-  "1831": false,
-  "1832": false,
-  "1833": false,
-  "1836": false,
-  "1837": false,
-  "1838": false,
-  "1839": false,
-  "1864": false,
-  "1865": false,
-  "1866": false,
-  "1867": false,
-  "1869": false,
-  "1870": false,
-  "1871": false,
-  "1873": false,
-  "1880": false,
-  "1881": false,
-  "1882": false,
-  "1883": false,
-  "1884": false,
-  "1885": false,
-  "1894": false,
-  "1905": false,
-  "1907": false,
-  "1908": false,
-  "1916": false,
-  "1917": false,
-  "1918": false,
-  "1919": false,
-  "1920": false,
-  "1921": false,
-  "1929": false,
-  "1938": false,
-  "1939": false,
-  "1940": false,
-  "1941": false,
-  "1942": false,
-  "1943": false,
-  "1944": false,
-  "1945": false,
-  "1946": false,
-  "1956": false,
-  "1957": false,
-  "1958": false,
-  "1959": false,
-  "1960": false,
-  "1961": false,
-  "1974": false,
-  "1975": false,
-  "1976": false,
-  "1977": false,
-  "1978": false,
-  "1979": false,
-  "1981": false,
-  "1982": false,
-  "1983": false,
-  "1984": false,
-  "1986": false,
-  "1987": false,
-  "1988": false,
-  "1989": false,
-  "1990": false,
-  "1991": false,
-  "1992": false,
-  "1993": false,
-  "1994": false,
-  "1995": false,
-  "1999": false,
-  "2013": false,
-  "2014": false,
-  "2015": false,
-  "2016": false,
-  "2017": false,
-  "2018": false,
-  "2019": false,
-  "2020": false,
-  "2021": false,
-  "2022": false,
-  "2023": false,
-  "2024": false,
-  "20270": false,
-  "20271": false,
-  "20272": false,
-  "20273": false,
-  "20274": false,
-  "20275": false,
-  "20276": false,
-  "20277": false,
-  "20340": false,
-  "20341": false,
-  "20342": false,
-  "20343": false,
-  "20344": false,
-  "20345": false,
-  "20346": false,
-  "20347": false,
-  "20348": false,
-  "20349": false,
-  "20350": false,
-  "20351": false,
-  "20352": false,
-  "20353": false,
-  "20355": false,
-  "20356": false,
-  "20357": false,
-  "20358": false,
-  "20359": false,
-  "20360": false,
-  "20361": false,
-  "20362": false,
-  "20363": false,
-  "20364": false,
-  "20365": false,
-  "20366": false,
-  "20367": false,
-  "20368": false,
-  "20369": false,
-  "20370": false,
-  "20371": false,
-  "20372": false,
-  "20373": false,
-  "20374": false,
-  "20375": false,
-  "20376": false,
-  "20377": false,
-  "20378": false,
-  "20379": false,
-  "20380": false,
-  "20381": false,
-  "20419": false,
-  "20420": false,
-  "20421": false,
-  "20422": false,
-  "2057": false,
-  "20592": false,
-  "20593": false,
-  "20594": false,
-  "20595": false,
-  "20596": false,
-  "20597": false,
-  "20598": false,
-  "20600": false,
-  "20601": false,
-  "20602": false,
-  "20603": false,
-  "20620": false,
-  "20621": false,
-  "20622": false,
-  "20623": false,
-  "20624": false,
-  "20625": false,
-  "20626": false,
-  "20627": false,
-  "20630": false,
-  "20632": false,
-  "20633": false,
-  "20634": false,
-  "20637": false,
-  "20639": false,
-  "20640": false,
-  "20641": false,
-  "20642": false,
-  "20643": false,
-  "20644": false,
-  "20645": false,
-  "20646": false,
-  "20648": false,
-  "20649": false,
-  "20650": false,
-  "20651": false,
-  "20652": false,
-  "20653": false,
-  "20654": false,
-  "20655": false,
-  "20656": false,
-  "20657": false,
-  "2068": false,
-  "2069": false,
-  "2070": false,
-  "2071": false,
-  "2072": false,
-  "2073": false,
-  "2074": false,
-  "2081": false,
-  "2083": false,
-  "2084": false,
-  "2085": false,
-  "2086": false,
-  "2087": false,
-  "2088": false,
-  "2089": false,
-  "2090": false,
-  "2091": false,
-  "2092": false,
-  "2131": false,
-  "2132": false,
-  "2133": false,
-  "2134": false,
-  "2136": false,
-  "2137": false,
-  "2138": false,
-  "2151": false,
-  "2152": false,
-  "2153": false,
-  "2154": false,
-  "2155": false,
-  "2156": false,
-  "2161": false,
-  "2162": false,
-  "2163": false,
-  "2164": false,
-  "2165": false,
-  "2166": false,
-  "2167": false,
-  "2168": false,
-  "2169": false,
-  "2174": false,
-  "2175": false,
-  "2176": false,
-  "2177": false,
-  "2178": false,
-  "2179": false,
-  "2180": false,
-  "2181": false,
-  "2182": false,
-  "2183": false,
-  "2184": false,
-  "2185": false,
-  "2187": false,
-  "2188": false,
-  "2189": false,
-  "2190": false,
-  "2191": false,
-  "2192": false,
-  "2193": false,
-  "2194": false,
-  "2197": false,
-  "2198": false,
-  "2199": false,
-  "2201": false,
-  "2202": false,
-  "2203": false,
-  "2204": false,
-  "2208": false,
-  "2221": false,
-  "2222": false,
-  "2223": false,
-  "2224": false,
-  "2225": false,
-  "2226": false,
-  "2227": false,
-  "2228": false,
-  "2229": false,
-  "2230": false,
-  "2231": false,
-  "2232": false,
-  "2233": false,
-  "2234": false,
-  "2235": false,
-  "2236": false,
-  "2237": false,
-  "2238": false,
-  "2239": false,
-  "2240": false,
-  "2241": false,
-  "2242": false,
-  "2243": false,
-  "2244": false,
-  "2249": false,
-  "2250": false,
-  "2251": false,
-  "2252": false,
-  "2253": false,
-  "2254": false,
-  "2255": false,
-  "2256": false,
-  "2281": false,
-  "2282": false,
-  "2283": false,
-  "2284": false,
-  "2285": false,
-  "2286": false,
-  "2287": false,
-  "2288": false,
-  "2309": false,
-  "2310": false,
-  "2311": false,
-  "2312": false,
-  "2313": false,
-  "2314": false,
-  "2315": false,
-  "2316": false,
-  "2317": false,
-  "2318": false,
-  "2319": false,
-  "2320": false,
-  "2321": false,
-  "2322": false,
-  "2327": false,
-  "2328": false,
-  "2329": false,
-  "2330": false,
-  "2331": false,
-  "2332": false,
-  "2333": false,
-  "2334": false,
-  "2335": false,
-  "2337": false,
-  "2338": false,
-  "2339": false,
-  "2340": false,
-  "2353": false,
-  "2354": false,
-  "2355": false,
-  "2356": false,
-  "2358": false,
-  "2360": false,
-  "2362": false,
-  "2363": false,
-  "2364": false,
-  "2365": false,
-  "2366": false,
-  "2367": false,
-  "2368": false,
-  "2369": false,
-  "2370": false,
-  "2371": false,
-  "2375": false,
-  "2376": false,
-  "2398": false,
-  "2401": false,
-  "2404": false,
-  "2405": false,
-  "2406": false,
-  "2415": false,
-  "2416": false,
-  "2417": false,
-  "2418": false,
-  "2419": false,
-  "2420": false,
-  "2421": false,
-  "2422": false,
-  "2423": false,
-  "2424": false,
-  "2425": false,
-  "2426": false,
-  "2427": false,
-  "2441": false,
-  "2442": false,
-  "2464": false,
-  "2465": false,
-  "2466": false,
-  "2467": false,
-  "2468": false,
-  "2469": false,
-  "2470": false,
-  "2471": false,
-  "2472": false,
-  "2473": false,
-  "2474": false,
-  "2475": false,
-  "2476": false,
-  "2477": false,
-  "2478": false,
-  "2479": false,
-  "2480": false,
-  "2481": false,
-  "2483": false,
-  "2485": false,
-  "2528": false,
-  "2529": false,
-  "2530": false,
-  "2531": false,
-  "2532": false,
-  "2533": false,
-  "2534": false,
-  "2535": false,
-  "2536": false,
-  "2537": false,
-  "2540": false,
-  "2541": false,
-  "2542": false,
-  "2543": false,
-  "2544": false,
-  "2545": false,
-  "2546": false,
-  "2549": false,
-  "2550": false,
-  "2551": false,
-  "2552": false,
-  "2553": false,
-  "2554": false,
-  "2555": false,
-  "2556": false,
-  "2557": false,
-  "2558": false,
-  "2559": false,
-  "2560": false,
-  "2561": false,
-  "2562": false,
-  "2563": false,
-  "2564": false,
-  "2565": false,
-  "2566": false,
-  "2569": false,
-  "2570": false,
-  "2571": false,
-  "2572": false,
-  "2573": false,
-  "2574": false,
-  "2575": false,
-  "2576": false,
-  "2577": false,
-  "2578": false,
-  "2579": false,
-  "2580": false,
-  "2581": false,
-  "2582": false,
-  "2583": false,
-  "2584": false,
-  "2585": false,
-  "2586": false,
-  "2587": false,
-  "2588": false,
-  "2589": false,
-  "2590": false,
-  "2591": false,
-  "2592": false,
-  "2593": false,
-  "2594": false,
-  "2595": false,
-  "2596": false,
-  "2597": false,
-  "2598": false,
-  "2599": false,
-  "2600": false,
-  "2601": false,
-  "2602": false,
-  "2603": false,
-  "2604": false,
-  "2605": false,
-  "2606": false,
-  "2607": false,
-  "2608": false,
-  "2609": false,
-  "2610": false,
-  "2611": false,
-  "2612": false,
-  "2613": false,
-  "2614": false,
-  "2615": false,
-  "2616": false,
-  "2617": false,
-  "2618": false,
-  "2619": false,
-  "2620": false,
-  "2621": false,
-  "2622": false,
-  "2623": false,
-  "2624": false,
-  "2625": false,
-  "2626": false,
-  "2627": false,
-  "2628": false,
-  "2629": false,
-  "2630": false,
-  "2631": false,
-  "2632": false,
-  "2633": false,
-  "2634": false,
-  "2635": false,
-  "2636": false,
-  "2637": false,
-  "2638": false,
-  "2639": false,
-  "2640": false,
-  "2641": false,
-  "2642": false,
-  "2643": false,
-  "2644": false,
-  "2645": false,
-  "2646": false,
-  "2647": false,
-  "2648": false,
-  "2649": false,
-  "2650": false,
-  "2651": false,
-  "2652": false,
-  "2653": false,
-  "2654": false,
-  "2655": false,
-  "2656": false,
-  "2657": false,
-  "2658": false,
-  "2659": false,
-  "2660": false,
-  "2661": false,
-  "2662": false,
-  "2663": false,
-  "2664": false,
-  "2665": false,
-  "2666": false,
-  "2667": false,
-  "2668": false,
-  "2669": false,
-  "2670": false,
-  "2671": false,
-  "2672": false,
-  "2673": false,
-  "2674": false,
-  "2675": false,
-  "2676": false,
-  "2677": false,
-  "2678": false,
-  "2679": false,
-  "2680": false,
-  "2681": false,
-  "2682": false,
-  "2683": false,
-  "2684": false,
-  "2685": false,
-  "2686": false,
-  "2687": false,
-  "2688": false,
-  "2689": false,
-  "2690": false,
-  "2691": false,
-  "2692": false,
-  "2693": false,
-  "2694": false,
-  "2695": false,
-  "2696": false,
-  "2697": false,
-  "2698": false,
-  "2699": false,
-  "2700": false,
-  "2701": false,
-  "2702": false,
-  "2703": false,
-  "2704": false,
-  "2705": false,
-  "2706": false,
-  "2707": false,
-  "2708": false,
-  "2709": false,
-  "2710": false,
-  "2711": false,
-  "2712": false,
-  "2713": false,
-  "2714": false,
-  "2715": false,
-  "2716": false,
-  "2717": false,
-  "2718": false,
-  "2719": false,
-  "2720": false,
-  "2721": false,
-  "2722": false,
-  "2723": false,
-  "2724": false,
-  "2725": false,
-  "2726": false,
-  "2727": false,
-  "2728": false,
-  "2729": false,
-  "2730": false,
-  "2731": false,
-  "2732": false,
-  "2733": false,
-  "2734": false,
-  "2735": false,
-  "2736": false,
-  "2737": false,
-  "2738": false,
-  "2739": false,
-  "2740": false,
-  "2741": false,
-  "2742": false,
-  "2743": false,
-  "2744": false,
-  "2745": false,
-  "2746": false,
-  "2747": false,
-  "2748": false,
-  "2749": false,
-  "2750": false,
-  "2751": false,
-  "2752": false,
-  "2753": false,
-  "2754": false,
-  "2755": false,
-  "2756": false,
-  "2757": false,
-  "2758": false,
-  "2759": false,
-  "2760": false,
-  "2761": false,
-  "2762": false,
-  "2763": false,
-  "2764": false,
-  "2765": false,
-  "2766": false,
-  "2767": false,
-  "2768": false,
-  "2769": false,
-  "2770": false,
-  "2771": false,
-  "2772": false,
-  "2773": false,
-  "2774": false,
-  "2775": false,
-  "2776": false,
-  "2777": false,
-  "2778": false,
-  "2779": false,
-  "2780": false,
-  "2781": false,
-  "2782": false,
-  "2783": false,
-  "2784": false,
-  "2785": false,
-  "2786": false,
-  "2787": false,
-  "2788": false,
-  "2789": false,
-  "2790": false,
-  "2791": false,
-  "2792": false,
-  "2793": false,
-  "2794": false,
-  "2795": false,
-  "2796": false,
-  "2797": false,
-  "2798": false,
-  "2799": false,
-  "2800": false,
-  "2801": false,
-  "2802": false,
-  "2803": false,
-  "2804": false,
-  "2805": false,
-  "2806": false,
-  "2807": false,
-  "2808": false,
-  "2809": false,
-  "2810": false,
-  "2811": false,
-  "2812": false,
-  "2813": false,
-  "2814": false,
-  "2815": false,
-  "2816": false,
-  "2817": false,
-  "2818": false,
-  "2819": false,
-  "2820": false,
-  "2821": false,
-  "2822": false,
-  "2823": false,
-  "2824": false,
-  "2825": false,
-  "2826": false,
-  "2827": false,
-  "2828": false,
-  "2829": false,
-  "2830": false,
-  "2831": false,
-  "2832": false,
-  "2833": false,
-  "2834": false,
-  "2835": false,
-  "2836": false,
-  "2837": false,
-  "2838": false,
-  "2839": false,
-  "2840": false,
-  "2841": false,
-  "2842": false,
-  "2843": false,
-  "2844": false,
-  "2845": false,
-  "2846": false,
-  "2847": false,
-  "2848": false,
-  "2849": false,
-  "2850": false,
-  "2851": false,
-  "2852": false,
-  "2853": false,
-  "2854": false,
-  "2855": false,
-  "2856": false,
-  "2857": false,
-  "2858": false,
-  "2859": false,
-  "2860": false,
-  "2861": false,
-  "2862": false,
-  "2863": false,
-  "2864": false,
-  "2865": false,
-  "2866": false,
-  "2867": false,
-  "2868": false,
-  "2869": false,
-  "2870": false,
-  "2871": false,
-  "2872": false,
-  "2873": false,
-  "2874": false,
-  "2875": false,
-  "2876": false,
-  "2877": false,
-  "2878": false,
-  "2879": false,
-  "2880": false,
-  "2881": false,
-  "2882": false,
-  "2883": false,
-  "2884": false,
-  "2885": false,
-  "2886": false,
-  "2887": false,
-  "2888": false,
-  "2889": false,
-  "2890": false,
-  "2891": false,
-  "2892": false,
-  "2893": false,
-  "2894": false,
-  "2895": false,
-  "2896": false,
-  "2897": false,
-  "2898": false,
-  "2899": false,
-  "2900": false,
-  "2901": false,
-  "2902": false,
-  "2903": false,
-  "2904": false,
-  "2905": false,
-  "2906": false,
-  "2907": false,
-  "2908": false,
-  "2909": false,
-  "2910": false,
-  "2911": false,
-  "2912": false,
-  "2913": false,
-  "2916": false,
-  "2917": false,
-  "2918": false,
-  "2919": false,
-  "2920": false,
-  "2921": false,
-  "2923": false,
-  "2937": false,
-  "2938": false,
-  "2939": false,
-  "2940": false,
-  "2941": false,
-  "2942": false,
-  "2948": false,
-  "2949": false,
-  "2950": false,
-  "2951": false,
-  "2952": false,
-  "2953": false,
-  "2954": false,
-  "2955": false,
-  "2956": false,
-  "2957": false,
-  "2958": false,
-  "2959": false,
-  "2961": false,
-  "2987": false,
-  "2988": false,
-  "2989": false,
-  "2990": false,
-  "2991": false,
-  "2992": false,
-  "2993": false,
-  "2994": false,
-  "2995": false,
-  "2996": false,
-  "2997": false,
-  "2998": false,
-  "2999": false,
-  "3000": false,
-  "3001": false,
-  "3002": false,
-  "3003": false,
-  "3004": false,
-  "3005": false,
-  "3007": false,
-  "3008": false,
-  "3010": false,
-  "3011": false,
-  "3012": false,
-  "3013": false,
-  "3014": false,
-  "3015": false,
-  "3016": false,
-  "3017": false,
-  "3018": false,
-  "3020": false,
-  "3021": false,
-  "3022": false,
-  "3023": false,
-  "3026": false,
-  "3027": false,
-  "3028": false,
-  "3029": false,
-  "3039": false,
-  "3040": false,
-  "3041": false,
-  "3061": false,
-  "3069": false,
-  "3070": false,
-  "3071": false,
-  "3072": false,
-  "3073": false,
-  "3074": false,
-  "3075": false,
-  "3076": false,
-  "3077": false,
-  "3078": false,
-  "3079": false,
-  "3081": false,
-  "3082": false,
-  "3083": false,
-  "3084": false,
-  "3086": false,
-  "3088": false,
-  "3089": false,
-  "3090": false,
-  "3091": false,
-  "3092": false,
-  "3096": false,
-  "3097": false,
-  "3098": false,
-  "3099": false,
-  "3100": false,
-  "3101": false,
-  "3102": false,
-  "3103": false,
-  "3104": false,
-  "3105": false,
-  "3106": false,
-  "3108": false,
-  "3109": false,
-  "3124": false,
-  "3125": false,
-  "3126": false,
-  "3127": false,
-  "3128": false,
-  "3153": false,
-  "3154": false,
-  "3155": false,
-  "3156": false,
-  "3158": false,
-  "3159": false,
-  "3175": false,
-  "3176": false,
-  "3177": false,
-  "3178": false,
-  "3179": false,
-  "3180": false,
-  "3181": false,
-  "3190": false,
-  "3191": false,
-  "3192": false,
-  "3193": false,
-  "3194": false,
-  "3195": false,
-  "3196": false,
-  "3197": false,
-  "3198": false,
-  "3199": false,
-  "3200": false,
-  "3208": false,
-  "3209": false,
-  "3210": false,
-  "3211": false,
-  "3212": false,
-  "3213": false,
-  "3214": false,
-  "3215": false,
-  "3216": false,
-  "3217": false,
-  "3218": false,
-  "3219": false,
-  "3220": false,
-  "3221": false,
-  "3222": false,
-  "3223": false,
-  "3224": false,
-  "3225": false,
-  "3226": false,
-  "3227": false,
-  "3228": false,
-  "3229": false,
-  "3230": false,
-  "3231": false,
-  "3232": false,
-  "3233": false,
-  "3234": false,
-  "3235": false,
-  "3236": false,
-  "3237": false,
-  "3238": false,
-  "3239": false,
-  "3240": false,
-  "3241": false,
-  "3242": false,
-  "3243": false,
-  "3244": false,
-  "3245": false,
-  "3246": false,
-  "3247": false,
-  "3248": false,
-  "3249": false,
-  "3250": false,
-  "3251": false,
-  "3252": false,
-  "3253": false,
-  "3254": false,
-  "3255": false,
-  "3256": false,
-  "3384": false,
-  "3385": false,
-  "3386": false,
-  "3387": false,
-  "3388": false,
-  "3389": false,
-  "3390": false,
-  "3391": false,
-  "3392": false,
-  "3393": false,
-  "3394": false,
-  "3395": false,
-  "3396": false,
-  "3397": false,
-  "3398": false,
-  "3399": false,
-  "3400": false,
-  "3401": false,
-  "3402": false,
-  "3403": false,
-  "3404": false,
-  "3405": false,
-  "3406": false,
-  "3407": false,
-  "3408": false,
-  "3409": false,
-  "3410": false,
-  "3411": false,
-  "3412": false,
-  "3413": false,
-  "3414": false,
-  "3415": false,
-  "3416": false,
-  "3417": false,
-  "3418": false,
-  "3419": false,
-  "3420": false,
-  "3421": false,
-  "3422": false,
-  "3423": false,
-  "3424": false,
-  "3425": false,
-  "3426": false,
-  "3427": false,
-  "3428": false,
-  "3429": false,
-  "3430": false,
-  "3431": false,
-  "3432": false,
-  "3433": false,
-  "3434": false,
-  "3435": false,
-  "3436": false,
-  "3437": false,
-  "3438": false,
-  "3439": false,
-  "3440": false,
-  "3442": false,
-  "3443": false,
-  "3444": false,
-  "3445": false,
-  "3446": false,
-  "3447": false,
-  "3448": false,
-  "3449": false,
-  "3450": false,
-  "3451": false,
-  "3452": false,
-  "3454": false,
-  "3455": false,
-  "3473": false,
-  "3474": false,
-  "3475": false,
-  "3476": false,
-  "3477": false,
-  "3478": false,
-  "3479": false,
-  "3480": false,
-  "3481": false,
-  "3482": false,
-  "3483": false,
-  "3484": false,
-  "3485": false,
-  "3490": false,
-  "3494": false,
-  "3510": false,
-  "3511": false,
-  "3512": false,
-  "3513": false,
-  "3514": false,
-  "3515": false,
-  "3516": false,
-  "3518": false,
-  "3519": false,
-  "3520": false,
-  "3521": false,
-  "3522": false,
-  "3523": false,
-  "3524": false,
-  "3526": false,
-  "3622": false,
-  "3626": false,
-  "3627": false,
-  "3628": false,
-  "3631": false,
-  "3632": false,
-  "3633": false,
-  "3637": false,
-  "3638": false,
-  "3639": false,
-  "3640": false,
-  "3641": false,
-  "3642": false,
-  "3643": false,
-  "3644": false,
-  "3645": false,
-  "3646": false,
-  "3647": false,
-  "3648": false,
-  "3649": false,
-  "3650": false,
-  "3651": false,
-  "3652": false,
-  "3653": false,
-  "3654": false,
-  "3658": false,
-  "3659": false,
-  "3660": false,
-  "3661": false,
-  "3662": false,
-  "3663": false,
-  "3664": false,
-  "3665": false,
-  "3666": false,
-  "3667": false,
-  "3736": false,
-  "3737": false,
-  "3738": false,
-  "3739": false,
-  "3740": false,
-  "3741": false,
-  "3742": false,
-  "3743": false,
-  "3747": false,
-  "3748": false,
-  "3749": false,
-  "3750": false,
-  "3751": false,
-  "3752": false,
-  "3753": false,
-  "3754": false,
-  "3755": false,
-  "3756": false,
-  "3757": false,
-  "3758": false,
-  "3759": false,
-  "3760": false,
-  "3761": false,
-  "3762": false,
-  "3763": false,
-  "3764": false,
-  "3765": false,
-  "3787": false,
-  "3788": false,
-  "3792": false,
-  "3793": false,
-  "3794": false,
-  "3795": false,
-  "3796": false,
-  "3799": false,
-  "3800": false,
-  "3801": false,
-  "3802": false,
-  "3803": false,
-  "3804": false,
-  "3810": false,
-  "3811": false,
-  "3812": false,
-  "3813": false,
-  "3814": false,
-  "3815": false,
-  "3816": false
+  "1001": {
+    "name": "蠍子",
+    "released": false
+  },
+  "1002": {
+    "name": "波利",
+    "released": false
+  },
+  "1004": {
+    "name": "蜂兵",
+    "released": false
+  },
+  "1005": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "1007": {
+    "name": "綠棉蟲",
+    "released": false
+  },
+  "1008": {
+    "name": "蟲蛹",
+    "released": false
+  },
+  "1009": {
+    "name": "禿鷹",
+    "released": false
+  },
+  "1010": {
+    "name": "樹精",
+    "released": false
+  },
+  "1011": {
+    "name": "蒼蠅",
+    "released": false
+  },
+  "1012": {
+    "name": "羅達蛙",
+    "released": false
+  },
+  "1013": {
+    "name": "狼",
+    "released": false
+  },
+  "1014": {
+    "name": "魔菇",
+    "released": false
+  },
+  "1015": {
+    "name": "腐屍",
+    "released": false
+  },
+  "1016": {
+    "name": "邪骸弓箭手",
+    "released": false
+  },
+  "1018": {
+    "name": "克瑞米",
+    "released": false
+  },
+  "1019": {
+    "name": "大嘴鳥",
+    "released": false
+  },
+  "1020": {
+    "name": "曼陀羅魔花",
+    "released": false
+  },
+  "1023": {
+    "name": "獸人戰士",
+    "released": false
+  },
+  "1024": {
+    "name": "森靈",
+    "released": false
+  },
+  "1025": {
+    "name": "青蛇",
+    "released": false
+  },
+  "1026": {
+    "name": "殭屍",
+    "released": false
+  },
+  "1028": {
+    "name": "邪骸士兵",
+    "released": false
+  },
+  "1029": {
+    "name": "蛇女伊絲",
+    "released": false
+  },
+  "1030": {
+    "name": "毒蛇",
+    "released": false
+  },
+  "1031": {
+    "name": "波波利",
+    "released": false
+  },
+  "1032": {
+    "name": "畢萊特",
+    "released": false
+  },
+  "1033": {
+    "name": "長老樹精",
+    "released": false
+  },
+  "1034": {
+    "name": "達拉蛙",
+    "released": false
+  },
+  "1035": {
+    "name": "赤蒼蠅",
+    "released": false
+  },
+  "1036": {
+    "name": "綠腐屍",
+    "released": false
+  },
+  "1037": {
+    "name": "黑蛇",
+    "released": false
+  },
+  "1038": {
+    "name": "俄塞里斯",
+    "released": false
+  },
+  "1039": {
+    "name": "巴風特",
+    "released": false
+  },
+  "1040": {
+    "name": "巨石怪",
+    "released": false
+  },
+  "1041": {
+    "name": "木乃伊",
+    "released": false
+  },
+  "1042": {
+    "name": "綠蒼蠅",
+    "released": false
+  },
+  "1044": {
+    "name": "人魚",
+    "released": false
+  },
+  "1045": {
+    "name": "馬克",
+    "released": false
+  },
+  "1046": {
+    "name": "死靈",
+    "released": false
+  },
+  "1047": {
+    "name": "大嘴鳥蛋",
+    "released": false
+  },
+  "1048": {
+    "name": "盜蟲卵",
+    "released": false
+  },
+  "1049": {
+    "name": "小雞",
+    "released": false
+  },
+  "1050": {
+    "name": "蛋殼小雞",
+    "released": false
+  },
+  "1051": {
+    "name": "盜蟲",
+    "released": false
+  },
+  "1052": {
+    "name": "蝗蟲",
+    "released": false
+  },
+  "1053": {
+    "name": "浮勒盜蟲",
+    "released": false
+  },
+  "1054": {
+    "name": "瑪勒盜蟲",
+    "released": false
+  },
+  "1055": {
+    "name": "摩卡",
+    "released": false
+  },
+  "1056": {
+    "name": "狸貓",
+    "released": false
+  },
+  "1057": {
+    "name": "溜溜猴",
+    "released": false
+  },
+  "1058": {
+    "name": "重金屬蝗蟲",
+    "released": false
+  },
+  "1059": {
+    "name": "蜂後",
+    "released": false
+  },
+  "1060": {
+    "name": "大腳熊",
+    "released": false
+  },
+  "1061": {
+    "name": "咪魘",
+    "released": false
+  },
+  "1063": {
+    "name": "瘋兔",
+    "released": false
+  },
+  "1064": {
+    "name": "邪骸食人魚",
+    "released": false
+  },
+  "1065": {
+    "name": "海神",
+    "released": false
+  },
+  "1066": {
+    "name": "螃蟹",
+    "released": false
+  },
+  "1067": {
+    "name": "卡那多斯",
+    "released": false
+  },
+  "1068": {
+    "name": "海葵",
+    "released": false
+  },
+  "1069": {
+    "name": "異變魚",
+    "released": false
+  },
+  "1070": {
+    "name": "庫克雷",
+    "released": false
+  },
+  "1071": {
+    "name": "邪骸海盜",
+    "released": false
+  },
+  "1072": {
+    "name": "卡浩",
+    "released": false
+  },
+  "1073": {
+    "name": "卡拉蟹",
+    "released": false
+  },
+  "1074": {
+    "name": "貝殼魔靈",
+    "released": false
+  },
+  "1076": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "1077": {
+    "name": "毒魔菇",
+    "released": false
+  },
+  "1078": {
+    "name": "紅草",
+    "released": false
+  },
+  "1079": {
+    "name": "藍草",
+    "released": false
+  },
+  "1080": {
+    "name": "綠草",
+    "released": false
+  },
+  "1081": {
+    "name": "黃草",
+    "released": false
+  },
+  "1082": {
+    "name": "白草",
+    "released": false
+  },
+  "1083": {
+    "name": "光芒草",
+    "released": false
+  },
+  "1084": {
+    "name": "黑菇",
+    "released": false
+  },
+  "1085": {
+    "name": "紅菇",
+    "released": false
+  },
+  "1086": {
+    "name": "黃金蟲",
+    "released": false
+  },
+  "1087": {
+    "name": "獸人英雄",
+    "released": false
+  },
+  "1088": {
+    "name": "搖滾蝗蟲",
+    "released": false
+  },
+  "1089": {
+    "name": "蛙王",
+    "released": false
+  },
+  "1090": {
+    "name": "波利之王",
+    "released": false
+  },
+  "1091": {
+    "name": "龍蠅",
+    "released": false
+  },
+  "1092": {
+    "name": "流浪之狼",
+    "released": false
+  },
+  "1093": {
+    "name": "藍瘋兔",
+    "released": false
+  },
+  "1094": {
+    "name": "蝸牛",
+    "released": false
+  },
+  "1095": {
+    "name": "白蟻",
+    "released": false
+  },
+  "1096": {
+    "name": "天使波利",
+    "released": false
+  },
+  "1097": {
+    "name": "白蟻幼蟲",
+    "released": false
+  },
+  "1098": {
+    "name": "安畢斯 / 胡狼頭神",
+    "released": false
+  },
+  "1099": {
+    "name": "艾吉歐蜈蚣",
+    "released": false
+  },
+  "1100": {
+    "name": "艾斯蜘蛛",
+    "released": false
+  },
+  "1101": {
+    "name": "小巴風特",
+    "released": false
+  },
+  "1102": {
+    "name": "巫婆",
+    "released": false
+  },
+  "1103": {
+    "name": "刺蝟蟲",
+    "released": false
+  },
+  "1104": {
+    "name": "松鼠",
+    "released": false
+  },
+  "1105": {
+    "name": "兵蟻",
+    "released": false
+  },
+  "1106": {
+    "name": "沙漠之狼",
+    "released": false
+  },
+  "1107": {
+    "name": "沙漠幼狼",
+    "released": false
+  },
+  "1108": {
+    "name": "狄奧斯",
+    "released": false
+  },
+  "1109": {
+    "name": "小惡魔",
+    "released": false
+  },
+  "1110": {
+    "name": "土人",
+    "released": false
+  },
+  "1111": {
+    "name": "紅蝙蝠",
+    "released": false
+  },
+  "1112": {
+    "name": "海盜之王",
+    "released": false
+  },
+  "1113": {
+    "name": "土波利",
+    "released": false
+  },
+  "1114": {
+    "name": "獵蠅",
+    "released": false
+  },
+  "1115": {
+    "name": "虎王",
+    "released": false
+  },
+  "1116": {
+    "name": "轉轉蛋",
+    "released": false
+  },
+  "1117": {
+    "name": "暗神官",
+    "released": false
+  },
+  "1118": {
+    "name": "噬人花",
+    "released": false
+  },
+  "1119": {
+    "name": "傘蜥",
+    "released": false
+  },
+  "1120": {
+    "name": "幽靈波利",
+    "released": false
+  },
+  "1121": {
+    "name": "基爾瑟",
+    "released": false
+  },
+  "1122": {
+    "name": "刺刀哥布靈",
+    "released": false
+  },
+  "1123": {
+    "name": "鍊錘哥布靈",
+    "released": false
+  },
+  "1124": {
+    "name": "大斧哥布靈",
+    "released": false
+  },
+  "1125": {
+    "name": "榔頭哥布靈",
+    "released": false
+  },
+  "1126": {
+    "name": "刺錘哥布靈",
+    "released": false
+  },
+  "1127": {
+    "name": "蚯蚓",
+    "released": false
+  },
+  "1128": {
+    "name": "鍬形蟲",
+    "released": false
+  },
+  "1129": {
+    "name": "鬼火",
+    "released": false
+  },
+  "1130": {
+    "name": "南瓜先生",
+    "released": false
+  },
+  "1131": {
+    "name": "裘卡",
+    "released": false
+  },
+  "1132": {
+    "name": "卡利斯格",
+    "released": false
+  },
+  "1133": {
+    "name": "大斧犬妖",
+    "released": false
+  },
+  "1134": {
+    "name": "榔頭犬妖",
+    "released": false
+  },
+  "1135": {
+    "name": "刺錘犬妖",
+    "released": false
+  },
+  "1138": {
+    "name": "魔鍋蛋",
+    "released": false
+  },
+  "1139": {
+    "name": "螳螂",
+    "released": false
+  },
+  "1140": {
+    "name": "馬爾杜克",
+    "released": false
+  },
+  "1141": {
+    "name": "水母",
+    "released": false
+  },
+  "1142": {
+    "name": "氣泡蟲",
+    "released": false
+  },
+  "1143": {
+    "name": "傀儡娃娃",
+    "released": false
+  },
+  "1144": {
+    "name": "烏賊",
+    "released": false
+  },
+  "1145": {
+    "name": "土撥鼠",
+    "released": false
+  },
+  "1146": {
+    "name": "黑狐",
+    "released": false
+  },
+  "1147": {
+    "name": "蟻後",
+    "released": false
+  },
+  "1148": {
+    "name": "米杜沙",
+    "released": false
+  },
+  "1149": {
+    "name": "米洛斯",
+    "released": false
+  },
+  "1150": {
+    "name": "月夜貓",
+    "released": false
+  },
+  "1151": {
+    "name": "麥斯特",
+    "released": false
+  },
+  "1152": {
+    "name": "邪骸獸人",
+    "released": false
+  },
+  "1153": {
+    "name": "獸人腐屍",
+    "released": false
+  },
+  "1154": {
+    "name": "帕莎納",
+    "released": false
+  },
+  "1155": {
+    "name": "畢帝特地龍",
+    "released": false
+  },
+  "1156": {
+    "name": "畢帝特飛龍",
+    "released": false
+  },
+  "1157": {
+    "name": "法老王",
+    "released": false
+  },
+  "1158": {
+    "name": "劍魚",
+    "released": false
+  },
+  "1159": {
+    "name": "皮裡恩",
+    "released": false
+  },
+  "1160": {
+    "name": "工蟻",
+    "released": false
+  },
+  "1161": {
+    "name": "漂浮蟲",
+    "released": false
+  },
+  "1162": {
+    "name": "草精",
+    "released": false
+  },
+  "1163": {
+    "name": "幽靈劍士",
+    "released": false
+  },
+  "1164": {
+    "name": "諾可伊",
+    "released": false
+  },
+  "1165": {
+    "name": "泥人",
+    "released": false
+  },
+  "1166": {
+    "name": "野豬",
+    "released": false
+  },
+  "1167": {
+    "name": "小野豬",
+    "released": false
+  },
+  "1169": {
+    "name": "邪骸礦工",
+    "released": false
+  },
+  "1170": {
+    "name": "鬼女",
+    "released": false
+  },
+  "1174": {
+    "name": "瓢蟲",
+    "released": false
+  },
+  "1175": {
+    "name": "白鼠",
+    "released": false
+  },
+  "1176": {
+    "name": "黑蟻",
+    "released": false
+  },
+  "1177": {
+    "name": "茲諾克",
+    "released": false
+  },
+  "1178": {
+    "name": "傑洛米",
+    "released": false
+  },
+  "1179": {
+    "name": "白幽靈",
+    "released": false
+  },
+  "1180": {
+    "name": "九尾狐",
+    "released": false
+  },
+  "1185": {
+    "name": "白幽靈",
+    "released": false
+  },
+  "1186": {
+    "name": "巨大白幽靈",
+    "released": false
+  },
+  "1188": {
+    "name": "妖道",
+    "released": false
+  },
+  "1189": {
+    "name": "獸人弓箭手",
+    "released": false
+  },
+  "1190": {
+    "name": "獸人酋長",
+    "released": false
+  },
+  "1191": {
+    "name": "邪惡箱",
+    "released": false
+  },
+  "1192": {
+    "name": "惡靈",
+    "released": false
+  },
+  "1193": {
+    "name": "鐘怪",
+    "released": false
+  },
+  "1194": {
+    "name": "卷甲蟲",
+    "released": false
+  },
+  "1195": {
+    "name": "飛行魔書",
+    "released": false
+  },
+  "1196": {
+    "name": "邪骸戰俘",
+    "released": false
+  },
+  "1197": {
+    "name": "腐屍戰俘",
+    "released": false
+  },
+  "1198": {
+    "name": "暗黑祭司",
+    "released": false
+  },
+  "1199": {
+    "name": "朽魔",
+    "released": false
+  },
+  "1200": {
+    "name": "艾斯恩魔女",
+    "released": false
+  },
+  "1201": {
+    "name": "瑞比歐",
+    "released": false
+  },
+  "1202": {
+    "name": "獸人腐屍 / 阿修羅狂戰士",
+    "released": false
+  },
+  "1203": {
+    "name": "弒神者",
+    "released": false
+  },
+  "1204": {
+    "name": "獸牙怪",
+    "released": false
+  },
+  "1205": {
+    "name": "行刑者",
+    "released": false
+  },
+  "1206": {
+    "name": "虎蜥人",
+    "released": false
+  },
+  "1207": {
+    "name": "史汀",
+    "released": false
+  },
+  "1208": {
+    "name": "邪骸浪人",
+    "released": false
+  },
+  "1209": {
+    "name": "藍鼠",
+    "released": false
+  },
+  "1211": {
+    "name": "伊特瓢蟲",
+    "released": false
+  },
+  "1212": {
+    "name": "鐵蠍",
+    "released": false
+  },
+  "1213": {
+    "name": "獸人戰士長",
+    "released": false
+  },
+  "1214": {
+    "name": "巧克猴",
+    "released": false
+  },
+  "1215": {
+    "name": "灰森靈",
+    "released": false
+  },
+  "1216": {
+    "name": "梅納海葵",
+    "released": false
+  },
+  "1219": {
+    "name": "深淵騎士",
+    "released": false
+  },
+  "1242": {
+    "name": "冰波利",
+    "released": false
+  },
+  "1243": {
+    "name": "雪熊",
+    "released": false
+  },
+  "1246": {
+    "name": "甜餅人",
+    "released": false
+  },
+  "1248": {
+    "name": "玩具士兵",
+    "released": false
+  },
+  "1249": {
+    "name": "邪惡禮盒",
+    "released": false
+  },
+  "1250": {
+    "name": "魔靈娃娃",
+    "released": false
+  },
+  "1251": {
+    "name": "冰暴騎士",
+    "released": false
+  },
+  "1252": {
+    "name": "卡崙",
+    "released": false
+  },
+  "1253": {
+    "name": "蝙蝠弓箭手",
+    "released": false
+  },
+  "1254": {
+    "name": "奈吉鳥",
+    "released": false
+  },
+  "1255": {
+    "name": "奈利蟲",
+    "released": false
+  },
+  "1256": {
+    "name": "單眼蟲",
+    "released": false
+  },
+  "1257": {
+    "name": "邪惡使者",
+    "released": false
+  },
+  "1258": {
+    "name": "弓箭哥布靈",
+    "released": false
+  },
+  "1259": {
+    "name": "獅鷲獸",
+    "released": false
+  },
+  "1260": {
+    "name": "鏡妖",
+    "released": false
+  },
+  "1261": {
+    "name": "狂暴野貓",
+    "released": false
+  },
+  "1262": {
+    "name": "半龍人",
+    "released": false
+  },
+  "1263": {
+    "name": "風魔巫師",
+    "released": false
+  },
+  "1264": {
+    "name": "人魚士兵",
+    "released": false
+  },
+  "1265": {
+    "name": "綠餅人",
+    "released": false
+  },
+  "1266": {
+    "name": "海星",
+    "released": false
+  },
+  "1267": {
+    "name": "卡拉特小丑",
+    "released": false
+  },
+  "1268": {
+    "name": "血腥騎士",
+    "released": false
+  },
+  "1269": {
+    "name": "古鐘魔",
+    "released": false
+  },
+  "1270": {
+    "name": "鐘塔守護者",
+    "released": false
+  },
+  "1271": {
+    "name": "鱷魚人",
+    "released": false
+  },
+  "1272": {
+    "name": "黑暗之王",
+    "released": false
+  },
+  "1273": {
+    "name": "獸人女戰士",
+    "released": false
+  },
+  "1274": {
+    "name": "邪惡摩艾",
+    "released": false
+  },
+  "1275": {
+    "name": "愛麗絲女僕",
+    "released": false
+  },
+  "1276": {
+    "name": "幽靈弓箭手",
+    "released": false
+  },
+  "1277": {
+    "name": "將軍魔碑",
+    "released": false
+  },
+  "1278": {
+    "name": "鐘乳巨石怪",
+    "released": false
+  },
+  "1279": {
+    "name": "三葉蟲",
+    "released": false
+  },
+  "1280": {
+    "name": "噴射哥布靈",
+    "released": false
+  },
+  "1281": {
+    "name": "賢者蟲",
+    "released": false
+  },
+  "1282": {
+    "name": "犬妖弓箭手",
+    "released": false
+  },
+  "1283": {
+    "name": "凱美拉",
+    "released": false
+  },
+  "1285": {
+    "name": "弓箭手 監護人",
+    "released": false
+  },
+  "1286": {
+    "name": "騎士 監護人",
+    "released": false
+  },
+  "1287": {
+    "name": "士兵 監護人",
+    "released": false
+  },
+  "1288": {
+    "name": "華麗金屬",
+    "released": false
+  },
+  "1289": {
+    "name": "狂暴蟻後",
+    "released": false
+  },
+  "1290": {
+    "name": "邪骸戰士長",
+    "released": false
+  },
+  "1291": {
+    "name": "狂暴惡靈",
+    "released": false
+  },
+  "1292": {
+    "name": "狂暴小惡魔",
+    "released": false
+  },
+  "1293": {
+    "name": "狂暴克瑞米",
+    "released": false
+  },
+  "1294": {
+    "name": "狂暴螳螂",
+    "released": false
+  },
+  "1295": {
+    "name": "鶚梟男爵",
+    "released": false
+  },
+  "1296": {
+    "name": "犬妖首領",
+    "released": false
+  },
+  "1297": {
+    "name": "狂暴木乃伊",
+    "released": false
+  },
+  "1298": {
+    "name": "腐屍首領",
+    "released": false
+  },
+  "1299": {
+    "name": "哥布靈首領",
+    "released": false
+  },
+  "1300": {
+    "name": "狂暴綠棉蟲",
+    "released": false
+  },
+  "1301": {
+    "name": "狂暴小土人",
+    "released": false
+  },
+  "1302": {
+    "name": "迷幻之王",
+    "released": false
+  },
+  "1303": {
+    "name": "狂暴蜂兵",
+    "released": false
+  },
+  "1304": {
+    "name": "狂暴蜘蛛",
+    "released": false
+  },
+  "1305": {
+    "name": "狂暴蜈蚣",
+    "released": false
+  },
+  "1306": {
+    "name": "狂暴大腳熊",
+    "released": false
+  },
+  "1307": {
+    "name": "狂暴月夜貓",
+    "released": false
+  },
+  "1308": {
+    "name": "狂暴哥布靈",
+    "released": false
+  },
+  "1309": {
+    "name": "狂暴鬼火",
+    "released": false
+  },
+  "1310": {
+    "name": "狂暴米諾斯",
+    "released": false
+  },
+  "1311": {
+    "name": "狂暴野豬",
+    "released": false
+  },
+  "1312": {
+    "name": "烏龜將軍",
+    "released": false
+  },
+  "1313": {
+    "name": "流氓",
+    "released": false
+  },
+  "1314": {
+    "name": "果樹龜",
+    "released": false
+  },
+  "1315": {
+    "name": "風靈龜",
+    "released": false
+  },
+  "1316": {
+    "name": "岩石龜",
+    "released": false
+  },
+  "1317": {
+    "name": "海豹寶寶",
+    "released": false
+  },
+  "1318": {
+    "name": "火焰龜",
+    "released": false
+  },
+  "1319": {
+    "name": "水靈龜",
+    "released": false
+  },
+  "1320": {
+    "name": "鶚梟首領",
+    "released": false
+  },
+  "1321": {
+    "name": "刺尾蜻蜓",
+    "released": false
+  },
+  "1322": {
+    "name": "彈簧兔",
+    "released": false
+  },
+  "1323": {
+    "name": "海獺",
+    "released": false
+  },
+  "1324": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1325": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1326": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1327": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1328": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1329": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1330": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1331": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1332": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1333": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1334": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1335": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1336": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1337": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1338": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1339": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1340": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1341": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1342": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1343": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1344": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1345": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1346": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1347": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1348": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1349": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1350": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1351": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1352": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1353": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1354": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1355": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1356": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1357": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1358": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1359": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1360": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1361": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1362": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1363": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1365": {
+    "name": "阿修羅機械戰士",
+    "released": false
+  },
+  "1366": {
+    "name": "熔岩巨石",
+    "released": false
+  },
+  "1367": {
+    "name": "火焰妖",
+    "released": false
+  },
+  "1368": {
+    "name": "邪惡向日葵",
+    "released": false
+  },
+  "1369": {
+    "name": "七彩大嘴鳥",
+    "released": false
+  },
+  "1370": {
+    "name": "惡魔女僕",
+    "released": false
+  },
+  "1371": {
+    "name": "偽天使",
+    "released": false
+  },
+  "1372": {
+    "name": "魔羌",
+    "released": false
+  },
+  "1373": {
+    "name": "死靈騎士",
+    "released": false
+  },
+  "1374": {
+    "name": "惡魔侍者",
+    "released": false
+  },
+  "1375": {
+    "name": "紙妖",
+    "released": false
+  },
+  "1376": {
+    "name": "鳥人哈比",
+    "released": false
+  },
+  "1377": {
+    "name": "邪靈魔導士",
+    "released": false
+  },
+  "1378": {
+    "name": "天邪鬼",
+    "released": false
+  },
+  "1379": {
+    "name": "七彩咪魘",
+    "released": false
+  },
+  "1380": {
+    "name": "爆鑽傘蜥",
+    "released": false
+  },
+  "1381": {
+    "name": "暴焰野熊",
+    "released": false
+  },
+  "1382": {
+    "name": "赤焰小惡魔",
+    "released": false
+  },
+  "1383": {
+    "name": "爆炎蝙蝠",
+    "released": false
+  },
+  "1384": {
+    "name": "七彩飛龍",
+    "released": false
+  },
+  "1385": {
+    "name": "七彩地龍",
+    "released": false
+  },
+  "1386": {
+    "name": "沙妖",
+    "released": false
+  },
+  "1387": {
+    "name": "沙漠毒蠍",
+    "released": false
+  },
+  "1388": {
+    "name": "聖天使波利",
+    "released": false
+  },
+  "1389": {
+    "name": "德古拉男爵",
+    "released": false
+  },
+  "1390": {
+    "name": "薇歐莉",
+    "released": false
+  },
+  "1391": {
+    "name": "啤酒企鵝",
+    "released": false
+  },
+  "1392": {
+    "name": "直升機哥布靈",
+    "released": false
+  },
+  "1400": {
+    "name": "傘妖",
+    "released": false
+  },
+  "1401": {
+    "name": "火忍西怒畢",
+    "released": false
+  },
+  "1402": {
+    "name": "牛蛙",
+    "released": false
+  },
+  "1403": {
+    "name": "武士火鎗兵",
+    "released": false
+  },
+  "1404": {
+    "name": "米雅畢",
+    "released": false
+  },
+  "1405": {
+    "name": "天狗",
+    "released": false
+  },
+  "1406": {
+    "name": "釣魚河童",
+    "released": false
+  },
+  "1408": {
+    "name": "血蝴蝶",
+    "released": false
+  },
+  "1409": {
+    "name": "元宵童子",
+    "released": false
+  },
+  "1410": {
+    "name": "猴桃木",
+    "released": false
+  },
+  "1412": {
+    "name": "惡雲仙人",
+    "released": false
+  },
+  "1413": {
+    "name": "人參精",
+    "released": false
+  },
+  "1415": {
+    "name": "小花豹",
+    "released": false
+  },
+  "1416": {
+    "name": "妖仙女",
+    "released": false
+  },
+  "1417": {
+    "name": "拉鏈熊",
+    "released": false
+  },
+  "1418": {
+    "name": "墨蛇君",
+    "released": false
+  },
+  "1422": {
+    "name": "赤蒼蠅",
+    "released": false
+  },
+  "1424": {
+    "name": "黑蛇",
+    "released": false
+  },
+  "1429": {
+    "name": "艾吉歐蜈蚣",
+    "released": false
+  },
+  "1430": {
+    "name": "艾斯蜘蛛",
+    "released": false
+  },
+  "1431": {
+    "name": "小巴風特",
+    "released": false
+  },
+  "1441": {
+    "name": "梅納海葵",
+    "released": false
+  },
+  "1457": {
+    "name": "螳螂",
+    "released": false
+  },
+  "1459": {
+    "name": "傀儡娃娃",
+    "released": false
+  },
+  "1475": {
+    "name": "惡靈",
+    "released": false
+  },
+  "1483": {
+    "name": "瑞比歐",
+    "released": false
+  },
+  "1492": {
+    "name": "元靈武士",
+    "released": false
+  },
+  "1493": {
+    "name": "森林妖姬",
+    "released": false
+  },
+  "1494": {
+    "name": "巨象甲蟲",
+    "released": false
+  },
+  "1495": {
+    "name": "石炮火樹",
+    "released": false
+  },
+  "1497": {
+    "name": "機木人",
+    "released": false
+  },
+  "1498": {
+    "name": "伍坦彈弓手",
+    "released": false
+  },
+  "1499": {
+    "name": "伍坦戰士",
+    "released": false
+  },
+  "1500": {
+    "name": "苗娃佩瑞絲",
+    "released": false
+  },
+  "1503": {
+    "name": "鬼娃樹",
+    "released": false
+  },
+  "1504": {
+    "name": "無顱武士",
+    "released": false
+  },
+  "1505": {
+    "name": "銀月魔女",
+    "released": false
+  },
+  "1506": {
+    "name": "假面鬼",
+    "released": false
+  },
+  "1507": {
+    "name": "嗜血怪人",
+    "released": false
+  },
+  "1508": {
+    "name": "萬聖魔",
+    "released": false
+  },
+  "1509": {
+    "name": "南瓜魂",
+    "released": false
+  },
+  "1510": {
+    "name": "兔斯拉",
+    "released": false
+  },
+  "1511": {
+    "name": "古埃及王",
+    "released": false
+  },
+  "1512": {
+    "name": "妖君",
+    "released": false
+  },
+  "1513": {
+    "name": "狐仙",
+    "released": false
+  },
+  "1514": {
+    "name": "舞獅",
+    "released": false
+  },
+  "1515": {
+    "name": "卡崙寶寶",
+    "released": false
+  },
+  "1516": {
+    "name": "米糕",
+    "released": false
+  },
+  "1517": {
+    "name": "豹皮怪",
+    "released": false
+  },
+  "1519": {
+    "name": "小青",
+    "released": false
+  },
+  "1531": {
+    "name": "惡雲仙人",
+    "released": false
+  },
+  "1549": {
+    "name": "熔岩巨石",
+    "released": false
+  },
+  "1564": {
+    "name": "妖仙女",
+    "released": false
+  },
+  "1565": {
+    "name": "人參精",
+    "released": false
+  },
+  "1573": {
+    "name": "邪靈魔導士",
+    "released": false
+  },
+  "1582": {
+    "name": "惡魔波利",
+    "released": false
+  },
+  "1583": {
+    "name": "塔奧群卡",
+    "released": false
+  },
+  "1584": {
+    "name": "塔嚕安",
+    "released": false
+  },
+  "1586": {
+    "name": "群葉貓",
+    "released": false
+  },
+  "1587": {
+    "name": "克萊本",
+    "released": false
+  },
+  "1600": {
+    "name": "火焰龜",
+    "released": false
+  },
+  "1603": {
+    "name": "大腳熊",
+    "released": false
+  },
+  "1606": {
+    "name": "卡崙寶寶",
+    "released": false
+  },
+  "1613": {
+    "name": "金屬波利",
+    "released": false
+  },
+  "1614": {
+    "name": "礦石魔",
+    "released": false
+  },
+  "1615": {
+    "name": "黑曜石",
+    "released": false
+  },
+  "1616": {
+    "name": "礦工魔",
+    "released": false
+  },
+  "1617": {
+    "name": "廢鐵暖爐",
+    "released": false
+  },
+  "1618": {
+    "name": "溫古力安特",
+    "released": false
+  },
+  "1619": {
+    "name": "三葉鐵甲蟲",
+    "released": false
+  },
+  "1620": {
+    "name": "廢氣魔",
+    "released": false
+  },
+  "1621": {
+    "name": "毒液魔",
+    "released": false
+  },
+  "1622": {
+    "name": "玩偶熊",
+    "released": false
+  },
+  "1623": {
+    "name": "RSX-0806",
+    "released": false
+  },
+  "1624": {
+    "name": "廢鐵暖爐",
+    "released": false
+  },
+  "1626": {
+    "name": "暗黑祭司",
+    "released": false
+  },
+  "1627": {
+    "name": "瘧蚊",
+    "released": false
+  },
+  "1628": {
+    "name": "摩爾",
+    "released": false
+  },
+  "1629": {
+    "name": "希爾士兵",
+    "released": false
+  },
+  "1630": {
+    "name": "白素貞",
+    "released": false
+  },
+  "1631": {
+    "name": "小青",
+    "released": false
+  },
+  "1632": {
+    "name": "小妖精",
+    "released": false
+  },
+  "1633": {
+    "name": "惡魔之眼",
+    "released": false
+  },
+  "1634": {
+    "name": "暗●騎士領主",
+    "released": false
+  },
+  "1635": {
+    "name": "暗●十字刺客",
+    "released": false
+  },
+  "1636": {
+    "name": "暗●神工匠",
+    "released": false
+  },
+  "1637": {
+    "name": "暗●神官",
+    "released": false
+  },
+  "1638": {
+    "name": "暗●神射手",
+    "released": false
+  },
+  "1639": {
+    "name": "暗●超魔導師",
+    "released": false
+  },
+  "1640": {
+    "name": "騎士領主 賽依連",
+    "released": false
+  },
+  "1641": {
+    "name": "十字刺客 艾勒梅斯",
+    "released": false
+  },
+  "1642": {
+    "name": "神工匠 哈沃得",
+    "released": false
+  },
+  "1643": {
+    "name": "神官 瑪嘉雷特",
+    "released": false
+  },
+  "1644": {
+    "name": "神射手 迪文",
+    "released": false
+  },
+  "1645": {
+    "name": "超魔導師 凱特莉娜",
+    "released": false
+  },
+  "1646": {
+    "name": "暗●騎士領主 賽依連",
+    "released": false
+  },
+  "1647": {
+    "name": "暗●十字刺客 艾勒梅斯",
+    "released": false
+  },
+  "1648": {
+    "name": "暗●神工匠 哈沃得",
+    "released": false
+  },
+  "1649": {
+    "name": "暗●神官 瑪嘉雷特",
+    "released": false
+  },
+  "1650": {
+    "name": "暗●神射手 迪文",
+    "released": false
+  },
+  "1651": {
+    "name": "暗●超魔導師 凱特莉娜",
+    "released": false
+  },
+  "1652": {
+    "name": "暗●劍士",
+    "released": false
+  },
+  "1653": {
+    "name": "暗●盜賊",
+    "released": false
+  },
+  "1654": {
+    "name": "暗●商人",
+    "released": false
+  },
+  "1655": {
+    "name": "暗●服事",
+    "released": false
+  },
+  "1656": {
+    "name": "暗●弓箭手",
+    "released": false
+  },
+  "1657": {
+    "name": "暗●魔法師",
+    "released": false
+  },
+  "1658": {
+    "name": "暗●劍士 賽尼亞",
+    "released": false
+  },
+  "1668": {
+    "name": "阿克坦",
+    "released": false
+  },
+  "1670": {
+    "name": "暴風迪靡克",
+    "released": false
+  },
+  "1671": {
+    "name": "冰凍迪靡克",
+    "released": false
+  },
+  "1672": {
+    "name": "崩裂迪靡克",
+    "released": false
+  },
+  "1673": {
+    "name": "火焰迪靡克",
+    "released": false
+  },
+  "1676": {
+    "name": "褐凡娜圖",
+    "released": false
+  },
+  "1677": {
+    "name": "綠凡娜圖",
+    "released": false
+  },
+  "1678": {
+    "name": "橘凡娜圖",
+    "released": false
+  },
+  "1679": {
+    "name": "藍凡娜圖",
+    "released": false
+  },
+  "1680": {
+    "name": "希爾隊長",
+    "released": false
+  },
+  "1681": {
+    "name": "雙子星-S58",
+    "released": false
+  },
+  "1682": {
+    "name": "消防魔",
+    "released": false
+  },
+  "1685": {
+    "name": "貝思波",
+    "released": false
+  },
+  "1686": {
+    "name": "獸人嬰兒",
+    "released": false
+  },
+  "1687": {
+    "name": "綠變色龍",
+    "released": false
+  },
+  "1688": {
+    "name": "嗒妮小姐",
+    "released": false
+  },
+  "1692": {
+    "name": "微風",
+    "released": false
+  },
+  "1693": {
+    "name": "黃色等離子體",
+    "released": false
+  },
+  "1694": {
+    "name": "紅色等離子體",
+    "released": false
+  },
+  "1695": {
+    "name": "綠色等離子體",
+    "released": false
+  },
+  "1696": {
+    "name": "紫色等離子體",
+    "released": false
+  },
+  "1697": {
+    "name": "藍色等離子體",
+    "released": false
+  },
+  "1698": {
+    "name": "死亡魔書",
+    "released": false
+  },
+  "1699": {
+    "name": "狂暴邪惡箱",
+    "released": false
+  },
+  "1700": {
+    "name": "監視者",
+    "released": false
+  },
+  "1701": {
+    "name": "安息者",
+    "released": false
+  },
+  "1702": {
+    "name": "代行刑者",
+    "released": false
+  },
+  "1703": {
+    "name": "慰勞者",
+    "released": false
+  },
+  "1704": {
+    "name": "達納托斯的憎恨",
+    "released": false
+  },
+  "1705": {
+    "name": "達納托斯的絕望",
+    "released": false
+  },
+  "1706": {
+    "name": "達納托斯的悲哀",
+    "released": false
+  },
+  "1707": {
+    "name": "達納托斯的苦惱",
+    "released": false
+  },
+  "1708": {
+    "name": "魔劍士 達納托斯的記憶",
+    "released": false
+  },
+  "1709": {
+    "name": "達納托斯的憎恨",
+    "released": false
+  },
+  "1710": {
+    "name": "達納托斯的絕望",
+    "released": false
+  },
+  "1711": {
+    "name": "達納托斯的悲哀",
+    "released": false
+  },
+  "1712": {
+    "name": "達納托斯的苦惱",
+    "released": false
+  },
+  "1713": {
+    "name": "俄希托斯",
+    "released": false
+  },
+  "1714": {
+    "name": "紅貝勒斯",
+    "released": false
+  },
+  "1715": {
+    "name": "諾博斯",
+    "released": false
+  },
+  "1716": {
+    "name": "灰俄希托斯",
+    "released": false
+  },
+  "1717": {
+    "name": "綠貝勒斯",
+    "released": false
+  },
+  "1718": {
+    "name": "黃諾博斯",
+    "released": false
+  },
+  "1719": {
+    "name": "迪塔勒泰晤勒斯",
+    "released": false
+  },
+  "1720": {
+    "name": "三頭龍",
+    "released": false
+  },
+  "1721": {
+    "name": "龍蛋",
+    "released": false
+  },
+  "1734": {
+    "name": "基爾 D-01 / 齊爾 D-01",
+    "released": false
+  },
+  "1735": {
+    "name": "愛麗削 / 愛麗瑟",
+    "released": false
+  },
+  "1736": {
+    "name": "愛麗俄",
+    "released": false
+  },
+  "1737": {
+    "name": "愛麗哲 / 愛麗莎",
+    "released": false
+  },
+  "1738": {
+    "name": "恆量魔",
+    "released": false
+  },
+  "1739": {
+    "name": "愛麗削",
+    "released": false
+  },
+  "1740": {
+    "name": "愛麗俄",
+    "released": false
+  },
+  "1745": {
+    "name": "恆量魔",
+    "released": false
+  },
+  "1746": {
+    "name": "愛麗哲",
+    "released": false
+  },
+  "1747": {
+    "name": "青蛇",
+    "released": false
+  },
+  "1751": {
+    "name": "蘭特克力斯",
+    "released": false
+  },
+  "1752": {
+    "name": "皮影魔",
+    "released": false
+  },
+  "1753": {
+    "name": "彩色皮影魔",
+    "released": false
+  },
+  "1754": {
+    "name": "褐方體惡魔",
+    "released": false
+  },
+  "1755": {
+    "name": "黑方體惡魔",
+    "released": false
+  },
+  "1761": {
+    "name": "皮影魔",
+    "released": false
+  },
+  "1762": {
+    "name": "彩色皮影魔",
+    "released": false
+  },
+  "1765": {
+    "name": "瓦爾基裡 / 巴基力 蘭特克力斯",
+    "released": false
+  },
+  "1768": {
+    "name": "影魔 / 幽暗咪魘",
+    "released": false
+  },
+  "1769": {
+    "name": "阿卡布",
+    "released": false
+  },
+  "1770": {
+    "name": "埃奇歐",
+    "released": false
+  },
+  "1771": {
+    "name": "潘貝勒克",
+    "released": false
+  },
+  "1772": {
+    "name": "伊西拉",
+    "released": false
+  },
+  "1773": {
+    "name": "異型",
+    "released": false
+  },
+  "1774": {
+    "name": "紅惡魔之眼",
+    "released": false
+  },
+  "1775": {
+    "name": "雪獸",
+    "released": false
+  },
+  "1776": {
+    "name": "小雪獸",
+    "released": false
+  },
+  "1777": {
+    "name": "冰巨人",
+    "released": false
+  },
+  "1778": {
+    "name": "蓋俄斯提",
+    "released": false
+  },
+  "1779": {
+    "name": "寒冰龍",
+    "released": false
+  },
+  "1780": {
+    "name": "吃人草",
+    "released": false
+  },
+  "1781": {
+    "name": "捕蟲草",
+    "released": false
+  },
+  "1782": {
+    "name": "土狼",
+    "released": false
+  },
+  "1783": {
+    "name": "迦利",
+    "released": false
+  },
+  "1784": {
+    "name": "石頭波利",
+    "released": false
+  },
+  "1785": {
+    "name": "阿特羅斯",
+    "released": false
+  },
+  "1789": {
+    "name": "冰柱",
+    "released": false
+  },
+  "1791": {
+    "name": "瘋狂鬣狗",
+    "released": false
+  },
+  "1794": {
+    "name": "鼬",
+    "released": false
+  },
+  "1796": {
+    "name": "阿烏奴艾 / 阿吾諾耶",
+    "released": false
+  },
+  "1797": {
+    "name": "法恩特",
+    "released": false
+  },
+  "1829": {
+    "name": "劍士監護人魔物",
+    "released": false
+  },
+  "1830": {
+    "name": "弓箭手監護人魔物",
+    "released": false
+  },
+  "1831": {
+    "name": "火蜥蜴",
+    "released": false
+  },
+  "1832": {
+    "name": "伊夫利特",
+    "released": false
+  },
+  "1833": {
+    "name": "火鳥",
+    "released": false
+  },
+  "1836": {
+    "name": "熔岩波利 / 岩漿波利",
+    "released": false
+  },
+  "1837": {
+    "name": "熔岩魔 / 炙焰魔",
+    "released": false
+  },
+  "1838": {
+    "name": "礦坑小精靈",
+    "released": false
+  },
+  "1839": {
+    "name": "漂流浪人",
+    "released": false
+  },
+  "1864": {
+    "name": "殭屍屠戮者 / 屠殺腐屍",
+    "released": false
+  },
+  "1865": {
+    "name": "變異殭屍 / 襤褸腐屍",
+    "released": false
+  },
+  "1866": {
+    "name": "地獄犬 / 地獄貴賓狗",
+    "released": false
+  },
+  "1867": {
+    "name": "女妖 / 惡耗女妖",
+    "released": false
+  },
+  "1869": {
+    "name": "火焰顱骨 / 火焰骷髏頭",
+    "released": false
+  },
+  "1870": {
+    "name": "亡靈巫師 / 行妖術者",
+    "released": false
+  },
+  "1871": {
+    "name": "墮落的大神官 希巴姆 / 悉潘",
+    "released": false
+  },
+  "1873": {
+    "name": "貝雷傑 / 詛咒蠅",
+    "released": false
+  },
+  "1880": {
+    "name": "樹林哥布靈",
+    "released": false
+  },
+  "1881": {
+    "name": "雷斯",
+    "released": false
+  },
+  "1882": {
+    "name": "芭芭亞卡",
+    "released": false
+  },
+  "1883": {
+    "name": "樹林女巫",
+    "released": false
+  },
+  "1884": {
+    "name": "森林妖精",
+    "released": false
+  },
+  "1885": {
+    "name": "青冠龍",
+    "released": false
+  },
+  "1894": {
+    "name": "雨水波利",
+    "released": false
+  },
+  "1905": {
+    "name": "防禦線",
+    "released": false
+  },
+  "1907": {
+    "name": "第1守護石",
+    "released": false
+  },
+  "1908": {
+    "name": "第2守護石",
+    "released": false
+  },
+  "1916": {
+    "name": "魔王 咪羅克",
+    "released": false
+  },
+  "1917": {
+    "name": "負傷咪羅克",
+    "released": false
+  },
+  "1918": {
+    "name": "咪羅克門徒之邪靈",
+    "released": false
+  },
+  "1919": {
+    "name": "咪羅克門徒之泥怪",
+    "released": false
+  },
+  "1920": {
+    "name": "咪羅克門徒之活屍",
+    "released": false
+  },
+  "1921": {
+    "name": "咪羅克門徒之喜樂",
+    "released": false
+  },
+  "1929": {
+    "name": "巨大的巴風特",
+    "released": false
+  },
+  "1938": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1939": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1940": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1941": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1942": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1943": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1944": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1945": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1946": {
+    "name": "寶物箱子",
+    "released": false
+  },
+  "1956": {
+    "name": "納戶特基格",
+    "released": false
+  },
+  "1957": {
+    "name": "死亡藤蔓",
+    "released": false
+  },
+  "1958": {
+    "name": "枯骨藤蔓",
+    "released": false
+  },
+  "1959": {
+    "name": "恢復藤蔓",
+    "released": false
+  },
+  "1960": {
+    "name": "魔力藤蔓",
+    "released": false
+  },
+  "1961": {
+    "name": "淨化藤蔓",
+    "released": false
+  },
+  "1974": {
+    "name": "愛爾蘭女妖首領",
+    "released": false
+  },
+  "1975": {
+    "name": "眼魔首領",
+    "released": false
+  },
+  "1976": {
+    "name": "鈷礦石魔 / 惡精靈礦石",
+    "released": false
+  },
+  "1977": {
+    "name": "礦石波利 / 重金屬波利",
+    "released": false
+  },
+  "1978": {
+    "name": "地獄阿修羅機械戰士",
+    "released": false
+  },
+  "1979": {
+    "name": "扎庫坦 / 扎古丹",
+    "released": false
+  },
+  "1981": {
+    "name": "獸人守護隊長",
+    "released": false
+  },
+  "1982": {
+    "name": "獸人狙擊手",
+    "released": false
+  },
+  "1983": {
+    "name": "古代獸人惡靈",
+    "released": false
+  },
+  "1984": {
+    "name": "獸人薩滿",
+    "released": false
+  },
+  "1986": {
+    "name": "塔塔丘",
+    "released": false
+  },
+  "1987": {
+    "name": "變異蜈蚣",
+    "released": false
+  },
+  "1988": {
+    "name": "豬籠草",
+    "released": false
+  },
+  "1989": {
+    "name": "希斯利安 / 三角幼獅獸",
+    "released": false
+  },
+  "1990": {
+    "name": "硬石猛瑪",
+    "released": false
+  },
+  "1991": {
+    "name": "三角獸 / 三角狂獅獸",
+    "released": false
+  },
+  "1992": {
+    "name": "飛馬 / 獨角飛馬",
+    "released": false
+  },
+  "1993": {
+    "name": "納迦 / 那迦",
+    "released": false
+  },
+  "1994": {
+    "name": "毒黃蜂 / 魯修拉黃蜂",
+    "released": false
+  },
+  "1995": {
+    "name": "捕蟲堇 / 捕蟲堇妖",
+    "released": false
+  },
+  "1999": {
+    "name": "變異蜈蚣幼蟲",
+    "released": false
+  },
+  "2013": {
+    "name": "飛龍 / 暴躁龍",
+    "released": false
+  },
+  "2014": {
+    "name": "飛龍蛋 / 暴躁龍蛋",
+    "released": false
+  },
+  "2015": {
+    "name": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+    "released": false
+  },
+  "2016": {
+    "name": "水元素 / 水精靈",
+    "released": false
+  },
+  "2017": {
+    "name": "拉塔 / 刷尾負鼠",
+    "released": false
+  },
+  "2018": {
+    "name": "杜內爾 / 杜尼爾",
+    "released": false
+  },
+  "2019": {
+    "name": "古樹",
+    "released": false
+  },
+  "2020": {
+    "name": "鉤藤",
+    "released": false
+  },
+  "2021": {
+    "name": "費爾拉",
+    "released": false
+  },
+  "2022": {
+    "name": "尼德豪克的影子",
+    "released": false
+  },
+  "2023": {
+    "name": "黑影幽靈",
+    "released": false
+  },
+  "2024": {
+    "name": "石錘巨人 / 鈽鐳巨人",
+    "released": false
+  },
+  "2057": {
+    "name": "變異老鼠",
+    "released": false
+  },
+  "2068": {
+    "name": "波伊塔塔",
+    "released": false
+  },
+  "2069": {
+    "name": "亞拉",
+    "released": false
+  },
+  "2070": {
+    "name": "食人魚",
+    "released": false
+  },
+  "2071": {
+    "name": "無頭騾",
+    "released": false
+  },
+  "2072": {
+    "name": "美洲虎",
+    "released": false
+  },
+  "2073": {
+    "name": "巨嘴鳥",
+    "released": false
+  },
+  "2074": {
+    "name": "小綠人",
+    "released": false
+  },
+  "2081": {
+    "name": "變異海葵",
+    "released": false
+  },
+  "2083": {
+    "name": "獨角甲蟲",
+    "released": false
+  },
+  "2084": {
+    "name": "雙角甲蟲",
+    "released": false
+  },
+  "2085": {
+    "name": "鹿角甲蟲",
+    "released": false
+  },
+  "2086": {
+    "name": "尖角甲蟲",
+    "released": false
+  },
+  "2087": {
+    "name": "女王甲蟲",
+    "released": false
+  },
+  "2088": {
+    "name": "獨角甲蟲卵",
+    "released": false
+  },
+  "2089": {
+    "name": "雙角甲蟲卵",
+    "released": false
+  },
+  "2090": {
+    "name": "鹿角甲蟲卵",
+    "released": false
+  },
+  "2091": {
+    "name": "尖角甲蟲卵",
+    "released": false
+  },
+  "2092": {
+    "name": "狡蛛",
+    "released": false
+  },
+  "2131": {
+    "name": "殭屍龍",
+    "released": false
+  },
+  "2132": {
+    "name": "食人蜘蛛",
+    "released": false
+  },
+  "2133": {
+    "name": "瘋狂螳螂",
+    "released": false
+  },
+  "2134": {
+    "name": "惡魔啄木鳥",
+    "released": false
+  },
+  "2136": {
+    "name": "玩偶魔妖",
+    "released": false
+  },
+  "2137": {
+    "name": "異形毛毛怪",
+    "released": false
+  },
+  "2138": {
+    "name": "守護者記憶碎片",
+    "released": false
+  },
+  "2151": {
+    "name": "泰坦魔芋花",
+    "released": false
+  },
+  "2152": {
+    "name": "科摩多龍",
+    "released": false
+  },
+  "2153": {
+    "name": "天堂鳥",
+    "released": false
+  },
+  "2154": {
+    "name": "巴拿斯帕堤",
+    "released": false
+  },
+  "2155": {
+    "name": "布托異竺",
+    "released": false
+  },
+  "2156": {
+    "name": "讓特",
+    "released": false
+  },
+  "2161": {
+    "name": "獨角甲蟲",
+    "released": false
+  },
+  "2162": {
+    "name": "雙角甲蟲",
+    "released": false
+  },
+  "2163": {
+    "name": "鹿角甲蟲",
+    "released": false
+  },
+  "2164": {
+    "name": "尖角甲蟲",
+    "released": false
+  },
+  "2165": {
+    "name": "女王甲蟲",
+    "released": false
+  },
+  "2166": {
+    "name": "獨角甲蟲卵",
+    "released": false
+  },
+  "2167": {
+    "name": "雙角甲蟲卵",
+    "released": false
+  },
+  "2168": {
+    "name": "鹿角甲蟲卵",
+    "released": false
+  },
+  "2169": {
+    "name": "尖角甲蟲卵",
+    "released": false
+  },
+  "2174": {
+    "name": "遠古甲殼類",
+    "released": false
+  },
+  "2175": {
+    "name": "深海魷魚",
+    "released": false
+  },
+  "2176": {
+    "name": "深海大蟹",
+    "released": false
+  },
+  "2177": {
+    "name": "深海海螺",
+    "released": false
+  },
+  "2178": {
+    "name": "深海貝殼",
+    "released": false
+  },
+  "2179": {
+    "name": "遠古庫克雷",
+    "released": false
+  },
+  "2180": {
+    "name": "遠古海神",
+    "released": false
+  },
+  "2181": {
+    "name": "遠古異變魚",
+    "released": false
+  },
+  "2182": {
+    "name": "遠古海馬",
+    "released": false
+  },
+  "2183": {
+    "name": "突變虎蜥人",
+    "released": false
+  },
+  "2184": {
+    "name": "深海人魚",
+    "released": false
+  },
+  "2185": {
+    "name": "變形釣魚河童",
+    "released": false
+  },
+  "2187": {
+    "name": "黑暗腔棘魚",
+    "released": false
+  },
+  "2188": {
+    "name": "怪異腔棘魚",
+    "released": false
+  },
+  "2189": {
+    "name": "暴力腔棘魚",
+    "released": false
+  },
+  "2190": {
+    "name": "變種腔棘魚",
+    "released": false
+  },
+  "2191": {
+    "name": "海草",
+    "released": false
+  },
+  "2192": {
+    "name": "小章魚",
+    "released": false
+  },
+  "2193": {
+    "name": "章魚腳",
+    "released": false
+  },
+  "2194": {
+    "name": "狂暴章魚",
+    "released": false
+  },
+  "2197": {
+    "name": "紅海星",
+    "released": false
+  },
+  "2198": {
+    "name": "大腳龍蝦",
+    "released": false
+  },
+  "2199": {
+    "name": "胖胖波利",
+    "released": false
+  },
+  "2201": {
+    "name": "深海電鰻",
+    "released": false
+  },
+  "2202": {
+    "name": "魔鬼大烏賊",
+    "released": false
+  },
+  "2203": {
+    "name": "醬缸章魚",
+    "released": false
+  },
+  "2204": {
+    "name": "賽杜拉",
+    "released": false
+  },
+  "2208": {
+    "name": "野貓騎士",
+    "released": false
+  },
+  "2221": {
+    "name": "暗●聖殿十字軍",
+    "released": false
+  },
+  "2222": {
+    "name": "暗●創造者",
+    "released": false
+  },
+  "2223": {
+    "name": "暗●智者",
+    "released": false
+  },
+  "2224": {
+    "name": "暗●武術宗師",
+    "released": false
+  },
+  "2225": {
+    "name": "暗●神行太保",
+    "released": false
+  },
+  "2226": {
+    "name": "暗●搞笑藝人",
+    "released": false
+  },
+  "2227": {
+    "name": "暗●冷豔舞姬",
+    "released": false
+  },
+  "2228": {
+    "name": "聖殿十字軍 蘭達",
+    "released": false
+  },
+  "2229": {
+    "name": "創造者 普拉",
+    "released": false
+  },
+  "2230": {
+    "name": "智者 西里亞",
+    "released": false
+  },
+  "2231": {
+    "name": "武術宗師 陳理歐",
+    "released": false
+  },
+  "2232": {
+    "name": "神行太保 科迪",
+    "released": false
+  },
+  "2233": {
+    "name": "搞笑藝人 雅歐帕奇爾",
+    "released": false
+  },
+  "2234": {
+    "name": "冷豔舞姬 特蘭提尼",
+    "released": false
+  },
+  "2235": {
+    "name": "暗●聖殿十字軍 蘭達",
+    "released": false
+  },
+  "2236": {
+    "name": "暗●創造者 普拉梅姆",
+    "released": false
+  },
+  "2237": {
+    "name": "暗●智者 西里亞",
+    "released": false
+  },
+  "2238": {
+    "name": "暗●武術宗師 陳理歐",
+    "released": false
+  },
+  "2239": {
+    "name": "暗●神行太保 科迪",
+    "released": false
+  },
+  "2240": {
+    "name": "暗●搞笑藝人 雅歐帕奇爾",
+    "released": false
+  },
+  "2241": {
+    "name": "暗●冷豔舞姬 特蘭提尼",
+    "released": false
+  },
+  "2242": {
+    "name": "餓壞了的實驗動物",
+    "released": false
+  },
+  "2243": {
+    "name": "餓壞了的實驗動物",
+    "released": false
+  },
+  "2244": {
+    "name": "暗●武術宗師",
+    "released": false
+  },
+  "2249": {
+    "name": "淘汰者傅立葉",
+    "released": false
+  },
+  "2250": {
+    "name": "女戰士羅拉",
+    "released": false
+  },
+  "2251": {
+    "name": "喬伊亞",
+    "released": false
+  },
+  "2252": {
+    "name": "埃維亞",
+    "released": false
+  },
+  "2253": {
+    "name": "將軍大賢",
+    "released": false
+  },
+  "2254": {
+    "name": "衛士小賢",
+    "released": false
+  },
+  "2255": {
+    "name": "亡靈的守護者卡德斯",
+    "released": false
+  },
+  "2256": {
+    "name": "魯盜",
+    "released": false
+  },
+  "2281": {
+    "name": "深淵魔影 / 深淵黑影幽靈",
+    "released": false
+  },
+  "2282": {
+    "name": "深淵鏡妖 / 深淵魔鏡",
+    "released": false
+  },
+  "2283": {
+    "name": "深淵暗黑祭司 / 深淵神父",
+    "released": false
+  },
+  "2284": {
+    "name": "深淵犬妖",
+    "released": false
+  },
+  "2285": {
+    "name": "深淵犬妖",
+    "released": false
+  },
+  "2286": {
+    "name": "深淵犬妖",
+    "released": false
+  },
+  "2287": {
+    "name": "深淵犬妖弓箭手",
+    "released": false
+  },
+  "2288": {
+    "name": "寶物箱子 / 瘋狂寶箱",
+    "released": false
+  },
+  "2309": {
+    "name": "獨眼怪",
+    "released": false
+  },
+  "2310": {
+    "name": "昂坎圖",
+    "released": false
+  },
+  "2311": {
+    "name": "瑪那能革",
+    "released": false
+  },
+  "2312": {
+    "name": "猛酷巫師",
+    "released": false
+  },
+  "2313": {
+    "name": "邪魔馬",
+    "released": false
+  },
+  "2314": {
+    "name": "惡魔嬰兒",
+    "released": false
+  },
+  "2315": {
+    "name": "食屍鬼",
+    "released": false
+  },
+  "2316": {
+    "name": "食人波利",
+    "released": false
+  },
+  "2317": {
+    "name": "般滾勾特 / 噩咪死神",
+    "released": false
+  },
+  "2318": {
+    "name": "般滾勾特 / 噩咪死神",
+    "released": false
+  },
+  "2319": {
+    "name": "寶箱巨鱷",
+    "released": false
+  },
+  "2320": {
+    "name": "食月者 / 巴庫暴龍",
+    "released": false
+  },
+  "2321": {
+    "name": "食月者 / 巴庫暴龍",
+    "released": false
+  },
+  "2322": {
+    "name": "食月者 / 巴庫暴龍",
+    "released": false
+  },
+  "2327": {
+    "name": "般滾勾特 / 噩咪死神",
+    "released": false
+  },
+  "2328": {
+    "name": "鼓",
+    "released": false
+  },
+  "2329": {
+    "name": "寶箱巨鱷的蛋",
+    "released": false
+  },
+  "2330": {
+    "name": "寶箱巨鱷的部下",
+    "released": false
+  },
+  "2331": {
+    "name": "海草",
+    "released": false
+  },
+  "2332": {
+    "name": "寶箱巨鱷",
+    "released": false
+  },
+  "2333": {
+    "name": "寶箱巨鱷的弱點",
+    "released": false
+  },
+  "2334": {
+    "name": "食屍鬼",
+    "released": false
+  },
+  "2335": {
+    "name": "食月者的寶箱",
+    "released": false
+  },
+  "2337": {
+    "name": "隱形怪物",
+    "released": false
+  },
+  "2338": {
+    "name": "瑪那能革",
+    "released": false
+  },
+  "2339": {
+    "name": "猛酷巫師",
+    "released": false
+  },
+  "2340": {
+    "name": "惡魔嬰兒",
+    "released": false
+  },
+  "2353": {
+    "name": "米洛斯-咪魘",
+    "released": false
+  },
+  "2354": {
+    "name": "木乃伊-咪魘",
+    "released": false
+  },
+  "2355": {
+    "name": "木乃伊犬-咪魘",
+    "released": false
+  },
+  "2356": {
+    "name": "邪惡箱-咪魘",
+    "released": false
+  },
+  "2358": {
+    "name": "卷甲蟲-咪魘",
+    "released": false
+  },
+  "2360": {
+    "name": "狂暴木乃伊-咪魘",
+    "released": false
+  },
+  "2362": {
+    "name": "古埃及王-咪魘",
+    "released": false
+  },
+  "2363": {
+    "name": "花妖精",
+    "released": false
+  },
+  "2364": {
+    "name": "花瓣怪蟲",
+    "released": false
+  },
+  "2365": {
+    "name": "惡靈之霧",
+    "released": false
+  },
+  "2366": {
+    "name": "古靈精怪書",
+    "released": false
+  },
+  "2367": {
+    "name": "元素鬼火",
+    "released": false
+  },
+  "2368": {
+    "name": "元素鬼火",
+    "released": false
+  },
+  "2369": {
+    "name": "元素鬼火",
+    "released": false
+  },
+  "2370": {
+    "name": "元素鬼火",
+    "released": false
+  },
+  "2371": {
+    "name": "頑靈惡童",
+    "released": false
+  },
+  "2375": {
+    "name": "咪羅克分身",
+    "released": false
+  },
+  "2376": {
+    "name": "咪羅克分身",
+    "released": false
+  },
+  "2398": {
+    "name": "寶貝波利",
+    "released": false
+  },
+  "2401": {
+    "name": "Poring",
+    "released": false
+  },
+  "2404": {
+    "name": "變異幽浮水母",
+    "released": false
+  },
+  "2405": {
+    "name": "石斧海盜骷髏",
+    "released": false
+  },
+  "2406": {
+    "name": "短劍海盜骷髏",
+    "released": false
+  },
+  "2415": {
+    "name": "暗●騎士",
+    "released": false
+  },
+  "2416": {
+    "name": "暗●刺客",
+    "released": false
+  },
+  "2417": {
+    "name": "暗●鐵匠",
+    "released": false
+  },
+  "2418": {
+    "name": "暗●獵人",
+    "released": false
+  },
+  "2419": {
+    "name": "暗●巫師",
+    "released": false
+  },
+  "2420": {
+    "name": "暗●牧師",
+    "released": false
+  },
+  "2421": {
+    "name": "暗●十字軍",
+    "released": false
+  },
+  "2422": {
+    "name": "暗●流氓",
+    "released": false
+  },
+  "2423": {
+    "name": "暗●煉金術士",
+    "released": false
+  },
+  "2424": {
+    "name": "暗●詩人",
+    "released": false
+  },
+  "2425": {
+    "name": "暗●舞孃",
+    "released": false
+  },
+  "2426": {
+    "name": "暗●賢者",
+    "released": false
+  },
+  "2427": {
+    "name": "暗●武僧",
+    "released": false
+  },
+  "2441": {
+    "name": "最後的初心者 / 魔鬼孩子王",
+    "released": false
+  },
+  "2442": {
+    "name": "超級初心者之王 / 魔鬼孩子王",
+    "released": false
+  },
+  "2464": {
+    "name": "鬼哭神嚎園丁 / 腐屍",
+    "released": false
+  },
+  "2465": {
+    "name": "怨恨女僕 / 惡靈",
+    "released": false
+  },
+  "2466": {
+    "name": "痛苦侍衛長 / 綠腐屍",
+    "released": false
+  },
+  "2467": {
+    "name": "蛆蟲 / 卷甲蟲",
+    "released": false
+  },
+  "2468": {
+    "name": "王朝騎士 / 幽靈劍士",
+    "released": false
+  },
+  "2469": {
+    "name": "王朝弓箭手 / 四處徘徊的弓箭手",
+    "released": false
+  },
+  "2470": {
+    "name": "汙染白騎士 / 墮落的深淵騎士",
+    "released": false
+  },
+  "2471": {
+    "name": "王朝侍衛長 / 怨念的卡利斯格",
+    "released": false
+  },
+  "2472": {
+    "name": "受詛咒騎士 / 血腥騎士",
+    "released": false
+  },
+  "2473": {
+    "name": "痛苦皇家騎士 / 破滅的第1騎士團長",
+    "released": false
+  },
+  "2474": {
+    "name": "怨恨皇家騎士 / 毀滅的第2騎士團長",
+    "released": false
+  },
+  "2475": {
+    "name": "墮落根莖 / 墮落之根",
+    "released": false
+  },
+  "2476": {
+    "name": "暗答萊屍",
+    "released": false
+  },
+  "2477": {
+    "name": "孤魂怨靈 / 被詛咒的邪骸浪人",
+    "released": false
+  },
+  "2478": {
+    "name": "受詛咒的書",
+    "released": false
+  },
+  "2479": {
+    "name": "受詛咒寶箱",
+    "released": false
+  },
+  "2480": {
+    "name": "墮落神父",
+    "released": false
+  },
+  "2481": {
+    "name": "守墓怨靈 / 被詛咒的守墓人",
+    "released": false
+  },
+  "2483": {
+    "name": "巴風特-咪魘",
+    "released": false
+  },
+  "2485": {
+    "name": "凱美拉-咪魘",
+    "released": false
+  },
+  "2528": {
+    "name": "驚駭森靈 / 人面蟲",
+    "released": false
+  },
+  "2529": {
+    "name": "驚駭森靈女王 / 人面蟲皇后",
+    "released": false
+  },
+  "2530": {
+    "name": "黑暗驚駭森靈 / 暗黑人面蟲",
+    "released": false
+  },
+  "2531": {
+    "name": "毒袋",
+    "released": false
+  },
+  "2532": {
+    "name": "紅色驚駭森靈女王 / 人面蟲皇后",
+    "released": false
+  },
+  "2533": {
+    "name": "綠色驚駭森靈女王 / 人面蟲皇后",
+    "released": false
+  },
+  "2534": {
+    "name": "藍色驚駭森靈女王 / 人面蟲皇后",
+    "released": false
+  },
+  "2535": {
+    "name": "黃色驚駭森靈女王 / 人面蟲皇后",
+    "released": false
+  },
+  "2536": {
+    "name": "隱形怪物3",
+    "released": false
+  },
+  "2537": {
+    "name": "隱形怪物4",
+    "released": false
+  },
+  "2540": {
+    "name": "驚駭森靈卵 / 人面蟲卵",
+    "released": false
+  },
+  "2541": {
+    "name": "驚駭森靈幼蟲 / 人面蟲幼蟲",
+    "released": false
+  },
+  "2542": {
+    "name": "艾琳長老",
+    "released": false
+  },
+  "2543": {
+    "name": "斐揚警衛兵",
+    "released": false
+  },
+  "2544": {
+    "name": "斐揚衛士",
+    "released": false
+  },
+  "2545": {
+    "name": "守衛狗 / 溫馴的警犬",
+    "released": false
+  },
+  "2546": {
+    "name": "守衛狗 / 凶惡的警犬",
+    "released": false
+  },
+  "2549": {
+    "name": "初心者 雅樂西",
+    "released": false
+  },
+  "2550": {
+    "name": "初級魔法師 狄歐艾瑞默司",
+    "released": false
+  },
+  "2551": {
+    "name": "吉芬小偷",
+    "released": false
+  },
+  "2552": {
+    "name": "吉芬小混混",
+    "released": false
+  },
+  "2553": {
+    "name": "吉芬流氓",
+    "released": false
+  },
+  "2554": {
+    "name": "武僧 沛蒙",
+    "released": false
+  },
+  "2555": {
+    "name": "巫師 奧樂德",
+    "released": false
+  },
+  "2556": {
+    "name": "十字軍 布魯德哈載",
+    "released": false
+  },
+  "2557": {
+    "name": "影狼 庫洛雅庫瑪",
+    "released": false
+  },
+  "2558": {
+    "name": "符文騎士 伊佛德斯",
+    "released": false
+  },
+  "2559": {
+    "name": "大主教 萊采尼芮",
+    "released": false
+  },
+  "2560": {
+    "name": "漫遊舞者 歐托莉柯",
+    "released": false
+  },
+  "2561": {
+    "name": "元素使 朱朱",
+    "released": false
+  },
+  "2562": {
+    "name": "元素使 狄瓦伊",
+    "released": false
+  },
+  "2563": {
+    "name": "煉金術士 培坎納比恩",
+    "released": false
+  },
+  "2564": {
+    "name": "潘利爾 / 芬裡厄",
+    "released": false
+  },
+  "2565": {
+    "name": "艾爾馮斯 / 阿方斯",
+    "released": false
+  },
+  "2566": {
+    "name": "艾爾馮斯二世 / 小阿方斯",
+    "released": false
+  },
+  "2569": {
+    "name": "瘧蚊",
+    "released": false
+  },
+  "2570": {
+    "name": "微風",
+    "released": false
+  },
+  "2571": {
+    "name": "布托異竺",
+    "released": false
+  },
+  "2572": {
+    "name": "刺蝟蟲",
+    "released": false
+  },
+  "2573": {
+    "name": "蒼蠅",
+    "released": false
+  },
+  "2574": {
+    "name": "狐仙",
+    "released": false
+  },
+  "2575": {
+    "name": "松鼠",
+    "released": false
+  },
+  "2576": {
+    "name": "克瑞米",
+    "released": false
+  },
+  "2577": {
+    "name": "綠棉蟲",
+    "released": false
+  },
+  "2578": {
+    "name": "鍬形蟲",
+    "released": false
+  },
+  "2579": {
+    "name": "兔斯拉",
+    "released": false
+  },
+  "2580": {
+    "name": "卡浩",
+    "released": false
+  },
+  "2581": {
+    "name": "南瓜魂",
+    "released": false
+  },
+  "2582": {
+    "name": "瘋兔",
+    "released": false
+  },
+  "2583": {
+    "name": "土撥鼠",
+    "released": false
+  },
+  "2584": {
+    "name": "礦石魔",
+    "released": false
+  },
+  "2585": {
+    "name": "摩爾",
+    "released": false
+  },
+  "2586": {
+    "name": "奈利蟲",
+    "released": false
+  },
+  "2587": {
+    "name": "黑曜石",
+    "released": false
+  },
+  "2588": {
+    "name": "礦工魔",
+    "released": false
+  },
+  "2589": {
+    "name": "波波利",
+    "released": false
+  },
+  "2590": {
+    "name": "蝗蟲",
+    "released": false
+  },
+  "2591": {
+    "name": "野豬",
+    "released": false
+  },
+  "2592": {
+    "name": "胖胖波利",
+    "released": false
+  },
+  "2593": {
+    "name": "小雪獸",
+    "released": false
+  },
+  "2594": {
+    "name": "雪獸",
+    "released": false
+  },
+  "2595": {
+    "name": "瓢蟲",
+    "released": false
+  },
+  "2596": {
+    "name": "石頭波利",
+    "released": false
+  },
+  "2597": {
+    "name": "綠蒼蠅",
+    "released": false
+  },
+  "2598": {
+    "name": "溫古力安特",
+    "released": false
+  },
+  "2599": {
+    "name": "野貓騎士",
+    "released": false
+  },
+  "2600": {
+    "name": "狼",
+    "released": false
+  },
+  "2601": {
+    "name": "溜溜猴",
+    "released": false
+  },
+  "2602": {
+    "name": "拉鏈熊",
+    "released": false
+  },
+  "2603": {
+    "name": "精英殭屍屠戮者 / 迅捷屠殺腐屍",
+    "released": false
+  },
+  "2604": {
+    "name": "精英 / 雄壯 腐屍戰俘",
+    "released": false
+  },
+  "2605": {
+    "name": "精英 / 菁英 腐屍首領",
+    "released": false
+  },
+  "2606": {
+    "name": "精英腐屍 / 憤怒腐屍",
+    "released": false
+  },
+  "2607": {
+    "name": "精英扎古丹 / 狡猾扎古丹",
+    "released": false
+  },
+  "2608": {
+    "name": "精英溜溜猴 / 迅捷溜溜猴",
+    "released": false
+  },
+  "2609": {
+    "name": "精英溜溜猴 / 雄壯溜溜猴",
+    "released": false
+  },
+  "2610": {
+    "name": "精英森靈 / 菁英森靈",
+    "released": false
+  },
+  "2611": {
+    "name": "精英 / 憤怒 伍坦戰士",
+    "released": false
+  },
+  "2612": {
+    "name": "精英 / 狡猾 樹林哥布靈",
+    "released": false
+  },
+  "2613": {
+    "name": "精英狼 / 迅捷狼",
+    "released": false
+  },
+  "2614": {
+    "name": "精英 / 雄壯 風魔巫師",
+    "released": false
+  },
+  "2615": {
+    "name": "精英樹精 / 菁英樹精",
+    "released": false
+  },
+  "2616": {
+    "name": "精英 / 憤怒 狂暴野貓",
+    "released": false
+  },
+  "2617": {
+    "name": "精英妖仙女 / 狡猾妖仙女",
+    "released": false
+  },
+  "2618": {
+    "name": "精英白幽靈 / 雄壯白幽靈",
+    "released": false
+  },
+  "2619": {
+    "name": "精英 / 菁英 石斧海盜骷髏",
+    "released": false
+  },
+  "2620": {
+    "name": "精英 / 憤怒 邪骸浪人",
+    "released": false
+  },
+  "2621": {
+    "name": "精英薇歐莉 / 狡猾薇歐莉",
+    "released": false
+  },
+  "2622": {
+    "name": "精英薇歐莉 / 迅捷薇歐莉",
+    "released": false
+  },
+  "2623": {
+    "name": "精英薇歐莉 / 雄壯薇歐莉",
+    "released": false
+  },
+  "2624": {
+    "name": "精英毒液魔 / 菁英毒液魔",
+    "released": false
+  },
+  "2625": {
+    "name": "精英凡娜圖 / 憤怒凡娜圖",
+    "released": false
+  },
+  "2626": {
+    "name": "精英 / 狡猾 芭芭亞卡",
+    "released": false
+  },
+  "2627": {
+    "name": "精英 / 迅捷 潘貝勒克",
+    "released": false
+  },
+  "2628": {
+    "name": "精英螃蟹 / 雄壯螃蟹",
+    "released": false
+  },
+  "2629": {
+    "name": "精英 / 菁英 溫古力安特",
+    "released": false
+  },
+  "2630": {
+    "name": "精英大嘴鳥 / 憤怒巨嘴鳥",
+    "released": false
+  },
+  "2631": {
+    "name": "精英 / 狡猾 惡魔嬰兒",
+    "released": false
+  },
+  "2632": {
+    "name": "精英盜蟲 / 雄壯盜蟲",
+    "released": false
+  },
+  "2633": {
+    "name": "精英盜蟲 / 菁英盜蟲",
+    "released": false
+  },
+  "2634": {
+    "name": "精英盜蟲 / 憤怒盜蟲",
+    "released": false
+  },
+  "2635": {
+    "name": "精英突變蛙 / 狡猾突變蛙",
+    "released": false
+  },
+  "2636": {
+    "name": "精英玩偶熊 / 迅捷玩偶熊",
+    "released": false
+  },
+  "2637": {
+    "name": "精英塔塔丘 / 雄壯塔塔丘",
+    "released": false
+  },
+  "2638": {
+    "name": "精英白鼠 / 菁英白鼠",
+    "released": false
+  },
+  "2639": {
+    "name": "精英塔嚕安 / 憤怒塔嚕安",
+    "released": false
+  },
+  "2640": {
+    "name": "精英史汀 / 狡猾史汀",
+    "released": false
+  },
+  "2641": {
+    "name": "精英灰森靈 / 迅捷灰森靈",
+    "released": false
+  },
+  "2642": {
+    "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+    "released": false
+  },
+  "2643": {
+    "name": "精英 / 菁英 石頭波利",
+    "released": false
+  },
+  "2644": {
+    "name": "精英 / 憤怒 鐘乳巨石怪",
+    "released": false
+  },
+  "2645": {
+    "name": "精英瓢蟲 / 狡猾瓢蟲",
+    "released": false
+  },
+  "2646": {
+    "name": "精英魔菇 / 迅捷魔菇",
+    "released": false
+  },
+  "2647": {
+    "name": "精英岩石龜 / 雄壯岩石龜",
+    "released": false
+  },
+  "2648": {
+    "name": "精英 / 菁英 邪骸士兵",
+    "released": false
+  },
+  "2649": {
+    "name": "精英 / 憤怒 邪骸士兵",
+    "released": false
+  },
+  "2650": {
+    "name": "精英慰勞者 / 狡猾慰勞者",
+    "released": false
+  },
+  "2651": {
+    "name": "精英鬼女 / 迅捷鬼女",
+    "released": false
+  },
+  "2652": {
+    "name": "精英雪獸 / 雄壯雪獸",
+    "released": false
+  },
+  "2653": {
+    "name": "精英青蛇 / 菁英青蛇",
+    "released": false
+  },
+  "2654": {
+    "name": "精英狸貓 / 憤怒狸貓",
+    "released": false
+  },
+  "2655": {
+    "name": "精英沙妖 / 狡猾沙妖",
+    "released": false
+  },
+  "2656": {
+    "name": "精英沙妖 / 迅捷沙妖",
+    "released": false
+  },
+  "2657": {
+    "name": "精英皮影魔 / 雄壯皮影魔",
+    "released": false
+  },
+  "2658": {
+    "name": "精英 / 菁英 邪骸戰士長",
+    "released": false
+  },
+  "2659": {
+    "name": "精英 / 憤怒 邪骸戰士長",
+    "released": false
+  },
+  "2660": {
+    "name": "精英 / 狡猾 邪骸礦工",
+    "released": false
+  },
+  "2661": {
+    "name": "精英小雪獸 / 迅捷小雪獸",
+    "released": false
+  },
+  "2662": {
+    "name": "精英黑蛇 / 雄壯黑蛇",
+    "released": false
+  },
+  "2663": {
+    "name": "精英黑蛇 / 菁英黑蛇",
+    "released": false
+  },
+  "2664": {
+    "name": "精英 / 憤怒 火忍西怒畢",
+    "released": false
+  },
+  "2665": {
+    "name": "精英安息者 / 狡猾安息者",
+    "released": false
+  },
+  "2666": {
+    "name": "精英 / 迅捷 貝殼魔靈",
+    "released": false
+  },
+  "2667": {
+    "name": "精英 / 雄壯 暗●神射手",
+    "released": false
+  },
+  "2668": {
+    "name": "精英海獺 / 菁英海獺",
+    "released": false
+  },
+  "2669": {
+    "name": "精英賽杜拉 / 憤怒賽杜拉",
+    "released": false
+  },
+  "2670": {
+    "name": "精英蠍子 / 狡猾蠍子",
+    "released": false
+  },
+  "2671": {
+    "name": "精英小野豬 / 迅捷小野豬",
+    "released": false
+  },
+  "2672": {
+    "name": "精英野豬 / 雄壯野豬",
+    "released": false
+  },
+  "2673": {
+    "name": "精英野豬 / 菁英野豬",
+    "released": false
+  },
+  "2674": {
+    "name": "精英泥人 / 憤怒泥人",
+    "released": false
+  },
+  "2675": {
+    "name": "精英火蜥蜴 / 狡猾火蜥蜴",
+    "released": false
+  },
+  "2676": {
+    "name": "精英 / 迅捷 蠻刀海盜骷髏",
+    "released": false
+  },
+  "2677": {
+    "name": "精英土狼 / 雄壯土狼",
+    "released": false
+  },
+  "2678": {
+    "name": "精英羅達蛙 / 菁英羅達蛙",
+    "released": false
+  },
+  "2679": {
+    "name": "精英羅達蛙 / 憤怒羅達蛙",
+    "released": false
+  },
+  "2680": {
+    "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+    "released": false
+  },
+  "2681": {
+    "name": "精英飛行魔書 / 迅捷飛行魔書",
+    "released": false
+  },
+  "2682": {
+    "name": "精英飛行魔書 / 雄壯飛行魔書",
+    "released": false
+  },
+  "2683": {
+    "name": "精英元宵童子 / 菁英元宵童子",
+    "released": false
+  },
+  "2684": {
+    "name": "精英代行刑者 / 憤怒代行刑者",
+    "released": false
+  },
+  "2685": {
+    "name": "精英代行刑者 / 狡猾代行刑者",
+    "released": false
+  },
+  "2686": {
+    "name": "精英代行刑者 / 迅捷代行刑者",
+    "released": false
+  },
+  "2687": {
+    "name": "精英諾可伊 / 雄壯諾可伊",
+    "released": false
+  },
+  "2688": {
+    "name": "精英消防魔 / 菁英消防魔",
+    "released": false
+  },
+  "2689": {
+    "name": "精英紅海星 / 狡猾紅海星",
+    "released": false
+  },
+  "2690": {
+    "name": "精英幽靈劍士 / 迅捷幽靈劍士",
+    "released": false
+  },
+  "2691": {
+    "name": "精英幽靈劍士 / 雄壯幽靈劍士",
+    "released": false
+  },
+  "2692": {
+    "name": "精英 / 菁英 暗●魔法師",
+    "released": false
+  },
+  "2693": {
+    "name": "精英尖角甲蟲 / 憤怒尖角甲蟲",
+    "released": false
+  },
+  "2694": {
+    "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+    "released": false
+  },
+  "2695": {
+    "name": "精英草精 / 迅捷草精",
+    "released": false
+  },
+  "2696": {
+    "name": "精英波利 / 菁英波利",
+    "released": false
+  },
+  "2697": {
+    "name": "精英波利 / 憤怒波利",
+    "released": false
+  },
+  "2698": {
+    "name": "精英波利 / 狡猾波利",
+    "released": false
+  },
+  "2699": {
+    "name": "精英波利 / 迅捷波利",
+    "released": false
+  },
+  "2700": {
+    "name": "精英 / 雄壯 三葉鐵甲蟲",
+    "released": false
+  },
+  "2701": {
+    "name": "精英波波利 / 菁英波波利",
+    "released": false
+  },
+  "2702": {
+    "name": "精英波波利 / 憤怒波波利",
+    "released": false
+  },
+  "2703": {
+    "name": "精英波波利 / 狡猾波波利",
+    "released": false
+  },
+  "2704": {
+    "name": "精英牛蛙 / 迅捷牛蛙",
+    "released": false
+  },
+  "2705": {
+    "name": "精英毒魔菇 / 雄壯毒魔菇",
+    "released": false
+  },
+  "2706": {
+    "name": "精英等離子體 / 菁英等離子體",
+    "released": false
+  },
+  "2707": {
+    "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+    "released": false
+  },
+  "2708": {
+    "name": "精英礦工魔 / 狡猾礦工魔",
+    "released": false
+  },
+  "2709": {
+    "name": "精英食人魚 / 迅捷食人魚",
+    "released": false
+  },
+  "2710": {
+    "name": "精英 / 雄壯 黑暗捕蟲堇妖",
+    "released": false
+  },
+  "2711": {
+    "name": "精英捕蟲堇妖 / 菁英捕蟲堇妖",
+    "released": false
+  },
+  "2712": {
+    "name": "精英小雞 / 憤怒小雞",
+    "released": false
+  },
+  "2713": {
+    "name": "精英劍魚 / 狡猾劍魚",
+    "released": false
+  },
+  "2714": {
+    "name": "精英 / 迅捷 畢帝特地龍",
+    "released": false
+  },
+  "2715": {
+    "name": "精英 / 雄壯 畢帝特地龍",
+    "released": false
+  },
+  "2716": {
+    "name": "精英梅納海葵 / 菁英梅納海葵",
+    "released": false
+  },
+  "2717": {
+    "name": "精英梅納海葵 / 憤怒梅納海葵",
+    "released": false
+  },
+  "2718": {
+    "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+    "released": false
+  },
+  "2719": {
+    "name": "精英帕莎納 / 迅捷帕莎納",
+    "released": false
+  },
+  "2720": {
+    "name": "精英 / 雄壯 苗娃佩瑞絲",
+    "released": false
+  },
+  "2721": {
+    "name": "精英?裊首領 / 菁英?裊首領",
+    "released": false
+  },
+  "2722": {
+    "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+    "released": false
+  },
+  "2723": {
+    "name": "精英獸人腐屍 / 狡猾阿修羅狂戰士",
+    "released": false
+  },
+  "2724": {
+    "name": "精英邪骸獸人 / 迅捷邪骸獸人",
+    "released": false
+  },
+  "2725": {
+    "name": "精英 / 雄壯 獸人女戰士",
+    "released": false
+  },
+  "2726": {
+    "name": "精英監視者 / 菁英監視者",
+    "released": false
+  },
+  "2727": {
+    "name": "精英廢氣魔 / 憤怒廢氣魔",
+    "released": false
+  },
+  "2728": {
+    "name": "精英諾博斯 / 狡猾諾博斯",
+    "released": false
+  },
+  "2729": {
+    "name": "精英諾博斯 / 迅捷諾博斯",
+    "released": false
+  },
+  "2730": {
+    "name": "精英諾博斯 / 雄壯諾博斯",
+    "released": false
+  },
+  "2731": {
+    "name": "精英諾博斯 / 菁英諾博斯",
+    "released": false
+  },
+  "2732": {
+    "name": "精英七彩咪魘 / 憤怒七彩咪魘",
+    "released": false
+  },
+  "2733": {
+    "name": "精英守墓怨靈 / 狡猾守墓怨靈",
+    "released": false
+  },
+  "2734": {
+    "name": "精英孤魂怨靈 / 迅捷孤魂怨靈",
+    "released": false
+  },
+  "2735": {
+    "name": "精英豬籠草 / 雄壯豬籠草",
+    "released": false
+  },
+  "2736": {
+    "name": "精英亡靈巫師 / 菁英行妖術者",
+    "released": false
+  },
+  "2737": {
+    "name": "精英邪惡禮盒 / 憤怒邪惡禮盒",
+    "released": false
+  },
+  "2738": {
+    "name": "精英吃人草 / 狡猾吃人草",
+    "released": false
+  },
+  "2739": {
+    "name": "精英木乃伊 / 迅捷木乃伊",
+    "released": false
+  },
+  "2740": {
+    "name": "精英木乃伊 / 雄壯木乃伊",
+    "released": false
+  },
+  "2741": {
+    "name": "精英摩卡 / 菁英摩卡",
+    "released": false
+  },
+  "2742": {
+    "name": "精英 / 憤怒 咪羅克門徒",
+    "released": false
+  },
+  "2743": {
+    "name": "精英 / 狡猾 咪羅克門徒",
+    "released": false
+  },
+  "2744": {
+    "name": "精英 / 迅捷 咪羅克門徒",
+    "released": false
+  },
+  "2745": {
+    "name": "精英摩爾 / 雄壯摩爾",
+    "released": false
+  },
+  "2746": {
+    "name": "精英米雅畢 / 菁英米雅畢",
+    "released": false
+  },
+  "2747": {
+    "name": "精英米洛斯 / 憤怒米洛斯",
+    "released": false
+  },
+  "2748": {
+    "name": "精英米洛斯 / 狡猾米洛斯",
+    "released": false
+  },
+  "2749": {
+    "name": "精英米洛斯 / 迅捷米洛斯",
+    "released": false
+  },
+  "2750": {
+    "name": "精英礦石魔 / 雄壯礦石魔",
+    "released": false
+  },
+  "2751": {
+    "name": "精英 / 菁英 異形毛毛怪",
+    "released": false
+  },
+  "2752": {
+    "name": "精英邪惡箱 / 憤怒邪惡箱",
+    "released": false
+  },
+  "2753": {
+    "name": "精英邪惡箱 / 狡猾邪惡箱",
+    "released": false
+  },
+  "2754": {
+    "name": "精英 / 迅捷 重金屬蝗蟲",
+    "released": false
+  },
+  "2755": {
+    "name": "精英金屬波利 / 雄壯金屬波利",
+    "released": false
+  },
+  "2756": {
+    "name": "精英金屬波利 / 菁英金屬波利",
+    "released": false
+  },
+  "2757": {
+    "name": "精英人魚士兵 / 憤怒人魚士兵",
+    "released": false
+  },
+  "2758": {
+    "name": "精英花妖精 / 狡猾花妖精",
+    "released": false
+  },
+  "2759": {
+    "name": "精英米杜沙 / 迅捷米杜沙",
+    "released": false
+  },
+  "2760": {
+    "name": "精英土撥鼠 / 雄壯土撥鼠",
+    "released": false
+  },
+  "2761": {
+    "name": "精英傀儡娃娃 / 菁英傀儡娃娃",
+    "released": false
+  },
+  "2762": {
+    "name": "精英冰波利 / 憤怒冰波利",
+    "released": false
+  },
+  "2763": {
+    "name": "精英馬爾杜克 / 狡猾馬爾杜克",
+    "released": false
+  },
+  "2764": {
+    "name": "精英螳螂 / 迅捷螳螂",
+    "released": false
+  },
+  "2765": {
+    "name": "精英 / 雄壯 曼陀羅魔花",
+    "released": false
+  },
+  "2766": {
+    "name": "精英瑪那能革 / 菁英瑪那能革",
+    "released": false
+  },
+  "2767": {
+    "name": "精英 / 憤怒 狂暴米諾斯",
+    "released": false
+  },
+  "2768": {
+    "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
+    "released": false
+  },
+  "2769": {
+    "name": "精英岩漿波利 / 迅捷岩漿波利",
+    "released": false
+  },
+  "2770": {
+    "name": "精英瘋兔 / 雄壯瘋兔",
+    "released": false
+  },
+  "2771": {
+    "name": "精英瘋兔 / 菁英瘋兔",
+    "released": false
+  },
+  "2772": {
+    "name": "精英南瓜魂 / 憤怒南瓜魂",
+    "released": false
+  },
+  "2773": {
+    "name": "精英 / 狡猾 魯修拉黃蜂",
+    "released": false
+  },
+  "2774": {
+    "name": "精英銀月魔女 / 迅捷銀月魔女",
+    "released": false
+  },
+  "2775": {
+    "name": "精英猴桃木 / 雄壯猴桃木",
+    "released": false
+  },
+  "2776": {
+    "name": "精英寶貝波利 / 菁英寶貝波利",
+    "released": false
+  },
+  "2777": {
+    "name": "精英玩偶魔妖 / 憤怒玩偶魔妖",
+    "released": false
+  },
+  "2778": {
+    "name": "精英豹皮怪 / 狡猾豹皮怪",
+    "released": false
+  },
+  "2779": {
+    "name": "精英雷斯 / 迅捷雷斯",
+    "released": false
+  },
+  "2780": {
+    "name": "精英 / 雄壯 狂暴大腳熊",
+    "released": false
+  },
+  "2781": {
+    "name": "精英群葉貓 / 菁英群葉貓",
+    "released": false
+  },
+  "2782": {
+    "name": "精英暗●流氓 / 憤怒暗●流氓",
+    "released": false
+  },
+  "2783": {
+    "name": "精英暗●刺客 / 狡猾暗●刺客",
+    "released": false
+  },
+  "2784": {
+    "name": "精英 / 迅捷 犬妖弓箭手",
+    "released": false
+  },
+  "2785": {
+    "name": "精英犬妖 / 雄壯犬妖",
+    "released": false
+  },
+  "2786": {
+    "name": "精英 / 菁英 礦坑小精靈",
+    "released": false
+  },
+  "2787": {
+    "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+    "released": false
+  },
+  "2788": {
+    "name": "精英火鳥 / 狡猾火鳥",
+    "released": false
+  },
+  "2789": {
+    "name": "精英傘妖 / 迅捷傘妖",
+    "released": false
+  },
+  "2790": {
+    "name": "精英蛇女伊絲 / 雄壯蛇女伊絲",
+    "released": false
+  },
+  "2791": {
+    "name": "精英伊西拉 / 菁英伊西拉",
+    "released": false
+  },
+  "2792": {
+    "name": "精英邪惡使者 / 憤怒邪惡使者",
+    "released": false
+  },
+  "2793": {
+    "name": "精英米糕 / 狡猾米糕",
+    "released": false
+  },
+  "2794": {
+    "name": "精英冰巨人 / 迅捷冰巨人",
+    "released": false
+  },
+  "2795": {
+    "name": "精英亞拉 / 雄壯亞拉",
+    "released": false
+  },
+  "2796": {
+    "name": "精英妖君 / 菁英妖君",
+    "released": false
+  },
+  "2797": {
+    "name": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+    "released": false
+  },
+  "2798": {
+    "name": "精英蜂兵 / 狡猾蜂兵",
+    "released": false
+  },
+  "2799": {
+    "name": "精英獨角甲蟲 / 迅捷獨角甲蟲",
+    "released": false
+  },
+  "2800": {
+    "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+    "released": false
+  },
+  "2801": {
+    "name": "精英異形 / 菁英異形",
+    "released": false
+  },
+  "2802": {
+    "name": "精英蚯蚓 / 憤怒蚯蚓",
+    "released": false
+  },
+  "2803": {
+    "name": "精英希爾士兵 / 狡猾希爾士兵",
+    "released": false
+  },
+  "2804": {
+    "name": "精英希爾士兵 / 迅捷希爾士兵",
+    "released": false
+  },
+  "2805": {
+    "name": "精英 / 雄壯 獸人戰士長",
+    "released": false
+  },
+  "2806": {
+    "name": "精英鳥人哈比 / 菁英鳥人哈比",
+    "released": false
+  },
+  "2807": {
+    "name": "精英鳥人哈比 / 憤怒鳥人哈比",
+    "released": false
+  },
+  "2808": {
+    "name": "精英綠變色龍 / 狡猾綠變色龍",
+    "released": false
+  },
+  "2809": {
+    "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+    "released": false
+  },
+  "2810": {
+    "name": "精英 / 雄壯 七彩大嘴鳥",
+    "released": false
+  },
+  "2811": {
+    "name": "精英 / 菁英 七彩大嘴鳥",
+    "released": false
+  },
+  "2812": {
+    "name": "精英巨石怪 / 憤怒巨石怪",
+    "released": false
+  },
+  "2813": {
+    "name": "精英哥布靈 / 狡猾哥布靈",
+    "released": false
+  },
+  "2814": {
+    "name": "精英哥布靈 / 迅捷哥布靈",
+    "released": false
+  },
+  "2815": {
+    "name": "精英魔羌 / 雄壯魔羌",
+    "released": false
+  },
+  "2816": {
+    "name": "精英魔羌 / 菁英魔羌",
+    "released": false
+  },
+  "2817": {
+    "name": "精英深淵犬妖 / 憤怒深淵犬妖",
+    "released": false
+  },
+  "2818": {
+    "name": "精英深淵犬妖 / 狡猾深淵犬妖",
+    "released": false
+  },
+  "2819": {
+    "name": "精英深淵魔影 / 迅捷深淵魔影",
+    "released": false
+  },
+  "2820": {
+    "name": "精英深淵魔影 / 雄壯深淵魔影",
+    "released": false
+  },
+  "2821": {
+    "name": "精英狂暴蜂兵 / 菁英狂暴蜂兵",
+    "released": false
+  },
+  "2822": {
+    "name": "精英綠腐屍 / 憤怒綠腐屍",
+    "released": false
+  },
+  "2823": {
+    "name": "精英綠腐屍 / 狡猾綠腐屍",
+    "released": false
+  },
+  "2824": {
+    "name": "精英 / 迅捷 邪惡向日葵",
+    "released": false
+  },
+  "2825": {
+    "name": "精英 / 雄壯 邪惡向日葵",
+    "released": false
+  },
+  "2826": {
+    "name": "精英 / 菁英 蝙蝠弓箭手",
+    "released": false
+  },
+  "2827": {
+    "name": "精英 / 憤怒 蝙蝠弓箭手",
+    "released": false
+  },
+  "2828": {
+    "name": "精英迦利 / 狡猾迦利",
+    "released": false
+  },
+  "2829": {
+    "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+    "released": false
+  },
+  "2830": {
+    "name": "精英水靈龜 / 雄壯水靈龜",
+    "released": false
+  },
+  "2831": {
+    "name": "精英水靈龜 / 菁英水靈龜",
+    "released": false
+  },
+  "2832": {
+    "name": "精英紅貝勒斯 / 憤怒綠貝勒斯",
+    "released": false
+  },
+  "2833": {
+    "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+    "released": false
+  },
+  "2834": {
+    "name": "精英偽天使 / 迅捷偽天使",
+    "released": false
+  },
+  "2835": {
+    "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+    "released": false
+  },
+  "2836": {
+    "name": "精英綠棉蟲 / 菁英綠棉蟲",
+    "released": false
+  },
+  "2837": {
+    "name": "精英爆炎蝙蝠 / 憤怒爆炎蝙蝠",
+    "released": false
+  },
+  "2838": {
+    "name": "精英?神官 / 狡猾?神官",
+    "released": false
+  },
+  "2839": {
+    "name": "精英長老樹精 / 迅捷長老樹精",
+    "released": false
+  },
+  "2840": {
+    "name": "精英長老樹精 / 雄壯長老樹精",
+    "released": false
+  },
+  "2841": {
+    "name": "精英埃奇歐 / 菁英埃奇歐",
+    "released": false
+  },
+  "2842": {
+    "name": "精英獵蠅 / 憤怒獵蠅",
+    "released": false
+  },
+  "2843": {
+    "name": "精英森林妖姬 / 迅捷森林妖姬",
+    "released": false
+  },
+  "2844": {
+    "name": "精英捕蟲草 / 雄壯捕蟲草",
+    "released": false
+  },
+  "2845": {
+    "name": "精英土波利 / 菁英土波利",
+    "released": false
+  },
+  "2846": {
+    "name": "精英爆鑽傘蜥 / 憤怒爆鑽傘蜥",
+    "released": false
+  },
+  "2847": {
+    "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+    "released": false
+  },
+  "2848": {
+    "name": "精英刺尾蜻蜓 / 迅捷刺尾蜻蜓",
+    "released": false
+  },
+  "2849": {
+    "name": "精英暴躁龍 / 雄壯暴躁龍",
+    "released": false
+  },
+  "2850": {
+    "name": "精英狡蛛 / 菁英狡蛛",
+    "released": false
+  },
+  "2851": {
+    "name": "精英土人 / 憤怒土人",
+    "released": false
+  },
+  "2852": {
+    "name": "精英假面鬼 / 狡猾假面鬼",
+    "released": false
+  },
+  "2853": {
+    "name": "精英迪靡克 / 迅捷迪靡克",
+    "released": false
+  },
+  "2854": {
+    "name": "精英 / 雄壯小惡魔",
+    "released": false
+  },
+  "2855": {
+    "name": "精英沙漠之狼 / 菁英沙漠之狼",
+    "released": false
+  },
+  "2856": {
+    "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+    "released": false
+  },
+  "2857": {
+    "name": "精英兵蟻 / 狡猾兵蟻",
+    "released": false
+  },
+  "2858": {
+    "name": "精英死亡魔書 / 迅捷死亡魔書",
+    "released": false
+  },
+  "2859": {
+    "name": "精英死亡魔書 / 雄壯死亡魔書",
+    "released": false
+  },
+  "2860": {
+    "name": "精英死亡魔書 / 菁英死亡魔書",
+    "released": false
+  },
+  "2861": {
+    "name": "精英暗黑祭司 / 憤怒暗黑祭司",
+    "released": false
+  },
+  "2862": {
+    "name": "精英舞獅 / 狡猾舞獅",
+    "released": false
+  },
+  "2863": {
+    "name": "精英克瑞米 / 迅捷克瑞米",
+    "released": false
+  },
+  "2864": {
+    "name": "精英卡那多斯 / 雄壯卡那多斯",
+    "released": false
+  },
+  "2865": {
+    "name": "精英甜餅人 / 菁英甜餅人",
+    "released": false
+  },
+  "2866": {
+    "name": "精英恆量魔 / 憤怒恆量魔",
+    "released": false
+  },
+  "2867": {
+    "name": "精英科摩多龍 / 狡猾科摩多龍",
+    "released": false
+  },
+  "2868": {
+    "name": "精英松鼠 / 迅捷松鼠",
+    "released": false
+  },
+  "2869": {
+    "name": "精英松鼠 / 雄壯松鼠",
+    "released": false
+  },
+  "2870": {
+    "name": "精英古鐘魔 / 菁英古鐘魔",
+    "released": false
+  },
+  "2871": {
+    "name": "精英古鐘魔 / 憤怒古鐘魔",
+    "released": false
+  },
+  "2872": {
+    "name": "精英蒼蠅 / 狡猾蒼蠅",
+    "released": false
+  },
+  "2873": {
+    "name": "精英突變蜈蚣 / 迅捷變異蜈蚣",
+    "released": false
+  },
+  "2874": {
+    "name": "精英惡靈之霧 / 雄壯惡靈之霧",
+    "released": false
+  },
+  "2875": {
+    "name": "精英 / 菁英 暗●智者 西里亞阿迪",
+    "released": false
+  },
+  "2876": {
+    "name": "精英 / 憤怒 狂暴綠棉蟲",
+    "released": false
+  },
+  "2877": {
+    "name": "精英 / 狡猾 卡拉特小丑",
+    "released": false
+  },
+  "2878": {
+    "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+    "released": false
+  },
+  "2879": {
+    "name": "精英獨眼怪 / 雄壯獨眼怪",
+    "released": false
+  },
+  "2880": {
+    "name": "精英微風 / 菁英微風",
+    "released": false
+  },
+  "2881": {
+    "name": "精英微風 / 憤怒微風",
+    "released": false
+  },
+  "2882": {
+    "name": "精英石錘巨人 / 狡猾鈽鐳巨人",
+    "released": false
+  },
+  "2883": {
+    "name": "精英血蝴蝶 / 迅捷血蝴蝶",
+    "released": false
+  },
+  "2884": {
+    "name": "精英大腳熊 / 菁英大腳熊",
+    "released": false
+  },
+  "2885": {
+    "name": "精英巫婆 / 憤怒巫婆",
+    "released": false
+  },
+  "2886": {
+    "name": "精英 / 狡猾 愛爾蘭女妖首領",
+    "released": false
+  },
+  "2887": {
+    "name": "精英女妖 / 迅捷惡耗女妖",
+    "released": false
+  },
+  "2888": {
+    "name": "精英 / 雄壯 巴拿斯帕堤",
+    "released": false
+  },
+  "2889": {
+    "name": "精英風靈龜 / 菁英風靈龜",
+    "released": false
+  },
+  "2890": {
+    "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+    "released": false
+  },
+  "2891": {
+    "name": "精英 / 狡猾 艾吉歐蜈蚣",
+    "released": false
+  },
+  "2892": {
+    "name": "精英 / 迅捷 艾吉歐蜈蚣",
+    "released": false
+  },
+  "2893": {
+    "name": "精英卷甲蟲 / 雄壯卷甲蟲",
+    "released": false
+  },
+  "2894": {
+    "name": "精英卷甲蟲 / 菁英卷甲蟲",
+    "released": false
+  },
+  "2895": {
+    "name": "精英 / 憤怒 阿修羅機械戰士",
+    "released": false
+  },
+  "2896": {
+    "name": "精英鹿角甲蟲 / 狡猾鹿角甲蟲",
+    "released": false
+  },
+  "2897": {
+    "name": "精英 / 迅捷 古靈精怪書",
+    "released": false
+  },
+  "2898": {
+    "name": "精英 / 雄壯 古靈精怪書",
+    "released": false
+  },
+  "2899": {
+    "name": "精英虎蜥人 / 憤怒虎蜥人",
+    "released": false
+  },
+  "2900": {
+    "name": "精英瘋狂螳螂 / 狡猾瘋狂螳螂",
+    "released": false
+  },
+  "2901": {
+    "name": "精英瘋狂螳螂 / 迅捷瘋狂螳螂",
+    "released": false
+  },
+  "2902": {
+    "name": "精英白蟻 / 雄壯白蟻",
+    "released": false
+  },
+  "2903": {
+    "name": "精英 / 菁英 狂暴邪惡箱",
+    "released": false
+  },
+  "2904": {
+    "name": "精英毒蛇 / 憤怒毒蛇",
+    "released": false
+  },
+  "2905": {
+    "name": "精英蝸牛 / 狡猾蝸牛",
+    "released": false
+  },
+  "2906": {
+    "name": "精英 / 迅捷 泰坦魔芋花",
+    "released": false
+  },
+  "2907": {
+    "name": "精英鱷魚人 / 雄壯鱷魚人",
+    "released": false
+  },
+  "2908": {
+    "name": "精英愛麗 / 菁英愛麗",
+    "released": false
+  },
+  "2909": {
+    "name": "精英愛麗削 / 憤怒愛麗削",
+    "released": false
+  },
+  "2910": {
+    "name": "精英鐘怪 / 狡猾鐘怪",
+    "released": false
+  },
+  "2911": {
+    "name": "精英阿卡布 / 迅捷阿卡布",
+    "released": false
+  },
+  "2912": {
+    "name": "精英俄希托斯 / 雄壯俄希托斯",
+    "released": false
+  },
+  "2913": {
+    "name": "精英俄希托斯 / 菁英俄希托斯",
+    "released": false
+  },
+  "2916": {
+    "name": "大笨鐘 / 大古鐘",
+    "released": false
+  },
+  "2917": {
+    "name": "大鐘怪",
+    "released": false
+  },
+  "2918": {
+    "name": "時光守護者",
+    "released": false
+  },
+  "2919": {
+    "name": "惡靈朽魔 / 變種朽魔",
+    "released": false
+  },
+  "2920": {
+    "name": "邪靈長老 / 長者魔導士",
+    "released": false
+  },
+  "2921": {
+    "name": "鶚梟子爵",
+    "released": false
+  },
+  "2923": {
+    "name": "鶚梟假面",
+    "released": false
+  },
+  "2937": {
+    "name": "洛基的殘影",
+    "released": false
+  },
+  "2938": {
+    "name": "魔神石 / 魔神力量碎片",
+    "released": false
+  },
+  "2939": {
+    "name": "魔神的影子",
+    "released": false
+  },
+  "2940": {
+    "name": "魔神的影子",
+    "released": false
+  },
+  "2941": {
+    "name": "魔神的影子",
+    "released": false
+  },
+  "2942": {
+    "name": "魔神的追隨者",
+    "released": false
+  },
+  "2948": {
+    "name": "受到詛咒的士兵",
+    "released": false
+  },
+  "2949": {
+    "name": "受到詛咒的守門員",
+    "released": false
+  },
+  "2950": {
+    "name": "無法獻出的心意 / 破碎的心",
+    "released": false
+  },
+  "2951": {
+    "name": "聲聲歎息 / 漂流的悲哀",
+    "released": false
+  },
+  "2952": {
+    "name": "以愛之名 / 未了的愛情",
+    "released": false
+  },
+  "2953": {
+    "name": "討人厭的回憶 / 怨恨的記憶",
+    "released": false
+  },
+  "2954": {
+    "name": "崩壞的誓約 / 褪色的誓言",
+    "released": false
+  },
+  "2955": {
+    "name": "褪色的友情 / 久遠的友情",
+    "released": false
+  },
+  "2956": {
+    "name": "甜蜜殺戮 / 祥和殺戮",
+    "released": false
+  },
+  "2957": {
+    "name": "別問我是誰 / 遺忘的名字",
+    "released": false
+  },
+  "2958": {
+    "name": "往事只能回味 / 致命的日子",
+    "released": false
+  },
+  "2959": {
+    "name": "異變的王子 / 扭曲的救贖主",
+    "released": false
+  },
+  "2961": {
+    "name": "異變的王子 / 扭曲的救贖主",
+    "released": false
+  },
+  "2987": {
+    "name": "惡靈樹裝飾 / 驚悚的裝飾樹",
+    "released": false
+  },
+  "2988": {
+    "name": "邪惡副廠長 / 安東尼奧",
+    "released": false
+  },
+  "2989": {
+    "name": "暴戾甜餅人 / 禮物包裝負責人",
+    "released": false
+  },
+  "2990": {
+    "name": "玩具工廠警備兵",
+    "released": false
+  },
+  "2991": {
+    "name": "邪靈附體箱 / 包裝好的箱子",
+    "released": false
+  },
+  "2992": {
+    "name": "陰森惡靈 / 工廠警衛的亡靈",
+    "released": false
+  },
+  "2993": {
+    "name": "不懷好意的幽魂 / 未領到禮物的幽靈",
+    "released": false
+  },
+  "2994": {
+    "name": "扭動的傀儡 / 尚未包裝的玩偶",
+    "released": false
+  },
+  "2995": {
+    "name": "被遺棄的玩偶熊 / 被釋放的玩具熊",
+    "released": false
+  },
+  "2996": {
+    "name": "席琳基米",
+    "released": false
+  },
+  "2997": {
+    "name": "席琳基米的幻影",
+    "released": false
+  },
+  "2998": {
+    "name": "弱化的咪羅克",
+    "released": false
+  },
+  "2999": {
+    "name": "咪羅克的魔法師",
+    "released": false
+  },
+  "3000": {
+    "name": "咪羅克的亡靈巫師",
+    "released": false
+  },
+  "3001": {
+    "name": "咪羅克的綠腐屍",
+    "released": false
+  },
+  "3002": {
+    "name": "咪羅克的俄塞里斯",
+    "released": false
+  },
+  "3003": {
+    "name": "咪羅克的邪骸弓箭手",
+    "released": false
+  },
+  "3004": {
+    "name": "咪羅克的惡靈",
+    "released": false
+  },
+  "3005": {
+    "name": "咪羅克的畢萊特",
+    "released": false
+  },
+  "3007": {
+    "name": "咪羅克的影子 / 傀儡",
+    "released": false
+  },
+  "3008": {
+    "name": "咪羅克的漂浮蟲",
+    "released": false
+  },
+  "3010": {
+    "name": "墮落的獸人嬰兒",
+    "released": false
+  },
+  "3011": {
+    "name": "墮落的沙漠幼狼",
+    "released": false
+  },
+  "3012": {
+    "name": "墮落的吸血蝙蝠",
+    "released": false
+  },
+  "3013": {
+    "name": "墮落的獸人戰士",
+    "released": false
+  },
+  "3014": {
+    "name": "墮落的沙漠之狼",
+    "released": false
+  },
+  "3015": {
+    "name": "墮落的劍魚",
+    "released": false
+  },
+  "3016": {
+    "name": "墮落的獸人腐屍",
+    "released": false
+  },
+  "3017": {
+    "name": "墮落的畢萊特",
+    "released": false
+  },
+  "3018": {
+    "name": "墮落的邪骸食人魚",
+    "released": false
+  },
+  "3020": {
+    "name": "火焰禿鷹",
+    "released": false
+  },
+  "3021": {
+    "name": "火焰泥人",
+    "released": false
+  },
+  "3022": {
+    "name": "火焰傘蜥",
+    "released": false
+  },
+  "3023": {
+    "name": "火焰巨石怪",
+    "released": false
+  },
+  "3026": {
+    "name": "火坑",
+    "released": false
+  },
+  "3027": {
+    "name": "火蟻",
+    "released": false
+  },
+  "3028": {
+    "name": "索妮雅",
+    "released": false
+  },
+  "3029": {
+    "name": "死神安庫",
+    "released": false
+  },
+  "3039": {
+    "name": "烈火咪羅克門徒",
+    "released": false
+  },
+  "3040": {
+    "name": "猖狂咪羅克門徒",
+    "released": false
+  },
+  "3041": {
+    "name": "冰凍的咪羅克門徒",
+    "released": false
+  },
+  "3061": {
+    "name": "飛來飛去的箱子",
+    "released": false
+  },
+  "3069": {
+    "name": "貝爾 / 派",
+    "released": false
+  },
+  "3070": {
+    "name": "貝爾 / 派",
+    "released": false
+  },
+  "3071": {
+    "name": "貝爾 / 派",
+    "released": false
+  },
+  "3072": {
+    "name": "貝爾 / 派",
+    "released": false
+  },
+  "3073": {
+    "name": "覺醒的貝爾 / 覺醒的派",
+    "released": false
+  },
+  "3074": {
+    "name": "時間支配者 / 時間管理者",
+    "released": false
+  },
+  "3075": {
+    "name": "Treasure",
+    "released": false
+  },
+  "3076": {
+    "name": "Go!",
+    "released": false
+  },
+  "3077": {
+    "name": "Go!",
+    "released": false
+  },
+  "3078": {
+    "name": "Go!",
+    "released": false
+  },
+  "3079": {
+    "name": "Go!",
+    "released": false
+  },
+  "3081": {
+    "name": "Go!",
+    "released": false
+  },
+  "3082": {
+    "name": "Go!",
+    "released": false
+  },
+  "3083": {
+    "name": "Go!",
+    "released": false
+  },
+  "3084": {
+    "name": "Go!",
+    "released": false
+  },
+  "3086": {
+    "name": "Mercenary",
+    "released": false
+  },
+  "3088": {
+    "name": "冰霜幼蛛",
+    "released": false
+  },
+  "3089": {
+    "name": "瘋狂卡薩",
+    "released": false
+  },
+  "3090": {
+    "name": "瘋狂火蜥蜴",
+    "released": false
+  },
+  "3091": {
+    "name": "巴利納拉雷亞",
+    "released": false
+  },
+  "3092": {
+    "name": "穆希貝斯寇",
+    "released": false
+  },
+  "3096": {
+    "name": "重生的半魔神",
+    "released": false
+  },
+  "3097": {
+    "name": "絕望之神咪羅克",
+    "released": false
+  },
+  "3098": {
+    "name": "太初的咪羅克",
+    "released": false
+  },
+  "3099": {
+    "name": "恢復的咪羅克",
+    "released": false
+  },
+  "3100": {
+    "name": "符文的瑪娜",
+    "released": false
+  },
+  "3101": {
+    "name": "光輝的瑪娜",
+    "released": false
+  },
+  "3102": {
+    "name": "生命的瑪娜",
+    "released": false
+  },
+  "3103": {
+    "name": "大地的瑪娜",
+    "released": false
+  },
+  "3104": {
+    "name": "海洋的瑪娜",
+    "released": false
+  },
+  "3105": {
+    "name": "魔神的門徒 阿哈特",
+    "released": false
+  },
+  "3106": {
+    "name": "魔神的門徒 許乃任",
+    "released": false
+  },
+  "3108": {
+    "name": "吉特巴",
+    "released": false
+  },
+  "3109": {
+    "name": "吉特巴",
+    "released": false
+  },
+  "3124": {
+    "name": "查爾斯頓3號",
+    "released": false
+  },
+  "3125": {
+    "name": "變異晶片 / 步伐",
+    "released": false
+  },
+  "3126": {
+    "name": "變異機器人 / 搖滾步伐",
+    "released": false
+  },
+  "3127": {
+    "name": "智能變異晶片 / 通道保全設施",
+    "released": false
+  },
+  "3128": {
+    "name": "霹靂機器人",
+    "released": false
+  },
+  "3153": {
+    "name": "挖掘機器人",
+    "released": false
+  },
+  "3154": {
+    "name": "巡邏機器人",
+    "released": false
+  },
+  "3155": {
+    "name": "修繕機器人",
+    "released": false
+  },
+  "3156": {
+    "name": "勘查機器人",
+    "released": false
+  },
+  "3158": {
+    "name": "滅亡祈福會信徒",
+    "released": false
+  },
+  "3159": {
+    "name": "違法傳單",
+    "released": false
+  },
+  "3175": {
+    "name": "直升機哥布靈",
+    "released": false
+  },
+  "3176": {
+    "name": "小妖精",
+    "released": false
+  },
+  "3177": {
+    "name": "目擊者 / 惡魔之眼",
+    "released": false
+  },
+  "3178": {
+    "name": "俄希托斯",
+    "released": false
+  },
+  "3179": {
+    "name": "俄希托斯 / 灰俄希托斯",
+    "released": false
+  },
+  "3180": {
+    "name": "龍的影子 / 飛龍",
+    "released": false
+  },
+  "3181": {
+    "name": "暴走的船長裴陸",
+    "released": false
+  },
+  "3190": {
+    "name": "莎拉艾琳",
+    "released": false
+  },
+  "3191": {
+    "name": "基勘特斯",
+    "released": false
+  },
+  "3192": {
+    "name": "基勘特斯",
+    "released": false
+  },
+  "3193": {
+    "name": "古代的中型基勘特斯",
+    "released": false
+  },
+  "3194": {
+    "name": "大型基勘特斯",
+    "released": false
+  },
+  "3195": {
+    "name": "大型基勘特斯",
+    "released": false
+  },
+  "3196": {
+    "name": "大型基勘特斯 / 古代的基勘特斯",
+    "released": false
+  },
+  "3197": {
+    "name": "變種蝙蝠弓箭手",
+    "released": false
+  },
+  "3198": {
+    "name": "變種迦利",
+    "released": false
+  },
+  "3199": {
+    "name": "邪惡半龍人",
+    "released": false
+  },
+  "3200": {
+    "name": "邪惡的凱美拉",
+    "released": false
+  },
+  "3208": {
+    "name": "暗●十字切割者 / 暗●十字斬首者",
+    "released": false
+  },
+  "3209": {
+    "name": "暗●大主教",
+    "released": false
+  },
+  "3210": {
+    "name": "暗●大法師 / 暗●咒術士",
+    "released": false
+  },
+  "3211": {
+    "name": "暗●遊俠",
+    "released": false
+  },
+  "3212": {
+    "name": "暗●機匠 / 暗●機械工匠",
+    "released": false
+  },
+  "3213": {
+    "name": "暗●符文騎士 / 暗●盧恩騎士",
+    "released": false
+  },
+  "3214": {
+    "name": "暗●十字切割者",
+    "released": false
+  },
+  "3215": {
+    "name": "暗●大主教",
+    "released": false
+  },
+  "3216": {
+    "name": "暗●大法師",
+    "released": false
+  },
+  "3217": {
+    "name": "暗●遊俠",
+    "released": false
+  },
+  "3218": {
+    "name": "暗●機匠",
+    "released": false
+  },
+  "3219": {
+    "name": "暗●符文騎士",
+    "released": false
+  },
+  "3220": {
+    "name": "暗●十字切割者 艾勒梅斯",
+    "released": false
+  },
+  "3221": {
+    "name": "暗●大主教 瑪嘉雷特",
+    "released": false
+  },
+  "3222": {
+    "name": "暗●遊俠 迪文",
+    "released": false
+  },
+  "3223": {
+    "name": "暗●機匠 哈沃得",
+    "released": false
+  },
+  "3224": {
+    "name": "暗●大法師 凱特莉娜",
+    "released": false
+  },
+  "3225": {
+    "name": "暗●符文騎士 賽依連",
+    "released": false
+  },
+  "3226": {
+    "name": "暗●皇家衛士 / 暗●皇家禁衛隊",
+    "released": false
+  },
+  "3227": {
+    "name": "暗●基因學者",
+    "released": false
+  },
+  "3228": {
+    "name": "暗●元素使 / 暗●妖術師",
+    "released": false
+  },
+  "3229": {
+    "name": "暗●修羅",
+    "released": false
+  },
+  "3230": {
+    "name": "暗●逐影 / 暗●魅影追蹤者",
+    "released": false
+  },
+  "3231": {
+    "name": "暗●宮廷樂師",
+    "released": false
+  },
+  "3232": {
+    "name": "暗●流浪舞者 / 暗●浪姬舞者",
+    "released": false
+  },
+  "3233": {
+    "name": "暗●皇家衛士",
+    "released": false
+  },
+  "3234": {
+    "name": "暗●基因學者",
+    "released": false
+  },
+  "3235": {
+    "name": "暗●元素使",
+    "released": false
+  },
+  "3236": {
+    "name": "暗●修羅",
+    "released": false
+  },
+  "3237": {
+    "name": "暗●逐影",
+    "released": false
+  },
+  "3238": {
+    "name": "暗●宮廷樂師",
+    "released": false
+  },
+  "3239": {
+    "name": "暗●流浪舞者",
+    "released": false
+  },
+  "3240": {
+    "name": "暗●皇家衛士 蘭達",
+    "released": false
+  },
+  "3241": {
+    "name": "暗●基因學者 普拉梅姆",
+    "released": false
+  },
+  "3242": {
+    "name": "暗●元素使 西里亞",
+    "released": false
+  },
+  "3243": {
+    "name": "暗●修羅 陳理歐",
+    "released": false
+  },
+  "3244": {
+    "name": "暗●逐影 科迪",
+    "released": false
+  },
+  "3245": {
+    "name": "暗●宮廷樂師 雅歐帕奇爾",
+    "released": false
+  },
+  "3246": {
+    "name": "暗●流浪舞者 特蘭提尼",
+    "released": false
+  },
+  "3247": {
+    "name": "綠惡靈之霧",
+    "released": false
+  },
+  "3248": {
+    "name": "修復機器人",
+    "released": false
+  },
+  "3249": {
+    "name": "探索機器人",
+    "released": false
+  },
+  "3250": {
+    "name": "廢鐵機器人",
+    "released": false
+  },
+  "3251": {
+    "name": "GC109",
+    "released": false
+  },
+  "3252": {
+    "name": "DR815",
+    "released": false
+  },
+  "3253": {
+    "name": "系統訊息",
+    "released": false
+  },
+  "3254": {
+    "name": "T_W_O",
+    "released": false
+  },
+  "3255": {
+    "name": "惡臭綠腐屍",
+    "released": false
+  },
+  "3256": {
+    "name": "惡臭腐屍",
+    "released": false
+  },
+  "3384": {
+    "name": "波利",
+    "released": false
+  },
+  "3385": {
+    "name": "瘋兔",
+    "released": false
+  },
+  "3386": {
+    "name": "綠棉蟲",
+    "released": false
+  },
+  "3387": {
+    "name": "小雞",
+    "released": false
+  },
+  "3388": {
+    "name": "禿鷹",
+    "released": false
+  },
+  "3389": {
+    "name": "樹精",
+    "released": false
+  },
+  "3390": {
+    "name": "魔菇",
+    "released": false
+  },
+  "3391": {
+    "name": "波波利",
+    "released": false
+  },
+  "3392": {
+    "name": "狸貓",
+    "released": false
+  },
+  "3393": {
+    "name": "土人",
+    "released": false
+  },
+  "3394": {
+    "name": "大腳熊",
+    "released": false
+  },
+  "3395": {
+    "name": "森靈",
+    "released": false
+  },
+  "3396": {
+    "name": "狼",
+    "released": false
+  },
+  "3397": {
+    "name": "青蛇",
+    "released": false
+  },
+  "3398": {
+    "name": "毒蛇",
+    "released": false
+  },
+  "3399": {
+    "name": "冰波利",
+    "released": false
+  },
+  "3400": {
+    "name": "摩卡",
+    "released": false
+  },
+  "3401": {
+    "name": "大嘴鳥",
+    "released": false
+  },
+  "3402": {
+    "name": "兵蟻",
+    "released": false
+  },
+  "3403": {
+    "name": "工蟻",
+    "released": false
+  },
+  "3404": {
+    "name": "白蟻",
+    "released": false
+  },
+  "3405": {
+    "name": "巨石怪",
+    "released": false
+  },
+  "3406": {
+    "name": "蠍子",
+    "released": false
+  },
+  "3407": {
+    "name": "蒼蠅",
+    "released": false
+  },
+  "3408": {
+    "name": "重金屬蝗蟲",
+    "released": false
+  },
+  "3409": {
+    "name": "泥人",
+    "released": false
+  },
+  "3410": {
+    "name": "奈吉鳥",
+    "released": false
+  },
+  "3411": {
+    "name": "刺尾蜻蜓",
+    "released": false
+  },
+  "3412": {
+    "name": "綠變色龍",
+    "released": false
+  },
+  "3413": {
+    "name": "海獺",
+    "released": false
+  },
+  "3414": {
+    "name": "啤酒企鵝",
+    "released": false
+  },
+  "3415": {
+    "name": "海豹寶寶",
+    "released": false
+  },
+  "3416": {
+    "name": "鱷魚人",
+    "released": false
+  },
+  "3417": {
+    "name": "邪骸食人魚",
+    "released": false
+  },
+  "3418": {
+    "name": "三葉蟲",
+    "released": false
+  },
+  "3419": {
+    "name": "邪惡摩艾",
+    "released": false
+  },
+  "3420": {
+    "name": "森林妖姬",
+    "released": false
+  },
+  "3421": {
+    "name": "蛙王",
+    "released": false
+  },
+  "3422": {
+    "name": "流浪之狼",
+    "released": false
+  },
+  "3423": {
+    "name": "蝗蟲之王",
+    "released": false
+  },
+  "3424": {
+    "name": "藍瘋兔王",
+    "released": false
+  },
+  "3425": {
+    "name": "凱美拉王",
+    "released": false
+  },
+  "3426": {
+    "name": "虎王",
+    "released": false
+  },
+  "3427": {
+    "name": "俄塞里斯",
+    "released": false
+  },
+  "3428": {
+    "name": "皮裡恩",
+    "released": false
+  },
+  "3429": {
+    "name": "獸人英雄",
+    "released": false
+  },
+  "3430": {
+    "name": "塔奧群卡",
+    "released": false
+  },
+  "3431": {
+    "name": "羅達蛙",
+    "released": false
+  },
+  "3432": {
+    "name": "狼",
+    "released": false
+  },
+  "3433": {
+    "name": "蝗蟲",
+    "released": false
+  },
+  "3434": {
+    "name": "瘋兔",
+    "released": false
+  },
+  "3435": {
+    "name": "蝙蝠弓箭手",
+    "released": false
+  },
+  "3436": {
+    "name": "大腳熊",
+    "released": false
+  },
+  "3437": {
+    "name": "狂暴木乃伊",
+    "released": false
+  },
+  "3438": {
+    "name": "泥人",
+    "released": false
+  },
+  "3439": {
+    "name": "獸人戰士長",
+    "released": false
+  },
+  "3440": {
+    "name": "邪惡摩艾",
+    "released": false
+  },
+  "3442": {
+    "name": "極凍戰狼 / 冰狼",
+    "released": false
+  },
+  "3443": {
+    "name": "塔皮",
+    "released": false
+  },
+  "3444": {
+    "name": "觀察者",
+    "released": false
+  },
+  "3445": {
+    "name": "強化邪骸弓箭手",
+    "released": false
+  },
+  "3446": {
+    "name": "強化邪骸戰士",
+    "released": false
+  },
+  "3447": {
+    "name": "進化邪骸士兵 / 強化邪骸士兵",
+    "released": false
+  },
+  "3448": {
+    "name": "強化?答萊屍 / 改造的暗答萊屍",
+    "released": false
+  },
+  "3449": {
+    "name": "強化暗答萊屍",
+    "released": false
+  },
+  "3450": {
+    "name": "畢尤",
+    "released": false
+  },
+  "3451": {
+    "name": "不死軍團",
+    "released": false
+  },
+  "3452": {
+    "name": "殭屍警衛 / 殭屍衛士",
+    "released": false
+  },
+  "3454": {
+    "name": "可疑的入侵者",
+    "released": false
+  },
+  "3455": {
+    "name": "碟子 / 碟仙惡靈",
+    "released": false
+  },
+  "3473": {
+    "name": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
+    "released": false
+  },
+  "3474": {
+    "name": "不滅的受到詛咒的騎士",
+    "released": false
+  },
+  "3475": {
+    "name": "不滅的風魔巫師",
+    "released": false
+  },
+  "3476": {
+    "name": "不死的腐屍突擊兵",
+    "released": false
+  },
+  "3477": {
+    "name": "不死的要塞軍團兵",
+    "released": false
+  },
+  "3478": {
+    "name": "空中要塞 鑰匙管家",
+    "released": false
+  },
+  "3479": {
+    "name": "不死的腐屍突擊兵",
+    "released": false
+  },
+  "3480": {
+    "name": "不死的 腐屍詛咒士兵",
+    "released": false
+  },
+  "3481": {
+    "name": "不死的影子-惡咪",
+    "released": false
+  },
+  "3482": {
+    "name": "不死的影子-憤怒",
+    "released": false
+  },
+  "3483": {
+    "name": "不死的影子-死亡",
+    "released": false
+  },
+  "3484": {
+    "name": "歐內斯特 斯特凡 傑克",
+    "released": false
+  },
+  "3485": {
+    "name": "畢尤的詛咒戰士",
+    "released": false
+  },
+  "3490": {
+    "name": "不死的軍團軍官",
+    "released": false
+  },
+  "3494": {
+    "name": "無限波利",
+    "released": false
+  },
+  "3510": {
+    "name": "警衛兵 / 神殿衛士",
+    "released": false
+  },
+  "3511": {
+    "name": "憤怒的信徒",
+    "released": false
+  },
+  "3512": {
+    "name": "生氣的信徒",
+    "released": false
+  },
+  "3513": {
+    "name": "生氣的狗 / 憤努狗",
+    "released": false
+  },
+  "3514": {
+    "name": "大神官 / 憤怒的大神官",
+    "released": false
+  },
+  "3515": {
+    "name": "冰封之心",
+    "released": false
+  },
+  "3516": {
+    "name": "盧宇民 / 憤怒的儒閔",
+    "released": false
+  },
+  "3518": {
+    "name": "警衛兵 / 神殿衛士",
+    "released": false
+  },
+  "3519": {
+    "name": "憤怒的信徒",
+    "released": false
+  },
+  "3520": {
+    "name": "生氣的信徒",
+    "released": false
+  },
+  "3521": {
+    "name": "生氣的狗 / 憤努狗",
+    "released": false
+  },
+  "3522": {
+    "name": "大神官 / 憤怒的大神官",
+    "released": false
+  },
+  "3523": {
+    "name": "冰封之心",
+    "released": false
+  },
+  "3524": {
+    "name": "盧宇民 / 憤怒的儒閔",
+    "released": false
+  },
+  "3526": {
+    "name": "可圖拉納斯的幻影 / 憤怒的水晶龍幻影",
+    "released": false
+  },
+  "3622": {
+    "name": "特殊警衛",
+    "released": false
+  },
+  "3626": {
+    "name": "強化邪心獵人",
+    "released": false
+  },
+  "3627": {
+    "name": "邪心獵人保鏢",
+    "released": false
+  },
+  "3628": {
+    "name": "邪心獵人 伊芙 / 暗●邪心獵人",
+    "released": false
+  },
+  "3631": {
+    "name": "人型凱美拉",
+    "released": false
+  },
+  "3632": {
+    "name": "物質型凱美拉",
+    "released": false
+  },
+  "3633": {
+    "name": "劇毒凱美拉",
+    "released": false
+  },
+  "3637": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "3638": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "3639": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "3640": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "3641": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "3642": {
+    "name": "邪骸戰士",
+    "released": false
+  },
+  "3643": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "3644": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "3645": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "3646": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "3647": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "3648": {
+    "name": "吸血蝙蝠",
+    "released": false
+  },
+  "3649": {
+    "name": "腐屍",
+    "released": false
+  },
+  "3650": {
+    "name": "腐屍",
+    "released": false
+  },
+  "3651": {
+    "name": "腐屍",
+    "released": false
+  },
+  "3652": {
+    "name": "腐屍",
+    "released": false
+  },
+  "3653": {
+    "name": "腐屍",
+    "released": false
+  },
+  "3654": {
+    "name": "腐屍",
+    "released": false
+  },
+  "3658": {
+    "name": "亡者的君主",
+    "released": false
+  },
+  "3659": {
+    "name": "亡者的君主",
+    "released": false
+  },
+  "3660": {
+    "name": "咪魘",
+    "released": false
+  },
+  "3661": {
+    "name": "咪魘",
+    "released": false
+  },
+  "3662": {
+    "name": "南瓜先生",
+    "released": false
+  },
+  "3663": {
+    "name": "南瓜先生",
+    "released": false
+  },
+  "3664": {
+    "name": "綠腐屍",
+    "released": false
+  },
+  "3665": {
+    "name": "綠腐屍",
+    "released": false
+  },
+  "3666": {
+    "name": "紅蝙蝠",
+    "released": false
+  },
+  "3667": {
+    "name": "紅蝙蝠",
+    "released": false
+  },
+  "3736": {
+    "name": "草寇",
+    "released": false
+  },
+  "3737": {
+    "name": "草寇",
+    "released": false
+  },
+  "3738": {
+    "name": "草寇",
+    "released": false
+  },
+  "3739": {
+    "name": "郊狼",
+    "released": false
+  },
+  "3740": {
+    "name": "瓦斯特",
+    "released": false
+  },
+  "3741": {
+    "name": "蜘蛛戰車",
+    "released": false
+  },
+  "3742": {
+    "name": "紫色礦石",
+    "released": false
+  },
+  "3743": {
+    "name": "海葵",
+    "released": false
+  },
+  "3747": {
+    "name": "精英 / 菁英草寇",
+    "released": false
+  },
+  "3748": {
+    "name": "精英 / 菁英草寇",
+    "released": false
+  },
+  "3749": {
+    "name": "精英 / 菁英草寇",
+    "released": false
+  },
+  "3750": {
+    "name": "幻影紅蝙蝠",
+    "released": false
+  },
+  "3751": {
+    "name": "活死人",
+    "released": false
+  },
+  "3752": {
+    "name": "活死人",
+    "released": false
+  },
+  "3753": {
+    "name": "活死人",
+    "released": false
+  },
+  "3754": {
+    "name": "幻影咪魘",
+    "released": false
+  },
+  "3755": {
+    "name": "毒血蘑菇",
+    "released": false
+  },
+  "3756": {
+    "name": "暴走的普美 / 暴走的波蜜",
+    "released": false
+  },
+  "3757": {
+    "name": "憤怒的德古拉",
+    "released": false
+  },
+  "3758": {
+    "name": "憤怒月夜貓",
+    "released": false
+  },
+  "3759": {
+    "name": "憤怒九尾狐",
+    "released": false
+  },
+  "3760": {
+    "name": "憤懣殭屍 / 憤恨的殭屍",
+    "released": false
+  },
+  "3761": {
+    "name": "憤懣妖道 / 憤恨的妖道",
+    "released": false
+  },
+  "3762": {
+    "name": "憤懣鬼女 / 憤恨的鬼女",
+    "released": false
+  },
+  "3763": {
+    "name": "憤懣邪骸弓箭手 / 含冤的士兵",
+    "released": false
+  },
+  "3764": {
+    "name": "真理超魔導師",
+    "released": false
+  },
+  "3765": {
+    "name": "狂熱英雄 / 狂熱的冒險家",
+    "released": false
+  },
+  "3787": {
+    "name": "沼澤卷甲蟲",
+    "released": false
+  },
+  "3788": {
+    "name": "溝鼠",
+    "released": false
+  },
+  "3792": {
+    "name": "憤怒的寒冰雕像 / 憤怒蓋俄斯提",
+    "released": false
+  },
+  "3793": {
+    "name": "憤怒的雪怪 / 憤怒雪獸",
+    "released": false
+  },
+  "3794": {
+    "name": "憤怒的寒冰巨人 / 憤怒冰巨人",
+    "released": false
+  },
+  "3795": {
+    "name": "堅硬冰柱",
+    "released": false
+  },
+  "3796": {
+    "name": "蘇醒的寒冰龍 / 蘇醒水晶龍",
+    "released": false
+  },
+  "3799": {
+    "name": "不祥風靈龜",
+    "released": false
+  },
+  "3800": {
+    "name": "不祥果樹龜",
+    "released": false
+  },
+  "3801": {
+    "name": "不祥水靈龜",
+    "released": false
+  },
+  "3802": {
+    "name": "不祥岩石龜",
+    "released": false
+  },
+  "3803": {
+    "name": "不祥火焰龜",
+    "released": false
+  },
+  "3804": {
+    "name": "不祥烏龜將軍",
+    "released": false
+  },
+  "3810": {
+    "name": "國王波利",
+    "released": false
+  },
+  "3811": {
+    "name": "巨大黃金波利",
+    "released": false
+  },
+  "3812": {
+    "name": "巨大萌萌波利",
+    "released": false
+  },
+  "3813": {
+    "name": "強化土波利",
+    "released": false
+  },
+  "3814": {
+    "name": "強化波波利",
+    "released": false
+  },
+  "3815": {
+    "name": "強化波利",
+    "released": false
+  },
+  "3816": {
+    "name": "強化冰波利",
+    "released": false
+  },
+  "20270": {
+    "name": "古代三葉蟲",
+    "released": false
+  },
+  "20271": {
+    "name": "古代鐘乳巨石怪",
+    "released": false
+  },
+  "20272": {
+    "name": "古代邪惡摩艾",
+    "released": false
+  },
+  "20273": {
+    "name": "古代塔奧群卡",
+    "released": false
+  },
+  "20274": {
+    "name": "古代石炮火樹",
+    "released": false
+  },
+  "20275": {
+    "name": "古代伍坦彈弓手",
+    "released": false
+  },
+  "20276": {
+    "name": "古代伍坦戰士",
+    "released": false
+  },
+  "20277": {
+    "name": "古代伍坦防禦者",
+    "released": false
+  },
+  "20340": {
+    "name": "EL1-A17T",
+    "released": false
+  },
+  "20341": {
+    "name": "E-EA1L",
+    "released": false
+  },
+  "20342": {
+    "name": "E-EA2S",
+    "released": false
+  },
+  "20343": {
+    "name": "E-13EN0",
+    "released": false
+  },
+  "20344": {
+    "name": "化學毒物",
+    "released": false
+  },
+  "20345": {
+    "name": "生物電池",
+    "released": false
+  },
+  "20346": {
+    "name": "米古爾",
+    "released": false
+  },
+  "20347": {
+    "name": "米古爾G",
+    "released": false
+  },
+  "20348": {
+    "name": "A013-卡夫特",
+    "released": false
+  },
+  "20349": {
+    "name": "A013-朵洛爾",
+    "released": false
+  },
+  "20350": {
+    "name": "A013-貝拉雷",
+    "released": false
+  },
+  "20351": {
+    "name": "Manhole",
+    "released": false
+  },
+  "20352": {
+    "name": "致命碰碰",
+    "released": false
+  },
+  "20353": {
+    "name": "絕望朵洛爾",
+    "released": false
+  },
+  "20355": {
+    "name": "貝拉雷 / 邪心獵人貝拉雷",
+    "released": false
+  },
+  "20356": {
+    "name": "高階貝拉雷 / 咪魘邪心獵人貝拉雷",
+    "released": false
+  },
+  "20357": {
+    "name": "薩納雷 / 邪心獵人薩納雷",
+    "released": false
+  },
+  "20358": {
+    "name": "高階薩納雷 / 咪魘邪心獵人薩納雷",
+    "released": false
+  },
+  "20359": {
+    "name": "普拉加",
+    "released": false
+  },
+  "20360": {
+    "name": "異種普拉加",
+    "released": false
+  },
+  "20361": {
+    "name": "朵洛爾",
+    "released": false
+  },
+  "20362": {
+    "name": "異種朵洛爾",
+    "released": false
+  },
+  "20363": {
+    "name": "貝納姆",
+    "released": false
+  },
+  "20364": {
+    "name": "異種貝納姆",
+    "released": false
+  },
+  "20365": {
+    "name": "雙頭卡夫特",
+    "released": false
+  },
+  "20366": {
+    "name": "異種雙頭卡夫特",
+    "released": false
+  },
+  "20367": {
+    "name": "汙染幽靈劍士",
+    "released": false
+  },
+  "20368": {
+    "name": "汙染幽靈弓箭手",
+    "released": false
+  },
+  "20369": {
+    "name": "冰凍蝙蝠弓箭手",
+    "released": false
+  },
+  "20370": {
+    "name": "汙染史汀",
+    "released": false
+  },
+  "20371": {
+    "name": "越獄腐屍",
+    "released": false
+  },
+  "20372": {
+    "name": "堅硬火焰妖",
+    "released": false
+  },
+  "20373": {
+    "name": "堅硬七彩咪魘",
+    "released": false
+  },
+  "20374": {
+    "name": "堅硬七彩飛龍",
+    "released": false
+  },
+  "20375": {
+    "name": "堅硬七彩地龍",
+    "released": false
+  },
+  "20376": {
+    "name": "堅硬爆炎蝙蝠",
+    "released": false
+  },
+  "20377": {
+    "name": "堅硬卡浩",
+    "released": false
+  },
+  "20378": {
+    "name": "堅硬熔岩巨石",
+    "released": false
+  },
+  "20379": {
+    "name": "冰魔巫師",
+    "released": false
+  },
+  "20380": {
+    "name": "火魔巫師",
+    "released": false
+  },
+  "20381": {
+    "name": "R48-85-貝斯帝亞",
+    "released": false
+  },
+  "20419": {
+    "name": "堅硬穆希貝斯寇",
+    "released": false
+  },
+  "20420": {
+    "name": "汙染邪骸浪人",
+    "released": false
+  },
+  "20421": {
+    "name": "汙染蜘蛛女王",
+    "released": false
+  },
+  "20422": {
+    "name": "汙染黑暗之王",
+    "released": false
+  },
+  "20592": {
+    "name": "奪命毒霧",
+    "released": false
+  },
+  "20593": {
+    "name": "絕命毒霧",
+    "released": false
+  },
+  "20594": {
+    "name": "綠色礦石魔",
+    "released": false
+  },
+  "20595": {
+    "name": "紅色礦石魔",
+    "released": false
+  },
+  "20596": {
+    "name": "白色礦石魔",
+    "released": false
+  },
+  "20597": {
+    "name": "紫色礦石魔",
+    "released": false
+  },
+  "20598": {
+    "name": "珠寶蜘蛛",
+    "released": false
+  },
+  "20600": {
+    "name": "珠寶 / 珠寶大盜",
+    "released": false
+  },
+  "20601": {
+    "name": "珠寶溫古力安特",
+    "released": false
+  },
+  "20602": {
+    "name": "白色三葉鐵甲蟲",
+    "released": false
+  },
+  "20603": {
+    "name": "深淵礦工魔",
+    "released": false
+  },
+  "20620": {
+    "name": "紅椒 / 卡帕",
+    "released": false
+  },
+  "20621": {
+    "name": "咪魘紅椒 / 卡帕",
+    "released": false
+  },
+  "20622": {
+    "name": "研究助理機器人 / 花園監視者",
+    "released": false
+  },
+  "20623": {
+    "name": "咪魘研究助理機器人",
+    "released": false
+  },
+  "20624": {
+    "name": "乾扁草精 / 花園監視者",
+    "released": false
+  },
+  "20625": {
+    "name": "咪魘乾扁草精 / 花園監視者",
+    "released": false
+  },
+  "20626": {
+    "name": "特殊泰坦魔芋花 / 花園監視者",
+    "released": false
+  },
+  "20627": {
+    "name": "咪魘特殊泰坦魔芋花 / 花園監視者",
+    "released": false
+  },
+  "20630": {
+    "name": "故障的-B",
+    "released": false
+  },
+  "20632": {
+    "name": "咪魘故障的園丁-B",
+    "released": false
+  },
+  "20633": {
+    "name": "故障的搓澡師",
+    "released": false
+  },
+  "20634": {
+    "name": "故障的搓澡師",
+    "released": false
+  },
+  "20637": {
+    "name": "故障的倉庫管理員 / 故障的倉管",
+    "released": false
+  },
+  "20639": {
+    "name": "故障的警衛型-B",
+    "released": false
+  },
+  "20640": {
+    "name": "掃地機器人-歐米茄",
+    "released": false
+  },
+  "20641": {
+    "name": "故障的掃地機器人-歐米茄",
+    "released": false
+  },
+  "20642": {
+    "name": "斯威蒂",
+    "released": false
+  },
+  "20643": {
+    "name": "熱池劍魚",
+    "released": false
+  },
+  "20644": {
+    "name": "熱池馬克",
+    "released": false
+  },
+  "20645": {
+    "name": "熱池變異魚",
+    "released": false
+  },
+  "20646": {
+    "name": "熱池食人魚",
+    "released": false
+  },
+  "20648": {
+    "name": "大王喵喵",
+    "released": false
+  },
+  "20649": {
+    "name": "紅肉食人火龍果",
+    "released": false
+  },
+  "20650": {
+    "name": "黃肉食人火龍果",
+    "released": false
+  },
+  "20651": {
+    "name": "藍肉食人火龍果",
+    "released": false
+  },
+  "20652": {
+    "name": "紫肉食人火龍果",
+    "released": false
+  },
+  "20653": {
+    "name": "綠肉食人火龍果",
+    "released": false
+  },
+  "20654": {
+    "name": "紅肉食人火龍果",
+    "released": false
+  },
+  "20655": {
+    "name": "黃肉食人火龍果",
+    "released": false
+  },
+  "20656": {
+    "name": "藍肉食人火龍果",
+    "released": false
+  },
+  "20657": {
+    "name": "紫肉食人火龍果",
+    "released": false
+  }
 }
