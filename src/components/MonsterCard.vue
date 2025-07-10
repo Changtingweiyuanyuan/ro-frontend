@@ -40,6 +40,18 @@ const attackRange = computed(() => {
 <template>
   <div class="monster-card-new">
     <div class="card-top">
+      <div class="map-icon-container">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line>
+        </svg>
+
+        <div class="spawn-tooltip" v-if="monster.spawns && monster.spawns.length > 0">
+          <div v-for="spawn in monster.spawns" :key="spawn.map_name + spawn.description" class="tooltip-item">
+            {{ spawn.description.replace('-', '').trim() }} ({{ spawn.map_name }}) {{ spawn.spawn_info || '' }}
+          </div>
+        </div>
+      </div>
+
       <div class="attributes">
         <span>{{ monster.basic_info.race }}</span>
         <span>{{ monster.basic_info.element.type }}屬性</span>
@@ -54,42 +66,42 @@ const attackRange = computed(() => {
     </div>
 
     <div class="stats-list">
-      <div class="stat-row">
-        <span class="stat-label">等級</span>
-        <span class="stat-value">{{ monster.basic_info.level }}</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">血量</span>
-        <span class="stat-value">{{ monster.stats.hp }}</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">攻擊力</span>
-        <span class="stat-value">{{ attackRange }}</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">物理防禦</span>
-        <span class="stat-value">{{ formatStatValue(monster.stats.defense) }}</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">魔法防禦</span>
-        <span class="stat-value">{{ formatStatValue(monster.stats.magic_defense) }}</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">100%命中</span>
-        <span class="stat-value">{{ monster.stats.hit_100_percent }}</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">95%迴避</span>
-        <span class="stat-value">{{ monster.stats.flee_95_percent }}</span>
-      </div>
+        <div class="stat-row">
+            <span class="stat-label">等級</span>
+            <span class="stat-value">{{ monster.basic_info.level }}</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">血量</span>
+            <span class="stat-value">{{ monster.stats.hp }}</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">攻擊力</span>
+            <span class="stat-value">{{ attackRange }}</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">物理防禦</span>
+            <span class="stat-value">{{ formatStatValue(monster.stats.defense) }}</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">魔法防禦</span>
+            <span class="stat-value">{{ formatStatValue(monster.stats.magic_defense) }}</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">100%命中</span>
+            <span class="stat-value">{{ monster.stats.hit_100_percent }}</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">95%迴避</span>
+            <span class="stat-value">{{ monster.stats.flee_95_percent }}</span>
+        </div>
     </div>
 
     <div class="drops-list" v-if="monster.drops && monster.drops.length > 0">
-      <div v-for="drop in monster.drops" :key="drop.item_id" class="drop-item-row">
-        <img :src="drop.icon_url" :alt="parseDropName(drop.name)" class="drop-icon">
-        <span class="drop-name">{{ parseDropName(drop.name) }}</span>
-        <span class="drop-rate">{{ parseDropRate(drop.name) }}</span>
-      </div>
+        <div v-for="drop in monster.drops" :key="drop.item_id" class="drop-item-row">
+            <img :src="drop.icon_url" :alt="parseDropName(drop.name)" class="drop-icon">
+            <span class="drop-name">{{ parseDropName(drop.name) }}</span>
+            <span class="drop-rate">{{ parseDropRate(drop.name) }}</span>
+        </div>
     </div>
     <div class="drops-list-placeholder" v-else></div>
 
@@ -105,21 +117,74 @@ const attackRange = computed(() => {
   padding: 12px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #594a41;
-  /* 【修改】移除固定寬度，讓網格系統決定寬度 */
-  /* width: 220px; */
   box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  
-  /* 【關鍵修改】使用 Flexbox 佈局來控制內部元素的高度 */
   display: flex;
   flex-direction: column;
-  height: 100%; /* 確保卡片填滿 Grid Cell 的高度 */
+  height: 100%;
 }
 
+// 頂部區塊
 .card-top {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 8px;
+}
+
+.map-icon-container {
+  position: relative;
+  color: #8c7f76;
+  cursor: pointer;
+  transition: color 0.2s;
+  padding: 4px;
+  margin: -4px;
+
+  &:hover {
+    color: #3d2d1b;
+    .spawn-tooltip {
+      visibility: visible;
+      opacity: 1;
+      transform: translate(-50%, 0);
+    }
+  }
+}
+
+.spawn-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  background-color: #3d2d1b;
+  color: #f4f1eb;
+  padding: 8px 12px;
+  border-radius: 6px;
+  z-index: 10;
+  width: max-content;
+  max-width: 250px;
+  
+  bottom: 110%; 
+  left: 50%;
+  transform: translate(-50%, 10px);
+  
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #3d2d1b transparent transparent transparent;
+  }
+}
+
+.tooltip-item {
+  font-size: 13px;
+  /* 【修改】移除 no-wrap，允許文字在必要時換行 */
+  /* white-space: nowrap; */
+  text-align: left; /* 確保換行後文字靠左對齊 */
 }
 
 .attributes {
@@ -181,15 +246,12 @@ const attackRange = computed(() => {
   color: #3d2d1b;
 }
 
-// 掉落物列表
 .drops-list, .drops-list-placeholder {
   border-top: 1px solid #e0dace;
   padding-top: 12px;
   display: flex;
   flex-direction: column;
   gap: 10px;
-
-  /* 【關鍵修改】讓此區塊擴展以填滿父容器的剩餘空間 */
   flex-grow: 1; 
 }
 
