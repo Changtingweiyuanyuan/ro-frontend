@@ -1,0 +1,41 @@
+{
+  "id": 3233,
+  "name": {
+    "zh_tw": "暗●皇家衛士",
+    "en": "V_G_RANDEL"
+  },
+  "image_url": "/images/monsters/3233.gif",
+  "basic_info": {
+    "level": 188,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4500000,
+    "attack": {
+      "min": 5388,
+      "max": 7788
+    },
+    "magic_attack": {
+      "min": 1688,
+      "max": 2888
+    },
+    "defense": 600,
+    "magic_defense": 400,
+    "hit_100_percent": 576,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 400,
+      "agi": 160,
+      "vit": 400,
+      "int": 100,
+      "dex": 380,
+      "luk": 140
+    }
+  },
+  "drops": []
+}

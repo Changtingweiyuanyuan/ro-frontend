@@ -1,0 +1,41 @@
+{
+  "id": 2920,
+  "name": {
+    "zh_tw": "邪靈長老 / 長者魔導士",
+    "en": "ARC_ELDER"
+  },
+  "image_url": "/images/monsters/2920.gif",
+  "basic_info": {
+    "level": 168,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 293640,
+    "attack": {
+      "min": 2278,
+      "max": 3284
+    },
+    "magic_attack": {
+      "min": 828,
+      "max": 1310
+    },
+    "defense": 105,
+    "magic_defense": 41,
+    "hit_100_percent": 443,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 63,
+      "vit": 35,
+      "int": 99,
+      "dex": 106,
+      "luk": 61
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2285,
+  "name": {
+    "zh_tw": "深淵犬妖",
+    "en": "榔头"
+  },
+  "image_url": "/images/monsters/2285.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 181340,
+    "attack": {
+      "min": 1358,
+      "max": 1920
+    },
+    "magic_attack": {
+      "min": 283,
+      "max": 363
+    },
+    "defense": 117,
+    "magic_defense": 59,
+    "hit_100_percent": 407,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 96,
+      "agi": 61,
+      "vit": 55,
+      "int": 48,
+      "dex": 95,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

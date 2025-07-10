@@ -1,0 +1,41 @@
+{
+  "id": 20368,
+  "name": {
+    "zh_tw": "汙染幽靈弓箭手",
+    "en": "RAYDRIC_ARCHER_H"
+  },
+  "image_url": "/images/monsters/20368.gif",
+  "basic_info": {
+    "level": 184,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2355718,
+    "attack": {
+      "min": 2861,
+      "max": 4131
+    },
+    "magic_attack": {
+      "min": 874,
+      "max": 1404
+    },
+    "defense": 412,
+    "magic_defense": 101,
+    "hit_100_percent": 512,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 138,
+      "agi": 113,
+      "vit": 76,
+      "int": 72,
+      "dex": 187,
+      "luk": 77
+    }
+  },
+  "drops": []
+}

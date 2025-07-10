@@ -1,0 +1,41 @@
+{
+  "id": 1706,
+  "name": {
+    "zh_tw": "達納托斯的悲哀",
+    "en": "THA_MAERO"
+  },
+  "image_url": "/images/monsters/1706.gif",
+  "basic_info": {
+    "level": 129,
+    "race": "不死",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 42599,
+    "attack": {
+      "min": 1072,
+      "max": 1496
+    },
+    "magic_attack": {
+      "min": 433,
+      "max": 581
+    },
+    "defense": 96,
+    "magic_defense": 90,
+    "hit_100_percent": 453,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 111,
+      "vit": 70,
+      "int": 133,
+      "dex": 115,
+      "luk": 67
+    }
+  },
+  "drops": []
+}

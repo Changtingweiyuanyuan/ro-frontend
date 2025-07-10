@@ -1,0 +1,41 @@
+{
+  "id": 1627,
+  "name": {
+    "zh_tw": "瘧蚊",
+    "en": "ANOPHELES"
+  },
+  "image_url": "/images/monsters/1627.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 7238,
+    "attack": {
+      "min": 411,
+      "max": 537
+    },
+    "magic_attack": {
+      "min": 165,
+      "max": 177
+    },
+    "defense": 7,
+    "magic_defense": 10,
+    "hit_100_percent": 363,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 64,
+      "agi": 60,
+      "vit": 42,
+      "int": 58,
+      "dex": 106,
+      "luk": 42
+    }
+  },
+  "drops": []
+}

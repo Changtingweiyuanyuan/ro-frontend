@@ -1,0 +1,41 @@
+{
+  "id": 3406,
+  "name": {
+    "zh_tw": "蠍子",
+    "en": "MIN_SCORPION"
+  },
+  "image_url": "/images/monsters/3406.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "昆蟲",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 100000,
+    "attack": {
+      "min": 763,
+      "max": 1027
+    },
+    "magic_attack": {
+      "min": 165,
+      "max": 171
+    },
+    "defense": 168,
+    "magic_defense": 5,
+    "hit_100_percent": 385,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 71,
+      "vit": 90,
+      "int": 56,
+      "dex": 141,
+      "luk": 46
+    }
+  },
+  "drops": []
+}

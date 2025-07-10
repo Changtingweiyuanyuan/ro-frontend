@@ -1,0 +1,41 @@
+{
+  "id": 2798,
+  "name": {
+    "zh_tw": "精英蜂兵 / 狡猾蜂兵",
+    "en": "C5_HORNET"
+  },
+  "image_url": "/images/monsters/2798.gif",
+  "basic_info": {
+    "level": 11,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 450,
+    "attack": {
+      "min": 35,
+      "max": 41
+    },
+    "magic_attack": {
+      "min": 18,
+      "max": 20
+    },
+    "defense": 7,
+    "magic_defense": 1,
+    "hit_100_percent": 236,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 12,
+      "agi": 24,
+      "vit": 4,
+      "int": 5,
+      "dex": 6,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

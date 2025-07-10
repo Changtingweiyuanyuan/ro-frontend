@@ -1,0 +1,41 @@
+{
+  "id": 2765,
+  "name": {
+    "zh_tw": "精英 / 雄壯 曼陀羅魔花",
+    "en": "C2_MANDRAGORA"
+  },
+  "image_url": "/images/monsters/2765.gif",
+  "basic_info": {
+    "level": 13,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1560,
+    "attack": {
+      "min": 44,
+      "max": 54
+    },
+    "magic_attack": {
+      "min": 20,
+      "max": 22
+    },
+    "defense": 13,
+    "magic_defense": 2,
+    "hit_100_percent": 217,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 12,
+      "agi": 3,
+      "vit": 5,
+      "int": 5,
+      "dex": 10,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

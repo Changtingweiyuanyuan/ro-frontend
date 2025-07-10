@@ -1,0 +1,41 @@
+{
+  "id": 1916,
+  "name": {
+    "zh_tw": "魔王 咪羅克",
+    "en": "MOROCC"
+  },
+  "image_url": "/images/monsters/1916.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 7000000,
+    "attack": {
+      "min": 4588,
+      "max": 6724
+    },
+    "magic_attack": {
+      "min": 2224,
+      "max": 3808
+    },
+    "defense": 400,
+    "magic_defense": 65,
+    "hit_100_percent": 550,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 182,
+      "vit": 180,
+      "int": 225,
+      "dex": 270,
+      "luk": 89
+    }
+  },
+  "drops": []
+}

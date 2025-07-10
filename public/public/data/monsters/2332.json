@@ -1,0 +1,41 @@
+{
+  "id": 2332,
+  "name": {
+    "zh_tw": "寶箱巨鱷",
+    "en": "BUWAYA_GHOST"
+  },
+  "image_url": "/images/monsters/2332.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 30000,
+    "attack": {
+      "min": 1363,
+      "max": 1875
+    },
+    "magic_attack": {
+      "min": 1126,
+      "max": 1878
+    },
+    "defense": 481,
+    "magic_defense": 78,
+    "hit_100_percent": 597,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 201,
+      "agi": 248,
+      "vit": 174,
+      "int": 112,
+      "dex": 371,
+      "luk": 57
+    }
+  },
+  "drops": []
+}

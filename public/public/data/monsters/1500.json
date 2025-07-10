@@ -1,0 +1,41 @@
+{
+  "id": 1500,
+  "name": {
+    "zh_tw": "苗娃佩瑞絲",
+    "en": "PARASITE"
+  },
+  "image_url": "/images/monsters/1500.gif",
+  "basic_info": {
+    "level": 76,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3222,
+    "attack": {
+      "min": 272,
+      "max": 344
+    },
+    "magic_attack": {
+      "min": 157,
+      "max": 185
+    },
+    "defense": 63,
+    "magic_defense": 30,
+    "hit_100_percent": 362,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 78,
+      "vit": 33,
+      "int": 50,
+      "dex": 106,
+      "luk": 40
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1647,
+  "name": {
+    "zh_tw": "暗●十字刺客 艾勒梅斯",
+    "en": "B_EREMES"
+  },
+  "image_url": "/images/monsters/1647.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4230000,
+    "attack": {
+      "min": 5237,
+      "max": 7671
+    },
+    "magic_attack": {
+      "min": 1207,
+      "max": 2035
+    },
+    "defense": 445,
+    "magic_defense": 98,
+    "hit_100_percent": 710,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 211,
+      "agi": 338,
+      "vit": 114,
+      "int": 83,
+      "dex": 338,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

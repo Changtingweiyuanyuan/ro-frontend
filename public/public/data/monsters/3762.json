@@ -1,0 +1,41 @@
+{
+  "id": 3762,
+  "name": {
+    "zh_tw": "憤懣鬼女 / 憤恨的鬼女",
+    "en": "ILL_SOHEE"
+  },
+  "image_url": "/images/monsters/3762.gif",
+  "basic_info": {
+    "level": 114,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22414,
+    "attack": {
+      "min": 859,
+      "max": 1171
+    },
+    "magic_attack": {
+      "min": 234,
+      "max": 304
+    },
+    "defense": 83,
+    "magic_defense": 84,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 49,
+      "vit": 49,
+      "int": 40,
+      "dex": 84,
+      "luk": 56
+    }
+  },
+  "drops": []
+}

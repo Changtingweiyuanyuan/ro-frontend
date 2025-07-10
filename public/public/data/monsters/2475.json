@@ -1,0 +1,41 @@
+{
+  "id": 2475,
+  "name": {
+    "zh_tw": "墮落根莖 / 墮落之根",
+    "en": "MG_CORRUPTION_ROOT"
+  },
+  "image_url": "/images/monsters/2475.gif",
+  "basic_info": {
+    "level": 150,
+    "race": "惡魔",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1820000,
+    "attack": {
+      "min": 3460,
+      "max": 5016
+    },
+    "magic_attack": {
+      "min": 3071,
+      "max": 5405
+    },
+    "defense": 333,
+    "magic_defense": 333,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 201,
+      "agi": 20,
+      "vit": 90,
+      "int": 201,
+      "dex": 201,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2316,
+  "name": {
+    "zh_tw": "食人波利",
+    "en": "JEJELING"
+  },
+  "image_url": "/images/monsters/2316.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 10247,
+    "attack": {
+      "min": 511,
+      "max": 691
+    },
+    "magic_attack": {
+      "min": 654,
+      "max": 1084
+    },
+    "defense": 100,
+    "magic_defense": 26,
+    "hit_100_percent": 391,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 51,
+      "agi": 71,
+      "vit": 84,
+      "int": 54,
+      "dex": 15,
+      "luk": 104
+    }
+  },
+  "drops": []
+}

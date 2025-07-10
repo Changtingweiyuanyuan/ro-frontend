@@ -1,0 +1,41 @@
+{
+  "id": 20340,
+  "name": {
+    "zh_tw": "EL1-A17T",
+    "en": "MD_EL_A17T"
+  },
+  "image_url": "/images/monsters/20340.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 16412000,
+    "attack": {
+      "min": 1525,
+      "max": 2143
+    },
+    "magic_attack": {
+      "min": 863,
+      "max": 1377
+    },
+    "defense": 355,
+    "magic_defense": 42,
+    "hit_100_percent": 477,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 173,
+      "agi": 143,
+      "vit": 77,
+      "int": 148,
+      "dex": 202,
+      "luk": 84
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1257,
+  "name": {
+    "zh_tw": "邪惡使者",
+    "en": "INJUSTICE"
+  },
+  "image_url": "/images/monsters/1257.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "不死",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 7952,
+    "attack": {
+      "min": 529,
+      "max": 709
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 311
+    },
+    "defense": 76,
+    "magic_defense": 31,
+    "hit_100_percent": 364,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 59,
+      "vit": 58,
+      "int": 65,
+      "dex": 88,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

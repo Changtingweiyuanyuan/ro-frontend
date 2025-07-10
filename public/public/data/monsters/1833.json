@@ -1,0 +1,41 @@
+{
+  "id": 1833,
+  "name": {
+    "zh_tw": "火鳥",
+    "en": "KASA"
+  },
+  "image_url": "/images/monsters/1833.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 70128,
+    "attack": {
+      "min": 1450,
+      "max": 2054
+    },
+    "magic_attack": {
+      "min": 426,
+      "max": 610
+    },
+    "defense": 104,
+    "magic_defense": 70,
+    "hit_100_percent": 420,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 74,
+      "vit": 65,
+      "int": 78,
+      "dex": 162,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

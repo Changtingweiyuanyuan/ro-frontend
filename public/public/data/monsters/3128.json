@@ -1,0 +1,41 @@
+{
+  "id": 3128,
+  "name": {
+    "zh_tw": "霹靂機器人",
+    "en": "KICK_AND_KICK"
+  },
+  "image_url": "/images/monsters/3128.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 68018,
+    "attack": {
+      "min": 1484,
+      "max": 2078
+    },
+    "magic_attack": {
+      "min": 302,
+      "max": 398
+    },
+    "defense": 98,
+    "magic_defense": 54,
+    "hit_100_percent": 460,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 164,
+      "agi": 116,
+      "vit": 66,
+      "int": 59,
+      "dex": 141,
+      "luk": 58
+    }
+  },
+  "drops": []
+}

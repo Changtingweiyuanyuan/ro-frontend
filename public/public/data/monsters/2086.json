@@ -1,0 +1,41 @@
+{
+  "id": 2086,
+  "name": {
+    "zh_tw": "尖角甲蟲",
+    "en": "RAKE_SCARABA"
+  },
+  "image_url": "/images/monsters/2086.gif",
+  "basic_info": {
+    "level": 139,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 67700,
+    "attack": {
+      "min": 1545,
+      "max": 2203
+    },
+    "magic_attack": {
+      "min": 269,
+      "max": 337
+    },
+    "defense": 250,
+    "magic_defense": 70,
+    "hit_100_percent": 420,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 66,
+      "vit": 145,
+      "int": 52,
+      "dex": 168,
+      "luk": 77
+    }
+  },
+  "drops": []
+}

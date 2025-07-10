@@ -1,0 +1,41 @@
+{
+  "id": 2878,
+  "name": {
+    "zh_tw": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+    "en": "C1_CARAMEL"
+  },
+  "image_url": "/images/monsters/2878.gif",
+  "basic_info": {
+    "level": 25,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2590,
+    "attack": {
+      "min": 108,
+      "max": 140
+    },
+    "magic_attack": {
+      "min": 41,
+      "max": 47
+    },
+    "defense": 39,
+    "magic_defense": 0,
+    "hit_100_percent": 236,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 19,
+      "agi": 10,
+      "vit": 15,
+      "int": 10,
+      "dex": 32,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

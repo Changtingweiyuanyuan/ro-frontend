@@ -1,0 +1,41 @@
+{
+  "id": 1008,
+  "name": {
+    "zh_tw": "蟲蛹",
+    "en": "PUPA"
+  },
+  "image_url": "/images/monsters/1008.gif",
+  "basic_info": {
+    "level": 4,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 66,
+    "attack": {
+      "min": 15,
+      "max": 17
+    },
+    "magic_attack": {
+      "min": 9,
+      "max": 11
+    },
+    "defense": 24,
+    "magic_defense": 2,
+    "hit_100_percent": 206,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 11,
+      "agi": 1,
+      "vit": 3,
+      "int": 3,
+      "dex": 8,
+      "luk": 6
+    }
+  },
+  "drops": []
+}

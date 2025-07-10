@@ -1,0 +1,41 @@
+{
+  "id": 2180,
+  "name": {
+    "zh_tw": "遠古海神",
+    "en": "MD_STROUF"
+  },
+  "image_url": "/images/monsters/2180.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 400000,
+    "attack": {
+      "min": 1254,
+      "max": 1734
+    },
+    "magic_attack": {
+      "min": 2847,
+      "max": 4947
+    },
+    "defense": 67,
+    "magic_defense": 221,
+    "hit_100_percent": 484,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 149,
+      "agi": 126,
+      "vit": 81,
+      "int": 252,
+      "dex": 183,
+      "luk": 66
+    }
+  },
+  "drops": []
+}

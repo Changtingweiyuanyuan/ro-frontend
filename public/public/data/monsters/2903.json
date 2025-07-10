@@ -1,0 +1,41 @@
+{
+  "id": 2903,
+  "name": {
+    "zh_tw": "精英 / 菁英 狂暴邪惡箱",
+    "en": "C3_ANCIENT_MIMIC"
+  },
+  "image_url": "/images/monsters/2903.gif",
+  "basic_info": {
+    "level": 112,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 73500,
+    "attack": {
+      "min": 1153,
+      "max": 1613
+    },
+    "magic_attack": {
+      "min": 213,
+      "max": 265
+    },
+    "defense": 100,
+    "magic_defense": 40,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 70,
+      "vit": 63,
+      "int": 43,
+      "dex": 141,
+      "luk": 67
+    }
+  },
+  "drops": []
+}

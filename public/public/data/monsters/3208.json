@@ -1,0 +1,41 @@
+{
+  "id": 3208,
+  "name": {
+    "zh_tw": "暗●十字切割者 / 暗●十字斬首者",
+    "en": "V_EREMES"
+  },
+  "image_url": "/images/monsters/3208.gif",
+  "basic_info": {
+    "level": 179,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2380000,
+    "attack": {
+      "min": 4595,
+      "max": 6729
+    },
+    "magic_attack": {
+      "min": 1182,
+      "max": 1982
+    },
+    "defense": 180,
+    "magic_defense": 100,
+    "hit_100_percent": 585,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 150,
+      "agi": 190,
+      "vit": 60,
+      "int": 70,
+      "dex": 200,
+      "luk": 80
+    }
+  },
+  "drops": []
+}

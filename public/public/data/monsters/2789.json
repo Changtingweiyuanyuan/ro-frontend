@@ -1,0 +1,41 @@
+{
+  "id": 2789,
+  "name": {
+    "zh_tw": "精英傘妖 / 迅捷傘妖",
+    "en": "C1_KARAKASA"
+  },
+  "image_url": "/images/monsters/2789.gif",
+  "basic_info": {
+    "level": 72,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 15460,
+    "attack": {
+      "min": 302,
+      "max": 386
+    },
+    "magic_attack": {
+      "min": 121,
+      "max": 147
+    },
+    "defense": 93,
+    "magic_defense": 29,
+    "hit_100_percent": 357,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 73,
+      "vit": 33,
+      "int": 20,
+      "dex": 64,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

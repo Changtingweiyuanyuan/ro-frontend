@@ -1,0 +1,41 @@
+{
+  "id": 3415,
+  "name": {
+    "zh_tw": "海豹寶寶",
+    "en": "MIN_FUR_SEAL"
+  },
+  "image_url": "/images/monsters/3415.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 130000,
+    "attack": {
+      "min": 806,
+      "max": 1086
+    },
+    "magic_attack": {
+      "min": 200,
+      "max": 224
+    },
+    "defense": 177,
+    "magic_defense": 16,
+    "hit_100_percent": 398,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 139,
+      "agi": 80,
+      "vit": 99,
+      "int": 65,
+      "dex": 150,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

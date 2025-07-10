@@ -1,0 +1,41 @@
+{
+  "id": 1721,
+  "name": {
+    "zh_tw": "龍蛋",
+    "en": "DRAGON_EGG"
+  },
+  "image_url": "/images/monsters/1721.gif",
+  "basic_info": {
+    "level": 119,
+    "race": "龍",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20990,
+    "attack": {
+      "min": 766,
+      "max": 1048
+    },
+    "magic_attack": {
+      "min": 264,
+      "max": 354
+    },
+    "defense": 172,
+    "magic_defense": 85,
+    "hit_100_percent": 391,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 84,
+      "agi": 59,
+      "vit": 85,
+      "int": 40,
+      "dex": 165,
+      "luk": 65
+    }
+  },
+  "drops": []
+}

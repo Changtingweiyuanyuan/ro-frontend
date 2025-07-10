@@ -1,0 +1,41 @@
+{
+  "id": 1180,
+  "name": {
+    "zh_tw": "九尾狐",
+    "en": "NINE_TAIL"
+  },
+  "image_url": "/images/monsters/1180.gif",
+  "basic_info": {
+    "level": 72,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2783,
+    "attack": {
+      "min": 525,
+      "max": 723
+    },
+    "magic_attack": {
+      "min": 127,
+      "max": 157
+    },
+    "defense": 95,
+    "magic_defense": 40,
+    "hit_100_percent": 320,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 38,
+      "vit": 30,
+      "int": 20,
+      "dex": 106,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

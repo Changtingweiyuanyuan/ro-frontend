@@ -1,0 +1,41 @@
+{
+  "id": 2230,
+  "name": {
+    "zh_tw": "智者 西里亞",
+    "en": "G_CELIA"
+  },
+  "image_url": "/images/monsters/2230.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2025160,
+    "attack": {
+      "min": 2309,
+      "max": 3303
+    },
+    "magic_attack": {
+      "min": 2494,
+      "max": 4364
+    },
+    "defense": 201,
+    "magic_defense": 543,
+    "hit_100_percent": 525,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 148,
+      "vit": 171,
+      "int": 155,
+      "dex": 267,
+      "luk": 85
+    }
+  },
+  "drops": []
+}

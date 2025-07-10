@@ -1,0 +1,41 @@
+{
+  "id": 1515,
+  "name": {
+    "zh_tw": "卡崙寶寶",
+    "en": "GARM_BABY"
+  },
+  "image_url": "/images/monsters/1515.gif",
+  "basic_info": {
+    "level": 94,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10016,
+    "attack": {
+      "min": 561,
+      "max": 761
+    },
+    "magic_attack": {
+      "min": 197,
+      "max": 235
+    },
+    "defense": 62,
+    "magic_defense": 43,
+    "hit_100_percent": 364,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 61,
+      "vit": 55,
+      "int": 61,
+      "dex": 106,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

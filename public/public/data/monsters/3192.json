@@ -1,0 +1,41 @@
+{
+  "id": 3192,
+  "name": {
+    "zh_tw": "基勘特斯",
+    "en": "MM_M_GIGAN2"
+  },
+  "image_url": "/images/monsters/3192.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 9870000,
+    "attack": {
+      "min": 4474,
+      "max": 6526
+    },
+    "magic_attack": {
+      "min": 243,
+      "max": 297
+    },
+    "defense": 89,
+    "magic_defense": 175,
+    "hit_100_percent": 501,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 212,
+      "agi": 138,
+      "vit": 43,
+      "int": 21,
+      "dex": 227,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1783,
+  "name": {
+    "zh_tw": "迦利",
+    "en": "GALION"
+  },
+  "image_url": "/images/monsters/1783.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8821,
+    "attack": {
+      "min": 627,
+      "max": 839
+    },
+    "magic_attack": {
+      "min": 198,
+      "max": 246
+    },
+    "defense": 100,
+    "magic_defense": 62,
+    "hit_100_percent": 386,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 79,
+      "vit": 62,
+      "int": 45,
+      "dex": 108,
+      "luk": 36
+    }
+  },
+  "drops": []
+}

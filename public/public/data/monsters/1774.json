@@ -1,0 +1,41 @@
+{
+  "id": 1774,
+  "name": {
+    "zh_tw": "紅惡魔之眼",
+    "en": "SEEKER"
+  },
+  "image_url": "/images/monsters/1774.gif",
+  "basic_info": {
+    "level": 124,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 24500,
+    "attack": {
+      "min": 899,
+      "max": 1241
+    },
+    "magic_attack": {
+      "min": 283,
+      "max": 355
+    },
+    "defense": 64,
+    "magic_defense": 30,
+    "hit_100_percent": 420,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 90,
+      "vit": 35,
+      "int": 75,
+      "dex": 176,
+      "luk": 31
+    }
+  },
+  "drops": []
+}

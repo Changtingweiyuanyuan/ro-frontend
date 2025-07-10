@@ -1,0 +1,41 @@
+{
+  "id": 2781,
+  "name": {
+    "zh_tw": "精英群葉貓 / 菁英群葉貓",
+    "en": "C3_LEAF_CAT"
+  },
+  "image_url": "/images/monsters/2781.gif",
+  "basic_info": {
+    "level": 64,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 13175,
+    "attack": {
+      "min": 250,
+      "max": 322
+    },
+    "magic_attack": {
+      "min": 137,
+      "max": 163
+    },
+    "defense": 88,
+    "magic_defense": 16,
+    "hit_100_percent": 285,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 46,
+      "agi": 16,
+      "vit": 12,
+      "int": 45,
+      "dex": 36,
+      "luk": 29
+    }
+  },
+  "drops": []
+}

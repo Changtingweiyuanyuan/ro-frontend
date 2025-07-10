@@ -1,0 +1,41 @@
+{
+  "id": 2555,
+  "name": {
+    "zh_tw": "巫師 奧樂德",
+    "en": "GEFFEN_MAGE_5"
+  },
+  "image_url": "/images/monsters/2555.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 600000,
+    "attack": {
+      "min": 654,
+      "max": 906
+    },
+    "magic_attack": {
+      "min": 651,
+      "max": 1029
+    },
+    "defense": 107,
+    "magic_defense": 21,
+    "hit_100_percent": 392,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 40,
+      "agi": 70,
+      "vit": 40,
+      "int": 100,
+      "dex": 150,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

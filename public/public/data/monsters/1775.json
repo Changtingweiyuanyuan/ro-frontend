@@ -1,0 +1,41 @@
+{
+  "id": 1775,
+  "name": {
+    "zh_tw": "雪獸",
+    "en": "SNOWIER"
+  },
+  "image_url": "/images/monsters/1775.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 13934,
+    "attack": {
+      "min": 804,
+      "max": 1110
+    },
+    "magic_attack": {
+      "min": 205,
+      "max": 255
+    },
+    "defense": 121,
+    "magic_defense": 47,
+    "hit_100_percent": 375,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 61,
+      "vit": 67,
+      "int": 45,
+      "dex": 83,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

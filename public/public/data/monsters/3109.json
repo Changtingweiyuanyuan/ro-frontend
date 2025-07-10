@@ -1,0 +1,41 @@
+{
+  "id": 3109,
+  "name": {
+    "zh_tw": "吉特巴",
+    "en": "JITTERBUG2"
+  },
+  "image_url": "/images/monsters/3109.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2614000,
+    "attack": {
+      "min": 2892,
+      "max": 4176
+    },
+    "magic_attack": {
+      "min": 672,
+      "max": 1090
+    },
+    "defense": 123,
+    "magic_defense": 68,
+    "hit_100_percent": 424,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 189,
+      "agi": 78,
+      "vit": 81,
+      "int": 51,
+      "dex": 108,
+      "luk": 56
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1164,
+  "name": {
+    "zh_tw": "諾可伊",
+    "en": "REQUIEM"
+  },
+  "image_url": "/images/monsters/1164.gif",
+  "basic_info": {
+    "level": 71,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3089,
+    "attack": {
+      "min": 407,
+      "max": 547
+    },
+    "magic_attack": {
+      "min": 116,
+      "max": 146
+    },
+    "defense": 88,
+    "magic_defense": 20,
+    "hit_100_percent": 307,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 34,
+      "vit": 35,
+      "int": 12,
+      "dex": 50,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

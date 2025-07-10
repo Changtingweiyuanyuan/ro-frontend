@@ -1,0 +1,41 @@
+{
+  "id": 20350,
+  "name": {
+    "zh_tw": "A013-貝拉雷",
+    "en": "MD_A013_BELLARE"
+  },
+  "image_url": "/images/monsters/20350.gif",
+  "basic_info": {
+    "level": 112,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 38000,
+    "attack": {
+      "min": 1131,
+      "max": 1587
+    },
+    "magic_attack": {
+      "min": 253,
+      "max": 349
+    },
+    "defense": 76,
+    "magic_defense": 15,
+    "hit_100_percent": 406,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 107,
+      "agi": 82,
+      "vit": 44,
+      "int": 29,
+      "dex": 148,
+      "luk": 62
+    }
+  },
+  "drops": []
+}

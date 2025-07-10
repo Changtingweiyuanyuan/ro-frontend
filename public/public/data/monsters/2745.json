@@ -1,0 +1,41 @@
+{
+  "id": 2745,
+  "name": {
+    "zh_tw": "精英摩爾 / 雄壯摩爾",
+    "en": "C2_MOLE"
+  },
+  "image_url": "/images/monsters/2745.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 62280,
+    "attack": {
+      "min": 412,
+      "max": 550
+    },
+    "magic_attack": {
+      "min": 149,
+      "max": 179
+    },
+    "defense": 82,
+    "magic_defense": 16,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 53,
+      "agi": 65,
+      "vit": 31,
+      "int": 30,
+      "dex": 58,
+      "luk": 31
+    }
+  },
+  "drops": []
+}

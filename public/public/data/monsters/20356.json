@@ -1,0 +1,41 @@
+{
+  "id": 20356,
+  "name": {
+    "zh_tw": "高階貝拉雷 / 咪魘邪心獵人貝拉雷",
+    "en": "EP17_1_BELLARE2"
+  },
+  "image_url": "/images/monsters/20356.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 473302,
+    "attack": {
+      "min": 2247,
+      "max": 3229
+    },
+    "magic_attack": {
+      "min": 852,
+      "max": 1374
+    },
+    "defense": 263,
+    "magic_defense": 37,
+    "hit_100_percent": 484,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 119,
+      "agi": 101,
+      "vit": 90,
+      "int": 79,
+      "dex": 172,
+      "luk": 93
+    }
+  },
+  "drops": []
+}

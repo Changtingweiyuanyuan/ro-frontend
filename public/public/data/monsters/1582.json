@@ -1,0 +1,41 @@
+{
+  "id": 1582,
+  "name": {
+    "zh_tw": "惡魔波利",
+    "en": "DEVILING"
+  },
+  "image_url": "/images/monsters/1582.gif",
+  "basic_info": {
+    "level": 66,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 16890,
+    "attack": {
+      "min": 364,
+      "max": 490
+    },
+    "magic_attack": {
+      "min": 269,
+      "max": 379
+    },
+    "defense": 67,
+    "magic_defense": 70,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 48,
+      "agi": 50,
+      "vit": 33,
+      "int": 75,
+      "dex": 85,
+      "luk": 200
+    }
+  },
+  "drops": []
+}

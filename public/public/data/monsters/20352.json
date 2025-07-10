@@ -1,0 +1,41 @@
+{
+  "id": 20352,
+  "name": {
+    "zh_tw": "致命碰碰",
+    "en": "MD_POMPOM"
+  },
+  "image_url": "/images/monsters/20352.gif",
+  "basic_info": {
+    "level": 112,
+    "race": "無形",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 35000,
+    "attack": {
+      "min": 859,
+      "max": 1201
+    },
+    "magic_attack": {
+      "min": 296,
+      "max": 408
+    },
+    "defense": 85,
+    "magic_defense": 42,
+    "hit_100_percent": 398,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 63,
+      "agi": 84,
+      "vit": 12,
+      "int": 55,
+      "dex": 138,
+      "luk": 12
+    }
+  },
+  "drops": []
+}

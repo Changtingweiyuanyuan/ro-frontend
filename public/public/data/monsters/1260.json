@@ -1,0 +1,41 @@
+{
+  "id": 1260,
+  "name": {
+    "zh_tw": "鏡妖",
+    "en": "DARK_FRAME"
+  },
+  "image_url": "/images/monsters/1260.gif",
+  "basic_info": {
+    "level": 76,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3520,
+    "attack": {
+      "min": 425,
+      "max": 565
+    },
+    "magic_attack": {
+      "min": 107,
+      "max": 125
+    },
+    "defense": 67,
+    "magic_defense": 27,
+    "hit_100_percent": 314,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 37,
+      "vit": 36,
+      "int": 10,
+      "dex": 64,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

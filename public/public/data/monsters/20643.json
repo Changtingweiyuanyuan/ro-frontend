@@ -1,0 +1,41 @@
+{
+  "id": 20643,
+  "name": {
+    "zh_tw": "熱池劍魚",
+    "en": "EP17_2_PHEN"
+  },
+  "image_url": "/images/monsters/20643.gif",
+  "basic_info": {
+    "level": 139,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 133096,
+    "attack": {
+      "min": 1763,
+      "max": 2521
+    },
+    "magic_attack": {
+      "min": 782,
+      "max": 1262
+    },
+    "defense": 367,
+    "magic_defense": 80,
+    "hit_100_percent": 463,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 112,
+      "vit": 76,
+      "int": 86,
+      "dex": 104,
+      "luk": 64
+    }
+  },
+  "drops": []
+}

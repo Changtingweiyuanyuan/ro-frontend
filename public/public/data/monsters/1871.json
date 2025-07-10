@@ -1,0 +1,41 @@
+{
+  "id": 1871,
+  "name": {
+    "zh_tw": "墮落的大神官 希巴姆 / 悉潘",
+    "en": "FALLINGBISHOP"
+  },
+  "image_url": "/images/monsters/1871.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5655000,
+    "attack": {
+      "min": 3756,
+      "max": 5472
+    },
+    "magic_attack": {
+      "min": 3609,
+      "max": 6391
+    },
+    "defense": 274,
+    "magic_defense": 382,
+    "hit_100_percent": 520,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 186,
+      "agi": 165,
+      "vit": 95,
+      "int": 226,
+      "dex": 273,
+      "luk": 86
+    }
+  },
+  "drops": []
+}

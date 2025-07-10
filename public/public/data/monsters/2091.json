@@ -1,0 +1,41 @@
+{
+  "id": 2091,
+  "name": {
+    "zh_tw": "尖角甲蟲卵",
+    "en": "RAKE_SCARABA_EGG"
+  },
+  "image_url": "/images/monsters/2091.gif",
+  "basic_info": {
+    "level": 128,
+    "race": "昆蟲",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 72000,
+    "attack": {
+      "min": 129,
+      "max": 131
+    },
+    "magic_attack": {
+      "min": 167,
+      "max": 169
+    },
+    "defense": 290,
+    "magic_defense": 44,
+    "hit_100_percent": 345,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 130,
+      "int": 39,
+      "dex": 1,
+      "luk": 80
+    }
+  },
+  "drops": []
+}

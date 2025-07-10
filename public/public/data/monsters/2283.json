@@ -1,0 +1,41 @@
+{
+  "id": 2283,
+  "name": {
+    "zh_tw": "深淵暗黑祭司 / 深淵神父",
+    "en": "GLD_DARK_PRIEST"
+  },
+  "image_url": "/images/monsters/2283.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 181878,
+    "attack": {
+      "min": 1206,
+      "max": 1738
+    },
+    "magic_attack": {
+      "min": 1385,
+      "max": 2377
+    },
+    "defense": 62,
+    "magic_defense": 41,
+    "hit_100_percent": 409,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 5,
+      "agi": 60,
+      "vit": 41,
+      "int": 89,
+      "dex": 94,
+      "luk": 42
+    }
+  },
+  "drops": []
+}

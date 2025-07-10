@@ -1,0 +1,41 @@
+{
+  "id": 2921,
+  "name": {
+    "zh_tw": "鶚梟子爵",
+    "en": "OWL_VISCOUNT"
+  },
+  "image_url": "/images/monsters/2921.gif",
+  "basic_info": {
+    "level": 168,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 295240,
+    "attack": {
+      "min": 3749,
+      "max": 5497
+    },
+    "magic_attack": {
+      "min": 886,
+      "max": 1426
+    },
+    "defense": 113,
+    "magic_defense": 45,
+    "hit_100_percent": 429,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 87,
+      "agi": 51,
+      "vit": 45,
+      "int": 88,
+      "dex": 106,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

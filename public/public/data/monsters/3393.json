@@ -1,0 +1,41 @@
+{
+  "id": 3393,
+  "name": {
+    "zh_tw": "土人",
+    "en": "MIN_DOKEBI"
+  },
+  "image_url": "/images/monsters/3393.gif",
+  "basic_info": {
+    "level": 102,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 55000,
+    "attack": {
+      "min": 715,
+      "max": 963
+    },
+    "magic_attack": {
+      "min": 166,
+      "max": 184
+    },
+    "defense": 155,
+    "magic_defense": 20,
+    "hit_100_percent": 366,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 117,
+      "agi": 58,
+      "vit": 77,
+      "int": 43,
+      "dex": 128,
+      "luk": 33
+    }
+  },
+  "drops": []
+}

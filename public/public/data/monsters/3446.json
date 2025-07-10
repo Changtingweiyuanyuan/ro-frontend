@@ -1,0 +1,41 @@
+{
+  "id": 3446,
+  "name": {
+    "zh_tw": "強化邪骸戰士",
+    "en": "P_SKELETON"
+  },
+  "image_url": "/images/monsters/3446.gif",
+  "basic_info": {
+    "level": 114,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 354,
+      "max": 434
+    },
+    "magic_attack": {
+      "min": 374,
+      "max": 494
+    },
+    "defense": 20,
+    "magic_defense": 20,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 80,
+      "agi": 60,
+      "vit": 30,
+      "int": 120,
+      "dex": 90,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

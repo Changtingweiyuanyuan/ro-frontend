@@ -1,0 +1,41 @@
+{
+  "id": 1191,
+  "name": {
+    "zh_tw": "邪惡箱",
+    "en": "MIMIC"
+  },
+  "image_url": "/images/monsters/1191.gif",
+  "basic_info": {
+    "level": 56,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1939,
+    "attack": {
+      "min": 290,
+      "max": 384
+    },
+    "magic_attack": {
+      "min": 86,
+      "max": 100
+    },
+    "defense": 63,
+    "magic_defense": 15,
+    "hit_100_percent": 376,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 49,
+      "agi": 120,
+      "vit": 20,
+      "int": 15,
+      "dex": 109,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2770,
+  "name": {
+    "zh_tw": "精英瘋兔 / 雄壯瘋兔",
+    "en": "C2_LUNATIC"
+  },
+  "image_url": "/images/monsters/2770.gif",
+  "basic_info": {
+    "level": 3,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 550,
+    "attack": {
+      "min": 23,
+      "max": 29
+    },
+    "magic_attack": {
+      "min": 4,
+      "max": 6
+    },
+    "defense": 18,
+    "magic_defense": 0,
+    "hit_100_percent": 207,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 3,
+      "vit": 3,
+      "int": 1,
+      "dex": 8,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

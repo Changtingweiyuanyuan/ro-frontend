@@ -1,0 +1,41 @@
+{
+  "id": 1619,
+  "name": {
+    "zh_tw": "三葉鐵甲蟲",
+    "en": "PORCELLIO"
+  },
+  "image_url": "/images/monsters/1619.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 5544,
+    "attack": {
+      "min": 386,
+      "max": 504
+    },
+    "magic_attack": {
+      "min": 162,
+      "max": 194
+    },
+    "defense": 79,
+    "magic_defense": 37,
+    "hit_100_percent": 339,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 48,
+      "vit": 28,
+      "int": 40,
+      "dex": 74,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

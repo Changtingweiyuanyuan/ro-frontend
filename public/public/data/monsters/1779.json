@@ -1,0 +1,41 @@
+{
+  "id": 1779,
+  "name": {
+    "zh_tw": "寒冰龍",
+    "en": "KTULLANUX"
+  },
+  "image_url": "/images/monsters/1779.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2626000,
+    "attack": {
+      "min": 3186,
+      "max": 4688
+    },
+    "magic_attack": {
+      "min": 2099,
+      "max": 3707
+    },
+    "defense": 129,
+    "magic_defense": 78,
+    "hit_100_percent": 446,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 85,
+      "agi": 126,
+      "vit": 30,
+      "int": 125,
+      "dex": 212,
+      "luk": 112
+    }
+  },
+  "drops": []
+}

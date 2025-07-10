@@ -1,0 +1,41 @@
+{
+  "id": 1038,
+  "name": {
+    "zh_tw": "俄塞里斯",
+    "en": "OSIRIS"
+  },
+  "image_url": "/images/monsters/1038.gif",
+  "basic_info": {
+    "level": 68,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1175840,
+    "attack": {
+      "min": 1749,
+      "max": 2541
+    },
+    "magic_attack": {
+      "min": 1251,
+      "max": 2153
+    },
+    "defense": 172,
+    "magic_defense": 164,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 99,
+      "vit": 86,
+      "int": 131,
+      "dex": 165,
+      "luk": 67
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2177,
+  "name": {
+    "zh_tw": "深海海螺",
+    "en": "MD_CORNUTUS"
+  },
+  "image_url": "/images/monsters/2177.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 160000,
+    "attack": {
+      "min": 1125,
+      "max": 1577
+    },
+    "magic_attack": {
+      "min": 331,
+      "max": 475
+    },
+    "defense": 342,
+    "magic_defense": 48,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 87,
+      "vit": 135,
+      "int": 66,
+      "dex": 137,
+      "luk": 75
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3803,
+  "name": {
+    "zh_tw": "不祥火焰龜",
+    "en": "ILL_HEATER"
+  },
+  "image_url": "/images/monsters/3803.gif",
+  "basic_info": {
+    "level": 162,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 527390,
+    "attack": {
+      "min": 2938,
+      "max": 4238
+    },
+    "magic_attack": {
+      "min": 669,
+      "max": 1019
+    },
+    "defense": 400,
+    "magic_defense": 100,
+    "hit_100_percent": 474,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 177,
+      "agi": 95,
+      "vit": 120,
+      "int": 100,
+      "dex": 212,
+      "luk": 89
+    }
+  },
+  "drops": []
+}

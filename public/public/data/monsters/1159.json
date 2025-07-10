@@ -1,0 +1,41 @@
+{
+  "id": 1159,
+  "name": {
+    "zh_tw": "皮裡恩",
+    "en": "PHREEONI"
+  },
+  "image_url": "/images/monsters/1159.gif",
+  "basic_info": {
+    "level": 71,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 300000,
+    "attack": {
+      "min": 713,
+      "max": 991
+    },
+    "magic_attack": {
+      "min": 834,
+      "max": 1416
+    },
+    "defense": 269,
+    "magic_defense": 98,
+    "hit_100_percent": 355,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 88,
+      "agi": 70,
+      "vit": 112,
+      "int": 87,
+      "dex": 122,
+      "luk": 71
+    }
+  },
+  "drops": []
+}

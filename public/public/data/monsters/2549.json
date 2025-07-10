@@ -1,0 +1,41 @@
+{
+  "id": 2549,
+  "name": {
+    "zh_tw": "初心者 雅樂西",
+    "en": "GEFFEN_MAGE_1"
+  },
+  "image_url": "/images/monsters/2549.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 100000,
+    "attack": {
+      "min": 329,
+      "max": 425
+    },
+    "magic_attack": {
+      "min": 305,
+      "max": 449
+    },
+    "defense": 64,
+    "magic_defense": 38,
+    "hit_100_percent": 350,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 50,
+      "vit": 50,
+      "int": 50,
+      "dex": 130,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

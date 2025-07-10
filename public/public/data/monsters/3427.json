@@ -1,0 +1,41 @@
+{
+  "id": 3427,
+  "name": {
+    "zh_tw": "俄塞里斯",
+    "en": "MIN_OSIRIS"
+  },
+  "image_url": "/images/monsters/3427.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2850000,
+    "attack": {
+      "min": 1720,
+      "max": 2480
+    },
+    "magic_attack": {
+      "min": 1286,
+      "max": 2188
+    },
+    "defense": 172,
+    "magic_defense": 164,
+    "hit_100_percent": 415,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 99,
+      "vit": 86,
+      "int": 131,
+      "dex": 165,
+      "luk": 67
+    }
+  },
+  "drops": []
+}

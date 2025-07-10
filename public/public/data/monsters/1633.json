@@ -1,0 +1,41 @@
+{
+  "id": 1633,
+  "name": {
+    "zh_tw": "惡魔之眼",
+    "en": "BEHOLDER"
+  },
+  "image_url": "/images/monsters/1633.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 19280,
+    "attack": {
+      "min": 874,
+      "max": 1204
+    },
+    "magic_attack": {
+      "min": 318,
+      "max": 396
+    },
+    "defense": 50,
+    "magic_defense": 30,
+    "hit_100_percent": 418,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 96,
+      "agi": 82,
+      "vit": 65,
+      "int": 107,
+      "dex": 132,
+      "luk": 82
+    }
+  },
+  "drops": []
+}

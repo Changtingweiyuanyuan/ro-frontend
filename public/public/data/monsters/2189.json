@@ -1,0 +1,41 @@
+{
+  "id": 2189,
+  "name": {
+    "zh_tw": "暴力腔棘魚",
+    "en": "COELACANTH_H_M"
+  },
+  "image_url": "/images/monsters/2189.gif",
+  "basic_info": {
+    "level": 155,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5200000,
+    "attack": {
+      "min": 4815,
+      "max": 7015
+    },
+    "magic_attack": {
+      "min": 4265,
+      "max": 7565
+    },
+    "defense": 280,
+    "magic_defense": 280,
+    "hit_100_percent": 667,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 260,
+      "agi": 260,
+      "vit": 260,
+      "int": 260,
+      "dex": 260,
+      "luk": 260
+    }
+  },
+  "drops": []
+}

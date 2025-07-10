@@ -1,0 +1,41 @@
+{
+  "id": 1504,
+  "name": {
+    "zh_tw": "無顱武士",
+    "en": "DULLAHAN"
+  },
+  "image_url": "/images/monsters/1504.gif",
+  "basic_info": {
+    "level": 108,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 19546,
+    "attack": {
+      "min": 1081,
+      "max": 1509
+    },
+    "magic_attack": {
+      "min": 273,
+      "max": 379
+    },
+    "defense": 111,
+    "magic_defense": 38,
+    "hit_100_percent": 337,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 29,
+      "vit": 51,
+      "int": 43,
+      "dex": 100,
+      "luk": 3
+    }
+  },
+  "drops": []
+}

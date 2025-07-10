@@ -1,0 +1,41 @@
+{
+  "id": 1215,
+  "name": {
+    "zh_tw": "灰森靈",
+    "en": "STEM_WORM"
+  },
+  "image_url": "/images/monsters/1215.gif",
+  "basic_info": {
+    "level": 84,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4530,
+    "attack": {
+      "min": 373,
+      "max": 491
+    },
+    "magic_attack": {
+      "min": 159,
+      "max": 185
+    },
+    "defense": 73,
+    "magic_defense": 50,
+    "hit_100_percent": 327,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 37,
+      "vit": 25,
+      "int": 47,
+      "dex": 84,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

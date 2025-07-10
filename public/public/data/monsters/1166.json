@@ -1,0 +1,41 @@
+{
+  "id": 1166,
+  "name": {
+    "zh_tw": "野豬",
+    "en": "SAVAGE"
+  },
+  "image_url": "/images/monsters/1166.gif",
+  "basic_info": {
+    "level": 59,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2301,
+    "attack": {
+      "min": 259,
+      "max": 333
+    },
+    "magic_attack": {
+      "min": 85,
+      "max": 99
+    },
+    "defense": 126,
+    "magic_defense": 3,
+    "hit_100_percent": 283,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 56,
+      "agi": 21,
+      "vit": 54,
+      "int": 10,
+      "dex": 52,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

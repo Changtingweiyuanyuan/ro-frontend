@@ -1,0 +1,41 @@
+{
+  "id": 2565,
+  "name": {
+    "zh_tw": "艾爾馮斯 / 阿方斯",
+    "en": "ALPHONSE"
+  },
+  "image_url": "/images/monsters/2565.gif",
+  "basic_info": {
+    "level": 150,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1000000,
+    "attack": {
+      "min": 650,
+      "max": 850
+    },
+    "magic_attack": {
+      "min": 550,
+      "max": 850
+    },
+    "defense": 100,
+    "magic_defense": 20,
+    "hit_100_percent": 470,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 100,
+      "vit": 50,
+      "int": 50,
+      "dex": 170,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2203,
+  "name": {
+    "zh_tw": "醬缸章魚",
+    "en": "POT_DOFLE"
+  },
+  "image_url": "/images/monsters/2203.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 25211,
+    "attack": {
+      "min": 1118,
+      "max": 1554
+    },
+    "magic_attack": {
+      "min": 296,
+      "max": 424
+    },
+    "defense": 122,
+    "magic_defense": 55,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 133,
+      "agi": 54,
+      "vit": 78,
+      "int": 33,
+      "dex": 114,
+      "luk": 26
+    }
+  },
+  "drops": []
+}

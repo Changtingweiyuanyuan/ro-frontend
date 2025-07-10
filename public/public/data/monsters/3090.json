@@ -1,0 +1,41 @@
+{
+  "id": 3090,
+  "name": {
+    "zh_tw": "瘋狂火蜥蜴",
+    "en": "MM_LOCO_SALAMANDER"
+  },
+  "image_url": "/images/monsters/3090.gif",
+  "basic_info": {
+    "level": 155,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 217650,
+    "attack": {
+      "min": 2357,
+      "max": 3429
+    },
+    "magic_attack": {
+      "min": 1069,
+      "max": 1825
+    },
+    "defense": 121,
+    "magic_defense": 36,
+    "hit_100_percent": 461,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 103,
+      "vit": 45,
+      "int": 35,
+      "dex": 172,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

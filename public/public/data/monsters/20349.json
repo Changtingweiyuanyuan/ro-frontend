@@ -1,0 +1,41 @@
+{
+  "id": 20349,
+  "name": {
+    "zh_tw": "A013-朵洛爾",
+    "en": "MD_A013_DOLOR"
+  },
+  "image_url": "/images/monsters/20349.gif",
+  "basic_info": {
+    "level": 111,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 31000,
+    "attack": {
+      "min": 856,
+      "max": 1176
+    },
+    "magic_attack": {
+      "min": 339,
+      "max": 459
+    },
+    "defense": 42,
+    "magic_defense": 65,
+    "hit_100_percent": 369,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 105,
+      "agi": 45,
+      "vit": 42,
+      "int": 88,
+      "dex": 180,
+      "luk": 65
+    }
+  },
+  "drops": []
+}

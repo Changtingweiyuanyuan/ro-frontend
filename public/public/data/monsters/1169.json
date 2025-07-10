@@ -1,0 +1,41 @@
+{
+  "id": 1169,
+  "name": {
+    "zh_tw": "邪骸礦工",
+    "en": "SKEL_WORKER"
+  },
+  "image_url": "/images/monsters/1169.gif",
+  "basic_info": {
+    "level": 44,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1240,
+    "attack": {
+      "min": 147,
+      "max": 185
+    },
+    "magic_attack": {
+      "min": 62,
+      "max": 70
+    },
+    "defense": 45,
+    "magic_defense": 5,
+    "hit_100_percent": 262,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 30,
+      "agi": 13,
+      "vit": 22,
+      "int": 10,
+      "dex": 37,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

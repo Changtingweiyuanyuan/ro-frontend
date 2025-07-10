@@ -1,0 +1,41 @@
+{
+  "id": 1697,
+  "name": {
+    "zh_tw": "藍色等離子體",
+    "en": "PLASMA_B"
+  },
+  "image_url": "/images/monsters/1697.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 24651,
+    "attack": {
+      "min": 718,
+      "max": 958
+    },
+    "magic_attack": {
+      "min": 219,
+      "max": 261
+    },
+    "defense": 51,
+    "magic_defense": 18,
+    "hit_100_percent": 399,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 124,
+      "agi": 74,
+      "vit": 60,
+      "int": 55,
+      "dex": 92,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

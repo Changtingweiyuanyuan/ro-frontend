@@ -1,0 +1,41 @@
+{
+  "id": 1778,
+  "name": {
+    "zh_tw": "蓋俄斯提",
+    "en": "GAZETI"
+  },
+  "image_url": "/images/monsters/1778.gif",
+  "basic_info": {
+    "level": 106,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 14000,
+    "attack": {
+      "min": 831,
+      "max": 1141
+    },
+    "magic_attack": {
+      "min": 191,
+      "max": 233
+    },
+    "defense": 71,
+    "magic_defense": 21,
+    "hit_100_percent": 350,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 105,
+      "agi": 37,
+      "vit": 42,
+      "int": 38,
+      "dex": 116,
+      "luk": 38
+    }
+  },
+  "drops": []
+}

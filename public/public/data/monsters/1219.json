@@ -1,0 +1,41 @@
+{
+  "id": 1219,
+  "name": {
+    "zh_tw": "深淵騎士",
+    "en": "KNIGHT_OF_ABYSS"
+  },
+  "image_url": "/images/monsters/1219.gif",
+  "basic_info": {
+    "level": 122,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 23297,
+    "attack": {
+      "min": 1630,
+      "max": 2324
+    },
+    "magic_attack": {
+      "min": 326,
+      "max": 442
+    },
+    "defense": 102,
+    "magic_defense": 50,
+    "hit_100_percent": 384,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 55,
+      "vit": 68,
+      "int": 70,
+      "dex": 136,
+      "luk": 37
+    }
+  },
+  "drops": []
+}

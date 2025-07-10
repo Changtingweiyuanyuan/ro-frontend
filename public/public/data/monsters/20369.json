@@ -1,0 +1,41 @@
+{
+  "id": 20369,
+  "name": {
+    "zh_tw": "冰凍蝙蝠弓箭手",
+    "en": "GARGOYLE_H"
+  },
+  "image_url": "/images/monsters/20369.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2377139,
+    "attack": {
+      "min": 2714,
+      "max": 3914
+    },
+    "magic_attack": {
+      "min": 1125,
+      "max": 1847
+    },
+    "defense": 333,
+    "magic_defense": 105,
+    "hit_100_percent": 507,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 129,
+      "agi": 109,
+      "vit": 49,
+      "int": 97,
+      "dex": 178,
+      "luk": 63
+    }
+  },
+  "drops": []
+}

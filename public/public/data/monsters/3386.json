@@ -1,0 +1,41 @@
+{
+  "id": 3386,
+  "name": {
+    "zh_tw": "綠棉蟲",
+    "en": "MIN_FABRE"
+  },
+  "image_url": "/images/monsters/3386.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 25000,
+    "attack": {
+      "min": 690,
+      "max": 930
+    },
+    "magic_attack": {
+      "min": 138,
+      "max": 140
+    },
+    "defense": 148,
+    "magic_defense": 0,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 110,
+      "agi": 51,
+      "vit": 70,
+      "int": 36,
+      "dex": 121,
+      "luk": 26
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1278,
+  "name": {
+    "zh_tw": "鐘乳巨石怪",
+    "en": "STALACTIC_GOLEM"
+  },
+  "image_url": "/images/monsters/1278.gif",
+  "basic_info": {
+    "level": 68,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2590,
+    "attack": {
+      "min": 421,
+      "max": 565
+    },
+    "magic_attack": {
+      "min": 83,
+      "max": 97
+    },
+    "defense": 230,
+    "magic_defense": 5,
+    "hit_100_percent": 316,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 47,
+      "vit": 48,
+      "int": 1,
+      "dex": 69,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

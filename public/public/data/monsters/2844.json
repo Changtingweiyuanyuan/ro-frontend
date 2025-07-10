@@ -1,0 +1,41 @@
+{
+  "id": 2844,
+  "name": {
+    "zh_tw": "精英捕蟲草 / 雄壯捕蟲草",
+    "en": "C2_DROSERA"
+  },
+  "image_url": "/images/monsters/2844.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 108780,
+    "attack": {
+      "min": 388,
+      "max": 494
+    },
+    "magic_attack": {
+      "min": 176,
+      "max": 210
+    },
+    "defense": 86,
+    "magic_defense": 52,
+    "hit_100_percent": 335,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 79,
+      "agi": 32,
+      "vit": 64,
+      "int": 38,
+      "dex": 94,
+      "luk": 14
+    }
+  },
+  "drops": []
+}

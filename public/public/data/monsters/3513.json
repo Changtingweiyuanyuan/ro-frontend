@@ -1,0 +1,41 @@
+{
+  "id": 3513,
+  "name": {
+    "zh_tw": "生氣的狗 / 憤努狗",
+    "en": "POPE_MD_E_DOG"
+  },
+  "image_url": "/images/monsters/3513.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 27000,
+    "attack": {
+      "min": 469,
+      "max": 621
+    },
+    "magic_attack": {
+      "min": 119,
+      "max": 145
+    },
+    "defense": 40,
+    "magic_defense": 10,
+    "hit_100_percent": 307,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 80,
+      "agi": 20,
+      "vit": 50,
+      "int": 5,
+      "dex": 30,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

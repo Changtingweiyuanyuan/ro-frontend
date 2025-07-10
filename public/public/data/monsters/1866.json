@@ -1,0 +1,41 @@
+{
+  "id": 1866,
+  "name": {
+    "zh_tw": "地獄犬 / 地獄貴賓狗",
+    "en": "HELL_POODLE"
+  },
+  "image_url": "/images/monsters/1866.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 17168,
+    "attack": {
+      "min": 948,
+      "max": 1308
+    },
+    "magic_attack": {
+      "min": 298,
+      "max": 386
+    },
+    "defense": 86,
+    "magic_defense": 20,
+    "hit_100_percent": 381,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 114,
+      "agi": 56,
+      "vit": 59,
+      "int": 82,
+      "dex": 108,
+      "luk": 54
+    }
+  },
+  "drops": []
+}

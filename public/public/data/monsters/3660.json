@@ -1,0 +1,41 @@
+{
+  "id": 3660,
+  "name": {
+    "zh_tw": "咪魘",
+    "en": "MD_NIGHTMARE_100"
+  },
+  "image_url": "/images/monsters/3660.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 21300,
+    "attack": {
+      "min": 646,
+      "max": 886
+    },
+    "magic_attack": {
+      "min": 477,
+      "max": 779
+    },
+    "defense": 116,
+    "magic_defense": 15,
+    "hit_100_percent": 357,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 52,
+      "vit": 40,
+      "int": 25,
+      "dex": 107,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

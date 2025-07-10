@@ -1,0 +1,41 @@
+{
+  "id": 1692,
+  "name": {
+    "zh_tw": "微風",
+    "en": "BREEZE"
+  },
+  "image_url": "/images/monsters/1692.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6755,
+    "attack": {
+      "min": 561,
+      "max": 759
+    },
+    "magic_attack": {
+      "min": 163,
+      "max": 195
+    },
+    "defense": 83,
+    "magic_defense": 32,
+    "hit_100_percent": 404,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 75,
+      "agi": 101,
+      "vit": 46,
+      "int": 35,
+      "dex": 79,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

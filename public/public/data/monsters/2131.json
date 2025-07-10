@@ -1,0 +1,41 @@
+{
+  "id": 2131,
+  "name": {
+    "zh_tw": "殭屍龍",
+    "en": "LOST_DRAGON"
+  },
+  "image_url": "/images/monsters/2131.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "龍",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 608920,
+    "attack": {
+      "min": 1855,
+      "max": 2645
+    },
+    "magic_attack": {
+      "min": 628,
+      "max": 946
+    },
+    "defense": 60,
+    "magic_defense": 51,
+    "hit_100_percent": 428,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 140,
+      "agi": 81,
+      "vit": 69,
+      "int": 122,
+      "dex": 147,
+      "luk": 61
+    }
+  },
+  "drops": []
+}

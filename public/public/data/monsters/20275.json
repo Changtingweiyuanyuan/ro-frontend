@@ -1,0 +1,41 @@
+{
+  "id": 20275,
+  "name": {
+    "zh_tw": "古代伍坦彈弓手",
+    "en": "ILL_WOOTAN_SHOOTER"
+  },
+  "image_url": "/images/monsters/20275.gif",
+  "basic_info": {
+    "level": 164,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 702100,
+    "attack": {
+      "min": 2222,
+      "max": 3206
+    },
+    "magic_attack": {
+      "min": 578,
+      "max": 890
+    },
+    "defense": 142,
+    "magic_defense": 21,
+    "hit_100_percent": 470,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 97,
+      "vit": 74,
+      "int": 53,
+      "dex": 220,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

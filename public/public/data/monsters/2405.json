@@ -1,0 +1,41 @@
+{
+  "id": 2405,
+  "name": {
+    "zh_tw": "石斧海盜骷髏",
+    "en": "WEAK_SKELETON"
+  },
+  "image_url": "/images/monsters/2405.gif",
+  "basic_info": {
+    "level": 18,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 280,
+    "attack": {
+      "min": 53,
+      "max": 63
+    },
+    "magic_attack": {
+      "min": 24,
+      "max": 30
+    },
+    "defense": 12,
+    "magic_defense": 2,
+    "hit_100_percent": 223,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 15,
+      "agi": 5,
+      "vit": 10,
+      "int": 1,
+      "dex": 12,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

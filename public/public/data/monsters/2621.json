@@ -1,0 +1,41 @@
+{
+  "id": 2621,
+  "name": {
+    "zh_tw": "精英薇歐莉 / 狡猾薇歐莉",
+    "en": "C5_VIOLY"
+  },
+  "image_url": "/images/monsters/2621.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 102785,
+    "attack": {
+      "min": 944,
+      "max": 1312
+    },
+    "magic_attack": {
+      "min": 278,
+      "max": 350
+    },
+    "defense": 74,
+    "magic_defense": 36,
+    "hit_100_percent": 416,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 86,
+      "vit": 38,
+      "int": 76,
+      "dex": 126,
+      "luk": 63
+    }
+  },
+  "drops": []
+}

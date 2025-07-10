@@ -1,0 +1,41 @@
+{
+  "id": 3242,
+  "name": {
+    "zh_tw": "暗●元素使 西里亞",
+    "en": "V_B_CELIA"
+  },
+  "image_url": "/images/monsters/3242.gif",
+  "basic_info": {
+    "level": 188,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 16200000,
+    "attack": {
+      "min": 2868,
+      "max": 4068
+    },
+    "magic_attack": {
+      "min": 3988,
+      "max": 6988
+    },
+    "defense": 220,
+    "magic_defense": 800,
+    "hit_100_percent": 608,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 280,
+      "agi": 200,
+      "vit": 120,
+      "int": 300,
+      "dex": 240,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2369,
+  "name": {
+    "zh_tw": "元素鬼火",
+    "en": "红"
+  },
+  "image_url": "/images/monsters/2369.gif",
+  "basic_info": {
+    "level": 149,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 135718,
+    "attack": {
+      "min": 1613,
+      "max": 2273
+    },
+    "magic_attack": {
+      "min": 1228,
+      "max": 2098
+    },
+    "defense": 111,
+    "magic_defense": 53,
+    "hit_100_percent": 436,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 147,
+      "agi": 77,
+      "vit": 66,
+      "int": 65,
+      "dex": 133,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3816,
+  "name": {
+    "zh_tw": "強化冰波利",
+    "en": "MD_MARIN"
+  },
+  "image_url": "/images/monsters/3816.gif",
+  "basic_info": {
+    "level": 33,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 960,
+    "attack": {
+      "min": 95,
+      "max": 117
+    },
+    "magic_attack": {
+      "min": 66,
+      "max": 78
+    },
+    "defense": 10,
+    "magic_defense": 10,
+    "hit_100_percent": 257,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 20,
+      "vit": 20,
+      "int": 20,
+      "dex": 20,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

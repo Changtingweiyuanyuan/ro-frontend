@@ -1,0 +1,41 @@
+{
+  "id": 2556,
+  "name": {
+    "zh_tw": "十字軍 布魯德哈載",
+    "en": "GEFFEN_MAGE_6"
+  },
+  "image_url": "/images/monsters/2556.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1000000,
+    "attack": {
+      "min": 480,
+      "max": 602
+    },
+    "magic_attack": {
+      "min": 380,
+      "max": 562
+    },
+    "defense": 66,
+    "magic_defense": 47,
+    "hit_100_percent": 452,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 120,
+      "agi": 120,
+      "vit": 120,
+      "int": 50,
+      "dex": 150,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

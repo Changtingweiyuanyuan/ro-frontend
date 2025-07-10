@@ -1,0 +1,41 @@
+{
+  "id": 1256,
+  "name": {
+    "zh_tw": "單眼蟲",
+    "en": "PEST"
+  },
+  "image_url": "/images/monsters/1256.gif",
+  "basic_info": {
+    "level": 89,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 5747,
+    "attack": {
+      "min": 429,
+      "max": 563
+    },
+    "magic_attack": {
+      "min": 137,
+      "max": 167
+    },
+    "defense": 55,
+    "magic_defense": 33,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 73,
+      "agi": 77,
+      "vit": 48,
+      "int": 15,
+      "dex": 106,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

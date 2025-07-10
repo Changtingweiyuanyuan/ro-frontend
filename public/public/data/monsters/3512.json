@@ -1,0 +1,41 @@
+{
+  "id": 3512,
+  "name": {
+    "zh_tw": "生氣的信徒",
+    "en": "POPE_MD_E_BELIEVER_2"
+  },
+  "image_url": "/images/monsters/3512.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22500,
+    "attack": {
+      "min": 445,
+      "max": 589
+    },
+    "magic_attack": {
+      "min": 123,
+      "max": 147
+    },
+    "defense": 65,
+    "magic_defense": 40,
+    "hit_100_percent": 339,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 50,
+      "vit": 35,
+      "int": 10,
+      "dex": 55,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

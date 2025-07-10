@@ -1,0 +1,41 @@
+{
+  "id": 1285,
+  "name": {
+    "zh_tw": "弓箭手 監護人",
+    "en": "ARCHER_GUARDIAN"
+  },
+  "image_url": "/images/monsters/1285.gif",
+  "basic_info": {
+    "level": 74,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 28634,
+    "attack": {
+      "min": 1154,
+      "max": 1648
+    },
+    "magic_attack": {
+      "min": 500,
+      "max": 788
+    },
+    "defense": 56,
+    "magic_defense": 60,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 95,
+      "agi": 80,
+      "vit": 80,
+      "int": 90,
+      "dex": 198,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

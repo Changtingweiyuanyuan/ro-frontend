@@ -1,0 +1,41 @@
+{
+  "id": 2477,
+  "name": {
+    "zh_tw": "孤魂怨靈 / 被詛咒的邪骸浪人",
+    "en": "NG_WANDER_MAN"
+  },
+  "image_url": "/images/monsters/2477.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "惡魔",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 130682,
+    "attack": {
+      "min": 2620,
+      "max": 3752
+    },
+    "magic_attack": {
+      "min": 342,
+      "max": 474
+    },
+    "defense": 129,
+    "magic_defense": 16,
+    "hit_100_percent": 512,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 208,
+      "agi": 151,
+      "vit": 76,
+      "int": 39,
+      "dex": 231,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

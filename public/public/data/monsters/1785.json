@@ -1,0 +1,41 @@
+{
+  "id": 1785,
+  "name": {
+    "zh_tw": "阿特羅斯",
+    "en": "ATROCE"
+  },
+  "image_url": "/images/monsters/1785.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1502000,
+    "attack": {
+      "min": 2508,
+      "max": 3646
+    },
+    "magic_attack": {
+      "min": 1264,
+      "max": 2166
+    },
+    "defense": 316,
+    "magic_defense": 176,
+    "hit_100_percent": 500,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 165,
+      "vit": 135,
+      "int": 99,
+      "dex": 213,
+      "luk": 113
+    }
+  },
+  "drops": []
+}

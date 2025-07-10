@@ -1,0 +1,41 @@
+{
+  "id": 2899,
+  "name": {
+    "zh_tw": "精英虎蜥人 / 憤怒虎蜥人",
+    "en": "C4_ANOLIAN"
+  },
+  "image_url": "/images/monsters/2899.gif",
+  "basic_info": {
+    "level": 109,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 77735,
+    "attack": {
+      "min": 863,
+      "max": 1175
+    },
+    "magic_attack": {
+      "min": 252,
+      "max": 318
+    },
+    "defense": 61,
+    "magic_defense": 11,
+    "hit_100_percent": 399,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 81,
+      "vit": 55,
+      "int": 66,
+      "dex": 70,
+      "luk": 48
+    }
+  },
+  "drops": []
+}

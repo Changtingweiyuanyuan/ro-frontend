@@ -1,0 +1,41 @@
+{
+  "id": 2959,
+  "name": {
+    "zh_tw": "異變的王子 / 扭曲的救贖主",
+    "en": "TORTUROUS_REDEEMER"
+  },
+  "image_url": "/images/monsters/2959.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 103342,
+    "attack": {
+      "min": 1253,
+      "max": 1753
+    },
+    "magic_attack": {
+      "min": 175,
+      "max": 177
+    },
+    "defense": 144,
+    "magic_defense": 28,
+    "hit_100_percent": 397,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 133,
+      "agi": 69,
+      "vit": 72,
+      "int": 55,
+      "dex": 165,
+      "luk": 44
+    }
+  },
+  "drops": []
+}

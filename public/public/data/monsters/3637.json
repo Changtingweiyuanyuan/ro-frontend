@@ -1,0 +1,41 @@
+{
+  "id": 3637,
+  "name": {
+    "zh_tw": "邪骸戰士",
+    "en": "MD_SKELETON_60"
+  },
+  "image_url": "/images/monsters/3637.gif",
+  "basic_info": {
+    "level": 60,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2120,
+    "attack": {
+      "min": 368,
+      "max": 508
+    },
+    "magic_attack": {
+      "min": 314,
+      "max": 524
+    },
+    "defense": 31,
+    "magic_defense": 4,
+    "hit_100_percent": 279,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 28,
+      "agi": 19,
+      "vit": 34,
+      "int": 9,
+      "dex": 23,
+      "luk": 2
+    }
+  },
+  "drops": []
+}

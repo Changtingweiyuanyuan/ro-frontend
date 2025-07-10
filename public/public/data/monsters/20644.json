@@ -1,0 +1,41 @@
+{
+  "id": 20644,
+  "name": {
+    "zh_tw": "熱池馬克",
+    "en": "EP17_2_MARC"
+  },
+  "image_url": "/images/monsters/20644.gif",
+  "basic_info": {
+    "level": 137,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 132060,
+    "attack": {
+      "min": 1622,
+      "max": 2314
+    },
+    "magic_attack": {
+      "min": 854,
+      "max": 1386
+    },
+    "defense": 407,
+    "magic_defense": 81,
+    "hit_100_percent": 454,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 101,
+      "agi": 104,
+      "vit": 90,
+      "int": 97,
+      "dex": 112,
+      "luk": 67
+    }
+  },
+  "drops": []
+}

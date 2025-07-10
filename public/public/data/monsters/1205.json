@@ -1,0 +1,41 @@
+{
+  "id": 1205,
+  "name": {
+    "zh_tw": "行刑者",
+    "en": "EXECUTIONER"
+  },
+  "image_url": "/images/monsters/1205.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 40200,
+    "attack": {
+      "min": 736,
+      "max": 1004
+    },
+    "magic_attack": {
+      "min": 430,
+      "max": 646
+    },
+    "defense": 97,
+    "magic_defense": 188,
+    "hit_100_percent": 409,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 99,
+      "agi": 96,
+      "vit": 77,
+      "int": 78,
+      "dex": 95,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

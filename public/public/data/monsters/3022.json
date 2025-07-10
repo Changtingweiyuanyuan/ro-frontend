@@ -1,0 +1,41 @@
+{
+  "id": 3022,
+  "name": {
+    "zh_tw": "火焰傘蜥",
+    "en": "FIRE_FRILLDORA"
+  },
+  "image_url": "/images/monsters/3022.gif",
+  "basic_info": {
+    "level": 147,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 141301,
+    "attack": {
+      "min": 1503,
+      "max": 2109
+    },
+    "magic_attack": {
+      "min": 1166,
+      "max": 2002
+    },
+    "defense": 134,
+    "magic_defense": 40,
+    "hit_100_percent": 391,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 148,
+      "agi": 38,
+      "vit": 128,
+      "int": 45,
+      "dex": 121,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

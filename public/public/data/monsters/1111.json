@@ -1,0 +1,41 @@
+{
+  "id": 1111,
+  "name": {
+    "zh_tw": "紅蝙蝠",
+    "en": "DRAINLIAR"
+  },
+  "image_url": "/images/monsters/1111.gif",
+  "basic_info": {
+    "level": 47,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1162,
+    "attack": {
+      "min": 162,
+      "max": 202
+    },
+    "magic_attack": {
+      "min": 98,
+      "max": 124
+    },
+    "defense": 50,
+    "magic_defense": 15,
+    "hit_100_percent": 285,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 35,
+      "agi": 34,
+      "vit": 24,
+      "int": 22,
+      "dex": 50,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

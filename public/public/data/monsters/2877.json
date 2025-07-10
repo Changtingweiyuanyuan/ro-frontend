@@ -1,0 +1,41 @@
+{
+  "id": 2877,
+  "name": {
+    "zh_tw": "精英 / 狡猾 卡拉特小丑",
+    "en": "C5_CARAT"
+  },
+  "image_url": "/images/monsters/2877.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "惡魔",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 46110,
+    "attack": {
+      "min": 950,
+      "max": 1324
+    },
+    "magic_attack": {
+      "min": 196,
+      "max": 242
+    },
+    "defense": 111,
+    "magic_defense": 67,
+    "hit_100_percent": 377,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 64,
+      "vit": 60,
+      "int": 40,
+      "dex": 80,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

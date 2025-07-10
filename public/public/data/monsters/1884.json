@@ -1,0 +1,41 @@
+{
+  "id": 1884,
+  "name": {
+    "zh_tw": "森林妖精",
+    "en": "MAVKA"
+  },
+  "image_url": "/images/monsters/1884.gif",
+  "basic_info": {
+    "level": 84,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5421,
+    "attack": {
+      "min": 380,
+      "max": 496
+    },
+    "magic_attack": {
+      "min": 161,
+      "max": 197
+    },
+    "defense": 98,
+    "magic_defense": 58,
+    "hit_100_percent": 321,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 65,
+      "agi": 31,
+      "vit": 50,
+      "int": 35,
+      "dex": 97,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

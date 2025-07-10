@@ -1,0 +1,41 @@
+{
+  "id": 2821,
+  "name": {
+    "zh_tw": "精英狂暴蜂兵 / 菁英狂暴蜂兵",
+    "en": "C3_GIANT_HONET"
+  },
+  "image_url": "/images/monsters/2821.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 132605,
+    "attack": {
+      "min": 968,
+      "max": 1358
+    },
+    "magic_attack": {
+      "min": 244,
+      "max": 324
+    },
+    "defense": 80,
+    "magic_defense": 43,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 45,
+      "vit": 47,
+      "int": 32,
+      "dex": 74,
+      "luk": 34
+    }
+  },
+  "drops": []
+}

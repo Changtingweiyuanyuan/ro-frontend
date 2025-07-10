@@ -1,0 +1,41 @@
+{
+  "id": 1495,
+  "name": {
+    "zh_tw": "石炮火樹",
+    "en": "STONE_SHOOTER"
+  },
+  "image_url": "/images/monsters/1495.gif",
+  "basic_info": {
+    "level": 64,
+    "race": "植物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2101,
+    "attack": {
+      "min": 287,
+      "max": 373
+    },
+    "magic_attack": {
+      "min": 116,
+      "max": 148
+    },
+    "defense": 88,
+    "magic_defense": 15,
+    "hit_100_percent": 322,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 55,
+      "vit": 36,
+      "int": 15,
+      "dex": 85,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

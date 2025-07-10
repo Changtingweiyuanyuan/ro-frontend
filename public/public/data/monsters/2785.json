@@ -1,0 +1,41 @@
+{
+  "id": 2785,
+  "name": {
+    "zh_tw": "精英犬妖 / 雄壯犬妖",
+    "en": "C2_KOBOLD_1"
+  },
+  "image_url": "/images/monsters/2785.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 104830,
+    "attack": {
+      "min": 888,
+      "max": 1226
+    },
+    "magic_attack": {
+      "min": 220,
+      "max": 274
+    },
+    "defense": 103,
+    "magic_defense": 25,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 76,
+      "vit": 61,
+      "int": 53,
+      "dex": 98,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

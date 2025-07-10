@@ -1,0 +1,41 @@
+{
+  "id": 20594,
+  "name": {
+    "zh_tw": "綠色礦石魔",
+    "en": "MINERAL_G"
+  },
+  "image_url": "/images/monsters/20594.gif",
+  "basic_info": {
+    "level": 190,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2435702,
+    "attack": {
+      "min": 3250,
+      "max": 4704
+    },
+    "magic_attack": {
+      "min": 722,
+      "max": 1134
+    },
+    "defense": 287,
+    "magic_defense": 68,
+    "hit_100_percent": 544,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 153,
+      "agi": 141,
+      "vit": 96,
+      "int": 54,
+      "dex": 143,
+      "luk": 68
+    }
+  },
+  "drops": []
+}

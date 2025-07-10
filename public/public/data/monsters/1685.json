@@ -1,0 +1,41 @@
+{
+  "id": 1685,
+  "name": {
+    "zh_tw": "貝思波",
+    "en": "APOCALIPS_H"
+  },
+  "image_url": "/images/monsters/1685.gif",
+  "basic_info": {
+    "level": 128,
+    "race": "動物",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3802000,
+    "attack": {
+      "min": 3239,
+      "max": 4707
+    },
+    "magic_attack": {
+      "min": 3517,
+      "max": 6311
+    },
+    "defense": 402,
+    "magic_defense": 109,
+    "hit_100_percent": 543,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 177,
+      "agi": 195,
+      "vit": 165,
+      "int": 130,
+      "dex": 255,
+      "luk": 102
+    }
+  },
+  "drops": []
+}

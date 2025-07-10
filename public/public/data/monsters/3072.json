@@ -1,0 +1,41 @@
+{
+  "id": 3072,
+  "name": {
+    "zh_tw": "貝爾 / 派",
+    "en": "PERE4"
+  },
+  "image_url": "/images/monsters/3072.gif",
+  "basic_info": {
+    "level": 128,
+    "race": "惡魔",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 52280,
+    "attack": {
+      "min": 1471,
+      "max": 2065
+    },
+    "magic_attack": {
+      "min": 291,
+      "max": 387
+    },
+    "defense": 98,
+    "magic_defense": 45,
+    "hit_100_percent": 448,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 156,
+      "agi": 110,
+      "vit": 61,
+      "int": 53,
+      "dex": 133,
+      "luk": 53
+    }
+  },
+  "drops": []
+}

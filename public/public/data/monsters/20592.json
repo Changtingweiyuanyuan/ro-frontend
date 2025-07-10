@@ -1,0 +1,41 @@
+{
+  "id": 20592,
+  "name": {
+    "zh_tw": "奪命毒霧",
+    "en": "POISONOUS"
+  },
+  "image_url": "/images/monsters/20592.gif",
+  "basic_info": {
+    "level": 188,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2407086,
+    "attack": {
+      "min": 3059,
+      "max": 4423
+    },
+    "magic_attack": {
+      "min": 843,
+      "max": 1347
+    },
+    "defense": 248,
+    "magic_defense": 68,
+    "hit_100_percent": 531,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 145,
+      "agi": 141,
+      "vit": 77,
+      "int": 67,
+      "dex": 175,
+      "luk": 11
+    }
+  },
+  "drops": []
+}

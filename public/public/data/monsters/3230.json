@@ -1,0 +1,41 @@
+{
+  "id": 3230,
+  "name": {
+    "zh_tw": "暗●逐影 / 暗●魅影追蹤者",
+    "en": "V_GERTIE"
+  },
+  "image_url": "/images/monsters/3230.gif",
+  "basic_info": {
+    "level": 178,
+    "race": "惡魔",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2040000,
+    "attack": {
+      "min": 4091,
+      "max": 5959
+    },
+    "magic_attack": {
+      "min": 1394,
+      "max": 2396
+    },
+    "defense": 160,
+    "magic_defense": 100,
+    "hit_100_percent": 518,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 180,
+      "agi": 130,
+      "vit": 60,
+      "int": 50,
+      "dex": 210,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2252,
+  "name": {
+    "zh_tw": "埃維亞",
+    "en": "ELVIRA"
+  },
+  "image_url": "/images/monsters/2252.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 501765,
+    "attack": {
+      "min": 886,
+      "max": 1166
+    },
+    "magic_attack": {
+      "min": 1693,
+      "max": 2955
+    },
+    "defense": 171,
+    "magic_defense": 68,
+    "hit_100_percent": 457,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 189,
+      "agi": 105,
+      "vit": 92,
+      "int": 85,
+      "dex": 198,
+      "luk": 72
+    }
+  },
+  "drops": []
+}

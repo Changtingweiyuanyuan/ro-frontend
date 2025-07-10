@@ -1,0 +1,41 @@
+{
+  "id": 2886,
+  "name": {
+    "zh_tw": "精英 / 狡猾 愛爾蘭女妖首領",
+    "en": "C5_BANSHEE_MASTER"
+  },
+  "image_url": "/images/monsters/2886.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 101600,
+    "attack": {
+      "min": 1043,
+      "max": 1447
+    },
+    "magic_attack": {
+      "min": 448,
+      "max": 628
+    },
+    "defense": 87,
+    "magic_defense": 94,
+    "hit_100_percent": 384,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 58,
+      "vit": 48,
+      "int": 122,
+      "dex": 84,
+      "luk": 44
+    }
+  },
+  "drops": []
+}

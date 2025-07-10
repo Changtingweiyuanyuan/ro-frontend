@@ -1,0 +1,41 @@
+{
+  "id": 1646,
+  "name": {
+    "zh_tw": "暗●騎士領主 賽依連",
+    "en": "B_SEYREN"
+  },
+  "image_url": "/images/monsters/1646.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4680000,
+    "attack": {
+      "min": 5611,
+      "max": 8185
+    },
+    "magic_attack": {
+      "min": 1909,
+      "max": 3315
+    },
+    "defense": 567,
+    "magic_defense": 155,
+    "hit_100_percent": 538,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 303,
+      "agi": 165,
+      "vit": 181,
+      "int": 110,
+      "dex": 267,
+      "luk": 66
+    }
+  },
+  "drops": []
+}

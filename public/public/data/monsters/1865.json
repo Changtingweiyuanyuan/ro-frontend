@@ -1,0 +1,41 @@
+{
+  "id": 1865,
+  "name": {
+    "zh_tw": "變異殭屍 / 襤褸腐屍",
+    "en": "RAGGED_ZOMBIE"
+  },
+  "image_url": "/images/monsters/1865.gif",
+  "basic_info": {
+    "level": 123,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 38574,
+    "attack": {
+      "min": 1271,
+      "max": 1805
+    },
+    "magic_attack": {
+      "min": 270,
+      "max": 348
+    },
+    "defense": 85,
+    "magic_defense": 35,
+    "hit_100_percent": 377,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 81,
+      "agi": 50,
+      "vit": 64,
+      "int": 56,
+      "dex": 178,
+      "luk": 23
+    }
+  },
+  "drops": []
+}

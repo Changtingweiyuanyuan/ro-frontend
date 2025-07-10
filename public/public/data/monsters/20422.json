@@ -1,0 +1,41 @@
+{
+  "id": 20422,
+  "name": {
+    "zh_tw": "汙染黑暗之王",
+    "en": "DARK_LORD_H"
+  },
+  "image_url": "/images/monsters/20422.gif",
+  "basic_info": {
+    "level": 194,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 74476822,
+    "attack": {
+      "min": 5824,
+      "max": 8502
+    },
+    "magic_attack": {
+      "min": 3179,
+      "max": 5485
+    },
+    "defense": 503,
+    "magic_defense": 134,
+    "hit_100_percent": 558,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 276,
+      "agi": 151,
+      "vit": 103,
+      "int": 297,
+      "dex": 172,
+      "luk": 66
+    }
+  },
+  "drops": []
+}

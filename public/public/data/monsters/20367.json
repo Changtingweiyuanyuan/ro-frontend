@@ -1,0 +1,41 @@
+{
+  "id": 20367,
+  "name": {
+    "zh_tw": "汙染幽靈劍士",
+    "en": "RAYDRIC_H"
+  },
+  "image_url": "/images/monsters/20367.gif",
+  "basic_info": {
+    "level": 185,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2372683,
+    "attack": {
+      "min": 2993,
+      "max": 4325
+    },
+    "magic_attack": {
+      "min": 830,
+      "max": 1326
+    },
+    "defense": 494,
+    "magic_defense": 101,
+    "hit_100_percent": 527,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 144,
+      "agi": 134,
+      "vit": 103,
+      "int": 67,
+      "dex": 148,
+      "luk": 41
+    }
+  },
+  "drops": []
+}

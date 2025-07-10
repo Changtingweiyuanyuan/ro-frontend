@@ -1,0 +1,41 @@
+{
+  "id": 3648,
+  "name": {
+    "zh_tw": "吸血蝙蝠",
+    "en": "MD_FARMILIAR_160"
+  },
+  "image_url": "/images/monsters/3648.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 127820,
+    "attack": {
+      "min": 2278,
+      "max": 3302
+    },
+    "magic_attack": {
+      "min": 2022,
+      "max": 3558
+    },
+    "defense": 46,
+    "magic_defense": 60,
+    "hit_100_percent": 426,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 64,
+      "vit": 65,
+      "int": 70,
+      "dex": 125,
+      "luk": 12
+    }
+  },
+  "drops": []
+}

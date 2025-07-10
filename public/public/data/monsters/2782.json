@@ -1,0 +1,41 @@
+{
+  "id": 2782,
+  "name": {
+    "zh_tw": "精英暗●流氓 / 憤怒暗●流氓",
+    "en": "C4_L_WHIKEBAIN"
+  },
+  "image_url": "/images/monsters/2782.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 58560,
+    "attack": {
+      "min": 746,
+      "max": 1008
+    },
+    "magic_attack": {
+      "min": 295,
+      "max": 425
+    },
+    "defense": 125,
+    "magic_defense": 72,
+    "hit_100_percent": 440,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 125,
+      "agi": 130,
+      "vit": 75,
+      "int": 46,
+      "dex": 93,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

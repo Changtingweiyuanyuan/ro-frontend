@@ -1,0 +1,41 @@
+{
+  "id": 2797,
+  "name": {
+    "zh_tw": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+    "en": "C4_HUNTER_FLY"
+  },
+  "image_url": "/images/monsters/2797.gif",
+  "basic_info": {
+    "level": 63,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10250,
+    "attack": {
+      "min": 311,
+      "max": 419
+    },
+    "magic_attack": {
+      "min": 102,
+      "max": 114
+    },
+    "defense": 46,
+    "magic_defense": 20,
+    "hit_100_percent": 359,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 32,
+      "agi": 93,
+      "vit": 22,
+      "int": 25,
+      "dex": 100,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

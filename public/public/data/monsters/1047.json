@@ -1,0 +1,41 @@
+{
+  "id": 1047,
+  "name": {
+    "zh_tw": "大嘴鳥蛋",
+    "en": "PECOPECO_EGG"
+  },
+  "image_url": "/images/monsters/1047.gif",
+  "basic_info": {
+    "level": 7,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 75,
+    "attack": {
+      "min": 11,
+      "max": 13
+    },
+    "magic_attack": {
+      "min": 15,
+      "max": 15
+    },
+    "defense": 16,
+    "magic_defense": 5,
+    "hit_100_percent": 218,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 4,
+      "agi": 10,
+      "vit": 22,
+      "int": 8,
+      "dex": 10,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

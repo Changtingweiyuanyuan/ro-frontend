@@ -1,0 +1,41 @@
+{
+  "id": 2664,
+  "name": {
+    "zh_tw": "精英 / 憤怒 火忍西怒畢",
+    "en": "C4_SHINOBI"
+  },
+  "image_url": "/images/monsters/2664.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 40000,
+    "attack": {
+      "min": 714,
+      "max": 990
+    },
+    "magic_attack": {
+      "min": 160,
+      "max": 192
+    },
+    "defense": 49,
+    "magic_defense": 45,
+    "hit_100_percent": 392,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 91,
+      "vit": 55,
+      "int": 30,
+      "dex": 83,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

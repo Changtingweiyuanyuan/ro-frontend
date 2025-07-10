@@ -1,0 +1,41 @@
+{
+  "id": 1091,
+  "name": {
+    "zh_tw": "龍蠅",
+    "en": "DRAGON_FLY"
+  },
+  "image_url": "/images/monsters/1091.gif",
+  "basic_info": {
+    "level": 47,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1035,
+    "attack": {
+      "min": 165,
+      "max": 207
+    },
+    "magic_attack": {
+      "min": 85,
+      "max": 105
+    },
+    "defense": 57,
+    "magic_defense": 28,
+    "hit_100_percent": 294,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 37,
+      "agi": 44,
+      "vit": 30,
+      "int": 15,
+      "dex": 44,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

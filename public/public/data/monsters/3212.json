@@ -1,0 +1,41 @@
+{
+  "id": 3212,
+  "name": {
+    "zh_tw": "暗●機匠 / 暗●機械工匠",
+    "en": "V_HARWORD"
+  },
+  "image_url": "/images/monsters/3212.gif",
+  "basic_info": {
+    "level": 177,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2720000,
+    "attack": {
+      "min": 3003,
+      "max": 4337
+    },
+    "magic_attack": {
+      "min": 1637,
+      "max": 2837
+    },
+    "defense": 200,
+    "magic_defense": 100,
+    "hit_100_percent": 467,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 160,
+      "agi": 80,
+      "vit": 200,
+      "int": 60,
+      "dex": 130,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

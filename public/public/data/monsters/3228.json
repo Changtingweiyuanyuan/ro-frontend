@@ -1,0 +1,41 @@
+{
+  "id": 3228,
+  "name": {
+    "zh_tw": "暗●元素使 / 暗●妖術師",
+    "en": "V_CELIA"
+  },
+  "image_url": "/images/monsters/3228.gif",
+  "basic_info": {
+    "level": 178,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2295000,
+    "attack": {
+      "min": 1918,
+      "max": 2718
+    },
+    "magic_attack": {
+      "min": 2661,
+      "max": 4661
+    },
+    "defense": 110,
+    "magic_defense": 800,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 140,
+      "agi": 100,
+      "vit": 60,
+      "int": 150,
+      "dex": 120,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

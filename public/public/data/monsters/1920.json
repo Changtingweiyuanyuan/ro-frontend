@@ -1,0 +1,41 @@
+{
+  "id": 1920,
+  "name": {
+    "zh_tw": "咪羅克門徒之活屍",
+    "en": "MOROCC_3"
+  },
+  "image_url": "/images/monsters/1920.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 94800,
+    "attack": {
+      "min": 1209,
+      "max": 1697
+    },
+    "magic_attack": {
+      "min": 469,
+      "max": 687
+    },
+    "defense": 111,
+    "magic_defense": 37,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 59,
+      "vit": 55,
+      "int": 82,
+      "dex": 147,
+      "luk": 54
+    }
+  },
+  "drops": []
+}

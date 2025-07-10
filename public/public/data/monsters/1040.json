@@ -1,0 +1,41 @@
+{
+  "id": 1040,
+  "name": {
+    "zh_tw": "巨石怪",
+    "en": "GOLEM"
+  },
+  "image_url": "/images/monsters/1040.gif",
+  "basic_info": {
+    "level": 61,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2245,
+    "attack": {
+      "min": 297,
+      "max": 381
+    },
+    "magic_attack": {
+      "min": 83,
+      "max": 99
+    },
+    "defense": 190,
+    "magic_defense": 12,
+    "hit_100_percent": 289,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 27,
+      "vit": 67,
+      "int": 5,
+      "dex": 34,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

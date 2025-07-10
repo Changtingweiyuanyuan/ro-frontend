@@ -1,0 +1,41 @@
+{
+  "id": 2540,
+  "name": {
+    "zh_tw": "驚駭森靈卵 / 人面蟲卵",
+    "en": "FACEWORM_EGG"
+  },
+  "image_url": "/images/monsters/2540.gif",
+  "basic_info": {
+    "level": 140,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10,
+    "attack": {
+      "min": 150,
+      "max": 150
+    },
+    "magic_attack": {
+      "min": 150,
+      "max": 150
+    },
+    "defense": 10,
+    "magic_defense": 10,
+    "hit_100_percent": 352,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 10,
+      "vit": 10,
+      "int": 10,
+      "dex": 10,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

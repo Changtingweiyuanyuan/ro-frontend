@@ -1,0 +1,41 @@
+{
+  "id": 3209,
+  "name": {
+    "zh_tw": "暗●大主教",
+    "en": "V_MAGALETA"
+  },
+  "image_url": "/images/monsters/3209.gif",
+  "basic_info": {
+    "level": 177,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2448000,
+    "attack": {
+      "min": 1640,
+      "max": 2308
+    },
+    "magic_attack": {
+      "min": 3603,
+      "max": 6405
+    },
+    "defense": 160,
+    "magic_defense": 400,
+    "hit_100_percent": 471,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 80,
+      "vit": 120,
+      "int": 160,
+      "dex": 150,
+      "luk": 70
+    }
+  },
+  "drops": []
+}

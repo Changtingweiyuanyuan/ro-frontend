@@ -1,0 +1,41 @@
+{
+  "id": 2614,
+  "name": {
+    "zh_tw": "精英 / 雄壯 風魔巫師",
+    "en": "C2_WIND_GHOST"
+  },
+  "image_url": "/images/monsters/2614.gif",
+  "basic_info": {
+    "level": 80,
+    "race": "惡魔",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 40080,
+    "attack": {
+      "min": 316,
+      "max": 404
+    },
+    "magic_attack": {
+      "min": 201,
+      "max": 259
+    },
+    "defense": 64,
+    "magic_defense": 51,
+    "hit_100_percent": 311,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 62,
+      "agi": 27,
+      "vit": 25,
+      "int": 55,
+      "dex": 102,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

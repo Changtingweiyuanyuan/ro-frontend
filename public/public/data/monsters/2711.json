@@ -1,0 +1,41 @@
+{
+  "id": 2711,
+  "name": {
+    "zh_tw": "精英捕蟲堇妖 / 菁英捕蟲堇妖",
+    "en": "C3_PINGUICULA"
+  },
+  "image_url": "/images/monsters/2711.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 65290,
+    "attack": {
+      "min": 696,
+      "max": 958
+    },
+    "magic_attack": {
+      "min": 437,
+      "max": 631
+    },
+    "defense": 46,
+    "magic_defense": 77,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 60,
+      "vit": 64,
+      "int": 107,
+      "dex": 77,
+      "luk": 34
+    }
+  },
+  "drops": []
+}

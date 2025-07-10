@@ -1,0 +1,41 @@
+{
+  "id": 2617,
+  "name": {
+    "zh_tw": "精英妖仙女 / 狡猾妖仙女",
+    "en": "C5_WICKED_NYMPH"
+  },
+  "image_url": "/images/monsters/2617.gif",
+  "basic_info": {
+    "level": 97,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 42455,
+    "attack": {
+      "min": 605,
+      "max": 817
+    },
+    "magic_attack": {
+      "min": 256,
+      "max": 334
+    },
+    "defense": 46,
+    "magic_defense": 45,
+    "hit_100_percent": 355,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 84,
+      "agi": 46,
+      "vit": 45,
+      "int": 70,
+      "dex": 92,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

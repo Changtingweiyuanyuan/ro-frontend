@@ -1,0 +1,41 @@
+{
+  "id": 1185,
+  "name": {
+    "zh_tw": "白幽靈",
+    "en": "WHISPER_"
+  },
+  "image_url": "/images/monsters/1185.gif",
+  "basic_info": {
+    "level": 34,
+    "race": "不死",
+    "element": {
+      "type": "念",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1796,
+    "attack": {
+      "min": 193,
+      "max": 273
+    },
+    "magic_attack": {
+      "min": 63,
+      "max": 89
+    },
+    "defense": 0,
+    "magic_defense": 45,
+    "hit_100_percent": 285,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 51,
+      "vit": 14,
+      "int": 1,
+      "dex": 60,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

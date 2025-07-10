@@ -1,0 +1,41 @@
+{
+  "id": 1382,
+  "name": {
+    "zh_tw": "赤焰小惡魔",
+    "en": "DIABOLIC"
+  },
+  "image_url": "/images/monsters/1382.gif",
+  "basic_info": {
+    "level": 104,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10572,
+    "attack": {
+      "min": 772,
+      "max": 1056
+    },
+    "magic_attack": {
+      "min": 309,
+      "max": 429
+    },
+    "defense": 68,
+    "magic_defense": 61,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 103,
+      "agi": 80,
+      "vit": 53,
+      "int": 65,
+      "dex": 94,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

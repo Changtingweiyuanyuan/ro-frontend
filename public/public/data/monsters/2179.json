@@ -1,0 +1,41 @@
+{
+  "id": 2179,
+  "name": {
+    "zh_tw": "遠古庫克雷",
+    "en": "MD_KUKRE"
+  },
+  "image_url": "/images/monsters/2179.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "昆蟲",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 160000,
+    "attack": {
+      "min": 1005,
+      "max": 1395
+    },
+    "magic_attack": {
+      "min": 242,
+      "max": 314
+    },
+    "defense": 123,
+    "magic_defense": 33,
+    "hit_100_percent": 386,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 125,
+      "agi": 80,
+      "vit": 112,
+      "int": 60,
+      "dex": 102,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

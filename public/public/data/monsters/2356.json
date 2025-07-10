@@ -1,0 +1,41 @@
+{
+  "id": 2356,
+  "name": {
+    "zh_tw": "邪惡箱-咪魘",
+    "en": "N_MIMIC"
+  },
+  "image_url": "/images/monsters/2356.gif",
+  "basic_info": {
+    "level": 137,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 63101,
+    "attack": {
+      "min": 1284,
+      "max": 1822
+    },
+    "magic_attack": {
+      "min": 447,
+      "max": 695
+    },
+    "defense": 210,
+    "magic_defense": 40,
+    "hit_100_percent": 517,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 180,
+      "vit": 35,
+      "int": 21,
+      "dex": 61,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

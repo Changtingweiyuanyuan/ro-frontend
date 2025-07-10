@@ -1,0 +1,41 @@
+{
+  "id": 2874,
+  "name": {
+    "zh_tw": "精英惡靈之霧 / 雄壯惡靈之霧",
+    "en": "C2_CENERE"
+  },
+  "image_url": "/images/monsters/2874.gif",
+  "basic_info": {
+    "level": 146,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1301310,
+    "attack": {
+      "min": 1942,
+      "max": 2808
+    },
+    "magic_attack": {
+      "min": 902,
+      "max": 1522
+    },
+    "defense": 87,
+    "magic_defense": 81,
+    "hit_100_percent": 394,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 39,
+      "vit": 30,
+      "int": 35,
+      "dex": 95,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

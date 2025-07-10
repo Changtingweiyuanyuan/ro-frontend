@@ -1,0 +1,41 @@
+{
+  "id": 1004,
+  "name": {
+    "zh_tw": "蜂兵",
+    "en": "HORNET"
+  },
+  "image_url": "/images/monsters/1004.gif",
+  "basic_info": {
+    "level": 11,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 90,
+    "attack": {
+      "min": 33,
+      "max": 39
+    },
+    "magic_attack": {
+      "min": 18,
+      "max": 20
+    },
+    "defense": 7,
+    "magic_defense": 1,
+    "hit_100_percent": 236,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 12,
+      "agi": 24,
+      "vit": 4,
+      "int": 5,
+      "dex": 6,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

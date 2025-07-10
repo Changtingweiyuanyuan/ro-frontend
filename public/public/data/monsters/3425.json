@@ -1,0 +1,41 @@
+{
+  "id": 3425,
+  "name": {
+    "zh_tw": "凱美拉王",
+    "en": "MIN_CHIMERA"
+  },
+  "image_url": "/images/monsters/3425.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 900000,
+    "attack": {
+      "min": 1546,
+      "max": 2266
+    },
+    "magic_attack": {
+      "min": 296,
+      "max": 386
+    },
+    "defense": 159,
+    "magic_defense": 10,
+    "hit_100_percent": 360,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 38,
+      "vit": 110,
+      "int": 88,
+      "dex": 91,
+      "luk": 85
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1120,
+  "name": {
+    "zh_tw": "幽靈波利",
+    "en": "GHOSTRING"
+  },
+  "image_url": "/images/monsters/1120.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 26700,
+    "attack": {
+      "min": 464,
+      "max": 618
+    },
+    "magic_attack": {
+      "min": 269,
+      "max": 367
+    },
+    "defense": 88,
+    "magic_defense": 72,
+    "hit_100_percent": 388,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 85,
+      "vit": 66,
+      "int": 66,
+      "dex": 119,
+      "luk": 66
+    }
+  },
+  "drops": []
+}

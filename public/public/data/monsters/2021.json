@@ -1,0 +1,41 @@
+{
+  "id": 2021,
+  "name": {
+    "zh_tw": "費爾拉",
+    "en": "PHYLLA"
+  },
+  "image_url": "/images/monsters/2021.gif",
+  "basic_info": {
+    "level": 139,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 345560,
+    "attack": {
+      "min": 906,
+      "max": 1236
+    },
+    "magic_attack": {
+      "min": 320,
+      "max": 426
+    },
+    "defense": 61,
+    "magic_defense": 14,
+    "hit_100_percent": 432,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 107,
+      "agi": 85,
+      "vit": 60,
+      "int": 58,
+      "dex": 152,
+      "luk": 42
+    }
+  },
+  "drops": []
+}

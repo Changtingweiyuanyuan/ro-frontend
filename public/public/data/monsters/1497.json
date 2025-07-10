@@ -1,0 +1,41 @@
+{
+  "id": 1497,
+  "name": {
+    "zh_tw": "機木人",
+    "en": "WOODEN_GOLEM"
+  },
+  "image_url": "/images/monsters/1497.gif",
+  "basic_info": {
+    "level": 72,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3914,
+    "attack": {
+      "min": 397,
+      "max": 527
+    },
+    "magic_attack": {
+      "min": 106,
+      "max": 132
+    },
+    "defense": 249,
+    "magic_defense": 26,
+    "hit_100_percent": 303,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 30,
+      "vit": 45,
+      "int": 5,
+      "dex": 59,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

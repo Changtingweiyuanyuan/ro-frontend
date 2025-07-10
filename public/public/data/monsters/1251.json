@@ -1,0 +1,41 @@
+{
+  "id": 1251,
+  "name": {
+    "zh_tw": "冰暴騎士",
+    "en": "KNIGHT_OF_WINDSTORM"
+  },
+  "image_url": "/images/monsters/1251.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 630500,
+    "attack": {
+      "min": 3002,
+      "max": 4394
+    },
+    "magic_attack": {
+      "min": 1199,
+      "max": 2059
+    },
+    "defense": 306,
+    "magic_defense": 166,
+    "hit_100_percent": 472,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 126,
+      "agi": 165,
+      "vit": 132,
+      "int": 104,
+      "dex": 205,
+      "luk": 79
+    }
+  },
+  "drops": []
+}

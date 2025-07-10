@@ -1,0 +1,41 @@
+{
+  "id": 3419,
+  "name": {
+    "zh_tw": "邪惡摩艾",
+    "en": "MIN_MEGALITH"
+  },
+  "image_url": "/images/monsters/3419.gif",
+  "basic_info": {
+    "level": 109,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 160000,
+    "attack": {
+      "min": 844,
+      "max": 1140
+    },
+    "magic_attack": {
+      "min": 199,
+      "max": 217
+    },
+    "defense": 181,
+    "magic_defense": 18,
+    "hit_100_percent": 404,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 143,
+      "agi": 84,
+      "vit": 103,
+      "int": 69,
+      "dex": 154,
+      "luk": 59
+    }
+  },
+  "drops": []
+}

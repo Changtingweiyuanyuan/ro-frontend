@@ -1,0 +1,41 @@
+{
+  "id": 2202,
+  "name": {
+    "zh_tw": "魔鬼大烏賊",
+    "en": "KRAKEN"
+  },
+  "image_url": "/images/monsters/2202.gif",
+  "basic_info": {
+    "level": 124,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5602800,
+    "attack": {
+      "min": 3378,
+      "max": 4908
+    },
+    "magic_attack": {
+      "min": 1522,
+      "max": 2620
+    },
+    "defense": 55,
+    "magic_defense": 229,
+    "hit_100_percent": 442,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 196,
+      "agi": 99,
+      "vit": 165,
+      "int": 117,
+      "dex": 162,
+      "luk": 99
+    }
+  },
+  "drops": []
+}

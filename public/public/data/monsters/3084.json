@@ -1,0 +1,41 @@
+{
+  "id": 3084,
+  "name": {
+    "zh_tw": "Go!",
+    "en": "WA_MONSTER_9"
+  },
+  "image_url": "/images/monsters/3084.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "天使",
+    "element": {
+      "type": "聖",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 20000,
+    "attack": {
+      "min": 136,
+      "max": 136
+    },
+    "magic_attack": {
+      "min": 136,
+      "max": 136
+    },
+    "defense": 196,
+    "magic_defense": 96,
+    "hit_100_percent": 336,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2194,
+  "name": {
+    "zh_tw": "狂暴章魚",
+    "en": "MD_GIANT_OCTOPUS"
+  },
+  "image_url": "/images/monsters/2194.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 500000,
+    "attack": {
+      "min": 1760,
+      "max": 2520
+    },
+    "magic_attack": {
+      "min": 995,
+      "max": 1715
+    },
+    "defense": 154,
+    "magic_defense": 21,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 145,
+      "agi": 91,
+      "vit": 138,
+      "int": 60,
+      "dex": 113,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

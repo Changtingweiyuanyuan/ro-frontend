@@ -1,0 +1,41 @@
+{
+  "id": 3652,
+  "name": {
+    "zh_tw": "腐屍",
+    "en": "MD_ZOMBIE_120"
+  },
+  "image_url": "/images/monsters/3652.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 33560,
+    "attack": {
+      "min": 739,
+      "max": 1027
+    },
+    "magic_attack": {
+      "min": 625,
+      "max": 1057
+    },
+    "defense": 35,
+    "magic_defense": 24,
+    "hit_100_percent": 358,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 43,
+      "agi": 38,
+      "vit": 47,
+      "int": 1,
+      "dex": 65,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

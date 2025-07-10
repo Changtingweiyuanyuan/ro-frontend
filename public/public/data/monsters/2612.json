@@ -1,0 +1,41 @@
+{
+  "id": 2612,
+  "name": {
+    "zh_tw": "精英 / 狡猾 樹林哥布靈",
+    "en": "C5_WOOD_GOBLIN"
+  },
+  "image_url": "/images/monsters/2612.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 27495,
+    "attack": {
+      "min": 357,
+      "max": 459
+    },
+    "magic_attack": {
+      "min": 106,
+      "max": 116
+    },
+    "defense": 144,
+    "magic_defense": 12,
+    "hit_100_percent": 305,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 73,
+      "agi": 19,
+      "vit": 56,
+      "int": 15,
+      "dex": 67,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

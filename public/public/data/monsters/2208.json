@@ -1,0 +1,41 @@
+{
+  "id": 2208,
+  "name": {
+    "zh_tw": "野貓騎士",
+    "en": "WILD_RIDER"
+  },
+  "image_url": "/images/monsters/2208.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 33300,
+    "attack": {
+      "min": 1240,
+      "max": 1768
+    },
+    "magic_attack": {
+      "min": 382,
+      "max": 580
+    },
+    "defense": 480,
+    "magic_defense": 22,
+    "hit_100_percent": 430,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 89,
+      "agi": 124,
+      "vit": 89,
+      "int": 56,
+      "dex": 112,
+      "luk": 56
+    }
+  },
+  "drops": []
+}

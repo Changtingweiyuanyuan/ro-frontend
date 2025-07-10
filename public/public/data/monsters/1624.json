@@ -1,0 +1,41 @@
+{
+  "id": 1624,
+  "name": {
+    "zh_tw": "廢鐵暖爐",
+    "en": "G_WASTE_STOVE"
+  },
+  "image_url": "/images/monsters/1624.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 7400,
+    "attack": {
+      "min": 592,
+      "max": 804
+    },
+    "magic_attack": {
+      "min": 164,
+      "max": 200
+    },
+    "defense": 100,
+    "magic_defense": 47,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 76,
+      "agi": 61,
+      "vit": 50,
+      "int": 30,
+      "dex": 67,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

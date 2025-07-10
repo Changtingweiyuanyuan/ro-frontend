@@ -1,0 +1,41 @@
+{
+  "id": 1390,
+  "name": {
+    "zh_tw": "薇歐莉",
+    "en": "VIOLY"
+  },
+  "image_url": "/images/monsters/1390.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20557,
+    "attack": {
+      "min": 821,
+      "max": 1129
+    },
+    "magic_attack": {
+      "min": 278,
+      "max": 350
+    },
+    "defense": 74,
+    "magic_defense": 36,
+    "hit_100_percent": 416,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 86,
+      "vit": 38,
+      "int": 76,
+      "dex": 126,
+      "luk": 63
+    }
+  },
+  "drops": []
+}

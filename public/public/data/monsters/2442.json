@@ -1,0 +1,41 @@
+{
+  "id": 2442,
+  "name": {
+    "zh_tw": "超級初心者之王 / 魔鬼孩子王",
+    "en": "B_SUPERNOVICE"
+  },
+  "image_url": "/images/monsters/2442.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 268800,
+    "attack": {
+      "min": 5006,
+      "max": 7358
+    },
+    "magic_attack": {
+      "min": 2723,
+      "max": 4839
+    },
+    "defense": 410,
+    "magic_defense": 192,
+    "hit_100_percent": 516,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 206,
+      "agi": 194,
+      "vit": 181,
+      "int": 156,
+      "dex": 203,
+      "luk": 115
+    }
+  },
+  "drops": []
+}

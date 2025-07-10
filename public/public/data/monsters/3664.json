@@ -1,0 +1,41 @@
+{
+  "id": 3664,
+  "name": {
+    "zh_tw": "綠腐屍",
+    "en": "MD_GHOUL_100"
+  },
+  "image_url": "/images/monsters/3664.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 24471,
+    "attack": {
+      "min": 670,
+      "max": 922
+    },
+    "magic_attack": {
+      "min": 489,
+      "max": 807
+    },
+    "defense": 78,
+    "magic_defense": 5,
+    "hit_100_percent": 336,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 66,
+      "agi": 32,
+      "vit": 39,
+      "int": 21,
+      "dex": 60,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

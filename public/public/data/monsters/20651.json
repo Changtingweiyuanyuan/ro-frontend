@@ -1,0 +1,41 @@
+{
+  "id": 20651,
+  "name": {
+    "zh_tw": "藍肉食人火龍果",
+    "en": "EP17_2_PITAYA_B"
+  },
+  "image_url": "/images/monsters/20651.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 662911,
+    "attack": {
+      "min": 2247,
+      "max": 3229
+    },
+    "magic_attack": {
+      "min": 1043,
+      "max": 1711
+    },
+    "defense": 444,
+    "magic_defense": 95,
+    "hit_100_percent": 542,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 119,
+      "agi": 162,
+      "vit": 93,
+      "int": 101,
+      "dex": 143,
+      "luk": 77
+    }
+  },
+  "drops": []
+}

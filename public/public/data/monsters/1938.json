@@ -1,0 +1,41 @@
+{
+  "id": 1938,
+  "name": {
+    "zh_tw": "寶物箱子",
+    "en": "TREASURE_BOX41"
+  },
+  "image_url": "/images/monsters/1938.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1,
+    "attack": {
+      "min": 100,
+      "max": 100
+    },
+    "magic_attack": {
+      "min": 100,
+      "max": 100
+    },
+    "defense": 0,
+    "magic_defense": 0,
+    "hit_100_percent": 300,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 1199,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

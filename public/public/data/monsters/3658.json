@@ -1,0 +1,41 @@
+{
+  "id": 3658,
+  "name": {
+    "zh_tw": "亡者的君主",
+    "en": "MD_LICH_LORD_100"
+  },
+  "image_url": "/images/monsters/3658.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2516502,
+    "attack": {
+      "min": 3965,
+      "max": 5835
+    },
+    "magic_attack": {
+      "min": 3150,
+      "max": 5634
+    },
+    "defense": 330,
+    "magic_defense": 168,
+    "hit_100_percent": 471,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 128,
+      "agi": 156,
+      "vit": 174,
+      "int": 152,
+      "dex": 223,
+      "luk": 76
+    }
+  },
+  "drops": []
+}

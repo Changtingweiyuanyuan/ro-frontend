@@ -1,0 +1,41 @@
+{
+  "id": 2764,
+  "name": {
+    "zh_tw": "精英螳螂 / 迅捷螳螂",
+    "en": "C1_MANTIS"
+  },
+  "image_url": "/images/monsters/2764.gif",
+  "basic_info": {
+    "level": 65,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13595,
+    "attack": {
+      "min": 299,
+      "max": 389
+    },
+    "magic_attack": {
+      "min": 91,
+      "max": 111
+    },
+    "defense": 90,
+    "magic_defense": 0,
+    "hit_100_percent": 301,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 33,
+      "vit": 24,
+      "int": 5,
+      "dex": 46,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3200,
+  "name": {
+    "zh_tw": "邪惡的凱美拉",
+    "en": "MM_M_CHIMERA"
+  },
+  "image_url": "/images/monsters/3200.gif",
+  "basic_info": {
+    "level": 150,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 301158,
+    "attack": {
+      "min": 1139,
+      "max": 1551
+    },
+    "magic_attack": {
+      "min": 341,
+      "max": 431
+    },
+    "defense": 199,
+    "magic_defense": 10,
+    "hit_100_percent": 542,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 166,
+      "agi": 175,
+      "vit": 110,
+      "int": 88,
+      "dex": 188,
+      "luk": 85
+    }
+  },
+  "drops": []
+}

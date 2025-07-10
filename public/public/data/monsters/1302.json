@@ -1,0 +1,41 @@
+{
+  "id": 1302,
+  "name": {
+    "zh_tw": "迷幻之王",
+    "en": "DARK_ILLUSION"
+  },
+  "image_url": "/images/monsters/1302.gif",
+  "basic_info": {
+    "level": 96,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 46255,
+    "attack": {
+      "min": 1110,
+      "max": 1578
+    },
+    "magic_attack": {
+      "min": 448,
+      "max": 664
+    },
+    "defense": 145,
+    "magic_defense": 30,
+    "hit_100_percent": 349,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 82,
+      "agi": 36,
+      "vit": 55,
+      "int": 100,
+      "dex": 182,
+      "luk": 88
+    }
+  },
+  "drops": []
+}

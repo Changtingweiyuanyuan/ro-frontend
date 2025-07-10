@@ -1,0 +1,41 @@
+{
+  "id": 1023,
+  "name": {
+    "zh_tw": "獸人戰士",
+    "en": "ORK_WARRIOR"
+  },
+  "image_url": "/images/monsters/1023.gif",
+  "basic_info": {
+    "level": 44,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1434,
+    "attack": {
+      "min": 132,
+      "max": 162
+    },
+    "magic_attack": {
+      "min": 82,
+      "max": 102
+    },
+    "defense": 52,
+    "magic_defense": 3,
+    "hit_100_percent": 261,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 32,
+      "agi": 15,
+      "vit": 24,
+      "int": 15,
+      "dex": 16,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

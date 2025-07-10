@@ -1,0 +1,41 @@
+{
+  "id": 2224,
+  "name": {
+    "zh_tw": "暗●武術宗師",
+    "en": "CHEN"
+  },
+  "image_url": "/images/monsters/2224.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 279562,
+    "attack": {
+      "min": 2263,
+      "max": 3265
+    },
+    "magic_attack": {
+      "min": 1144,
+      "max": 1894
+    },
+    "defense": 125,
+    "magic_defense": 56,
+    "hit_100_percent": 434,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 81,
+      "vit": 83,
+      "int": 130,
+      "dex": 201,
+      "luk": 61
+    }
+  },
+  "drops": []
+}

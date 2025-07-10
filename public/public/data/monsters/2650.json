@@ -1,0 +1,41 @@
+{
+  "id": 2650,
+  "name": {
+    "zh_tw": "精英慰勞者 / 狡猾慰勞者",
+    "en": "C5_SOLACE"
+  },
+  "image_url": "/images/monsters/2650.gif",
+  "basic_info": {
+    "level": 123,
+    "race": "天使",
+    "element": {
+      "type": "聖",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 123645,
+    "attack": {
+      "min": 1413,
+      "max": 2005
+    },
+    "magic_attack": {
+      "min": 280,
+      "max": 380
+    },
+    "defense": 96,
+    "magic_defense": 96,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 65,
+      "vit": 61,
+      "int": 42,
+      "dex": 125,
+      "luk": 72
+    }
+  },
+  "drops": []
+}

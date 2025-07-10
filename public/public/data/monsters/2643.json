@@ -1,0 +1,41 @@
+{
+  "id": 2643,
+  "name": {
+    "zh_tw": "精英 / 菁英 石頭波利",
+    "en": "C3_STAPO"
+  },
+  "image_url": "/images/monsters/2643.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 44025,
+    "attack": {
+      "min": 664,
+      "max": 940
+    },
+    "magic_attack": {
+      "min": 165,
+      "max": 197
+    },
+    "defense": 129,
+    "magic_defense": 36,
+    "hit_100_percent": 347,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 46,
+      "vit": 25,
+      "int": 35,
+      "dex": 64,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

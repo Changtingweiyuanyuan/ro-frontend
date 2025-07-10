@@ -1,0 +1,41 @@
+{
+  "id": 2019,
+  "name": {
+    "zh_tw": "古樹",
+    "en": "ANCIENT_TREE"
+  },
+  "image_url": "/images/monsters/2019.gif",
+  "basic_info": {
+    "level": 144,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 388933,
+    "attack": {
+      "min": 1237,
+      "max": 1711
+    },
+    "magic_attack": {
+      "min": 255,
+      "max": 301
+    },
+    "defense": 226,
+    "magic_defense": 37,
+    "hit_100_percent": 422,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 148,
+      "agi": 72,
+      "vit": 93,
+      "int": 58,
+      "dex": 149,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

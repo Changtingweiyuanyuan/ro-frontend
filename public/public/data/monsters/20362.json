@@ -1,0 +1,41 @@
+{
+  "id": 20362,
+  "name": {
+    "zh_tw": "異種朵洛爾",
+    "en": "EP17_1_DOLOR2"
+  },
+  "image_url": "/images/monsters/20362.gif",
+  "basic_info": {
+    "level": 173,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 742501,
+    "attack": {
+      "min": 3266,
+      "max": 4728
+    },
+    "magic_attack": {
+      "min": 1271,
+      "max": 2109
+    },
+    "defense": 305,
+    "magic_defense": 68,
+    "hit_100_percent": 477,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 169,
+      "agi": 103,
+      "vit": 109,
+      "int": 121,
+      "dex": 161,
+      "luk": 6
+    }
+  },
+  "drops": []
+}

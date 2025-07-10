@@ -1,0 +1,41 @@
+{
+  "id": 1195,
+  "name": {
+    "zh_tw": "飛行魔書",
+    "en": "RIDEWORD"
+  },
+  "image_url": "/images/monsters/1195.gif",
+  "basic_info": {
+    "level": 74,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 3222,
+    "attack": {
+      "min": 450,
+      "max": 606
+    },
+    "magic_attack": {
+      "min": 133,
+      "max": 147
+    },
+    "defense": 61,
+    "magic_defense": 38,
+    "hit_100_percent": 328,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 53,
+      "vit": 32,
+      "int": 44,
+      "dex": 125,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

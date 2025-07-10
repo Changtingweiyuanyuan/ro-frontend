@@ -1,0 +1,41 @@
+{
+  "id": 2156,
+  "name": {
+    "zh_tw": "讓特",
+    "en": "LEAK"
+  },
+  "image_url": "/images/monsters/2156.gif",
+  "basic_info": {
+    "level": 94,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1266000,
+    "attack": {
+      "min": 3194,
+      "max": 4684
+    },
+    "magic_attack": {
+      "min": 1077,
+      "max": 1849
+    },
+    "defense": 280,
+    "magic_defense": 128,
+    "hit_100_percent": 430,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 125,
+      "vit": 30,
+      "int": 85,
+      "dex": 186,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

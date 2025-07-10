@@ -1,0 +1,41 @@
+{
+  "id": 3219,
+  "name": {
+    "zh_tw": "暗●符文騎士",
+    "en": "V_G_SEYREN"
+  },
+  "image_url": "/images/monsters/3219.gif",
+  "basic_info": {
+    "level": 189,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3600000,
+    "attack": {
+      "min": 7729,
+      "max": 11329
+    },
+    "magic_attack": {
+      "min": 3089,
+      "max": 5489
+    },
+    "defense": 800,
+    "magic_defense": 400,
+    "hit_100_percent": 613,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 340,
+      "agi": 200,
+      "vit": 400,
+      "int": 100,
+      "dex": 400,
+      "luk": 120
+    }
+  },
+  "drops": []
+}

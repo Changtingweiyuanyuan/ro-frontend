@@ -1,0 +1,41 @@
+{
+  "id": 1246,
+  "name": {
+    "zh_tw": "甜餅人",
+    "en": "COOKIE_XMAS"
+  },
+  "image_url": "/images/monsters/1246.gif",
+  "basic_info": {
+    "level": 37,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 733,
+    "attack": {
+      "min": 114,
+      "max": 142
+    },
+    "magic_attack": {
+      "min": 81,
+      "max": 103
+    },
+    "defense": 48,
+    "magic_defense": 36,
+    "hit_100_percent": 254,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 21,
+      "agi": 16,
+      "vit": 30,
+      "int": 20,
+      "dex": 25,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

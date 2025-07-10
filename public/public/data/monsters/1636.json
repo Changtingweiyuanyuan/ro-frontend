@@ -1,0 +1,41 @@
+{
+  "id": 1636,
+  "name": {
+    "zh_tw": "暗●神工匠",
+    "en": "HARWORD"
+  },
+  "image_url": "/images/monsters/1636.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 378100,
+    "attack": {
+      "min": 2509,
+      "max": 3615
+    },
+    "magic_attack": {
+      "min": 1092,
+      "max": 1862
+    },
+    "defense": 131,
+    "magic_defense": 10,
+    "hit_100_percent": 430,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 158,
+      "agi": 79,
+      "vit": 92,
+      "int": 53,
+      "dex": 123,
+      "luk": 48
+    }
+  },
+  "drops": []
+}

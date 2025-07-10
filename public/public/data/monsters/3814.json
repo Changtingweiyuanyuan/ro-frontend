@@ -1,0 +1,41 @@
+{
+  "id": 3814,
+  "name": {
+    "zh_tw": "強化波波利",
+    "en": "MD_POPORING"
+  },
+  "image_url": "/images/monsters/3814.gif",
+  "basic_info": {
+    "level": 36,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1167,
+    "attack": {
+      "min": 109,
+      "max": 137
+    },
+    "magic_attack": {
+      "min": 72,
+      "max": 88
+    },
+    "defense": 10,
+    "magic_defense": 12,
+    "hit_100_percent": 260,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 20,
+      "vit": 20,
+      "int": 20,
+      "dex": 20,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

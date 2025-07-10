@@ -1,0 +1,41 @@
+{
+  "id": 1413,
+  "name": {
+    "zh_tw": "人參精",
+    "en": "WILD_GINSENG"
+  },
+  "image_url": "/images/monsters/1413.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "植物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 6052,
+    "attack": {
+      "min": 626,
+      "max": 856
+    },
+    "magic_attack": {
+      "min": 199,
+      "max": 243
+    },
+    "defense": 56,
+    "magic_defense": 62,
+    "hit_100_percent": 351,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 76,
+      "agi": 51,
+      "vit": 60,
+      "int": 60,
+      "dex": 91,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

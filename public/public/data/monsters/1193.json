@@ -1,0 +1,41 @@
+{
+  "id": 1193,
+  "name": {
+    "zh_tw": "鐘怪",
+    "en": "ALARM"
+  },
+  "image_url": "/images/monsters/1193.gif",
+  "basic_info": {
+    "level": 88,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5562,
+    "attack": {
+      "min": 413,
+      "max": 541
+    },
+    "magic_attack": {
+      "min": 146,
+      "max": 176
+    },
+    "defense": 106,
+    "magic_defense": 53,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 72,
+      "vit": 40,
+      "int": 25,
+      "dex": 66,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

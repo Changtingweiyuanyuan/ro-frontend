@@ -1,0 +1,41 @@
+{
+  "id": 1371,
+  "name": {
+    "zh_tw": "偽天使",
+    "en": "FAKE_ANGEL"
+  },
+  "image_url": "/images/monsters/1371.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "天使",
+    "element": {
+      "type": "聖",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10988,
+    "attack": {
+      "min": 742,
+      "max": 1006
+    },
+    "magic_attack": {
+      "min": 280,
+      "max": 362
+    },
+    "defense": 106,
+    "magic_defense": 84,
+    "hit_100_percent": 388,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 112,
+      "agi": 67,
+      "vit": 43,
+      "int": 81,
+      "dex": 82,
+      "luk": 80
+    }
+  },
+  "drops": []
+}

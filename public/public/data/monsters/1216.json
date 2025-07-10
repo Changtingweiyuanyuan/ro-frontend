@@ -1,0 +1,41 @@
+{
+  "id": 1216,
+  "name": {
+    "zh_tw": "梅納海葵",
+    "en": "PENOMENA"
+  },
+  "image_url": "/images/monsters/1216.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "魚貝",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4589,
+    "attack": {
+      "min": 545,
+      "max": 739
+    },
+    "magic_attack": {
+      "min": 148,
+      "max": 174
+    },
+    "defense": 85,
+    "magic_defense": 32,
+    "hit_100_percent": 325,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 76,
+      "agi": 38,
+      "vit": 35,
+      "int": 35,
+      "dex": 107,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 20593,
+  "name": {
+    "zh_tw": "絕命毒霧",
+    "en": "TOXIOUS"
+  },
+  "image_url": "/images/monsters/20593.gif",
+  "basic_info": {
+    "level": 188,
+    "race": "無形",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2407556,
+    "attack": {
+      "min": 3039,
+      "max": 4393
+    },
+    "magic_attack": {
+      "min": 823,
+      "max": 1313
+    },
+    "defense": 254,
+    "magic_defense": 68,
+    "hit_100_percent": 540,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 144,
+      "agi": 143,
+      "vit": 80,
+      "int": 65,
+      "dex": 168,
+      "luk": 47
+    }
+  },
+  "drops": []
+}

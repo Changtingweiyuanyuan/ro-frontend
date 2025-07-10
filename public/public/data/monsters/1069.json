@@ -1,0 +1,41 @@
+{
+  "id": 1069,
+  "name": {
+    "zh_tw": "異變魚",
+    "en": "SWORD_FISH"
+  },
+  "image_url": "/images/monsters/1069.gif",
+  "basic_info": {
+    "level": 57,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2600,
+    "attack": {
+      "min": 231,
+      "max": 295
+    },
+    "magic_attack": {
+      "min": 96,
+      "max": 118
+    },
+    "defense": 52,
+    "magic_defense": 12,
+    "hit_100_percent": 316,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 56,
+      "vit": 25,
+      "int": 15,
+      "dex": 44,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

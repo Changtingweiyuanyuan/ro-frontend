@@ -1,0 +1,41 @@
+{
+  "id": 20634,
+  "name": {
+    "zh_tw": "故障的搓澡師",
+    "en": "EP17_2_BETA_CLEANER_B"
+  },
+  "image_url": "/images/monsters/20634.gif",
+  "basic_info": {
+    "level": 144,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 150304,
+    "attack": {
+      "min": 1961,
+      "max": 2811
+    },
+    "magic_attack": {
+      "min": 830,
+      "max": 1344
+    },
+    "defense": 288,
+    "magic_defense": 83,
+    "hit_100_percent": 447,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 89,
+      "vit": 48,
+      "int": 89,
+      "dex": 109,
+      "luk": 74
+    }
+  },
+  "drops": []
+}

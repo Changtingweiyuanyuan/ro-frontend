@@ -1,0 +1,41 @@
+{
+  "id": 3412,
+  "name": {
+    "zh_tw": "綠變色龍",
+    "en": "MIN_GREEN_IGUANA"
+  },
+  "image_url": "/images/monsters/3412.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 130000,
+    "attack": {
+      "min": 803,
+      "max": 1083
+    },
+    "magic_attack": {
+      "min": 193,
+      "max": 215
+    },
+    "defense": 174,
+    "magic_defense": 18,
+    "hit_100_percent": 394,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 136,
+      "agi": 77,
+      "vit": 96,
+      "int": 62,
+      "dex": 147,
+      "luk": 52
+    }
+  },
+  "drops": []
+}

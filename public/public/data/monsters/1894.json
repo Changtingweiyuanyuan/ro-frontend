@@ -1,0 +1,41 @@
+{
+  "id": 1894,
+  "name": {
+    "zh_tw": "雨水波利",
+    "en": "POURING"
+  },
+  "image_url": "/images/monsters/1894.gif",
+  "basic_info": {
+    "level": 15,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 777,
+    "attack": {
+      "min": 27,
+      "max": 31
+    },
+    "magic_attack": {
+      "min": 36,
+      "max": 42
+    },
+    "defense": 0,
+    "magic_defense": 7,
+    "hit_100_percent": 223,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 7,
+      "agi": 7,
+      "vit": 7,
+      "int": 17,
+      "dex": 17,
+      "luk": 7
+    }
+  },
+  "drops": []
+}

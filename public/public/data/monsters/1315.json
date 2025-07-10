@@ -1,0 +1,41 @@
+{
+  "id": 1315,
+  "name": {
+    "zh_tw": "風靈龜",
+    "en": "ASSULTER"
+  },
+  "image_url": "/images/monsters/1315.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8977,
+    "attack": {
+      "min": 701,
+      "max": 953
+    },
+    "magic_attack": {
+      "min": 166,
+      "max": 208
+    },
+    "defense": 169,
+    "magic_defense": 49,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 92,
+      "vit": 30,
+      "int": 20,
+      "dex": 144,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

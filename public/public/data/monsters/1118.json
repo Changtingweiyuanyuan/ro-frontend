@@ -1,0 +1,41 @@
+{
+  "id": 1118,
+  "name": {
+    "zh_tw": "噬人花",
+    "en": "FLORA"
+  },
+  "image_url": "/images/monsters/1118.gif",
+  "basic_info": {
+    "level": 59,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2301,
+    "attack": {
+      "min": 238,
+      "max": 304
+    },
+    "magic_attack": {
+      "min": 85,
+      "max": 105
+    },
+    "defense": 99,
+    "magic_defense": 29,
+    "hit_100_percent": 304,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 49,
+      "agi": 29,
+      "vit": 35,
+      "int": 5,
+      "dex": 46,
+      "luk": 80
+    }
+  },
+  "drops": []
+}

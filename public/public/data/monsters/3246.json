@@ -1,0 +1,41 @@
+{
+  "id": 3246,
+  "name": {
+    "zh_tw": "暗●流浪舞者 特蘭提尼",
+    "en": "V_B_TRENTINI"
+  },
+  "image_url": "/images/monsters/3246.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 10800000,
+    "attack": {
+      "min": 3606,
+      "max": 5206
+    },
+    "magic_attack": {
+      "min": 4786,
+      "max": 8386
+    },
+    "defense": 200,
+    "magic_defense": 200,
+    "hit_100_percent": 718,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 220,
+      "agi": 300,
+      "vit": 140,
+      "int": 400,
+      "dex": 300,
+      "luk": 160
+    }
+  },
+  "drops": []
+}

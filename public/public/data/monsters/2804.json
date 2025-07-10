@@ -1,0 +1,41 @@
+{
+  "id": 2804,
+  "name": {
+    "zh_tw": "精英希爾士兵 / 迅捷希爾士兵",
+    "en": "C1_HILL_WIND_1"
+  },
+  "image_url": "/images/monsters/2804.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 45500,
+    "attack": {
+      "min": 590,
+      "max": 782
+    },
+    "magic_attack": {
+      "min": 182,
+      "max": 224
+    },
+    "defense": 90,
+    "magic_defense": 37,
+    "hit_100_percent": 375,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 105,
+      "agi": 69,
+      "vit": 59,
+      "int": 35,
+      "dex": 96,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

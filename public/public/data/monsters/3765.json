@@ -1,0 +1,41 @@
+{
+  "id": 3765,
+  "name": {
+    "zh_tw": "狂熱英雄 / 狂熱的冒險家",
+    "en": "ILL_FURY_HERO"
+  },
+  "image_url": "/images/monsters/3765.gif",
+  "basic_info": {
+    "level": 117,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 24078,
+    "attack": {
+      "min": 966,
+      "max": 1302
+    },
+    "magic_attack": {
+      "min": 262,
+      "max": 330
+    },
+    "defense": 340,
+    "magic_defense": 20,
+    "hit_100_percent": 369,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 180,
+      "agi": 42,
+      "vit": 126,
+      "int": 66,
+      "dex": 149,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1161,
+  "name": {
+    "zh_tw": "漂浮蟲",
+    "en": "PLANKTON"
+  },
+  "image_url": "/images/monsters/1161.gif",
+  "basic_info": {
+    "level": 40,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1232,
+    "attack": {
+      "min": 123,
+      "max": 153
+    },
+    "magic_attack": {
+      "min": 120,
+      "max": 142
+    },
+    "defense": 28,
+    "magic_defense": 28,
+    "hit_100_percent": 295,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 23,
+      "agi": 53,
+      "vit": 25,
+      "int": 55,
+      "dex": 35,
+      "luk": 14
+    }
+  },
+  "drops": []
+}

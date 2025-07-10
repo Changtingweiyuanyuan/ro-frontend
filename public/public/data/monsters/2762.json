@@ -1,0 +1,41 @@
+{
+  "id": 2762,
+  "name": {
+    "zh_tw": "精英冰波利 / 憤怒冰波利",
+    "en": "C4_MARIN"
+  },
+  "image_url": "/images/monsters/2762.gif",
+  "basic_info": {
+    "level": 37,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4935,
+    "attack": {
+      "min": 126,
+      "max": 160
+    },
+    "magic_attack": {
+      "min": 51,
+      "max": 61
+    },
+    "defense": 32,
+    "magic_defense": 8,
+    "hit_100_percent": 246,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 24,
+      "agi": 6,
+      "vit": 10,
+      "int": 5,
+      "dex": 30,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

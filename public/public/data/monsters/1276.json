@@ -1,0 +1,41 @@
+{
+  "id": 1276,
+  "name": {
+    "zh_tw": "幽靈弓箭手",
+    "en": "RAYDRIC_ARCHER"
+  },
+  "image_url": "/images/monsters/1276.gif",
+  "basic_info": {
+    "level": 82,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4437,
+    "attack": {
+      "min": 467,
+      "max": 633
+    },
+    "magic_attack": {
+      "min": 109,
+      "max": 121
+    },
+    "defense": 63,
+    "magic_defense": 40,
+    "hit_100_percent": 312,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 53,
+      "agi": 24,
+      "vit": 40,
+      "int": 15,
+      "dex": 134,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

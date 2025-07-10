@@ -1,0 +1,41 @@
+{
+  "id": 2708,
+  "name": {
+    "zh_tw": "精英礦工魔 / 狡猾礦工魔",
+    "en": "C5_PITMAN"
+  },
+  "image_url": "/images/monsters/2708.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "不死",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 36040,
+    "attack": {
+      "min": 360,
+      "max": 456
+    },
+    "magic_attack": {
+      "min": 167,
+      "max": 203
+    },
+    "defense": 104,
+    "magic_defense": 48,
+    "hit_100_percent": 352,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 78,
+      "agi": 56,
+      "vit": 45,
+      "int": 35,
+      "dex": 60,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1295,
+  "name": {
+    "zh_tw": "鶚梟男爵",
+    "en": "OWL_BARON"
+  },
+  "image_url": "/images/monsters/1295.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 21000,
+    "attack": {
+      "min": 695,
+      "max": 947
+    },
+    "magic_attack": {
+      "min": 362,
+      "max": 484
+    },
+    "defense": 88,
+    "magic_defense": 25,
+    "hit_100_percent": 399,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 65,
+      "vit": 55,
+      "int": 102,
+      "dex": 108,
+      "luk": 72
+    }
+  },
+  "drops": []
+}

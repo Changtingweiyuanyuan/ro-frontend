@@ -1,0 +1,41 @@
+{
+  "id": 20373,
+  "name": {
+    "zh_tw": "堅硬七彩咪魘",
+    "en": "NIGHTMARE_TERROR_H"
+  },
+  "image_url": "/images/monsters/20373.gif",
+  "basic_info": {
+    "level": 179,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1218702,
+    "attack": {
+      "min": 1709,
+      "max": 2435
+    },
+    "magic_attack": {
+      "min": 1919,
+      "max": 3251
+    },
+    "defense": 194,
+    "magic_defense": 60,
+    "hit_100_percent": 540,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 81,
+      "agi": 149,
+      "vit": 21,
+      "int": 186,
+      "dex": 129,
+      "luk": 61
+    }
+  },
+  "drops": []
+}

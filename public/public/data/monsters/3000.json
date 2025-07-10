@@ -1,0 +1,41 @@
+{
+  "id": 3000,
+  "name": {
+    "zh_tw": "咪羅克的亡靈巫師",
+    "en": "EP14_MORS_BOSSB"
+  },
+  "image_url": "/images/monsters/3000.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 80000000,
+    "attack": {
+      "min": 662,
+      "max": 942
+    },
+    "magic_attack": {
+      "min": 281,
+      "max": 283
+    },
+    "defense": 1,
+    "magic_defense": 1,
+    "hit_100_percent": 302,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 180,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

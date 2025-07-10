@@ -1,0 +1,41 @@
+{
+  "id": 1135,
+  "name": {
+    "zh_tw": "刺錘犬妖",
+    "en": "KOBOLD_3"
+  },
+  "image_url": "/images/monsters/1135.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 9078,
+    "attack": {
+      "min": 578,
+      "max": 766
+    },
+    "magic_attack": {
+      "min": 187,
+      "max": 227
+    },
+    "defense": 109,
+    "magic_defense": 48,
+    "hit_100_percent": 369,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 103,
+      "agi": 64,
+      "vit": 59,
+      "int": 42,
+      "dex": 80,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

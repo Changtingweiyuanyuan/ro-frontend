@@ -1,0 +1,41 @@
+{
+  "id": 1087,
+  "name": {
+    "zh_tw": "獸人英雄",
+    "en": "ORK_HERO"
+  },
+  "image_url": "/images/monsters/1087.gif",
+  "basic_info": {
+    "level": 50,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 362000,
+    "attack": {
+      "min": 676,
+      "max": 942
+    },
+    "magic_attack": {
+      "min": 429,
+      "max": 695
+    },
+    "defense": 197,
+    "magic_defense": 70,
+    "hit_100_percent": 340,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 82,
+      "vit": 107,
+      "int": 71,
+      "dex": 144,
+      "luk": 43
+    }
+  },
+  "drops": []
+}

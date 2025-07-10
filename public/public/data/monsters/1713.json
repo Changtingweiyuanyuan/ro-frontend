@@ -1,0 +1,41 @@
+{
+  "id": 1713,
+  "name": {
+    "zh_tw": "俄希托斯",
+    "en": "黄"
+  },
+  "image_url": "/images/monsters/1713.gif",
+  "basic_info": {
+    "level": 130,
+    "race": "龍",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 48430,
+    "attack": {
+      "min": 935,
+      "max": 1285
+    },
+    "magic_attack": {
+      "min": 671,
+      "max": 1089
+    },
+    "defense": 101,
+    "magic_defense": 90,
+    "hit_100_percent": 419,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 78,
+      "vit": 50,
+      "int": 55,
+      "dex": 108,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3649,
+  "name": {
+    "zh_tw": "腐屍",
+    "en": "MD_ZOMBIE_60"
+  },
+  "image_url": "/images/monsters/3649.gif",
+  "basic_info": {
+    "level": 60,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2580,
+    "attack": {
+      "min": 233,
+      "max": 309
+    },
+    "magic_attack": {
+      "min": 194,
+      "max": 308
+    },
+    "defense": 20,
+    "magic_defense": 6,
+    "hit_100_percent": 274,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 21,
+      "agi": 14,
+      "vit": 23,
+      "int": 1,
+      "dex": 39,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

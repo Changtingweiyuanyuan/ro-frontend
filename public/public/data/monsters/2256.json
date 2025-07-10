@@ -1,0 +1,41 @@
+{
+  "id": 2256,
+  "name": {
+    "zh_tw": "魯盜",
+    "en": "RUDO"
+  },
+  "image_url": "/images/monsters/2256.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "天使",
+    "element": {
+      "type": "聖",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 501489,
+    "attack": {
+      "min": 1361,
+      "max": 1923
+    },
+    "magic_attack": {
+      "min": 1227,
+      "max": 2129
+    },
+    "defense": 196,
+    "magic_defense": 96,
+    "hit_100_percent": 414,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 65,
+      "vit": 61,
+      "int": 42,
+      "dex": 125,
+      "luk": 72
+    }
+  },
+  "drops": []
+}

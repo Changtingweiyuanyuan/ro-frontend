@@ -1,0 +1,41 @@
+{
+  "id": 2134,
+  "name": {
+    "zh_tw": "惡魔啄木鳥",
+    "en": "PARUS"
+  },
+  "image_url": "/images/monsters/2134.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 86990,
+    "attack": {
+      "min": 835,
+      "max": 1143
+    },
+    "magic_attack": {
+      "min": 292,
+      "max": 384
+    },
+    "defense": 161,
+    "magic_defense": 39,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 80,
+      "agi": 136,
+      "vit": 128,
+      "int": 44,
+      "dex": 158,
+      "luk": 51
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2733,
+  "name": {
+    "zh_tw": "精英守墓怨靈 / 狡猾守墓怨靈",
+    "en": "C5_NG_WRAITH_DEAD"
+  },
+  "image_url": "/images/monsters/2733.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 77895,
+    "attack": {
+      "min": 909,
+      "max": 1275
+    },
+    "magic_attack": {
+      "min": 250,
+      "max": 324
+    },
+    "defense": 93,
+    "magic_defense": 53,
+    "hit_100_percent": 367,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 52,
+      "vit": 47,
+      "int": 55,
+      "dex": 109,
+      "luk": 28
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 20596,
+  "name": {
+    "zh_tw": "白色礦石魔",
+    "en": "MINERAL_W"
+  },
+  "image_url": "/images/monsters/20596.gif",
+  "basic_info": {
+    "level": 190,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2436177,
+    "attack": {
+      "min": 3310,
+      "max": 4792
+    },
+    "magic_attack": {
+      "min": 752,
+      "max": 1186
+    },
+    "defense": 293,
+    "magic_defense": 68,
+    "hit_100_percent": 543,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 156,
+      "agi": 138,
+      "vit": 99,
+      "int": 57,
+      "dex": 139,
+      "luk": 77
+    }
+  },
+  "drops": []
+}

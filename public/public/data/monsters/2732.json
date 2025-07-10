@@ -1,0 +1,41 @@
+{
+  "id": 2732,
+  "name": {
+    "zh_tw": "精英七彩咪魘 / 憤怒七彩咪魘",
+    "en": "C4_NIGHTMARE_TERROR"
+  },
+  "image_url": "/images/monsters/2732.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 66445,
+    "attack": {
+      "min": 1105,
+      "max": 1545
+    },
+    "magic_attack": {
+      "min": 328,
+      "max": 464
+    },
+    "defense": 78,
+    "magic_defense": 37,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 68,
+      "vit": 55,
+      "int": 63,
+      "dex": 106,
+      "luk": 43
+    }
+  },
+  "drops": []
+}

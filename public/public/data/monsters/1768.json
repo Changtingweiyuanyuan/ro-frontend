@@ -1,0 +1,41 @@
+{
+  "id": 1768,
+  "name": {
+    "zh_tw": "影魔 / 幽暗咪魘",
+    "en": "GLOOMUNDERNIGHT"
+  },
+  "image_url": "/images/monsters/1768.gif",
+  "basic_info": {
+    "level": 139,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3005000,
+    "attack": {
+      "min": 5603,
+      "max": 8241
+    },
+    "magic_attack": {
+      "min": 2243,
+      "max": 3915
+    },
+    "defense": 479,
+    "magic_defense": 262,
+    "hit_100_percent": 594,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 191,
+      "agi": 223,
+      "vit": 187,
+      "int": 155,
+      "dex": 362,
+      "luk": 163
+    }
+  },
+  "drops": []
+}

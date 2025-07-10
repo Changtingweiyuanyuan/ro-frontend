@@ -1,0 +1,41 @@
+{
+  "id": 2530,
+  "name": {
+    "zh_tw": "黑暗驚駭森靈 / 暗黑人面蟲",
+    "en": "FACEWORM_DARK"
+  },
+  "image_url": "/images/monsters/2530.gif",
+  "basic_info": {
+    "level": 144,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5000000,
+    "attack": {
+      "min": 1903,
+      "max": 2709
+    },
+    "magic_attack": {
+      "min": 1696,
+      "max": 2898
+    },
+    "defense": 100,
+    "magic_defense": 30,
+    "hit_100_percent": 464,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 150,
+      "agi": 100,
+      "vit": 150,
+      "int": 150,
+      "dex": 150,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

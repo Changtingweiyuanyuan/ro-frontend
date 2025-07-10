@@ -1,0 +1,41 @@
+{
+  "id": 2018,
+  "name": {
+    "zh_tw": "杜內爾 / 杜尼爾",
+    "en": "DUNEYRR"
+  },
+  "image_url": "/images/monsters/2018.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 63342,
+    "attack": {
+      "min": 1268,
+      "max": 1768
+    },
+    "magic_attack": {
+      "min": 400,
+      "max": 582
+    },
+    "defense": 144,
+    "magic_defense": 28,
+    "hit_100_percent": 412,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 133,
+      "agi": 69,
+      "vit": 72,
+      "int": 55,
+      "dex": 165,
+      "luk": 44
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1383,
+  "name": {
+    "zh_tw": "爆炎蝙蝠",
+    "en": "EXPLOSION"
+  },
+  "image_url": "/images/monsters/1383.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 7813,
+    "attack": {
+      "min": 691,
+      "max": 941
+    },
+    "magic_attack": {
+      "min": 227,
+      "max": 293
+    },
+    "defense": 112,
+    "magic_defense": 50,
+    "hit_100_percent": 363,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 51,
+      "vit": 63,
+      "int": 50,
+      "dex": 78,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3622,
+  "name": {
+    "zh_tw": "特殊警衛",
+    "en": "EP16_2_MM_S_GUARDS"
+  },
+  "image_url": "/images/monsters/3622.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21914,
+    "attack": {
+      "min": 788,
+      "max": 1078
+    },
+    "magic_attack": {
+      "min": 281,
+      "max": 383
+    },
+    "defense": 80,
+    "magic_defense": 90,
+    "hit_100_percent": 372,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 108,
+      "agi": 64,
+      "vit": 57,
+      "int": 62,
+      "dex": 150,
+      "luk": 42
+    }
+  },
+  "drops": []
+}

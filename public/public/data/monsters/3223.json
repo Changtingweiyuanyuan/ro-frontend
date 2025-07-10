@@ -1,0 +1,41 @@
+{
+  "id": 3223,
+  "name": {
+    "zh_tw": "暗●機匠 哈沃得",
+    "en": "V_B_HARWORD"
+  },
+  "image_url": "/images/monsters/3223.gif",
+  "basic_info": {
+    "level": 187,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 18000000,
+    "attack": {
+      "min": 4507,
+      "max": 6507
+    },
+    "magic_attack": {
+      "min": 2407,
+      "max": 4207
+    },
+    "defense": 400,
+    "magic_defense": 200,
+    "hit_100_percent": 567,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 320,
+      "agi": 160,
+      "vit": 400,
+      "int": 120,
+      "dex": 260,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

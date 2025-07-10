@@ -1,0 +1,41 @@
+{
+  "id": 2416,
+  "name": {
+    "zh_tw": "暗●刺客",
+    "en": "L_EREMES"
+  },
+  "image_url": "/images/monsters/2416.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "毒",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 9029,
+    "attack": {
+      "min": 819,
+      "max": 1115
+    },
+    "magic_attack": {
+      "min": 265,
+      "max": 357
+    },
+    "defense": 109,
+    "magic_defense": 10,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 130,
+      "agi": 78,
+      "vit": 53,
+      "int": 60,
+      "dex": 114,
+      "luk": 68
+    }
+  },
+  "drops": []
+}

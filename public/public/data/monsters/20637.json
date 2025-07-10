@@ -1,0 +1,41 @@
+{
+  "id": 20637,
+  "name": {
+    "zh_tw": "故障的倉庫管理員 / 故障的倉管",
+    "en": "EP17_2_BETA_ITEMKEEPER"
+  },
+  "image_url": "/images/monsters/20637.gif",
+  "basic_info": {
+    "level": 185,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1900983,
+    "attack": {
+      "min": 3227,
+      "max": 4671
+    },
+    "magic_attack": {
+      "min": 1514,
+      "max": 2536
+    },
+    "defense": 563,
+    "magic_defense": 110,
+    "hit_100_percent": 501,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 156,
+      "agi": 98,
+      "vit": 126,
+      "int": 138,
+      "dex": 143,
+      "luk": 91
+    }
+  },
+  "drops": []
+}

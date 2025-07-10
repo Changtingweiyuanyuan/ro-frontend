@@ -1,0 +1,41 @@
+{
+  "id": 2706,
+  "name": {
+    "zh_tw": "精英等離子體 / 菁英等離子體",
+    "en": "C3_PLASMA_Y"
+  },
+  "image_url": "/images/monsters/2706.gif",
+  "basic_info": {
+    "level": 119,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 103000,
+    "attack": {
+      "min": 1086,
+      "max": 1500
+    },
+    "magic_attack": {
+      "min": 304,
+      "max": 386
+    },
+    "defense": 130,
+    "magic_defense": 45,
+    "hit_100_percent": 423,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 141,
+      "agi": 94,
+      "vit": 75,
+      "int": 91,
+      "dex": 144,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

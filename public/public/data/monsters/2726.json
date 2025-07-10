@@ -1,0 +1,41 @@
+{
+  "id": 2726,
+  "name": {
+    "zh_tw": "精英監視者 / 菁英監視者",
+    "en": "C3_OBSERVATION"
+  },
+  "image_url": "/images/monsters/2726.gif",
+  "basic_info": {
+    "level": 127,
+    "race": "天使",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 172690,
+    "attack": {
+      "min": 1570,
+      "max": 2242
+    },
+    "magic_attack": {
+      "min": 288,
+      "max": 380
+    },
+    "defense": 98,
+    "magic_defense": 55,
+    "hit_100_percent": 418,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 99,
+      "agi": 75,
+      "vit": 52,
+      "int": 55,
+      "dex": 178,
+      "luk": 80
+    }
+  },
+  "drops": []
+}

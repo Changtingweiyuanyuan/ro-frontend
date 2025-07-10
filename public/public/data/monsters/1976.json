@@ -1,0 +1,41 @@
+{
+  "id": 1976,
+  "name": {
+    "zh_tw": "鈷礦石魔 / 惡精靈礦石",
+    "en": "COBALT_MINERAL"
+  },
+  "image_url": "/images/monsters/1976.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 15800,
+    "attack": {
+      "min": 945,
+      "max": 1307
+    },
+    "magic_attack": {
+      "min": 234,
+      "max": 290
+    },
+    "defense": 113,
+    "magic_defense": 44,
+    "hit_100_percent": 376,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 110,
+      "agi": 55,
+      "vit": 65,
+      "int": 57,
+      "dex": 133,
+      "luk": 41
+    }
+  },
+  "drops": []
+}

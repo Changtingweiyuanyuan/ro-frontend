@@ -1,0 +1,41 @@
+{
+  "id": 20348,
+  "name": {
+    "zh_tw": "A013-卡夫特",
+    "en": "MD_A013_CAPUT"
+  },
+  "image_url": "/images/monsters/20348.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 31000,
+    "attack": {
+      "min": 945,
+      "max": 1305
+    },
+    "magic_attack": {
+      "min": 307,
+      "max": 397
+    },
+    "defense": 79,
+    "magic_defense": 40,
+    "hit_100_percent": 404,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 115,
+      "agi": 85,
+      "vit": 81,
+      "int": 92,
+      "dex": 121,
+      "luk": 47
+    }
+  },
+  "drops": []
+}

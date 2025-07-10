@@ -1,0 +1,41 @@
+{
+  "id": 2644,
+  "name": {
+    "zh_tw": "精英 / 憤怒 鐘乳巨石怪",
+    "en": "C4_STALACTIC_GOLEM"
+  },
+  "image_url": "/images/monsters/2644.gif",
+  "basic_info": {
+    "level": 68,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 12950,
+    "attack": {
+      "min": 477,
+      "max": 649
+    },
+    "magic_attack": {
+      "min": 83,
+      "max": 97
+    },
+    "defense": 230,
+    "magic_defense": 5,
+    "hit_100_percent": 330,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 61,
+      "vit": 48,
+      "int": 1,
+      "dex": 69,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2253,
+  "name": {
+    "zh_tw": "將軍大賢",
+    "en": "DAEHYON"
+  },
+  "image_url": "/images/monsters/2253.gif",
+  "basic_info": {
+    "level": 142,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 2500148,
+    "attack": {
+      "min": 2426,
+      "max": 3510
+    },
+    "magic_attack": {
+      "min": 1228,
+      "max": 2074
+    },
+    "defense": 494,
+    "magic_defense": 123,
+    "hit_100_percent": 484,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 116,
+      "agi": 123,
+      "vit": 154,
+      "int": 99,
+      "dex": 217,
+      "luk": 98
+    }
+  },
+  "drops": []
+}

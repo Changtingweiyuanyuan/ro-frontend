@@ -1,0 +1,41 @@
+{
+  "id": 3071,
+  "name": {
+    "zh_tw": "貝爾 / 派",
+    "en": "PERE3"
+  },
+  "image_url": "/images/monsters/3071.gif",
+  "basic_info": {
+    "level": 127,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 53290,
+    "attack": {
+      "min": 1098,
+      "max": 1538
+    },
+    "magic_attack": {
+      "min": 472,
+      "max": 668
+    },
+    "defense": 85,
+    "magic_defense": 45,
+    "hit_100_percent": 431,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 89,
+      "vit": 65,
+      "int": 118,
+      "dex": 147,
+      "luk": 75
+    }
+  },
+  "drops": []
+}

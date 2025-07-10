@@ -1,0 +1,41 @@
+{
+  "id": 2950,
+  "name": {
+    "zh_tw": "無法獻出的心意 / 破碎的心",
+    "en": "BROKEN_MIND"
+  },
+  "image_url": "/images/monsters/2950.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13520,
+    "attack": {
+      "min": 1259,
+      "max": 1799
+    },
+    "magic_attack": {
+      "min": 120,
+      "max": 122
+    },
+    "defense": 67,
+    "magic_defense": 27,
+    "hit_100_percent": 348,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 37,
+      "vit": 36,
+      "int": 10,
+      "dex": 64,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

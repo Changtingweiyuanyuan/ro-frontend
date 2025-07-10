@@ -1,0 +1,41 @@
+{
+  "id": 3756,
+  "name": {
+    "zh_tw": "暴走的普美 / 暴走的波蜜",
+    "en": "ILL_BOMI"
+  },
+  "image_url": "/images/monsters/3756.gif",
+  "basic_info": {
+    "level": 137,
+    "race": "人形",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 378510,
+    "attack": {
+      "min": 3194,
+      "max": 4678
+    },
+    "magic_attack": {
+      "min": 1455,
+      "max": 2465
+    },
+    "defense": 60,
+    "magic_defense": 60,
+    "hit_100_percent": 442,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 87,
+      "vit": 40,
+      "int": 140,
+      "dex": 199,
+      "luk": 91
+    }
+  },
+  "drops": []
+}

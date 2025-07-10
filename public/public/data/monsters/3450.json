@@ -1,0 +1,41 @@
+{
+  "id": 3450,
+  "name": {
+    "zh_tw": "畢尤",
+    "en": "BIJOU"
+  },
+  "image_url": "/images/monsters/3450.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 10000000,
+    "attack": {
+      "min": 1420,
+      "max": 1998
+    },
+    "magic_attack": {
+      "min": 1275,
+      "max": 2143
+    },
+    "defense": 20,
+    "magic_defense": 200,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 150,
+      "agi": 40,
+      "vit": 50,
+      "int": 150,
+      "dex": 150,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

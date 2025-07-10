@@ -1,0 +1,41 @@
+{
+  "id": 1277,
+  "name": {
+    "zh_tw": "將軍魔碑",
+    "en": "GREATEST_GENERAL"
+  },
+  "image_url": "/images/monsters/1277.gif",
+  "basic_info": {
+    "level": 55,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1575,
+    "attack": {
+      "min": 293,
+      "max": 385
+    },
+    "magic_attack": {
+      "min": 98,
+      "max": 114
+    },
+    "defense": 114,
+    "magic_defense": 30,
+    "hit_100_percent": 289,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 30,
+      "vit": 20,
+      "int": 25,
+      "dex": 28,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

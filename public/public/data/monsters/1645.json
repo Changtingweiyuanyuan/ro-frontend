@@ -1,0 +1,41 @@
+{
+  "id": 1645,
+  "name": {
+    "zh_tw": "超魔導師 凱特莉娜",
+    "en": "G_KATRINN"
+  },
+  "image_url": "/images/monsters/1645.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 4500000,
+    "attack": {
+      "min": 2002,
+      "max": 2842
+    },
+    "magic_attack": {
+      "min": 3373,
+      "max": 5927
+    },
+    "defense": 215,
+    "magic_defense": 555,
+    "hit_100_percent": 568,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 190,
+      "vit": 142,
+      "int": 236,
+      "dex": 299,
+      "luk": 93
+    }
+  },
+  "drops": []
+}

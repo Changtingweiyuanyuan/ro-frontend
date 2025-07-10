@@ -1,0 +1,41 @@
+{
+  "id": 1688,
+  "name": {
+    "zh_tw": "嗒妮小姐",
+    "en": "LADY_TANEE"
+  },
+  "image_url": "/images/monsters/1688.gif",
+  "basic_info": {
+    "level": 80,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 360000,
+    "attack": {
+      "min": 1714,
+      "max": 2490
+    },
+    "magic_attack": {
+      "min": 848,
+      "max": 1404
+    },
+    "defense": 241,
+    "magic_defense": 104,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 86,
+      "agi": 108,
+      "vit": 88,
+      "int": 121,
+      "dex": 240,
+      "luk": 71
+    }
+  },
+  "drops": []
+}

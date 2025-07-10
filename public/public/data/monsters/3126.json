@@ -1,0 +1,41 @@
+{
+  "id": 3126,
+  "name": {
+    "zh_tw": "變異機器人 / 搖滾步伐",
+    "en": "ROCK_STEP"
+  },
+  "image_url": "/images/monsters/3126.gif",
+  "basic_info": {
+    "level": 131,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 71056,
+    "attack": {
+      "min": 1110,
+      "max": 1550
+    },
+    "magic_attack": {
+      "min": 482,
+      "max": 678
+    },
+    "defense": 85,
+    "magic_defense": 59,
+    "hit_100_percent": 442,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 99,
+      "agi": 95,
+      "vit": 70,
+      "int": 124,
+      "dex": 155,
+      "luk": 80
+    }
+  },
+  "drops": []
+}

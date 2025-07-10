@@ -1,0 +1,41 @@
+{
+  "id": 3018,
+  "name": {
+    "zh_tw": "墮落的邪骸食人魚",
+    "en": "EP14_3_DEATH_C_MOB3"
+  },
+  "image_url": "/images/monsters/3018.gif",
+  "basic_info": {
+    "level": 158,
+    "race": "魚貝",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 347413,
+    "attack": {
+      "min": 1073,
+      "max": 1453
+    },
+    "magic_attack": {
+      "min": 398,
+      "max": 528
+    },
+    "defense": 240,
+    "magic_defense": 300,
+    "hit_100_percent": 454,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 157,
+      "agi": 80,
+      "vit": 140,
+      "int": 90,
+      "dex": 209,
+      "luk": 84
+    }
+  },
+  "drops": []
+}

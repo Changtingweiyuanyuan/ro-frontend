@@ -1,0 +1,41 @@
+{
+  "id": 2625,
+  "name": {
+    "zh_tw": "精英凡娜圖 / 憤怒凡娜圖",
+    "en": "C4_VENATU_1"
+  },
+  "image_url": "/images/monsters/2625.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 79500,
+    "attack": {
+      "min": 1817,
+      "max": 2615
+    },
+    "magic_attack": {
+      "min": 222,
+      "max": 274
+    },
+    "defense": 95,
+    "magic_defense": 20,
+    "hit_100_percent": 389,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 109,
+      "agi": 70,
+      "vit": 60,
+      "int": 50,
+      "dex": 84,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

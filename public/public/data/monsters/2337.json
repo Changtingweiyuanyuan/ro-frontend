@@ -1,0 +1,41 @@
+{
+  "id": 2337,
+  "name": {
+    "zh_tw": "隱形怪物",
+    "en": "HIDDEN_MOB"
+  },
+  "image_url": "/images/monsters/2337.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "昆蟲",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 10000,
+    "attack": {
+      "min": 351,
+      "max": 351
+    },
+    "magic_attack": {
+      "min": 1051,
+      "max": 1651
+    },
+    "defense": 200,
+    "magic_defense": 10,
+    "hit_100_percent": 591,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 200,
+      "agi": 200,
+      "vit": 200,
+      "int": 200,
+      "dex": 200,
+      "luk": 200
+    }
+  },
+  "drops": []
+}

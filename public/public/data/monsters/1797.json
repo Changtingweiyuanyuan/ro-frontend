@@ -1,0 +1,41 @@
+{
+  "id": 1797,
+  "name": {
+    "zh_tw": "法恩特",
+    "en": "FANAT"
+  },
+  "image_url": "/images/monsters/1797.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21000,
+    "attack": {
+      "min": 893,
+      "max": 1229
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 305
+    },
+    "defense": 81,
+    "magic_defense": 64,
+    "hit_100_percent": 397,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 66,
+      "vit": 70,
+      "int": 47,
+      "dex": 111,
+      "luk": 57
+    }
+  },
+  "drops": []
+}

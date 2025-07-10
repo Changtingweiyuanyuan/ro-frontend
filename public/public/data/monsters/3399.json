@@ -1,0 +1,41 @@
+{
+  "id": 3399,
+  "name": {
+    "zh_tw": "冰波利",
+    "en": "MIN_MARIN"
+  },
+  "image_url": "/images/monsters/3399.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 70000,
+    "attack": {
+      "min": 730,
+      "max": 982
+    },
+    "magic_attack": {
+      "min": 161,
+      "max": 171
+    },
+    "defense": 161,
+    "magic_defense": 8,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 123,
+      "agi": 64,
+      "vit": 83,
+      "int": 49,
+      "dex": 134,
+      "luk": 39
+    }
+  },
+  "drops": []
+}

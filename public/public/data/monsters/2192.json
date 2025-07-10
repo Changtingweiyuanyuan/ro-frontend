@@ -1,0 +1,41 @@
+{
+  "id": 2192,
+  "name": {
+    "zh_tw": "小章魚",
+    "en": "MD_OCTOPUS"
+  },
+  "image_url": "/images/monsters/2192.gif",
+  "basic_info": {
+    "level": 90,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 6000,
+    "attack": {
+      "min": 857,
+      "max": 1169
+    },
+    "magic_attack": {
+      "min": 307,
+      "max": 443
+    },
+    "defense": 154,
+    "magic_defense": 21,
+    "hit_100_percent": 390,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 145,
+      "agi": 91,
+      "vit": 138,
+      "int": 60,
+      "dex": 113,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

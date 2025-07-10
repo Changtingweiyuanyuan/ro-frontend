@@ -1,0 +1,41 @@
+{
+  "id": 2315,
+  "name": {
+    "zh_tw": "食屍鬼",
+    "en": "WAKWAK"
+  },
+  "image_url": "/images/monsters/2315.gif",
+  "basic_info": {
+    "level": 111,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 20012,
+    "attack": {
+      "min": 613,
+      "max": 839
+    },
+    "magic_attack": {
+      "min": 386,
+      "max": 568
+    },
+    "defense": 24,
+    "magic_defense": 71,
+    "hit_100_percent": 392,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 54,
+      "agi": 75,
+      "vit": 64,
+      "int": 65,
+      "dex": 77,
+      "luk": 31
+    }
+  },
+  "drops": []
+}

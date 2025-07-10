@@ -1,0 +1,41 @@
+{
+  "id": 1880,
+  "name": {
+    "zh_tw": "樹林哥布靈",
+    "en": "WOOD_GOBLIN"
+  },
+  "image_url": "/images/monsters/1880.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 5499,
+    "attack": {
+      "min": 323,
+      "max": 409
+    },
+    "magic_attack": {
+      "min": 106,
+      "max": 116
+    },
+    "defense": 144,
+    "magic_defense": 12,
+    "hit_100_percent": 305,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 73,
+      "agi": 19,
+      "vit": 56,
+      "int": 15,
+      "dex": 67,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

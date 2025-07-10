@@ -1,0 +1,41 @@
+{
+  "id": 2810,
+  "name": {
+    "zh_tw": "精英 / 雄壯 七彩大嘴鳥",
+    "en": "C2_GRAND_PECO"
+  },
+  "image_url": "/images/monsters/2810.gif",
+  "basic_info": {
+    "level": 75,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 31500,
+    "attack": {
+      "min": 471,
+      "max": 639
+    },
+    "magic_attack": {
+      "min": 137,
+      "max": 171
+    },
+    "defense": 95,
+    "magic_defense": 30,
+    "hit_100_percent": 325,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 63,
+      "agi": 45,
+      "vit": 50,
+      "int": 23,
+      "dex": 61,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

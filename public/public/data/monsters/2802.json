@@ -1,0 +1,41 @@
+{
+  "id": 2802,
+  "name": {
+    "zh_tw": "精英蚯蚓 / 憤怒蚯蚓",
+    "en": "C4_HODE"
+  },
+  "image_url": "/images/monsters/2802.gif",
+  "basic_info": {
+    "level": 63,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13380,
+    "attack": {
+      "min": 295,
+      "max": 381
+    },
+    "magic_attack": {
+      "min": 99,
+      "max": 127
+    },
+    "defense": 91,
+    "magic_defense": 24,
+    "hit_100_percent": 291,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 20,
+      "vit": 42,
+      "int": 5,
+      "dex": 32,
+      "luk": 40
+    }
+  },
+  "drops": []
+}

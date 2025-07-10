@@ -1,0 +1,41 @@
+{
+  "id": 1506,
+  "name": {
+    "zh_tw": "假面鬼",
+    "en": "DISGUISE"
+  },
+  "image_url": "/images/monsters/1506.gif",
+  "basic_info": {
+    "level": 103,
+    "race": "惡魔",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13895,
+    "attack": {
+      "min": 465,
+      "max": 601
+    },
+    "magic_attack": {
+      "min": 235,
+      "max": 285
+    },
+    "defense": 85,
+    "magic_defense": 58,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 92,
+      "agi": 53,
+      "vit": 57,
+      "int": 75,
+      "dex": 80,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

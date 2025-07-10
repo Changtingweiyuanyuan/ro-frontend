@@ -1,0 +1,41 @@
+{
+  "id": 2793,
+  "name": {
+    "zh_tw": "精英米糕 / 狡猾米糕",
+    "en": "C5_INCREASE_SOIL"
+  },
+  "image_url": "/images/monsters/2793.gif",
+  "basic_info": {
+    "level": 83,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 26675,
+    "attack": {
+      "min": 500,
+      "max": 676
+    },
+    "magic_attack": {
+      "min": 153,
+      "max": 171
+    },
+    "defense": 112,
+    "magic_defense": 39,
+    "hit_100_percent": 312,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 23,
+      "vit": 41,
+      "int": 49,
+      "dex": 94,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

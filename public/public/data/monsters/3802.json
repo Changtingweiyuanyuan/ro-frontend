@@ -1,0 +1,41 @@
+{
+  "id": 3802,
+  "name": {
+    "zh_tw": "不祥岩石龜",
+    "en": "ILL_SOLIDER"
+  },
+  "image_url": "/images/monsters/3802.gif",
+  "basic_info": {
+    "level": 161,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 592310,
+    "attack": {
+      "min": 2819,
+      "max": 4071
+    },
+    "magic_attack": {
+      "min": 502,
+      "max": 760
+    },
+    "defense": 406,
+    "magic_defense": 116,
+    "hit_100_percent": 471,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 155,
+      "agi": 100,
+      "vit": 170,
+      "int": 42,
+      "dex": 133,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

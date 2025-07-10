@@ -1,0 +1,41 @@
+{
+  "id": 2532,
+  "name": {
+    "zh_tw": "紅色驚駭森靈女王 / 人面蟲皇后",
+    "en": "FACEWORM_QUEEN_R"
+  },
+  "image_url": "/images/monsters/2532.gif",
+  "basic_info": {
+    "level": 155,
+    "race": "昆蟲",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 50000000,
+    "attack": {
+      "min": 10255,
+      "max": 15055
+    },
+    "magic_attack": {
+      "min": 10855,
+      "max": 19855
+    },
+    "defense": 400,
+    "magic_defense": 400,
+    "hit_100_percent": 475,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 500,
+      "agi": 100,
+      "vit": 200,
+      "int": 200,
+      "dex": 200,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

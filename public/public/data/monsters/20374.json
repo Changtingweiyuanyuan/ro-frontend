@@ -1,0 +1,41 @@
+{
+  "id": 20374,
+  "name": {
+    "zh_tw": "堅硬七彩飛龍",
+    "en": "DELETER1_H"
+  },
+  "image_url": "/images/monsters/20374.gif",
+  "basic_info": {
+    "level": 174,
+    "race": "龍",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1189532,
+    "attack": {
+      "min": 2308,
+      "max": 3318
+    },
+    "magic_attack": {
+      "min": 867,
+      "max": 1397
+    },
+    "defense": 290,
+    "magic_defense": 51,
+    "hit_100_percent": 492,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 116,
+      "agi": 109,
+      "vit": 63,
+      "int": 76,
+      "dex": 119,
+      "luk": 47
+    }
+  },
+  "drops": []
+}

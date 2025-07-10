@@ -1,0 +1,41 @@
+{
+  "id": 1655,
+  "name": {
+    "zh_tw": "暗●服事",
+    "en": "EREND"
+  },
+  "image_url": "/images/monsters/1655.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "人形",
+    "element": {
+      "type": "聖",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 42764,
+    "attack": {
+      "min": 959,
+      "max": 1335
+    },
+    "magic_attack": {
+      "min": 664,
+      "max": 996
+    },
+    "defense": 106,
+    "magic_defense": 99,
+    "hit_100_percent": 411,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 66,
+      "vit": 90,
+      "int": 145,
+      "dex": 131,
+      "luk": 62
+    }
+  },
+  "drops": []
+}

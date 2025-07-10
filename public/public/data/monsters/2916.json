@@ -1,0 +1,41 @@
+{
+  "id": 2916,
+  "name": {
+    "zh_tw": "大笨鐘 / 大古鐘",
+    "en": "BIG_BEN"
+  },
+  "image_url": "/images/monsters/2916.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 222240,
+    "attack": {
+      "min": 2742,
+      "max": 3984
+    },
+    "magic_attack": {
+      "min": 383,
+      "max": 511
+    },
+    "defense": 125,
+    "magic_defense": 43,
+    "hit_100_percent": 427,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 58,
+      "vit": 69,
+      "int": 75,
+      "dex": 131,
+      "luk": 49
+    }
+  },
+  "drops": []
+}

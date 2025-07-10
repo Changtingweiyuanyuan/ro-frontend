@@ -1,0 +1,41 @@
+{
+  "id": 1459,
+  "name": {
+    "zh_tw": "傀儡娃娃",
+    "en": "G_MARIONETTE"
+  },
+  "image_url": "/images/monsters/1459.gif",
+  "basic_info": {
+    "level": 62,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 2209,
+    "attack": {
+      "min": 253,
+      "max": 323
+    },
+    "magic_attack": {
+      "min": 126,
+      "max": 160
+    },
+    "defense": 71,
+    "magic_defense": 35,
+    "hit_100_percent": 302,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 52,
+      "agi": 36,
+      "vit": 28,
+      "int": 25,
+      "dex": 62,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

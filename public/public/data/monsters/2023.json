@@ -1,0 +1,41 @@
+{
+  "id": 2023,
+  "name": {
+    "zh_tw": "黑影幽靈",
+    "en": "DARK_SHADOW"
+  },
+  "image_url": "/images/monsters/2023.gif",
+  "basic_info": {
+    "level": 147,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 434300,
+    "attack": {
+      "min": 1384,
+      "max": 1926
+    },
+    "magic_attack": {
+      "min": 364,
+      "max": 460
+    },
+    "defense": 140,
+    "magic_defense": 44,
+    "hit_100_percent": 488,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 155,
+      "agi": 126,
+      "vit": 89,
+      "int": 108,
+      "dex": 213,
+      "luk": 76
+    }
+  },
+  "drops": []
+}

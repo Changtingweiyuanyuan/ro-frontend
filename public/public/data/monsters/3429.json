@@ -1,0 +1,41 @@
+{
+  "id": 3429,
+  "name": {
+    "zh_tw": "獸人英雄",
+    "en": "MIN_ORK_HERO"
+  },
+  "image_url": "/images/monsters/3429.gif",
+  "basic_info": {
+    "level": 107,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 6650000,
+    "attack": {
+      "min": 2604,
+      "max": 3804
+    },
+    "magic_attack": {
+      "min": 486,
+      "max": 752
+    },
+    "defense": 197,
+    "magic_defense": 70,
+    "hit_100_percent": 397,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 97,
+      "agi": 82,
+      "vit": 107,
+      "int": 71,
+      "dex": 144,
+      "luk": 43
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2723,
+  "name": {
+    "zh_tw": "精英獸人腐屍 / 狡猾阿修羅狂戰士",
+    "en": "C5_ORC_ZOMBIE"
+  },
+  "image_url": "/images/monsters/2723.gif",
+  "basic_info": {
+    "level": 51,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 9540,
+    "attack": {
+      "min": 204,
+      "max": 260
+    },
+    "magic_attack": {
+      "min": 66,
+      "max": 76
+    },
+    "defense": 71,
+    "magic_defense": 5,
+    "hit_100_percent": 269,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 45,
+      "agi": 17,
+      "vit": 32,
+      "int": 5,
+      "dex": 57,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

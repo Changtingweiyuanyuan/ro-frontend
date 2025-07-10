@@ -1,0 +1,41 @@
+{
+  "id": 20621,
+  "name": {
+    "zh_tw": "咪魘紅椒 / 卡帕",
+    "en": "MD_REDPEPPER_H"
+  },
+  "image_url": "/images/monsters/20621.gif",
+  "basic_info": {
+    "level": 185,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1008398847,
+    "attack": {
+      "min": 3402,
+      "max": 4930
+    },
+    "magic_attack": {
+      "min": 1794,
+      "max": 3030
+    },
+    "defense": 386,
+    "magic_defense": 113,
+    "hit_100_percent": 499,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 103,
+      "vit": 67,
+      "int": 167,
+      "dex": 146,
+      "luk": 57
+    }
+  },
+  "drops": []
+}

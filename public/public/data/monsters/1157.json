@@ -1,0 +1,41 @@
+{
+  "id": 1157,
+  "name": {
+    "zh_tw": "法老王",
+    "en": "PHARAOH"
+  },
+  "image_url": "/images/monsters/1157.gif",
+  "basic_info": {
+    "level": 85,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 900000,
+    "attack": {
+      "min": 1482,
+      "max": 2132
+    },
+    "magic_attack": {
+      "min": 1474,
+      "max": 2544
+    },
+    "defense": 124,
+    "magic_defense": 269,
+    "hit_100_percent": 407,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 98,
+      "agi": 102,
+      "vit": 96,
+      "int": 142,
+      "dex": 173,
+      "luk": 102
+    }
+  },
+  "drops": []
+}

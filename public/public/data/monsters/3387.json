@@ -1,0 +1,41 @@
+{
+  "id": 3387,
+  "name": {
+    "zh_tw": "小雞",
+    "en": "MIN_PICKY"
+  },
+  "image_url": "/images/monsters/3387.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 25000,
+    "attack": {
+      "min": 691,
+      "max": 931
+    },
+    "magic_attack": {
+      "min": 137,
+      "max": 139
+    },
+    "defense": 149,
+    "magic_defense": 3,
+    "hit_100_percent": 357,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 52,
+      "vit": 71,
+      "int": 37,
+      "dex": 122,
+      "luk": 27
+    }
+  },
+  "drops": []
+}

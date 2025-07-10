@@ -1,0 +1,41 @@
+{
+  "id": 2736,
+  "name": {
+    "zh_tw": "精英亡靈巫師 / 菁英行妖術者",
+    "en": "C3_NECROMANCER"
+  },
+  "image_url": "/images/monsters/2736.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 456520,
+    "attack": {
+      "min": 1545,
+      "max": 2197
+    },
+    "magic_attack": {
+      "min": 953,
+      "max": 1557
+    },
+    "defense": 84,
+    "magic_defense": 73,
+    "hit_100_percent": 393,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 108,
+      "agi": 54,
+      "vit": 77,
+      "int": 116,
+      "dex": 137,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

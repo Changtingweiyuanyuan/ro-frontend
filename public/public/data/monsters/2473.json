@@ -1,0 +1,41 @@
+{
+  "id": 2473,
+  "name": {
+    "zh_tw": "痛苦皇家騎士 / 破滅的第1騎士團長",
+    "en": "MG_M_UNDEAD_KNIGHT"
+  },
+  "image_url": "/images/monsters/2473.gif",
+  "basic_info": {
+    "level": 145,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 950033,
+    "attack": {
+      "min": 2966,
+      "max": 4296
+    },
+    "magic_attack": {
+      "min": 973,
+      "max": 1579
+    },
+    "defense": 80,
+    "magic_defense": 150,
+    "hit_100_percent": 437,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 82,
+      "vit": 110,
+      "int": 122,
+      "dex": 154,
+      "luk": 52
+    }
+  },
+  "drops": []
+}

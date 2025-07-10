@@ -1,0 +1,41 @@
+{
+  "id": 2694,
+  "name": {
+    "zh_tw": "精英奈吉鳥 / 狡猾奈吉鳥",
+    "en": "C5_RAGGLER"
+  },
+  "image_url": "/images/monsters/2694.gif",
+  "basic_info": {
+    "level": 48,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 5740,
+    "attack": {
+      "min": 146,
+      "max": 182
+    },
+    "magic_attack": {
+      "min": 90,
+      "max": 114
+    },
+    "defense": 56,
+    "magic_defense": 10,
+    "hit_100_percent": 295,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 30,
+      "agi": 42,
+      "vit": 38,
+      "int": 15,
+      "dex": 54,
+      "luk": 27
+    }
+  },
+  "drops": []
+}

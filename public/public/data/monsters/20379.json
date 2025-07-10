@@ -1,0 +1,41 @@
+{
+  "id": 20379,
+  "name": {
+    "zh_tw": "冰魔巫師",
+    "en": "ICE_GHOST_H"
+  },
+  "image_url": "/images/monsters/20379.gif",
+  "basic_info": {
+    "level": 189,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2418315,
+    "attack": {
+      "min": 2438,
+      "max": 3506
+    },
+    "magic_attack": {
+      "min": 1828,
+      "max": 3092
+    },
+    "defense": 390,
+    "magic_defense": 115,
+    "hit_100_percent": 503,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 113,
+      "agi": 103,
+      "vit": 67,
+      "int": 167,
+      "dex": 146,
+      "luk": 57
+    }
+  },
+  "drops": []
+}

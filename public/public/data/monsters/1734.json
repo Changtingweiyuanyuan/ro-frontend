@@ -1,0 +1,41 @@
+{
+  "id": 1734,
+  "name": {
+    "zh_tw": "基爾 D-01 / 齊爾 D-01",
+    "en": "KIEL_"
+  },
+  "image_url": "/images/monsters/1734.gif",
+  "basic_info": {
+    "level": 125,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2502000,
+    "attack": {
+      "min": 3580,
+      "max": 5226
+    },
+    "magic_attack": {
+      "min": 2772,
+      "max": 4920
+    },
+    "defense": 314,
+    "magic_defense": 232,
+    "hit_100_percent": 548,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 166,
+      "agi": 187,
+      "vit": 155,
+      "int": 141,
+      "dex": 279,
+      "luk": 180
+    }
+  },
+  "drops": []
+}

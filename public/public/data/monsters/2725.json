@@ -1,0 +1,41 @@
+{
+  "id": 2725,
+  "name": {
+    "zh_tw": "精英 / 雄壯 獸人女戰士",
+    "en": "C2_ORC_LADY"
+  },
+  "image_url": "/images/monsters/2725.gif",
+  "basic_info": {
+    "level": 45,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 15200,
+    "attack": {
+      "min": 154,
+      "max": 192
+    },
+    "magic_attack": {
+      "min": 78,
+      "max": 98
+    },
+    "defense": 83,
+    "magic_defense": 17,
+    "hit_100_percent": 257,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 36,
+      "agi": 11,
+      "vit": 28,
+      "int": 10,
+      "dex": 57,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

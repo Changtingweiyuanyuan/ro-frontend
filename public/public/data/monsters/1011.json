@@ -1,0 +1,41 @@
+{
+  "id": 1011,
+  "name": {
+    "zh_tw": "蒼蠅",
+    "en": "CHONCHON"
+  },
+  "image_url": "/images/monsters/1011.gif",
+  "basic_info": {
+    "level": 5,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 57,
+    "attack": {
+      "min": 26,
+      "max": 32
+    },
+    "magic_attack": {
+      "min": 8,
+      "max": 10
+    },
+    "defense": 27,
+    "magic_defense": 0,
+    "hit_100_percent": 210,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 13,
+      "agi": 4,
+      "vit": 4,
+      "int": 1,
+      "dex": 8,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

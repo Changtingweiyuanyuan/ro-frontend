@@ -1,0 +1,41 @@
+{
+  "id": 1213,
+  "name": {
+    "zh_tw": "獸人戰士長",
+    "en": "HIGH_ORC"
+  },
+  "image_url": "/images/monsters/1213.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 4193,
+    "attack": {
+      "min": 498,
+      "max": 670
+    },
+    "magic_attack": {
+      "min": 147,
+      "max": 177
+    },
+    "defense": 101,
+    "magic_defense": 45,
+    "hit_100_percent": 301,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 75,
+      "agi": 16,
+      "vit": 40,
+      "int": 31,
+      "dex": 83,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

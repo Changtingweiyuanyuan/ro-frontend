@@ -1,0 +1,41 @@
+{
+  "id": 1093,
+  "name": {
+    "zh_tw": "藍瘋兔",
+    "en": "ECLIPSE"
+  },
+  "image_url": "/images/monsters/1093.gif",
+  "basic_info": {
+    "level": 31,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 625,
+    "attack": {
+      "min": 99,
+      "max": 123
+    },
+    "magic_attack": {
+      "min": 62,
+      "max": 74
+    },
+    "defense": 50,
+    "magic_defense": 20,
+    "hit_100_percent": 270,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 20,
+      "agi": 28,
+      "vit": 35,
+      "int": 17,
+      "dex": 27,
+      "luk": 55
+    }
+  },
+  "drops": []
+}

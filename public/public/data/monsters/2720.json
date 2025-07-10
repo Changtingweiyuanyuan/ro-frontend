@@ -1,0 +1,41 @@
+{
+  "id": 2720,
+  "name": {
+    "zh_tw": "精英 / 雄壯 苗娃佩瑞絲",
+    "en": "C2_PARASITE"
+  },
+  "image_url": "/images/monsters/2720.gif",
+  "basic_info": {
+    "level": 76,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 32220,
+    "attack": {
+      "min": 300,
+      "max": 386
+    },
+    "magic_attack": {
+      "min": 157,
+      "max": 185
+    },
+    "defense": 63,
+    "magic_defense": 30,
+    "hit_100_percent": 362,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 55,
+      "agi": 78,
+      "vit": 33,
+      "int": 50,
+      "dex": 106,
+      "luk": 40
+    }
+  },
+  "drops": []
+}

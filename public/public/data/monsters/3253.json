@@ -1,0 +1,41 @@
+{
+  "id": 3253,
+  "name": {
+    "zh_tw": "系統訊息",
+    "en": "SYS_MSG"
+  },
+  "image_url": "/images/monsters/3253.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 100,
+    "attack": {
+      "min": 161,
+      "max": 163
+    },
+    "magic_attack": {
+      "min": 348,
+      "max": 350
+    },
+    "defense": 276,
+    "magic_defense": 99,
+    "hit_100_percent": 361,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 1,
+      "agi": 1,
+      "vit": 1,
+      "int": 188,
+      "dex": 1,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

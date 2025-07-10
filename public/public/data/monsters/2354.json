@@ -1,0 +1,41 @@
+{
+  "id": 2354,
+  "name": {
+    "zh_tw": "木乃伊-咪魘",
+    "en": "N_MUMMY"
+  },
+  "image_url": "/images/monsters/2354.gif",
+  "basic_info": {
+    "level": 117,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22557,
+    "attack": {
+      "min": 786,
+      "max": 1092
+    },
+    "magic_attack": {
+      "min": 252,
+      "max": 368
+    },
+    "defense": 110,
+    "magic_defense": 21,
+    "hit_100_percent": 322,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 5,
+      "vit": 21,
+      "int": 1,
+      "dex": 72,
+      "luk": 1
+    }
+  },
+  "drops": []
+}

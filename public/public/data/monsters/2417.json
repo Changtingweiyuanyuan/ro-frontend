@@ -1,0 +1,41 @@
+{
+  "id": 2417,
+  "name": {
+    "zh_tw": "暗●鐵匠",
+    "en": "L_HARWORD"
+  },
+  "image_url": "/images/monsters/2417.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 11803,
+    "attack": {
+      "min": 847,
+      "max": 1161
+    },
+    "magic_attack": {
+      "min": 322,
+      "max": 474
+    },
+    "defense": 117,
+    "magic_defense": 9,
+    "hit_100_percent": 377,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 124,
+      "agi": 71,
+      "vit": 55,
+      "int": 47,
+      "dex": 73,
+      "luk": 43
+    }
+  },
+  "drops": []
+}

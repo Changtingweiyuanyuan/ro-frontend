@@ -1,0 +1,41 @@
+{
+  "id": 1368,
+  "name": {
+    "zh_tw": "邪惡向日葵",
+    "en": "GEOGRAPHER"
+  },
+  "image_url": "/images/monsters/1368.gif",
+  "basic_info": {
+    "level": 73,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3866,
+    "attack": {
+      "min": 401,
+      "max": 525
+    },
+    "magic_attack": {
+      "min": 186,
+      "max": 236
+    },
+    "defense": 158,
+    "magic_defense": 42,
+    "hit_100_percent": 311,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 81,
+      "agi": 26,
+      "vit": 35,
+      "int": 56,
+      "dex": 72,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

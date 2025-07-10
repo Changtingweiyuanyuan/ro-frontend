@@ -1,0 +1,41 @@
+{
+  "id": 1316,
+  "name": {
+    "zh_tw": "岩石龜",
+    "en": "SOLIDER"
+  },
+  "image_url": "/images/monsters/1316.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8768,
+    "attack": {
+      "min": 450,
+      "max": 598
+    },
+    "magic_attack": {
+      "min": 135,
+      "max": 159
+    },
+    "defense": 206,
+    "magic_defense": 58,
+    "hit_100_percent": 340,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 65,
+      "agi": 44,
+      "vit": 60,
+      "int": 15,
+      "dex": 56,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

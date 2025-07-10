@@ -1,0 +1,41 @@
+{
+  "id": 1424,
+  "name": {
+    "zh_tw": "黑蛇",
+    "en": "G_SIDE_WINDER"
+  },
+  "image_url": "/images/monsters/1424.gif",
+  "basic_info": {
+    "level": 70,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2736,
+    "attack": {
+      "min": 374,
+      "max": 502
+    },
+    "magic_attack": {
+      "min": 111,
+      "max": 129
+    },
+    "defense": 101,
+    "magic_defense": 12,
+    "hit_100_percent": 305,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 52,
+      "agi": 32,
+      "vit": 35,
+      "int": 20,
+      "dex": 73,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2072,
+  "name": {
+    "zh_tw": "美洲虎",
+    "en": "JAGUAR"
+  },
+  "image_url": "/images/monsters/2072.gif",
+  "basic_info": {
+    "level": 71,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3914,
+    "attack": {
+      "min": 308,
+      "max": 394
+    },
+    "magic_attack": {
+      "min": 105,
+      "max": 131
+    },
+    "defense": 44,
+    "magic_defense": 15,
+    "hit_100_percent": 302,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 30,
+      "vit": 45,
+      "int": 5,
+      "dex": 71,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

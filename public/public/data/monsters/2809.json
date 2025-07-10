@@ -1,0 +1,41 @@
+{
+  "id": 2809,
+  "name": {
+    "zh_tw": "精英將軍魔碑 / 迅捷將軍魔碑",
+    "en": "C1_GREATEST_GENERAL"
+  },
+  "image_url": "/images/monsters/2809.gif",
+  "basic_info": {
+    "level": 55,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 7875,
+    "attack": {
+      "min": 329,
+      "max": 439
+    },
+    "magic_attack": {
+      "min": 98,
+      "max": 114
+    },
+    "defense": 114,
+    "magic_defense": 30,
+    "hit_100_percent": 289,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 30,
+      "vit": 20,
+      "int": 25,
+      "dex": 28,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

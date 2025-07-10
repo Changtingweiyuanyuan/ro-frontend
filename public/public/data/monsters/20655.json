@@ -1,0 +1,41 @@
+{
+  "id": 20655,
+  "name": {
+    "zh_tw": "黃肉食人火龍果",
+    "en": "G_PITAYA_Y"
+  },
+  "image_url": "/images/monsters/20655.gif",
+  "basic_info": {
+    "level": 134,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 162599,
+    "attack": {
+      "min": 1170,
+      "max": 1654
+    },
+    "magic_attack": {
+      "min": 583,
+      "max": 917
+    },
+    "defense": 335,
+    "magic_defense": 94,
+    "hit_100_percent": 417,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 68,
+      "vit": 67,
+      "int": 62,
+      "dex": 110,
+      "luk": 76
+    }
+  },
+  "drops": []
+}

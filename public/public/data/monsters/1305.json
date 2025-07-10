@@ -1,0 +1,41 @@
+{
+  "id": 1305,
+  "name": {
+    "zh_tw": "狂暴蜈蚣",
+    "en": "ANCIENT_WORM"
+  },
+  "image_url": "/images/monsters/1305.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 24005,
+    "attack": {
+      "min": 1031,
+      "max": 1453
+    },
+    "magic_attack": {
+      "min": 269,
+      "max": 349
+    },
+    "defense": 90,
+    "magic_defense": 41,
+    "hit_100_percent": 385,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 56,
+      "vit": 56,
+      "int": 55,
+      "dex": 84,
+      "luk": 42
+    }
+  },
+  "drops": []
+}

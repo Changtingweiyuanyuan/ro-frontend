@@ -1,0 +1,41 @@
+{
+  "id": 1719,
+  "name": {
+    "zh_tw": "迪塔勒泰晤勒斯",
+    "en": "DETALE"
+  },
+  "image_url": "/images/monsters/1719.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "龍",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 6005000,
+    "attack": {
+      "min": 5186,
+      "max": 7630
+    },
+    "magic_attack": {
+      "min": 2134,
+      "max": 3732
+    },
+    "defense": 364,
+    "magic_defense": 166,
+    "hit_100_percent": 502,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 153,
+      "vit": 171,
+      "int": 136,
+      "dex": 278,
+      "luk": 72
+    }
+  },
+  "drops": []
+}

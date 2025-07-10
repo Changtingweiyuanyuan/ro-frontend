@@ -1,0 +1,41 @@
+{
+  "id": 2987,
+  "name": {
+    "zh_tw": "惡靈樹裝飾 / 驚悚的裝飾樹",
+    "en": "XM_TREE"
+  },
+  "image_url": "/images/monsters/2987.gif",
+  "basic_info": {
+    "level": 148,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 544444,
+    "attack": {
+      "min": 1347,
+      "max": 1925
+    },
+    "magic_attack": {
+      "min": 1202,
+      "max": 2070
+    },
+    "defense": 116,
+    "magic_defense": 44,
+    "hit_100_percent": 422,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 44,
+      "agi": 66,
+      "vit": 44,
+      "int": 44,
+      "dex": 144,
+      "luk": 44
+    }
+  },
+  "drops": []
+}

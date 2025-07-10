@@ -1,0 +1,41 @@
+{
+  "id": 1323,
+  "name": {
+    "zh_tw": "海獺",
+    "en": "SEE_OTTER"
+  },
+  "image_url": "/images/monsters/1323.gif",
+  "basic_info": {
+    "level": 48,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1820,
+    "attack": {
+      "min": 146,
+      "max": 180
+    },
+    "magic_attack": {
+      "min": 103,
+      "max": 129
+    },
+    "defense": 31,
+    "magic_defense": 18,
+    "hit_100_percent": 279,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 32,
+      "agi": 26,
+      "vit": 33,
+      "int": 26,
+      "dex": 41,
+      "luk": 28
+    }
+  },
+  "drops": []
+}

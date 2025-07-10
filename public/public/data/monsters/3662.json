@@ -1,0 +1,41 @@
+{
+  "id": 3662,
+  "name": {
+    "zh_tw": "南瓜先生",
+    "en": "MD_JAKK_100"
+  },
+  "image_url": "/images/monsters/3662.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23933,
+    "attack": {
+      "min": 674,
+      "max": 928
+    },
+    "magic_attack": {
+      "min": 514,
+      "max": 840
+    },
+    "defense": 90,
+    "magic_defense": 25,
+    "hit_100_percent": 368,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 68,
+      "agi": 63,
+      "vit": 62,
+      "int": 35,
+      "dex": 91,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

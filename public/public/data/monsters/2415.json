@@ -1,0 +1,41 @@
+{
+  "id": 2415,
+  "name": {
+    "zh_tw": "暗●騎士",
+    "en": "L_SEYREN"
+  },
+  "image_url": "/images/monsters/2415.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "人形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13260,
+    "attack": {
+      "min": 886,
+      "max": 1218
+    },
+    "magic_attack": {
+      "min": 341,
+      "max": 513
+    },
+    "defense": 149,
+    "magic_defense": 10,
+    "hit_100_percent": 369,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 127,
+      "agi": 62,
+      "vit": 77,
+      "int": 44,
+      "dex": 118,
+      "luk": 49
+    }
+  },
+  "drops": []
+}

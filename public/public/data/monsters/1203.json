@@ -1,0 +1,41 @@
+{
+  "id": 1203,
+  "name": {
+    "zh_tw": "弒神者",
+    "en": "MYSTELTAINN"
+  },
+  "image_url": "/images/monsters/1203.gif",
+  "basic_info": {
+    "level": 130,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 70000,
+    "attack": {
+      "min": 1095,
+      "max": 1527
+    },
+    "magic_attack": {
+      "min": 591,
+      "max": 933
+    },
+    "defense": 73,
+    "magic_defense": 61,
+    "hit_100_percent": 482,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 139,
+      "vit": 62,
+      "int": 65,
+      "dex": 182,
+      "luk": 65
+    }
+  },
+  "drops": []
+}

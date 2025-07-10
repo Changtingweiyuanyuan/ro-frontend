@@ -1,0 +1,41 @@
+{
+  "id": 2651,
+  "name": {
+    "zh_tw": "精英鬼女 / 迅捷鬼女",
+    "en": "C1_SOHEE"
+  },
+  "image_url": "/images/monsters/2651.gif",
+  "basic_info": {
+    "level": 64,
+    "race": "惡魔",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 14375,
+    "attack": {
+      "min": 294,
+      "max": 380
+    },
+    "magic_attack": {
+      "min": 105,
+      "max": 123
+    },
+    "defense": 61,
+    "magic_defense": 21,
+    "hit_100_percent": 293,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 24,
+      "vit": 29,
+      "int": 20,
+      "dex": 41,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

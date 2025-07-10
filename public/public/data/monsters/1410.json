@@ -1,0 +1,41 @@
+{
+  "id": 1410,
+  "name": {
+    "zh_tw": "猴桃木",
+    "en": "LIVE_PEACH_TREE"
+  },
+  "image_url": "/images/monsters/1410.gif",
+  "basic_info": {
+    "level": 92,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8777,
+    "attack": {
+      "min": 448,
+      "max": 590
+    },
+    "magic_attack": {
+      "min": 182,
+      "max": 226
+    },
+    "defense": 109,
+    "magic_defense": 40,
+    "hit_100_percent": 354,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 76,
+      "agi": 52,
+      "vit": 55,
+      "int": 40,
+      "dex": 92,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

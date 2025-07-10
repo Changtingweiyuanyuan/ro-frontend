@@ -1,0 +1,41 @@
+{
+  "id": 2686,
+  "name": {
+    "zh_tw": "精英代行刑者 / 迅捷代行刑者",
+    "en": "C1_RETRIBUTION"
+  },
+  "image_url": "/images/monsters/2686.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "天使",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 110760,
+    "attack": {
+      "min": 1305,
+      "max": 1841
+    },
+    "magic_attack": {
+      "min": 810,
+      "max": 1294
+    },
+    "defense": 61,
+    "magic_defense": 35,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 112,
+      "agi": 60,
+      "vit": 45,
+      "int": 127,
+      "dex": 149,
+      "luk": 70
+    }
+  },
+  "drops": []
+}

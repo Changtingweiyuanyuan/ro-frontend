@@ -1,0 +1,41 @@
+{
+  "id": 2340,
+  "name": {
+    "zh_tw": "惡魔嬰兒",
+    "en": "MD_TIYANAK"
+  },
+  "image_url": "/images/monsters/2340.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 50211,
+    "attack": {
+      "min": 511,
+      "max": 695
+    },
+    "magic_attack": {
+      "min": 331,
+      "max": 483
+    },
+    "defense": 76,
+    "magic_defense": 21,
+    "hit_100_percent": 372,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 41,
+      "agi": 58,
+      "vit": 41,
+      "int": 51,
+      "dex": 72,
+      "luk": 47
+    }
+  },
+  "drops": []
+}

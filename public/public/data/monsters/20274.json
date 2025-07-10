@@ -1,0 +1,41 @@
+{
+  "id": 20274,
+  "name": {
+    "zh_tw": "古代石炮火樹",
+    "en": "ILL_STONE_SHOOTER"
+  },
+  "image_url": "/images/monsters/20274.gif",
+  "basic_info": {
+    "level": 166,
+    "race": "植物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 692500,
+    "attack": {
+      "min": 2432,
+      "max": 3518
+    },
+    "magic_attack": {
+      "min": 567,
+      "max": 873
+    },
+    "defense": 184,
+    "magic_defense": 15,
+    "hit_100_percent": 462,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 98,
+      "agi": 86,
+      "vit": 68,
+      "int": 44,
+      "dex": 215,
+      "luk": 54
+    }
+  },
+  "drops": []
+}

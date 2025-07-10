@@ -1,0 +1,41 @@
+{
+  "id": 1375,
+  "name": {
+    "zh_tw": "紙妖",
+    "en": "THE_PAPER"
+  },
+  "image_url": "/images/monsters/1375.gif",
+  "basic_info": {
+    "level": 97,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 8500,
+    "attack": {
+      "min": 465,
+      "max": 611
+    },
+    "magic_attack": {
+      "min": 179,
+      "max": 245
+    },
+    "defense": 32,
+    "magic_defense": 39,
+    "hit_100_percent": 347,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 49,
+      "vit": 30,
+      "int": 5,
+      "dex": 73,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

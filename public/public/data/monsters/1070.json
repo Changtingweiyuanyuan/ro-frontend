@@ -1,0 +1,41 @@
+{
+  "id": 1070,
+  "name": {
+    "zh_tw": "庫克雷",
+    "en": "KUKRE"
+  },
+  "image_url": "/images/monsters/1070.gif",
+  "basic_info": {
+    "level": 42,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1111,
+    "attack": {
+      "min": 119,
+      "max": 145
+    },
+    "magic_attack": {
+      "min": 81,
+      "max": 99
+    },
+    "defense": 33,
+    "magic_defense": 23,
+    "hit_100_percent": 276,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 25,
+      "agi": 30,
+      "vit": 22,
+      "int": 20,
+      "dex": 32,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

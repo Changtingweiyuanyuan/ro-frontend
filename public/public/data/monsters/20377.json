@@ -1,0 +1,41 @@
+{
+  "id": 20377,
+  "name": {
+    "zh_tw": "堅硬卡浩",
+    "en": "KAHO_H"
+  },
+  "image_url": "/images/monsters/20377.gif",
+  "basic_info": {
+    "level": 173,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1178774,
+    "attack": {
+      "min": 1929,
+      "max": 2761
+    },
+    "magic_attack": {
+      "min": 1524,
+      "max": 2556
+    },
+    "defense": 208,
+    "magic_defense": 70,
+    "hit_100_percent": 513,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 96,
+      "agi": 130,
+      "vit": 29,
+      "int": 149,
+      "dex": 112,
+      "luk": 51
+    }
+  },
+  "drops": []
+}

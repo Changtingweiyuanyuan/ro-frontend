@@ -1,0 +1,41 @@
+{
+  "id": 1065,
+  "name": {
+    "zh_tw": "海神",
+    "en": "STROUF"
+  },
+  "image_url": "/images/monsters/1065.gif",
+  "basic_info": {
+    "level": 61,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 3052,
+    "attack": {
+      "min": 246,
+      "max": 314
+    },
+    "magic_attack": {
+      "min": 102,
+      "max": 120
+    },
+    "defense": 67,
+    "magic_defense": 21,
+    "hit_100_percent": 281,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 49,
+      "agi": 16,
+      "vit": 31,
+      "int": 20,
+      "dex": 36,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

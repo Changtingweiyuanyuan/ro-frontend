@@ -1,0 +1,41 @@
+{
+  "id": 2310,
+  "name": {
+    "zh_tw": "昂坎圖",
+    "en": "ENGKANTO"
+  },
+  "image_url": "/images/monsters/2310.gif",
+  "basic_info": {
+    "level": 125,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23948,
+    "attack": {
+      "min": 733,
+      "max": 1003
+    },
+    "magic_attack": {
+      "min": 268,
+      "max": 344
+    },
+    "defense": 101,
+    "magic_defense": 41,
+    "hit_100_percent": 387,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 68,
+      "agi": 57,
+      "vit": 49,
+      "int": 57,
+      "dex": 81,
+      "luk": 27
+    }
+  },
+  "drops": []
+}

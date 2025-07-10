@@ -1,0 +1,41 @@
+{
+  "id": 1978,
+  "name": {
+    "zh_tw": "地獄阿修羅機械戰士",
+    "en": "HELL_APOCALIPS"
+  },
+  "image_url": "/images/monsters/1978.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 22100,
+    "attack": {
+      "min": 1129,
+      "max": 1567
+    },
+    "magic_attack": {
+      "min": 254,
+      "max": 328
+    },
+    "defense": 155,
+    "magic_defense": 43,
+    "hit_100_percent": 390,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 135,
+      "agi": 62,
+      "vit": 80,
+      "int": 48,
+      "dex": 125,
+      "luk": 37
+    }
+  },
+  "drops": []
+}

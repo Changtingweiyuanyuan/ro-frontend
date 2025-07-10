@@ -1,0 +1,41 @@
+{
+  "id": 1108,
+  "name": {
+    "zh_tw": "狄奧斯",
+    "en": "DEVIACE"
+  },
+  "image_url": "/images/monsters/1108.gif",
+  "basic_info": {
+    "level": 60,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3135,
+    "attack": {
+      "min": 251,
+      "max": 319
+    },
+    "magic_attack": {
+      "min": 105,
+      "max": 123
+    },
+    "defense": 51,
+    "magic_defense": 16,
+    "hit_100_percent": 289,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 57,
+      "agi": 26,
+      "vit": 32,
+      "int": 25,
+      "dex": 50,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

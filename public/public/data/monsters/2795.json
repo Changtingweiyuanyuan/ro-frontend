@@ -1,0 +1,41 @@
+{
+  "id": 2795,
+  "name": {
+    "zh_tw": "精英亞拉 / 雄壯亞拉",
+    "en": "C2_IARA"
+  },
+  "image_url": "/images/monsters/2795.gif",
+  "basic_info": {
+    "level": 79,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 58900,
+    "attack": {
+      "min": 328,
+      "max": 418
+    },
+    "magic_attack": {
+      "min": 208,
+      "max": 268
+    },
+    "defense": 0,
+    "magic_defense": 76,
+    "hit_100_percent": 297,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 69,
+      "agi": 14,
+      "vit": 41,
+      "int": 60,
+      "dex": 83,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

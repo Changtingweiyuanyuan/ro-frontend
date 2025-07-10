@@ -1,0 +1,41 @@
+{
+  "id": 2689,
+  "name": {
+    "zh_tw": "精英紅海星 / 狡猾紅海星",
+    "en": "C5_RED_ERUMA"
+  },
+  "image_url": "/images/monsters/2689.gif",
+  "basic_info": {
+    "level": 91,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 49500,
+    "attack": {
+      "min": 763,
+      "max": 1061
+    },
+    "magic_attack": {
+      "min": 315,
+      "max": 489
+    },
+    "defense": 102,
+    "magic_defense": 102,
+    "hit_100_percent": 385,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 90,
+      "vit": 88,
+      "int": 21,
+      "dex": 99,
+      "luk": 21
+    }
+  },
+  "drops": []
+}

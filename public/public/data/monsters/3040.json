@@ -1,0 +1,41 @@
+{
+  "id": 3040,
+  "name": {
+    "zh_tw": "猖狂咪羅克門徒",
+    "en": "B_MOROCC_2"
+  },
+  "image_url": "/images/monsters/3040.gif",
+  "basic_info": {
+    "level": 149,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 6400000,
+    "attack": {
+      "min": 1570,
+      "max": 2220
+    },
+    "magic_attack": {
+      "min": 325,
+      "max": 421
+    },
+    "defense": 92,
+    "magic_defense": 5,
+    "hit_100_percent": 443,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 86,
+      "vit": 71,
+      "int": 65,
+      "dex": 113,
+      "luk": 44
+    }
+  },
+  "drops": []
+}

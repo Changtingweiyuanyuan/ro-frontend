@@ -1,0 +1,41 @@
+{
+  "id": 2183,
+  "name": {
+    "zh_tw": "突變虎蜥人",
+    "en": "MD_ANOLIAN"
+  },
+  "image_url": "/images/monsters/2183.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 700000,
+    "attack": {
+      "min": 2025,
+      "max": 2875
+    },
+    "magic_attack": {
+      "min": 495,
+      "max": 683
+    },
+    "defense": 268,
+    "magic_defense": 22,
+    "hit_100_percent": 551,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 177,
+      "agi": 188,
+      "vit": 205,
+      "int": 126,
+      "dex": 198,
+      "luk": 61
+    }
+  },
+  "drops": []
+}

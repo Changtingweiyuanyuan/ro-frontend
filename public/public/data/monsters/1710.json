@@ -1,0 +1,41 @@
+{
+  "id": 1710,
+  "name": {
+    "zh_tw": "達納托斯的絕望",
+    "en": "G_THA_DESPERO"
+  },
+  "image_url": "/images/monsters/1710.gif",
+  "basic_info": {
+    "level": 129,
+    "race": "不死",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 41111,
+    "attack": {
+      "min": 1065,
+      "max": 1479
+    },
+    "magic_attack": {
+      "min": 313,
+      "max": 417
+    },
+    "defense": 95,
+    "magic_defense": 69,
+    "hit_100_percent": 435,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 111,
+      "agi": 96,
+      "vit": 66,
+      "int": 65,
+      "dex": 127,
+      "luk": 52
+    }
+  },
+  "drops": []
+}

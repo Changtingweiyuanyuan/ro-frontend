@@ -1,0 +1,41 @@
+{
+  "id": 1737,
+  "name": {
+    "zh_tw": "愛麗哲 / 愛麗莎",
+    "en": "ALIZA"
+  },
+  "image_url": "/images/monsters/1737.gif",
+  "basic_info": {
+    "level": 112,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 14450,
+    "attack": {
+      "min": 899,
+      "max": 1235
+    },
+    "magic_attack": {
+      "min": 451,
+      "max": 691
+    },
+    "defense": 98,
+    "magic_defense": 5,
+    "hit_100_percent": 372,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 115,
+      "agi": 50,
+      "vit": 51,
+      "int": 62,
+      "dex": 88,
+      "luk": 54
+    }
+  },
+  "drops": []
+}

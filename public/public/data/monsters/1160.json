@@ -1,0 +1,41 @@
+{
+  "id": 1160,
+  "name": {
+    "zh_tw": "工蟻",
+    "en": "PIERE"
+  },
+  "image_url": "/images/monsters/1160.gif",
+  "basic_info": {
+    "level": 32,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 696,
+    "attack": {
+      "min": 88,
+      "max": 108
+    },
+    "magic_attack": {
+      "min": 54,
+      "max": 66
+    },
+    "defense": 57,
+    "magic_defense": 16,
+    "hit_100_percent": 254,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 19,
+      "agi": 19,
+      "vit": 36,
+      "int": 8,
+      "dex": 27,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

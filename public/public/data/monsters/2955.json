@@ -1,0 +1,41 @@
+{
+  "id": 2955,
+  "name": {
+    "zh_tw": "褪色的友情 / 久遠的友情",
+    "en": "OLD_FRIENDSHIP"
+  },
+  "image_url": "/images/monsters/2955.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 12614,
+    "attack": {
+      "min": 1147,
+      "max": 1639
+    },
+    "magic_attack": {
+      "min": 121,
+      "max": 123
+    },
+    "defense": 78,
+    "magic_defense": 5,
+    "hit_100_percent": 324,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 56,
+      "agi": 12,
+      "vit": 19,
+      "int": 11,
+      "dex": 30,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

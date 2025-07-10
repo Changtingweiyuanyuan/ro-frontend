@@ -1,0 +1,41 @@
+{
+  "id": 20363,
+  "name": {
+    "zh_tw": "貝納姆",
+    "en": "EP17_1_VENENUM1"
+  },
+  "image_url": "/images/monsters/20363.gif",
+  "basic_info": {
+    "level": 123,
+    "race": "動物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 40720,
+    "attack": {
+      "min": 1147,
+      "max": 1621
+    },
+    "magic_attack": {
+      "min": 386,
+      "max": 578
+    },
+    "defense": 242,
+    "magic_defense": 27,
+    "hit_100_percent": 360,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 37,
+      "vit": 90,
+      "int": 39,
+      "dex": 103,
+      "luk": 3
+    }
+  },
+  "drops": []
+}

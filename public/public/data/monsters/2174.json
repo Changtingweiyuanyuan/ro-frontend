@@ -1,0 +1,41 @@
+{
+  "id": 2174,
+  "name": {
+    "zh_tw": "遠古甲殼類",
+    "en": "MD_VADON"
+  },
+  "image_url": "/images/monsters/2174.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 120000,
+    "attack": {
+      "min": 862,
+      "max": 1174
+    },
+    "magic_attack": {
+      "min": 312,
+      "max": 448
+    },
+    "defense": 154,
+    "magic_defense": 21,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 145,
+      "agi": 91,
+      "vit": 138,
+      "int": 60,
+      "dex": 113,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

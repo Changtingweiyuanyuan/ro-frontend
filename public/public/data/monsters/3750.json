@@ -1,0 +1,41 @@
+{
+  "id": 3750,
+  "name": {
+    "zh_tw": "幻影紅蝙蝠",
+    "en": "ILL_DRAINLIAR"
+  },
+  "image_url": "/images/monsters/3750.gif",
+  "basic_info": {
+    "level": 131,
+    "race": "動物",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 42246,
+    "attack": {
+      "min": 1214,
+      "max": 1712
+    },
+    "magic_attack": {
+      "min": 342,
+      "max": 444
+    },
+    "defense": 150,
+    "magic_defense": 45,
+    "hit_100_percent": 478,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 91,
+      "agi": 129,
+      "vit": 96,
+      "int": 92,
+      "dex": 168,
+      "luk": 90
+    }
+  },
+  "drops": []
+}

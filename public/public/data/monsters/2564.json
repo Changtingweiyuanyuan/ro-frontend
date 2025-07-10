@@ -1,0 +1,41 @@
+{
+  "id": 2564,
+  "name": {
+    "zh_tw": "潘利爾 / 芬裡厄",
+    "en": "GEFFEN_FENRIR"
+  },
+  "image_url": "/images/monsters/2564.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20000000,
+    "attack": {
+      "min": 2160,
+      "max": 3060
+    },
+    "magic_attack": {
+      "min": 1935,
+      "max": 3285
+    },
+    "defense": 200,
+    "magic_defense": 70,
+    "hit_100_percent": 480,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 200,
+      "agi": 100,
+      "vit": 200,
+      "int": 200,
+      "dex": 220,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 20645,
+  "name": {
+    "zh_tw": "熱池變異魚",
+    "en": "EP17_2_SWORD_FISH"
+  },
+  "image_url": "/images/monsters/20645.gif",
+  "basic_info": {
+    "level": 138,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 133151,
+    "attack": {
+      "min": 1677,
+      "max": 2395
+    },
+    "magic_attack": {
+      "min": 830,
+      "max": 1344
+    },
+    "defense": 414,
+    "magic_defense": 81,
+    "hit_100_percent": 461,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 104,
+      "agi": 109,
+      "vit": 92,
+      "int": 93,
+      "dex": 101,
+      "luk": 70
+    }
+  },
+  "drops": []
+}

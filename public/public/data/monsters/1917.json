@@ -1,0 +1,41 @@
+{
+  "id": 1917,
+  "name": {
+    "zh_tw": "負傷咪羅克",
+    "en": "MOROCC_"
+  },
+  "image_url": "/images/monsters/1917.gif",
+  "basic_info": {
+    "level": 151,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5000000,
+    "attack": {
+      "min": 3940,
+      "max": 5752
+    },
+    "magic_attack": {
+      "min": 2412,
+      "max": 4140
+    },
+    "defense": 425,
+    "magic_defense": 65,
+    "hit_100_percent": 553,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 165,
+      "agi": 185,
+      "vit": 200,
+      "int": 245,
+      "dex": 270,
+      "luk": 89
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1045,
+  "name": {
+    "zh_tw": "馬克",
+    "en": "MARC"
+  },
+  "image_url": "/images/monsters/1045.gif",
+  "basic_info": {
+    "level": 56,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2522,
+    "attack": {
+      "min": 222,
+      "max": 280
+    },
+    "magic_attack": {
+      "min": 88,
+      "max": 104
+    },
+    "defense": 55,
+    "magic_defense": 24,
+    "hit_100_percent": 284,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 24,
+      "vit": 22,
+      "int": 15,
+      "dex": 53,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

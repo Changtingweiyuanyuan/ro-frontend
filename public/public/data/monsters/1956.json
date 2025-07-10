@@ -1,0 +1,41 @@
+{
+  "id": 1956,
+  "name": {
+    "zh_tw": "納戶特基格",
+    "en": "NAGHT_SIEGER"
+  },
+  "image_url": "/images/monsters/1956.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 5000000,
+    "attack": {
+      "min": 5905,
+      "max": 8713
+    },
+    "magic_attack": {
+      "min": 2559,
+      "max": 4479
+    },
+    "defense": 410,
+    "magic_defense": 40,
+    "hit_100_percent": 365,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 190,
+      "agi": 60,
+      "vit": 80,
+      "int": 220,
+      "dex": 317,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

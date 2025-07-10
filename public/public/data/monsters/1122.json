@@ -1,0 +1,41 @@
+{
+  "id": 1122,
+  "name": {
+    "zh_tw": "刺刀哥布靈",
+    "en": "GOBLIN_1"
+  },
+  "image_url": "/images/monsters/1122.gif",
+  "basic_info": {
+    "level": 48,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1058,
+    "attack": {
+      "min": 154,
+      "max": 190
+    },
+    "magic_attack": {
+      "min": 91,
+      "max": 113
+    },
+    "defense": 56,
+    "magic_defense": 5,
+    "hit_100_percent": 304,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 37,
+      "agi": 54,
+      "vit": 25,
+      "int": 20,
+      "dex": 36,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

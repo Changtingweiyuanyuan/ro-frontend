@@ -1,0 +1,41 @@
+{
+  "id": 2655,
+  "name": {
+    "zh_tw": "精英沙妖 / 狡猾沙妖",
+    "en": "C5_SLEEPER"
+  },
+  "image_url": "/images/monsters/2655.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 25800,
+    "attack": {
+      "min": 443,
+      "max": 589
+    },
+    "magic_attack": {
+      "min": 141,
+      "max": 171
+    },
+    "defense": 101,
+    "magic_defense": 29,
+    "hit_100_percent": 327,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 74,
+      "agi": 41,
+      "vit": 57,
+      "int": 27,
+      "dex": 65,
+      "luk": 27
+    }
+  },
+  "drops": []
+}

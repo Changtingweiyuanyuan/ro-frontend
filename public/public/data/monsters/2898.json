@@ -1,0 +1,41 @@
+{
+  "id": 2898,
+  "name": {
+    "zh_tw": "精英 / 雄壯 古靈精怪書",
+    "en": "C2_ANTIQUE_BOOK"
+  },
+  "image_url": "/images/monsters/2898.gif",
+  "basic_info": {
+    "level": 148,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1346150,
+    "attack": {
+      "min": 2001,
+      "max": 2895
+    },
+    "magic_attack": {
+      "min": 1041,
+      "max": 1769
+    },
+    "defense": 74,
+    "magic_defense": 42,
+    "hit_100_percent": 402,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 53,
+      "vit": 32,
+      "int": 44,
+      "dex": 125,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

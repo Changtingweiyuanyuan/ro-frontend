@@ -1,0 +1,41 @@
+{
+  "id": 2231,
+  "name": {
+    "zh_tw": "武術宗師 陳理歐",
+    "en": "G_CHEN"
+  },
+  "image_url": "/images/monsters/2231.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2236500,
+    "attack": {
+      "min": 3233,
+      "max": 4681
+    },
+    "magic_attack": {
+      "min": 1572,
+      "max": 2742
+    },
+    "defense": 216,
+    "magic_defense": 134,
+    "hit_100_percent": 538,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 180,
+      "agi": 165,
+      "vit": 165,
+      "int": 50,
+      "dex": 298,
+      "luk": 66
+    }
+  },
+  "drops": []
+}

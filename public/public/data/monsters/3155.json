@@ -1,0 +1,41 @@
+{
+  "id": 3155,
+  "name": {
+    "zh_tw": "修繕機器人",
+    "en": "REPAIR_ROBOT"
+  },
+  "image_url": "/images/monsters/3155.gif",
+  "basic_info": {
+    "level": 155,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 154760,
+    "attack": {
+      "min": 1893,
+      "max": 2715
+    },
+    "magic_attack": {
+      "min": 341,
+      "max": 471
+    },
+    "defense": 99,
+    "magic_defense": 55,
+    "hit_100_percent": 403,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 98,
+      "agi": 39,
+      "vit": 30,
+      "int": 35,
+      "dex": 95,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

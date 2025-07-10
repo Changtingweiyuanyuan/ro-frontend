@@ -1,0 +1,41 @@
+{
+  "id": 1777,
+  "name": {
+    "zh_tw": "冰巨人",
+    "en": "ICE_TITAN"
+  },
+  "image_url": "/images/monsters/1777.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 20820,
+    "attack": {
+      "min": 1113,
+      "max": 1549
+    },
+    "magic_attack": {
+      "min": 211,
+      "max": 271
+    },
+    "defense": 344,
+    "magic_defense": 11,
+    "hit_100_percent": 369,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 133,
+      "agi": 54,
+      "vit": 78,
+      "int": 33,
+      "dex": 94,
+      "luk": 26
+    }
+  },
+  "drops": []
+}

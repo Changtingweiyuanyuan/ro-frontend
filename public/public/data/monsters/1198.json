@@ -1,0 +1,41 @@
+{
+  "id": 1198,
+  "name": {
+    "zh_tw": "暗黑祭司",
+    "en": "DARK_PRIEST"
+  },
+  "image_url": "/images/monsters/1198.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "惡魔",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 12090,
+    "attack": {
+      "min": 472,
+      "max": 658
+    },
+    "magic_attack": {
+      "min": 368,
+      "max": 524
+    },
+    "defense": 56,
+    "magic_defense": 30,
+    "hit_100_percent": 366,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 5,
+      "agi": 60,
+      "vit": 41,
+      "int": 89,
+      "dex": 94,
+      "luk": 42
+    }
+  },
+  "drops": []
+}

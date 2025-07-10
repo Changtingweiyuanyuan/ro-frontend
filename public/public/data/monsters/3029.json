@@ -1,0 +1,41 @@
+{
+  "id": 3029,
+  "name": {
+    "zh_tw": "死神安庫",
+    "en": "GRIM_REAPER_ANKOU"
+  },
+  "image_url": "/images/monsters/3029.gif",
+  "basic_info": {
+    "level": 159,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 50000000,
+    "attack": {
+      "min": 1559,
+      "max": 2159
+    },
+    "magic_attack": {
+      "min": 1059,
+      "max": 1659
+    },
+    "defense": 200,
+    "magic_defense": 70,
+    "hit_100_percent": 479,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 200,
+      "agi": 100,
+      "vit": 200,
+      "int": 200,
+      "dex": 220,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

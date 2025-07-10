@@ -1,0 +1,41 @@
+{
+  "id": 3153,
+  "name": {
+    "zh_tw": "挖掘機器人",
+    "en": "EXCAVATOR_ROBOT"
+  },
+  "image_url": "/images/monsters/3153.gif",
+  "basic_info": {
+    "level": 163,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 166860,
+    "attack": {
+      "min": 4093,
+      "max": 6007
+    },
+    "magic_attack": {
+      "min": 354,
+      "max": 470
+    },
+    "defense": 138,
+    "magic_defense": 53,
+    "hit_100_percent": 478,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 102,
+      "agi": 104,
+      "vit": 72,
+      "int": 57,
+      "dex": 98,
+      "luk": 57
+    }
+  },
+  "drops": []
+}

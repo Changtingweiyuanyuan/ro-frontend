@@ -1,0 +1,41 @@
+{
+  "id": 1694,
+  "name": {
+    "zh_tw": "紅色等離子體",
+    "en": "PLASMA_R"
+  },
+  "image_url": "/images/monsters/1694.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 4
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 16789,
+    "attack": {
+      "min": 1200,
+      "max": 1668
+    },
+    "magic_attack": {
+      "min": 253,
+      "max": 313
+    },
+    "defense": 111,
+    "magic_defense": 12,
+    "hit_100_percent": 405,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 147,
+      "agi": 77,
+      "vit": 66,
+      "int": 65,
+      "dex": 133,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

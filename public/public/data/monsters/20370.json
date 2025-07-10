@@ -1,0 +1,41 @@
+{
+  "id": 20370,
+  "name": {
+    "zh_tw": "汙染史汀",
+    "en": "STING_H"
+  },
+  "image_url": "/images/monsters/20370.gif",
+  "basic_info": {
+    "level": 180,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2297907,
+    "attack": {
+      "min": 3467,
+      "max": 5025
+    },
+    "magic_attack": {
+      "min": 894,
+      "max": 1442
+    },
+    "defense": 276,
+    "magic_defense": 100,
+    "hit_100_percent": 491,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 173,
+      "agi": 98,
+      "vit": 32,
+      "int": 76,
+      "dex": 170,
+      "luk": 68
+    }
+  },
+  "drops": []
+}

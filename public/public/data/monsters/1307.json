@@ -1,0 +1,41 @@
+{
+  "id": 1307,
+  "name": {
+    "zh_tw": "狂暴月夜貓",
+    "en": "CAT_O_NINE_TAIL"
+  },
+  "image_url": "/images/monsters/1307.gif",
+  "basic_info": {
+    "level": 79,
+    "race": "惡魔",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23600,
+    "attack": {
+      "min": 524,
+      "max": 712
+    },
+    "magic_attack": {
+      "min": 185,
+      "max": 233
+    },
+    "defense": 100,
+    "magic_defense": 50,
+    "hit_100_percent": 363,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 75,
+      "vit": 40,
+      "int": 50,
+      "dex": 79,
+      "luk": 48
+    }
+  },
+  "drops": []
+}

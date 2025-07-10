@@ -1,0 +1,41 @@
+{
+  "id": 1289,
+  "name": {
+    "zh_tw": "狂暴蟻後",
+    "en": "MAYA_PUPLE"
+  },
+  "image_url": "/images/monsters/1289.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 77670,
+    "attack": {
+      "min": 1449,
+      "max": 2087
+    },
+    "magic_attack": {
+      "min": 563,
+      "max": 895
+    },
+    "defense": 139,
+    "magic_defense": 40,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 95,
+      "agi": 52,
+      "vit": 80,
+      "int": 95,
+      "dex": 88,
+      "luk": 119
+    }
+  },
+  "drops": []
+}

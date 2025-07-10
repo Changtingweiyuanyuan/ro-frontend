@@ -1,0 +1,41 @@
+{
+  "id": 2363,
+  "name": {
+    "zh_tw": "花妖精",
+    "en": "MENBLATT"
+  },
+  "image_url": "/images/monsters/2363.gif",
+  "basic_info": {
+    "level": 143,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 82200,
+    "attack": {
+      "min": 865,
+      "max": 1193
+    },
+    "magic_attack": {
+      "min": 338,
+      "max": 460
+    },
+    "defense": 79,
+    "magic_defense": 50,
+    "hit_100_percent": 417,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 68,
+      "vit": 40,
+      "int": 55,
+      "dex": 108,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

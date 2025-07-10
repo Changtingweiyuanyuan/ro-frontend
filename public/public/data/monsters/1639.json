@@ -1,0 +1,41 @@
+{
+  "id": 1639,
+  "name": {
+    "zh_tw": "暗●超魔導師",
+    "en": "KATRINN"
+  },
+  "image_url": "/images/monsters/1639.gif",
+  "basic_info": {
+    "level": 141,
+    "race": "人形",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 209780,
+    "attack": {
+      "min": 1120,
+      "max": 1556
+    },
+    "magic_attack": {
+      "min": 2471,
+      "max": 4345
+    },
+    "defense": 77,
+    "magic_defense": 333,
+    "hit_100_percent": 428,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 108,
+      "agi": 78,
+      "vit": 55,
+      "int": 144,
+      "dex": 209,
+      "luk": 49
+    }
+  },
+  "drops": []
+}

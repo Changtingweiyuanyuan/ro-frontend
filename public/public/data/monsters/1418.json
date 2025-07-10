@@ -1,0 +1,41 @@
+{
+  "id": 1418,
+  "name": {
+    "zh_tw": "墨蛇君",
+    "en": "DARK_SNAKE_LORD"
+  },
+  "image_url": "/images/monsters/1418.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "動物",
+    "element": {
+      "type": "念",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1101000,
+    "attack": {
+      "min": 2532,
+      "max": 3686
+    },
+    "magic_attack": {
+      "min": 1630,
+      "max": 2822
+    },
+    "defense": 314,
+    "magic_defense": 185,
+    "hit_100_percent": 494,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 172,
+      "vit": 107,
+      "int": 135,
+      "dex": 235,
+      "luk": 88
+    }
+  },
+  "drops": []
+}

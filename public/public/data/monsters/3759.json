@@ -1,0 +1,41 @@
+{
+  "id": 3759,
+  "name": {
+    "zh_tw": "憤怒九尾狐",
+    "en": "ILL_NINE_TAIL"
+  },
+  "image_url": "/images/monsters/3759.gif",
+  "basic_info": {
+    "level": 116,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21875,
+    "attack": {
+      "min": 1009,
+      "max": 1395
+    },
+    "magic_attack": {
+      "min": 307,
+      "max": 437
+    },
+    "defense": 95,
+    "magic_defense": 40,
+    "hit_100_percent": 409,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 73,
+      "vit": 64,
+      "int": 42,
+      "dex": 212,
+      "luk": 100
+    }
+  },
+  "drops": []
+}

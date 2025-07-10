@@ -1,0 +1,41 @@
+{
+  "id": 1885,
+  "name": {
+    "zh_tw": "青冠龍",
+    "en": "GOPINICH"
+  },
+  "image_url": "/images/monsters/1885.gif",
+  "basic_info": {
+    "level": 97,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1120500,
+    "attack": {
+      "min": 2291,
+      "max": 3325
+    },
+    "magic_attack": {
+      "min": 1501,
+      "max": 2619
+    },
+    "defense": 355,
+    "magic_defense": 121,
+    "hit_100_percent": 414,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 127,
+      "agi": 102,
+      "vit": 143,
+      "int": 102,
+      "dex": 182,
+      "luk": 76
+    }
+  },
+  "drops": []
+}

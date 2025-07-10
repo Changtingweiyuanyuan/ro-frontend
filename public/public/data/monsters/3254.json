@@ -1,0 +1,41 @@
+{
+  "id": 3254,
+  "name": {
+    "zh_tw": "T_W_O",
+    "en": "T_W_O"
+  },
+  "image_url": "/images/monsters/3254.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 48000000,
+    "attack": {
+      "min": 3419,
+      "max": 5001
+    },
+    "magic_attack": {
+      "min": 389,
+      "max": 507
+    },
+    "defense": 158,
+    "magic_defense": 134,
+    "hit_100_percent": 520,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 141,
+      "vit": 7,
+      "int": 87,
+      "dex": 267,
+      "luk": 70
+    }
+  },
+  "drops": []
+}

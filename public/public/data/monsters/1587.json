@@ -1,0 +1,41 @@
+{
+  "id": 1587,
+  "name": {
+    "zh_tw": "克萊本",
+    "en": "KRABEN"
+  },
+  "image_url": "/images/monsters/1587.gif",
+  "basic_info": {
+    "level": 70,
+    "race": "無形",
+    "element": {
+      "type": "念",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2901,
+    "attack": {
+      "min": 347,
+      "max": 459
+    },
+    "magic_attack": {
+      "min": 116,
+      "max": 144
+    },
+    "defense": 108,
+    "magic_defense": 20,
+    "hit_100_percent": 307,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 54,
+      "agi": 33,
+      "vit": 35,
+      "int": 15,
+      "dex": 68,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

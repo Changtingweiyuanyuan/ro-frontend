@@ -1,0 +1,41 @@
+{
+  "id": 20421,
+  "name": {
+    "zh_tw": "汙染蜘蛛女王",
+    "en": "BRINARANEA_H"
+  },
+  "image_url": "/images/monsters/20421.gif",
+  "basic_info": {
+    "level": 195,
+    "race": "惡魔",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 74623473,
+    "attack": {
+      "min": 5299,
+      "max": 7727
+    },
+    "magic_attack": {
+      "min": 1336,
+      "max": 2218
+    },
+    "defense": 285,
+    "magic_defense": 112,
+    "hit_100_percent": 585,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 249,
+      "agi": 176,
+      "vit": 30,
+      "int": 113,
+      "dex": 191,
+      "luk": 70
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2792,
+  "name": {
+    "zh_tw": "精英邪惡使者 / 憤怒邪惡使者",
+    "en": "C4_INJUSTICE"
+  },
+  "image_url": "/images/monsters/2792.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "不死",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 39760,
+    "attack": {
+      "min": 600,
+      "max": 816
+    },
+    "magic_attack": {
+      "min": 241,
+      "max": 311
+    },
+    "defense": 76,
+    "magic_defense": 31,
+    "hit_100_percent": 381,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 77,
+      "agi": 76,
+      "vit": 58,
+      "int": 65,
+      "dex": 88,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2879,
+  "name": {
+    "zh_tw": "精英獨眼怪 / 雄壯獨眼怪",
+    "en": "C2_BUNGISNGIS"
+  },
+  "image_url": "/images/monsters/2879.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "人形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 255130,
+    "attack": {
+      "min": 1008,
+      "max": 1418
+    },
+    "magic_attack": {
+      "min": 256,
+      "max": 348
+    },
+    "defense": 115,
+    "magic_defense": 35,
+    "hit_100_percent": 356,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 32,
+      "vit": 61,
+      "int": 30,
+      "dex": 74,
+      "luk": 19
+    }
+  },
+  "drops": []
+}

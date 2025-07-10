@@ -1,0 +1,41 @@
+{
+  "id": 2015,
+  "name": {
+    "zh_tw": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+    "en": "PINGUICULA_D"
+  },
+  "image_url": "/images/monsters/2015.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "植物",
+    "element": {
+      "type": "毒",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 17002,
+    "attack": {
+      "min": 562,
+      "max": 744
+    },
+    "magic_attack": {
+      "min": 760,
+      "max": 1234
+    },
+    "defense": 59,
+    "magic_defense": 35,
+    "hit_100_percent": 370,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 89,
+      "agi": 55,
+      "vit": 55,
+      "int": 95,
+      "dex": 92,
+      "luk": 12
+    }
+  },
+  "drops": []
+}

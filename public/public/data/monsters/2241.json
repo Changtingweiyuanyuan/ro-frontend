@@ -1,0 +1,41 @@
+{
+  "id": 2241,
+  "name": {
+    "zh_tw": "暗●冷豔舞姬 特蘭提尼",
+    "en": "B_TRENTINI"
+  },
+  "image_url": "/images/monsters/2241.gif",
+  "basic_info": {
+    "level": 160,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 3894278,
+    "attack": {
+      "min": 1939,
+      "max": 2747
+    },
+    "magic_attack": {
+      "min": 3202,
+      "max": 5624
+    },
+    "defense": 181,
+    "magic_defense": 112,
+    "hit_100_percent": 619,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 167,
+      "agi": 247,
+      "vit": 165,
+      "int": 217,
+      "dex": 233,
+      "luk": 61
+    }
+  },
+  "drops": []
+}

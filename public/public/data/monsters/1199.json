@@ -1,0 +1,41 @@
+{
+  "id": 1199,
+  "name": {
+    "zh_tw": "朽魔",
+    "en": "PUNK"
+  },
+  "image_url": "/images/monsters/1199.gif",
+  "basic_info": {
+    "level": 82,
+    "race": "植物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 3869,
+    "attack": {
+      "min": 383,
+      "max": 501
+    },
+    "magic_attack": {
+      "min": 154,
+      "max": 188
+    },
+    "defense": 68,
+    "magic_defense": 55,
+    "hit_100_percent": 330,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 39,
+      "vit": 30,
+      "int": 35,
+      "dex": 95,
+      "luk": 45
+    }
+  },
+  "drops": []
+}

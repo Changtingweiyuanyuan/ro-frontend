@@ -1,0 +1,41 @@
+{
+  "id": 2199,
+  "name": {
+    "zh_tw": "胖胖波利",
+    "en": "SIORAVA"
+  },
+  "image_url": "/images/monsters/2199.gif",
+  "basic_info": {
+    "level": 87,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 6500,
+    "attack": {
+      "min": 457,
+      "max": 637
+    },
+    "magic_attack": {
+      "min": 304,
+      "max": 430
+    },
+    "defense": 20,
+    "magic_defense": 40,
+    "hit_100_percent": 329,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 10,
+      "agi": 40,
+      "vit": 66,
+      "int": 70,
+      "dex": 67,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

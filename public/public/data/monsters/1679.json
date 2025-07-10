@@ -1,0 +1,41 @@
+{
+  "id": 1679,
+  "name": {
+    "zh_tw": "藍凡娜圖",
+    "en": "VENATU_4"
+  },
+  "image_url": "/images/monsters/1679.gif",
+  "basic_info": {
+    "level": 113,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 21810,
+    "attack": {
+      "min": 953,
+      "max": 1321
+    },
+    "magic_attack": {
+      "min": 230,
+      "max": 284
+    },
+    "defense": 74,
+    "magic_defense": 15,
+    "hit_100_percent": 388,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 106,
+      "agi": 69,
+      "vit": 61,
+      "int": 55,
+      "dex": 101,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

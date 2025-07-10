@@ -1,0 +1,41 @@
+{
+  "id": 3763,
+  "name": {
+    "zh_tw": "憤懣邪骸弓箭手 / 含冤的士兵",
+    "en": "ILL_ARCHER_SKELETON"
+  },
+  "image_url": "/images/monsters/3763.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 20843,
+    "attack": {
+      "min": 788,
+      "max": 1096
+    },
+    "magic_attack": {
+      "min": 496,
+      "max": 806
+    },
+    "defense": 47,
+    "magic_defense": 10,
+    "hit_100_percent": 378,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 60,
+      "agi": 61,
+      "vit": 30,
+      "int": 20,
+      "dex": 101,
+      "luk": 12
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1304,
+  "name": {
+    "zh_tw": "狂暴蜘蛛",
+    "en": "GIANT_SPIDER"
+  },
+  "image_url": "/images/monsters/1304.gif",
+  "basic_info": {
+    "level": 117,
+    "race": "昆蟲",
+    "element": {
+      "type": "毒",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 25001,
+    "attack": {
+      "min": 782,
+      "max": 1080
+    },
+    "magic_attack": {
+      "min": 240,
+      "max": 314
+    },
+    "defense": 86,
+    "magic_defense": 38,
+    "hit_100_percent": 383,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 58,
+      "vit": 43,
+      "int": 38,
+      "dex": 73,
+      "luk": 41
+    }
+  },
+  "drops": []
+}

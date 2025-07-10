@@ -1,0 +1,41 @@
+{
+  "id": 2755,
+  "name": {
+    "zh_tw": "精英金屬波利 / 雄壯金屬波利",
+    "en": "C2_METALING"
+  },
+  "image_url": "/images/monsters/2755.gif",
+  "basic_info": {
+    "level": 81,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 43000,
+    "attack": {
+      "min": 319,
+      "max": 409
+    },
+    "magic_attack": {
+      "min": 125,
+      "max": 149
+    },
+    "defense": 69,
+    "magic_defense": 28,
+    "hit_100_percent": 312,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 58,
+      "agi": 30,
+      "vit": 49,
+      "int": 17,
+      "dex": 60,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

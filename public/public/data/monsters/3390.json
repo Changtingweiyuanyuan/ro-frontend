@@ -1,0 +1,41 @@
+{
+  "id": 3390,
+  "name": {
+    "zh_tw": "魔菇",
+    "en": "MIN_SPORE"
+  },
+  "image_url": "/images/monsters/3390.gif",
+  "basic_info": {
+    "level": 101,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 40000,
+    "attack": {
+      "min": 703,
+      "max": 947
+    },
+    "magic_attack": {
+      "min": 146,
+      "max": 152
+    },
+    "defense": 152,
+    "magic_defense": 10,
+    "hit_100_percent": 362,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 114,
+      "agi": 55,
+      "vit": 74,
+      "int": 40,
+      "dex": 125,
+      "luk": 30
+    }
+  },
+  "drops": []
+}

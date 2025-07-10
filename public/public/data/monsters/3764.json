@@ -1,0 +1,41 @@
+{
+  "id": 3764,
+  "name": {
+    "zh_tw": "真理超魔導師",
+    "en": "ILL_HIGHWIZARD"
+  },
+  "image_url": "/images/monsters/3764.gif",
+  "basic_info": {
+    "level": 118,
+    "race": "不死",
+    "element": {
+      "type": "暗",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 121847,
+    "attack": {
+      "min": 1800,
+      "max": 2592
+    },
+    "magic_attack": {
+      "min": 576,
+      "max": 794
+    },
+    "defense": 20,
+    "magic_defense": 90,
+    "hit_100_percent": 431,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 101,
+      "agi": 89,
+      "vit": 60,
+      "int": 205,
+      "dex": 255,
+      "luk": 124
+    }
+  },
+  "drops": []
+}

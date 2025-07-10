@@ -1,0 +1,41 @@
+{
+  "id": 2471,
+  "name": {
+    "zh_tw": "王朝侍衛長 / 怨念的卡利斯格",
+    "en": "MG_KHALITZBURG"
+  },
+  "image_url": "/images/monsters/2471.gif",
+  "basic_info": {
+    "level": 143,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 236851,
+    "attack": {
+      "min": 2504,
+      "max": 3624
+    },
+    "magic_attack": {
+      "min": 294,
+      "max": 354
+    },
+    "defense": 125,
+    "magic_defense": 10,
+    "hit_100_percent": 491,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 121,
+      "agi": 142,
+      "vit": 55,
+      "int": 81,
+      "dex": 105,
+      "luk": 32
+    }
+  },
+  "drops": []
+}

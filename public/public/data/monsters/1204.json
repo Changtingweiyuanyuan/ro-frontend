@@ -1,0 +1,41 @@
+{
+  "id": 1204,
+  "name": {
+    "zh_tw": "獸牙怪",
+    "en": "TIRFING"
+  },
+  "image_url": "/images/monsters/1204.gif",
+  "basic_info": {
+    "level": 114,
+    "race": "無形",
+    "element": {
+      "type": "暗",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 59000,
+    "attack": {
+      "min": 977,
+      "max": 1357
+    },
+    "magic_attack": {
+      "min": 474,
+      "max": 722
+    },
+    "defense": 87,
+    "magic_defense": 69,
+    "hit_100_percent": 432,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 105,
+      "agi": 105,
+      "vit": 75,
+      "int": 73,
+      "dex": 151,
+      "luk": 65
+    }
+  },
+  "drops": []
+}

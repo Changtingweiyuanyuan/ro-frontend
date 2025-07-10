@@ -1,0 +1,41 @@
+{
+  "id": 20639,
+  "name": {
+    "zh_tw": "故障的警衛型-B",
+    "en": "EP17_2_BETA_GUARDS_NG"
+  },
+  "image_url": "/images/monsters/20639.gif",
+  "basic_info": {
+    "level": 186,
+    "race": "無形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1909523,
+    "attack": {
+      "min": 3165,
+      "max": 4579
+    },
+    "magic_attack": {
+      "min": 1483,
+      "max": 2481
+    },
+    "defense": 522,
+    "magic_defense": 110,
+    "hit_100_percent": 481,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 152,
+      "agi": 76,
+      "vit": 112,
+      "int": 134,
+      "dex": 114,
+      "luk": 98
+    }
+  },
+  "drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3800,
+  "name": {
+    "zh_tw": "不祥果樹龜",
+    "en": "ILL_PERMETER"
+  },
+  "image_url": "/images/monsters/3800.gif",
+  "basic_info": {
+    "level": 157,
+    "race": "動物",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 508355,
+    "attack": {
+      "min": 2592,
+      "max": 3730
+    },
+    "magic_attack": {
+      "min": 537,
+      "max": 787
+    },
+    "defense": 288,
+    "magic_defense": 100,
+    "hit_100_percent": 429,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 159,
+      "agi": 60,
+      "vit": 135,
+      "int": 90,
+      "dex": 120,
+      "luk": 60
+    }
+  },
+  "drops": []
+}

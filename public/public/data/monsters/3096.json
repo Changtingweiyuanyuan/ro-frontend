@@ -1,0 +1,41 @@
+{
+  "id": 3096,
+  "name": {
+    "zh_tw": "重生的半魔神",
+    "en": "MM_MOROCC_KID"
+  },
+  "image_url": "/images/monsters/3096.gif",
+  "basic_info": {
+    "level": 175,
+    "race": "惡魔",
+    "element": {
+      "type": "聖",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 80000000,
+    "attack": {
+      "min": 4249,
+      "max": 6241
+    },
+    "magic_attack": {
+      "min": 408,
+      "max": 534
+    },
+    "defense": 158,
+    "magic_defense": 134,
+    "hit_100_percent": 504,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 90,
+      "agi": 122,
+      "vit": 7,
+      "int": 87,
+      "dex": 287,
+      "luk": 36
+    }
+  },
+  "drops": []
+}

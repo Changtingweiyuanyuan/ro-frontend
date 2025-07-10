@@ -1,0 +1,41 @@
+{
+  "id": 2677,
+  "name": {
+    "zh_tw": "精英土狼 / 雄壯土狼",
+    "en": "C2_ROWEEN"
+  },
+  "image_url": "/images/monsters/2677.gif",
+  "basic_info": {
+    "level": 95,
+    "race": "動物",
+    "element": {
+      "type": "風",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 73850,
+    "attack": {
+      "min": 729,
+      "max": 1011
+    },
+    "magic_attack": {
+      "min": 164,
+      "max": 186
+    },
+    "defense": 73,
+    "magic_defense": 33,
+    "hit_100_percent": 382,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 70,
+      "agi": 82,
+      "vit": 55,
+      "int": 45,
+      "dex": 108,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

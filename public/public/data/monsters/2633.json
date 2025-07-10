@@ -1,0 +1,41 @@
+{
+  "id": 2633,
+  "name": {
+    "zh_tw": "精英盜蟲 / 菁英盜蟲",
+    "en": "C3_THIEF_BUG"
+  },
+  "image_url": "/images/monsters/2633.gif",
+  "basic_info": {
+    "level": 21,
+    "race": "昆蟲",
+    "element": {
+      "type": "無",
+      "level": 3
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 1770,
+    "attack": {
+      "min": 93,
+      "max": 121
+    },
+    "magic_attack": {
+      "min": 25,
+      "max": 29
+    },
+    "defense": 24,
+    "magic_defense": 3,
+    "hit_100_percent": 229,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 19,
+      "agi": 7,
+      "vit": 10,
+      "int": 1,
+      "dex": 12,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

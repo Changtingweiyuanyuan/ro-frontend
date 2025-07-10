@@ -1,0 +1,41 @@
+{
+  "id": 1796,
+  "name": {
+    "zh_tw": "阿烏奴艾 / 阿吾諾耶",
+    "en": "AUNOE"
+  },
+  "image_url": "/images/monsters/1796.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 4
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13050,
+    "attack": {
+      "min": 900,
+      "max": 1236
+    },
+    "magic_attack": {
+      "min": 243,
+      "max": 293
+    },
+    "defense": 107,
+    "magic_defense": 42,
+    "hit_100_percent": 380,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 118,
+      "agi": 63,
+      "vit": 62,
+      "int": 77,
+      "dex": 84,
+      "luk": 35
+    }
+  },
+  "drops": []
+}

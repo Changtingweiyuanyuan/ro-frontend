@@ -1,0 +1,41 @@
+{
+  "id": 3810,
+  "name": {
+    "zh_tw": "國王波利",
+    "en": "MD_KING_PORING"
+  },
+  "image_url": "/images/monsters/3810.gif",
+  "basic_info": {
+    "level": 35,
+    "race": "無形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 140000,
+    "attack": {
+      "min": 189,
+      "max": 243
+    },
+    "magic_attack": {
+      "min": 168,
+      "max": 240
+    },
+    "defense": 20,
+    "magic_defense": 20,
+    "hit_100_percent": 295,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 50,
+      "agi": 50,
+      "vit": 50,
+      "int": 50,
+      "dex": 50,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

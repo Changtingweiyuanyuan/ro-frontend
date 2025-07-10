@@ -1,0 +1,41 @@
+{
+  "id": 2901,
+  "name": {
+    "zh_tw": "精英瘋狂螳螂 / 迅捷瘋狂螳螂",
+    "en": "C1_ANGRA_MANTIS"
+  },
+  "image_url": "/images/monsters/2901.gif",
+  "basic_info": {
+    "level": 144,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 458600,
+    "attack": {
+      "min": 1099,
+      "max": 1517
+    },
+    "magic_attack": {
+      "min": 348,
+      "max": 456
+    },
+    "defense": 175,
+    "magic_defense": 81,
+    "hit_100_percent": 514,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 155,
+      "vit": 119,
+      "int": 81,
+      "dex": 198,
+      "luk": 79
+    }
+  },
+  "drops": []
+}

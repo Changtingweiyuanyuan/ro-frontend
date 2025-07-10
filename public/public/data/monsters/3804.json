@@ -1,0 +1,41 @@
+{
+  "id": 3804,
+  "name": {
+    "zh_tw": "不祥烏龜將軍",
+    "en": "ILL_TURTLE_GENERAL"
+  },
+  "image_url": "/images/monsters/3804.gif",
+  "basic_info": {
+    "level": 165,
+    "race": "動物",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 11628549,
+    "attack": {
+      "min": 5512,
+      "max": 8070
+    },
+    "magic_attack": {
+      "min": 2319,
+      "max": 4005
+    },
+    "defense": 796,
+    "magic_defense": 246,
+    "hit_100_percent": 647,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 232,
+      "agi": 246,
+      "vit": 302,
+      "int": 189,
+      "dex": 424,
+      "luk": 180
+    }
+  },
+  "drops": []
+}

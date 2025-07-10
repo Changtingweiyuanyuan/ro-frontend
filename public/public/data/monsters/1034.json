@@ -1,0 +1,41 @@
+{
+  "id": 1034,
+  "name": {
+    "zh_tw": "達拉蛙",
+    "en": "THARA_FROG"
+  },
+  "image_url": "/images/monsters/1034.gif",
+  "basic_info": {
+    "level": 40,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 1157,
+    "attack": {
+      "min": 123,
+      "max": 153
+    },
+    "magic_attack": {
+      "min": 79,
+      "max": 97
+    },
+    "defense": 37,
+    "magic_defense": 17,
+    "hit_100_percent": 250,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 25,
+      "agi": 10,
+      "vit": 10,
+      "int": 18,
+      "dex": 30,
+      "luk": 2
+    }
+  },
+  "drops": []
+}

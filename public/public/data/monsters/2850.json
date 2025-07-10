@@ -1,0 +1,41 @@
+{
+  "id": 2850,
+  "name": {
+    "zh_tw": "精英狡蛛 / 菁英狡蛛",
+    "en": "C3_DOLOMEDES"
+  },
+  "image_url": "/images/monsters/2850.gif",
+  "basic_info": {
+    "level": 132,
+    "race": "昆蟲",
+    "element": {
+      "type": "水",
+      "level": 3
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 272955,
+    "attack": {
+      "min": 1256,
+      "max": 1744
+    },
+    "magic_attack": {
+      "min": 387,
+      "max": 559
+    },
+    "defense": 112,
+    "magic_defense": 52,
+    "hit_100_percent": 379,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 149,
+      "agi": 34,
+      "vit": 82,
+      "int": 55,
+      "dex": 143,
+      "luk": 67
+    }
+  },
+  "drops": []
+}

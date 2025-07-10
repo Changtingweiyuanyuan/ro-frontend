@@ -1,0 +1,41 @@
+{
+  "id": 1995,
+  "name": {
+    "zh_tw": "捕蟲堇 / 捕蟲堇妖",
+    "en": "PINGUICULA"
+  },
+  "image_url": "/images/monsters/1995.gif",
+  "basic_info": {
+    "level": 105,
+    "race": "植物",
+    "element": {
+      "type": "地",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 13058,
+    "attack": {
+      "min": 608,
+      "max": 828
+    },
+    "magic_attack": {
+      "min": 437,
+      "max": 631
+    },
+    "defense": 46,
+    "magic_defense": 77,
+    "hit_100_percent": 371,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 67,
+      "agi": 60,
+      "vit": 64,
+      "int": 107,
+      "dex": 77,
+      "luk": 34
+    }
+  },
+  "drops": []
+}

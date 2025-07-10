@@ -1,0 +1,41 @@
+{
+  "id": 1252,
+  "name": {
+    "zh_tw": "卡崙",
+    "en": "GARM"
+  },
+  "image_url": "/images/monsters/1252.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "動物",
+    "element": {
+      "type": "水",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1275500,
+    "attack": {
+      "min": 2156,
+      "max": 3126
+    },
+    "magic_attack": {
+      "min": 1427,
+      "max": 2467
+    },
+    "defense": 173,
+    "magic_defense": 103,
+    "hit_100_percent": 465,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 122,
+      "agi": 153,
+      "vit": 135,
+      "int": 116,
+      "dex": 175,
+      "luk": 72
+    }
+  },
+  "drops": []
+}

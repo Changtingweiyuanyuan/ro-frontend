@@ -1,0 +1,41 @@
+{
+  "id": 20357,
+  "name": {
+    "zh_tw": "薩納雷 / 邪心獵人薩納雷",
+    "en": "EP17_1_SANARE1"
+  },
+  "image_url": "/images/monsters/20357.gif",
+  "basic_info": {
+    "level": 120,
+    "race": "人形",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 30159,
+    "attack": {
+      "min": 783,
+      "max": 1089
+    },
+    "magic_attack": {
+      "min": 535,
+      "max": 839
+    },
+    "defense": 200,
+    "magic_defense": 27,
+    "hit_100_percent": 386,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 51,
+      "agi": 51,
+      "vit": 70,
+      "int": 63,
+      "dex": 117,
+      "luk": 77
+    }
+  },
+  "drops": []
+}

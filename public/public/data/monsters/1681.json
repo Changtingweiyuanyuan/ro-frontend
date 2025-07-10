@@ -1,0 +1,41 @@
+{
+  "id": 1681,
+  "name": {
+    "zh_tw": "雙子星-S58",
+    "en": "GEMINI"
+  },
+  "image_url": "/images/monsters/1681.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "無形",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 108999,
+    "attack": {
+      "min": 1992,
+      "max": 2864
+    },
+    "magic_attack": {
+      "min": 662,
+      "max": 1036
+    },
+    "defense": 89,
+    "magic_defense": 45,
+    "hit_100_percent": 440,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 115,
+      "agi": 92,
+      "vit": 81,
+      "int": 92,
+      "dex": 141,
+      "luk": 66
+    }
+  },
+  "drops": []
+}

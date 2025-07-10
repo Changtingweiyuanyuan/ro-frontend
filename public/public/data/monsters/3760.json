@@ -1,0 +1,41 @@
+{
+  "id": 3760,
+  "name": {
+    "zh_tw": "憤懣殭屍 / 憤恨的殭屍",
+    "en": "ILL_MUNAK"
+  },
+  "image_url": "/images/monsters/3760.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "不死",
+    "element": {
+      "type": "不死",
+      "level": 1
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 17728,
+    "attack": {
+      "min": 722,
+      "max": 978
+    },
+    "magic_attack": {
+      "min": 203,
+      "max": 267
+    },
+    "defense": 77,
+    "magic_defense": 15,
+    "hit_100_percent": 332,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 103,
+      "agi": 18,
+      "vit": 50,
+      "int": 20,
+      "dex": 66,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

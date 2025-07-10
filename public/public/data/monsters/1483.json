@@ -1,0 +1,41 @@
+{
+  "id": 1483,
+  "name": {
+    "zh_tw": "瑞比歐",
+    "en": "G_RYBIO"
+  },
+  "image_url": "/images/monsters/1483.gif",
+  "basic_info": {
+    "level": 98,
+    "race": "惡魔",
+    "element": {
+      "type": "無",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 8700,
+    "attack": {
+      "min": 482,
+      "max": 626
+    },
+    "magic_attack": {
+      "min": 181,
+      "max": 227
+    },
+    "defense": 109,
+    "magic_defense": 30,
+    "hit_100_percent": 352,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 96,
+      "agi": 52,
+      "vit": 61,
+      "int": 30,
+      "dex": 96,
+      "luk": 10
+    }
+  },
+  "drops": []
+}

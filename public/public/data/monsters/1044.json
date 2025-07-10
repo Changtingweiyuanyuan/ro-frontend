@@ -1,0 +1,41 @@
+{
+  "id": 1044,
+  "name": {
+    "zh_tw": "人魚",
+    "en": "OBEAUNE"
+  },
+  "image_url": "/images/monsters/1044.gif",
+  "basic_info": {
+    "level": 53,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 2158,
+    "attack": {
+      "min": 192,
+      "max": 236
+    },
+    "magic_attack": {
+      "min": 124,
+      "max": 152
+    },
+    "defense": 48,
+    "magic_defense": 26,
+    "hit_100_percent": 305,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 54,
+      "agi": 47,
+      "vit": 21,
+      "int": 40,
+      "dex": 40,
+      "luk": 25
+    }
+  },
+  "drops": []
+}

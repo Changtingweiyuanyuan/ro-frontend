@@ -1,0 +1,41 @@
+{
+  "id": 2690,
+  "name": {
+    "zh_tw": "精英幽靈劍士 / 迅捷幽靈劍士",
+    "en": "C1_RAYDRIC"
+  },
+  "image_url": "/images/monsters/2690.gif",
+  "basic_info": {
+    "level": 115,
+    "race": "人形",
+    "element": {
+      "type": "暗",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 92040,
+    "attack": {
+      "min": 1108,
+      "max": 1542
+    },
+    "magic_attack": {
+      "min": 214,
+      "max": 272
+    },
+    "defense": 89,
+    "magic_defense": 15,
+    "hit_100_percent": 407,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 129,
+      "agi": 87,
+      "vit": 55,
+      "int": 32,
+      "dex": 106,
+      "luk": 27
+    }
+  },
+  "drops": []
+}

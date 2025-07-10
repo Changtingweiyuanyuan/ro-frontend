@@ -1,0 +1,41 @@
+{
+  "id": 2398,
+  "name": {
+    "zh_tw": "寶貝波利",
+    "en": "LITTLE_PORING"
+  },
+  "image_url": "/images/monsters/2398.gif",
+  "basic_info": {
+    "level": 1,
+    "race": "植物",
+    "element": {
+      "type": "水",
+      "level": 1
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 40,
+    "attack": {
+      "min": 13,
+      "max": 17
+    },
+    "magic_attack": {
+      "min": 2,
+      "max": 4
+    },
+    "defense": 2,
+    "magic_defense": 5,
+    "hit_100_percent": 203,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 6,
+      "agi": 1,
+      "vit": 1,
+      "int": 1,
+      "dex": 6,
+      "luk": 5
+    }
+  },
+  "drops": []
+}

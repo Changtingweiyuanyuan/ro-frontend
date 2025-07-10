@@ -1,0 +1,41 @@
+{
+  "id": 2358,
+  "name": {
+    "zh_tw": "卷甲蟲-咪魘",
+    "en": "N_ARCLOUSE"
+  },
+  "image_url": "/images/monsters/2358.gif",
+  "basic_info": {
+    "level": 134,
+    "race": "昆蟲",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 48013,
+    "attack": {
+      "min": 1082,
+      "max": 1524
+    },
+    "magic_attack": {
+      "min": 417,
+      "max": 623
+    },
+    "defense": 101,
+    "magic_defense": 45,
+    "hit_100_percent": 425,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 65,
+      "agi": 85,
+      "vit": 51,
+      "int": 45,
+      "dex": 251,
+      "luk": 31
+    }
+  },
+  "drops": []
+}

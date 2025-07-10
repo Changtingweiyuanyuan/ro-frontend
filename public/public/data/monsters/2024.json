@@ -1,0 +1,41 @@
+{
+  "id": 2024,
+  "name": {
+    "zh_tw": "石錘巨人 / 鈽鐳巨人",
+    "en": "BRADIUM_GOLEM"
+  },
+  "image_url": "/images/monsters/2024.gif",
+  "basic_info": {
+    "level": 133,
+    "race": "無形",
+    "element": {
+      "type": "地",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 45739,
+    "attack": {
+      "min": 1367,
+      "max": 1891
+    },
+    "magic_attack": {
+      "min": 250,
+      "max": 312
+    },
+    "defense": 559,
+    "magic_defense": 12,
+    "hit_100_percent": 364,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 189,
+      "agi": 25,
+      "vit": 125,
+      "int": 45,
+      "dex": 104,
+      "luk": 33
+    }
+  },
+  "drops": []
+}

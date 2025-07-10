@@ -1,0 +1,41 @@
+{
+  "id": 2889,
+  "name": {
+    "zh_tw": "精英風靈龜 / 菁英風靈龜",
+    "en": "C3_ASSULTER"
+  },
+  "image_url": "/images/monsters/2889.gif",
+  "basic_info": {
+    "level": 100,
+    "race": "人形",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 44885,
+    "attack": {
+      "min": 801,
+      "max": 1103
+    },
+    "magic_attack": {
+      "min": 166,
+      "max": 208
+    },
+    "defense": 169,
+    "magic_defense": 49,
+    "hit_100_percent": 395,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 92,
+      "vit": 30,
+      "int": 20,
+      "dex": 144,
+      "luk": 15
+    }
+  },
+  "drops": []
+}

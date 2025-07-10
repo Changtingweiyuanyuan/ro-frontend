@@ -1,0 +1,41 @@
+{
+  "id": 3012,
+  "name": {
+    "zh_tw": "墮落的吸血蝙蝠",
+    "en": "EP14_3_DEATH_A_MOB3"
+  },
+  "image_url": "/images/monsters/3012.gif",
+  "basic_info": {
+    "level": 158,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "小"
+  },
+  "stats": {
+    "hp": 222550,
+    "attack": {
+      "min": 1002,
+      "max": 1382
+    },
+    "magic_attack": {
+      "min": 361,
+      "max": 491
+    },
+    "defense": 240,
+    "magic_defense": 70,
+    "hit_100_percent": 453,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 86,
+      "agi": 85,
+      "vit": 75,
+      "int": 53,
+      "dex": 100,
+      "luk": 50
+    }
+  },
+  "drops": []
+}

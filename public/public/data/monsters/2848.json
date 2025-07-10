@@ -1,0 +1,41 @@
+{
+  "id": 2848,
+  "name": {
+    "zh_tw": "精英刺尾蜻蜓 / 迅捷刺尾蜻蜓",
+    "en": "C1_DRAGON_TAIL"
+  },
+  "image_url": "/images/monsters/2848.gif",
+  "basic_info": {
+    "level": 86,
+    "race": "昆蟲",
+    "element": {
+      "type": "風",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 23400,
+    "attack": {
+      "min": 339,
+      "max": 435
+    },
+    "magic_attack": {
+      "min": 150,
+      "max": 172
+    },
+    "defense": 63,
+    "magic_defense": 25,
+    "hit_100_percent": 355,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 61,
+      "agi": 65,
+      "vit": 35,
+      "int": 40,
+      "dex": 62,
+      "luk": 20
+    }
+  },
+  "drops": []
+}

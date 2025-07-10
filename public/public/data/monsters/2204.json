@@ -1,0 +1,41 @@
+{
+  "id": 2204,
+  "name": {
+    "zh_tw": "賽杜拉",
+    "en": "SEDORA"
+  },
+  "image_url": "/images/monsters/2204.gif",
+  "basic_info": {
+    "level": 110,
+    "race": "魚貝",
+    "element": {
+      "type": "水",
+      "level": 2
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 22050,
+    "attack": {
+      "min": 842,
+      "max": 1146
+    },
+    "magic_attack": {
+      "min": 527,
+      "max": 795
+    },
+    "defense": 92,
+    "magic_defense": 55,
+    "hit_100_percent": 444,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 126,
+      "agi": 118,
+      "vit": 61,
+      "int": 107,
+      "dex": 109,
+      "luk": 84
+    }
+  },
+  "drops": []
+}

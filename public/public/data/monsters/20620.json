@@ -1,0 +1,41 @@
+{
+  "id": 20620,
+  "name": {
+    "zh_tw": "紅椒 / 卡帕",
+    "en": "MD_REDPEPPER"
+  },
+  "image_url": "/images/monsters/20620.gif",
+  "basic_info": {
+    "level": 135,
+    "race": "無形",
+    "element": {
+      "type": "火",
+      "level": 3
+    },
+    "size": "中"
+  },
+  "stats": {
+    "hp": 9514800,
+    "attack": {
+      "min": 1179,
+      "max": 1665
+    },
+    "magic_attack": {
+      "min": 704,
+      "max": 1126
+    },
+    "defense": 345,
+    "magic_defense": 77,
+    "hit_100_percent": 416,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 72,
+      "agi": 73,
+      "vit": 70,
+      "int": 78,
+      "dex": 109,
+      "luk": 41
+    }
+  },
+  "drops": []
+}

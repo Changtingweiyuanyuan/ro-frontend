@@ -1,0 +1,41 @@
+{
+  "id": 1708,
+  "name": {
+    "zh_tw": "魔劍士 達納托斯的記憶",
+    "en": "THANATOS"
+  },
+  "image_url": "/images/monsters/1708.gif",
+  "basic_info": {
+    "level": 99,
+    "race": "惡魔",
+    "element": {
+      "type": "念",
+      "level": 4
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 1445660,
+    "attack": {
+      "min": 4163,
+      "max": 6147
+    },
+    "magic_attack": {
+      "min": 1354,
+      "max": 2358
+    },
+    "defense": 364,
+    "magic_defense": 35,
+    "hit_100_percent": 434,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 100,
+      "agi": 129,
+      "vit": 30,
+      "int": 86,
+      "dex": 247,
+      "luk": 32
+    }
+  },
+  "drops": []
+}

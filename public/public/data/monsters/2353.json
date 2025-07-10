@@ -1,0 +1,41 @@
+{
+  "id": 2353,
+  "name": {
+    "zh_tw": "米洛斯-咪魘",
+    "en": "N_MINOROUS"
+  },
+  "image_url": "/images/monsters/2353.gif",
+  "basic_info": {
+    "level": 121,
+    "race": "動物",
+    "element": {
+      "type": "火",
+      "level": 2
+    },
+    "size": "大"
+  },
+  "stats": {
+    "hp": 27141,
+    "attack": {
+      "min": 874,
+      "max": 1216
+    },
+    "magic_attack": {
+      "min": 279,
+      "max": 373
+    },
+    "defense": 131,
+    "magic_defense": 41,
+    "hit_100_percent": 374,
+    "flee_95_percent": 0,
+    "base_stats": {
+      "str": 71,
+      "agi": 47,
+      "vit": 51,
+      "int": 51,
+      "dex": 81,
+      "luk": 30
+    }
+  },
+  "drops": []
+}
