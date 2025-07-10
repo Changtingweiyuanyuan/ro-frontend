@@ -133,11 +133,16 @@ const sizeOptions = [
         font-size: 16px;
         font-weight: bold;
         margin-bottom: 4px;
+
+				&:has(+ .btn-options) {
+					margin-bottom: -8px;
+				}
     }
 
     .search-input {
         width: 100%;
         max-width: 800px;
+				margin-bottom: 4px;
         padding: 4px 8px;
         font-size: 18px;
         color: #fff;
@@ -155,7 +160,29 @@ const sizeOptions = [
 
     .btn-options {
         display: flex;
+				padding-top: 12px;
+				padding-bottom: 4px;
         gap: 12px;
+				overflow: auto hidden;
+
+			&::-webkit-scrollbar {
+				width: 4px;
+				height: 4px;
+				padding-top: 12px;
+				background: transparent;
+				visibility: hidden;
+			}
+
+			&::-webkit-scrollbar-thumb {
+				border-radius: 4px;
+				visibility: hidden;
+			}
+
+			&:hover::-webkit-scrollbar-thumb,
+			&:active::-webkit-scrollbar-thumb {
+				background: #98AE2A;
+				visibility: visible;
+			}
     }
 }
 </style>

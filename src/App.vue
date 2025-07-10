@@ -4,10 +4,9 @@ import Header from './components/Header.vue'
 </script>
 
 <template>
-	<Header />
+	<!--<Header />-->
 	<Home msg="Vite + Vue" />
 </template>
 
 <style scoped>
-
 </style>

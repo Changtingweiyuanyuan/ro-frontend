@@ -6,7 +6,7 @@
 
 <style scoped>
 .header {
-	width: 100%;
+	width: -webkit-fill-available;
 	height: 32px;
   background: #98AE2A;
 	color: #46361D;

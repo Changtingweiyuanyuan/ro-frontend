@@ -77,7 +77,7 @@ defineProps({
 		height: 36px;
 		line-height: 36px;
 		font-family: "Slackey";
-		filter: drop-shadow(2px 2px 0px black);
+		filter: drop-shadow(2px 2px 0px black) drop-shadow(-1px -1px 0px black);
 
 		& > img {
 			height: 36px;

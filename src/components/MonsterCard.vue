@@ -83,6 +83,7 @@ const attackRange = computed(() => {
             {{ spawn.description.replace('-', '').trim() }} ({{ spawn.map_name }}) {{ spawn.spawn_info || '' }}
           </div>
         </div>
+				<div v-else class="spawn-tooltip-empty">暫無資料</div>
       </div>
 
       <div class="attributes">
@@ -192,14 +193,16 @@ const attackRange = computed(() => {
       opacity: 1;
     	transform: translate(0, -12px);
     }
+		.spawn-tooltip-empty {
+      visibility: visible;
+      opacity: 1;
+		}
   }
 }
 
 .spawn-tooltip {
   visibility: hidden;
   opacity: 0;
-  //visibility: visible;
-  //opacity: 1;
   position: absolute;
   background-color: #363636;
   color: #fff;
@@ -226,6 +229,19 @@ const attackRange = computed(() => {
     border-style: solid;
     border-color: #3d2d1b transparent transparent transparent;
   }
+
+	&-empty {
+		visibility: hidden;
+		opacity: 0;
+		position: absolute;
+		top: 0;
+    left: calc(100% + 8px);
+    font-size: 12px;
+    font-weight: 500;
+    color: #B62B14;
+    word-break: keep-all;
+		transition: opacity 0.2s ease;
+	}
 }
 
 .tooltip-item {
