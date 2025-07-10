@@ -5,19 +5,51 @@ const props = defineProps({
   monster: Object,
 })
 
-// 解析掉落物名稱的函式
-const parseDropName = (fullName) => {
-  if (typeof fullName !== 'string') return '';
-  const match = fullName.match(/^(.*?)\s*\(/);
-  return match ? match[1].trim() : fullName;
-}
+// 【最終修正】重寫為智慧型判斷函式，處理多種資料格式
+const getDropName = (drop) => {
+  if (typeof drop.name !== 'string') return 'N/A';
 
-// 解析掉落物機率的函式
-const parseDropRate = (fullName) => {
-  if (typeof fullName !== 'string') return '';
-  const rateMatch = fullName.match(/([\d.]+%)/);
-  return rateMatch ? rateMatch[1] : '';
-}
+  // 如果 rate 欄位是有效的數字，代表 name 欄位是乾淨的，直接回傳
+  if (typeof drop.rate === 'number' && drop.rate > 0) {
+    return drop.name;
+  }
+
+  // 如果 rate 欄位無效，則從 name 字串中移除百分比部分
+  // 這個正則表達式能同時處理 " (5%)" 和 " 5%" 兩種情況
+  return drop.name
+    .replace(/\s*\(\s*[\d.]+%?\s*\)\s*$/, '') 
+    .replace(/\s+[\d.]+%?\s*$/, '')
+    .trim();
+};
+
+// 【最終修正】重寫為智慧型判斷函式，處理多種資料格式
+const getDropRate = (drop) => {
+  // 優先使用 rate 欄位
+  if (typeof drop.rate === 'number' && drop.rate > 0) {
+    // 格式化數字為百分比字串
+    if (drop.rate % 1 === 0) {
+      return `${drop.rate}%`;
+    }
+    // toFixed(2) 會處理小數，例如 0.14 -> "0.14"
+    // parseFloat + toFixed 可避免不必要的 .00，例如 5.0 -> 5
+    const formattedRate = parseFloat(drop.rate.toFixed(2));
+    return `${formattedRate}%`;
+  }
+
+  // rate 欄位無效時，備用方案：解析 name 字串
+  if (typeof drop.name === 'string') {
+    // 嘗試匹配無括號格式，例如 " 5%"
+    let match = drop.name.match(/([\d.]+%)\s*$/);
+    if (match) return match[1];
+
+    // 嘗試匹配有括號格式，例如 " (5%)"
+    match = drop.name.match(/\(\s*([\d.]+%)\s*\)/);
+    if (match) return match[1];
+  }
+
+  return ''; // 所有方法都找不到，則回傳空字串
+};
+
 
 // 格式化需要特殊顯示的數值
 const formatStatValue = (value) => {
@@ -98,9 +130,9 @@ const attackRange = computed(() => {
 
     <div class="drops-list" v-if="monster.drops && monster.drops.length > 0">
         <div v-for="drop in monster.drops" :key="drop.item_id" class="drop-item-row">
-            <img :src="drop.icon_url" :alt="parseDropName(drop.name)" class="drop-icon">
-            <span class="drop-name">{{ parseDropName(drop.name) }}</span>
-            <span class="drop-rate">{{ parseDropRate(drop.name) }}</span>
+            <img :src="drop.icon_url" :alt="getDropName(drop)" class="drop-icon">
+            <span class="drop-name">{{ getDropName(drop) }}</span>
+            <span class="drop-rate">{{ getDropRate(drop) }}</span>
         </div>
     </div>
     <div class="drops-list-placeholder" v-else></div>
@@ -182,9 +214,7 @@ const attackRange = computed(() => {
 
 .tooltip-item {
   font-size: 13px;
-  /* 【修改】移除 no-wrap，允許文字在必要時換行 */
-  /* white-space: nowrap; */
-  text-align: left; /* 確保換行後文字靠左對齊 */
+  text-align: left;
 }
 
 .attributes {
