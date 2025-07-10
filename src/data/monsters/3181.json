@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3181.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 90,
     "hit_100_percent": 419,
-    "flee_95_percent": 0,
+    "flee_95_percent": 426,
     "base_stats": {
       "str": 109,
       "agi": 78,
@@ -37,6 +37,13 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@air2",
+      "description": "- 飛空艇",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 12072,

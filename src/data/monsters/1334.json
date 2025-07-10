@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1334.gif",
   "basic_info": {
-    "level": 99,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 0,
     "magic_defense": 0,
     "hit_100_percent": 300,
-    "flee_95_percent": 0,
+    "flee_95_percent": 1468,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,6 +37,18 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "gefg_cas01",
+      "description": "- 布哩妥利亞 公會 01 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "nguild_gef",
+      "description": "- 十字星_天下",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 607,

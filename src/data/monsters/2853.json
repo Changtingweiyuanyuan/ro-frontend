@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2853.gif",
   "basic_info": {
-    "level": 116,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 93,
     "magic_defense": 28,
     "hit_100_percent": 414,
-    "flee_95_percent": 0,
+    "flee_95_percent": 500,
     "base_stats": {
       "str": 114,
       "agi": 90,
@@ -37,6 +37,13 @@
       "luk": 41
     }
   },
+  "spawns": [
+    {
+      "map_name": "jupe_core",
+      "description": "- 優配擂斯 中心部",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

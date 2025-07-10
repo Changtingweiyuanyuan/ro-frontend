@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2549.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 38,
     "hit_100_percent": 350,
-    "flee_95_percent": 0,
+    "flee_95_percent": 406,
     "base_stats": {
       "str": 50,
       "agi": 50,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ge_st",
+      "description": "- 吉芬魔法大賽",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 27249,

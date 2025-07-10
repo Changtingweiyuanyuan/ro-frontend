@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2754.gif",
   "basic_info": {
-    "level": 55,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 72,
     "magic_defense": 12,
     "hit_100_percent": 285,
-    "flee_95_percent": 0,
+    "flee_95_percent": 287,
     "base_stats": {
       "str": 52,
       "agi": 24,
@@ -37,6 +37,13 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild09",
+      "description": "- 要塞都市 山特樂曼(南邊)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 707,

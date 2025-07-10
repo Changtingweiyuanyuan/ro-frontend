@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1307.gif",
   "basic_info": {
-    "level": 79,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 50,
     "hit_100_percent": 363,
-    "flee_95_percent": 0,
+    "flee_95_percent": 344,
     "base_stats": {
       "str": 72,
       "agi": 75,
@@ -37,6 +37,23 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun01",
+      "description": "- 公會地下密穴 (斐揚)",
+      "spawn_info": "3x / 20 分鐘"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "1x / 60~180 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1166.gif",
   "basic_info": {
-    "level": 59,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 126,
     "magic_defense": 3,
     "hit_100_percent": 283,
-    "flee_95_percent": 0,
+    "flee_95_percent": 286,
     "base_stats": {
       "str": 56,
       "agi": 21,
@@ -37,6 +37,38 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@face",
+      "description": "- 人面蟲洞穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "bra_fild01",
+      "description": "- 巴西平原",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_07",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "161x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_08",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "pay_fild10",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "64x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "8x / 2~3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 514,

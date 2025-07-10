@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3256.gif",
   "basic_info": {
-    "level": 148,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 91,
     "magic_defense": 42,
     "hit_100_percent": 401,
-    "flee_95_percent": 0,
+    "flee_95_percent": 444,
     "base_stats": {
       "str": 76,
       "agi": 53,
@@ -37,5 +37,12 @@
       "luk": 3
     }
   },
+  "spawns": [
+    {
+      "map_name": "un_bunker",
+      "description": "- 地下碉堡",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1276.gif",
   "basic_info": {
-    "level": 82,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 40,
     "hit_100_percent": 312,
-    "flee_95_percent": 0,
+    "flee_95_percent": 396,
     "base_stats": {
       "str": 53,
       "agi": 24,
@@ -37,6 +37,33 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_cas02",
+      "description": "- 克雷斯特漢姆古城 地上2層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "gl_knt01",
+      "description": "- 克雷斯特漢姆 騎士團1樓",
+      "spawn_info": "14x / 5 秒"
+    },
+    {
+      "map_name": "gl_knt02",
+      "description": "- 克雷斯特漢姆 騎士團2樓",
+      "spawn_info": "38x / 5 秒"
+    },
+    {
+      "map_name": "gl_step",
+      "description": "- 克雷斯特漢姆 樓梯密穴",
+      "spawn_info": "13x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

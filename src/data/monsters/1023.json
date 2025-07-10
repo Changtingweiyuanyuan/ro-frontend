@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1023.gif",
   "basic_info": {
-    "level": 44,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 52,
     "magic_defense": 3,
     "hit_100_percent": 261,
-    "flee_95_percent": 0,
+    "flee_95_percent": 233,
     "base_stats": {
       "str": 32,
       "agi": 15,
@@ -37,6 +37,28 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@orcs",
+      "description": "- 獸人地下洞穴 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild03",
+      "description": "- 吉芬 區域",
+      "spawn_info": "73x / 5 秒"
+    },
+    {
+      "map_name": "gef_fild10",
+      "description": "- 東邊 獸人村落",
+      "spawn_info": "179x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

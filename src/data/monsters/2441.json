@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2441.gif",
   "basic_info": {
-    "level": 99,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 510,
     "magic_defense": 139,
     "hit_100_percent": 458,
-    "flee_95_percent": 0,
+    "flee_95_percent": 448,
     "base_stats": {
       "str": 272,
       "agi": 148,
@@ -37,6 +37,13 @@
       "luk": 59
     }
   },
+  "spawns": [
+    {
+      "map_name": "teg_dun01",
+      "description": "- TE 公會地下迷宮",
+      "spawn_info": "1x / 480 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

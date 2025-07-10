@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2191.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 1,
     "magic_defense": 1,
     "hit_100_percent": 301,
-    "flee_95_percent": 0,
+    "flee_95_percent": 271,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,5 +37,17 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@pump",
+      "description": "- 排水溝 一樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@pump",
+      "description": "- 排水溝 二樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

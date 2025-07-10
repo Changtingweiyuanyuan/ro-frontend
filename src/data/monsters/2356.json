@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2356.gif",
   "basic_info": {
-    "level": 137,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 210,
     "magic_defense": 40,
     "hit_100_percent": 517,
-    "flee_95_percent": 0,
+    "flee_95_percent": 368,
     "base_stats": {
       "str": 71,
       "agi": 180,
@@ -37,6 +37,13 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "moc_prydn2",
+      "description": "- 咪羅克金字塔地下2樓 咪魘",
+      "spawn_info": "35x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

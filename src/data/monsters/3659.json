@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3659.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 330,
     "magic_defense": 168,
     "hit_100_percent": 555,
-    "flee_95_percent": 0,
+    "flee_95_percent": 605,
     "base_stats": {
       "str": 148,
       "agi": 176,
@@ -37,6 +37,13 @@
       "luk": 96
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@md_gef(hard)",
+      "description": "- 周五副本 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 12858,

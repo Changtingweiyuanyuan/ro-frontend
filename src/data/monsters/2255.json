@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2255.gif",
   "basic_info": {
-    "level": 143,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 479,
     "magic_defense": 262,
     "hit_100_percent": 598,
-    "flee_95_percent": 0,
+    "flee_95_percent": 729,
     "base_stats": {
       "str": 191,
       "agi": 223,
@@ -37,6 +37,13 @@
       "luk": 163
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld2_gef",
+      "description": "- 深淵迴廊 : 亡者之丘",
+      "spawn_info": "1x / 480~490 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

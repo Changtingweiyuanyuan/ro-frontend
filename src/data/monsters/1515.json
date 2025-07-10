@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1515.gif",
   "basic_info": {
-    "level": 94,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 62,
     "magic_defense": 43,
     "hit_100_percent": 364,
-    "flee_95_percent": 0,
+    "flee_95_percent": 385,
     "base_stats": {
       "str": 69,
       "agi": 61,
@@ -37,6 +37,23 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "xmas_fild01",
+      "description": "- 姜餅城原野",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 749,

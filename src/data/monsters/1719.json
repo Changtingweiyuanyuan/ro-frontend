@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1719.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 364,
     "magic_defense": 166,
     "hit_100_percent": 502,
-    "flee_95_percent": 0,
+    "flee_95_percent": 607,
     "base_stats": {
       "str": 165,
       "agi": 153,
@@ -37,6 +37,13 @@
       "luk": 72
     }
   },
+  "spawns": [
+    {
+      "map_name": "abyss_03",
+      "description": "- 深淵湖水 地下洞穴 F3",
+      "spawn_info": "1x / 180~190 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1417,

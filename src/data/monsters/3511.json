@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3511.gif",
   "basic_info": {
-    "level": 82,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 75,
     "magic_defense": 30,
     "hit_100_percent": 329,
-    "flee_95_percent": 0,
+    "flee_95_percent": 316,
     "base_stats": {
       "str": 64,
       "agi": 45,
@@ -37,6 +37,18 @@
       "luk": 12
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@pop1",
+      "description": "- 教皇辦公室",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@pop2",
+      "description": "- 回家的路上",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 504,

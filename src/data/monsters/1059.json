@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1059.gif",
   "basic_info": {
-    "level": 78,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 287,
     "magic_defense": 192,
     "hit_100_percent": 479,
-    "flee_95_percent": 0,
+    "flee_95_percent": 446,
     "base_stats": {
       "str": 76,
       "agi": 186,
@@ -37,6 +37,23 @@
       "luk": 79
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun02",
+      "description": "- 公會地下密穴 (艾爾帕蘭)",
+      "spawn_info": "1x / 480~490 分鐘"
+    },
+    {
+      "map_name": "mjolnir_04",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

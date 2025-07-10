@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2847.gif",
   "basic_info": {
-    "level": 47,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 50,
     "magic_defense": 15,
     "hit_100_percent": 285,
-    "flee_95_percent": 0,
+    "flee_95_percent": 273,
     "base_stats": {
       "str": 35,
       "agi": 34,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "in_sphinx1",
+      "description": "- 史芬克斯 密穴 1層",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

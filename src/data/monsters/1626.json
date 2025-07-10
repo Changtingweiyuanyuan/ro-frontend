@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1626.gif",
   "basic_info": {
-    "level": 79,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 50,
     "hit_100_percent": 361,
-    "flee_95_percent": 0,
+    "flee_95_percent": 349,
     "base_stats": {
       "str": 54,
       "agi": 63,
@@ -37,6 +37,13 @@
       "luk": 99
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_dun03",
+      "description": "- 吉芬塔 地下密穴 4層",
+      "spawn_info": "1x / 10~15 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 7337,

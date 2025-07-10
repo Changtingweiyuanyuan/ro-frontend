@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1987.gif",
   "basic_info": {
-    "level": 125,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 143,
     "magic_defense": 25,
     "hit_100_percent": 405,
-    "flee_95_percent": 0,
+    "flee_95_percent": 431,
     "base_stats": {
       "str": 133,
       "agi": 71,
@@ -37,6 +37,33 @@
       "luk": 49
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_fild01",
+      "description": "- 卡米達山麓",
+      "spawn_info": "60x / 5 秒"
+    },
+    {
+      "map_name": "dic_fild02",
+      "description": "- 卡米達山麓",
+      "spawn_info": "38x / 5 秒"
+    },
+    {
+      "map_name": "man_fild01",
+      "description": "- 馬努克曠野",
+      "spawn_info": "2x / 5 秒"
+    },
+    {
+      "map_name": "man_fild02",
+      "description": "- 馬努克曠野",
+      "spawn_info": "52x / 5 秒"
+    },
+    {
+      "map_name": "man_fild03",
+      "description": "- 馬努克曠野",
+      "spawn_info": "33x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 912,

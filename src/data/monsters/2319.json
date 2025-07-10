@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2319.gif",
   "basic_info": {
-    "level": 151,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 201,
     "magic_defense": 78,
     "hit_100_percent": 565,
-    "flee_95_percent": 0,
+    "flee_95_percent": 653,
     "base_stats": {
       "str": 151,
       "agi": 201,
@@ -37,6 +37,13 @@
       "luk": 66
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ma_c",
+      "description": "- 寶箱巨鱷洞穴",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 2169,

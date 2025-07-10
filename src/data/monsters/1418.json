@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1418.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 314,
     "magic_defense": 185,
     "hit_100_percent": 494,
-    "flee_95_percent": 0,
+    "flee_95_percent": 539,
     "base_stats": {
       "str": 122,
       "agi": 172,
@@ -37,6 +37,18 @@
       "luk": 88
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gon_dun03",
+      "description": "- 昆崙洞 3層 (武陵道院)",
+      "spawn_info": "1x / 94~104 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 661,

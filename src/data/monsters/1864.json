@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1864.gif",
   "basic_info": {
-    "level": 124,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 45,
     "hit_100_percent": 386,
-    "flee_95_percent": 0,
+    "flee_95_percent": 437,
     "base_stats": {
       "str": 117,
       "agi": 58,
@@ -37,6 +37,23 @@
       "luk": 21
     }
   },
+  "spawns": [
+    {
+      "map_name": "abbey01",
+      "description": "- 修道院 F1",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "abbey02",
+      "description": "- 修道院 F2",
+      "spawn_info": "210x / 5 秒"
+    },
+    {
+      "map_name": "nameless_n",
+      "description": "- 無名島",
+      "spawn_info": "12x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 934,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2604.gif",
   "basic_info": {
-    "level": 89,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 89,
     "magic_defense": 28,
     "hit_100_percent": 330,
-    "flee_95_percent": 0,
+    "flee_95_percent": 344,
     "base_stats": {
       "str": 87,
       "agi": 39,
@@ -37,54 +37,61 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_prison",
+      "description": "- 克雷斯特漢姆 地下監獄1樓",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/716.gif"
+      "icon_url": "/images/items/716.gif"
     },
     {
       "item_id": 930,
       "name": "腐爛繃帶",
       "rate": 87.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/930.gif"
+      "icon_url": "/images/items/930.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 2.8,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+      "icon_url": "/images/items/985.gif"
     },
     {
       "item_id": 1099,
       "name": "老舊犯人服",
       "rate": 87.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1099.gif"
+      "icon_url": "/images/items/1099.gif"
     },
     {
       "item_id": 2266,
       "name": "金屬口罩",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2266.gif"
+      "icon_url": "/images/items/2266.gif"
     },
     {
       "item_id": 2408,
       "name": "腳煉",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2408.gif"
+      "icon_url": "/images/items/2408.gif"
     },
     {
       "item_id": 4275,
       "name": "腐屍戰俘卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7016,
       "name": "老舊湯匙",
       "rate": 2.65,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7016.gif"
+      "icon_url": "/images/items/7016.gif"
     }
   ]
 }

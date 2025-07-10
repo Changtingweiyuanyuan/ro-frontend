@@ -2,11 +2,11 @@
   "id": 3748,
   "name": {
     "zh_tw": "精英 / 菁英草寇",
-    "en": "左轮手枪"
+    "en": "左輪手槍"
   },
   "image_url": "/images/monsters/3748.gif",
   "basic_info": {
-    "level": 151,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 121,
     "magic_defense": 50,
     "hit_100_percent": 486,
-    "flee_95_percent": 0,
+    "flee_95_percent": 481,
     "base_stats": {
       "str": 60,
       "agi": 132,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockmi1",
+      "description": "- 洛克里奇礦山",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 7054,

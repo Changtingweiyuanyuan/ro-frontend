@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2799.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 135,
     "magic_defense": 20,
     "hit_100_percent": 395,
-    "flee_95_percent": 0,
+    "flee_95_percent": 410,
     "base_stats": {
       "str": 44,
       "agi": 59,
@@ -37,6 +37,13 @@
       "luk": 33
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_dun01",
+      "description": "- 甲蟲洞 一樓(卡米達隧道)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 993,

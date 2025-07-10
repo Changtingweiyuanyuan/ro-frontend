@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1500.gif",
   "basic_info": {
-    "level": 76,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 30,
     "hit_100_percent": 362,
-    "flee_95_percent": 0,
+    "flee_95_percent": 365,
     "base_stats": {
       "str": 55,
       "agi": 78,
@@ -37,6 +37,18 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "um_fild03",
+      "description": "- 卡拉拉森林",
+      "spawn_info": "121x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1957,

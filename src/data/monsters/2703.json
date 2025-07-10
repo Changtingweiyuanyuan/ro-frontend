@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2703.gif",
   "basic_info": {
-    "level": 30,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 36,
     "magic_defense": 17,
     "hit_100_percent": 257,
-    "flee_95_percent": 0,
+    "flee_95_percent": 237,
     "base_stats": {
       "str": 17,
       "agi": 26,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

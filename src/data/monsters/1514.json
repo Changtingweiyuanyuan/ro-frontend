@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1514.gif",
   "basic_info": {
-    "level": 82,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 83,
     "magic_defense": 36,
     "hit_100_percent": 364,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 59,
       "agi": 76,
@@ -37,6 +37,23 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "lou_dun02",
+      "description": "- 洛陽 古都王陵 2層 (內部)",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "lou_dun03",
+      "description": "- 洛陽 古都王陵 3層 (審良宮)",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1036,

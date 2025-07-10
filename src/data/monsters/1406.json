@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1406.gif",
   "basic_info": {
-    "level": 83,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 61,
     "magic_defense": 38,
     "hit_100_percent": 346,
-    "flee_95_percent": 0,
+    "flee_95_percent": 334,
     "base_stats": {
       "str": 67,
       "agi": 59,
@@ -37,6 +37,13 @@
       "luk": 24
     }
   },
+  "spawns": [
+    {
+      "map_name": "ama_fild01",
+      "description": "- 櫻花城原野",
+      "spawn_info": "57x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 521,

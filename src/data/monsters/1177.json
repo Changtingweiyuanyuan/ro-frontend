@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1177.gif",
   "basic_info": {
-    "level": 54,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 69,
     "magic_defense": 5,
     "hit_100_percent": 273,
-    "flee_95_percent": 0,
+    "flee_95_percent": 253,
     "base_stats": {
       "str": 50,
       "agi": 18,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "orcsdun02",
+      "description": "- 獸人地下洞窟 2層",
+      "spawn_info": "50x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

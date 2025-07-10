@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3658.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 330,
     "magic_defense": 168,
     "hit_100_percent": 471,
-    "flee_95_percent": 0,
+    "flee_95_percent": 518,
     "base_stats": {
       "str": 128,
       "agi": 156,
@@ -37,6 +37,13 @@
       "luk": 76
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@md_gef",
+      "description": "- 周五副本",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 12858,

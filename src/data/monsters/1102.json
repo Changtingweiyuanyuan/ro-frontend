@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1102.gif",
   "basic_info": {
-    "level": 86,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 61,
     "magic_defense": 89,
     "hit_100_percent": 334,
-    "flee_95_percent": 0,
+    "flee_95_percent": 339,
     "base_stats": {
       "str": 66,
       "agi": 38,
@@ -37,6 +37,18 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "alde_dun04",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 4樓",
+      "spawn_info": "57x / 5 秒"
+    },
+    {
+      "map_name": "c_tower1",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 1樓",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 637,

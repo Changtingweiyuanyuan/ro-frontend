@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2018.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 144,
     "magic_defense": 28,
     "hit_100_percent": 412,
-    "flee_95_percent": 0,
+    "flee_95_percent": 484,
     "base_stats": {
       "str": 133,
       "agi": 69,
@@ -37,6 +37,13 @@
       "luk": 44
     }
   },
+  "spawns": [
+    {
+      "map_name": "nyd_dun01",
+      "description": "- 尼德霍格洞穴 1樓",
+      "spawn_info": "2x / 15 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 515,

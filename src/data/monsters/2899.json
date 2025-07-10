@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2899.gif",
   "basic_info": {
-    "level": 109,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 61,
     "magic_defense": 11,
     "hit_100_percent": 399,
-    "flee_95_percent": 0,
+    "flee_95_percent": 365,
     "base_stats": {
       "str": 130,
       "agi": 81,
@@ -37,6 +37,13 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_sew04",
+      "description": "- 克雷斯特漢姆 地下水道 4樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 526,

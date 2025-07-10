@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2769.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 190,
     "magic_defense": 45,
     "hit_100_percent": 347,
-    "flee_95_percent": 0,
+    "flee_95_percent": 359,
     "base_stats": {
       "str": 107,
       "agi": 33,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "ve_fild03",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

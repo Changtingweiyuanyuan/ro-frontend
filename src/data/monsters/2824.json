@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2824.gif",
   "basic_info": {
-    "level": 73,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 158,
     "magic_defense": 42,
     "hit_100_percent": 311,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 81,
       "agi": 26,
@@ -37,6 +37,13 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "yuno_fild12",
+      "description": "- 國界 檢查站",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1032,

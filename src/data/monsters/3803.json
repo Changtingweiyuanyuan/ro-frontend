@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3803.gif",
   "basic_info": {
-    "level": 162,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 400,
     "magic_defense": 100,
     "hit_100_percent": 474,
-    "flee_95_percent": 0,
+    "flee_95_percent": 573,
     "base_stats": {
       "str": 177,
       "agi": 95,
@@ -37,6 +37,13 @@
       "luk": 89
     }
   },
+  "spawns": [
+    {
+      "map_name": "tur_d04_i",
+      "description": "- 幻影: 舊良宮-淒涼舊良宮",
+      "spawn_info": "36x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 526,

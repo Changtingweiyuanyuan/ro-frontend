@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1111.gif",
   "basic_info": {
-    "level": 47,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 50,
     "magic_defense": 15,
     "hit_100_percent": 285,
-    "flee_95_percent": 0,
+    "flee_95_percent": 273,
     "base_stats": {
       "str": 35,
       "agi": 34,
@@ -37,6 +37,78 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "alde_dun01",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 1樓",
+      "spawn_info": "47x / 5 秒"
+    },
+    {
+      "map_name": "alde_dun03",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 3樓",
+      "spawn_info": "55x / 5 秒"
+    },
+    {
+      "map_name": "gef_dun01",
+      "description": "- 吉芬塔 地下密穴 2層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "gl_sew04",
+      "description": "- 克雷斯特漢姆 地下水道 4樓",
+      "spawn_info": "12x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx1",
+      "description": "- 史芬克斯 密穴 1層",
+      "spawn_info": "76x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx2",
+      "description": "- 史芬克斯 密穴 2層",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "mjo_dun02",
+      "description": "- 妙勒尼 廢棄礦場 2層",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd02",
+      "description": "- 金字塔 迷宮 2樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd03",
+      "description": "- 金字塔 迷宮 3樓",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "orcsdun01",
+      "description": "- 獸人地下洞窟 1層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "orcsdun02",
+      "description": "- 獸人地下洞窟 2層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun01",
+      "description": "- 斐揚 (殭屍洞) 地下2層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb4",
+      "description": "- 普隆德拉 地下水道 4樓",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

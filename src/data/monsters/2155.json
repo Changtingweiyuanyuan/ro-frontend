@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2155.gif",
   "basic_info": {
-    "level": 88,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 77,
     "magic_defense": 12,
     "hit_100_percent": 361,
-    "flee_95_percent": 0,
+    "flee_95_percent": 378,
     "base_stats": {
       "str": 66,
       "agi": 65,
@@ -37,30 +37,37 @@
       "luk": 44
     }
   },
+  "spawns": [
+    {
+      "map_name": "dew_dun02",
+      "description": "- 伊斯坦納洞穴 (德瓦他)",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,
       "name": "肉",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/517.gif"
+      "icon_url": "/images/items/517.gif"
     },
     {
       "item_id": 520,
       "name": "西納雷葉子",
       "rate": 2.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/520.gif"
+      "icon_url": "/images/items/520.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 13.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 4519,
       "name": "布托異竺卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1905.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 0,
     "magic_defense": 0,
     "hit_100_percent": 319,
-    "flee_95_percent": 0,
+    "flee_95_percent": 425,
     "base_stats": {
       "str": 1,
       "agi": 17,
@@ -37,5 +37,57 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "arug_cas01",
+      "description": "- 發菲依雅 公會 01",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "arug_cas02",
+      "description": "- 發菲依雅 公會 02",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "arug_cas03",
+      "description": "- 發菲依雅 公會 03",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "arug_cas04",
+      "description": "- 發菲依雅 公會 04",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "arug_cas05",
+      "description": "- 發菲依雅 公會 05",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "schg_cas01",
+      "description": "- 尼它堆 公會 01",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "schg_cas02",
+      "description": "- 尼它堆 公會 02",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "schg_cas03",
+      "description": "- 尼它堆 公會 03",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "schg_cas04",
+      "description": "- 尼它堆 公會 04",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "schg_cas05",
+      "description": "- 尼它堆 公會 05",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1185.gif",
   "basic_info": {
-    "level": 34,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 0,
     "magic_defense": 45,
     "hit_100_percent": 285,
-    "flee_95_percent": 0,
+    "flee_95_percent": 264,
     "base_stats": {
       "str": 1,
       "agi": 51,
@@ -37,6 +37,28 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_cas02",
+      "description": "- 克雷斯特漢姆古城 地上2層",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gl_cas02_",
+      "description": "- 克雷斯特漢姆古城 地上樓層 2樓 (噩咪模式)",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "pay_d03_i",
+      "description": "- 幻影: 月夜貓的噩咪",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "4x / 30 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1001,

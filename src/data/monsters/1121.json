@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1121.gif",
   "basic_info": {
-    "level": 42,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 52,
     "magic_defense": 16,
     "hit_100_percent": 264,
-    "flee_95_percent": 0,
+    "flee_95_percent": 245,
     "base_stats": {
       "str": 27,
       "agi": 19,
@@ -37,6 +37,28 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "anthell01",
+      "description": "- 螞蟻地獄密穴 1層",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "anthell02",
+      "description": "- 螞蟻地獄密穴 2層",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "mjo_dun02",
+      "description": "- 妙勒尼 廢棄礦場 2層",
+      "spawn_info": "41x / 5 秒"
+    },
+    {
+      "map_name": "mjo_dun03",
+      "description": "- 妙勒尼 廢棄礦場 3層",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1073.gif",
   "basic_info": {
-    "level": 43,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 36,
     "magic_defense": 11,
     "hit_100_percent": 260,
-    "flee_95_percent": 0,
+    "flee_95_percent": 246,
     "base_stats": {
       "str": 22,
       "agi": 14,
@@ -37,6 +37,33 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild02",
+      "description": "- 克克魔 海邊",
+      "spawn_info": "27x / 5 秒"
+    },
+    {
+      "map_name": "cmd_fild04",
+      "description": "- 克克魔 海邊",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "cmd_fild07",
+      "description": "- 發樂斯 燈塔島",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild06",
+      "description": "- 毀葛原野",
+      "spawn_info": "35x / 5 秒"
+    },
+    {
+      "map_name": "mal_dun01",
+      "description": "- 星光珊瑚地帶 (綿綿島洞穴)",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1250.gif",
   "basic_info": {
-    "level": 42,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 55,
     "magic_defense": 25,
     "hit_100_percent": 281,
-    "flee_95_percent": 0,
+    "flee_95_percent": 251,
     "base_stats": {
       "str": 32,
       "agi": 35,
@@ -37,6 +37,18 @@
       "luk": 23
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "1x / 20~35 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 512,

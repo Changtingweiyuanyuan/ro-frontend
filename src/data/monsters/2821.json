@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2821.gif",
   "basic_info": {
-    "level": 120,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 43,
     "hit_100_percent": 371,
-    "flee_95_percent": 0,
+    "flee_95_percent": 375,
     "base_stats": {
       "str": 70,
       "agi": 45,
@@ -37,6 +37,13 @@
       "luk": 34
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld_dun02",
+      "description": "- 公會地下密穴 (艾爾帕蘭)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

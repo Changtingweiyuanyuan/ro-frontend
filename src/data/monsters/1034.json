@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1034.gif",
   "basic_info": {
-    "level": 40,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 37,
     "magic_defense": 17,
     "hit_100_percent": 250,
-    "flee_95_percent": 0,
+    "flee_95_percent": 240,
     "base_stats": {
       "str": 25,
       "agi": 10,
@@ -37,6 +37,18 @@
       "luk": 2
     }
   },
+  "spawns": [
+    {
+      "map_name": "beach_dun3",
+      "description": "- 東邊 洞穴 馬吾",
+      "spawn_info": "50x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun01",
+      "description": "- 烏龜島",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1262.gif",
   "basic_info": {
-    "level": 65,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 130,
     "magic_defense": 20,
     "hit_100_percent": 307,
-    "flee_95_percent": 0,
+    "flee_95_percent": 354,
     "base_stats": {
       "str": 75,
       "agi": 35,
@@ -37,6 +37,18 @@
       "luk": 35
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "cmd_fild03",
+      "description": "- 基乃依 沼澤地",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 930,

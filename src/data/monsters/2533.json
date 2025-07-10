@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2533.gif",
   "basic_info": {
-    "level": 155,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 500,
     "magic_defense": 60,
     "hit_100_percent": 475,
-    "flee_95_percent": 0,
+    "flee_95_percent": 558,
     "base_stats": {
       "str": 200,
       "agi": 100,
@@ -37,6 +37,13 @@
       "luk": 100
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@face",
+      "description": "- 人面蟲洞穴",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 997,

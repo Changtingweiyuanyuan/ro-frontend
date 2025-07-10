@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2919.gif",
   "basic_info": {
-    "level": 155,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 99,
     "magic_defense": 55,
     "hit_100_percent": 403,
-    "flee_95_percent": 0,
+    "flee_95_percent": 435,
     "base_stats": {
       "str": 98,
       "agi": 39,
@@ -37,48 +37,55 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "c_tower2_",
+      "description": "- 扭曲的時間的鐘塔 2層",
+      "spawn_info": "55x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 715,
       "name": "黃色魔力礦石",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/715.gif"
+      "icon_url": "/images/items/715.gif"
     },
     {
       "item_id": 1057,
       "name": "蛾蝶翅膀粉末",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1057.gif"
+      "icon_url": "/images/items/1057.gif"
     },
     {
       "item_id": 1061,
       "name": "魔女之星沙",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1061.gif"
+      "icon_url": "/images/items/1061.gif"
     },
     {
       "item_id": 2502,
       "name": "連帽披肩[1]",
       "rate": 0.08,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2502.gif"
+      "icon_url": "/images/items/2502.gif"
     },
     {
       "item_id": 4628,
       "name": "惡靈朽魔卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7001,
       "name": "黴菌粉末",
       "rate": 30.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7001.gif"
+      "icon_url": "/images/items/7001.gif"
     },
     {
       "item_id": 10004,
       "name": "寵物奶嘴",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/10004.gif"
+      "icon_url": "/images/items/10004.gif"
     }
   ]
 }

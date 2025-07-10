@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2855.gif",
   "basic_info": {
-    "level": 14,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 13,
     "magic_defense": 0,
     "hit_100_percent": 227,
-    "flee_95_percent": 0,
+    "flee_95_percent": 203,
     "base_stats": {
       "str": 10,
       "agi": 12,
@@ -37,6 +37,13 @@
       "luk": 7
     }
   },
+  "spawns": [
+    {
+      "map_name": "ra_fild01",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 582,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1212.gif",
   "basic_info": {
-    "level": 47,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 40,
     "magic_defense": 5,
     "hit_100_percent": 268,
-    "flee_95_percent": 0,
+    "flee_95_percent": 296,
     "base_stats": {
       "str": 1,
       "agi": 17,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

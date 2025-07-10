@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1015.gif",
   "basic_info": {
-    "level": 17,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 3,
     "hit_100_percent": 225,
-    "flee_95_percent": 0,
+    "flee_95_percent": 202,
     "base_stats": {
       "str": 15,
       "agi": 8,
@@ -37,6 +37,38 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_dun01",
+      "description": "- 吉芬塔 地下密穴 2層",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun00",
+      "description": "- 斐揚 (殭屍洞) 地下1層",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "pvp_n_8-4",
+      "description": "- PvP : 反十字 房間",
+      "spawn_info": "4x / 6~9 分鐘"
+    },
+    {
+      "map_name": "treasure_n1",
+      "description": "- 依斯魯得島 遇難船 1樓",
+      "spawn_info": "2x / 8 秒"
+    },
+    {
+      "map_name": "treasure_n2",
+      "description": "- 依斯魯得島 遇難船 2樓",
+      "spawn_info": "10x / 1 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

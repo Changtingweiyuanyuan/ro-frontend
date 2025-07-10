@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3076.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 50,
     "hit_100_percent": 301,
-    "flee_95_percent": 0,
+    "flee_95_percent": 271,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,5 +37,12 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def02",
+      "description": "- 波動模式迷宮 - 天空",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

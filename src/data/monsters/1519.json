@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1519.gif",
   "basic_info": {
-    "level": 49,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 8,
     "magic_defense": 15,
     "hit_100_percent": 317,
-    "flee_95_percent": 0,
+    "flee_95_percent": 314,
     "base_stats": {
       "str": 38,
       "agi": 65,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

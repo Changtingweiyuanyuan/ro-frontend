@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3739.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 21,
     "hit_100_percent": 393,
-    "flee_95_percent": 0,
+    "flee_95_percent": 394,
     "base_stats": {
       "str": 49,
       "agi": 79,
@@ -37,6 +37,18 @@
       "luk": 24
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockrdg1",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "rockrdg2",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 702,

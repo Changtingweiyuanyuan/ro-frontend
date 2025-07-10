@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1186.gif",
   "basic_info": {
-    "level": 66,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 94,
     "magic_defense": 45,
     "hit_100_percent": 351,
-    "flee_95_percent": 0,
+    "flee_95_percent": 320,
     "base_stats": {
       "str": 40,
       "agi": 79,
@@ -37,6 +37,28 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_knt01",
+      "description": "- 克雷斯特漢姆 騎士團1樓",
+      "spawn_info": "1x / 60~90 分鐘"
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "1x / 240 分鐘"
+    },
+    {
+      "map_name": "pvp_n_8-3",
+      "description": "- PvP : 四通道 房間",
+      "spawn_info": "2x / 6~9 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1001,

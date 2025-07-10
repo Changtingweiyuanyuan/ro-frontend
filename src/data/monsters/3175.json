@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3175.gif",
   "basic_info": {
-    "level": 113,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 34,
     "hit_100_percent": 373,
-    "flee_95_percent": 0,
+    "flee_95_percent": 377,
     "base_stats": {
       "str": 109,
       "agi": 54,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@air1",
+      "description": "- 飛空艇",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

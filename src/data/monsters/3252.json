@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3252.gif",
   "basic_info": {
-    "level": 153,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 143,
     "magic_defense": 45,
     "hit_100_percent": 455,
-    "flee_95_percent": 0,
+    "flee_95_percent": 446,
     "base_stats": {
       "str": 88,
       "agi": 98,
@@ -37,42 +37,54 @@
       "luk": 22
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@uns",
+      "description": "- 最後的房間",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "un_bunker",
+      "description": "- 地下碉堡",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 6961,
       "name": "大型廢鐵",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6961.gif"
+      "icon_url": "/images/items/6961.gif"
     },
     {
       "item_id": 6962,
       "name": "老舊油桶",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6962.gif"
+      "icon_url": "/images/items/6962.gif"
     },
     {
       "item_id": 7319,
       "name": "老舊的鐵板",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7319.gif"
+      "icon_url": "/images/items/7319.gif"
     },
     {
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7507.gif"
+      "icon_url": "/images/items/7507.gif"
     },
     {
       "item_id": 7512,
       "name": "燒焦的部品碎片",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7512.gif"
+      "icon_url": "/images/items/7512.gif"
     },
     {
       "item_id": 27019,
       "name": "DR815卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/27019.gif"
+      "icon_url": "/images/items/27019.gif"
     }
   ]
 }

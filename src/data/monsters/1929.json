@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1929.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 190,
     "magic_defense": 45,
     "hit_100_percent": 469,
-    "flee_95_percent": 0,
+    "flee_95_percent": 539,
     "base_stats": {
       "str": 140,
       "agi": 152,
@@ -37,6 +37,13 @@
       "luk": 95
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@cata",
+      "description": "- 封印的神殿 2樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1181,

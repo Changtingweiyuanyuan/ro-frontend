@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1368.gif",
   "basic_info": {
-    "level": 73,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 158,
     "magic_defense": 42,
     "hit_100_percent": 311,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 81,
       "agi": 26,
@@ -37,48 +37,110 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "hu_fild01",
+      "description": "- 達納托斯之塔",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild02",
+      "description": "- 毀葛原野",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild04",
+      "description": "- 毀葛 原野",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "lou_fild01",
+      "description": "- 龍之城 原野",
+      "spawn_info": "28x / 5 秒"
+    },
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild01",
+      "description": "- 國界 檢查站",
+      "spawn_info": "75x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild04",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild06",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "29x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild08",
+      "description": "- 啟 海伊洛 學院",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild09",
+      "description": "- 秀發茲發德 警備隊 露營地",
+      "spawn_info": "42x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild11",
+      "description": "- 朱諾 原野",
+      "spawn_info": "55x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild12",
+      "description": "- 國界 檢查站",
+      "spawn_info": "68x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1032,
       "name": "噬人樹花",
       "rate": 31.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1032.gif"
+      "icon_url": "/images/items/1032.gif"
     },
     {
       "item_id": 1033,
       "name": "噬人樹根",
       "rate": 27.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1033.gif"
+      "icon_url": "/images/items/1033.gif"
     },
     {
       "item_id": 2207,
       "name": "花朵頭飾",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2207.gif"
+      "icon_url": "/images/items/2207.gif"
     },
     {
       "item_id": 2253,
       "name": "向日葵頭飾",
       "rate": 0.15,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2253.gif"
+      "icon_url": "/images/items/2253.gif"
     },
     {
       "item_id": 4280,
       "name": "邪惡向日葵卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 12002,
       "name": "治愈術5級卷軸",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12002.gif"
+      "icon_url": "/images/items/12002.gif"
     },
     {
       "item_id": 12359,
       "name": "光滑柔軟草",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12359.gif"
+      "icon_url": "/images/items/12359.gif"
     }
   ]
 }

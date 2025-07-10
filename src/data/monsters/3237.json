@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3237.gif",
   "basic_info": {
-    "level": 188,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 320,
     "magic_defense": 200,
     "hit_100_percent": 668,
-    "flee_95_percent": 0,
+    "flee_95_percent": 811,
     "base_stats": {
       "str": 360,
       "agi": 260,
@@ -37,5 +37,12 @@
       "luk": 100
     }
   },
+  "spawns": [
+    {
+      "map_name": "lhz_dun_n",
+      "description": "- 戰死者之墓",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

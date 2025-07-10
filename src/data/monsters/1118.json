@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1118.gif",
   "basic_info": {
-    "level": 59,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 99,
     "magic_defense": 29,
     "hit_100_percent": 304,
-    "flee_95_percent": 0,
+    "flee_95_percent": 301,
     "base_stats": {
       "str": 49,
       "agi": 29,
@@ -37,6 +37,53 @@
       "luk": 80
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "cmd_fild01",
+      "description": "- 巴不其卡 森林",
+      "spawn_info": "67x / 5 秒"
+    },
+    {
+      "map_name": "cmd_fild03",
+      "description": "- 基乃依 沼澤地",
+      "spawn_info": "64x / 5 秒"
+    },
+    {
+      "map_name": "gef_fild08",
+      "description": "- 吉芬 區域",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_07",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_08",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_10",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "41x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_11",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "45x / 5 秒"
+    },
+    {
+      "map_name": "sec_in02",
+      "description": "- 巴哈拉宮 內部",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 521,

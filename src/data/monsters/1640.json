@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1640.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 567,
     "magic_defense": 155,
     "hit_100_percent": 538,
-    "flee_95_percent": 0,
+    "flee_95_percent": 619,
     "base_stats": {
       "str": 303,
       "agi": 165,
@@ -37,6 +37,13 @@
       "luk": 66
     }
   },
+  "spawns": [
+    {
+      "map_name": "lhz_dun03",
+      "description": "- 生體試驗 研究所 地下3樓",
+      "spawn_info": "1x / 45~85 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

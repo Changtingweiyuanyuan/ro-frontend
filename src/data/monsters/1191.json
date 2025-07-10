@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1191.gif",
   "basic_info": {
-    "level": 56,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 15,
     "hit_100_percent": 376,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 49,
       "agi": 120,
@@ -37,6 +37,128 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abyss_01",
+      "description": "- 深淵湖水 地下洞穴 F1",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "abyss_02",
+      "description": "- 深淵湖水 地下洞穴 F2",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "abyss_03",
+      "description": "- 深淵湖水 地下洞穴 F3",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "ama_dun03",
+      "description": "- 櫻花城迷宮3層 (地下神社)",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "c_tower2",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 2樓",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "c_tower3",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 3樓",
+      "spawn_info": "9x / 5 秒"
+    },
+    {
+      "map_name": "c_tower4",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 4樓",
+      "spawn_info": "12x / 5 秒"
+    },
+    {
+      "map_name": "gl_cas02",
+      "description": "- 克雷斯特漢姆古城 地上2層",
+      "spawn_info": "2x / 5 秒"
+    },
+    {
+      "map_name": "gl_church",
+      "description": "- 克雷斯特漢姆古城 修道院",
+      "spawn_info": "12x / 5 秒"
+    },
+    {
+      "map_name": "gl_chyard",
+      "description": "- 克雷斯特漢姆古城 地下公墓",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "gl_step",
+      "description": "- 克雷斯特漢姆 樓梯密穴",
+      "spawn_info": "6x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx3",
+      "description": "- 史芬克斯 密穴 3層",
+      "spawn_info": "6x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx4",
+      "description": "- 史芬克斯 密穴 4層",
+      "spawn_info": "6x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx5",
+      "description": "- 史芬克斯 密穴 5層",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "lou_dun02",
+      "description": "- 洛陽 古都王陵 2層 (內部)",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd03",
+      "description": "- 金字塔 迷宮 3樓",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd04",
+      "description": "- 金字塔 迷宮 4樓",
+      "spawn_info": "18x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd06",
+      "description": "- 金字塔 迷宮 地下3樓",
+      "spawn_info": "35x / 5 秒"
+    },
+    {
+      "map_name": "tha_t01",
+      "description": "- 達納托斯之塔 下層 1樓 博物館入口",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "tha_t02",
+      "description": "- 達納托斯之塔 下層 2樓 博物館",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "tha_t03",
+      "description": "- 達納托斯之塔 下層 3樓 廢棄空間",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "tha_t04",
+      "description": "- 達納托斯之塔 下層 4樓 廢棄空間",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "treasure02",
+      "description": "- 沉沒之船 2樓",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

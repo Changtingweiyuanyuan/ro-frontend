@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1988.gif",
   "basic_info": {
-    "level": 114,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 25,
     "magic_defense": 5,
     "hit_100_percent": 357,
-    "flee_95_percent": 0,
+    "flee_95_percent": 513,
     "base_stats": {
       "str": 94,
       "agi": 32,
@@ -37,6 +37,13 @@
       "luk": 59
     }
   },
+  "spawns": [
+    {
+      "map_name": "man_fild01",
+      "description": "- 馬努克曠野",
+      "spawn_info": "148x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 905,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2732.gif",
   "basic_info": {
-    "level": 107,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 37,
     "hit_100_percent": 383,
-    "flee_95_percent": 0,
+    "flee_95_percent": 397,
     "base_stats": {
       "str": 118,
       "agi": 68,
@@ -37,54 +37,61 @@
       "luk": 43
     }
   },
+  "spawns": [
+    {
+      "map_name": "mag_dun02",
+      "description": "- 朱諾 諾可羅德(火洞) 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 505,
       "name": "藍色藥水",
       "rate": 1.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/505.gif"
+      "icon_url": "/images/items/505.gif"
     },
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 3.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/510.gif"
+      "icon_url": "/images/items/510.gif"
     },
     {
       "item_id": 695,
       "name": "聖靈召喚 等級5",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/695.gif"
+      "icon_url": "/images/items/695.gif"
     },
     {
       "item_id": 1261,
       "name": "刺殺拳刃",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1261.gif"
+      "icon_url": "/images/items/1261.gif"
     },
     {
       "item_id": 2608,
       "name": "幸運珠鍊",
       "rate": 0.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2608.gif"
+      "icon_url": "/images/items/2608.gif"
     },
     {
       "item_id": 2626,
       "name": "幸運珠鍊[1]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2626.gif"
+      "icon_url": "/images/items/2626.gif"
     },
     {
       "item_id": 4166,
       "name": "七彩咪魘卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7120,
       "name": "燃燒的馬蹄鐵",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7120.gif"
+      "icon_url": "/images/items/7120.gif"
     }
   ]
 }

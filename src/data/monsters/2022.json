@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2022.gif",
   "basic_info": {
-    "level": 117,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 60,
     "magic_defense": 75,
     "hit_100_percent": 357,
-    "flee_95_percent": 0,
+    "flee_95_percent": 561,
     "base_stats": {
       "str": 1,
       "agi": 34,
@@ -37,6 +37,13 @@
       "luk": 34
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@nyd",
+      "description": "- 尼德霍格巢穴 1樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1170,

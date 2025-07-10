@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2717.gif",
   "basic_info": {
-    "level": 85,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 32,
     "hit_100_percent": 336,
-    "flee_95_percent": 0,
+    "flee_95_percent": 365,
     "base_stats": {
       "str": 76,
       "agi": 49,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "alde_dun03",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 3樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 525,

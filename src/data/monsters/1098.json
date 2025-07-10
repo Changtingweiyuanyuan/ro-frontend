@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1098.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 103,
     "magic_defense": 48,
     "hit_100_percent": 383,
-    "flee_95_percent": 0,
+    "flee_95_percent": 400,
     "base_stats": {
       "str": 88,
       "agi": 67,
@@ -37,6 +37,28 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "in_sphinx4",
+      "description": "- 史芬克斯 密穴 4層",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx5",
+      "description": "- 史芬克斯 密穴 5層",
+      "spawn_info": "11x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

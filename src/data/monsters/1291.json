@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1291.gif",
   "basic_info": {
-    "level": 121,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 56,
     "hit_100_percent": 399,
-    "flee_95_percent": 0,
+    "flee_95_percent": 412,
     "base_stats": {
       "str": 63,
       "agi": 69,
@@ -37,6 +37,33 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@cata",
+      "description": "- 封印的神殿 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun04",
+      "description": "- 公會地下密穴 (吉芬)",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "gl_chyard_",
+      "description": "- 克雷斯特漢姆古城 地下公墓 (噩咪模式)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

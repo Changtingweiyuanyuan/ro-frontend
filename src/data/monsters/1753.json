@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1753.gif",
   "basic_info": {
-    "level": 128,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 65,
     "magic_defense": 35,
     "hit_100_percent": 410,
-    "flee_95_percent": 0,
+    "flee_95_percent": 418,
     "base_stats": {
       "str": 114,
       "agi": 77,
@@ -37,6 +37,23 @@
       "luk": 27
     }
   },
+  "spawns": [
+    {
+      "map_name": "odin_tem01",
+      "description": "- 奧丁神殿 1層",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "odin_tem02",
+      "description": "- 奧丁神殿 2層",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "odin_tem03",
+      "description": "- 奧丁神殿 3層",
+      "spawn_info": "4x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 716,

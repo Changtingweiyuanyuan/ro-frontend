@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1587.gif",
   "basic_info": {
-    "level": 70,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 108,
     "magic_defense": 20,
     "hit_100_percent": 307,
-    "flee_95_percent": 0,
+    "flee_95_percent": 314,
     "base_stats": {
       "str": 54,
       "agi": 33,
@@ -37,6 +37,28 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ayo_dun01",
+      "description": "- 古代神殿 迷宮",
+      "spawn_info": "8x / 5 秒"
+    },
+    {
+      "map_name": "ayo_dun02",
+      "description": "- 古代神殿 內部",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "ayo_fild02",
+      "description": "- 哎喲泰雅 原野",
+      "spawn_info": "9x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 519,

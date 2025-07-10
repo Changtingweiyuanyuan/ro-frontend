@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2851.gif",
   "basic_info": {
-    "level": 68,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 20,
     "hit_100_percent": 345,
-    "flee_95_percent": 0,
+    "flee_95_percent": 312,
     "base_stats": {
       "str": 52,
       "agi": 72,
@@ -37,6 +37,13 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

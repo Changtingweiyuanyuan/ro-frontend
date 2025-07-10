@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1510.gif",
   "basic_info": {
-    "level": 102,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 68,
     "hit_100_percent": 381,
-    "flee_95_percent": 0,
+    "flee_95_percent": 375,
     "base_stats": {
       "str": 97,
       "agi": 67,
@@ -37,6 +37,28 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "niflheim",
+      "description": "- 亡者國度 尼芙菲姆",
+      "spawn_info": "17x / 5 秒"
+    },
+    {
+      "map_name": "nif_fild01",
+      "description": "- 尼芙菲姆 偏遠村落 斯凱領頓",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "nif_fild02",
+      "description": "- 尼芙菲姆 鬼之峽谷",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 740,

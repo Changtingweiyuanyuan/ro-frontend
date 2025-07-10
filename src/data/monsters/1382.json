@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1382.gif",
   "basic_info": {
-    "level": 104,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 68,
     "magic_defense": 61,
     "hit_100_percent": 389,
-    "flee_95_percent": 0,
+    "flee_95_percent": 376,
     "base_stats": {
       "str": 103,
       "agi": 80,
@@ -37,6 +37,18 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mag_dun02",
+      "description": "- 朱諾 諾可羅德(火洞) 2層",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

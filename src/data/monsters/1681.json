@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1681.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 89,
     "magic_defense": 45,
     "hit_100_percent": 440,
-    "flee_95_percent": 0,
+    "flee_95_percent": 468,
     "base_stats": {
       "str": 115,
       "agi": 92,
@@ -37,6 +37,18 @@
       "luk": 66
     }
   },
+  "spawns": [
+    {
+      "map_name": "lhz_dun01",
+      "description": "- 生體試驗 研究所 地下1樓",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "lhz_dun02",
+      "description": "- 生體試驗 研究所 地下2樓",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

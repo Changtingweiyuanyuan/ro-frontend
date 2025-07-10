@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3433.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 16,
     "magic_defense": 3,
     "hit_100_percent": 319,
-    "flee_95_percent": 0,
+    "flee_95_percent": 288,
     "base_stats": {
       "str": 12,
       "agi": 18,
@@ -37,5 +37,12 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@infi",
+      "description": "- 無限空間",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

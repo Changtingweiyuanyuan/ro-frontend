@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1100.gif",
   "basic_info": {
-    "level": 47,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 58,
     "magic_defense": 8,
     "hit_100_percent": 267,
-    "flee_95_percent": 0,
+    "flee_95_percent": 248,
     "base_stats": {
       "str": 38,
       "agi": 17,
@@ -37,6 +37,38 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mjolnir_10",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "194x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_11",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "45x / 5 秒"
+    },
+    {
+      "map_name": "moc_fild03",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "moc_fild13",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "3x / 2~3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

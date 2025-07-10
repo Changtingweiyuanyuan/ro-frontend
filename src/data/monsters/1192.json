@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1192.gif",
   "basic_info": {
-    "level": 77,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 40,
     "hit_100_percent": 304,
-    "flee_95_percent": 0,
+    "flee_95_percent": 339,
     "base_stats": {
       "str": 62,
       "agi": 26,
@@ -37,6 +37,28 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_dun03",
+      "description": "- 吉芬塔 地下密穴 4層",
+      "spawn_info": "14x / 5 秒"
+    },
+    {
+      "map_name": "gl_church",
+      "description": "- 克雷斯特漢姆古城 修道院",
+      "spawn_info": "78x / 5 秒"
+    },
+    {
+      "map_name": "gl_chyard",
+      "description": "- 克雷斯特漢姆古城 地下公墓",
+      "spawn_info": "55x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 716,

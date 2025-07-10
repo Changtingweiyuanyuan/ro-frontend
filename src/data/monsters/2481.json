@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2481.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 93,
     "magic_defense": 53,
     "hit_100_percent": 367,
-    "flee_95_percent": 0,
+    "flee_95_percent": 398,
     "base_stats": {
       "str": 69,
       "agi": 52,
@@ -37,6 +37,13 @@
       "luk": 28
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_chyard_",
+      "description": "- 克雷斯特漢姆古城 地下公墓 (噩咪模式)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 716,

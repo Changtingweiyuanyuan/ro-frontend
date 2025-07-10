@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2807.gif",
   "basic_info": {
-    "level": 83,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 69,
     "magic_defense": 44,
     "hit_100_percent": 335,
-    "flee_95_percent": 0,
+    "flee_95_percent": 382,
     "base_stats": {
       "str": 71,
       "agi": 50,
@@ -37,48 +37,55 @@
       "luk": 12
     }
   },
+  "spawns": [
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 37.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/508.gif"
+      "icon_url": "/images/items/508.gif"
     },
     {
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/508.gif"
+      "icon_url": "/images/items/508.gif"
     },
     {
       "item_id": 709,
       "name": "迷幻藥",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/709.gif"
+      "icon_url": "/images/items/709.gif"
     },
     {
       "item_id": 1820,
       "name": "雷霆拳套[3]",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1820.gif"
+      "icon_url": "/images/items/1820.gif"
     },
     {
       "item_id": 4325,
       "name": "鳥人哈比卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7115,
       "name": "哈比的羽毛",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7115.gif"
+      "icon_url": "/images/items/7115.gif"
     },
     {
       "item_id": 7116,
       "name": "哈比的指甲",
       "rate": 62.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7116.gif"
+      "icon_url": "/images/items/7116.gif"
     }
   ]
 }

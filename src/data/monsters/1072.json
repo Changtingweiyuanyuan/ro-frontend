@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1072.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 106,
     "magic_defense": 55,
     "hit_100_percent": 373,
-    "flee_95_percent": 0,
+    "flee_95_percent": 371,
     "base_stats": {
       "str": 81,
       "agi": 61,
@@ -37,6 +37,18 @@
       "luk": 73
     }
   },
+  "spawns": [
+    {
+      "map_name": "mag_dun01",
+      "description": "- 朱諾 諾可羅德(火洞) 1層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "thor_v02",
+      "description": "- 托爾 火山洞穴 2層",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 690,

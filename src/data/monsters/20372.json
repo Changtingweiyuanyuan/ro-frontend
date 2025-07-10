@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20372.gif",
   "basic_info": {
-    "level": 178,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 318,
     "magic_defense": 56,
     "hit_100_percent": 487,
-    "flee_95_percent": 0,
+    "flee_95_percent": 501,
     "base_stats": {
       "str": 97,
       "agi": 96,
@@ -37,6 +37,13 @@
       "luk": 67
     }
   },
+  "spawns": [
+    {
+      "map_name": "mag_dun03",
+      "description": "- 朱諾 諾可羅德(火洞) 3層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2092.gif",
   "basic_info": {
-    "level": 132,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 112,
     "magic_defense": 52,
     "hit_100_percent": 379,
-    "flee_95_percent": 0,
+    "flee_95_percent": 467,
     "base_stats": {
       "str": 149,
       "agi": 34,
@@ -37,54 +37,66 @@
       "luk": 67
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_fild01",
+      "description": "- 卡米達山麓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "dic_fild02",
+      "description": "- 卡米達山麓",
+      "spawn_info": "87x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1984,
       "name": "節鞭[1]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1984.gif"
+      "icon_url": "/images/items/1984.gif"
     },
     {
       "item_id": 2789,
       "name": "鈽鐳戒指[1]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2789.gif"
+      "icon_url": "/images/items/2789.gif"
     },
     {
       "item_id": 4506,
       "name": "狡蛛卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6090,
       "name": "精煉魔力之石",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6090.gif"
+      "icon_url": "/images/items/6090.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6224.gif"
+      "icon_url": "/images/items/6224.gif"
     },
     {
       "item_id": 6319,
       "name": "細小的魔力之石",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6319.gif"
+      "icon_url": "/images/items/6319.gif"
     },
     {
       "item_id": 6325,
       "name": "白色蜘蛛腿",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6325.gif"
+      "icon_url": "/images/items/6325.gif"
     },
     {
       "item_id": 12738,
       "name": "珍稀符文原石",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12738.gif"
+      "icon_url": "/images/items/12738.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1162.gif",
   "basic_info": {
-    "level": 86,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 86,
     "magic_defense": 2,
     "hit_100_percent": 333,
-    "flee_95_percent": 0,
+    "flee_95_percent": 344,
     "base_stats": {
       "str": 47,
       "agi": 41,
@@ -37,6 +37,28 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "lhz_fild01",
+      "description": "- 裡希塔樂鎮 原野",
+      "spawn_info": "170x / 5 秒"
+    },
+    {
+      "map_name": "lhz_fild02",
+      "description": "- 裡希塔樂鎮 原野(死神的峽谷)",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "lhz_fild03",
+      "description": "- 裡希塔樂鎮 原野",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

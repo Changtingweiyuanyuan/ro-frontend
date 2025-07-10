@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2714.gif",
   "basic_info": {
-    "level": 86,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 99,
     "magic_defense": 49,
     "hit_100_percent": 322,
-    "flee_95_percent": 0,
+    "flee_95_percent": 327,
     "base_stats": {
       "str": 55,
       "agi": 32,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild08",
+      "description": "- 吉芬 區域",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

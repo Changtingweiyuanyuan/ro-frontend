@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3632.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 120,
     "magic_defense": 50,
     "hit_100_percent": 350,
-    "flee_95_percent": 0,
+    "flee_95_percent": 410,
     "base_stats": {
       "str": 100,
       "agi": 50,
@@ -37,6 +37,13 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "slabw01",
+      "description": "- 維爾納研究所",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

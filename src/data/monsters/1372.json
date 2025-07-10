@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1372.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 43,
     "hit_100_percent": 326,
-    "flee_95_percent": 0,
+    "flee_95_percent": 338,
     "base_stats": {
       "str": 61,
       "agi": 40,
@@ -37,6 +37,33 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "46x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild04",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild07",
+      "description": "- 爾邁斯 峽谷(深淵的峽谷)",
+      "spawn_info": "90x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild08",
+      "description": "- 啟 海伊洛 學院",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild11",
+      "description": "- 朱諾 原野",
+      "spawn_info": "139x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

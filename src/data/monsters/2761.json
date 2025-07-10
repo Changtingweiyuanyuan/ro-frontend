@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2761.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 35,
     "magic_defense": 24,
     "hit_100_percent": 373,
-    "flee_95_percent": 0,
+    "flee_95_percent": 352,
     "base_stats": {
       "str": 52,
       "agi": 79,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_in01",
+      "description": "- 克雷斯特漢姆古城 室內",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 699,

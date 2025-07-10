@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1716.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 47,
     "hit_100_percent": 450,
-    "flee_95_percent": 0,
+    "flee_95_percent": 450,
     "base_stats": {
       "str": 106,
       "agi": 110,
@@ -37,6 +37,23 @@
       "luk": 53
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abyss_02",
+      "description": "- 深淵湖水 地下洞穴 F2",
+      "spawn_info": "60x / 5 秒"
+    },
+    {
+      "map_name": "abyss_03",
+      "description": "- 深淵湖水 地下洞穴 F3",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 505,

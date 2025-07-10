@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1365.gif",
   "basic_info": {
-    "level": 121,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 136,
     "magic_defense": 26,
     "hit_100_percent": 377,
-    "flee_95_percent": 0,
+    "flee_95_percent": 421,
     "base_stats": {
       "str": 130,
       "agi": 53,
@@ -37,54 +37,61 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "juperos_02",
+      "description": "- 優配擂斯 廢墟 2樓",
+      "spawn_info": "70x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 0.03,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+      "icon_url": "/images/items/985.gif"
     },
     {
       "item_id": 2506,
       "name": "斗篷[1]",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2506.gif"
+      "icon_url": "/images/items/2506.gif"
     },
     {
       "item_id": 4242,
       "name": "阿修羅機械戰士卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7093,
       "name": "齒輪",
       "rate": 11.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7093.gif"
+      "icon_url": "/images/items/7093.gif"
     },
     {
       "item_id": 7094,
       "name": "未知的碎片",
       "rate": 12.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7094.gif"
+      "icon_url": "/images/items/7094.gif"
     },
     {
       "item_id": 7095,
       "name": "金屬破片",
       "rate": 26.68,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7095.gif"
+      "icon_url": "/images/items/7095.gif"
     },
     {
       "item_id": 12735,
       "name": "古代符文原石",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12735.gif"
+      "icon_url": "/images/items/12735.gif"
     },
     {
       "item_id": 13161,
       "name": "破壞者榴彈槍[1]",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/13161.gif"
+      "icon_url": "/images/items/13161.gif"
     }
   ]
 }

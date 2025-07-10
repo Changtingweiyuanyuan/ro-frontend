@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3074.gif",
   "basic_info": {
-    "level": 170,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 288,
     "magic_defense": 265,
     "hit_100_percent": 537,
-    "flee_95_percent": 0,
+    "flee_95_percent": 767,
     "base_stats": {
       "str": 224,
       "agi": 152,
@@ -37,6 +37,13 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "c_tower3_",
+      "description": "- 扭曲的時間的鐘塔 3層",
+      "spawn_info": "1x / 120 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1095,

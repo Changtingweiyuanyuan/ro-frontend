@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1582.gif",
   "basic_info": {
-    "level": 66,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 67,
     "magic_defense": 70,
     "hit_100_percent": 356,
-    "flee_95_percent": 0,
+    "flee_95_percent": 387,
     "base_stats": {
       "str": 48,
       "agi": 50,
@@ -37,6 +37,23 @@
       "luk": 200
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "1x / 120~180 分鐘"
+    },
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "1x / 60~90 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 512,

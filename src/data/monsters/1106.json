@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1106.gif",
   "basic_info": {
-    "level": 103,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 114,
     "magic_defense": 47,
     "hit_100_percent": 380,
-    "flee_95_percent": 0,
+    "flee_95_percent": 385,
     "base_stats": {
       "str": 93,
       "agi": 69,
@@ -37,6 +37,28 @@
       "luk": 42
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@orcs",
+      "description": "- 獸人地下洞穴 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ra_fild01",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "145x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild04",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "23x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2131.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 60,
     "magic_defense": 51,
     "hit_100_percent": 428,
-    "flee_95_percent": 0,
+    "flee_95_percent": 472,
     "base_stats": {
       "str": 140,
       "agi": 81,
@@ -37,42 +37,49 @@
       "luk": 61
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mist",
+      "description": "- 霧林迷宮(迷霧森林)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 607,
       "name": "天地樹果實",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/607.gif"
+      "icon_url": "/images/items/607.gif"
     },
     {
       "item_id": 608,
       "name": "天地樹芽",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/608.gif"
+      "icon_url": "/images/items/608.gif"
     },
     {
       "item_id": 1985,
       "name": "毒鞭薔薇",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1985.gif"
+      "icon_url": "/images/items/1985.gif"
     },
     {
       "item_id": 2610,
       "name": "金戒指",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2610.gif"
+      "icon_url": "/images/items/2610.gif"
     },
     {
       "item_id": 2854,
       "name": "煉金術手套[1]",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2854.gif"
+      "icon_url": "/images/items/2854.gif"
     },
     {
       "item_id": 13062,
       "name": "遠古短劍",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/13062.gif"
+      "icon_url": "/images/items/13062.gif"
     }
   ]
 }

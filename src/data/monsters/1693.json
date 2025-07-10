@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1693.gif",
   "basic_info": {
-    "level": 119,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 130,
     "magic_defense": 45,
     "hit_100_percent": 423,
-    "flee_95_percent": 0,
+    "flee_95_percent": 449,
     "base_stats": {
       "str": 141,
       "agi": 94,
@@ -37,6 +37,33 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "odin_tem01",
+      "description": "- 奧丁神殿 1層",
+      "spawn_info": "14x / 5 秒"
+    },
+    {
+      "map_name": "odin_tem02",
+      "description": "- 奧丁神殿 2層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "odin_tem03",
+      "description": "- 奧丁神殿 3層",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "tha_t12",
+      "description": "- 達納托斯之塔 上層 12樓 憎恨之房",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 644,

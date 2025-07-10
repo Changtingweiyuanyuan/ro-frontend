@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1494.gif",
   "basic_info": {
-    "level": 55,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 79,
     "magic_defense": 8,
     "hit_100_percent": 302,
-    "flee_95_percent": 0,
+    "flee_95_percent": 275,
     "base_stats": {
       "str": 53,
       "agi": 47,
@@ -37,6 +37,33 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@face",
+      "description": "- 人面蟲洞穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mjolnir_07",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_08",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "169x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_10",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "41x / 5 秒"
+    },
+    {
+      "map_name": "pay_fild10",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "64x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 928,

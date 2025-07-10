@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1701.gif",
   "basic_info": {
-    "level": 125,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 89,
     "hit_100_percent": 408,
-    "flee_95_percent": 0,
+    "flee_95_percent": 457,
     "base_stats": {
       "str": 99,
       "agi": 66,
@@ -37,6 +37,48 @@
       "luk": 89
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "tha_t03",
+      "description": "- 達納托斯之塔 下層 3樓 廢棄空間",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "tha_t07",
+      "description": "- 達納托斯之塔 上層 7樓 天使之房",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "tha_t08",
+      "description": "- 達納托斯之塔 上層 8樓 天使之房",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "tha_t09",
+      "description": "- 達納托斯之塔 上層 9樓 苦惱之房",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "tha_t10",
+      "description": "- 達納托斯之塔 上層 10樓 悲哀之房",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "tha_t11",
+      "description": "- 達納托斯之塔 上層 11樓 絕望之房",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "tha_t12",
+      "description": "- 達納托斯之塔 上層 12樓 憎恨之房",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 722,

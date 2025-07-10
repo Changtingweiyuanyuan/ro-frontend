@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1114.gif",
   "basic_info": {
-    "level": 62,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 69,
     "magic_defense": 50,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 342,
     "base_stats": {
       "str": 46,
       "agi": 22,
@@ -37,6 +37,23 @@
       "luk": 105
     }
   },
+  "spawns": [
+    {
+      "map_name": "mjolnir_12",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "162x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "5x / 2~3 分鐘"
+    },
+    {
+      "map_name": "yuno_fild01",
+      "description": "- 國界 檢查站",
+      "spawn_info": "52x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

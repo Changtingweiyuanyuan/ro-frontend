@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3813.gif",
   "basic_info": {
-    "level": 35,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 10,
     "magic_defense": 10,
     "hit_100_percent": 259,
-    "flee_95_percent": 0,
+    "flee_95_percent": 231,
     "base_stats": {
       "str": 20,
       "agi": 20,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@begi",
+      "description": "- 波利村 (新手副本)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 512,

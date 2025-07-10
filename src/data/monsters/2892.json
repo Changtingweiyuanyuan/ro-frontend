@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2892.gif",
   "basic_info": {
-    "level": 75,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 32,
     "hit_100_percent": 304,
-    "flee_95_percent": 0,
+    "flee_95_percent": 279,
     "base_stats": {
       "str": 60,
       "agi": 23,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "mjolnir_05",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

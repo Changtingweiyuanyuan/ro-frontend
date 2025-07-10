@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1259.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 113,
     "magic_defense": 72,
     "hit_100_percent": 448,
-    "flee_95_percent": 0,
+    "flee_95_percent": 457,
     "base_stats": {
       "str": 101,
       "agi": 133,
@@ -37,6 +37,18 @@
       "luk": 54
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "hu_fild02",
+      "description": "- 毀葛原野",
+      "spawn_info": "3x / 60 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1242.gif",
   "basic_info": {
-    "level": 37,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 32,
     "magic_defense": 8,
     "hit_100_percent": 245,
-    "flee_95_percent": 0,
+    "flee_95_percent": 242,
     "base_stats": {
       "str": 24,
       "agi": 5,
@@ -37,6 +37,38 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "32x / 5 秒"
+    },
+    {
+      "map_name": "sec_in02",
+      "description": "- 巴哈拉宮 內部",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "xmas_fild01",
+      "description": "- 姜餅城原野",
+      "spawn_info": "65x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

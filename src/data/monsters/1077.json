@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1077.gif",
   "basic_info": {
-    "level": 26,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 40,
     "magic_defense": 8,
     "hit_100_percent": 244,
-    "flee_95_percent": 0,
+    "flee_95_percent": 217,
     "base_stats": {
       "str": 19,
       "agi": 17,
@@ -37,6 +37,23 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_dun00",
+      "description": "- 吉芬塔 地下密穴 1層",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_06",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "100x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb3",
+      "description": "- 普隆德拉 地下水道 3樓",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2691.gif",
   "basic_info": {
-    "level": 115,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 89,
     "magic_defense": 15,
     "hit_100_percent": 407,
-    "flee_95_percent": 0,
+    "flee_95_percent": 400,
     "base_stats": {
       "str": 129,
       "agi": 87,
@@ -37,54 +37,61 @@
       "luk": 27
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_knt01",
+      "description": "- 克雷斯特漢姆 騎士團1樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 2.65,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+      "icon_url": "/images/items/985.gif"
     },
     {
       "item_id": 1004,
       "name": "忠誠之證",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1004.gif"
+      "icon_url": "/images/items/1004.gif"
     },
     {
       "item_id": 1158,
       "name": "雙手巨劍[2]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1158.gif"
+      "icon_url": "/images/items/1158.gif"
     },
     {
       "item_id": 2266,
       "name": "金屬口罩",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2266.gif"
+      "icon_url": "/images/items/2266.gif"
     },
     {
       "item_id": 2315,
       "name": "鋼鐵鎖子甲[1]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2315.gif"
+      "icon_url": "/images/items/2315.gif"
     },
     {
       "item_id": 4133,
       "name": "幽靈劍士卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7054.gif"
+      "icon_url": "/images/items/7054.gif"
     },
     {
       "item_id": 15037,
       "name": "珀斯符文盔甲",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/15037.gif"
+      "icon_url": "/images/items/15037.gif"
     }
   ]
 }

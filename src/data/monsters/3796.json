@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3796.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 129,
     "magic_defense": 78,
     "hit_100_percent": 519,
-    "flee_95_percent": 0,
+    "flee_95_percent": 614,
     "base_stats": {
       "str": 125,
       "agi": 156,
@@ -37,6 +37,13 @@
       "luk": 142
     }
   },
+  "spawns": [
+    {
+      "map_name": "ice_d03_i",
+      "description": "- 幻影: 極凍記憶",
+      "spawn_info": "1x / 120 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 2111,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2720.gif",
   "basic_info": {
-    "level": 76,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 30,
     "hit_100_percent": 362,
-    "flee_95_percent": 0,
+    "flee_95_percent": 365,
     "base_stats": {
       "str": 55,
       "agi": 78,
@@ -37,6 +37,13 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "um_fild03",
+      "description": "- 卡拉拉森林",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1957,

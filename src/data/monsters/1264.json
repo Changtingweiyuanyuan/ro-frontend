@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1264.gif",
   "basic_info": {
-    "level": 60,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 62,
     "magic_defense": 8,
     "hit_100_percent": 291,
-    "flee_95_percent": 0,
+    "flee_95_percent": 288,
     "base_stats": {
       "str": 45,
       "agi": 29,
@@ -37,6 +37,33 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "beach_dun",
+      "description": "- 西邊 洞穴 加露",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun02",
+      "description": "- 依斯魯得海底洞穴 3層",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun03",
+      "description": "- 依斯魯得海底洞穴 4層",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun04",
+      "description": "- 依斯魯得海底洞穴 5層",
+      "spawn_info": "61x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 568,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2626.gif",
   "basic_info": {
-    "level": 87,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 60,
     "hit_100_percent": 339,
-    "flee_95_percent": 0,
+    "flee_95_percent": 329,
     "base_stats": {
       "str": 69,
       "agi": 45,
@@ -37,6 +37,13 @@
       "luk": 35
     }
   },
+  "spawns": [
+    {
+      "map_name": "mosk_dun03",
+      "description": "- 莫斯科比亞 深淵森林",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 519,

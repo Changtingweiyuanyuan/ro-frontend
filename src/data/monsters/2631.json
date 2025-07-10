@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2631.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 76,
     "magic_defense": 21,
     "hit_100_percent": 372,
-    "flee_95_percent": 0,
+    "flee_95_percent": 362,
     "base_stats": {
       "str": 41,
       "agi": 58,
@@ -37,24 +37,31 @@
       "luk": 47
     }
   },
+  "spawns": [
+    {
+      "map_name": "ma_fild01",
+      "description": "- 巴爾尤 馬西瓦加 (馬來亞森林)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 6508,
       "name": "銀手鍊",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6508.gif"
+      "icon_url": "/images/items/6508.gif"
     },
     {
       "item_id": 6509,
       "name": "神奇的花",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6509.gif"
+      "icon_url": "/images/items/6509.gif"
     }
   ]
 }

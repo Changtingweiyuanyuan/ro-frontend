@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3473.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 146,
     "magic_defense": 30,
     "hit_100_percent": 425,
-    "flee_95_percent": 0,
+    "flee_95_percent": 589,
     "base_stats": {
       "str": 248,
       "agi": 57,
@@ -37,6 +37,13 @@
       "luk": 43
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@sthd",
+      "description": "- 空中要塞最頂層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 607,

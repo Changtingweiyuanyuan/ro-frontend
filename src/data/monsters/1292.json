@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1292.gif",
   "basic_info": {
-    "level": 117,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 25,
     "hit_100_percent": 394,
-    "flee_95_percent": 0,
+    "flee_95_percent": 411,
     "base_stats": {
       "str": 130,
       "agi": 69,
@@ -37,6 +37,43 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@cata",
+      "description": "- 封印的神殿 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefenia01",
+      "description": "- 葛帔尼亞 1層",
+      "spawn_info": "21x / 5 秒"
+    },
+    {
+      "map_name": "gefenia02",
+      "description": "- 葛帔尼亞 2層",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "gefenia03",
+      "description": "- 葛帔尼亞 3層",
+      "spawn_info": "31x / 5 秒"
+    },
+    {
+      "map_name": "gefenia04",
+      "description": "- 葛帔尼亞 4層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun04",
+      "description": "- 公會地下密穴 (吉芬)",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

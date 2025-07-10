@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1408.gif",
   "basic_info": {
-    "level": 94,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 79,
     "magic_defense": 50,
     "hit_100_percent": 368,
-    "flee_95_percent": 0,
+    "flee_95_percent": 382,
     "base_stats": {
       "str": 70,
       "agi": 68,
@@ -37,6 +37,23 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gon_dun01",
+      "description": "- 昆崙洞 1層 (西王母神殿)",
+      "spawn_info": "60x / 5 秒"
+    },
+    {
+      "map_name": "gon_dun02",
+      "description": "- 昆崙洞 2層 (神仙的圍棋臺)",
+      "spawn_info": "26x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 924,

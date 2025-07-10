@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3013.gif",
   "basic_info": {
-    "level": 158,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 240,
     "magic_defense": 60,
     "hit_100_percent": 457,
-    "flee_95_percent": 0,
+    "flee_95_percent": 473,
     "base_stats": {
       "str": 150,
       "agi": 85,
@@ -37,6 +37,13 @@
       "luk": 70
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@dth2",
+      "description": "- 拜歐斯島 第二層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 522,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1979.gif",
   "basic_info": {
-    "level": 115,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 106,
     "magic_defense": 92,
     "hit_100_percent": 392,
-    "flee_95_percent": 0,
+    "flee_95_percent": 395,
     "base_stats": {
       "str": 122,
       "agi": 66,
@@ -37,6 +37,13 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "schg_dun01",
+      "description": "- 公會地下迷宮 (朱諾)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

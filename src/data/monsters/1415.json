@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1415.gif",
   "basic_info": {
-    "level": 68,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 77,
     "magic_defense": 5,
     "hit_100_percent": 306,
-    "flee_95_percent": 0,
+    "flee_95_percent": 302,
     "base_stats": {
       "str": 46,
       "agi": 36,
@@ -37,6 +37,18 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "gon_dun02",
+      "description": "- 昆崙洞 2層 (神仙的圍棋臺)",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "gon_fild01",
+      "description": "- 昆崙原野",
+      "spawn_info": "51x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,

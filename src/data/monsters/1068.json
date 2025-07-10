@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1068.gif",
   "basic_info": {
-    "level": 34,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 32,
     "hit_100_percent": 243,
-    "flee_95_percent": 0,
+    "flee_95_percent": 239,
     "base_stats": {
       "str": 10,
       "agi": 9,
@@ -37,6 +37,93 @@
       "luk": 2
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cash",
+      "description": "- 章魚洞穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@pump",
+      "description": "- 排水溝 一樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ama_fild01",
+      "description": "- 櫻花城原野",
+      "spawn_info": "4x / 1~2 分鐘"
+    },
+    {
+      "map_name": "beach_dun2",
+      "description": "- 北邊 洞穴 盧安達",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "beach_dun3",
+      "description": "- 東邊 洞穴 馬吾",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "bra_dun01",
+      "description": "- 巴西瀑布裡的洞穴入口",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "bra_dun02",
+      "description": "- 巴西瀑布裡的洞穴內部",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun00",
+      "description": "- 依斯魯得海底洞穴 1層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun01",
+      "description": "- 依斯魯得海底洞穴 2層",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun02",
+      "description": "- 依斯魯得海底洞穴 3層",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun03",
+      "description": "- 依斯魯得海底洞穴 4層",
+      "spawn_info": "1x / 5~7 分鐘"
+    },
+    {
+      "map_name": "iz_dun04",
+      "description": "- 依斯魯得海底洞穴 5層",
+      "spawn_info": "1x / 5~7 分鐘"
+    },
+    {
+      "map_name": "pay_dun02",
+      "description": "- 斐揚 (殭屍洞) 地下3層",
+      "spawn_info": "1x / 5~6 分鐘"
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "17x / 10~15 分鐘"
+    },
+    {
+      "map_name": "treasure01",
+      "description": "- 沉沒之船 1樓",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "treasure02",
+      "description": "- 沉沒之船 2樓",
+      "spawn_info": "18x / 5~7 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,

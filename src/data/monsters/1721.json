@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1721.gif",
   "basic_info": {
-    "level": 119,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 172,
     "magic_defense": 85,
     "hit_100_percent": 391,
-    "flee_95_percent": 0,
+    "flee_95_percent": 475,
     "base_stats": {
       "str": 84,
       "agi": 59,
@@ -37,6 +37,48 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abyss_01",
+      "description": "- 深淵湖水 地下洞穴 F1",
+      "spawn_info": "8x / 5 秒"
+    },
+    {
+      "map_name": "abyss_02",
+      "description": "- 深淵湖水 地下洞穴 F2",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "abyss_03",
+      "description": "- 深淵湖水 地下洞穴 F3",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild01",
+      "description": "- 達納托斯之塔",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild02",
+      "description": "- 毀葛原野",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild04",
+      "description": "- 毀葛 原野",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild05",
+      "description": "- 深淵湖水",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 718,

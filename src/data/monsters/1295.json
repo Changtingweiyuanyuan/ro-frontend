@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1295.gif",
   "basic_info": {
-    "level": 120,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 25,
     "hit_100_percent": 399,
-    "flee_95_percent": 0,
+    "flee_95_percent": 422,
     "base_stats": {
       "str": 72,
       "agi": 65,
@@ -37,6 +37,33 @@
       "luk": 72
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_cas01",
+      "description": "- 克雷斯特漢姆古城 地上1層",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "tha_t04",
+      "description": "- 達納托斯之塔 下層 4樓 廢棄空間",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "tha_t05",
+      "description": "- 達納托斯之塔 上層 5樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "tha_t06",
+      "description": "- 達納托斯之塔 上層 6樓",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 693,

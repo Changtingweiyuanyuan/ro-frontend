@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3097.gif",
   "basic_info": {
-    "level": 175,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 203,
     "magic_defense": 155,
     "hit_100_percent": 488,
-    "flee_95_percent": 0,
+    "flee_95_percent": 631,
     "base_stats": {
       "str": 122,
       "agi": 103,
@@ -37,12 +37,19 @@
       "luk": 51
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@eom",
+      "description": "- 魔神殿",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 4559,
       "name": "魔神咪羅克卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

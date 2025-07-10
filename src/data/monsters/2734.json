@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2734.gif",
   "basic_info": {
-    "level": 151,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 129,
     "magic_defense": 16,
     "hit_100_percent": 512,
-    "flee_95_percent": 0,
+    "flee_95_percent": 568,
     "base_stats": {
       "str": 208,
       "agi": 151,
@@ -37,48 +37,55 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_cas02_",
+      "description": "- 克雷斯特漢姆古城 地上樓層 2樓 (噩咪模式)",
+      "spawn_info": "2x / 3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,
       "name": "老舊收集冊",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/616.gif"
+      "icon_url": "/images/items/616.gif"
     },
     {
       "item_id": 984,
       "name": "神之金屬",
       "rate": 5.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/984.gif"
+      "icon_url": "/images/items/984.gif"
     },
     {
       "item_id": 1164,
       "name": "名刀 不知火",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1164.gif"
+      "icon_url": "/images/items/1164.gif"
     },
     {
       "item_id": 2270,
       "name": "草葉",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2270.gif"
+      "icon_url": "/images/items/2270.gif"
     },
     {
       "item_id": 7005,
       "name": "骷髏頭",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7005.gif"
+      "icon_url": "/images/items/7005.gif"
     },
     {
       "item_id": 13015,
       "name": "骨頭劍[1]",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/13015.gif"
+      "icon_url": "/images/items/13015.gif"
     },
     {
       "item_id": 21003,
       "name": "名刀不知火[2]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/21003.gif"
+      "icon_url": "/images/items/21003.gif"
     }
   ]
 }

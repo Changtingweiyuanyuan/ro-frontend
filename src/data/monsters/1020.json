@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1020.gif",
   "basic_info": {
-    "level": 13,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 13,
     "magic_defense": 2,
     "hit_100_percent": 217,
-    "flee_95_percent": 0,
+    "flee_95_percent": 194,
     "base_stats": {
       "str": 12,
       "agi": 3,
@@ -37,6 +37,28 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild04",
+      "description": "- 吉芬 區域",
+      "spawn_info": "125x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun02",
+      "description": "- 斐揚 (殭屍洞) 地下3層",
+      "spawn_info": "3x / 5~7 分鐘"
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "10x / 5~7 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

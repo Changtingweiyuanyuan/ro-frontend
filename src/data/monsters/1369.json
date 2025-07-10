@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1369.gif",
   "basic_info": {
-    "level": 75,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 30,
     "hit_100_percent": 325,
-    "flee_95_percent": 0,
+    "flee_95_percent": 314,
     "base_stats": {
       "str": 63,
       "agi": 45,
@@ -37,42 +37,69 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "yuno_fild02",
+      "description": "- 啟-海伊洛 別墅",
+      "spawn_info": "50x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild07",
+      "description": "- 爾邁斯 峽谷(深淵的峽谷)",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild08",
+      "description": "- 啟 海伊洛 學院",
+      "spawn_info": "157x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild09",
+      "description": "- 秀發茲發德 警備隊 露營地",
+      "spawn_info": "182x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 522,
       "name": "瑪絲黛拉果實",
       "rate": 1.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/522.gif"
+      "icon_url": "/images/items/522.gif"
     },
     {
       "item_id": 582,
       "name": "橙子",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/582.gif"
+      "icon_url": "/images/items/582.gif"
     },
     {
       "item_id": 969,
       "name": "黃金",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/969.gif"
+      "icon_url": "/images/items/969.gif"
     },
     {
       "item_id": 992,
       "name": "風靈礦石",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/992.gif"
+      "icon_url": "/images/items/992.gif"
     },
     {
       "item_id": 4161,
       "name": "七彩大嘴鳥卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7101,
       "name": "七彩大嘴鳥之羽",
       "rate": 24.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7101.gif"
+      "icon_url": "/images/items/7101.gif"
     }
   ]
 }

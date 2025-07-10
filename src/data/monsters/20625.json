@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20625.gif",
   "basic_info": {
-    "level": 190,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 292,
     "magic_defense": 103,
     "hit_100_percent": 526,
-    "flee_95_percent": 0,
+    "flee_95_percent": 524,
     "base_stats": {
       "str": 170,
       "agi": 121,
@@ -37,6 +37,13 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@herbs(hard)",
+      "description": "- 祕密花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 604,

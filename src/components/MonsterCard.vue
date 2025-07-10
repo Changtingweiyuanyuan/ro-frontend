@@ -1,240 +1,225 @@
 <script setup>
-defineProps({
+import { computed } from 'vue';
+
+const props = defineProps({
   monster: Object,
 })
 
 // 格式化掉落率，使其符合 xx.xx% 的格式
 const formatRate = (rate) => {
-    if (typeof rate !== 'number') return 'N/A';
-    return `${rate.toFixed(2)}%`;
+  if (typeof rate !== 'number') return 'N/A';
+  // 根據掉落率決定小數位數，讓整數%看起來更乾淨
+  if (rate % 1 === 0) {
+    return `${rate}%`;
+  }
+  return `${rate.toFixed(2)}%`;
+}
+
+// 【新增】格式化需要特殊顯示的數值，例如防禦力
+// 根據圖片，如果只有一個值，後面補上 '-'
+const formatStatValue = (value) => {
+    if (typeof value === 'number' && !String(value).includes('-')) {
+        return `${value}-`;
+    }
+    return value;
+}
+
+// 【新增】處理攻擊力範圍的計算屬性
+const attackRange = computed(() => {
+    const atk = props.monster.stats.attack;
+    if (atk.min === atk.max) {
+        return atk.min;
+    }
+    return `${atk.min} - ${atk.max}`;
+});
+
+// 地圖複製功能 (保留，但暫時沒有觸發點)
+const copyMapCode = async (code) => {
+  if (!code) return;
+  try {
+    await navigator.clipboard.writeText(code);
+    alert(`地圖代碼已複製: ${code}`);
+  } catch (err) {
+    console.error('複製失敗: ', err);
+  }
 }
 </script>
 
 <template>
-  <div class="monster-card">
-    <div class="card-header">
-        <div class="header-left">
-            <div class="name-line">
-                <span class="monster-name">{{ monster.name.zh_tw }}</span>
-                <div class="spawn-tooltip-container">
-                    <!-- <img src="/images/ui/icon_map.png" alt="地圖圖示" class="map-icon"> -->
-                    <div class="spawn-tooltip">
-                        <div class="tooltip-header">出沒地圖 (點擊可複製)</div>
-                        <div v-if="monster.spawn_locations && monster.spawn_locations.length">
-                            <div v-for="loc in monster.spawn_locations" :key="loc.map_name" class="location-item">
-                                <p>地圖: {{ loc.map_name }}</p>
-                                <p>數量: {{ loc.quantity }}</p>
-                                <p>重生: {{ loc.respawn_time }}</p>
-                            </div>
-                        </div>
-                        <div v-else class="location-item">
-                            <p>地圖: 斐揚樹林(pay_fild08)</p>
-                            <p>數量: 非常多</p>
-                            <p>重生: 極快</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="basic-info">
-                <span>等級 {{ monster.basic_info.level }}</span>
-                <span>種族: {{ monster.basic_info.race }}</span>
-                <span>屬性: {{ monster.basic_info.element.type }}{{ monster.basic_info.element.level }}</span>
-                <span>體型: {{ monster.basic_info.size }}</span>
-            </div>
-        </div>
-        <img :src="monster.image_url" :alt="monster.name.zh_tw" class="monster-image">
+  <div class="monster-card-new">
+    <div class="card-top">
+      <div class="attributes">
+        <span>{{ monster.basic_info.race }}</span>
+        <span>{{ monster.basic_info.element.type }}屬性</span>
+        <span>{{ monster.basic_info.size }}型</span>
+      </div>
     </div>
 
-    <div class="stats-grid">
-        <div><span>血量</span><span>{{ monster.stats.hp }}</span></div>
-        <div><span>攻擊力</span><span>{{ monster.stats.attack.min }} - {{ monster.stats.attack.max }}</span></div>
-        <div><span>物理防禦</span><span>{{ monster.stats.defense }}</span></div>
-        <div><span>魔法防禦</span><span>{{ monster.stats.magic_defense }}</span></div>
-        <div><span>100%命中</span><span>{{ monster.stats.hit_100_percent }}</span></div>
-        <div><span>95%迴避</span><span>{{ monster.stats.flee_95_percent }}</span></div>
+    <div class="identity">
+      <img :src="monster.image_url" :alt="monster.name.zh_tw" class="monster-image-large">
+      <div class="monster-name-primary">{{ monster.name.zh_tw }}</div>
+      <div class="monster-name-secondary">{{ monster.name.en }}</div>
     </div>
-    
-    <div v-if="monster.drops && monster.drops.length > 0" class="drops-section">
-        <div class="title">掉落物</div>
-        <div class="drops-grid">
-            <div v-for="drop in monster.drops" :key="drop.item_id" class="drop-item">
-                <img :src="drop.icon_url" :alt="drop.name" :title="`${drop.name} (${formatRate(drop.rate)})`" class="drop-icon">
-                <span class="drop-rate">{{ formatRate(drop.rate) }}</span>
-            </div>
-        </div>
+
+    <div class="stats-list">
+      <div class="stat-row">
+        <span class="stat-label">等級</span>
+        <span class="stat-value">{{ monster.basic_info.level }}</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">血量</span>
+        <span class="stat-value">{{ monster.stats.hp }}</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">攻擊力</span>
+        <span class="stat-value">{{ attackRange }}</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">物理防禦</span>
+        <span class="stat-value">{{ formatStatValue(monster.stats.defense) }}</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">魔法防禦</span>
+        <span class="stat-value">{{ formatStatValue(monster.stats.magic_defense) }}</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">100%命中</span>
+        <span class="stat-value">{{ monster.stats.hit_100_percent }}</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">95%迴避</span>
+        <span class="stat-value">{{ monster.stats.flee_95_percent }}</span>
+      </div>
     </div>
+
+    <div class="drops-list" v-if="monster.drops && monster.drops.length > 0">
+      <div v-for="drop in monster.drops" :key="drop.item_id" class="drop-item-row">
+        <img :src="drop.icon_url" :alt="drop.name" class="drop-icon">
+        <span class="drop-name">{{ drop.name }}</span>
+        <span class="drop-rate">{{ formatRate(drop.rate) }}</span>
+      </div>
+    </div>
+
   </div>
 </template>
 
 <style scoped lang="scss">
-.monster-card {
-  background-color: #E7DBCB;
-  border: 1.5px solid #5A4736;
-  border-radius: 5px;
-  padding: 10px;
-  color: #3D2D1B;
-  font-size: 14px;
-  box-shadow: 2px 2px 0px 0px #5A4736;
+// 主卡片樣式
+.monster-card-new {
+  background-color: #f4f1eb;
+  border: 1px solid #dcd8d0;
+  border-radius: 8px;
+  padding: 12px; // 調整內邊距
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #594a41;
+  width: 220px; // 調整寬度以符合圖二風格
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  display: flex; // 使用 flexbox 進行內部排版
+  flex-direction: column;
+}
+
+// 頂部區塊: 屬性
+.card-top {
+  display: flex;
+  justify-content: flex-end; // 移除地圖圖示後，讓屬性靠右
+  align-items: flex-start;
+  margin-bottom: 8px; // 調整下方間距
+}
+
+.attributes {
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  box-sizing: border-box;
+  align-items: flex-end;
+  font-size: 13px; // 微調字體大小
+  font-weight: 500;
+  color: #d66853;
+  line-height: 1.4;
 }
 
-.card-header {
+// 魔物核心區塊: 圖片 & 名稱
+.identity {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 10px;
-
-  .header-left {
-      display: flex;
-      flex-direction: column;
-      flex-grow: 1;
-  }
-  
-  .monster-image {
-    width: 56px;
-    height: 56px;
-    border: 1.5px solid #5A4736;
-    background-color: #C3B9AA;
-    flex-shrink: 0;
-  }
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 16px; // 調整下方間距
 }
 
-.name-line {
+.monster-image-large {
+  width: 56px; // 調整圖片大小
+  height: 56px;
+  object-fit: contain;
+  margin-bottom: 8px; // 調整下方間距
+}
+
+.monster-name-primary {
+  font-size: 20px; // 調整字體大小
+  font-weight: bold;
+  color: #3d2d1b;
+  margin-bottom: 2px;
+}
+
+.monster-name-secondary {
+  font-size: 14px; // 調整字體大小
+  color: #8c7f76;
+}
+
+// 能力值列表
+.stats-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px; // 調整行間距
+  margin-bottom: 12px; // 調整下方間距
+}
+
+.stat-row {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 4px;
-  width: 100%;
-
-  .monster-name {
-    font-weight: bold;
-    font-size: 18px;
-    color: #000;
-  }
+  font-size: 15px; // 調整字體大小
 }
 
-.basic-info {
-  font-size: 12px;
-  color: #6a5a4a;
+.stat-label {
+  color: #8c7f76;
+}
+
+.stat-value {
+  font-weight: 600;
+  color: #3d2d1b;
+}
+
+// 掉落物列表
+.drops-list {
+  border-top: 1px solid #e0dace; // 將分隔線移到此處
+  padding-top: 12px; // 在線的上方增加間距
   display: flex;
-  flex-wrap: wrap;
-  gap: 0 8px;
+  flex-direction: column;
+  gap: 10px; // 調整行間距
 }
 
-.stats-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4px 16px;
-
-    div {
-        display: flex;
-        justify-content: space-between;
-        
-        span:first-child {
-            color: #6a5a4a;
-        }
-        span:last-child {
-            font-weight: bold;
-        }
-    }
+.drop-item-row {
+  display: flex;
+  align-items: center;
+  gap: 10px; // 調整元件間距
 }
 
-.drops-section {
-    border-top: 1.5px solid #C8BFAE;
-    padding-top: 10px;
-
-    .title {
-        font-weight: bold;
-        margin-bottom: 8px;
-    }
-    .drops-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
-        gap: 12px 8px;
-
-        .drop-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            font-size: 12px;
-            
-            .drop-icon {
-                width: 24px;
-                height: 24px;
-                margin-bottom: 2px;
-            }
-
-            .drop-rate {
-                color: #5A4736;
-            }
-        }
-    }
+.drop-icon {
+  width: 24px; // 調整圖示大小
+  height: 24px;
+  background-color: rgba(0,0,0,0.05);
+  border-radius: 4px;
+  flex-shrink: 0;
 }
 
-// 提示框樣式
-.spawn-tooltip-container {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    margin-left: 8px;
+.drop-name {
+  flex-grow: 1;
+  font-size: 14px; // 調整字體大小
+  font-weight: 500;
+}
 
-    .map-icon {
-        width: 20px;
-        height: 20px;
-        vertical-align: middle;
-    }
-
-    .spawn-tooltip {
-        visibility: hidden;
-        width: 240px;
-        background-color: rgba(40, 40, 40, 0.95);
-        color: #fff;
-        text-align: left;
-        border-radius: 6px;
-        padding: 8px 12px;
-        position: absolute;
-        z-index: 10;
-        bottom: 135%;
-        left: 50%;
-        margin-left: -120px;
-        opacity: 0;
-        transition: opacity 0.3s;
-        font-size: 13px;
-        line-height: 1.5;
-        border: 1px solid #fff;
-
-        &::after {
-            content: "";
-            position: absolute;
-            top: 100%;
-            left: 50%;
-            margin-left: -5px;
-            border-width: 5px;
-            border-style: solid;
-            border-color: #fff transparent transparent transparent;
-        }
-
-        .tooltip-header {
-            font-weight: bold;
-            color: #ffdf5e;
-            margin-bottom: 5px;
-            border-bottom: 1px solid #777;
-            padding-bottom: 5px;
-        }
-        
-        .location-item:not(:last-child) {
-            margin-bottom: 6px;
-            padding-bottom: 6px;
-            border-bottom: 1px dashed #555;
-        }
-    }
-
-    &:hover .spawn-tooltip {
-        visibility: visible;
-        opacity: 1;
-    }
+.drop-rate {
+  font-size: 14px; // 調整字體大小
+  font-weight: 600;
+  color: #3d2d1b;
 }
 </style>

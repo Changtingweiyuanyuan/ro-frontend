@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2236.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 253,
     "magic_defense": 113,
     "hit_100_percent": 549,
-    "flee_95_percent": 0,
+    "flee_95_percent": 590,
     "base_stats": {
       "str": 159,
       "agi": 175,
@@ -37,6 +37,18 @@
       "luk": 71
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@lhz",
+      "description": "- 保羅協夫研究室",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "lhz_dun04",
+      "description": "- 生體試驗 研究所 地下4樓",
+      "spawn_info": "1x / 100~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2081.gif",
   "basic_info": {
-    "level": 34,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 100,
     "hit_100_percent": 235,
-    "flee_95_percent": 0,
+    "flee_95_percent": 205,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,5 +37,12 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "brasilis",
+      "description": "- 巴西",
+      "spawn_info": "18x / 5 秒"
+    }
+  ],
   "drops": []
 }

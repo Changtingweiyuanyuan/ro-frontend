@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2788.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 104,
     "magic_defense": 70,
     "hit_100_percent": 420,
-    "flee_95_percent": 0,
+    "flee_95_percent": 485,
     "base_stats": {
       "str": 111,
       "agi": 74,
@@ -37,6 +37,13 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "thor_v01",
+      "description": "- 托爾 火山洞穴 1層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 994,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20370.gif",
   "basic_info": {
-    "level": 180,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 276,
     "magic_defense": 100,
     "hit_100_percent": 491,
-    "flee_95_percent": 0,
+    "flee_95_percent": 542,
     "base_stats": {
       "str": 173,
       "agi": 98,
@@ -37,6 +37,13 @@
       "luk": 68
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_cas01_",
+      "description": "- 克雷斯特漢姆古城 深淵",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 997,

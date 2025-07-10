@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2704.gif",
   "basic_info": {
-    "level": 87,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 42,
     "hit_100_percent": 335,
-    "flee_95_percent": 0,
+    "flee_95_percent": 337,
     "base_stats": {
       "str": 66,
       "agi": 42,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "ama_dun02",
+      "description": "- 櫻花城迷宮2層 (地下森林戰場)",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

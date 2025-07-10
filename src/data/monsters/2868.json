@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2868.gif",
   "basic_info": {
-    "level": 38,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 37,
     "magic_defense": 0,
     "hit_100_percent": 253,
-    "flee_95_percent": 0,
+    "flee_95_percent": 249,
     "base_stats": {
       "str": 22,
       "agi": 13,
@@ -37,54 +37,61 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild09",
+      "description": "- 吉芬 區域",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 516,
       "name": "番薯",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/516.gif"
+      "icon_url": "/images/items/516.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 914,
       "name": "毛",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/914.gif"
+      "icon_url": "/images/items/914.gif"
     },
     {
       "item_id": 919,
       "name": "動物外皮",
       "rate": 62.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/919.gif"
+      "icon_url": "/images/items/919.gif"
     },
     {
       "item_id": 1026,
       "name": "橡實",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1026.gif"
+      "icon_url": "/images/items/1026.gif"
     },
     {
       "item_id": 2402,
       "name": "輕便鞋[1]",
       "rate": 0.65,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2402.gif"
+      "icon_url": "/images/items/2402.gif"
     },
     {
       "item_id": 2502,
       "name": "連帽披肩[1]",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2502.gif"
+      "icon_url": "/images/items/2502.gif"
     },
     {
       "item_id": 4041,
       "name": "松鼠卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

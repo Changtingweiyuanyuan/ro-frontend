@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2897.gif",
   "basic_info": {
-    "level": 148,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 74,
     "magic_defense": 42,
     "hit_100_percent": 402,
-    "flee_95_percent": 0,
+    "flee_95_percent": 444,
     "base_stats": {
       "str": 67,
       "agi": 53,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "ecl_tdun03",
+      "description": "- 彩虹橋高塔 3樓",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1097,

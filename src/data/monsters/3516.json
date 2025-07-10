@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3516.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 40,
     "magic_defense": 45,
     "hit_100_percent": 343,
-    "flee_95_percent": 0,
+    "flee_95_percent": 332,
     "base_stats": {
       "str": 36,
       "agi": 48,
@@ -37,6 +37,13 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@pop3",
+      "description": "- 天空庭院",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 504,

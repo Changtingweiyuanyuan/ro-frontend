@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2913.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 47,
     "hit_100_percent": 450,
-    "flee_95_percent": 0,
+    "flee_95_percent": 450,
     "base_stats": {
       "str": 106,
       "agi": 110,
@@ -37,54 +37,61 @@
       "luk": 53
     }
   },
+  "spawns": [
+    {
+      "map_name": "abyss_02",
+      "description": "- 深淵湖水 地下洞穴 F2",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 505,
       "name": "藍色藥水",
       "rate": 3.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/505.gif"
+      "icon_url": "/images/items/505.gif"
     },
     {
       "item_id": 996,
       "name": "風靈原石",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/996.gif"
+      "icon_url": "/images/items/996.gif"
     },
     {
       "item_id": 1035,
       "name": "龍牙",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1035.gif"
+      "icon_url": "/images/items/1035.gif"
     },
     {
       "item_id": 1036,
       "name": "龍鱗",
       "rate": 89.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1036.gif"
+      "icon_url": "/images/items/1036.gif"
     },
     {
       "item_id": 2890,
       "name": "白翼胸針",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2890.gif"
+      "icon_url": "/images/items/2890.gif"
     },
     {
       "item_id": 4379,
       "name": "灰俄希托斯卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7446,
       "name": "藍色龍珠",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7446.gif"
+      "icon_url": "/images/items/7446.gif"
     },
     {
       "item_id": 7446,
       "name": "藍色龍珠",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7446.gif"
+      "icon_url": "/images/items/7446.gif"
     }
   ]
 }

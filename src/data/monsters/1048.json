@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1048.gif",
   "basic_info": {
-    "level": 20,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 10,
     "hit_100_percent": 224,
-    "flee_95_percent": 0,
+    "flee_95_percent": 198,
     "base_stats": {
       "str": 10,
       "agi": 1,
@@ -37,6 +37,43 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild05",
+      "description": "- 吉芬 區域",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild05",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "42x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb1",
+      "description": "- 普隆德拉 地下水道 1樓",
+      "spawn_info": "106x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb2",
+      "description": "- 普隆德拉 地下水道 2樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb3",
+      "description": "- 普隆德拉 地下水道 3樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb4",
+      "description": "- 普隆德拉 地下水道 4樓",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 716,

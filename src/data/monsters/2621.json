@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2621.gif",
   "basic_info": {
-    "level": 118,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 74,
     "magic_defense": 36,
     "hit_100_percent": 416,
-    "flee_95_percent": 0,
+    "flee_95_percent": 435,
     "base_stats": {
       "str": 90,
       "agi": 86,
@@ -37,6 +37,13 @@
       "luk": 63
     }
   },
+  "spawns": [
+    {
+      "map_name": "gefenia04",
+      "description": "- 葛帔尼亞 4層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 526,

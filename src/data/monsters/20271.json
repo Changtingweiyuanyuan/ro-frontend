@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20271.gif",
   "basic_info": {
-    "level": 167,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 412,
     "magic_defense": 5,
     "hit_100_percent": 476,
-    "flee_95_percent": 0,
+    "flee_95_percent": 513,
     "base_stats": {
       "str": 105,
       "agi": 98,
@@ -37,6 +37,13 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "com_d02_i",
+      "description": "- 幻影: 盧安達-北邊洞穴",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

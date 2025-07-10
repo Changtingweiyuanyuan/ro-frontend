@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1036.gif",
   "basic_info": {
-    "level": 61,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 5,
     "hit_100_percent": 275,
-    "flee_95_percent": 0,
+    "flee_95_percent": 264,
     "base_stats": {
       "str": 56,
       "agi": 12,
@@ -37,6 +37,43 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "abbey01",
+      "description": "- 修道院 F1",
+      "spawn_info": "57x / 5 秒"
+    },
+    {
+      "map_name": "ayo_dun01",
+      "description": "- 古代神殿 迷宮",
+      "spawn_info": "48x / 5 秒"
+    },
+    {
+      "map_name": "gef_dun01",
+      "description": "- 吉芬塔 地下密穴 2層",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "gef_dun02",
+      "description": "- 吉芬塔 地下密穴 3層",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "nameless_n",
+      "description": "- 無名島",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "prt_q",
+      "description": "- 被侵略的普隆德拉",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pvp_n_8-4",
+      "description": "- PvP : 反十字 房間",
+      "spawn_info": "3x / 6~9 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

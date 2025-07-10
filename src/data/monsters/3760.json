@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3760.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 77,
     "magic_defense": 15,
     "hit_100_percent": 332,
-    "flee_95_percent": 0,
+    "flee_95_percent": 352,
     "base_stats": {
       "str": 103,
       "agi": 18,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_d03_i",
+      "description": "- 幻影: 月夜貓的噩咪",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 609,

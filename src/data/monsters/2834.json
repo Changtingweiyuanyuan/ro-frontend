@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2834.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 106,
     "magic_defense": 84,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 383,
     "base_stats": {
       "str": 112,
       "agi": 67,
@@ -37,54 +37,61 @@
       "luk": 80
     }
   },
+  "spawns": [
+    {
+      "map_name": "gefenia01",
+      "description": "- 葛帔尼亞 1層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 715,
       "name": "黃色魔力礦石",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/715.gif"
+      "icon_url": "/images/items/715.gif"
     },
     {
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/716.gif"
+      "icon_url": "/images/items/716.gif"
     },
     {
       "item_id": 1974,
       "name": "胡蘿蔔鞭子",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1974.gif"
+      "icon_url": "/images/items/1974.gif"
     },
     {
       "item_id": 2864,
       "name": "恢復之光",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2864.gif"
+      "icon_url": "/images/items/2864.gif"
     },
     {
       "item_id": 2865,
       "name": "聖堂印鑑",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2865.gif"
+      "icon_url": "/images/items/2865.gif"
     },
     {
       "item_id": 2866,
       "name": "大主教之戒",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2866.gif"
+      "icon_url": "/images/items/2866.gif"
     },
     {
       "item_id": 4316,
       "name": "偽天使卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 12020,
       "name": "暗水",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12020.gif"
+      "icon_url": "/images/items/12020.gif"
     }
   ]
 }

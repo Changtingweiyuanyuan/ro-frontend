@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2542.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 145,
     "magic_defense": 73,
     "hit_100_percent": 354,
-    "flee_95_percent": 0,
+    "flee_95_percent": 482,
     "base_stats": {
       "str": 82,
       "agi": 36,
@@ -37,6 +37,13 @@
       "luk": 88
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@sara",
+      "description": "- 莎拉的記憶",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 7481,

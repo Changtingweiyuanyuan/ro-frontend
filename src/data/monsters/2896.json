@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2896.gif",
   "basic_info": {
-    "level": 136,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 155,
     "magic_defense": 102,
     "hit_100_percent": 444,
-    "flee_95_percent": 0,
+    "flee_95_percent": 458,
     "base_stats": {
       "str": 23,
       "agi": 99,
@@ -37,6 +37,13 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_dun02",
+      "description": "- 甲蟲洞 二樓(斯卡勒伯熔岩)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 993,

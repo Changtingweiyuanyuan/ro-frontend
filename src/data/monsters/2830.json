@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2830.gif",
   "basic_info": {
-    "level": 94,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 127,
     "magic_defense": 38,
     "hit_100_percent": 346,
-    "flee_95_percent": 0,
+    "flee_95_percent": 341,
     "base_stats": {
       "str": 68,
       "agi": 47,
@@ -37,6 +37,13 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "tur_dun05",
+      "description": "- 地下 沼澤區",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 526,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2760.gif",
   "basic_info": {
-    "level": 39,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 58,
     "magic_defense": 19,
     "hit_100_percent": 270,
-    "flee_95_percent": 0,
+    "flee_95_percent": 242,
     "base_stats": {
       "str": 25,
       "agi": 29,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "mjo_dun02",
+      "description": "- 妙勒尼 廢棄礦場 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

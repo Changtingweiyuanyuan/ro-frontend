@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1287.gif",
   "basic_info": {
-    "level": 56,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 0,
     "hit_100_percent": 320,
-    "flee_95_percent": 0,
+    "flee_95_percent": 343,
     "base_stats": {
       "str": 85,
       "agi": 56,
@@ -37,5 +37,82 @@
       "luk": 43
     }
   },
+  "spawns": [
+    {
+      "map_name": "aldeg_cas01",
+      "description": "- 露依納 公會 01 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas02",
+      "description": "- 露依納 公會 02 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas03",
+      "description": "- 露依納 公會 03 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas04",
+      "description": "- 露依納 公會 04 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas05",
+      "description": "- 露依納 公會 05 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas01",
+      "description": "- 布哩妥利亞 公會 01 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas02",
+      "description": "- 布哩妥利亞 公會 02 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas03",
+      "description": "- 布哩妥利亞 公會 03 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas04",
+      "description": "- 布哩妥利亞 公會 04 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas05",
+      "description": "- 布哩妥利亞 公會 05 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas01",
+      "description": "- 巴基力雷恩 公會 01 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas02",
+      "description": "- 巴基力雷恩 公會 02 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas03",
+      "description": "- 巴基力雷恩 公會 03 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas04",
+      "description": "- 巴基力雷恩 公會 04 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas05",
+      "description": "- 巴基力雷恩 公會 05 (普隆德拉)",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

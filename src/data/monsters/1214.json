@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1214.gif",
   "basic_info": {
-    "level": 48,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 70,
     "magic_defense": 30,
     "hit_100_percent": 297,
-    "flee_95_percent": 0,
+    "flee_95_percent": 266,
     "base_stats": {
       "str": 40,
       "agi": 45,
@@ -37,6 +37,28 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "prt_fild03",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "2x / 2~3 分鐘"
+    },
+    {
+      "map_name": "um_fild02",
+      "description": "- 滬家森林",
+      "spawn_info": "8x / 5 秒"
+    },
+    {
+      "map_name": "um_fild04",
+      "description": "- 滬家叢林",
+      "spawn_info": "2x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 513,

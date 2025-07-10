@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1156.gif",
   "basic_info": {
-    "level": 79,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 86,
     "magic_defense": 42,
     "hit_100_percent": 335,
-    "flee_95_percent": 0,
+    "flee_95_percent": 363,
     "base_stats": {
       "str": 63,
       "agi": 39,
@@ -37,6 +37,23 @@
       "luk": 85
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild08",
+      "description": "- 吉芬 區域",
+      "spawn_info": "163x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

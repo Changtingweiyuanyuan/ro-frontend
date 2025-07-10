@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2537.gif",
   "basic_info": {
-    "level": 151,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 200,
     "magic_defense": 100,
     "hit_100_percent": 471,
-    "flee_95_percent": 0,
+    "flee_95_percent": 454,
     "base_stats": {
       "str": 100,
       "agi": 100,
@@ -37,5 +37,17 @@
       "luk": 100
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

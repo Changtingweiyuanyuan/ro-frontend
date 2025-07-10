@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1277.gif",
   "basic_info": {
-    "level": 55,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 114,
     "magic_defense": 30,
     "hit_100_percent": 289,
-    "flee_95_percent": 0,
+    "flee_95_percent": 259,
     "base_stats": {
       "str": 58,
       "agi": 30,
@@ -37,6 +37,28 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@face",
+      "description": "- 人面蟲洞穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "pay_fild10",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "129x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

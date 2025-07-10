@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2156.gif",
   "basic_info": {
-    "level": 94,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 280,
     "magic_defense": 128,
     "hit_100_percent": 430,
-    "flee_95_percent": 0,
+    "flee_95_percent": 468,
     "base_stats": {
       "str": 122,
       "agi": 125,
@@ -37,6 +37,13 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "dew_dun01",
+      "description": "- 喀拉喀托火山島 (德瓦他)",
+      "spawn_info": "1x / 120 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

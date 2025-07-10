@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3125.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 58,
     "hit_100_percent": 469,
-    "flee_95_percent": 0,
+    "flee_95_percent": 436,
     "base_stats": {
       "str": 117,
       "agi": 127,
@@ -37,6 +37,13 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mcd",
+      "description": "- 查爾斯頓工廠",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 998,

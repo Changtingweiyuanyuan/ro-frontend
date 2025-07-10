@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1063.gif",
   "basic_info": {
-    "level": 3,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 18,
     "magic_defense": 0,
     "hit_100_percent": 207,
-    "flee_95_percent": 0,
+    "flee_95_percent": 182,
     "base_stats": {
       "str": 10,
       "agi": 3,
@@ -37,6 +37,53 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild04",
+      "description": "- 吉芬 區域",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild01",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "196x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild06",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "32x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild08",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "110x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild08a",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "110x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild08b",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "110x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild08c",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "110x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild08d",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "110x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "5x / 2~3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 515,

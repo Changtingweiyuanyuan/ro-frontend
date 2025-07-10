@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2700.gif",
   "basic_info": {
-    "level": 85,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 79,
     "magic_defense": 37,
     "hit_100_percent": 339,
-    "flee_95_percent": 0,
+    "flee_95_percent": 339,
     "base_stats": {
       "str": 67,
       "agi": 48,
@@ -37,48 +37,55 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "ein_fild09",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 630,
       "name": "青苔",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/630.gif"
+      "icon_url": "/images/items/630.gif"
     },
     {
       "item_id": 928,
       "name": "昆蟲觸角",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/928.gif"
+      "icon_url": "/images/items/928.gif"
     },
     {
       "item_id": 1052,
       "name": "單細胞",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1052.gif"
+      "icon_url": "/images/items/1052.gif"
     },
     {
       "item_id": 4337,
       "name": "三葉鐵甲蟲卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7312,
       "name": "朱畢雷",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7312.gif"
+      "icon_url": "/images/items/7312.gif"
     },
     {
       "item_id": 7326,
       "name": "熒光色的液體",
       "rate": 0.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7326.gif"
+      "icon_url": "/images/items/7326.gif"
     },
     {
       "item_id": 28705,
       "name": "緋紅色大駒短劍[2]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/28705.gif"
+      "icon_url": "/images/items/28705.gif"
     }
   ]
 }

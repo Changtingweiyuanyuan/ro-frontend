@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3450.gif",
   "basic_info": {
-    "level": 115,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 200,
     "hit_100_percent": 365,
-    "flee_95_percent": 0,
+    "flee_95_percent": 451,
     "base_stats": {
       "str": 150,
       "agi": 40,
@@ -37,42 +37,49 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mir",
+      "description": "- 儀式的房間",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 748,
       "name": "永恆玫瑰",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/748.gif"
+      "icon_url": "/images/items/748.gif"
     },
     {
       "item_id": 983,
       "name": "黑色染料",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/983.gif"
+      "icon_url": "/images/items/983.gif"
     },
     {
       "item_id": 1814,
       "name": "祕拳套 閃光",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1814.gif"
+      "icon_url": "/images/items/1814.gif"
     },
     {
       "item_id": 4636,
       "name": "畢尤卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6941,
       "name": "發基力力量碎片",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6941.gif"
+      "icon_url": "/images/items/6941.gif"
     },
     {
       "item_id": 20288,
       "name": "(時裝)畢尤帽子",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/20288.gif"
+      "icon_url": "/images/items/20288.gif"
     }
   ]
 }

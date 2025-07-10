@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2154.gif",
   "basic_info": {
-    "level": 85,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 89,
     "hit_100_percent": 367,
-    "flee_95_percent": 0,
+    "flee_95_percent": 340,
     "base_stats": {
       "str": 61,
       "agi": 78,
@@ -37,42 +37,49 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "dew_dun02",
+      "description": "- 伊斯坦納洞穴 (德瓦他)",
+      "spawn_info": "70x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 7.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+      "icon_url": "/images/items/756.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/912.gif"
+      "icon_url": "/images/items/912.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 7.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+      "icon_url": "/images/items/985.gif"
     },
     {
       "item_id": 1003,
       "name": "煤礦",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1003.gif"
+      "icon_url": "/images/items/1003.gif"
     },
     {
       "item_id": 1752,
       "name": "火箭矢",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1752.gif"
+      "icon_url": "/images/items/1752.gif"
     },
     {
       "item_id": 4518,
       "name": "巴拿斯帕堤卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

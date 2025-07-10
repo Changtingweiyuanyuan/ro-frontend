@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3154.gif",
   "basic_info": {
-    "level": 165,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 127,
     "magic_defense": 60,
     "hit_100_percent": 440,
-    "flee_95_percent": 0,
+    "flee_95_percent": 480,
     "base_stats": {
       "str": 112,
       "agi": 60,
@@ -37,6 +37,18 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "ver_eju",
+      "description": "- 優配擂斯 東邊廢墟",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ver_tunn",
+      "description": "- 貝魯茲 外圍隧道",
+      "spawn_info": "5x / 30 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

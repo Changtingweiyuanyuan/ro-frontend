@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1373.gif",
   "basic_info": {
-    "level": 94,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 336,
     "magic_defense": 73,
     "hit_100_percent": 411,
-    "flee_95_percent": 0,
+    "flee_95_percent": 464,
     "base_stats": {
       "str": 140,
       "agi": 99,
@@ -37,6 +37,13 @@
       "luk": 90
     }
   },
+  "spawns": [
+    {
+      "map_name": "niflheim",
+      "description": "- 亡者國度 尼芙菲姆",
+      "spawn_info": "1x / 133 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1230,

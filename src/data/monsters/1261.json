@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1261.gif",
   "basic_info": {
-    "level": 70,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 75,
     "magic_defense": 15,
     "hit_100_percent": 373,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 44,
       "agi": 87,
@@ -37,6 +37,13 @@
       "luk": 80
     }
   },
+  "spawns": [
+    {
+      "map_name": "um_fild04",
+      "description": "- 滬家叢林",
+      "spawn_info": "38x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 528,

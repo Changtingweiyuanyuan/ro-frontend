@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1005.gif",
   "basic_info": {
-    "level": 24,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 26,
     "magic_defense": 5,
     "hit_100_percent": 243,
-    "flee_95_percent": 0,
+    "flee_95_percent": 214,
     "base_stats": {
       "str": 15,
       "agi": 19,
@@ -37,6 +37,58 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "anthell01",
+      "description": "- 螞蟻地獄密穴 1層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "anthell02",
+      "description": "- 螞蟻地獄密穴 2層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "mjo_dun01",
+      "description": "- 妙勒尼 廢棄礦場 1層",
+      "spawn_info": "31x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd01",
+      "description": "- 金字塔 迷宮 1樓",
+      "spawn_info": "72x / 5 秒"
+    },
+    {
+      "map_name": "orcsdun01",
+      "description": "- 獸人地下洞窟 1層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun00",
+      "description": "- 斐揚 (殭屍洞) 地下1層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb1",
+      "description": "- 普隆德拉 地下水道 1樓",
+      "spawn_info": "66x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb2",
+      "description": "- 普隆德拉 地下水道 2樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb3",
+      "description": "- 普隆德拉 地下水道 3樓",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

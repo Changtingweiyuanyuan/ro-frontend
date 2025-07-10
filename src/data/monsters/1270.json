@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1270.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 96,
     "magic_defense": 60,
     "hit_100_percent": 327,
-    "flee_95_percent": 0,
+    "flee_95_percent": 363,
     "base_stats": {
       "str": 80,
       "agi": 28,
@@ -37,6 +37,33 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "c_tower1",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 1樓",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "c_tower2",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 2樓",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "c_tower3",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 3樓",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "c_tower4",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 4樓",
+      "spawn_info": "3x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 520,

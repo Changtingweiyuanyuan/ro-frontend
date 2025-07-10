@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20603.gif",
   "basic_info": {
-    "level": 190,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 197,
     "magic_defense": 67,
     "hit_100_percent": 529,
-    "flee_95_percent": 0,
+    "flee_95_percent": 554,
     "base_stats": {
       "str": 161,
       "agi": 129,
@@ -37,6 +37,13 @@
       "luk": 53
     }
   },
+  "spawns": [
+    {
+      "map_name": "ein_dun03",
+      "description": "- 礦山洞穴 3層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1003,

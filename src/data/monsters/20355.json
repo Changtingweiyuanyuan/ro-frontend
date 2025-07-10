@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20355.gif",
   "basic_info": {
-    "level": 120,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 146,
     "magic_defense": 27,
     "hit_100_percent": 405,
-    "flee_95_percent": 0,
+    "flee_95_percent": 443,
     "base_stats": {
       "str": 56,
       "agi": 72,
@@ -37,6 +37,18 @@
       "luk": 67
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cor",
+      "description": "- 柯爾記憶副本",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@os_b",
+      "description": "- 封鎖的歐斯",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2837.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 112,
     "magic_defense": 50,
     "hit_100_percent": 378,
-    "flee_95_percent": 0,
+    "flee_95_percent": 368,
     "base_stats": {
       "str": 91,
       "agi": 66,
@@ -37,42 +37,49 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "mag_dun01",
+      "description": "- 朱諾 諾可羅德(火洞) 1層",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 522,
       "name": "瑪絲黛拉果實",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/522.gif"
+      "icon_url": "/images/items/522.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+      "icon_url": "/images/items/756.gif"
     },
     {
       "item_id": 4267,
       "name": "爆炎蝙蝠卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7006,
       "name": "紅色蝙蝠翅膀",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7006.gif"
+      "icon_url": "/images/items/7006.gif"
     },
     {
       "item_id": 7097,
       "name": "燃燒的心臟",
       "rate": 55.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7097.gif"
+      "icon_url": "/images/items/7097.gif"
     },
     {
       "item_id": 7122,
       "name": "炙熱的毛",
       "rate": 80.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7122.gif"
+      "icon_url": "/images/items/7122.gif"
     }
   ]
 }

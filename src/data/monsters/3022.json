@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3022.gif",
   "basic_info": {
-    "level": 147,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 134,
     "magic_defense": 40,
     "hit_100_percent": 391,
-    "flee_95_percent": 0,
+    "flee_95_percent": 448,
     "base_stats": {
       "str": 148,
       "agi": 38,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "moro_vol",
+      "description": "- 火焰盆地",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 6694,

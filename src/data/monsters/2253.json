@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2253.gif",
   "basic_info": {
-    "level": 142,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 494,
     "magic_defense": 123,
     "hit_100_percent": 484,
-    "flee_95_percent": 0,
+    "flee_95_percent": 561,
     "base_stats": {
       "str": 116,
       "agi": 123,
@@ -37,6 +37,13 @@
       "luk": 98
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld2_pay",
+      "description": "- 深淵迴廊 : 太古之風",
+      "spawn_info": "1x / 480~490 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

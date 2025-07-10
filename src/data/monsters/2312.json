@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2312.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 89,
     "magic_defense": 75,
     "hit_100_percent": 391,
-    "flee_95_percent": 0,
+    "flee_95_percent": 361,
     "base_stats": {
       "str": 35,
       "agi": 71,
@@ -37,6 +37,13 @@
       "luk": 52
     }
   },
+  "spawns": [
+    {
+      "map_name": "ma_fild02",
+      "description": "- 普勒斯特(森林)",
+      "spawn_info": "41x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 4585,

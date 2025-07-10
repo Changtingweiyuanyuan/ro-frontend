@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20356.gif",
   "basic_info": {
-    "level": 165,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 263,
     "magic_defense": 37,
     "hit_100_percent": 484,
-    "flee_95_percent": 0,
+    "flee_95_percent": 538,
     "base_stats": {
       "str": 119,
       "agi": 101,
@@ -37,6 +37,18 @@
       "luk": 93
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cor",
+      "description": "- 柯爾記憶副本",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "sp_rudus2",
+      "description": "- 實驗體廢棄場 魯杜斯 2層",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

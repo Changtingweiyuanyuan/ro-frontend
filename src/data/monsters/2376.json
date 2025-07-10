@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2376.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 81,
     "magic_defense": 5,
     "hit_100_percent": 350,
-    "flee_95_percent": 0,
+    "flee_95_percent": 369,
     "base_stats": {
       "str": 121,
       "agi": 42,
@@ -37,5 +37,12 @@
       "luk": 44
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ecl",
+      "description": "- 艾卡拉奇(埃克拉珠) 內部",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3644.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 30,
     "magic_defense": 20,
     "hit_100_percent": 310,
-    "flee_95_percent": 0,
+    "flee_95_percent": 296,
     "base_stats": {
       "str": 30,
       "agi": 30,
@@ -37,6 +37,13 @@
       "luk": 4
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@md_pay",
+      "description": "- 週末副本",
+      "spawn_info": "37x / 10 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 514,

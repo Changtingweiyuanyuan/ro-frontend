@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1216.gif",
   "basic_info": {
-    "level": 85,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 32,
     "hit_100_percent": 325,
-    "flee_95_percent": 0,
+    "flee_95_percent": 365,
     "base_stats": {
       "str": 76,
       "agi": 38,
@@ -37,6 +37,23 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abyss_01",
+      "description": "- 深淵湖水 地下洞穴 F1",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "alde_dun03",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 3樓",
+      "spawn_info": "85x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 525,

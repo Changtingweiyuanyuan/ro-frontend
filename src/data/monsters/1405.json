@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1405.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 134,
     "magic_defense": 46,
     "hit_100_percent": 348,
-    "flee_95_percent": 0,
+    "flee_95_percent": 368,
     "base_stats": {
       "str": 99,
       "agi": 38,
@@ -37,6 +37,18 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ama_dun03",
+      "description": "- 櫻花城迷宮3層 (地下神社)",
+      "spawn_info": "65x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 522,

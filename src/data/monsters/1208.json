@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1208.gif",
   "basic_info": {
-    "level": 120,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 5,
     "hit_100_percent": 418,
-    "flee_95_percent": 0,
+    "flee_95_percent": 470,
     "base_stats": {
       "str": 118,
       "agi": 92,
@@ -37,6 +37,28 @@
       "luk": 33
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_cas02",
+      "description": "- 克雷斯特漢姆古城 地上2層",
+      "spawn_info": "41x / 5 秒"
+    },
+    {
+      "map_name": "gl_in01",
+      "description": "- 克雷斯特漢姆古城 室內",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

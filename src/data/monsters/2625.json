@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2625.gif",
   "basic_info": {
-    "level": 113,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 20,
     "hit_100_percent": 389,
-    "flee_95_percent": 0,
+    "flee_95_percent": 377,
     "base_stats": {
       "str": 109,
       "agi": 70,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "juperos_01",
+      "description": "- 優配擂斯 廢墟 1樓",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3750.gif",
   "basic_info": {
-    "level": 131,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 150,
     "magic_defense": 45,
     "hit_100_percent": 478,
-    "flee_95_percent": 0,
+    "flee_95_percent": 499,
     "base_stats": {
       "str": 91,
       "agi": 129,
@@ -37,6 +37,13 @@
       "luk": 90
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_d01_i",
+      "description": "- 幻影: 吸血鬼幻影",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 725,

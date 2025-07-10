@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1252.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 173,
     "magic_defense": 103,
     "hit_100_percent": 465,
-    "flee_95_percent": 0,
+    "flee_95_percent": 467,
     "base_stats": {
       "str": 122,
       "agi": 153,
@@ -37,6 +37,13 @@
       "luk": 72
     }
   },
+  "spawns": [
+    {
+      "map_name": "xmas_fild01",
+      "description": "- 姜餅城原野",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

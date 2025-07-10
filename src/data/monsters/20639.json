@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20639.gif",
   "basic_info": {
-    "level": 186,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 522,
     "magic_defense": 110,
     "hit_100_percent": 481,
-    "flee_95_percent": 0,
+    "flee_95_percent": 502,
     "base_stats": {
       "str": 152,
       "agi": 76,
@@ -37,6 +37,18 @@
       "luk": 98
     }
   },
+  "spawns": [
+    {
+      "map_name": "ba_2whs01",
+      "description": "- 塔爾塔羅斯儲藏室 上層",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "ba_2whs02",
+      "description": "- 塔爾塔羅斯儲藏室 下層",
+      "spawn_info": "80x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

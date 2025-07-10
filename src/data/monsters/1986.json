@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1986.gif",
   "basic_info": {
-    "level": 128,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 151,
     "magic_defense": 14,
     "hit_100_percent": 367,
-    "flee_95_percent": 0,
+    "flee_95_percent": 418,
     "base_stats": {
       "str": 119,
       "agi": 33,
@@ -37,6 +37,28 @@
       "luk": 33
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_fild01",
+      "description": "- 卡米達山麓",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "dic_fild02",
+      "description": "- 卡米達山麓",
+      "spawn_info": "27x / 5 秒"
+    },
+    {
+      "map_name": "man_fild02",
+      "description": "- 馬努克曠野",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "man_fild03",
+      "description": "- 馬努克曠野",
+      "spawn_info": "33x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 579,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2398.gif",
   "basic_info": {
-    "level": 1,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 2,
     "magic_defense": 5,
     "hit_100_percent": 203,
-    "flee_95_percent": 0,
+    "flee_95_percent": 178,
     "base_stats": {
       "str": 6,
       "agi": 1,
@@ -37,6 +37,38 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "new_1-3",
+      "description": "- 初學者 修練場",
+      "spawn_info": "30x / 50 秒"
+    },
+    {
+      "map_name": "prt_fild08",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "33x / 50 秒"
+    },
+    {
+      "map_name": "prt_fild08a",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "33x / 50 秒"
+    },
+    {
+      "map_name": "prt_fild08b",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "33x / 50 秒"
+    },
+    {
+      "map_name": "prt_fild08c",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "33x / 50 秒"
+    },
+    {
+      "map_name": "prt_fild08d",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "33x / 50 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

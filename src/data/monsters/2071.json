@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2071.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 33,
     "magic_defense": 44,
     "hit_100_percent": 335,
-    "flee_95_percent": 0,
+    "flee_95_percent": 336,
     "base_stats": {
       "str": 68,
       "agi": 51,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "bra_fild01",
+      "description": "- 巴西平原",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1269,

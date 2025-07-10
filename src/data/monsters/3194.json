@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3194.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 55,
     "magic_defense": 177,
     "hit_100_percent": 513,
-    "flee_95_percent": 0,
+    "flee_95_percent": 580,
     "base_stats": {
       "str": 135,
       "agi": 135,
@@ -37,6 +37,13 @@
       "luk": 91
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@glast",
+      "description": "- 過去的克雷斯特漢姆古城",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 27183,

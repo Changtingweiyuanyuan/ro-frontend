@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1149.gif",
   "basic_info": {
-    "level": 58,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 10,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 297,
     "base_stats": {
       "str": 65,
       "agi": 42,
@@ -37,6 +37,18 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "in_sphinx4",
+      "description": "- 史芬克斯 密穴 4層",
+      "spawn_info": "77x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd05",
+      "description": "- 金字塔 迷宮 地下2樓",
+      "spawn_info": "78x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 568,

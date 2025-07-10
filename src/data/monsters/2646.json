@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2646.gif",
   "basic_info": {
-    "level": 18,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 12,
     "magic_defense": 10,
     "hit_100_percent": 223,
-    "flee_95_percent": 0,
+    "flee_95_percent": 200,
     "base_stats": {
       "str": 15,
       "agi": 5,
@@ -37,6 +37,13 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "treasure_n1",
+      "description": "- 依斯魯得島 遇難船 1樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

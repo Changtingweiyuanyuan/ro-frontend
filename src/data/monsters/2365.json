@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2365.gif",
   "basic_info": {
-    "level": 146,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 87,
     "magic_defense": 81,
     "hit_100_percent": 394,
-    "flee_95_percent": 0,
+    "flee_95_percent": 426,
     "base_stats": {
       "str": 67,
       "agi": 39,
@@ -37,6 +37,18 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "ecl_tdun01",
+      "description": "- 彩虹橋高塔 1樓",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "ecl_tdun02",
+      "description": "- 彩虹橋高塔 2樓",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 4595,

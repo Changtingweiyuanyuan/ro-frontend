@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1146.gif",
   "basic_info": {
-    "level": 58,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 5,
     "hit_100_percent": 280,
-    "flee_95_percent": 0,
+    "flee_95_percent": 278,
     "base_stats": {
       "str": 48,
       "agi": 20,
@@ -37,6 +37,43 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "in_sphinx1",
+      "description": "- 史芬克斯 密穴 1層",
+      "spawn_info": "19x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx2",
+      "description": "- 史芬克斯 密穴 2層",
+      "spawn_info": "32x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx3",
+      "description": "- 史芬克斯 密穴 3層",
+      "spawn_info": "18x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx5",
+      "description": "- 史芬克斯 密穴 5層",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd03",
+      "description": "- 金字塔 迷宮 3樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd04",
+      "description": "- 金字塔 迷宮 4樓",
+      "spawn_info": "24x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 514,

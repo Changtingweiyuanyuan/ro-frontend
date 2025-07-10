@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2820.gif",
   "basic_info": {
-    "level": 147,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 140,
     "magic_defense": 44,
     "hit_100_percent": 488,
-    "flee_95_percent": 0,
+    "flee_95_percent": 555,
     "base_stats": {
       "str": 155,
       "agi": 126,
@@ -37,6 +37,13 @@
       "luk": 76
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld_dun04_2",
+      "description": "- 吉芬-公會地下迷宮 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 2609,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3444.gif",
   "basic_info": {
-    "level": 145,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 125,
     "magic_defense": 47,
     "hit_100_percent": 435,
-    "flee_95_percent": 0,
+    "flee_95_percent": 411,
     "base_stats": {
       "str": 100,
       "agi": 80,
@@ -37,48 +37,55 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "prt_prison",
+      "description": "- 普隆德拉地下監獄",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 576,
       "name": "榴蓮",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/576.gif"
+      "icon_url": "/images/items/576.gif"
     },
     {
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/603.gif"
+      "icon_url": "/images/items/603.gif"
     },
     {
       "item_id": 605,
       "name": "曼特療傷藥",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/605.gif"
+      "icon_url": "/images/items/605.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/985.gif"
+      "icon_url": "/images/items/985.gif"
     },
     {
       "item_id": 996,
       "name": "風靈原石",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/996.gif"
+      "icon_url": "/images/items/996.gif"
     },
     {
       "item_id": 4638,
       "name": "觀察者卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6924,
       "name": "魔物紅眼",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6924.gif"
+      "icon_url": "/images/items/6924.gif"
     }
   ]
 }

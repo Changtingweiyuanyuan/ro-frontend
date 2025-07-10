@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3449.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 30,
     "magic_defense": 30,
     "hit_100_percent": 358,
-    "flee_95_percent": 0,
+    "flee_95_percent": 354,
     "base_stats": {
       "str": 100,
       "agi": 50,
@@ -37,5 +37,12 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mir",
+      "description": "- 儀式的房間",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

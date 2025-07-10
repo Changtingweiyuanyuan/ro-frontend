@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1367.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 116,
     "magic_defense": 60,
     "hit_100_percent": 389,
-    "flee_95_percent": 0,
+    "flee_95_percent": 364,
     "base_stats": {
       "str": 99,
       "agi": 75,
@@ -37,30 +37,42 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "mag_dun01",
+      "description": "- 朱諾 諾可羅德(火洞) 1層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "mag_dun02",
+      "description": "- 朱諾 諾可羅德(火洞) 2層",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,
       "name": "白色藥草",
       "rate": 7.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/509.gif"
+      "icon_url": "/images/items/509.gif"
     },
     {
       "item_id": 4215,
       "name": "火焰妖卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7097,
       "name": "燃燒的心臟",
       "rate": 12.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7097.gif"
+      "icon_url": "/images/items/7097.gif"
     },
     {
       "item_id": 7098,
       "name": "火種",
       "rate": 8.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7098.gif"
+      "icon_url": "/images/items/7098.gif"
     }
   ]
 }

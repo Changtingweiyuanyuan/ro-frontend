@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1797.gif",
   "basic_info": {
-    "level": 120,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 81,
     "magic_defense": 64,
     "hit_100_percent": 397,
-    "flee_95_percent": 0,
+    "flee_95_percent": 420,
     "base_stats": {
       "str": 102,
       "agi": 66,
@@ -37,6 +37,13 @@
       "luk": 57
     }
   },
+  "spawns": [
+    {
+      "map_name": "arug_dun01",
+      "description": "- 公會地下迷宮 (拉赫)",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 2109,

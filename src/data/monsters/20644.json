@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20644.gif",
   "basic_info": {
-    "level": 137,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 407,
     "magic_defense": 81,
     "hit_100_percent": 454,
-    "flee_95_percent": 0,
+    "flee_95_percent": 441,
     "base_stats": {
       "str": 101,
       "agi": 104,
@@ -37,6 +37,13 @@
       "luk": 67
     }
   },
+  "spawns": [
+    {
+      "map_name": "ba_bath",
+      "description": "- 冥想大浴池",
+      "spawn_info": "50x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,

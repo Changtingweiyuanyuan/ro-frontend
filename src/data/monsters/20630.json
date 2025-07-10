@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20630.gif",
   "basic_info": {
-    "level": 145,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 349,
     "magic_defense": 81,
     "hit_100_percent": 466,
-    "flee_95_percent": 0,
+    "flee_95_percent": 438,
     "base_stats": {
       "str": 104,
       "agi": 112,
@@ -37,6 +37,23 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "ba_lib",
+      "description": "- 圖書館記憶迴廊",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "ba_maison",
+      "description": "- 霸肋門德 大宅庭院",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "ba_pw01",
+      "description": "- 第一魔力發電廠",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 998,

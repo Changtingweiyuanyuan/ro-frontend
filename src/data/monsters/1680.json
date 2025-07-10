@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1680.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 37,
     "hit_100_percent": 375,
-    "flee_95_percent": 0,
+    "flee_95_percent": 375,
     "base_stats": {
       "str": 105,
       "agi": 69,
@@ -37,6 +37,28 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ra_fild03",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "154x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild04",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "155x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild08",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "31x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

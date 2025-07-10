@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1754.gif",
   "basic_info": {
-    "level": 131,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 92,
     "hit_100_percent": 435,
-    "flee_95_percent": 0,
+    "flee_95_percent": 473,
     "base_stats": {
       "str": 91,
       "agi": 89,
@@ -37,6 +37,23 @@
       "luk": 75
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "odin_tem02",
+      "description": "- 奧丁神殿 2層",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "odin_tem03",
+      "description": "- 奧丁神殿 3層",
+      "spawn_info": "19x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 2001,

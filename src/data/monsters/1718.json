@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1718.gif",
   "basic_info": {
-    "level": 84,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 28,
     "hit_100_percent": 338,
-    "flee_95_percent": 0,
+    "flee_95_percent": 381,
     "base_stats": {
       "str": 53,
       "agi": 43,
@@ -37,6 +37,38 @@
       "luk": 58
     }
   },
+  "spawns": [
+    {
+      "map_name": "abyss_01",
+      "description": "- 深淵湖水 地下洞穴 F1",
+      "spawn_info": "9x / 5 秒"
+    },
+    {
+      "map_name": "abyss_02",
+      "description": "- 深淵湖水 地下洞穴 F2",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild01",
+      "description": "- 達納托斯之塔",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild02",
+      "description": "- 毀葛原野",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild04",
+      "description": "- 毀葛 原野",
+      "spawn_info": "100x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild05",
+      "description": "- 深淵湖水",
+      "spawn_info": "130x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

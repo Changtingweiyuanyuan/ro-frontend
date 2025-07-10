@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1688.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 241,
     "magic_defense": 104,
     "hit_100_percent": 402,
-    "flee_95_percent": 0,
+    "flee_95_percent": 513,
     "base_stats": {
       "str": 86,
       "agi": 108,
@@ -37,6 +37,13 @@
       "luk": 71
     }
   },
+  "spawns": [
+    {
+      "map_name": "ayo_dun02",
+      "description": "- 古代神殿 內部",
+      "spawn_info": "1x / 420~430 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

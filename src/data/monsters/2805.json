@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2805.gif",
   "basic_info": {
-    "level": 81,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 45,
     "hit_100_percent": 301,
-    "flee_95_percent": 0,
+    "flee_95_percent": 340,
     "base_stats": {
       "str": 75,
       "agi": 16,
@@ -37,54 +37,61 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "alde_dun02",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 2樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 22.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/508.gif"
+      "icon_url": "/images/items/508.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 4.9,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+      "icon_url": "/images/items/756.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 32.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/912.gif"
+      "icon_url": "/images/items/912.gif"
     },
     {
       "item_id": 931,
       "name": "獸人戰士之證",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/931.gif"
+      "icon_url": "/images/items/931.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 2.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+      "icon_url": "/images/items/999.gif"
     },
     {
       "item_id": 1304,
       "name": "獸人斧",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1304.gif"
+      "icon_url": "/images/items/1304.gif"
     },
     {
       "item_id": 4322,
       "name": "獸人戰士長卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7002,
       "name": "獸人之牙",
       "rate": 62.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7002.gif"
+      "icon_url": "/images/items/7002.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1740.gif",
   "basic_info": {
-    "level": 112,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 106,
     "magic_defense": 15,
     "hit_100_percent": 383,
-    "flee_95_percent": 0,
+    "flee_95_percent": 414,
     "base_stats": {
       "str": 111,
       "agi": 56,
@@ -37,6 +37,13 @@
       "luk": 75
     }
   },
+  "spawns": [
+    {
+      "map_name": "kh_kiehl01",
+      "description": "- 基爾的房間",
+      "spawn_info": "7x / 3~5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 7507,

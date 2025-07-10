@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2735.gif",
   "basic_info": {
-    "level": 114,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 25,
     "magic_defense": 5,
     "hit_100_percent": 357,
-    "flee_95_percent": 0,
+    "flee_95_percent": 513,
     "base_stats": {
       "str": 94,
       "agi": 32,
@@ -37,54 +37,61 @@
       "luk": 59
     }
   },
+  "spawns": [
+    {
+      "map_name": "man_fild01",
+      "description": "- 馬努克曠野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 905,
       "name": "植物梗",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/905.gif"
+      "icon_url": "/images/items/905.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 1.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/993.gif"
+      "icon_url": "/images/items/993.gif"
     },
     {
       "item_id": 1740,
       "name": "豬籠草之弓[2]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1740.gif"
+      "icon_url": "/images/items/1740.gif"
     },
     {
       "item_id": 1926,
       "name": "豬籠草豎琴[2]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1926.gif"
+      "icon_url": "/images/items/1926.gif"
     },
     {
       "item_id": 1979,
       "name": "豬籠草的莖[2]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1979.gif"
+      "icon_url": "/images/items/1979.gif"
     },
     {
       "item_id": 4470,
       "name": "豬籠草卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 5399,
       "name": "曼陀羅帽子[1]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/5399.gif"
+      "icon_url": "/images/items/5399.gif"
     },
     {
       "item_id": 6041,
       "name": "結實的藤",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6041.gif"
+      "icon_url": "/images/items/6041.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1296.gif",
   "basic_info": {
-    "level": 112,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 62,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 413,
     "base_stats": {
       "str": 135,
       "agi": 34,
@@ -37,6 +37,23 @@
       "luk": 47
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun03_2",
+      "description": "- 普隆德拉-公會地下迷宮 2層",
+      "spawn_info": "1x / 240~360 分鐘"
+    },
+    {
+      "map_name": "ra_fild06",
+      "description": "- 拉赫 珀爾特魯納",
+      "spawn_info": "1x / 30~50 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 525,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2250.gif",
   "basic_info": {
-    "level": 136,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 224,
     "magic_defense": 58,
     "hit_100_percent": 441,
-    "flee_95_percent": 0,
+    "flee_95_percent": 477,
     "base_stats": {
       "str": 144,
       "agi": 92,
@@ -37,6 +37,13 @@
       "luk": 68
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld2_prt",
+      "description": "- 深淵迴廊 : 戰士之路",
+      "spawn_info": "1x / 30~40 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

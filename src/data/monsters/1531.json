@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1531.gif",
   "basic_info": {
-    "level": 96,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 66,
     "magic_defense": 46,
     "hit_100_percent": 362,
-    "flee_95_percent": 0,
+    "flee_95_percent": 400,
     "base_stats": {
       "str": 63,
       "agi": 57,
@@ -37,5 +37,12 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def01",
+      "description": "- 波動模式迷宮 - 森林",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1153.gif",
   "basic_info": {
-    "level": 51,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 71,
     "magic_defense": 5,
     "hit_100_percent": 269,
-    "flee_95_percent": 0,
+    "flee_95_percent": 279,
     "base_stats": {
       "str": 45,
       "agi": 17,
@@ -37,6 +37,23 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@orcs",
+      "description": "- 獸人地下洞穴 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "orcsdun01",
+      "description": "- 獸人地下洞窟 1層",
+      "spawn_info": "80x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 714,

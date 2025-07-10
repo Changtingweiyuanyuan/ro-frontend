@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2880.gif",
   "basic_info": {
-    "level": 92,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 83,
     "magic_defense": 32,
     "hit_100_percent": 404,
-    "flee_95_percent": 0,
+    "flee_95_percent": 359,
     "base_stats": {
       "str": 75,
       "agi": 101,
@@ -37,6 +37,13 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "odin_tem01",
+      "description": "- 奧丁神殿 1層",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 604,

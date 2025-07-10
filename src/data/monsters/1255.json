@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1255.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 37,
     "hit_100_percent": 353,
-    "flee_95_percent": 0,
+    "flee_95_percent": 367,
     "base_stats": {
       "str": 97,
       "agi": 45,
@@ -37,6 +37,28 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "beach_dun",
+      "description": "- 西邊 洞穴 加露",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "beach_dun2",
+      "description": "- 北邊 洞穴 盧安達",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "beach_dun3",
+      "description": "- 東邊 洞穴 馬吾",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

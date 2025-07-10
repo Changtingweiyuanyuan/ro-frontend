@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3788.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 68,
     "magic_defense": 42,
     "hit_100_percent": 350,
-    "flee_95_percent": 0,
+    "flee_95_percent": 378,
     "base_stats": {
       "str": 38,
       "agi": 43,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "harboro2",
+      "description": "- 洛克里奇 地下水道",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1037.gif",
   "basic_info": {
-    "level": 70,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 12,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 318,
     "base_stats": {
       "str": 52,
       "agi": 32,
@@ -37,6 +37,68 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild06",
+      "description": "- 吉芬 區域",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "gon_fild01",
+      "description": "- 昆崙原野",
+      "spawn_info": "12x / 5 秒"
+    },
+    {
+      "map_name": "in_sphinx5",
+      "description": "- 史芬克斯 密穴 5層",
+      "spawn_info": "22x / 5 秒"
+    },
+    {
+      "map_name": "lou_dun01",
+      "description": "- 洛陽 古都王陵 1層",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_03",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "140x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_04",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "43x / 5 秒"
+    },
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "56x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "3x / 2~3 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "pvp_n_8-1",
+      "description": "- PvP : 三明治 房間",
+      "spawn_info": "2x / 6~9 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

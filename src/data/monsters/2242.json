@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2242.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 151,
     "magic_defense": 39,
     "hit_100_percent": 412,
-    "flee_95_percent": 0,
+    "flee_95_percent": 417,
     "base_stats": {
       "str": 151,
       "agi": 69,
@@ -37,5 +37,12 @@
       "luk": 42
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@lhz",
+      "description": "- 保羅協夫研究室",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

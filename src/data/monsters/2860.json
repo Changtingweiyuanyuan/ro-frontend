@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2860.gif",
   "basic_info": {
-    "level": 114,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 68,
     "magic_defense": 40,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 441,
     "base_stats": {
       "str": 91,
       "agi": 64,
@@ -37,6 +37,13 @@
       "luk": 54
     }
   },
+  "spawns": [
+    {
+      "map_name": "tha_t03",
+      "description": "- 達納托斯之塔 下層 3樓 廢棄空間",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1097,

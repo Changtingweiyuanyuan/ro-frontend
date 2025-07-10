@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1161.gif",
   "basic_info": {
-    "level": 40,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 28,
     "magic_defense": 28,
     "hit_100_percent": 295,
-    "flee_95_percent": 0,
+    "flee_95_percent": 249,
     "base_stats": {
       "str": 23,
       "agi": 53,
@@ -37,6 +37,33 @@
       "luk": 14
     }
   },
+  "spawns": [
+    {
+      "map_name": "bra_dun01",
+      "description": "- 巴西瀑布裡的洞穴入口",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "bra_dun02",
+      "description": "- 巴西瀑布裡的洞穴內部",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun00",
+      "description": "- 依斯魯得海底洞穴 1層",
+      "spawn_info": "88x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun01",
+      "description": "- 依斯魯得海底洞穴 2層",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "prt_sewb2",
+      "description": "- 普隆德拉 地下水道 2樓",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

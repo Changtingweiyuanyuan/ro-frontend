@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2069.gif",
   "basic_info": {
-    "level": 79,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 0,
     "magic_defense": 76,
     "hit_100_percent": 297,
-    "flee_95_percent": 0,
+    "flee_95_percent": 338,
     "base_stats": {
       "str": 69,
       "agi": 14,
@@ -37,6 +37,18 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "bra_dun01",
+      "description": "- 巴西瀑布裡的洞穴入口",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "bra_dun02",
+      "description": "- 巴西瀑布裡的洞穴內部",
+      "spawn_info": "110x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 710,

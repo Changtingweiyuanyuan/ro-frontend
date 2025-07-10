@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3627.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 73,
     "magic_defense": 42,
     "hit_100_percent": 413,
-    "flee_95_percent": 0,
+    "flee_95_percent": 423,
     "base_stats": {
       "str": 72,
       "agi": 106,
@@ -37,6 +37,23 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@rgsr",
+      "description": "- 雷根修蘆",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@swat",
+      "description": "- 邪心獵人 軍事基地",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@swat(quest)",
+      "description": "- 邪心獵人軍事基地 任務地圖",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

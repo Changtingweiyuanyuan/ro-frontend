@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2813.gif",
   "basic_info": {
-    "level": 48,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 5,
     "hit_100_percent": 304,
-    "flee_95_percent": 0,
+    "flee_95_percent": 257,
     "base_stats": {
       "str": 37,
       "agi": 54,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "prt_fild11",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

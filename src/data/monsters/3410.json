@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3410.gif",
   "basic_info": {
-    "level": 106,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 172,
     "magic_defense": 10,
     "hit_100_percent": 391,
-    "flee_95_percent": 0,
+    "flee_95_percent": 437,
     "base_stats": {
       "str": 134,
       "agi": 75,
@@ -37,54 +37,61 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@infi",
+      "description": "- 無限空間",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 645,
       "name": "集中藥水",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/645.gif"
+      "icon_url": "/images/items/645.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 0.16,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+      "icon_url": "/images/items/756.gif"
     },
     {
       "item_id": 916,
       "name": "羽毛",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/916.gif"
+      "icon_url": "/images/items/916.gif"
     },
     {
       "item_id": 992,
       "name": "風靈礦石",
       "rate": 0.45,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/992.gif"
+      "icon_url": "/images/items/992.gif"
     },
     {
       "item_id": 2225,
       "name": "防風皮革眼鏡[1]",
       "rate": 0.04,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2225.gif"
+      "icon_url": "/images/items/2225.gif"
     },
     {
       "item_id": 4186,
       "name": "奈吉鳥卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7053,
       "name": "賽依伐",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7053.gif"
+      "icon_url": "/images/items/7053.gif"
     }
   ]
 }

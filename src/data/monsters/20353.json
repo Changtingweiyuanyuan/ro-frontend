@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20353.gif",
   "basic_info": {
-    "level": 111,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 42,
     "magic_defense": 65,
     "hit_100_percent": 399,
-    "flee_95_percent": 0,
+    "flee_95_percent": 534,
     "base_stats": {
       "str": 160,
       "agi": 77,
@@ -37,5 +37,12 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@rgsr",
+      "description": "- 雷根修蘆",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

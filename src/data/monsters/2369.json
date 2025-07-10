@@ -2,11 +2,11 @@
   "id": 2369,
   "name": {
     "zh_tw": "元素鬼火",
-    "en": "红"
+    "en": "紅"
   },
   "image_url": "/images/monsters/2369.gif",
   "basic_info": {
-    "level": 149,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 111,
     "magic_defense": 53,
     "hit_100_percent": 436,
-    "flee_95_percent": 0,
+    "flee_95_percent": 468,
     "base_stats": {
       "str": 147,
       "agi": 77,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "ecl_tdun02",
+      "description": "- 彩虹橋高塔 2樓",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 994,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1265.gif",
   "basic_info": {
-    "level": 35,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 28,
     "hit_100_percent": 261,
-    "flee_95_percent": 0,
+    "flee_95_percent": 241,
     "base_stats": {
       "str": 15,
       "agi": 23,
@@ -37,6 +37,18 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "49x / 5 秒"
+    },
+    {
+      "map_name": "xmas_dun02",
+      "description": "- 玩具工廠 2樓 (分類場)",
+      "spawn_info": "28x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 529,

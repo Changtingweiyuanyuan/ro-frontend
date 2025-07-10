@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1315.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 169,
     "magic_defense": 49,
     "hit_100_percent": 395,
-    "flee_95_percent": 0,
+    "flee_95_percent": 419,
     "base_stats": {
       "str": 100,
       "agi": 92,
@@ -37,6 +37,28 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "tur_dun03",
+      "description": "- 烏龜島 密穴 3層 (良龜村)",
+      "spawn_info": "35x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun04",
+      "description": "- 烏龜島 密穴 4層 (舊良宮)",
+      "spawn_info": "42x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun05",
+      "description": "- 地下 沼澤區",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

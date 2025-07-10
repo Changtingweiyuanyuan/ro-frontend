@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1294.gif",
   "basic_info": {
-    "level": 141,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 107,
     "magic_defense": 45,
     "hit_100_percent": 405,
-    "flee_95_percent": 0,
+    "flee_95_percent": 407,
     "base_stats": {
       "str": 82,
       "agi": 56,
@@ -37,6 +37,28 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld2_ald",
+      "description": "- 深淵迴廊 : 英雄之淚",
+      "spawn_info": "60x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun02_2",
+      "description": "- 艾爾帕蘭-公會地下迷宮 2層",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 721,

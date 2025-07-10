@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2478.gif",
   "basic_info": {
-    "level": 146,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 140,
     "magic_defense": 59,
     "hit_100_percent": 542,
-    "flee_95_percent": 0,
+    "flee_95_percent": 580,
     "base_stats": {
       "str": 131,
       "agi": 195,
@@ -37,6 +37,23 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "c_tower2_",
+      "description": "- 扭曲的時間的鐘塔 2層",
+      "spawn_info": "16x / 5 秒"
+    },
+    {
+      "map_name": "c_tower3_",
+      "description": "- 扭曲的時間的鐘塔 3層",
+      "spawn_info": "8x / 5 秒"
+    },
+    {
+      "map_name": "gl_cas02_",
+      "description": "- 克雷斯特漢姆古城 地上樓層 2樓 (噩咪模式)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1097,

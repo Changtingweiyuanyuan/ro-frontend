@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3091.gif",
   "basic_info": {
-    "level": 165,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 264,
     "magic_defense": 177,
     "hit_100_percent": 518,
-    "flee_95_percent": 0,
+    "flee_95_percent": 585,
     "base_stats": {
       "str": 135,
       "agi": 135,
@@ -37,12 +37,19 @@
       "luk": 91
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@eom",
+      "description": "- 魔神殿",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 27324,
       "name": "Brinaranea Card",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/27324.gif"
+      "icon_url": "/images/items/27324.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3481.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 34,
     "magic_defense": 34,
     "hit_100_percent": 431,
-    "flee_95_percent": 0,
+    "flee_95_percent": 479,
     "base_stats": {
       "str": 102,
       "agi": 61,
@@ -37,6 +37,13 @@
       "luk": 51
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@sthc",
+      "description": "- 空中要塞神祕的房間",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1800,

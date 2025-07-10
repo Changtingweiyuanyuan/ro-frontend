@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2710.gif",
   "basic_info": {
-    "level": 113,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 59,
     "magic_defense": 35,
     "hit_100_percent": 370,
-    "flee_95_percent": 0,
+    "flee_95_percent": 379,
     "base_stats": {
       "str": 89,
       "agi": 55,
@@ -37,6 +37,13 @@
       "luk": 12
     }
   },
+  "spawns": [
+    {
+      "map_name": "spl_fild01",
+      "description": "- 輝煌領域",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 972,

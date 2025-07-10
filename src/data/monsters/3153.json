@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3153.gif",
   "basic_info": {
-    "level": 163,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 138,
     "magic_defense": 53,
     "hit_100_percent": 478,
-    "flee_95_percent": 0,
+    "flee_95_percent": 450,
     "base_stats": {
       "str": 102,
       "agi": 104,
@@ -37,6 +37,13 @@
       "luk": 57
     }
   },
+  "spawns": [
+    {
+      "map_name": "ver_eju",
+      "description": "- 優配擂斯 東邊廢墟",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

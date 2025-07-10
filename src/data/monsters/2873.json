@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2873.gif",
   "basic_info": {
-    "level": 125,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 143,
     "magic_defense": 25,
     "hit_100_percent": 405,
-    "flee_95_percent": 0,
+    "flee_95_percent": 431,
     "base_stats": {
       "str": 133,
       "agi": 71,
@@ -37,6 +37,13 @@
       "luk": 49
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_fild01",
+      "description": "- 卡米達山麓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 912,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2863.gif",
   "basic_info": {
-    "level": 23,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 28,
     "magic_defense": 20,
     "hit_100_percent": 228,
-    "flee_95_percent": 0,
+    "flee_95_percent": 200,
     "base_stats": {
       "str": 16,
       "agi": 1,
@@ -37,54 +37,61 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild05",
+      "description": "- 吉芬 區域",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,
       "name": "蜂蜜",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/518.gif"
+      "icon_url": "/images/items/518.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 692,
       "name": "雷擊術 等級3",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/692.gif"
+      "icon_url": "/images/items/692.gif"
     },
     {
       "item_id": 712,
       "name": "花",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/712.gif"
+      "icon_url": "/images/items/712.gif"
     },
     {
       "item_id": 924,
       "name": "蝴蝶翅膀粉末",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/924.gif"
+      "icon_url": "/images/items/924.gif"
     },
     {
       "item_id": 2207,
       "name": "花朵頭飾",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2207.gif"
+      "icon_url": "/images/items/2207.gif"
     },
     {
       "item_id": 2322,
       "name": "絲質外袍[1]",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2322.gif"
+      "icon_url": "/images/items/2322.gif"
     },
     {
       "item_id": 4040,
       "name": "克瑞米卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

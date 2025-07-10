@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3446.gif",
   "basic_info": {
-    "level": 114,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 20,
     "hit_100_percent": 380,
-    "flee_95_percent": 0,
+    "flee_95_percent": 384,
     "base_stats": {
       "str": 80,
       "agi": 60,
@@ -37,36 +37,43 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mir",
+      "description": "- 儀式的房間",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 2609,
       "name": "骷髏戒指",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2609.gif"
+      "icon_url": "/images/items/2609.gif"
     },
     {
       "item_id": 4446,
       "name": "強化邪骸戰士卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6942,
       "name": "主人的意志",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6942.gif"
+      "icon_url": "/images/items/6942.gif"
     },
     {
       "item_id": 7005,
       "name": "骷髏頭",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7005.gif"
+      "icon_url": "/images/items/7005.gif"
     },
     {
       "item_id": 12425,
       "name": "SP增加藥水(小)",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12425.gif"
+      "icon_url": "/images/items/12425.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2790.gif",
   "basic_info": {
-    "level": 59,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 83,
     "magic_defense": 5,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 277,
     "base_stats": {
       "str": 58,
       "agi": 43,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "moc_pryd04",
+      "description": "- 金字塔 迷宮 4樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 731,

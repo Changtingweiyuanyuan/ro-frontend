@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1142.gif",
   "basic_info": {
-    "level": 51,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 41,
     "magic_defense": 28,
     "hit_100_percent": 268,
-    "flee_95_percent": 0,
+    "flee_95_percent": 251,
     "base_stats": {
       "str": 10,
       "agi": 16,
@@ -37,6 +37,18 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "iz_dun03",
+      "description": "- 依斯魯得海底洞穴 4層",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "iz_dun04",
+      "description": "- 依斯魯得海底洞穴 5層",
+      "spawn_info": "11x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 720,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1090.gif",
   "basic_info": {
-    "level": 42,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 48,
     "magic_defense": 31,
     "hit_100_percent": 275,
-    "flee_95_percent": 0,
+    "flee_95_percent": 261,
     "base_stats": {
       "str": 35,
       "agi": 21,
@@ -37,6 +37,38 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "1x / 60~90 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "1x / 32~35 分鐘"
+    },
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "yuno_fild04",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "1x / 60~90 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 512,

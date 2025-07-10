@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2767.gif",
   "basic_info": {
-    "level": 107,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 111,
     "magic_defense": 25,
     "hit_100_percent": 391,
-    "flee_95_percent": 0,
+    "flee_95_percent": 379,
     "base_stats": {
       "str": 112,
       "agi": 75,
@@ -37,6 +37,13 @@
       "luk": 49
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_dun02",
+      "description": "- 克雷斯特漢姆 最下層 地下洞窟 2層",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

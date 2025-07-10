@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2990.gif",
   "basic_info": {
-    "level": 140,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 44,
     "hit_100_percent": 436,
-    "flee_95_percent": 0,
+    "flee_95_percent": 468,
     "base_stats": {
       "str": 44,
       "agi": 88,
@@ -37,5 +37,12 @@
       "luk": 44
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@xm_d",
+      "description": "- 恐怖玩具工廠",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

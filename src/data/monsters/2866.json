@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2866.gif",
   "basic_info": {
-    "level": 108,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 92,
     "magic_defense": 82,
     "hit_100_percent": 441,
-    "flee_95_percent": 0,
+    "flee_95_percent": 398,
     "base_stats": {
       "str": 126,
       "agi": 127,
@@ -37,36 +37,43 @@
       "luk": 34
     }
   },
+  "spawns": [
+    {
+      "map_name": "kh_kiehl01",
+      "description": "- 基爾的房間",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+      "icon_url": "/images/items/999.gif"
     },
     {
       "item_id": 7325,
       "name": "軟管",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7325.gif"
+      "icon_url": "/images/items/7325.gif"
     },
     {
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 37.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7507.gif"
+      "icon_url": "/images/items/7507.gif"
     },
     {
       "item_id": 7512,
       "name": "燒焦的部品碎片",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7512.gif"
+      "icon_url": "/images/items/7512.gif"
     }
   ]
 }

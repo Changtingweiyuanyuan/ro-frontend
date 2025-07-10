@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2815.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 43,
     "hit_100_percent": 326,
-    "flee_95_percent": 0,
+    "flee_95_percent": 338,
     "base_stats": {
       "str": 61,
       "agi": 40,
@@ -37,6 +37,13 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "yuno_fild11",
+      "description": "- 朱諾 原野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2906.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 20,
     "hit_100_percent": 318,
-    "flee_95_percent": 0,
+    "flee_95_percent": 345,
     "base_stats": {
       "str": 40,
       "agi": 32,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "dew_fild01",
+      "description": "- 德瓦他曠野 賈提族部落",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 520,

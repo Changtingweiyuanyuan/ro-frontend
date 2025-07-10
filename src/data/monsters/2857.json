@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2857.gif",
   "basic_info": {
-    "level": 31,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 52,
     "magic_defense": 16,
     "hit_100_percent": 250,
-    "flee_95_percent": 0,
+    "flee_95_percent": 229,
     "base_stats": {
       "str": 15,
       "agi": 16,
@@ -37,6 +37,23 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def01",
+      "description": "- 波動模式迷宮 - 森林",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "anthell01",
+      "description": "- 螞蟻地獄密穴 1層",
+      "spawn_info": "3x / 5 分鐘"
+    },
+    {
+      "map_name": "cmd_fild08",
+      "description": "- 要塞都市 山特樂曼(東邊)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

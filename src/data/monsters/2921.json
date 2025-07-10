@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2921.gif",
   "basic_info": {
-    "level": 168,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 113,
     "magic_defense": 45,
     "hit_100_percent": 429,
-    "flee_95_percent": 0,
+    "flee_95_percent": 460,
     "base_stats": {
       "str": 87,
       "agi": 51,
@@ -37,54 +37,66 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "c_tower2_",
+      "description": "- 扭曲的時間的鐘塔 2層",
+      "spawn_info": "1x / 5 秒~30 分鐘"
+    },
+    {
+      "map_name": "c_tower3_",
+      "description": "- 扭曲的時間的鐘塔 3層",
+      "spawn_info": "3x / 5 秒~30 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 747,
       "name": "水晶鏡子",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/747.gif"
+      "icon_url": "/images/items/747.gif"
     },
     {
       "item_id": 4631,
       "name": "鶚裊子爵卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7063,
       "name": "柔軟的羽毛",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7063.gif"
+      "icon_url": "/images/items/7063.gif"
     },
     {
       "item_id": 7071,
       "name": "破爛爛的衣服",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7071.gif"
+      "icon_url": "/images/items/7071.gif"
     },
     {
       "item_id": 7513,
       "name": "懷錶",
       "rate": 0.02,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7513.gif"
+      "icon_url": "/images/items/7513.gif"
     },
     {
       "item_id": 15089,
       "name": "紳士西裝",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/15089.gif"
+      "icon_url": "/images/items/15089.gif"
     },
     {
       "item_id": 16024,
       "name": "祕錘冷月[2]",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/16024.gif"
+      "icon_url": "/images/items/16024.gif"
     },
     {
       "item_id": 18874,
       "name": "單眼眼鏡[1]",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/18874.gif"
+      "icon_url": "/images/items/18874.gif"
     }
   ]
 }

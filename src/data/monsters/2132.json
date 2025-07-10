@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2132.gif",
   "basic_info": {
-    "level": 145,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 240,
     "magic_defense": 115,
     "hit_100_percent": 450,
-    "flee_95_percent": 0,
+    "flee_95_percent": 558,
     "base_stats": {
       "str": 156,
       "agi": 85,
@@ -37,42 +37,59 @@
       "luk": 102
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mist",
+      "description": "- 霧林迷宮(迷霧森林)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "bif_fild01",
+      "description": "- 彩虹橋南部",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "bif_fild02",
+      "description": "- 彩虹橋北部",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1042,
       "name": "昆蟲後腳",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1042.gif"
+      "icon_url": "/images/items/1042.gif"
     },
     {
       "item_id": 1654,
       "name": "精神手杖[1]",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1654.gif"
+      "icon_url": "/images/items/1654.gif"
     },
     {
       "item_id": 4514,
       "name": "食人蜘蛛卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 11520,
       "name": "穆拉柑橘",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/11520.gif"
+      "icon_url": "/images/items/11520.gif"
     },
     {
       "item_id": 12573,
       "name": "水果禮盒",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12573.gif"
+      "icon_url": "/images/items/12573.gif"
     },
     {
       "item_id": 13431,
       "name": "鉻合金單手劍",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/13431.gif"
+      "icon_url": "/images/items/13431.gif"
     }
   ]
 }

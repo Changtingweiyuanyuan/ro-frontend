@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2865.gif",
   "basic_info": {
-    "level": 35,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 28,
     "hit_100_percent": 261,
-    "flee_95_percent": 0,
+    "flee_95_percent": 241,
     "base_stats": {
       "str": 15,
       "agi": 23,
@@ -37,54 +37,61 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 529,
       "name": "糖果",
       "rate": 8.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/529.gif"
+      "icon_url": "/images/items/529.gif"
     },
     {
       "item_id": 530,
       "name": "拐杖糖",
       "rate": 3.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/530.gif"
+      "icon_url": "/images/items/530.gif"
     },
     {
       "item_id": 538,
       "name": "姜餅",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/538.gif"
+      "icon_url": "/images/items/538.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 2402,
       "name": "輕便鞋[1]",
       "rate": 0.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2402.gif"
+      "icon_url": "/images/items/2402.gif"
     },
     {
       "item_id": 4293,
       "name": "甜餅人卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 11002,
       "name": "料理王奧爾里昂 第1本",
       "rate": 1.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/11002.gif"
+      "icon_url": "/images/items/11002.gif"
     },
     {
       "item_id": 12001,
       "name": "治愈術 等級3",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12001.gif"
+      "icon_url": "/images/items/12001.gif"
     }
   ]
 }

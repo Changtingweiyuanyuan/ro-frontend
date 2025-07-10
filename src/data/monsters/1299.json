@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1299.gif",
   "basic_info": {
-    "level": 55,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 72,
     "magic_defense": 30,
     "hit_100_percent": 326,
-    "flee_95_percent": 0,
+    "flee_95_percent": 305,
     "base_stats": {
       "str": 60,
       "agi": 67,
@@ -37,6 +37,18 @@
       "luk": 23
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild11",
+      "description": "- 吉芬 區域",
+      "spawn_info": "1x / 30~50 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

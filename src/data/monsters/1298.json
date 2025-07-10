@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1298.gif",
   "basic_info": {
-    "level": 119,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 46,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 391,
     "base_stats": {
       "str": 55,
       "agi": 60,
@@ -37,6 +37,23 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun04",
+      "description": "- 公會地下密穴 (吉芬)",
+      "spawn_info": "55x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 723,

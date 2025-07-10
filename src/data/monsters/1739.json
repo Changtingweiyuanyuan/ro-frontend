@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1739.gif",
   "basic_info": {
-    "level": 115,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 109,
     "magic_defense": 30,
     "hit_100_percent": 380,
-    "flee_95_percent": 0,
+    "flee_95_percent": 407,
     "base_stats": {
       "str": 121,
       "agi": 53,
@@ -37,6 +37,23 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@herbs",
+      "description": "- 祕密花園",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@herbs(hard)",
+      "description": "- 祕密花園 - 噩咪模式",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "kh_kiehl01",
+      "description": "- 基爾的房間",
+      "spawn_info": "5x / 3~5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 7507,

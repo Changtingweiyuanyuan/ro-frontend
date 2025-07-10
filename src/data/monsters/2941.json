@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2941.gif",
   "basic_info": {
-    "level": 142,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 89,
     "magic_defense": 44,
     "hit_100_percent": 434,
-    "flee_95_percent": 0,
+    "flee_95_percent": 427,
     "base_stats": {
       "str": 120,
       "agi": 87,
@@ -37,6 +37,23 @@
       "luk": 27
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tnm1",
+      "description": "- 魔神之塔上層",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tnm2",
+      "description": "- 魔神之塔最上層",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tnm3",
+      "description": "- 咪羅克城地下",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 27264,

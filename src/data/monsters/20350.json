@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20350.gif",
   "basic_info": {
-    "level": 112,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 76,
     "magic_defense": 15,
     "hit_100_percent": 406,
-    "flee_95_percent": 0,
+    "flee_95_percent": 450,
     "base_stats": {
       "str": 107,
       "agi": 82,
@@ -37,6 +37,13 @@
       "luk": 62
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@os_a",
+      "description": "- 占領歐斯大作戰",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

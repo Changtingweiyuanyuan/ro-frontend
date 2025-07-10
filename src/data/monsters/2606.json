@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2606.gif",
   "basic_info": {
-    "level": 17,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 3,
     "hit_100_percent": 227,
-    "flee_95_percent": 0,
+    "flee_95_percent": 202,
     "base_stats": {
       "str": 15,
       "agi": 10,
@@ -37,48 +37,55 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_dun00",
+      "description": "- 斐揚 (殭屍洞) 地下1層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 724,
       "name": "詛咒紅寶石",
       "rate": 0.3,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/724.gif"
+      "icon_url": "/images/items/724.gif"
     },
     {
       "item_id": 727,
       "name": "白寶石",
       "rate": 3.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/727.gif"
+      "icon_url": "/images/items/727.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 957,
       "name": "亡者指甲",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/957.gif"
+      "icon_url": "/images/items/957.gif"
     },
     {
       "item_id": 958,
       "name": "亡者牙齒",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/958.gif"
+      "icon_url": "/images/items/958.gif"
     },
     {
       "item_id": 4038,
       "name": "腐屍卡片",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

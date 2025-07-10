@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1117.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 45,
     "hit_100_percent": 313,
-    "flee_95_percent": 0,
+    "flee_95_percent": 336,
     "base_stats": {
       "str": 62,
       "agi": 32,
@@ -37,6 +37,38 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@cata",
+      "description": "- 封印的神殿 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_cas02",
+      "description": "- 克雷斯特漢姆古城 地上2層",
+      "spawn_info": "9x / 5 秒"
+    },
+    {
+      "map_name": "gl_church",
+      "description": "- 克雷斯特漢姆古城 修道院",
+      "spawn_info": "85x / 5 秒"
+    },
+    {
+      "map_name": "gl_chyard",
+      "description": "- 克雷斯特漢姆古城 地下公墓",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

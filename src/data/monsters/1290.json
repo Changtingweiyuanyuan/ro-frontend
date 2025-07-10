@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1290.gif",
   "basic_info": {
-    "level": 139,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 35,
     "hit_100_percent": 378,
-    "flee_95_percent": 0,
+    "flee_95_percent": 418,
     "base_stats": {
       "str": 72,
       "agi": 34,
@@ -37,6 +37,28 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld2_pay",
+      "description": "- 深淵迴廊 : 太古之風",
+      "spawn_info": "60x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun01_2",
+      "description": "- 斐揚-公會地下迷宮 2層",
+      "spawn_info": "50x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

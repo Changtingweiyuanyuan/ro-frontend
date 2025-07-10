@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1301.gif",
   "basic_info": {
-    "level": 141,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 42,
     "hit_100_percent": 394,
-    "flee_95_percent": 0,
+    "flee_95_percent": 406,
     "base_stats": {
       "str": 58,
       "agi": 44,
@@ -37,6 +37,23 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld2_pay",
+      "description": "- 深淵迴廊 : 太古之風",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun01_2",
+      "description": "- 斐揚-公會地下迷宮 2層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

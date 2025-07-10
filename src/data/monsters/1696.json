@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1696.gif",
   "basic_info": {
-    "level": 117,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 49,
     "hit_100_percent": 398,
-    "flee_95_percent": 0,
+    "flee_95_percent": 425,
     "base_stats": {
       "str": 130,
       "agi": 71,
@@ -37,6 +37,33 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "odin_tem01",
+      "description": "- 奧丁神殿 1層",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "tha_t03",
+      "description": "- 達納托斯之塔 下層 3樓 廢棄空間",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "tha_t05",
+      "description": "- 達納托斯之塔 上層 5樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "tha_t06",
+      "description": "- 達納托斯之塔 上層 6樓",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 644,

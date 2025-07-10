@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2648.gif",
   "basic_info": {
-    "level": 34,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 53,
     "magic_defense": 5,
     "hit_100_percent": 244,
-    "flee_95_percent": 0,
+    "flee_95_percent": 234,
     "base_stats": {
       "str": 14,
       "agi": 10,
@@ -37,6 +37,18 @@
       "luk": 3
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def01",
+      "description": "- 波動模式迷宮 - 森林",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pay_dun02",
+      "description": "- 斐揚 (殭屍洞) 地下3層",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

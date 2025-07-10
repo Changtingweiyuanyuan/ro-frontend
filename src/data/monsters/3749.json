@@ -2,11 +2,11 @@
   "id": 3749,
   "name": {
     "zh_tw": "精英 / 菁英草寇",
-    "en": "弯刀"
+    "en": "彎刀"
   },
   "image_url": "/images/monsters/3749.gif",
   "basic_info": {
-    "level": 152,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 150,
     "magic_defense": 83,
     "hit_100_percent": 406,
-    "flee_95_percent": 0,
+    "flee_95_percent": 514,
     "base_stats": {
       "str": 165,
       "agi": 44,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockmi1",
+      "description": "- 洛克里奇礦山",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 7054,

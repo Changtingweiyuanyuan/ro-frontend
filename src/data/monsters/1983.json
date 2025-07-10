@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1983.gif",
   "basic_info": {
-    "level": 87,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 23,
     "magic_defense": 30,
     "hit_100_percent": 324,
-    "flee_95_percent": 0,
+    "flee_95_percent": 347,
     "base_stats": {
       "str": 1,
       "agi": 31,
@@ -37,5 +37,12 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@orcs",
+      "description": "- 獸人地下洞穴 2樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

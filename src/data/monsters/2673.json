@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2673.gif",
   "basic_info": {
-    "level": 59,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 126,
     "magic_defense": 3,
     "hit_100_percent": 283,
-    "flee_95_percent": 0,
+    "flee_95_percent": 286,
     "base_stats": {
       "str": 56,
       "agi": 21,
@@ -37,54 +37,66 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def01",
+      "description": "- 波動模式迷宮 - 森林",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mjolnir_07",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 514,
       "name": "葡萄",
       "rate": 7.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/514.gif"
+      "icon_url": "/images/items/514.gif"
     },
     {
       "item_id": 526,
       "name": "蜂膠",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/526.gif"
+      "icon_url": "/images/items/526.gif"
     },
     {
       "item_id": 702,
       "name": "家畜血",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/702.gif"
+      "icon_url": "/images/items/702.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 1.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 1028,
       "name": "野豬毛",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1028.gif"
+      "icon_url": "/images/items/1028.gif"
     },
     {
       "item_id": 2276,
       "name": "大眼睛眼鏡",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2276.gif"
+      "icon_url": "/images/items/2276.gif"
     },
     {
       "item_id": 4078,
       "name": "野豬卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6249,
       "name": "野豬肉",
       "rate": 1.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6249.gif"
+      "icon_url": "/images/items/6249.gif"
     }
   ]
 }

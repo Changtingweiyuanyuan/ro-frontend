@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1867.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 73,
     "magic_defense": 96,
     "hit_100_percent": 415,
-    "flee_95_percent": 0,
+    "flee_95_percent": 461,
     "base_stats": {
       "str": 97,
       "agi": 71,
@@ -37,6 +37,38 @@
       "luk": 72
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@cata",
+      "description": "- 封印的神殿 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abbey01",
+      "description": "- 修道院 F1",
+      "spawn_info": "96x / 5 秒"
+    },
+    {
+      "map_name": "abbey03",
+      "description": "- 修道院 F3",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "nameless_n",
+      "description": "- 無名島",
+      "spawn_info": "16x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 934,

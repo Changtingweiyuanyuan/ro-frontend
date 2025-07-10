@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2918.gif",
   "basic_info": {
-    "level": 165,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 127,
     "magic_defense": 60,
     "hit_100_percent": 440,
-    "flee_95_percent": 0,
+    "flee_95_percent": 480,
     "base_stats": {
       "str": 112,
       "agi": 60,
@@ -37,54 +37,66 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "c_tower2_",
+      "description": "- 扭曲的時間的鐘塔 2層",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "c_tower3_",
+      "description": "- 扭曲的時間的鐘塔 3層",
+      "spawn_info": "2x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 520,
       "name": "西納雷葉子",
       "rate": 4.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/520.gif"
+      "icon_url": "/images/items/520.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+      "icon_url": "/images/items/999.gif"
     },
     {
       "item_id": 1095,
       "name": "指針",
       "rate": 30.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1095.gif"
+      "icon_url": "/images/items/1095.gif"
     },
     {
       "item_id": 2121,
       "name": "謊言紀錄本[1]",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2121.gif"
+      "icon_url": "/images/items/2121.gif"
     },
     {
       "item_id": 4630,
       "name": "時光守護者卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 30.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7054.gif"
+      "icon_url": "/images/items/7054.gif"
     },
     {
       "item_id": 22515,
       "name": "扭曲的時間鑰匙",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/22515.gif"
+      "icon_url": "/images/items/22515.gif"
     },
     {
       "item_id": 22515,
       "name": "扭曲的時間鑰匙",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/22515.gif"
+      "icon_url": "/images/items/22515.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20626.gif",
   "basic_info": {
-    "level": 143,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 272,
     "magic_defense": 81,
     "hit_100_percent": 449,
-    "flee_95_percent": 0,
+    "flee_95_percent": 465,
     "base_stats": {
       "str": 75,
       "agi": 93,
@@ -37,6 +37,13 @@
       "luk": 68
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@herbs",
+      "description": "- 祕密花園",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 7100,

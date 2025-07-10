@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2823.gif",
   "basic_info": {
-    "level": 61,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 5,
     "hit_100_percent": 275,
-    "flee_95_percent": 0,
+    "flee_95_percent": 264,
     "base_stats": {
       "str": 56,
       "agi": 12,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_dun01",
+      "description": "- 吉芬塔 地下密穴 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

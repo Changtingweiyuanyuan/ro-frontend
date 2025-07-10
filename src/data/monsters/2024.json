@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2024.gif",
   "basic_info": {
-    "level": 133,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 559,
     "magic_defense": 12,
     "hit_100_percent": 364,
-    "flee_95_percent": 0,
+    "flee_95_percent": 418,
     "base_stats": {
       "str": 189,
       "agi": 25,
@@ -37,6 +37,18 @@
       "luk": 33
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_fild02",
+      "description": "- 卡米達山麓",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "man_fild02",
+      "description": "- 馬努克曠野",
+      "spawn_info": "75x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 953,

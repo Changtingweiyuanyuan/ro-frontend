@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3029.gif",
   "basic_info": {
-    "level": 159,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 200,
     "magic_defense": 70,
     "hit_100_percent": 479,
-    "flee_95_percent": 0,
+    "flee_95_percent": 582,
     "base_stats": {
       "str": 200,
       "agi": 100,
@@ -37,6 +37,13 @@
       "luk": 100
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@dth3",
+      "description": "- 拜歐斯島 第三層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 522,

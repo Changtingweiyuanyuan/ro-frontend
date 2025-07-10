@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1735.gif",
   "basic_info": {
-    "level": 115,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 109,
     "magic_defense": 30,
     "hit_100_percent": 380,
-    "flee_95_percent": 0,
+    "flee_95_percent": 407,
     "base_stats": {
       "str": 121,
       "agi": 53,
@@ -37,6 +37,23 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "kh_dun01",
+      "description": "- 機械娃娃工廠 1層",
+      "spawn_info": "3x / 5 秒"
+    },
+    {
+      "map_name": "kh_dun02",
+      "description": "- 機械娃娃工廠 2層",
+      "spawn_info": "41x / 5 秒"
+    },
+    {
+      "map_name": "kh_kiehl01",
+      "description": "- 基爾的房間",
+      "spawn_info": "1x / 3~5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

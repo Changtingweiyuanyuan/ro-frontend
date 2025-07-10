@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2938.gif",
   "basic_info": {
-    "level": 140,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 200,
     "hit_100_percent": 367,
-    "flee_95_percent": 0,
+    "flee_95_percent": 390,
     "base_stats": {
       "str": 16,
       "agi": 26,
@@ -37,5 +37,12 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tnm2",
+      "description": "- 魔神之塔最上層",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1509.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 53,
     "hit_100_percent": 350,
-    "flee_95_percent": 0,
+    "flee_95_percent": 372,
     "base_stats": {
       "str": 97,
       "agi": 38,
@@ -37,6 +37,28 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "niflheim",
+      "description": "- 亡者國度 尼芙菲姆",
+      "spawn_info": "35x / 5 秒"
+    },
+    {
+      "map_name": "nif_fild02",
+      "description": "- 尼芙菲姆 鬼之峽谷",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

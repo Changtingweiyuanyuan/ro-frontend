@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20381.gif",
   "basic_info": {
-    "level": 174,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 855,
     "magic_defense": 124,
     "hit_100_percent": 637,
-    "flee_95_percent": 0,
+    "flee_95_percent": 630,
     "base_stats": {
       "str": 220,
       "agi": 244,
@@ -37,6 +37,13 @@
       "luk": 95
     }
   },
+  "spawns": [
+    {
+      "map_name": "sp_rudus2",
+      "description": "- 實驗體廢棄場 魯杜斯 2層",
+      "spawn_info": "1x / 360~370 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 7450,

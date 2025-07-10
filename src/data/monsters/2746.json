@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2746.gif",
   "basic_info": {
-    "level": 85,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 57,
     "magic_defense": 19,
     "hit_100_percent": 323,
-    "flee_95_percent": 0,
+    "flee_95_percent": 356,
     "base_stats": {
       "str": 66,
       "agi": 30,
@@ -37,6 +37,13 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "ama_dun01",
+      "description": "- 櫻花城迷宮1層 (榻榻米迷宮)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

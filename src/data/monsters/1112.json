@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1112.gif",
   "basic_info": {
-    "level": 91,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 279,
     "magic_defense": 135,
     "hit_100_percent": 408,
-    "flee_95_percent": 0,
+    "flee_95_percent": 446,
     "base_stats": {
       "str": 121,
       "agi": 103,
@@ -37,6 +37,18 @@
       "luk": 71
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "treasure02",
+      "description": "- 沉沒之船 2樓",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

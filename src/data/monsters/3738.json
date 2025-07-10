@@ -2,11 +2,11 @@
   "id": 3738,
   "name": {
     "zh_tw": "草寇",
-    "en": "弯刀"
+    "en": "彎刀"
   },
   "image_url": "/images/monsters/3738.gif",
   "basic_info": {
-    "level": 107,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 112,
     "magic_defense": 18,
     "hit_100_percent": 334,
-    "flee_95_percent": 0,
+    "flee_95_percent": 377,
     "base_stats": {
       "str": 55,
       "agi": 20,
@@ -37,6 +37,13 @@
       "luk": 36
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockrdg2",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 538,

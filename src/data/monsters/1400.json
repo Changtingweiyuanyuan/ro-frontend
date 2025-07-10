@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1400.gif",
   "basic_info": {
-    "level": 72,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 93,
     "magic_defense": 29,
     "hit_100_percent": 357,
-    "flee_95_percent": 0,
+    "flee_95_percent": 326,
     "base_stats": {
       "str": 66,
       "agi": 73,
@@ -37,6 +37,18 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ama_fild01",
+      "description": "- 櫻花城原野",
+      "spawn_info": "72x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 746,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2802.gif",
   "basic_info": {
-    "level": 63,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 91,
     "magic_defense": 24,
     "hit_100_percent": 291,
-    "flee_95_percent": 0,
+    "flee_95_percent": 278,
     "base_stats": {
       "str": 61,
       "agi": 20,
@@ -37,54 +37,61 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "moc_fild17",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 632,
       "name": "營養蚯蚓",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/632.gif"
+      "icon_url": "/images/items/632.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 2.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 3.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/993.gif"
+      "icon_url": "/images/items/993.gif"
     },
     {
       "item_id": 1055,
       "name": "蚯蚓皮",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1055.gif"
+      "icon_url": "/images/items/1055.gif"
     },
     {
       "item_id": 1147,
       "name": "湯恩劍[2]",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1147.gif"
+      "icon_url": "/images/items/1147.gif"
     },
     {
       "item_id": 4081,
       "name": "蚯蚓卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7021,
       "name": "盲人之證",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7021.gif"
+      "icon_url": "/images/items/7021.gif"
     }
   ]
 }

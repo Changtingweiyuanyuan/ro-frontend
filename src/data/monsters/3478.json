@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3478.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 129,
     "magic_defense": 58,
     "hit_100_percent": 453,
-    "flee_95_percent": 0,
+    "flee_95_percent": 549,
     "base_stats": {
       "str": 150,
       "agi": 88,
@@ -37,6 +37,13 @@
       "luk": 27
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@sthb",
+      "description": "- 空中要塞內部",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 6960,

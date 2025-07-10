@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2679.gif",
   "basic_info": {
-    "level": 13,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 12,
     "magic_defense": 5,
     "hit_100_percent": 221,
-    "flee_95_percent": 0,
+    "flee_95_percent": 200,
     "base_stats": {
       "str": 12,
       "agi": 7,
@@ -37,42 +37,49 @@
       "luk": 9
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild01",
+      "description": "- 吉芬 區域",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/511.gif"
+      "icon_url": "/images/items/511.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 721,
       "name": "綠寶石",
       "rate": 0.4,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/721.gif"
+      "icon_url": "/images/items/721.gif"
     },
     {
       "item_id": 908,
       "name": "青蛙蛋",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/908.gif"
+      "icon_url": "/images/items/908.gif"
     },
     {
       "item_id": 918,
       "name": "粘糊的蹼",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/918.gif"
+      "icon_url": "/images/items/918.gif"
     },
     {
       "item_id": 4014,
       "name": "羅達蛙卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

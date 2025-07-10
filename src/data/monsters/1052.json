@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1052.gif",
   "basic_info": {
-    "level": 15,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 16,
     "magic_defense": 3,
     "hit_100_percent": 234,
-    "flee_95_percent": 0,
+    "flee_95_percent": 203,
     "base_stats": {
       "str": 12,
       "agi": 18,
@@ -37,6 +37,23 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prt_fild07",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "203x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "5x / 2~3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

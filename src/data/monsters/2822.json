@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2822.gif",
   "basic_info": {
-    "level": 61,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 5,
     "hit_100_percent": 278,
-    "flee_95_percent": 0,
+    "flee_95_percent": 264,
     "base_stats": {
       "str": 56,
       "agi": 15,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "nameless_n",
+      "description": "- 無名島",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

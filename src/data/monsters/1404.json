@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1404.gif",
   "basic_info": {
-    "level": 85,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 57,
     "magic_defense": 19,
     "hit_100_percent": 323,
-    "flee_95_percent": 0,
+    "flee_95_percent": 356,
     "base_stats": {
       "str": 66,
       "agi": 30,
@@ -37,6 +37,38 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ama_dun01",
+      "description": "- 櫻花城迷宮1層 (榻榻米迷宮)",
+      "spawn_info": "91x / 5 秒"
+    },
+    {
+      "map_name": "ama_dun02",
+      "description": "- 櫻花城迷宮2層 (地下森林戰場)",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "ama_dun03",
+      "description": "- 櫻花城迷宮3層 (地下神社)",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "ama_fild01",
+      "description": "- 櫻花城原野",
+      "spawn_info": "2x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

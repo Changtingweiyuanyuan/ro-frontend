@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2480.gif",
   "basic_info": {
-    "level": 134,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 160,
     "magic_defense": 41,
     "hit_100_percent": 399,
-    "flee_95_percent": 0,
+    "flee_95_percent": 471,
     "base_stats": {
       "str": 137,
       "agi": 60,
@@ -37,6 +37,18 @@
       "luk": 28
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_cas02_",
+      "description": "- 克雷斯特漢姆古城 地上樓層 2樓 (噩咪模式)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_chyard_",
+      "description": "- 克雷斯特漢姆古城 地下公墓 (噩咪模式)",
+      "spawn_info": "22x / 1 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

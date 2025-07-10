@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2862.gif",
   "basic_info": {
-    "level": 82,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 83,
     "magic_defense": 36,
     "hit_100_percent": 364,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 59,
       "agi": 76,
@@ -37,42 +37,49 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "lou_dun03",
+      "description": "- 洛陽 古都王陵 3層 (審良宮)",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1036,
       "name": "龍鱗",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1036.gif"
+      "icon_url": "/images/items/1036.gif"
     },
     {
       "item_id": 4272,
       "name": "舞獅卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7038,
       "name": "毛線",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7038.gif"
+      "icon_url": "/images/items/7038.gif"
     },
     {
       "item_id": 7265,
       "name": "舞獅之角",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7265.gif"
+      "icon_url": "/images/items/7265.gif"
     },
     {
       "item_id": 7266,
       "name": "舞獅的假牙",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7266.gif"
+      "icon_url": "/images/items/7266.gif"
     },
     {
       "item_id": 7268,
       "name": "小鬼靈",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7268.gif"
+      "icon_url": "/images/items/7268.gif"
     }
   ]
 }

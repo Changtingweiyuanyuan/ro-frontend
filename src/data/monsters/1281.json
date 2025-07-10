@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1281.gif",
   "basic_info": {
-    "level": 70,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 109,
     "magic_defense": 45,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 298,
     "base_stats": {
       "str": 39,
       "agi": 29,
@@ -37,6 +37,18 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_cas01",
+      "description": "- 克雷斯特漢姆古城 地上1層",
+      "spawn_info": "17x / 5 秒"
+    },
+    {
+      "map_name": "gl_in01",
+      "description": "- 克雷斯特漢姆古城 室內",
+      "spawn_info": "17x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 689,

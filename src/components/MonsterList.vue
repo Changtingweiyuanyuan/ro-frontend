@@ -26,8 +26,8 @@ defineProps({
 .monster-grid {
   display: grid;
   /* 自動填充，每張卡片最小 320px，最大 1fr (佔滿剩餘空間) */
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 40px;
 }
 
 .no-results {

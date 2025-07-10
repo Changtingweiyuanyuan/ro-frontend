@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1169.gif",
   "basic_info": {
-    "level": 44,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 45,
     "magic_defense": 5,
     "hit_100_percent": 262,
-    "flee_95_percent": 0,
+    "flee_95_percent": 259,
     "base_stats": {
       "str": 30,
       "agi": 13,
@@ -37,6 +37,23 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mjo_dun02",
+      "description": "- 妙勒尼 廢棄礦場 2層",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "mjo_dun03",
+      "description": "- 妙勒尼 廢棄礦場 3層",
+      "spawn_info": "78x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2136.gif",
   "basic_info": {
-    "level": 142,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 51,
     "magic_defense": 198,
     "hit_100_percent": 427,
-    "flee_95_percent": 0,
+    "flee_95_percent": 566,
     "base_stats": {
       "str": 10,
       "agi": 66,
@@ -37,30 +37,47 @@
       "luk": 97
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@mist",
+      "description": "- 霧林迷宮(迷霧森林)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "bif_fild01",
+      "description": "- 彩虹橋南部",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "bif_fild02",
+      "description": "- 彩虹橋北部",
+      "spawn_info": "55x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 2465,
       "name": "舞鞋[1]",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2465.gif"
+      "icon_url": "/images/items/2465.gif"
     },
     {
       "item_id": 4511,
       "name": "玩偶魔妖卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6395,
       "name": "精靈魔法粉末",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6395.gif"
+      "icon_url": "/images/items/6395.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7938.gif"
+      "icon_url": "/images/items/7938.gif"
     }
   ]
 }

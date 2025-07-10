@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1004.gif",
   "basic_info": {
-    "level": 11,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 7,
     "magic_defense": 1,
     "hit_100_percent": 236,
-    "flee_95_percent": 0,
+    "flee_95_percent": 188,
     "base_stats": {
       "str": 12,
       "agi": 24,
@@ -37,6 +37,23 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mjolnir_09",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild05",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "199x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

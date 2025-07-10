@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1317.gif",
   "basic_info": {
-    "level": 47,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 42,
     "magic_defense": 16,
     "hit_100_percent": 290,
-    "flee_95_percent": 0,
+    "flee_95_percent": 258,
     "base_stats": {
       "str": 37,
       "agi": 40,
@@ -37,6 +37,13 @@
       "luk": 19
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild02",
+      "description": "- 克克魔 海邊",
+      "spawn_info": "162x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 525,

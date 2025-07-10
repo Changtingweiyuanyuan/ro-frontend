@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2153.gif",
   "basic_info": {
-    "level": 84,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 72,
     "magic_defense": 33,
     "hit_100_percent": 370,
-    "flee_95_percent": 0,
+    "flee_95_percent": 361,
     "base_stats": {
       "str": 58,
       "agi": 77,
@@ -37,30 +37,37 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "dew_fild01",
+      "description": "- 德瓦他曠野 賈提族部落",
+      "spawn_info": "16x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 916,
       "name": "羽毛",
       "rate": 45.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/916.gif"
+      "icon_url": "/images/items/916.gif"
     },
     {
       "item_id": 4517,
       "name": "天堂鳥卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6405,
       "name": "天堂鳥羽毛",
       "rate": 45.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6405.gif"
+      "icon_url": "/images/items/6405.gif"
     },
     {
       "item_id": 7063,
       "name": "柔軟的羽毛",
       "rate": 40.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7063.gif"
+      "icon_url": "/images/items/7063.gif"
     }
   ]
 }

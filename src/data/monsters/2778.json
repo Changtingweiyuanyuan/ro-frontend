@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2778.gif",
   "basic_info": {
-    "level": 80,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 110,
     "magic_defense": 37,
     "hit_100_percent": 306,
-    "flee_95_percent": 0,
+    "flee_95_percent": 330,
     "base_stats": {
       "str": 61,
       "agi": 22,
@@ -37,36 +37,43 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "lou_dun01",
+      "description": "- 洛陽 古都王陵 1層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1523,
       "name": "暗盲之錘",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1523.gif"
+      "icon_url": "/images/items/1523.gif"
     },
     {
       "item_id": 4265,
       "name": "豹皮怪卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7267,
       "name": "豹紋內褲",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7267.gif"
+      "icon_url": "/images/items/7267.gif"
     },
     {
       "item_id": 7268,
       "name": "小鬼靈",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7268.gif"
+      "icon_url": "/images/items/7268.gif"
     },
     {
       "item_id": 16040,
       "name": "緋紅色鐵鎚[2]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/16040.gif"
+      "icon_url": "/images/items/16040.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2364.gif",
   "basic_info": {
-    "level": 141,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 73,
     "magic_defense": 33,
     "hit_100_percent": 428,
-    "flee_95_percent": 0,
+    "flee_95_percent": 427,
     "base_stats": {
       "str": 70,
       "agi": 82,
@@ -37,6 +37,13 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "ecl_fild01",
+      "description": "- 花開伊始的大地 (艾卡拉奇平原)",
+      "spawn_info": "73x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1026,

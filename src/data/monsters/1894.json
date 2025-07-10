@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1894.gif",
   "basic_info": {
-    "level": 15,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 0,
     "magic_defense": 7,
     "hit_100_percent": 223,
-    "flee_95_percent": 0,
+    "flee_95_percent": 204,
     "base_stats": {
       "str": 7,
       "agi": 7,
@@ -37,6 +37,13 @@
       "luk": 7
     }
   },
+  "spawns": [
+    {
+      "map_name": "mal_dun01",
+      "description": "- 星光珊瑚地帶 (綿綿島洞穴)",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 6451,

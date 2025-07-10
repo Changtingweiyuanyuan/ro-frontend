@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1300.gif",
   "basic_info": {
-    "level": 121,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 42,
     "hit_100_percent": 367,
-    "flee_95_percent": 0,
+    "flee_95_percent": 360,
     "base_stats": {
       "str": 58,
       "agi": 37,
@@ -37,6 +37,18 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun03",
+      "description": "- 公會地下密穴 (普隆德拉)",
+      "spawn_info": "35x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

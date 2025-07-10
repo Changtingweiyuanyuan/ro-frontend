@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2827.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 43,
     "hit_100_percent": 393,
-    "flee_95_percent": 0,
+    "flee_95_percent": 413,
     "base_stats": {
       "str": 100,
       "agi": 79,
@@ -37,6 +37,13 @@
       "luk": 70
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_sew02",
+      "description": "- 克雷斯特漢姆 地下水道 2樓",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

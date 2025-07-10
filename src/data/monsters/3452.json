@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3452.gif",
   "basic_info": {
-    "level": 145,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 200,
     "magic_defense": 35,
     "hit_100_percent": 424,
-    "flee_95_percent": 0,
+    "flee_95_percent": 441,
     "base_stats": {
       "str": 138,
       "agi": 75,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "prt_q",
+      "description": "- 被侵略的普隆德拉",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 723,

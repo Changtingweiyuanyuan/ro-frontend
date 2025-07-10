@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2474.gif",
   "basic_info": {
-    "level": 145,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 180,
     "hit_100_percent": 444,
-    "flee_95_percent": 0,
+    "flee_95_percent": 488,
     "base_stats": {
       "str": 155,
       "agi": 88,
@@ -37,6 +37,13 @@
       "luk": 59
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@gl_k",
+      "description": "- 過去的古城騎士團 二樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1145,

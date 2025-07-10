@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1189.gif",
   "basic_info": {
-    "level": 78,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 67,
     "magic_defense": 31,
     "hit_100_percent": 313,
-    "flee_95_percent": 0,
+    "flee_95_percent": 372,
     "base_stats": {
       "str": 55,
       "agi": 32,
@@ -37,6 +37,28 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@orcs",
+      "description": "- 獸人地下洞穴 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "alde_dun02",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 2樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "orcsdun02",
+      "description": "- 獸人地下洞窟 2層",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

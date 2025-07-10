@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2776.gif",
   "basic_info": {
-    "level": 1,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 2,
     "magic_defense": 5,
     "hit_100_percent": 203,
-    "flee_95_percent": 0,
+    "flee_95_percent": 178,
     "base_stats": {
       "str": 6,
       "agi": 1,
@@ -37,54 +37,61 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "new_1-3",
+      "description": "- 初學者 修練場",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/507.gif"
+      "icon_url": "/images/items/507.gif"
     },
     {
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/507.gif"
+      "icon_url": "/images/items/507.gif"
     },
     {
       "item_id": 512,
       "name": "蘋果",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/512.gif"
+      "icon_url": "/images/items/512.gif"
     },
     {
       "item_id": 512,
       "name": "蘋果",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/512.gif"
+      "icon_url": "/images/items/512.gif"
     },
     {
       "item_id": 909,
       "name": "傑勒比結晶",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/909.gif"
+      "icon_url": "/images/items/909.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 1202,
       "name": "短劍[4]",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1202.gif"
+      "icon_url": "/images/items/1202.gif"
     },
     {
       "item_id": 4545,
       "name": "寶貝波利卡片",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

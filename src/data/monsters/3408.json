@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3408.gif",
   "basic_info": {
-    "level": 106,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 170,
     "magic_defense": 12,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 435,
     "base_stats": {
       "str": 132,
       "agi": 73,
@@ -37,54 +37,61 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@infi",
+      "description": "- 無限空間",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 707,
       "name": "哀唱草",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/707.gif"
+      "icon_url": "/images/items/707.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 2.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/911.gif"
+      "icon_url": "/images/items/911.gif"
     },
     {
       "item_id": 935,
       "name": "堅硬外殼",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/935.gif"
+      "icon_url": "/images/items/935.gif"
     },
     {
       "item_id": 940,
       "name": "蝗蟲後腿",
       "rate": 32.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/940.gif"
+      "icon_url": "/images/items/940.gif"
     },
     {
       "item_id": 990,
       "name": "火靈礦石",
       "rate": 0.3,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/990.gif"
+      "icon_url": "/images/items/990.gif"
     },
     {
       "item_id": 1914,
       "name": "熱情的吉他",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1914.gif"
+      "icon_url": "/images/items/1914.gif"
     },
     {
       "item_id": 4057,
       "name": "重金屬蝗蟲卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

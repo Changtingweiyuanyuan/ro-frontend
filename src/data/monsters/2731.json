@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2731.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "龍",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 48,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 383,
     "base_stats": {
       "str": 74,
       "agi": 56,
@@ -37,30 +37,37 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "hu_fild01",
+      "description": "- 達納托斯之塔",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/511.gif"
+      "icon_url": "/images/items/511.gif"
     },
     {
       "item_id": 1036,
       "name": "龍鱗",
       "rate": 14.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1036.gif"
+      "icon_url": "/images/items/1036.gif"
     },
     {
       "item_id": 4383,
       "name": "諾博斯卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7053,
       "name": "賽依伐",
       "rate": 25.9,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7053.gif"
+      "icon_url": "/images/items/7053.gif"
     }
   ]
 }

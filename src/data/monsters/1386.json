@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1386.gif",
   "basic_info": {
-    "level": 81,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 29,
     "hit_100_percent": 327,
-    "flee_95_percent": 0,
+    "flee_95_percent": 325,
     "base_stats": {
       "str": 74,
       "agi": 41,
@@ -37,6 +37,33 @@
       "luk": 27
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "yuno_fild02",
+      "description": "- 啟-海伊洛 別墅",
+      "spawn_info": "185x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "46x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild06",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "117x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild09",
+      "description": "- 秀發茲發德 警備隊 露營地",
+      "spawn_info": "42x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

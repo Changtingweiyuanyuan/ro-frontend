@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2753.gif",
   "basic_info": {
-    "level": 56,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 15,
     "hit_100_percent": 376,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 49,
       "agi": 120,
@@ -37,6 +37,13 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "moc_pryd06",
+      "description": "- 金字塔 迷宮 地下3樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2759.gif",
   "basic_info": {
-    "level": 102,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 87,
     "magic_defense": 66,
     "hit_100_percent": 373,
-    "flee_95_percent": 0,
+    "flee_95_percent": 360,
     "base_stats": {
       "str": 99,
       "agi": 68,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "beach_dun",
+      "description": "- 西邊 洞穴 加露",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 702,

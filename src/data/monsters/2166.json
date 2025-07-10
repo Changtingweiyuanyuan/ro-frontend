@@ -2,11 +2,11 @@
   "id": 2166,
   "name": {
     "zh_tw": "獨角甲蟲卵",
-    "en": "噩梦"
+    "en": "噩咪"
   },
   "image_url": "/images/monsters/2166.gif",
   "basic_info": {
-    "level": 125,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 280,
     "magic_defense": 55,
     "hit_100_percent": 342,
-    "flee_95_percent": 0,
+    "flee_95_percent": 322,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,6 +37,13 @@
       "luk": 80
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_dun03",
+      "description": "- 甲蟲洞-噩咪(斯卡勒伯熔岩)",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

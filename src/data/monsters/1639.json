@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1639.gif",
   "basic_info": {
-    "level": 141,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 77,
     "magic_defense": 333,
     "hit_100_percent": 428,
-    "flee_95_percent": 0,
+    "flee_95_percent": 536,
     "base_stats": {
       "str": 108,
       "agi": 78,
@@ -37,6 +37,18 @@
       "luk": 49
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "lhz_dun03",
+      "description": "- 生體試驗 研究所 地下3樓",
+      "spawn_info": "57x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1646,

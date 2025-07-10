@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1286.gif",
   "basic_info": {
-    "level": 86,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 30,
     "hit_100_percent": 339,
-    "flee_95_percent": 0,
+    "flee_95_percent": 427,
     "base_stats": {
       "str": 110,
       "agi": 40,
@@ -37,5 +37,107 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "aldeg_cas01",
+      "description": "- 露依納 公會 01 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas02",
+      "description": "- 露依納 公會 02 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas03",
+      "description": "- 露依納 公會 03 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas04",
+      "description": "- 露依納 公會 04 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "aldeg_cas05",
+      "description": "- 露依納 公會 05 (艾爾帕蘭)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas01",
+      "description": "- 布哩妥利亞 公會 01 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas02",
+      "description": "- 布哩妥利亞 公會 02 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas03",
+      "description": "- 布哩妥利亞 公會 03 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas04",
+      "description": "- 布哩妥利亞 公會 04 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefg_cas05",
+      "description": "- 布哩妥利亞 公會 05 (吉芬)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "payg_cas01",
+      "description": "- 青林湖泊 公會 01 (斐揚)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "payg_cas02",
+      "description": "- 青林湖泊 公會 02 (斐揚)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "payg_cas03",
+      "description": "- 青林湖泊 公會 03 (斐揚)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "payg_cas04",
+      "description": "- 青林湖泊 公會 04 (斐揚)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "payg_cas05",
+      "description": "- 青林湖泊 公會 05 (斐揚)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas01",
+      "description": "- 巴基力雷恩 公會 01 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas02",
+      "description": "- 巴基力雷恩 公會 02 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas03",
+      "description": "- 巴基力雷恩 公會 03 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas04",
+      "description": "- 巴基力雷恩 公會 04 (普隆德拉)",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prtg_cas05",
+      "description": "- 巴基力雷恩 公會 05 (普隆德拉)",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

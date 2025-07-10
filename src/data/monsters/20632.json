@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20632.gif",
   "basic_info": {
-    "level": 185,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 620,
     "magic_defense": 111,
     "hit_100_percent": 576,
-    "flee_95_percent": 0,
+    "flee_95_percent": 540,
     "base_stats": {
       "str": 160,
       "agi": 171,
@@ -37,6 +37,13 @@
       "luk": 100
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ghg(hard)",
+      "description": "- 水上花園 - 噩咪模式",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 998,

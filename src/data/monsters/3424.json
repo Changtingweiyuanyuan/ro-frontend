@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3424.gif",
   "basic_info": {
-    "level": 105,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 50,
     "magic_defense": 20,
     "hit_100_percent": 344,
-    "flee_95_percent": 0,
+    "flee_95_percent": 320,
     "base_stats": {
       "str": 20,
       "agi": 28,
@@ -37,54 +37,61 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@infi",
+      "description": "- 無限空間",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 622,
       "name": "彩色紅蘿蔔",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/622.gif"
+      "icon_url": "/images/items/622.gif"
     },
     {
       "item_id": 706,
       "name": "四葉幸運草",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/706.gif"
+      "icon_url": "/images/items/706.gif"
     },
     {
       "item_id": 727,
       "name": "白寶石",
       "rate": 6.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/727.gif"
+      "icon_url": "/images/items/727.gif"
     },
     {
       "item_id": 2250,
       "name": "粉紗發圈",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2250.gif"
+      "icon_url": "/images/items/2250.gif"
     },
     {
       "item_id": 2355,
       "name": "天使的加護[1]",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2355.gif"
+      "icon_url": "/images/items/2355.gif"
     },
     {
       "item_id": 4645,
       "name": "無限藍瘋兔卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6905,
       "name": "破碎的魔法石",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6905.gif"
+      "icon_url": "/images/items/6905.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7938.gif"
+      "icon_url": "/images/items/7938.gif"
     }
   ]
 }

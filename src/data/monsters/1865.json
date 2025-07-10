@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1865.gif",
   "basic_info": {
-    "level": 123,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 35,
     "hit_100_percent": 377,
-    "flee_95_percent": 0,
+    "flee_95_percent": 478,
     "base_stats": {
       "str": 81,
       "agi": 50,
@@ -37,6 +37,28 @@
       "luk": 23
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abbey01",
+      "description": "- 修道院 F1",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "abbey02",
+      "description": "- 修道院 F2",
+      "spawn_info": "70x / 5 秒"
+    },
+    {
+      "map_name": "nameless_n",
+      "description": "- 無名島",
+      "spawn_info": "12x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 932,

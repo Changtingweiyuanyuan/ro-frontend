@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2659.gif",
   "basic_info": {
-    "level": 139,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 35,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 418,
     "base_stats": {
       "str": 72,
       "agi": 44,
@@ -37,54 +37,61 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld_dun01_2",
+      "description": "- 斐揚-公會地下迷宮 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 4.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+      "icon_url": "/images/items/756.gif"
     },
     {
       "item_id": 2274,
       "name": "亡者發箍",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2274.gif"
+      "icon_url": "/images/items/2274.gif"
     },
     {
       "item_id": 4221,
       "name": "邪骸戰士長卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7068,
       "name": "燃燒一半的木材",
       "rate": 63.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7068.gif"
+      "icon_url": "/images/items/7068.gif"
     },
     {
       "item_id": 12679,
       "name": "城戰白色藥水箱",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12679.gif"
+      "icon_url": "/images/items/12679.gif"
     },
     {
       "item_id": 13035,
       "name": "沙漠之風[4]",
       "rate": 0.4,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/13035.gif"
+      "icon_url": "/images/items/13035.gif"
     },
     {
       "item_id": 21001,
       "name": "戰神十字巨劍",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/21001.gif"
+      "icon_url": "/images/items/21001.gif"
     },
     {
       "item_id": 28705,
       "name": "緋紅色大駒短劍[2]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/28705.gif"
+      "icon_url": "/images/items/28705.gif"
     }
   ]
 }

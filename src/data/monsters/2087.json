@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2087.gif",
   "basic_info": {
-    "level": 140,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 350,
     "magic_defense": 220,
     "hit_100_percent": 456,
-    "flee_95_percent": 0,
+    "flee_95_percent": 675,
     "base_stats": {
       "str": 100,
       "agi": 88,
@@ -37,42 +37,49 @@
       "luk": 144
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_dun02",
+      "description": "- 甲蟲洞 二樓(斯卡勒伯熔岩)",
+      "spawn_info": "1x / 120 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1191,
       "name": "海鷹召喚者",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1191.gif"
+      "icon_url": "/images/items/1191.gif"
     },
     {
       "item_id": 1196,
       "name": "鉻合金雙手巨劍",
       "rate": 2.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1196.gif"
+      "icon_url": "/images/items/1196.gif"
     },
     {
       "item_id": 2364,
       "name": "隕石盔甲[1]",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2364.gif"
+      "icon_url": "/images/items/2364.gif"
     },
     {
       "item_id": 4507,
       "name": "女王甲蟲卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6326,
       "name": "女王的翅膀碎片",
       "rate": 35.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6326.gif"
+      "icon_url": "/images/items/6326.gif"
     },
     {
       "item_id": 18103,
       "name": "神祕之弓",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/18103.gif"
+      "icon_url": "/images/items/18103.gif"
     }
   ]
 }

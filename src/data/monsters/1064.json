@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1064.gif",
   "basic_info": {
-    "level": 46,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 52,
     "magic_defense": 28,
     "hit_100_percent": 273,
-    "flee_95_percent": 0,
+    "flee_95_percent": 250,
     "base_stats": {
       "str": 35,
       "agi": 24,
@@ -37,6 +37,18 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "beach_dun3",
+      "description": "- 東邊 洞穴 馬吾",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

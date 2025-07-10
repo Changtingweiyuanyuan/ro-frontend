@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2803.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 37,
     "hit_100_percent": 375,
-    "flee_95_percent": 0,
+    "flee_95_percent": 375,
     "base_stats": {
       "str": 105,
       "agi": 69,
@@ -37,42 +37,49 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "ra_fild04",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/510.gif"
+      "icon_url": "/images/items/510.gif"
     },
     {
       "item_id": 528,
       "name": "魔物飼料",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/528.gif"
+      "icon_url": "/images/items/528.gif"
     },
     {
       "item_id": 4345,
       "name": "希爾士兵卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7115,
       "name": "哈比的羽毛",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7115.gif"
+      "icon_url": "/images/items/7115.gif"
     },
     {
       "item_id": 7116,
       "name": "哈比的指甲",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7116.gif"
+      "icon_url": "/images/items/7116.gif"
     },
     {
       "item_id": 15025,
       "name": "黃金領主外袍",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/15025.gif"
+      "icon_url": "/images/items/15025.gif"
     }
   ]
 }

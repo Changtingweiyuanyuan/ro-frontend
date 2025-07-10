@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1311.gif",
   "basic_info": {
-    "level": 120,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 108,
     "magic_defense": 43,
     "hit_100_percent": 377,
-    "flee_95_percent": 0,
+    "flee_95_percent": 371,
     "base_stats": {
       "str": 88,
       "agi": 54,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld_dun01",
+      "description": "- 公會地下密穴 (斐揚)",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 514,

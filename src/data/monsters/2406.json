@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2406.gif",
   "basic_info": {
-    "level": 23,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 28,
     "magic_defense": 5,
     "hit_100_percent": 233,
-    "flee_95_percent": 0,
+    "flee_95_percent": 237,
     "base_stats": {
       "str": 18,
       "agi": 9,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "treasure_n2",
+      "description": "- 依斯魯得島 遇難船 2樓",
+      "spawn_info": "16x / 50 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

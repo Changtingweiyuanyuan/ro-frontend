@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2634.gif",
   "basic_info": {
-    "level": 21,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 24,
     "magic_defense": 3,
     "hit_100_percent": 231,
-    "flee_95_percent": 0,
+    "flee_95_percent": 204,
     "base_stats": {
       "str": 19,
       "agi": 9,
@@ -37,54 +37,61 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "prt_sewb2",
+      "description": "- 普隆德拉 地下水道 2樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 8.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/507.gif"
+      "icon_url": "/images/items/507.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 909,
       "name": "傑勒比結晶",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/909.gif"
+      "icon_url": "/images/items/909.gif"
     },
     {
       "item_id": 955,
       "name": "昆蟲外殼",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/955.gif"
+      "icon_url": "/images/items/955.gif"
     },
     {
       "item_id": 1002,
       "name": "鐵礦石",
       "rate": 6.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1002.gif"
+      "icon_url": "/images/items/1002.gif"
     },
     {
       "item_id": 2303,
       "name": "皮製外套",
       "rate": 3.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2303.gif"
+      "icon_url": "/images/items/2303.gif"
     },
     {
       "item_id": 2304,
       "name": "皮製外套[1]",
       "rate": 2.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2304.gif"
+      "icon_url": "/images/items/2304.gif"
     },
     {
       "item_id": 4016,
       "name": "盜蟲卡片",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

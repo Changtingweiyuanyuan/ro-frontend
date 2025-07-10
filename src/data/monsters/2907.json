@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2907.gif",
   "basic_info": {
-    "level": 57,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 62,
     "magic_defense": 30,
     "hit_100_percent": 310,
-    "flee_95_percent": 0,
+    "flee_95_percent": 275,
     "base_stats": {
       "str": 47,
       "agi": 48,
@@ -37,6 +37,13 @@
       "luk": 26
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild03",
+      "description": "- 基乃依 沼澤地",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 608,

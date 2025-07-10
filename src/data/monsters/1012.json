@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1012.gif",
   "basic_info": {
-    "level": 13,
+    "level": 0,
     "race": "魚貝",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 12,
     "magic_defense": 5,
     "hit_100_percent": 220,
-    "flee_95_percent": 0,
+    "flee_95_percent": 200,
     "base_stats": {
       "str": 12,
       "agi": 6,
@@ -37,6 +37,33 @@
       "luk": 9
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild01",
+      "description": "- 吉芬 區域",
+      "spawn_info": "112x / 5 秒"
+    },
+    {
+      "map_name": "gef_fild09",
+      "description": "- 吉芬 區域",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild00",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "169x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild04",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "27x / 5 秒"
+    },
+    {
+      "map_name": "treasure_n1",
+      "description": "- 依斯魯得島 遇難船 1樓",
+      "spawn_info": "6x / 20 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

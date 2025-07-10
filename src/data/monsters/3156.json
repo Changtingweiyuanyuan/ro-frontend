@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3156.gif",
   "basic_info": {
-    "level": 168,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 105,
     "magic_defense": 41,
     "hit_100_percent": 443,
-    "flee_95_percent": 0,
+    "flee_95_percent": 464,
     "base_stats": {
       "str": 100,
       "agi": 63,
@@ -37,6 +37,13 @@
       "luk": 61
     }
   },
+  "spawns": [
+    {
+      "map_name": "verus03",
+      "description": "- 貝魯茲 中央廣場",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1305.gif",
   "basic_info": {
-    "level": 121,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 41,
     "hit_100_percent": 385,
-    "flee_95_percent": 0,
+    "flee_95_percent": 389,
     "base_stats": {
       "str": 70,
       "agi": 56,
@@ -37,6 +37,23 @@
       "luk": 42
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun02",
+      "description": "- 公會地下密穴 (艾爾帕蘭)",
+      "spawn_info": "25x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 912,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1258.gif",
   "basic_info": {
-    "level": 55,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 69,
     "magic_defense": 0,
     "hit_100_percent": 293,
-    "flee_95_percent": 0,
+    "flee_95_percent": 284,
     "base_stats": {
       "str": 40,
       "agi": 34,
@@ -37,6 +37,18 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prt_fild11",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "50x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

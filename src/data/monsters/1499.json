@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1499.gif",
   "basic_info": {
-    "level": 67,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 103,
     "magic_defense": 8,
     "hit_100_percent": 284,
-    "flee_95_percent": 0,
+    "flee_95_percent": 304,
     "base_stats": {
       "str": 63,
       "agi": 14,
@@ -37,6 +37,28 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "um_fild01",
+      "description": "- 嚕嚕卡森林",
+      "spawn_info": "16x / 5 秒"
+    },
+    {
+      "map_name": "um_fild02",
+      "description": "- 滬家森林",
+      "spawn_info": "68x / 5 秒"
+    },
+    {
+      "map_name": "um_fild03",
+      "description": "- 卡拉拉森林",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "um_fild04",
+      "description": "- 滬家叢林",
+      "spawn_info": "6x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1768.gif",
   "basic_info": {
-    "level": 139,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 479,
     "magic_defense": 262,
     "hit_100_percent": 594,
-    "flee_95_percent": 0,
+    "flee_95_percent": 725,
     "base_stats": {
       "str": 191,
       "agi": 223,
@@ -37,6 +37,13 @@
       "luk": 163
     }
   },
+  "spawns": [
+    {
+      "map_name": "ra_san05",
+      "description": "- 拉赫 神殿聖域 5樓",
+      "spawn_info": "1x / 300~310 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

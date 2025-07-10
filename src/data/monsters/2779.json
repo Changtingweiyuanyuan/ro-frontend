@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2779.gif",
   "basic_info": {
-    "level": 82,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 123,
     "magic_defense": 30,
     "hit_100_percent": 308,
-    "flee_95_percent": 0,
+    "flee_95_percent": 324,
     "base_stats": {
       "str": 63,
       "agi": 20,
@@ -37,54 +37,61 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "mosk_dun02",
+      "description": "- 莫斯科比亞 森林深處",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 1.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/510.gif"
+      "icon_url": "/images/items/510.gif"
     },
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/511.gif"
+      "icon_url": "/images/items/511.gif"
     },
     {
       "item_id": 521,
       "name": "蘆薈葉子",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/521.gif"
+      "icon_url": "/images/items/521.gif"
     },
     {
       "item_id": 711,
       "name": "芽苗",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/711.gif"
+      "icon_url": "/images/items/711.gif"
     },
     {
       "item_id": 905,
       "name": "植物梗",
       "rate": 62.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/905.gif"
+      "icon_url": "/images/items/905.gif"
     },
     {
       "item_id": 2270,
       "name": "草葉",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2270.gif"
+      "icon_url": "/images/items/2270.gif"
     },
     {
       "item_id": 7100,
       "name": "尖銳的葉子",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7100.gif"
+      "icon_url": "/images/items/7100.gif"
     },
     {
       "item_id": 27158,
       "name": "雷斯卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/27158.gif"
+      "icon_url": "/images/items/27158.gif"
     }
   ]
 }

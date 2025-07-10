@@ -2,11 +2,11 @@
   "id": 3747,
   "name": {
     "zh_tw": "精英 / 菁英草寇",
-    "en": "散弹枪"
+    "en": "散彈槍"
   },
   "image_url": "/images/monsters/3747.gif",
   "basic_info": {
-    "level": 148,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 99,
     "magic_defense": 36,
     "hit_100_percent": 403,
-    "flee_95_percent": 0,
+    "flee_95_percent": 486,
     "base_stats": {
       "str": 98,
       "agi": 55,
@@ -37,6 +37,13 @@
       "luk": 2
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockmi1",
+      "description": "- 洛克里奇礦山",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 1944,

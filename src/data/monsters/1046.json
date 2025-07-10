@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1046.gif",
   "basic_info": {
-    "level": 77,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 246,
     "magic_defense": 86,
     "hit_100_percent": 413,
-    "flee_95_percent": 0,
+    "flee_95_percent": 474,
     "base_stats": {
       "str": 122,
       "agi": 122,
@@ -37,6 +37,23 @@
       "luk": 72
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_dun02",
+      "description": "- 吉芬塔 地下密穴 3層",
+      "spawn_info": "1x / 120~130 分鐘"
+    },
+    {
+      "map_name": "gld_dun04",
+      "description": "- 公會地下密穴 (吉芬)",
+      "spawn_info": "1x / 480~490 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

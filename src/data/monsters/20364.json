@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20364.gif",
   "basic_info": {
-    "level": 176,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 314,
     "magic_defense": 69,
     "hit_100_percent": 468,
-    "flee_95_percent": 0,
+    "flee_95_percent": 542,
     "base_stats": {
       "str": 177,
       "agi": 91,
@@ -37,6 +37,13 @@
       "luk": 9
     }
   },
+  "spawns": [
+    {
+      "map_name": "sp_rudus3",
+      "description": "- 實驗體廢棄場 魯杜斯 3層",
+      "spawn_info": "65x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

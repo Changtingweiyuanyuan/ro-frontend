@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1274.gif",
   "basic_info": {
-    "level": 65,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 66,
     "magic_defense": 18,
     "hit_100_percent": 279,
-    "flee_95_percent": 0,
+    "flee_95_percent": 335,
     "base_stats": {
       "str": 57,
       "agi": 14,
@@ -37,6 +37,13 @@
       "luk": 3
     }
   },
+  "spawns": [
+    {
+      "map_name": "beach_dun2",
+      "description": "- 北邊 洞穴 盧安達",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

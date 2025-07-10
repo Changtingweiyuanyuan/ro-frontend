@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2937.gif",
   "basic_info": {
-    "level": 145,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 15,
     "magic_defense": 89,
     "hit_100_percent": 415,
-    "flee_95_percent": 0,
+    "flee_95_percent": 511,
     "base_stats": {
       "str": 76,
       "agi": 66,
@@ -37,5 +37,12 @@
       "luk": 22
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tnm3",
+      "description": "- 咪羅克城地下",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

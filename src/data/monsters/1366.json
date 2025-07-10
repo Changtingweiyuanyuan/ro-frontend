@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1366.gif",
   "basic_info": {
-    "level": 103,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 299,
     "magic_defense": 27,
     "hit_100_percent": 348,
-    "flee_95_percent": 0,
+    "flee_95_percent": 370,
     "base_stats": {
       "str": 126,
       "agi": 42,
@@ -37,54 +37,71 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mag_dun01",
+      "description": "- 朱諾 諾可羅德(火洞) 1層",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,
       "name": "白色藥草",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/509.gif"
+      "icon_url": "/images/items/509.gif"
     },
     {
       "item_id": 1818,
       "name": "灼熱拳套[3]",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1818.gif"
+      "icon_url": "/images/items/1818.gif"
     },
     {
       "item_id": 2317,
       "name": "鋼鐵盔甲[1]",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2317.gif"
+      "icon_url": "/images/items/2317.gif"
     },
     {
       "item_id": 4184,
       "name": "熔岩巨石卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6245,
       "name": "黑色粉末",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6245.gif"
+      "icon_url": "/images/items/6245.gif"
     },
     {
       "item_id": 7096,
       "name": "凝固的岩漿",
       "rate": 22.8,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7096.gif"
+      "icon_url": "/images/items/7096.gif"
     },
     {
       "item_id": 7097,
       "name": "燃燒的心臟",
       "rate": 18.43,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7097.gif"
+      "icon_url": "/images/items/7097.gif"
     },
     {
       "item_id": 15027,
       "name": "赤紅外袍",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/15027.gif"
+      "icon_url": "/images/items/15027.gif"
     }
   ]
 }

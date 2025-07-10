@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1649.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 231,
     "magic_defense": 349,
     "hit_100_percent": 527,
-    "flee_95_percent": 0,
+    "flee_95_percent": 592,
     "base_stats": {
       "str": 172,
       "agi": 150,
@@ -37,6 +37,18 @@
       "luk": 88
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@lhz",
+      "description": "- 保羅協夫研究室",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "lhz_dun03",
+      "description": "- 生體試驗 研究所 地下3樓",
+      "spawn_info": "1x / 100~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1527,

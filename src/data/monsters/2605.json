@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2605.gif",
   "basic_info": {
-    "level": 119,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 46,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 391,
     "base_stats": {
       "str": 55,
       "agi": 60,
@@ -37,54 +37,61 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld_dun04",
+      "description": "- 公會地下密穴 (吉芬)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 723,
       "name": "紅寶石",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/723.gif"
+      "icon_url": "/images/items/723.gif"
     },
     {
       "item_id": 727,
       "name": "白寶石",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/727.gif"
+      "icon_url": "/images/items/727.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 37.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 958,
       "name": "亡者牙齒",
       "rate": 37.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/958.gif"
+      "icon_url": "/images/items/958.gif"
     },
     {
       "item_id": 4274,
       "name": "腐屍首領卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7071,
       "name": "破爛爛的衣服",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7071.gif"
+      "icon_url": "/images/items/7071.gif"
     },
     {
       "item_id": 7071,
       "name": "破爛爛的衣服",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7071.gif"
+      "icon_url": "/images/items/7071.gif"
     },
     {
       "item_id": 12676,
       "name": "城戰紫色藥水箱",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12676.gif"
+      "icon_url": "/images/items/12676.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1785.gif",
   "basic_info": {
-    "level": 113,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 316,
     "magic_defense": 176,
     "hit_100_percent": 500,
-    "flee_95_percent": 0,
+    "flee_95_percent": 533,
     "base_stats": {
       "str": 121,
       "agi": 165,
@@ -37,6 +37,38 @@
       "luk": 113
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun03_2",
+      "description": "- 普隆德拉-公會地下迷宮 2層",
+      "spawn_info": "1x / 480~490 分鐘"
+    },
+    {
+      "map_name": "ra_fild03",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "1x / 180~190 分鐘"
+    },
+    {
+      "map_name": "ra_fild04",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "1x / 300~310 分鐘"
+    },
+    {
+      "map_name": "ve_fild01",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "1x / 180~190 分鐘"
+    },
+    {
+      "map_name": "ve_fild02",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "1x / 360~370 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 607,

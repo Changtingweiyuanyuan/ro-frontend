@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1196.gif",
   "basic_info": {
-    "level": 91,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 41,
     "hit_100_percent": 329,
-    "flee_95_percent": 0,
+    "flee_95_percent": 351,
     "base_stats": {
       "str": 84,
       "agi": 35,
@@ -37,6 +37,18 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gl_prison1",
+      "description": "- 克雷斯特漢姆 地下監獄2樓",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 716,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1388.gif",
   "basic_info": {
-    "level": 84,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 92,
     "magic_defense": 81,
     "hit_100_percent": 353,
-    "flee_95_percent": 0,
+    "flee_95_percent": 408,
     "base_stats": {
       "str": 32,
       "agi": 48,
@@ -37,6 +37,18 @@
       "luk": 105
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "yuno_fild04",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "1x / 60~63 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 608,

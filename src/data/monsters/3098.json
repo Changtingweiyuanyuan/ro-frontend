@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3098.gif",
   "basic_info": {
-    "level": 160,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 351,
     "magic_defense": 212,
     "hit_100_percent": 396,
-    "flee_95_percent": 0,
+    "flee_95_percent": 687,
     "base_stats": {
       "str": 195,
       "agi": 35,
@@ -37,5 +37,12 @@
       "luk": 7
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@eom",
+      "description": "- 魔神殿",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

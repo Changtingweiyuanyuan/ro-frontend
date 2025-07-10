@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1131.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 76,
     "hit_100_percent": 396,
-    "flee_95_percent": 0,
+    "flee_95_percent": 363,
     "base_stats": {
       "str": 84,
       "agi": 99,
@@ -37,6 +37,18 @@
       "luk": 35
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "alde_dun04",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 4樓",
+      "spawn_info": "11x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

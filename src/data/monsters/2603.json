@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2603.gif",
   "basic_info": {
-    "level": 124,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 45,
     "hit_100_percent": 386,
-    "flee_95_percent": 0,
+    "flee_95_percent": 437,
     "base_stats": {
       "str": 117,
       "agi": 58,
@@ -37,54 +37,61 @@
       "luk": 21
     }
   },
+  "spawns": [
+    {
+      "map_name": "abbey02",
+      "description": "- 修道院 F2",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 934,
       "name": "亡者遺物",
       "rate": 37.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/934.gif"
+      "icon_url": "/images/items/934.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 2886,
       "name": "薩巴斯的指環",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2886.gif"
+      "icon_url": "/images/items/2886.gif"
     },
     {
       "item_id": 4435,
       "name": "殭屍屠戮者卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6223,
       "name": "混沌金屬",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6223.gif"
+      "icon_url": "/images/items/6223.gif"
     },
     {
       "item_id": 7752,
       "name": "抖落的骷髏",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7752.gif"
+      "icon_url": "/images/items/7752.gif"
     },
     {
       "item_id": 7753,
       "name": "斷裂的農器具",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7753.gif"
+      "icon_url": "/images/items/7753.gif"
     },
     {
       "item_id": 13404,
       "name": "鉑金彎刀[1]",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/13404.gif"
+      "icon_url": "/images/items/13404.gif"
     }
   ]
 }

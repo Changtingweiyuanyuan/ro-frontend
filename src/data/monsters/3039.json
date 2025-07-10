@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3039.gif",
   "basic_info": {
-    "level": 149,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 199,
     "magic_defense": 35,
     "hit_100_percent": 447,
-    "flee_95_percent": 0,
+    "flee_95_percent": 445,
     "base_stats": {
       "str": 126,
       "agi": 91,
@@ -37,5 +37,12 @@
       "luk": 37
     }
   },
+  "spawns": [
+    {
+      "map_name": "moro_vol",
+      "description": "- 火焰盆地",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

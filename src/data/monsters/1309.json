@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1309.gif",
   "basic_info": {
-    "level": 140,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 50,
     "hit_100_percent": 395,
-    "flee_95_percent": 0,
+    "flee_95_percent": 417,
     "base_stats": {
       "str": 77,
       "agi": 47,
@@ -37,6 +37,23 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld2_pay",
+      "description": "- 深淵迴廊 : 太古之風",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun01_2",
+      "description": "- 斐揚-公會地下迷宮 2層",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 912,

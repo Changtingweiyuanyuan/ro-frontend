@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20642.gif",
   "basic_info": {
-    "level": 139,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 189,
     "magic_defense": 85,
     "hit_100_percent": 475,
-    "flee_95_percent": 0,
+    "flee_95_percent": 505,
     "base_stats": {
       "str": 135,
       "agi": 120,
@@ -37,6 +37,13 @@
       "luk": 80
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@bamq",
+      "description": "- 飛空艇機場",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 505,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2904.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 92,
     "magic_defense": 0,
     "hit_100_percent": 364,
-    "flee_95_percent": 0,
+    "flee_95_percent": 345,
     "base_stats": {
       "str": 79,
       "agi": 59,
@@ -37,6 +37,13 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "ra_fild08",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

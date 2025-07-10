@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1018.gif",
   "basic_info": {
-    "level": 23,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 28,
     "magic_defense": 20,
     "hit_100_percent": 228,
-    "flee_95_percent": 0,
+    "flee_95_percent": 200,
     "base_stats": {
       "str": 16,
       "agi": 1,
@@ -37,6 +37,38 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_fild05",
+      "description": "- 吉芬 區域",
+      "spawn_info": "143x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_01",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_06",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "pay_fild07",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "26x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild02",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "1x / 2~3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

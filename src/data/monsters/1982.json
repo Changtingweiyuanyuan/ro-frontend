@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1982.gif",
   "basic_info": {
-    "level": 78,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 67,
     "magic_defense": 31,
     "hit_100_percent": 313,
-    "flee_95_percent": 0,
+    "flee_95_percent": 403,
     "base_stats": {
       "str": 55,
       "agi": 32,
@@ -37,5 +37,12 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@orcs",
+      "description": "- 獸人地下洞穴 2樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

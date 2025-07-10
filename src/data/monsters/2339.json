@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2339.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 89,
     "magic_defense": 75,
     "hit_100_percent": 391,
-    "flee_95_percent": 0,
+    "flee_95_percent": 361,
     "base_stats": {
       "str": 35,
       "agi": 71,
@@ -37,5 +37,12 @@
       "luk": 52
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ma_h",
+      "description": "- 般滾勾特 噩咪醫院2層",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1289.gif",
   "basic_info": {
-    "level": 81,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 139,
     "magic_defense": 40,
     "hit_100_percent": 356,
-    "flee_95_percent": 0,
+    "flee_95_percent": 378,
     "base_stats": {
       "str": 95,
       "agi": 52,
@@ -37,6 +37,18 @@
       "luk": 119
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld2_ald",
+      "description": "- 深淵迴廊 : 英雄之淚",
+      "spawn_info": "3x / 20 分鐘"
+    },
+    {
+      "map_name": "gld_dun02_2",
+      "description": "- 艾爾帕蘭-公會地下迷宮 2層",
+      "spawn_info": "3x / 20~30 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

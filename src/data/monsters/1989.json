@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1989.gif",
   "basic_info": {
-    "level": 123,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 83,
     "magic_defense": 11,
     "hit_100_percent": 394,
-    "flee_95_percent": 0,
+    "flee_95_percent": 440,
     "base_stats": {
       "str": 110,
       "agi": 69,
@@ -37,6 +37,18 @@
       "luk": 12
     }
   },
+  "spawns": [
+    {
+      "map_name": "man_fild01",
+      "description": "- 馬努克曠野",
+      "spawn_info": "14x / 5 秒"
+    },
+    {
+      "map_name": "man_fild03",
+      "description": "- 馬努克曠野",
+      "spawn_info": "33x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1268,

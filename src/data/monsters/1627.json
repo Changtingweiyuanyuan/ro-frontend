@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1627.gif",
   "basic_info": {
-    "level": 95,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 7,
     "magic_defense": 10,
     "hit_100_percent": 363,
-    "flee_95_percent": 0,
+    "flee_95_percent": 385,
     "base_stats": {
       "str": 64,
       "agi": 60,
@@ -37,6 +37,73 @@
       "luk": 42
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@orcs",
+      "description": "- 獸人地下洞穴 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@orcs",
+      "description": "- 獸人地下洞穴 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "6@tower",
+      "description": "- 無限塔 (魔物終結塔) 6樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "harboro2",
+      "description": "- 洛克里奇 地下水道",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "lhz_dun01",
+      "description": "- 生體試驗 研究所 地下1樓",
+      "spawn_info": "70x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild01",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild03",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild04",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "23x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild05",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild06",
+      "description": "- 拉赫 珀爾特魯納",
+      "spawn_info": "12x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild08",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild12",
+      "description": "- 拉赫 伊達曠野",
+      "spawn_info": "49x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 4344,

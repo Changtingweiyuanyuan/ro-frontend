@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2252.gif",
   "basic_info": {
-    "level": 138,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 171,
     "magic_defense": 68,
     "hit_100_percent": 457,
-    "flee_95_percent": 0,
+    "flee_95_percent": 530,
     "base_stats": {
       "str": 189,
       "agi": 105,
@@ -37,6 +37,13 @@
       "luk": 72
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld2_ald",
+      "description": "- 深淵迴廊 : 英雄之淚",
+      "spawn_info": "1x / 30~40 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

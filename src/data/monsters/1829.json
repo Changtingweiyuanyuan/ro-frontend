@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1829.gif",
   "basic_info": {
-    "level": 133,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 122,
     "magic_defense": 62,
     "hit_100_percent": 433,
-    "flee_95_percent": 0,
+    "flee_95_percent": 479,
     "base_stats": {
       "str": 122,
       "agi": 87,
@@ -37,6 +37,28 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "thor_v01",
+      "description": "- 托爾 火山洞穴 1層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "thor_v02",
+      "description": "- 托爾 火山洞穴 2層",
+      "spawn_info": "1x / 120 分鐘"
+    },
+    {
+      "map_name": "thor_v03",
+      "description": "- 托爾 火山洞穴 3層",
+      "spawn_info": "11x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1168,

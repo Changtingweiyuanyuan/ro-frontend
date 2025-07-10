@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1734.gif",
   "basic_info": {
-    "level": 125,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 314,
     "magic_defense": 232,
     "hit_100_percent": 548,
-    "flee_95_percent": 0,
+    "flee_95_percent": 634,
     "base_stats": {
       "str": 166,
       "agi": 187,
@@ -37,6 +37,13 @@
       "luk": 180
     }
   },
+  "spawns": [
+    {
+      "map_name": "kh_dun02",
+      "description": "- 機械娃娃工廠 2層",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

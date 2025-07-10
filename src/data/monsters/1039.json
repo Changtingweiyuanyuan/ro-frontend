@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1039.gif",
   "basic_info": {
-    "level": 81,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 379,
     "magic_defense": 45,
     "hit_100_percent": 423,
-    "flee_95_percent": 0,
+    "flee_95_percent": 465,
     "base_stats": {
       "str": 120,
       "agi": 125,
@@ -37,6 +37,23 @@
       "luk": 85
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gld_dun03",
+      "description": "- 公會地下密穴 (普隆德拉)",
+      "spawn_info": "1x / 480~490 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 714,

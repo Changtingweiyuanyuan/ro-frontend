@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20657.gif",
   "basic_info": {
-    "level": 135,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 393,
     "magic_defense": 92,
     "hit_100_percent": 434,
-    "flee_95_percent": 0,
+    "flee_95_percent": 448,
     "base_stats": {
       "str": 100,
       "agi": 86,
@@ -37,5 +37,12 @@
       "luk": 67
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@lost",
+      "description": "- 被時間遺忘的飼養場",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

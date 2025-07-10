@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3247.gif",
   "basic_info": {
-    "level": 150,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 91,
     "magic_defense": 81,
     "hit_100_percent": 407,
-    "flee_95_percent": 0,
+    "flee_95_percent": 435,
     "base_stats": {
       "str": 70,
       "agi": 48,
@@ -37,42 +37,49 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "verus01",
+      "description": "- 實驗樓-OPTATIO",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 6561,
       "name": "塵埃",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6561.gif"
+      "icon_url": "/images/items/6561.gif"
     },
     {
       "item_id": 7001,
       "name": "黴菌粉末",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7001.gif"
+      "icon_url": "/images/items/7001.gif"
     },
     {
       "item_id": 7320,
       "name": "粉塵",
       "rate": 10.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7320.gif"
+      "icon_url": "/images/items/7320.gif"
     },
     {
       "item_id": 7322,
       "name": "有毒瓦斯",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7322.gif"
+      "icon_url": "/images/items/7322.gif"
     },
     {
       "item_id": 12815,
       "name": "世界樹之塵",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12815.gif"
+      "icon_url": "/images/items/12815.gif"
     },
     {
       "item_id": 27014,
       "name": "綠惡靈之霧卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/27014.gif"
+      "icon_url": "/images/items/27014.gif"
     }
   ]
 }

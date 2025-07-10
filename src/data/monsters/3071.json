@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3071.gif",
   "basic_info": {
-    "level": 127,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 45,
     "hit_100_percent": 431,
-    "flee_95_percent": 0,
+    "flee_95_percent": 469,
     "base_stats": {
       "str": 91,
       "agi": 89,
@@ -37,6 +37,13 @@
       "luk": 75
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@jtb",
+      "description": "- 噩咪吉特巴",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 993,

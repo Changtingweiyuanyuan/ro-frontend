@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1623.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 317,
     "magic_defense": 96,
     "hit_100_percent": 459,
-    "flee_95_percent": 0,
+    "flee_95_percent": 496,
     "base_stats": {
       "str": 153,
       "agi": 143,
@@ -37,6 +37,13 @@
       "luk": 84
     }
   },
+  "spawns": [
+    {
+      "map_name": "ein_dun02",
+      "description": "- 礦山洞穴 2層",
+      "spawn_info": "1x / 125~135 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 617,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1116.gif",
   "basic_info": {
-    "level": 53,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 20,
     "hit_100_percent": 282,
-    "flee_95_percent": 0,
+    "flee_95_percent": 286,
     "base_stats": {
       "str": 46,
       "agi": 25,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_dun01",
+      "description": "- 斐揚 (殭屍洞) 地下2層",
+      "spawn_info": "16x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

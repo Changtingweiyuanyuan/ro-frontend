@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2684.gif",
   "basic_info": {
-    "level": 121,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 61,
     "magic_defense": 35,
     "hit_100_percent": 413,
-    "flee_95_percent": 0,
+    "flee_95_percent": 463,
     "base_stats": {
       "str": 112,
       "agi": 78,
@@ -37,6 +37,13 @@
       "luk": 70
     }
   },
+  "spawns": [
+    {
+      "map_name": "tha_t10",
+      "description": "- 達納托斯之塔 上層 10樓 悲哀之房",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 723,

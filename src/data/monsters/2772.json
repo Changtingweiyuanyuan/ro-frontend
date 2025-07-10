@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2772.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 53,
     "hit_100_percent": 361,
-    "flee_95_percent": 0,
+    "flee_95_percent": 372,
     "base_stats": {
       "str": 97,
       "agi": 49,
@@ -37,54 +37,61 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "niflheim",
+      "description": "- 亡者國度 尼芙菲姆",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 1059,
       "name": "透明之布",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1059.gif"
+      "icon_url": "/images/items/1059.gif"
     },
     {
       "item_id": 2282,
       "name": "光環",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2282.gif"
+      "icon_url": "/images/items/2282.gif"
     },
     {
       "item_id": 4193,
       "name": "南瓜魂卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6246,
       "name": "黃色粉末",
       "rate": 7.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6246.gif"
+      "icon_url": "/images/items/6246.gif"
     },
     {
       "item_id": 7220,
       "name": "綠色粘稠物",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7220.gif"
+      "icon_url": "/images/items/7220.gif"
     },
     {
       "item_id": 7225,
       "name": "南瓜燈籠",
       "rate": 80.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7225.gif"
+      "icon_url": "/images/items/7225.gif"
     },
     {
       "item_id": 12001,
       "name": "治愈術 等級3",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12001.gif"
+      "icon_url": "/images/items/12001.gif"
     }
   ]
 }

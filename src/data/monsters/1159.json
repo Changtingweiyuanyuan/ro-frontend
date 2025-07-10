@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1159.gif",
   "basic_info": {
-    "level": 71,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 269,
     "magic_defense": 98,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 386,
     "base_stats": {
       "str": 88,
       "agi": 70,
@@ -37,6 +37,18 @@
       "luk": 71
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "moc_fild17",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

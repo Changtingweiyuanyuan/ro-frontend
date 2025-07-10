@@ -2,11 +2,11 @@
   "id": 2368,
   "name": {
     "zh_tw": "元素鬼火",
-    "en": "绿"
+    "en": "綠"
   },
   "image_url": "/images/monsters/2368.gif",
   "basic_info": {
-    "level": 147,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 84,
     "magic_defense": 51,
     "hit_100_percent": 451,
-    "flee_95_percent": 0,
+    "flee_95_percent": 477,
     "base_stats": {
       "str": 141,
       "agi": 94,
@@ -37,6 +37,23 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "ecl_tdun01",
+      "description": "- 彩虹橋高塔 1樓",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "ecl_tdun02",
+      "description": "- 彩虹橋高塔 2樓",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "ecl_tdun03",
+      "description": "- 彩虹橋高塔 3樓",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 997,

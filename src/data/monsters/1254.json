@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1254.gif",
   "basic_info": {
-    "level": 48,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 10,
     "hit_100_percent": 295,
-    "flee_95_percent": 0,
+    "flee_95_percent": 281,
     "base_stats": {
       "str": 30,
       "agi": 42,
@@ -37,6 +37,13 @@
       "luk": 27
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild07",
+      "description": "- 發樂斯 燈塔島",
+      "spawn_info": "116x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

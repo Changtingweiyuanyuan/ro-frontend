@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2313.gif",
   "basic_info": {
-    "level": 115,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 84,
     "magic_defense": 34,
     "hit_100_percent": 376,
-    "flee_95_percent": 0,
+    "flee_95_percent": 364,
     "base_stats": {
       "str": 71,
       "agi": 52,
@@ -37,6 +37,13 @@
       "luk": 46
     }
   },
+  "spawns": [
+    {
+      "map_name": "ma_fild01",
+      "description": "- 巴爾尤 馬西瓦加 (馬來亞森林)",
+      "spawn_info": "67x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

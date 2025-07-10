@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2683.gif",
   "basic_info": {
-    "level": 60,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 96,
     "magic_defense": 12,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 280,
     "base_stats": {
       "str": 50,
       "agi": 43,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "gon_fild01",
+      "description": "- 昆崙原野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 553,

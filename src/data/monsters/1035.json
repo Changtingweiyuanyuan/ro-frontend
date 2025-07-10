@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1035.gif",
   "basic_info": {
-    "level": 63,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 46,
     "magic_defense": 20,
     "hit_100_percent": 338,
-    "flee_95_percent": 0,
+    "flee_95_percent": 338,
     "base_stats": {
       "str": 32,
       "agi": 72,
@@ -37,6 +37,58 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_dun00",
+      "description": "- 吉芬塔 地下密穴 1層",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "gef_dun02",
+      "description": "- 吉芬塔 地下密穴 3層",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "gl_chyard",
+      "description": "- 克雷斯特漢姆古城 地下公墓",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "gl_prison",
+      "description": "- 克雷斯特漢姆 地下監獄1樓",
+      "spawn_info": "12x / 5 秒"
+    },
+    {
+      "map_name": "gl_prison1",
+      "description": "- 克雷斯特漢姆 地下監獄2樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_12",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "43x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "prt_q",
+      "description": "- 被侵略的普隆德拉",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 756,

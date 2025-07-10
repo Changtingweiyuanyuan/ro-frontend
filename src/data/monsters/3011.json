@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3011.gif",
   "basic_info": {
-    "level": 158,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 240,
     "magic_defense": 45,
     "hit_100_percent": 453,
-    "flee_95_percent": 0,
+    "flee_95_percent": 464,
     "base_stats": {
       "str": 100,
       "agi": 85,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@dth1",
+      "description": "- 拜歐斯島 第一層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 522,

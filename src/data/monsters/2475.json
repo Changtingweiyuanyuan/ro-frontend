@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2475.gif",
   "basic_info": {
-    "level": 150,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 333,
     "magic_defense": 333,
     "hit_100_percent": 374,
-    "flee_95_percent": 0,
+    "flee_95_percent": 527,
     "base_stats": {
       "str": 201,
       "agi": 20,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@gl_k",
+      "description": "- 過去的古城騎士團 一樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 607,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20653.gif",
   "basic_info": {
-    "level": 166,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 490,
     "magic_defense": 91,
     "hit_100_percent": 515,
-    "flee_95_percent": 0,
+    "flee_95_percent": 518,
     "base_stats": {
       "str": 124,
       "agi": 132,
@@ -37,6 +37,13 @@
       "luk": 89
     }
   },
+  "spawns": [
+    {
+      "map_name": "ba_lost",
+      "description": "- 失落的山谷飼養場",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 903,

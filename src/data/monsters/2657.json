@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2657.gif",
   "basic_info": {
-    "level": 126,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 72,
     "magic_defense": 15,
     "hit_100_percent": 404,
-    "flee_95_percent": 0,
+    "flee_95_percent": 423,
     "base_stats": {
       "str": 100,
       "agi": 71,
@@ -37,54 +37,61 @@
       "luk": 37
     }
   },
+  "spawns": [
+    {
+      "map_name": "odin_tem02",
+      "description": "- 奧丁神殿 2層",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/716.gif"
+      "icon_url": "/images/items/716.gif"
     },
     {
       "item_id": 739,
       "name": "化妝品",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/739.gif"
+      "icon_url": "/images/items/739.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 1271,
       "name": "血之淚[2]",
       "rate": 0.15,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1271.gif"
+      "icon_url": "/images/items/1271.gif"
     },
     {
       "item_id": 2609,
       "name": "骷髏戒指",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2609.gif"
+      "icon_url": "/images/items/2609.gif"
     },
     {
       "item_id": 2884,
       "name": "珀斯符文印記[1]",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2884.gif"
+      "icon_url": "/images/items/2884.gif"
     },
     {
       "item_id": 4404,
       "name": "皮影魔卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7511,
       "name": "黑暗的輪",
       "rate": 87.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7511.gif"
+      "icon_url": "/images/items/7511.gif"
     }
   ]
 }

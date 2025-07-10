@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1031.gif",
   "basic_info": {
-    "level": 30,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 36,
     "magic_defense": 17,
     "hit_100_percent": 257,
-    "flee_95_percent": 0,
+    "flee_95_percent": 237,
     "base_stats": {
       "str": 17,
       "agi": 26,
@@ -37,6 +37,103 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_dun00",
+      "description": "- 吉芬塔 地下密穴 1層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "gef_fild02",
+      "description": "- 吉芬 區域",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_02",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "22x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd01",
+      "description": "- 金字塔 迷宮 1樓",
+      "spawn_info": "28x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd02",
+      "description": "- 金字塔 迷宮 2樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "mosk_dun01",
+      "description": "- 莫斯科比亞 森林",
+      "spawn_info": "22x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun00",
+      "description": "- 斐揚 (殭屍洞) 地下1層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun02",
+      "description": "- 斐揚 (殭屍洞) 地下3層",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "141x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild02",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild03",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "38x / 5 秒"
+    },
+    {
+      "map_name": "prt_fild10",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "22x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "5x / 2~3 分鐘"
+    },
+    {
+      "map_name": "prt_maze02",
+      "description": "- 迷藏森林2層(普隆德拉北部)",
+      "spawn_info": "32x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "52x / 5 秒"
+    },
+    {
+      "map_name": "sec_in02",
+      "description": "- 巴哈拉宮 內部",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "24x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

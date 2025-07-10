@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2695.gif",
   "basic_info": {
-    "level": 86,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 86,
     "magic_defense": 2,
     "hit_100_percent": 333,
-    "flee_95_percent": 0,
+    "flee_95_percent": 344,
     "base_stats": {
       "str": 47,
       "agi": 41,
@@ -37,54 +37,61 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "lhz_fild01",
+      "description": "- 裡希塔樂鎮 原野",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,
       "name": "白色藥草",
       "rate": 0.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/509.gif"
+      "icon_url": "/images/items/509.gif"
     },
     {
       "item_id": 703,
       "name": "西納雷花",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/703.gif"
+      "icon_url": "/images/items/703.gif"
     },
     {
       "item_id": 706,
       "name": "四葉幸運草",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/706.gif"
+      "icon_url": "/images/items/706.gif"
     },
     {
       "item_id": 708,
       "name": "曼特花",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/708.gif"
+      "icon_url": "/images/items/708.gif"
     },
     {
       "item_id": 711,
       "name": "芽苗",
       "rate": 13.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/711.gif"
+      "icon_url": "/images/items/711.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 40.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/911.gif"
+      "icon_url": "/images/items/911.gif"
     },
     {
       "item_id": 1033,
       "name": "噬人樹根",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1033.gif"
+      "icon_url": "/images/items/1033.gif"
     },
     {
       "item_id": 4083,
       "name": "草精卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1672.gif",
   "basic_info": {
-    "level": 116,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 114,
     "magic_defense": 24,
     "hit_100_percent": 387,
-    "flee_95_percent": 0,
+    "flee_95_percent": 432,
     "base_stats": {
       "str": 115,
       "agi": 64,
@@ -37,6 +37,23 @@
       "luk": 35
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "juperos_01",
+      "description": "- 優配擂斯 廢墟 1樓",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "jupe_core",
+      "description": "- 優配擂斯 中心部",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

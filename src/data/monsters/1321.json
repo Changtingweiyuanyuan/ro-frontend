@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1321.gif",
   "basic_info": {
-    "level": 86,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 25,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 324,
     "base_stats": {
       "str": 61,
       "agi": 65,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "tur_dun01",
+      "description": "- 烏龜島",
+      "spawn_info": "25x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 943,

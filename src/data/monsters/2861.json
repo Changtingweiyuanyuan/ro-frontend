@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2861.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 30,
     "hit_100_percent": 384,
-    "flee_95_percent": 0,
+    "flee_95_percent": 376,
     "base_stats": {
       "str": 5,
       "agi": 78,
@@ -37,54 +37,61 @@
       "luk": 42
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_chyard",
+      "description": "- 克雷斯特漢姆古城 地下公墓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 505,
       "name": "藍色藥水",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/505.gif"
+      "icon_url": "/images/items/505.gif"
     },
     {
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 11.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/716.gif"
+      "icon_url": "/images/items/716.gif"
     },
     {
       "item_id": 1009,
       "name": "神之手",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1009.gif"
+      "icon_url": "/images/items/1009.gif"
     },
     {
       "item_id": 1557,
       "name": "預言錄",
       "rate": 0.15,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1557.gif"
+      "icon_url": "/images/items/1557.gif"
     },
     {
       "item_id": 2319,
       "name": "祕衣 惡德[1]",
       "rate": 0.15,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2319.gif"
+      "icon_url": "/images/items/2319.gif"
     },
     {
       "item_id": 2608,
       "name": "幸運珠鍊",
       "rate": 0.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2608.gif"
+      "icon_url": "/images/items/2608.gif"
     },
     {
       "item_id": 4171,
       "name": "暗黑祭司卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7005,
       "name": "骷髏頭",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7005.gif"
+      "icon_url": "/images/items/7005.gif"
     }
   ]
 }

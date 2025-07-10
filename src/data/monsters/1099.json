@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1099.gif",
   "basic_info": {
-    "level": 75,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 88,
     "magic_defense": 32,
     "hit_100_percent": 304,
-    "flee_95_percent": 0,
+    "flee_95_percent": 279,
     "base_stats": {
       "str": 60,
       "agi": 23,
@@ -37,6 +37,43 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "dew_fild01",
+      "description": "- 德瓦他曠野 賈提族部落",
+      "spawn_info": "75x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_05",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "166x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_11",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "170x / 5 秒"
+    },
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "42x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "3x / 2~3 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

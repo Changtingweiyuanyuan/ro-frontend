@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1096.gif",
   "basic_info": {
-    "level": 77,
+    "level": 0,
     "race": "天使",
     "element": {
       "type": "聖",
@@ -27,7 +27,7 @@
     "defense": 72,
     "magic_defense": 238,
     "hit_100_percent": 367,
-    "flee_95_percent": 0,
+    "flee_95_percent": 393,
     "base_stats": {
       "str": 58,
       "agi": 50,
@@ -37,6 +37,28 @@
       "luk": 200
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "1x / 60~90 分鐘"
+    },
+    {
+      "map_name": "xmas_dun01",
+      "description": "- 玩具工廠 1樓 (倉庫)",
+      "spawn_info": "1x / 60~90 分鐘"
+    },
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "1x / 60~90 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

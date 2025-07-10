@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1769.gif",
   "basic_info": {
-    "level": 128,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 77,
     "magic_defense": 82,
     "hit_100_percent": 406,
-    "flee_95_percent": 0,
+    "flee_95_percent": 438,
     "base_stats": {
       "str": 85,
       "agi": 66,
@@ -37,6 +37,28 @@
       "luk": 61
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ra_san04",
+      "description": "- 拉赫 神殿聖域 4樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "ra_san05",
+      "description": "- 拉赫 神殿聖域 5樓",
+      "spawn_info": "84x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1061,

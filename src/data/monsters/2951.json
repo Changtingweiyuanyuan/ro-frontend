@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2951.gif",
   "basic_info": {
-    "level": 110,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "念",
@@ -27,7 +27,7 @@
     "defense": 93,
     "magic_defense": 40,
     "hit_100_percent": 413,
-    "flee_95_percent": 0,
+    "flee_95_percent": 440,
     "base_stats": {
       "str": 111,
       "agi": 90,
@@ -37,6 +37,13 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@spa",
+      "description": "- 幽靈皇宮",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 938,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1314.gif",
   "basic_info": {
-    "level": 90,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 144,
     "magic_defense": 50,
     "hit_100_percent": 323,
-    "flee_95_percent": 0,
+    "flee_95_percent": 318,
     "base_stats": {
       "str": 68,
       "agi": 28,
@@ -37,6 +37,43 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "tur_dun01",
+      "description": "- 烏龜島",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun02",
+      "description": "- 烏龜島 密穴 2層",
+      "spawn_info": "41x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun03",
+      "description": "- 烏龜島 密穴 3層 (良龜村)",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun04",
+      "description": "- 烏龜島 密穴 4層 (舊良宮)",
+      "spawn_info": "4x / 5 秒"
+    },
+    {
+      "map_name": "tur_dun05",
+      "description": "- 地下 沼澤區",
+      "spawn_info": "4x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

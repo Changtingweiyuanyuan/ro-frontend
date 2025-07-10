@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2152.gif",
   "basic_info": {
-    "level": 81,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 92,
     "magic_defense": 11,
     "hit_100_percent": 342,
-    "flee_95_percent": 0,
+    "flee_95_percent": 361,
     "base_stats": {
       "str": 65,
       "agi": 52,
@@ -37,36 +37,43 @@
       "luk": 48
     }
   },
+  "spawns": [
+    {
+      "map_name": "dew_dun01",
+      "description": "- 喀拉喀托火山島 (德瓦他)",
+      "spawn_info": "100x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,
       "name": "肉",
       "rate": 45.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/517.gif"
+      "icon_url": "/images/items/517.gif"
     },
     {
       "item_id": 908,
       "name": "青蛙蛋",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/908.gif"
+      "icon_url": "/images/items/908.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 45.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/911.gif"
+      "icon_url": "/images/items/911.gif"
     },
     {
       "item_id": 4516,
       "name": "科摩多龍卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6403,
       "name": "科摩多龍皮",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6403.gif"
+      "icon_url": "/images/items/6403.gif"
     }
   ]
 }

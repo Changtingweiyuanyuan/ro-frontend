@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2751.gif",
   "basic_info": {
-    "level": 140,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 120,
     "magic_defense": 120,
     "hit_100_percent": 421,
-    "flee_95_percent": 0,
+    "flee_95_percent": 535,
     "base_stats": {
       "str": 90,
       "agi": 66,
@@ -37,6 +37,13 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "bif_fild01",
+      "description": "- 彩虹橋南部",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 969,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2910.gif",
   "basic_info": {
-    "level": 88,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 106,
     "magic_defense": 53,
     "hit_100_percent": 365,
-    "flee_95_percent": 0,
+    "flee_95_percent": 332,
     "base_stats": {
       "str": 70,
       "agi": 72,
@@ -37,6 +37,13 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "c_tower3",
+      "description": "- 艾爾帕蘭 鐘塔地上樓層 3樓",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 912,

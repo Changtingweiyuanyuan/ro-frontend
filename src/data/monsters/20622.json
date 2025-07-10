@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20622.gif",
   "basic_info": {
-    "level": 137,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 365,
     "magic_defense": 78,
     "hit_100_percent": 439,
-    "flee_95_percent": 0,
+    "flee_95_percent": 445,
     "base_stats": {
       "str": 97,
       "agi": 87,
@@ -37,6 +37,18 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ghg",
+      "description": "- 水精靈奧爾圖斯",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@herbs",
+      "description": "- 祕密花園",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 998,

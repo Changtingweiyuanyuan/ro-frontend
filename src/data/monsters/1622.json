@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1622.gif",
   "basic_info": {
-    "level": 91,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 106,
     "magic_defense": 39,
     "hit_100_percent": 380,
-    "flee_95_percent": 0,
+    "flee_95_percent": 357,
     "base_stats": {
       "str": 57,
       "agi": 81,
@@ -37,6 +37,28 @@
       "luk": 44
     }
   },
+  "spawns": [
+    {
+      "map_name": "ein_dun02",
+      "description": "- 礦山洞穴 2層",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "ein_fild03",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "100x / 5 秒"
+    },
+    {
+      "map_name": "ein_fild04",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "24x / 5 秒"
+    },
+    {
+      "map_name": "ein_fild05",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "20x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

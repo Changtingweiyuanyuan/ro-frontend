@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1243.gif",
   "basic_info": {
-    "level": 72,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 28,
     "hit_100_percent": 311,
-    "flee_95_percent": 0,
+    "flee_95_percent": 319,
     "base_stats": {
       "str": 70,
       "agi": 35,
@@ -37,6 +37,23 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prt_maze02",
+      "description": "- 迷藏森林2層(普隆德拉北部)",
+      "spawn_info": "1x / 15~16 分鐘"
+    },
+    {
+      "map_name": "xmas_fild01",
+      "description": "- 姜餅城原野",
+      "spawn_info": "9x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

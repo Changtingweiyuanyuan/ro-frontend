@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2639.gif",
   "basic_info": {
-    "level": 73,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 30,
     "hit_100_percent": 326,
-    "flee_95_percent": 0,
+    "flee_95_percent": 322,
     "base_stats": {
       "str": 60,
       "agi": 49,
@@ -37,48 +37,55 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "ayo_dun02",
+      "description": "- 古代神殿 內部",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1155,
       "name": "亞爾特劍[3]",
       "rate": 0.2,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1155.gif"
+      "icon_url": "/images/items/1155.gif"
     },
     {
       "item_id": 2315,
       "name": "鋼鐵鎖子甲[1]",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2315.gif"
+      "icon_url": "/images/items/2315.gif"
     },
     {
       "item_id": 4304,
       "name": "塔嚕安卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7069,
       "name": "破裂的盔甲一角",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7069.gif"
+      "icon_url": "/images/items/7069.gif"
     },
     {
       "item_id": 7301,
       "name": "紅色流蘇",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7301.gif"
+      "icon_url": "/images/items/7301.gif"
     },
     {
       "item_id": 12736,
       "name": "神祕符文原石",
       "rate": 7.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12736.gif"
+      "icon_url": "/images/items/12736.gif"
     },
     {
       "item_id": 21015,
       "name": "緋紅色雙手巨劍[2]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/21015.gif"
+      "icon_url": "/images/items/21015.gif"
     }
   ]
 }

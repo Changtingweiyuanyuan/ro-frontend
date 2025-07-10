@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1253.gif",
   "basic_info": {
-    "level": 100,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "風",
@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 43,
     "hit_100_percent": 375,
-    "flee_95_percent": 0,
+    "flee_95_percent": 413,
     "base_stats": {
       "str": 100,
       "agi": 61,
@@ -37,6 +37,48 @@
       "luk": 70
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "glast_01",
+      "description": "- 克雷斯特漢姆古城",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "gl_dun02",
+      "description": "- 克雷斯特漢姆 最下層 地下洞窟 2層",
+      "spawn_info": "17x / 5 秒"
+    },
+    {
+      "map_name": "gl_sew01",
+      "description": "- 克雷斯特漢姆 地下水道 1樓",
+      "spawn_info": "49x / 5 秒"
+    },
+    {
+      "map_name": "gl_sew02",
+      "description": "- 克雷斯特漢姆 地下水道 2樓",
+      "spawn_info": "89x / 5 秒"
+    },
+    {
+      "map_name": "gl_sew03",
+      "description": "- 克雷斯特漢姆 地下水道 3樓",
+      "spawn_info": "56x / 5 秒"
+    },
+    {
+      "map_name": "gl_sew04",
+      "description": "- 克雷斯特漢姆 地下水道 4樓",
+      "spawn_info": "25x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

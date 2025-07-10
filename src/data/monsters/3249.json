@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3249.gif",
   "basic_info": {
-    "level": 171,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 121,
     "magic_defense": 67,
     "hit_100_percent": 464,
-    "flee_95_percent": 0,
+    "flee_95_percent": 500,
     "base_stats": {
       "str": 118,
       "agi": 80,
@@ -37,54 +37,66 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "verus01",
+      "description": "- 實驗樓-OPTATIO",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "verus02",
+      "description": "- 研究樓-WISH",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 998,
       "name": "鐵",
       "rate": 20.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/998.gif"
+      "icon_url": "/images/items/998.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/999.gif"
+      "icon_url": "/images/items/999.gif"
     },
     {
       "item_id": 6961,
       "name": "大型廢鐵",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6961.gif"
+      "icon_url": "/images/items/6961.gif"
     },
     {
       "item_id": 6962,
       "name": "老舊油桶",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6962.gif"
+      "icon_url": "/images/items/6962.gif"
     },
     {
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7507.gif"
+      "icon_url": "/images/items/7507.gif"
     },
     {
       "item_id": 7512,
       "name": "燒焦的部品碎片",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7512.gif"
+      "icon_url": "/images/items/7512.gif"
     },
     {
       "item_id": 11597,
       "name": "嗜鐵蟲",
       "rate": 15.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/11597.gif"
+      "icon_url": "/images/items/11597.gif"
     },
     {
       "item_id": 27016,
       "name": "探索機器人卡片",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/27016.gif"
+      "icon_url": "/images/items/27016.gif"
     }
   ]
 }

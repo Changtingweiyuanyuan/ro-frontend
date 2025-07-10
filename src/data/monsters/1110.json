@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1110.gif",
   "basic_info": {
-    "level": 68,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 85,
     "magic_defense": 20,
     "hit_100_percent": 329,
-    "flee_95_percent": 0,
+    "flee_95_percent": 312,
     "base_stats": {
       "str": 52,
       "agi": 56,
@@ -37,6 +37,18 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "bra_fild01",
+      "description": "- 巴西平原",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 757,

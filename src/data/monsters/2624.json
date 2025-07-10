@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2624.gif",
   "basic_info": {
-    "level": 87,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 104,
     "magic_defense": 65,
     "hit_100_percent": 325,
-    "flee_95_percent": 0,
+    "flee_95_percent": 327,
     "base_stats": {
       "str": 61,
       "agi": 28,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "ein_fild04",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2809.gif",
   "basic_info": {
-    "level": 55,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 114,
     "magic_defense": 30,
     "hit_100_percent": 289,
-    "flee_95_percent": 0,
+    "flee_95_percent": 259,
     "base_stats": {
       "str": 58,
       "agi": 30,
@@ -37,54 +37,61 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_fild10",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 6.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/508.gif"
+      "icon_url": "/images/items/508.gif"
     },
     {
       "item_id": 662,
       "name": "馬牌",
       "rate": 7.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/662.gif"
+      "icon_url": "/images/items/662.gif"
     },
     {
       "item_id": 686,
       "name": "地震術 等級3",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/686.gif"
+      "icon_url": "/images/items/686.gif"
     },
     {
       "item_id": 1019,
       "name": "瑪哪樹枝",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1019.gif"
+      "icon_url": "/images/items/1019.gif"
     },
     {
       "item_id": 1501,
       "name": "木錘[3]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1501.gif"
+      "icon_url": "/images/items/1501.gif"
     },
     {
       "item_id": 2272,
       "name": "停止標誌頭飾",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2272.gif"
+      "icon_url": "/images/items/2272.gif"
     },
     {
       "item_id": 4283,
       "name": "將軍魔碑卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7054.gif"
+      "icon_url": "/images/items/7054.gif"
     }
   ]
 }

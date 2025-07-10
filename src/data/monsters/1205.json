@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1205.gif",
   "basic_info": {
-    "level": 101,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 97,
     "magic_defense": 188,
     "hit_100_percent": 409,
-    "flee_95_percent": 0,
+    "flee_95_percent": 386,
     "base_stats": {
       "str": 99,
       "agi": 96,
@@ -37,6 +37,33 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gefenia01",
+      "description": "- 葛帔尼亞 1層",
+      "spawn_info": "1x / 300~540 分鐘"
+    },
+    {
+      "map_name": "gefenia02",
+      "description": "- 葛帔尼亞 2層",
+      "spawn_info": "1x / 300~540 分鐘"
+    },
+    {
+      "map_name": "gefenia03",
+      "description": "- 葛帔尼亞 3層",
+      "spawn_info": "1x / 180~300 分鐘"
+    },
+    {
+      "map_name": "gefenia04",
+      "description": "- 葛帔尼亞 4層",
+      "spawn_info": "1x / 300~540 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

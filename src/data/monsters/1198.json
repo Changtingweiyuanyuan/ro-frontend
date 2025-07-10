@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1198.gif",
   "basic_info": {
-    "level": 98,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 30,
     "hit_100_percent": 366,
-    "flee_95_percent": 0,
+    "flee_95_percent": 376,
     "base_stats": {
       "str": 5,
       "agi": 60,
@@ -37,6 +37,13 @@
       "luk": 42
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_chyard",
+      "description": "- 克雷斯特漢姆古城 地下公墓",
+      "spawn_info": "95x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 505,

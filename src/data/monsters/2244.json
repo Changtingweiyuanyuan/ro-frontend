@@ -2,11 +2,11 @@
   "id": 2244,
   "name": {
     "zh_tw": "暗●武術宗師",
-    "en": "任务"
+    "en": "任務"
   },
   "image_url": "/images/monsters/2244.gif",
   "basic_info": {
-    "level": 130,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 25,
     "magic_defense": 56,
     "hit_100_percent": 423,
-    "flee_95_percent": 0,
+    "flee_95_percent": 521,
     "base_stats": {
       "str": 122,
       "agi": 81,
@@ -37,5 +37,12 @@
       "luk": 61
     }
   },
+  "spawns": [
+    {
+      "map_name": "que_lhz",
+      "description": "- 生體試驗 研究所 地下4樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

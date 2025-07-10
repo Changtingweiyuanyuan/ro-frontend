@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1139.gif",
   "basic_info": {
-    "level": 65,
+    "level": 0,
     "race": "昆蟲",
     "element": {
       "type": "地",
@@ -27,7 +27,7 @@
     "defense": 90,
     "magic_defense": 0,
     "hit_100_percent": 301,
-    "flee_95_percent": 0,
+    "flee_95_percent": 286,
     "base_stats": {
       "str": 55,
       "agi": 33,
@@ -37,6 +37,78 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild06",
+      "description": "- 吉芬 區域",
+      "spawn_info": "36x / 5 秒"
+    },
+    {
+      "map_name": "gef_fild08",
+      "description": "- 吉芬 區域",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "lou_fild01",
+      "description": "- 龍之城 原野",
+      "spawn_info": "28x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_03",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_04",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "43x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_05",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "44x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_12",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "43x / 5 秒"
+    },
+    {
+      "map_name": "mosk_dun01",
+      "description": "- 莫斯科比亞 森林",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "14x / 5 秒"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "3x / 2~3 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "30x / 1~2 分鐘"
+    },
+    {
+      "map_name": "yuno_fild01",
+      "description": "- 國界 檢查站",
+      "spawn_info": "52x / 5 秒"
+    },
+    {
+      "map_name": "yuno_fild12",
+      "description": "- 國界 檢查站",
+      "spawn_info": "34x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

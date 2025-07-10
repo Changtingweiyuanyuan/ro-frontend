@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1390.gif",
   "basic_info": {
-    "level": 118,
+    "level": 0,
     "race": "人形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 74,
     "magic_defense": 36,
     "hit_100_percent": 416,
-    "flee_95_percent": 0,
+    "flee_95_percent": 435,
     "base_stats": {
       "str": 90,
       "agi": 86,
@@ -37,6 +37,28 @@
       "luk": 63
     }
   },
+  "spawns": [
+    {
+      "map_name": "gefenia01",
+      "description": "- 葛帔尼亞 1層",
+      "spawn_info": "31x / 5 秒"
+    },
+    {
+      "map_name": "gefenia02",
+      "description": "- 葛帔尼亞 2層",
+      "spawn_info": "40x / 5 秒"
+    },
+    {
+      "map_name": "gefenia03",
+      "description": "- 葛帔尼亞 3層",
+      "spawn_info": "42x / 5 秒"
+    },
+    {
+      "map_name": "gefenia04",
+      "description": "- 葛帔尼亞 4層",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 526,

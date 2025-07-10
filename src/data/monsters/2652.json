@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2652.gif",
   "basic_info": {
-    "level": 103,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "水",
@@ -27,7 +27,7 @@
     "defense": 121,
     "magic_defense": 47,
     "hit_100_percent": 375,
-    "flee_95_percent": 0,
+    "flee_95_percent": 374,
     "base_stats": {
       "str": 91,
       "agi": 61,
@@ -37,54 +37,61 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "ice_dun02",
+      "description": "- 拉赫 冰洞穴 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 1.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/510.gif"
+      "icon_url": "/images/items/510.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 991,
       "name": "水靈礦石",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/991.gif"
+      "icon_url": "/images/items/991.gif"
     },
     {
       "item_id": 1819,
       "name": "冰晶拳套[3]",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1819.gif"
+      "icon_url": "/images/items/1819.gif"
     },
     {
       "item_id": 4415,
       "name": "雪怪卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7066,
       "name": "冰塊一角",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7066.gif"
+      "icon_url": "/images/items/7066.gif"
     },
     {
       "item_id": 7561,
       "name": "冰塊心臟",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7561.gif"
+      "icon_url": "/images/items/7561.gif"
     },
     {
       "item_id": 15026,
       "name": "流水外袍",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/15026.gif"
+      "icon_url": "/images/items/15026.gif"
     }
   ]
 }

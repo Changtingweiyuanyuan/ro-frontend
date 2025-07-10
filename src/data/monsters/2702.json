@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2702.gif",
   "basic_info": {
-    "level": 30,
+    "level": 0,
     "race": "植物",
     "element": {
       "type": "毒",
@@ -27,7 +27,7 @@
     "defense": 36,
     "magic_defense": 17,
     "hit_100_percent": 264,
-    "flee_95_percent": 0,
+    "flee_95_percent": 237,
     "base_stats": {
       "str": 17,
       "agi": 33,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "prt_maze02",
+      "description": "- 迷藏森林2層(普隆德拉北部)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

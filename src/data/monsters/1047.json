@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1047.gif",
   "basic_info": {
-    "level": 7,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 16,
     "magic_defense": 5,
     "hit_100_percent": 218,
-    "flee_95_percent": 0,
+    "flee_95_percent": 188,
     "base_stats": {
       "str": 4,
       "agi": 10,
@@ -37,6 +37,28 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "moc_fild01",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "31x / 5 秒"
+    },
+    {
+      "map_name": "moc_fild02",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "moc_fild07",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "moc_fild12",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

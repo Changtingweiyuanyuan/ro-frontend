@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1097.gif",
   "basic_info": {
-    "level": 28,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 68,
     "magic_defense": 45,
     "hit_100_percent": 235,
-    "flee_95_percent": 0,
+    "flee_95_percent": 218,
     "base_stats": {
       "str": 5,
       "agi": 1,
@@ -37,6 +37,33 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "anthell01",
+      "description": "- 螞蟻地獄密穴 1層",
+      "spawn_info": "87x / 1~2 分鐘"
+    },
+    {
+      "map_name": "anthell02",
+      "description": "- 螞蟻地獄密穴 2層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "cmd_fild08",
+      "description": "- 要塞都市 山特樂曼(東邊)",
+      "spawn_info": "37x / 5 秒"
+    },
+    {
+      "map_name": "cmd_fild09",
+      "description": "- 要塞都市 山特樂曼(南邊)",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 909,

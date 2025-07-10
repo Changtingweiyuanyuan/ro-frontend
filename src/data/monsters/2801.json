@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/2801.gif",
   "basic_info": {
-    "level": 122,
+    "level": 0,
     "race": "惡魔",
     "element": {
       "type": "暗",
@@ -27,7 +27,7 @@
     "defense": 75,
     "magic_defense": 25,
     "hit_100_percent": 400,
-    "flee_95_percent": 0,
+    "flee_95_percent": 388,
     "base_stats": {
       "str": 106,
       "agi": 70,
@@ -37,54 +37,61 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "ra_san03",
+      "description": "- 拉赫 神殿聖域 3樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 587,
       "name": "紅色榴蓮",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/587.gif"
+      "icon_url": "/images/items/587.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/938.gif"
+      "icon_url": "/images/items/938.gif"
     },
     {
       "item_id": 1061,
       "name": "魔女之星沙",
       "rate": 50.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1061.gif"
+      "icon_url": "/images/items/1061.gif"
     },
     {
       "item_id": 2406,
       "name": "戰士長靴[1]",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2406.gif"
+      "icon_url": "/images/items/2406.gif"
     },
     {
       "item_id": 2426,
       "name": "陰影之靴",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2426.gif"
+      "icon_url": "/images/items/2426.gif"
     },
     {
       "item_id": 4413,
       "name": "邪惡妖精卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7340,
       "name": "黑暗的意志",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7340.gif"
+      "icon_url": "/images/items/7340.gif"
     },
     {
       "item_id": 7563,
       "name": "血色的輪",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7563.gif"
+      "icon_url": "/images/items/7563.gif"
     }
   ]
 }

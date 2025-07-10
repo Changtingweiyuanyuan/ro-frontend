@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1115.gif",
   "basic_info": {
-    "level": 65,
+    "level": 0,
     "race": "動物",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 166,
     "magic_defense": 70,
     "hit_100_percent": 362,
-    "flee_95_percent": 0,
+    "flee_95_percent": 402,
     "base_stats": {
       "str": 92,
       "agi": 80,
@@ -37,6 +37,18 @@
       "luk": 85
     }
   },
+  "spawns": [
+    {
+      "map_name": "gld_dun01_2",
+      "description": "- 斐揚-公會地下迷宮 2層",
+      "spawn_info": "1x / 480~490 分鐘"
+    },
+    {
+      "map_name": "pay_fild10",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

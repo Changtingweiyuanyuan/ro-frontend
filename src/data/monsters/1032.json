@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1032.gif",
   "basic_info": {
-    "level": 52,
+    "level": 0,
     "race": "不死",
     "element": {
       "type": "不死",
@@ -27,7 +27,7 @@
     "defense": 63,
     "magic_defense": 10,
     "hit_100_percent": 257,
-    "flee_95_percent": 0,
+    "flee_95_percent": 229,
     "base_stats": {
       "str": 51,
       "agi": 4,
@@ -37,6 +37,28 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "moc_pryd03",
+      "description": "- 金字塔 迷宮 3樓",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd05",
+      "description": "- 金字塔 迷宮 地下2樓",
+      "spawn_info": "65x / 5 秒"
+    },
+    {
+      "map_name": "moc_pryd06",
+      "description": "- 金字塔 迷宮 地下3樓",
+      "spawn_info": "35x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

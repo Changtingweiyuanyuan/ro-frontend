@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3741.gif",
   "basic_info": {
-    "level": 158,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "無",
@@ -27,7 +27,7 @@
     "defense": 394,
     "magic_defense": 123,
     "hit_100_percent": 500,
-    "flee_95_percent": 0,
+    "flee_95_percent": 577,
     "base_stats": {
       "str": 116,
       "agi": 123,
@@ -37,6 +37,13 @@
       "luk": 98
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockmi1",
+      "description": "- 洛克里奇礦山",
+      "spawn_info": "1x / 120~130 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 607,

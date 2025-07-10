@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1129.gif",
   "basic_info": {
-    "level": 66,
+    "level": 0,
     "race": "無形",
     "element": {
       "type": "火",
@@ -27,7 +27,7 @@
     "defense": 84,
     "magic_defense": 35,
     "hit_100_percent": 303,
-    "flee_95_percent": 0,
+    "flee_95_percent": 306,
     "base_stats": {
       "str": 36,
       "agi": 32,
@@ -37,6 +37,23 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "ama_dun02",
+      "description": "- 櫻花城迷宮2層 (地下森林戰場)",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "lou_dun01",
+      "description": "- 洛陽 古都王陵 1層",
+      "spawn_info": "17x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 633,
