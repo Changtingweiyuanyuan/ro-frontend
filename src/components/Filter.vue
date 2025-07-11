@@ -43,7 +43,7 @@ const raceOptions = [
 const ELEMENTS = { ALL: 'ALL', NONE: 'NONE', DARK: 'DARK', EARTH: 'EARTH', FIRE: 'FIRE', GHOST: 'GHOST', HOLY: 'HOLY', POISON: 'POISON', UNDEAD: 'UNDEAD', WATER: 'WATER', WIND: 'WIND' };
 const elementOptions = [
     { label: ELEMENTS.ALL, tooltipText: '全部' },
-    { label: ELEMENTS.NONE, tooltipText: '無' },
+    { label: ELEMENTS.NONE, imgPath: '/images/ui/element-none.png', tooltipText: '無' },
     { label: ELEMENTS.WATER, imgPath: '/images/ui/element-water.png', tooltipText: '水' },
     { label: ELEMENTS.EARTH, imgPath: '/images/ui/element-earth.png', tooltipText: '地' },
     { label: ELEMENTS.FIRE, imgPath: '/images/ui/element-fire.png', tooltipText: '火' },
@@ -96,8 +96,8 @@ const sizeOptions = [
         <FilterButton
           v-for="el in elementOptions"
           :key="el.label"
-          :text="[ELEMENTS.ALL, ELEMENTS.NONE].includes(el.label) ? el.label.toUpperCase() : undefined"
-          :img-path="![ELEMENTS.ALL, ELEMENTS.NONE].includes(el.label) ? baseUrl + el.imgPath : undefined"
+          :text="el.label === ELEMENTS.ALL ? el.label.toUpperCase() : undefined"
+          :img-path="el.label !== ELEMENTS.ALL ? baseUrl + el.imgPath : undefined"
           :tooltip-text="el.label !== ELEMENTS.ALL ? el.tooltipText : undefined"
           :is-active="activeElement === el.label"
           @click="emit('update:activeElement', el.label)"
@@ -144,7 +144,8 @@ const sizeOptions = [
         max-width: 800px;
 				margin-bottom: 4px;
         padding: 4px 8px;
-        font-size: 18px;
+        font-size: 16px;
+        line-height: 24px;
         color: #fff;
         background-color: #5A4736;
         border: 1.5px solid #B2A99F;

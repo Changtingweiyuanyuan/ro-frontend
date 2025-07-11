@@ -36,7 +36,7 @@ provide('releasedMonsters', releasedMonsters);
       <MonsterCard v-for="monster in monsters" :key="monster.id" :monster="monster" />
     </div>
     <div v-else class="no-results">
-      <p>找不到符合條件的魔物。</p>
+      <span class="no-results-text">找不到符合條件的魔物資料</span>
     </div>
   </div>
 </template>
@@ -52,9 +52,43 @@ provide('releasedMonsters', releasedMonsters);
   gap: 16px;
 }
 .no-results {
-  color: #B2A99F;
-  text-align: center;
-  font-size: 1.2rem;
-  padding: 40px;
+  height: 160px;
+  color: #e6e6e6;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  font-size: 20px;
+  font-weight: bold;
+
+  &-text {
+    position: relative;
+
+    &::after {
+      content: "NOTHING FOUND";
+      font-family: "Slackey";
+      position: absolute;
+      bottom: 38px;
+      left: 50%;
+      transform: translate(-50%, 0);
+      width: 100%;
+      font-size: 23px;
+      word-break: keep-all;
+      filter: drop-shadow(2px 2px 0px black) drop-shadow(-1px -1px 0px black);
+      //color: #000;
+      //filter: drop-shadow(2px 2px 0px #e6e6e6) drop-shadow(-1px -1px 0px #e6e6e6);
+    }
+    //&::after {
+    //	content: "";
+    //	position: absolute;
+    //	bottom: 42px;
+    //	left: 50%;
+    //	transform: translate(-50%, 0);
+    //	width: 36px;
+    //	height: 36px;
+    //	background-image: url("/twroz-drop/images/ui/not-found.png");
+    //	background-repeat: no-repeat;
+    //	background-size: contain;
+    //}
+  }
 }
 </style>

@@ -136,7 +136,7 @@ const officialDescriptionLines = computed(() => {
   <div class="monster-card-new">
     <div class="card-top">
       <div class="map-icon-container">
-        <img :src="`${baseUrl}images/ui/map1.png`" class="map-icon" />
+        <img :src="`${baseUrl}images/ui/map.png`" class="map-icon" />
         <img :src="`${baseUrl}images/ui/location.png`" class="location-icon" />
         <div class="spawn-tooltip" v-if="monster.spawns && monster.spawns.length > 0">
           <div v-for="spawn in monster.spawns" :key="spawn.map_name + spawn.description" class="tooltip-item">
@@ -402,19 +402,16 @@ const officialDescriptionLines = computed(() => {
     cursor: pointer;
 
 		&:has(+ .item-details-panel) {
-			//background-color: #dcd6b8;
-			background-color: #f9f1c5;
+			background-color: #dcd6b8;
 			border: 1px solid #5e6908;
 
 			&:hover {
-				//background-color: #dcd6b8;
-				background-color: #f9f1c5;
+				background-color: #dcd6b8;
 			}
 		}
 
     &:hover {
-      background-color: #dcd6b8;
-      //background-color: #dcd6b850;
+      background-color: #fa902020;
     }
   }
 }
