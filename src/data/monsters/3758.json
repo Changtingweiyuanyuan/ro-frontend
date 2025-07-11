@@ -4,7 +4,7 @@
     "zh_tw": "憤怒月夜貓",
     "en": "ILL_MOONLIGHT"
   },
-  "image_url": "/images/monsters/3758.gif",
+  "image_url": "images/monsters/3758.gif",
   "basic_info": {
     "level": 118,
     "race": "惡魔",
@@ -49,43 +49,43 @@
       "item_id": 638,
       "name": "純潔銀刃",
       "rate": 6.0,
-      "icon_url": "/images/items/638.gif"
+      "icon_url": "images/items/638.gif"
     },
     {
       "item_id": 1234,
       "name": "月靈短劍",
       "rate": 1.0,
-      "icon_url": "/images/items/1234.gif"
+      "icon_url": "images/items/1234.gif"
     },
     {
       "item_id": 1477,
       "name": "妖怪的槍",
       "rate": 5.0,
-      "icon_url": "/images/items/1477.gif"
+      "icon_url": "images/items/1477.gif"
     },
     {
       "item_id": 1648,
       "name": "波爾多之杖",
       "rate": 1.0,
-      "icon_url": "/images/items/1648.gif"
+      "icon_url": "images/items/1648.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 50.0,
-      "icon_url": "/images/items/6224.gif"
+      "icon_url": "images/items/6224.gif"
     },
     {
       "item_id": 25256,
       "name": "朦朧咪境碎片",
       "rate": 30.0,
-      "icon_url": "/images/items/25256.gif"
+      "icon_url": "images/items/25256.gif"
     },
     {
       "item_id": 27081,
       "name": "憤怒月夜貓卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27081.gif"
+      "icon_url": "images/items/27081.gif"
     }
   ]
 }

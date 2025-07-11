@@ -4,7 +4,7 @@
     "zh_tw": "青蛙蛋",
     "en": "Spawn"
   },
-  "icon_url": "/images/items/908.gif",
+  "icon_url": "images/items/908.gif",
   "category": "其他類",
   "description": {
     "official": "從魔物羅達蛙取下來的卯，可向收集商購買。",

@@ -4,7 +4,7 @@
     "zh_tw": "褐凡娜圖",
     "en": "VENATU_1"
   },
-  "image_url": "/images/monsters/1676.gif",
+  "image_url": "images/monsters/1676.gif",
   "basic_info": {
     "level": 113,
     "race": "無形",
@@ -64,49 +64,49 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 0.05,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 4369,
       "name": "紅凡娜圖卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6216,
       "name": "油瓶",
       "rate": 0.5,
-      "icon_url": "/images/items/6216.gif"
+      "icon_url": "images/items/6216.gif"
     },
     {
       "item_id": 7094,
       "name": "未知的碎片",
       "rate": 1.5,
-      "icon_url": "/images/items/7094.gif"
+      "icon_url": "images/items/7094.gif"
     },
     {
       "item_id": 7317,
       "name": "生鏽的螺絲",
       "rate": 10.0,
-      "icon_url": "/images/items/7317.gif"
+      "icon_url": "images/items/7317.gif"
     },
     {
       "item_id": 7356,
       "name": "頂飾的碎片",
       "rate": 1.75,
-      "icon_url": "/images/items/7356.gif"
+      "icon_url": "images/items/7356.gif"
     },
     {
       "item_id": 12127,
       "name": "高級的烹飪用具",
       "rate": 0.5,
-      "icon_url": "/images/items/12127.gif"
+      "icon_url": "images/items/12127.gif"
     },
     {
       "item_id": 13157,
       "name": "漂流者格林機槍[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/13157.gif"
+      "icon_url": "images/items/13157.gif"
     }
   ]
 }

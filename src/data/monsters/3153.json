@@ -4,7 +4,7 @@
     "zh_tw": "挖掘機器人",
     "en": "EXCAVATOR_ROBOT"
   },
-  "image_url": "/images/monsters/3153.gif",
+  "image_url": "images/monsters/3153.gif",
   "basic_info": {
     "level": 163,
     "race": "無形",
@@ -49,19 +49,19 @@
       "item_id": 984,
       "name": "神之金屬",
       "rate": 0.01,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 6962,
       "name": "老舊油桶",
       "rate": 0.01,
-      "icon_url": "/images/items/6962.gif"
+      "icon_url": "images/items/6962.gif"
     },
     {
       "item_id": 11597,
       "name": "嗜鐵蟲",
       "rate": 0.01,
-      "icon_url": "/images/items/11597.gif"
+      "icon_url": "images/items/11597.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "七彩咪魘",
     "en": "NIGHTMARE_TERROR"
   },
-  "image_url": "/images/monsters/1379.gif",
+  "image_url": "images/monsters/1379.gif",
   "basic_info": {
     "level": 107,
     "race": "惡魔",
@@ -59,49 +59,49 @@
       "item_id": 505,
       "name": "藍色藥水",
       "rate": 0.25,
-      "icon_url": "/images/items/505.gif"
+      "icon_url": "images/items/505.gif"
     },
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 0.75,
-      "icon_url": "/images/items/510.gif"
+      "icon_url": "images/items/510.gif"
     },
     {
       "item_id": 695,
       "name": "聖靈召喚 等級5",
       "rate": 0.5,
-      "icon_url": "/images/items/695.gif"
+      "icon_url": "images/items/695.gif"
     },
     {
       "item_id": 1261,
       "name": "刺殺拳刃",
       "rate": 0.01,
-      "icon_url": "/images/items/1261.gif"
+      "icon_url": "images/items/1261.gif"
     },
     {
       "item_id": 2608,
       "name": "幸運珠鍊",
       "rate": 0.15,
-      "icon_url": "/images/items/2608.gif"
+      "icon_url": "images/items/2608.gif"
     },
     {
       "item_id": 2626,
       "name": "幸運珠鍊[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2626.gif"
+      "icon_url": "images/items/2626.gif"
     },
     {
       "item_id": 4166,
       "name": "七彩咪魘卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7120,
       "name": "燃燒的馬蹄鐵",
       "rate": 12.0,
-      "icon_url": "/images/items/7120.gif"
+      "icon_url": "images/items/7120.gif"
     }
   ]
 }

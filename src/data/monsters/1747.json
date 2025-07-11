@@ -4,7 +4,7 @@
     "zh_tw": "青蛇",
     "en": "G_SNAKE"
   },
-  "image_url": "/images/monsters/1747.gif",
+  "image_url": "images/monsters/1747.gif",
   "basic_info": {
     "level": 18,
     "race": "動物",

@@ -4,7 +4,7 @@
     "zh_tw": "吉特巴",
     "en": "JITTERBUG1"
   },
-  "image_url": "/images/monsters/3108.gif",
+  "image_url": "images/monsters/3108.gif",
   "basic_info": {
     "level": 135,
     "race": "惡魔",
@@ -49,37 +49,37 @@
       "item_id": 1935,
       "name": "傳奇詩人尤克里裡[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/1935.gif"
+      "icon_url": "images/items/1935.gif"
     },
     {
       "item_id": 2988,
       "name": "傳奇詩人飛翼戒指[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/2988.gif"
+      "icon_url": "images/items/2988.gif"
     },
     {
       "item_id": 6719,
       "name": "吉特巴的牙齒",
       "rate": 50.0,
-      "icon_url": "/images/items/6719.gif"
+      "icon_url": "images/items/6719.gif"
     },
     {
       "item_id": 6719,
       "name": "吉特巴的牙齒",
       "rate": 10.0,
-      "icon_url": "/images/items/6719.gif"
+      "icon_url": "images/items/6719.gif"
     },
     {
       "item_id": 15101,
       "name": "剛硬盔甲[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/15101.gif"
+      "icon_url": "images/items/15101.gif"
     },
     {
       "item_id": 27109,
       "name": "吉特巴卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27109.gif"
+      "icon_url": "images/items/27109.gif"
     }
   ]
 }

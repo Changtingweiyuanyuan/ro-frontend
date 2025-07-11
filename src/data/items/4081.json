@@ -4,7 +4,7 @@
     "zh_tw": "蚯蚓卡片",
     "en": "Hode_Card"
   },
-  "icon_url": "/images/items/4081.gif",
+  "icon_url": "images/items/4081.gif",
   "category": "卡片",
   "description": {
     "official": "受到地屬性的傷害減少30%。FLEE+5",

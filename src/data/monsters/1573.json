@@ -4,7 +4,7 @@
     "zh_tw": "邪靈魔導士",
     "en": "G_ELDER"
   },
-  "image_url": "/images/monsters/1573.gif",
+  "image_url": "images/monsters/1573.gif",
   "basic_info": {
     "level": 92,
     "race": "人形",

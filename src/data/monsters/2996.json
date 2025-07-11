@@ -4,7 +4,7 @@
     "zh_tw": "席琳基米",
     "en": "XM_CELINE_KIMI"
   },
-  "image_url": "/images/monsters/2996.gif",
+  "image_url": "images/monsters/2996.gif",
   "basic_info": {
     "level": 160,
     "race": "不死",
@@ -49,43 +49,43 @@
       "item_id": 712,
       "name": "花",
       "rate": 100.0,
-      "icon_url": "/images/items/712.gif"
+      "icon_url": "images/items/712.gif"
     },
     {
       "item_id": 7640,
       "name": "蝴蝶發簪",
       "rate": 40.0,
-      "icon_url": "/images/items/7640.gif"
+      "icon_url": "images/items/7640.gif"
     },
     {
       "item_id": 7642,
       "name": "沾血硬幣",
       "rate": 40.0,
-      "icon_url": "/images/items/7642.gif"
+      "icon_url": "images/items/7642.gif"
     },
     {
       "item_id": 13442,
       "name": "老舊陽傘[3]",
       "rate": 1.0,
-      "icon_url": "/images/items/13442.gif"
+      "icon_url": "images/items/13442.gif"
     },
     {
       "item_id": 19701,
       "name": "(時裝)紅色無邊軟帽",
       "rate": 1.0,
-      "icon_url": "/images/items/19701.gif"
+      "icon_url": "images/items/19701.gif"
     },
     {
       "item_id": 22534,
       "name": "心門緊閉箱",
       "rate": 40.0,
-      "icon_url": "/images/items/22534.gif"
+      "icon_url": "images/items/22534.gif"
     },
     {
       "item_id": 31023,
       "name": "席琳基米卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/31023.gif"
+      "icon_url": "images/items/31023.gif"
     }
   ]
 }

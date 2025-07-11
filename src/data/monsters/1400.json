@@ -4,7 +4,7 @@
     "zh_tw": "傘妖",
     "en": "KARAKASA"
   },
-  "image_url": "/images/monsters/1400.gif",
+  "image_url": "images/monsters/1400.gif",
   "basic_info": {
     "level": 72,
     "race": "無形",
@@ -54,49 +54,49 @@
       "item_id": 746,
       "name": "玻璃珠",
       "rate": 0.15,
-      "icon_url": "/images/items/746.gif"
+      "icon_url": "images/items/746.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 20.37,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 1019,
       "name": "瑪哪樹枝",
       "rate": 16.0,
-      "icon_url": "/images/items/1019.gif"
+      "icon_url": "images/items/1019.gif"
     },
     {
       "item_id": 4286,
       "name": "傘妖卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7111,
       "name": "光滑的紙",
       "rate": 11.0,
-      "icon_url": "/images/items/7111.gif"
+      "icon_url": "images/items/7111.gif"
     },
     {
       "item_id": 7150,
       "name": "竹筒",
       "rate": 21.34,
-      "icon_url": "/images/items/7150.gif"
+      "icon_url": "images/items/7150.gif"
     },
     {
       "item_id": 7151,
       "name": "油紙",
       "rate": 25.0,
-      "icon_url": "/images/items/7151.gif"
+      "icon_url": "images/items/7151.gif"
     },
     {
       "item_id": 13012,
       "name": "流水劍[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/13012.gif"
+      "icon_url": "images/items/13012.gif"
     }
   ]
 }

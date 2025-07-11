@@ -4,7 +4,7 @@
     "zh_tw": "古代邪惡摩艾",
     "en": "ILL_MEGALITH"
   },
-  "image_url": "/images/monsters/20272.gif",
+  "image_url": "images/monsters/20272.gif",
   "basic_info": {
     "level": 166,
     "race": "無形",
@@ -49,43 +49,43 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 1.04,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 15.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 0.31,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 7049,
       "name": "石頭",
       "rate": 7.0,
-      "icon_url": "/images/items/7049.gif"
+      "icon_url": "images/items/7049.gif"
     },
     {
       "item_id": 25638,
       "name": "巨石徽章",
       "rate": 2.5,
-      "icon_url": "/images/items/25638.gif"
+      "icon_url": "images/items/25638.gif"
     },
     {
       "item_id": 25640,
       "name": "花盆石塊",
       "rate": 10.0,
-      "icon_url": "/images/items/25640.gif"
+      "icon_url": "images/items/25640.gif"
     },
     {
       "item_id": 27293,
       "name": "古代邪惡摩艾卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27293.gif"
+      "icon_url": "images/items/27293.gif"
     }
   ]
 }

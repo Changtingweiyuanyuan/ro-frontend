@@ -4,7 +4,7 @@
     "zh_tw": "鋁制圓盾",
     "en": "Round_Buckler"
   },
-  "icon_url": "/images/items/2147.gif",
+  "icon_url": "images/items/2147.gif",
   "category": "防具",
   "description": {
     "official": "普遍廣泛被使用的圓形盾牌，外框上使用鋁以加強防禦力。",

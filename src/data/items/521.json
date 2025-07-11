@@ -4,7 +4,7 @@
     "zh_tw": "蘆薈葉子",
     "en": "Leaflet_Of_Aloe"
   },
-  "icon_url": "/images/items/521.gif",
+  "icon_url": "images/items/521.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "將蘆薈的葉子剪下收集在一起，可恢復定量的HP。",

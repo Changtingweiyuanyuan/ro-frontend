@@ -4,7 +4,7 @@
     "zh_tw": "雨水波利",
     "en": "POURING"
   },
-  "image_url": "/images/monsters/1894.gif",
+  "image_url": "images/monsters/1894.gif",
   "basic_info": {
     "level": 15,
     "race": "植物",
@@ -49,49 +49,49 @@
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     },
     {
       "item_id": 6451,
       "name": "未知_魚類",
       "rate": 50.0,
-      "icon_url": "/images/items/6451.gif"
+      "icon_url": "images/items/6451.gif"
     }
   ]
 }

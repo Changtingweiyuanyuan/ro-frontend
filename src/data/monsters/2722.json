@@ -4,7 +4,7 @@
     "zh_tw": "精英聖誕獸人戰士 / 憤怒獸人戰士",
     "en": "C4_ORK_WARRIOR"
   },
-  "image_url": "/images/monsters/2722.gif",
+  "image_url": "images/monsters/2722.gif",
   "basic_info": {
     "level": 44,
     "race": "人形",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 1.0,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 931,
       "name": "獸人戰士之證",
       "rate": 100.0,
-      "icon_url": "/images/items/931.gif"
+      "icon_url": "images/items/931.gif"
     },
     {
       "item_id": 1304,
       "name": "獸人斧",
       "rate": 0.15,
-      "icon_url": "/images/items/1304.gif"
+      "icon_url": "images/items/1304.gif"
     },
     {
       "item_id": 1352,
       "name": "巨斧[4]",
       "rate": 0.25,
-      "icon_url": "/images/items/1352.gif"
+      "icon_url": "images/items/1352.gif"
     },
     {
       "item_id": 2147,
       "name": "鋁制圓盾[1]",
       "rate": 0.1,
-      "icon_url": "/images/items/2147.gif"
+      "icon_url": "images/items/2147.gif"
     },
     {
       "item_id": 2267,
       "name": "香煙",
       "rate": 0.1,
-      "icon_url": "/images/items/2267.gif"
+      "icon_url": "images/items/2267.gif"
     },
     {
       "item_id": 4066,
       "name": "獸人戰士卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "鉤藤",
     "en": "RHYNCHO"
   },
-  "image_url": "/images/monsters/2020.gif",
+  "image_url": "images/monsters/2020.gif",
   "basic_info": {
     "level": 139,
     "race": "無形",
@@ -54,25 +54,25 @@
       "item_id": 972,
       "name": "卡勒波迪藥水",
       "rate": 0.03,
-      "icon_url": "/images/items/972.gif"
+      "icon_url": "images/items/972.gif"
     },
     {
       "item_id": 4460,
       "name": "靈克卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6087,
       "name": "藍色精靈結晶",
       "rate": 2.5,
-      "icon_url": "/images/items/6087.gif"
+      "icon_url": "images/items/6087.gif"
     },
     {
       "item_id": 7326,
       "name": "熒光色的液體",
       "rate": 25.0,
-      "icon_url": "/images/items/7326.gif"
+      "icon_url": "images/items/7326.gif"
     }
   ]
 }

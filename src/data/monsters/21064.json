@@ -4,7 +4,7 @@
     "zh_tw": "測試用魔物",
     "en": "小"
   },
-  "image_url": "/images/monsters/21064.gif",
+  "image_url": "images/monsters/21064.gif",
   "basic_info": {
     "level": 100,
     "race": "無形",

@@ -4,7 +4,7 @@
     "zh_tw": "多洛裡安",
     "en": "DOLORIAN"
   },
-  "image_url": "/images/monsters/20930.gif",
+  "image_url": "images/monsters/20930.gif",
   "basic_info": {
     "level": 214,
     "race": "人形",
@@ -49,49 +49,49 @@
       "item_id": 1050,
       "name": "血管",
       "rate": 20.0,
-      "icon_url": "/images/items/1050.gif"
+      "icon_url": "images/items/1050.gif"
     },
     {
       "item_id": 7012,
       "name": "強韌鱗梗",
       "rate": 25.0,
-      "icon_url": "/images/items/7012.gif"
+      "icon_url": "images/items/7012.gif"
     },
     {
       "item_id": 7565,
       "name": "黏黏的毒液",
       "rate": 20.0,
-      "icon_url": "/images/items/7565.gif"
+      "icon_url": "images/items/7565.gif"
     },
     {
       "item_id": 25728,
       "name": "影子神祕原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25728.gif"
+      "icon_url": "images/items/25728.gif"
     },
     {
       "item_id": 25729,
       "name": "影子神祕金屬",
       "rate": 0.12,
-      "icon_url": "/images/items/25729.gif"
+      "icon_url": "images/items/25729.gif"
     },
     {
       "item_id": 25730,
       "name": "鍺金原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25730.gif"
+      "icon_url": "images/items/25730.gif"
     },
     {
       "item_id": 25731,
       "name": "鍺金石",
       "rate": 0.12,
-      "icon_url": "/images/items/25731.gif"
+      "icon_url": "images/items/25731.gif"
     },
     {
       "item_id": 300250,
       "name": "Dolorian Card",
       "rate": 0.01,
-      "icon_url": "/images/items/300250.gif"
+      "icon_url": "images/items/300250.gif"
     }
   ]
 }

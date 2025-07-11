@@ -4,7 +4,7 @@
     "zh_tw": "恢復藤蔓",
     "en": "G_ENTWEIHEN_H"
   },
-  "image_url": "/images/monsters/1959.gif",
+  "image_url": "images/monsters/1959.gif",
   "basic_info": {
     "level": 89,
     "race": "惡魔",

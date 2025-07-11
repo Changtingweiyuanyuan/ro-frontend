@@ -4,7 +4,7 @@
     "zh_tw": "龍的影子 / 飛龍",
     "en": "E1_G_S_NYDHOG"
   },
-  "image_url": "/images/monsters/3180.gif",
+  "image_url": "images/monsters/3180.gif",
   "basic_info": {
     "level": 117,
     "race": "龍",
@@ -49,31 +49,31 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 0.1,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 6091,
       "name": "紅鱗碎片",
       "rate": 5.0,
-      "icon_url": "/images/items/6091.gif"
+      "icon_url": "images/items/6091.gif"
     },
     {
       "item_id": 7444,
       "name": "財寶箱",
       "rate": 0.01,
-      "icon_url": "/images/items/7444.gif"
+      "icon_url": "images/items/7444.gif"
     },
     {
       "item_id": 15116,
       "name": "飛空艇盔甲",
       "rate": 0.5,
-      "icon_url": "/images/items/15116.gif"
+      "icon_url": "images/items/15116.gif"
     },
     {
       "item_id": 27181,
       "name": "飛空艇襲擊隊卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27181.gif"
+      "icon_url": "images/items/27181.gif"
     }
   ]
 }

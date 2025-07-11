@@ -4,7 +4,7 @@
     "zh_tw": "瓦爾基裡 / 巴基力 蘭特克力斯",
     "en": "G_RANDGRIS"
   },
-  "image_url": "/images/monsters/1765.gif",
+  "image_url": "images/monsters/1765.gif",
   "basic_info": {
     "level": 141,
     "race": "天使",
@@ -54,19 +54,19 @@
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.2,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 2115,
       "name": "瓦爾基裡亞鋼盾[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/2115.gif"
+      "icon_url": "images/items/2115.gif"
     },
     {
       "item_id": 7510,
       "name": "巴哈拉的花",
       "rate": 0.8,
-      "icon_url": "/images/items/7510.gif"
+      "icon_url": "images/items/7510.gif"
     }
   ]
 }

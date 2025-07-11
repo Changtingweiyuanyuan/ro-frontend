@@ -4,7 +4,7 @@
     "zh_tw": "瓢蟲",
     "en": "STAINER"
   },
-  "image_url": "/images/monsters/1174.gif",
+  "image_url": "images/monsters/1174.gif",
   "basic_info": {
     "level": 21,
     "race": "昆蟲",
@@ -69,49 +69,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.13,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 910,
       "name": "加勒結晶",
       "rate": 10.5,
-      "icon_url": "/images/items/910.gif"
+      "icon_url": "images/items/910.gif"
     },
     {
       "item_id": 992,
       "name": "風靈礦石",
       "rate": 0.35,
-      "icon_url": "/images/items/992.gif"
+      "icon_url": "images/items/992.gif"
     },
     {
       "item_id": 1002,
       "name": "鐵礦石",
       "rate": 1.5,
-      "icon_url": "/images/items/1002.gif"
+      "icon_url": "images/items/1002.gif"
     },
     {
       "item_id": 1011,
       "name": "強化武器金屬-級數二",
       "rate": 0.15,
-      "icon_url": "/images/items/1011.gif"
+      "icon_url": "images/items/1011.gif"
     },
     {
       "item_id": 1013,
       "name": "彩色昆蟲外殼",
       "rate": 45.0,
-      "icon_url": "/images/items/1013.gif"
+      "icon_url": "images/items/1013.gif"
     },
     {
       "item_id": 4039,
       "name": "瓢蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

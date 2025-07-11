@@ -4,7 +4,7 @@
     "zh_tw": "火焰禿鷹",
     "en": "FIRE_CONDOR"
   },
-  "image_url": "/images/monsters/3020.gif",
+  "image_url": "images/monsters/3020.gif",
   "basic_info": {
     "level": 141,
     "race": "動物",
@@ -49,13 +49,13 @@
       "item_id": 6691,
       "name": "火焰羽毛",
       "rate": 20.0,
-      "icon_url": "/images/items/6691.gif"
+      "icon_url": "images/items/6691.gif"
     },
     {
       "item_id": 27026,
       "name": "Fire Condor Card",
       "rate": 0.01,
-      "icon_url": "/images/items/27026.gif"
+      "icon_url": "images/items/27026.gif"
     }
   ]
 }

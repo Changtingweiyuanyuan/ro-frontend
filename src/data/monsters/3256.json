@@ -4,7 +4,7 @@
     "zh_tw": "惡臭腐屍",
     "en": "ZOMBIE_H"
   },
-  "image_url": "/images/monsters/3256.gif",
+  "image_url": "images/monsters/3256.gif",
   "basic_info": {
     "level": 148,
     "race": "無形",

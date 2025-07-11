@@ -4,7 +4,7 @@
     "zh_tw": "武術宗師 陳理歐",
     "en": "G_CHEN"
   },
-  "image_url": "/images/monsters/2231.gif",
+  "image_url": "images/monsters/2231.gif",
   "basic_info": {
     "level": 160,
     "race": "人形",
@@ -49,13 +49,13 @@
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.1,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 6223,
       "name": "混沌金屬",
       "rate": 1.0,
-      "icon_url": "/images/items/6223.gif"
+      "icon_url": "images/items/6223.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "巨斧",
     "en": "Battle_Axe_"
   },
-  "icon_url": "/images/items/1352.gif",
+  "icon_url": "images/items/1352.gif",
   "category": "武器",
   "description": {
     "official": "多人戰鬥時所使用的雙手斧。",

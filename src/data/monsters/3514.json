@@ -4,7 +4,7 @@
     "zh_tw": "大神官 / 憤怒的大神官",
     "en": "POPE_MD_E_BISHOP"
   },
-  "image_url": "/images/monsters/3514.gif",
+  "image_url": "images/monsters/3514.gif",
   "basic_info": {
     "level": 87,
     "race": "人形",
@@ -54,37 +54,37 @@
       "item_id": 504,
       "name": "白色藥水",
       "rate": 10.0,
-      "icon_url": "/images/items/504.gif"
+      "icon_url": "images/items/504.gif"
     },
     {
       "item_id": 7561,
       "name": "冰塊心臟",
       "rate": 10.0,
-      "icon_url": "/images/items/7561.gif"
+      "icon_url": "images/items/7561.gif"
     },
     {
       "item_id": 11565,
       "name": "白色藥水",
       "rate": 5.0,
-      "icon_url": "/images/items/11565.gif"
+      "icon_url": "images/items/11565.gif"
     },
     {
       "item_id": 22542,
       "name": "[非賣品]集中藥水",
       "rate": 1.0,
-      "icon_url": "/images/items/22542.gif"
+      "icon_url": "images/items/22542.gif"
     },
     {
       "item_id": 25088,
       "name": "咪之碎片",
       "rate": 100.0,
-      "icon_url": "/images/items/25088.gif"
+      "icon_url": "images/items/25088.gif"
     },
     {
       "item_id": 28387,
       "name": "神官的項鍊",
       "rate": 1.0,
-      "icon_url": "/images/items/28387.gif"
+      "icon_url": "images/items/28387.gif"
     }
   ]
 }

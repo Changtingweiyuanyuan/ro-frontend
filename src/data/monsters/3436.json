@@ -4,7 +4,7 @@
     "zh_tw": "大腳熊",
     "en": "MIN_G_BIGFOOT"
   },
-  "image_url": "/images/monsters/3436.gif",
+  "image_url": "images/monsters/3436.gif",
   "basic_info": {
     "level": 100,
     "race": "動物",

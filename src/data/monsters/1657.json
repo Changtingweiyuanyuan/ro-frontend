@@ -4,7 +4,7 @@
     "zh_tw": "暗●魔法師",
     "en": "RAWREL"
   },
-  "image_url": "/images/monsters/1657.gif",
+  "image_url": "images/monsters/1657.gif",
   "basic_info": {
     "level": 133,
     "race": "人形",
@@ -64,49 +64,49 @@
       "item_id": 1616,
       "name": "羽翼之杖",
       "rate": 0.01,
-      "icon_url": "/images/items/1616.gif"
+      "icon_url": "images/items/1616.gif"
     },
     {
       "item_id": 2333,
       "name": "祕銀之衣[1]",
       "rate": 0.15,
-      "icon_url": "/images/items/2333.gif"
+      "icon_url": "images/items/2333.gif"
     },
     {
       "item_id": 2607,
       "name": "發夾[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2607.gif"
+      "icon_url": "images/items/2607.gif"
     },
     {
       "item_id": 4350,
       "name": "暗●魔法師卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6471,
       "name": "亡者的寒氣",
       "rate": 0.01,
-      "icon_url": "/images/items/6471.gif"
+      "icon_url": "images/items/6471.gif"
     },
     {
       "item_id": 7347,
       "name": "研究員紀錄表",
       "rate": 1.0,
-      "icon_url": "/images/items/7347.gif"
+      "icon_url": "images/items/7347.gif"
     },
     {
       "item_id": 25127,
       "name": "寂靜的能量碎片",
       "rate": 10.0,
-      "icon_url": "/images/items/25127.gif"
+      "icon_url": "images/items/25127.gif"
     },
     {
       "item_id": 25128,
       "name": "微弱的能量碎片",
       "rate": 2.5,
-      "icon_url": "/images/items/25128.gif"
+      "icon_url": "images/items/25128.gif"
     }
   ]
 }

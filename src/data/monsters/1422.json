@@ -4,7 +4,7 @@
     "zh_tw": "赤蒼蠅",
     "en": "G_HUNTER_FLY"
   },
-  "image_url": "/images/monsters/1422.gif",
+  "image_url": "images/monsters/1422.gif",
   "basic_info": {
     "level": 63,
     "race": "昆蟲",

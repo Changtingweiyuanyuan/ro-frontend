@@ -4,7 +4,7 @@
     "zh_tw": "石炮火樹",
     "en": "STONE_SHOOTER"
   },
-  "image_url": "/images/monsters/1495.gif",
+  "image_url": "images/monsters/1495.gif",
   "basic_info": {
     "level": 64,
     "race": "植物",
@@ -69,43 +69,43 @@
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 0.5,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 1019,
       "name": "瑪哪樹枝",
       "rate": 10.0,
-      "icon_url": "/images/items/1019.gif"
+      "icon_url": "images/items/1019.gif"
     },
     {
       "item_id": 4225,
       "name": "石炮火樹卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7049,
       "name": "石頭",
       "rate": 5.0,
-      "icon_url": "/images/items/7049.gif"
+      "icon_url": "images/items/7049.gif"
     },
     {
       "item_id": 7188,
       "name": "褐色樹根",
       "rate": 5.0,
-      "icon_url": "/images/items/7188.gif"
+      "icon_url": "images/items/7188.gif"
     },
     {
       "item_id": 7201,
       "name": "木塊",
       "rate": 25.0,
-      "icon_url": "/images/items/7201.gif"
+      "icon_url": "images/items/7201.gif"
     },
     {
       "item_id": 7203,
       "name": "堅硬樹枝",
       "rate": 25.0,
-      "icon_url": "/images/items/7203.gif"
+      "icon_url": "images/items/7203.gif"
     }
   ]
 }

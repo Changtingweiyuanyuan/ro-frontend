@@ -4,7 +4,7 @@
     "zh_tw": "元素使 狄瓦伊",
     "en": "GEFFEN_MAGE_12"
   },
-  "image_url": "/images/monsters/2562.gif",
+  "image_url": "images/monsters/2562.gif",
   "basic_info": {
     "level": 160,
     "race": "人形",
@@ -49,7 +49,7 @@
       "item_id": 27262,
       "name": "狄瓦伊卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27262.gif"
+      "icon_url": "images/items/27262.gif"
     }
   ]
 }

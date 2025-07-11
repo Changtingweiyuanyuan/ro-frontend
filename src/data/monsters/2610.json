@@ -4,7 +4,7 @@
     "zh_tw": "精英森靈 / 菁英森靈",
     "en": "C3_WORM_TAIL"
   },
-  "image_url": "/images/monsters/2610.gif",
+  "image_url": "images/monsters/2610.gif",
   "basic_info": {
     "level": 17,
     "race": "植物",
@@ -49,49 +49,49 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 1.75,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 906,
       "name": "鱗片梗",
       "rate": 100.0,
-      "icon_url": "/images/items/906.gif"
+      "icon_url": "images/items/906.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 1.5,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 1011,
       "name": "強化武器金屬-級數二",
       "rate": 0.65,
-      "icon_url": "/images/items/1011.gif"
+      "icon_url": "images/items/1011.gif"
     },
     {
       "item_id": 1408,
       "name": "步兵長矛[4]",
       "rate": 0.75,
-      "icon_url": "/images/items/1408.gif"
+      "icon_url": "images/items/1408.gif"
     },
     {
       "item_id": 4034,
       "name": "森靈卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 10015,
       "name": "寵物圍兜兜",
       "rate": 2.5,
-      "icon_url": "/images/items/10015.gif"
+      "icon_url": "images/items/10015.gif"
     }
   ]
 }

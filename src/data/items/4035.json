@@ -4,7 +4,7 @@
     "zh_tw": "海葵卡片",
     "en": "Hydra_Card"
   },
-  "icon_url": "/images/items/4035.gif",
+  "icon_url": "images/items/4035.gif",
   "category": "卡片",
   "description": {
     "official": "對人型系魔物增加20%的傷害。",

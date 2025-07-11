@@ -4,7 +4,7 @@
     "zh_tw": "蠍子",
     "en": "MIN_SCORPION"
   },
-  "image_url": "/images/monsters/3406.gif",
+  "image_url": "images/monsters/3406.gif",
   "basic_info": {
     "level": 105,
     "race": "昆蟲",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 625,
       "name": "鏽鐵",
       "rate": 0.1,
-      "icon_url": "/images/items/625.gif"
+      "icon_url": "images/items/625.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.29,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 904,
       "name": "蠍子尾巴",
       "rate": 27.5,
-      "icon_url": "/images/items/904.gif"
+      "icon_url": "images/items/904.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 1.05,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 990,
       "name": "火靈礦石",
       "rate": 0.35,
-      "icon_url": "/images/items/990.gif"
+      "icon_url": "images/items/990.gif"
     },
     {
       "item_id": 4068,
       "name": "蠍子卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7041,
       "name": "黃晶沙的一角",
       "rate": 5.0,
-      "icon_url": "/images/items/7041.gif"
+      "icon_url": "images/items/7041.gif"
     }
   ]
 }

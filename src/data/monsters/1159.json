@@ -4,7 +4,7 @@
     "zh_tw": "皮裡恩",
     "en": "PHREEONI"
   },
-  "image_url": "/images/monsters/1159.gif",
+  "image_url": "images/monsters/1159.gif",
   "basic_info": {
     "level": 71,
     "race": "動物",
@@ -54,49 +54,49 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 14.5,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1014,
       "name": "螞蟻下巴",
       "rate": 25.0,
-      "icon_url": "/images/items/1014.gif"
+      "icon_url": "images/items/1014.gif"
     },
     {
       "item_id": 1015,
       "name": "細長舌頭",
       "rate": 48.5,
-      "icon_url": "/images/items/1015.gif"
+      "icon_url": "images/items/1015.gif"
     },
     {
       "item_id": 1223,
       "name": "幸運短劍",
       "rate": 2.5,
-      "icon_url": "/images/items/1223.gif"
+      "icon_url": "images/items/1223.gif"
     },
     {
       "item_id": 1236,
       "name": "砂塵短劍",
       "rate": 0.75,
-      "icon_url": "/images/items/1236.gif"
+      "icon_url": "images/items/1236.gif"
     },
     {
       "item_id": 2288,
       "name": "整人面具",
       "rate": 1.5,
-      "icon_url": "/images/items/2288.gif"
+      "icon_url": "images/items/2288.gif"
     },
     {
       "item_id": 4121,
       "name": "皮裡恩卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 13047,
       "name": "威娜短劍[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/13047.gif"
+      "icon_url": "images/items/13047.gif"
     }
   ]
 }

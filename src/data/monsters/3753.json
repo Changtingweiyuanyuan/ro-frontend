@@ -4,7 +4,7 @@
     "zh_tw": "活死人",
     "en": "ILL_GHOUL"
   },
-  "image_url": "/images/monsters/3753.gif",
+  "image_url": "images/monsters/3753.gif",
   "basic_info": {
     "level": 136,
     "race": "不死",
@@ -49,49 +49,49 @@
       "item_id": 1260,
       "name": "骸靈拳刃",
       "rate": 0.1,
-      "icon_url": "/images/items/1260.gif"
+      "icon_url": "images/items/1260.gif"
     },
     {
       "item_id": 2609,
       "name": "骷髏戒指",
       "rate": 0.05,
-      "icon_url": "/images/items/2609.gif"
+      "icon_url": "images/items/2609.gif"
     },
     {
       "item_id": 2715,
       "name": "骷髏戒指[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2715.gif"
+      "icon_url": "images/items/2715.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 1.0,
-      "icon_url": "/images/items/6224.gif"
+      "icon_url": "images/items/6224.gif"
     },
     {
       "item_id": 7936,
       "name": "毒草賽莨菪",
       "rate": 0.3,
-      "icon_url": "/images/items/7936.gif"
+      "icon_url": "images/items/7936.gif"
     },
     {
       "item_id": 25266,
       "name": "乾燥天地樹葉",
       "rate": 20.0,
-      "icon_url": "/images/items/25266.gif"
+      "icon_url": "images/items/25266.gif"
     },
     {
       "item_id": 25267,
       "name": "可疑的魔法陣",
       "rate": 4.0,
-      "icon_url": "/images/items/25267.gif"
+      "icon_url": "images/items/25267.gif"
     },
     {
       "item_id": 27103,
       "name": "活死人卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27103.gif"
+      "icon_url": "images/items/27103.gif"
     }
   ]
 }

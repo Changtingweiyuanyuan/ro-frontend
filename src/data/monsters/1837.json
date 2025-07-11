@@ -4,7 +4,7 @@
     "zh_tw": "熔岩魔 / 炙焰魔",
     "en": "IMP"
   },
-  "image_url": "/images/monsters/1837.gif",
+  "image_url": "images/monsters/1837.gif",
   "basic_info": {
     "level": 129,
     "race": "惡魔",
@@ -54,49 +54,49 @@
       "item_id": 1376,
       "name": "碎心斧[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/1376.gif"
+      "icon_url": "images/items/1376.gif"
     },
     {
       "item_id": 1972,
       "name": "電鰻[2]",
       "rate": 0.13,
-      "icon_url": "/images/items/1972.gif"
+      "icon_url": "images/items/1972.gif"
     },
     {
       "item_id": 4433,
       "name": "熔岩魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6223,
       "name": "混沌金屬",
       "rate": 0.01,
-      "icon_url": "/images/items/6223.gif"
+      "icon_url": "images/items/6223.gif"
     },
     {
       "item_id": 7098,
       "name": "火種",
       "rate": 12.5,
-      "icon_url": "/images/items/7098.gif"
+      "icon_url": "images/items/7098.gif"
     },
     {
       "item_id": 7122,
       "name": "炙熱的毛",
       "rate": 15.0,
-      "icon_url": "/images/items/7122.gif"
+      "icon_url": "images/items/7122.gif"
     },
     {
       "item_id": 12374,
       "name": "火焰冰",
       "rate": 0.01,
-      "icon_url": "/images/items/12374.gif"
+      "icon_url": "images/items/12374.gif"
     },
     {
       "item_id": 13303,
       "name": "風魔熱火飛鏢",
       "rate": 0.5,
-      "icon_url": "/images/items/13303.gif"
+      "icon_url": "images/items/13303.gif"
     }
   ]
 }

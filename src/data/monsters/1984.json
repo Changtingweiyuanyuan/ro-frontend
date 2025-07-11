@@ -4,7 +4,7 @@
     "zh_tw": "獸人薩滿",
     "en": "I_ORC_LADY"
   },
-  "image_url": "/images/monsters/1984.gif",
+  "image_url": "images/monsters/1984.gif",
   "basic_info": {
     "level": 80,
     "race": "人形",

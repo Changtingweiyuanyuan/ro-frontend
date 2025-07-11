@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 狡猾 惡魔嬰兒",
     "en": "C5_TIYANAK"
   },
-  "image_url": "/images/monsters/2631.gif",
+  "image_url": "images/monsters/2631.gif",
   "basic_info": {
     "level": 105,
     "race": "惡魔",
@@ -49,19 +49,19 @@
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 50.0,
-      "icon_url": "/images/items/938.gif"
+      "icon_url": "images/items/938.gif"
     },
     {
       "item_id": 6508,
       "name": "銀手鍊",
       "rate": 75.0,
-      "icon_url": "/images/items/6508.gif"
+      "icon_url": "images/items/6508.gif"
     },
     {
       "item_id": 6509,
       "name": "神奇的花",
       "rate": 50.0,
-      "icon_url": "/images/items/6509.gif"
+      "icon_url": "images/items/6509.gif"
     }
   ]
 }

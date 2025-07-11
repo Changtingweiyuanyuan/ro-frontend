@@ -4,7 +4,7 @@
     "zh_tw": "精英恆量魔 / 憤怒恆量魔",
     "en": "C4_CONSTANT"
   },
-  "image_url": "/images/monsters/2866.gif",
+  "image_url": "images/monsters/2866.gif",
   "basic_info": {
     "level": 108,
     "race": "無形",
@@ -49,31 +49,31 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.25,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 0.25,
-      "icon_url": "/images/items/999.gif"
+      "icon_url": "images/items/999.gif"
     },
     {
       "item_id": 7325,
       "name": "軟管",
       "rate": 0.25,
-      "icon_url": "/images/items/7325.gif"
+      "icon_url": "images/items/7325.gif"
     },
     {
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 37.5,
-      "icon_url": "/images/items/7507.gif"
+      "icon_url": "images/items/7507.gif"
     },
     {
       "item_id": 7512,
       "name": "燒焦的部品碎片",
       "rate": 2.5,
-      "icon_url": "/images/items/7512.gif"
+      "icon_url": "images/items/7512.gif"
     }
   ]
 }

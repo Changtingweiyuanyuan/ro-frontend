@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 迅捷 潘貝勒克",
     "en": "C1_VANBERK"
   },
-  "image_url": "/images/monsters/2627.gif",
+  "image_url": "images/monsters/2627.gif",
   "basic_info": {
     "level": 123,
     "race": "人形",
@@ -49,49 +49,49 @@
       "item_id": 526,
       "name": "蜂膠",
       "rate": 0.25,
-      "icon_url": "/images/items/526.gif"
+      "icon_url": "images/items/526.gif"
     },
     {
       "item_id": 2883,
       "name": "烏魯茲符文印記[1]",
       "rate": 0.25,
-      "icon_url": "/images/items/2883.gif"
+      "icon_url": "images/items/2883.gif"
     },
     {
       "item_id": 4411,
       "name": "凡貝爾克卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5172,
       "name": "貝雷帽",
       "rate": 0.65,
-      "icon_url": "/images/items/5172.gif"
+      "icon_url": "images/items/5172.gif"
     },
     {
       "item_id": 7563,
       "name": "血色的輪",
       "rate": 25.0,
-      "icon_url": "/images/items/7563.gif"
+      "icon_url": "images/items/7563.gif"
     },
     {
       "item_id": 7563,
       "name": "血色的輪",
       "rate": 2.5,
-      "icon_url": "/images/items/7563.gif"
+      "icon_url": "images/items/7563.gif"
     },
     {
       "item_id": 7568,
       "name": "白色面具",
       "rate": 62.5,
-      "icon_url": "/images/items/7568.gif"
+      "icon_url": "images/items/7568.gif"
     },
     {
       "item_id": 13027,
       "name": "手術刀[3]",
       "rate": 0.15,
-      "icon_url": "/images/items/13027.gif"
+      "icon_url": "images/items/13027.gif"
     }
   ]
 }

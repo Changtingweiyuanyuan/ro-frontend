@@ -4,7 +4,7 @@
     "zh_tw": "絲質外袍",
     "en": "Silk_Robe_"
   },
-  "icon_url": "/images/items/2322.gif",
+  "icon_url": "images/items/2322.gif",
   "category": "防具",
   "description": {
     "official": "用高級的布料製成的衣服，具有卓越的魔法防禦力。MDEF+10",

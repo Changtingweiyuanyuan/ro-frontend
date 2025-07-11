@@ -4,7 +4,7 @@
     "zh_tw": "七彩大嘴鳥",
     "en": "GRAND_PECO"
   },
-  "image_url": "/images/monsters/1369.gif",
+  "image_url": "images/monsters/1369.gif",
   "basic_info": {
     "level": 75,
     "race": "動物",
@@ -69,37 +69,37 @@
       "item_id": 522,
       "name": "瑪絲黛拉果實",
       "rate": 1.5,
-      "icon_url": "/images/items/522.gif"
+      "icon_url": "images/items/522.gif"
     },
     {
       "item_id": 582,
       "name": "橙子",
       "rate": 2.5,
-      "icon_url": "/images/items/582.gif"
+      "icon_url": "images/items/582.gif"
     },
     {
       "item_id": 969,
       "name": "黃金",
       "rate": 0.01,
-      "icon_url": "/images/items/969.gif"
+      "icon_url": "images/items/969.gif"
     },
     {
       "item_id": 992,
       "name": "風靈礦石",
       "rate": 5.0,
-      "icon_url": "/images/items/992.gif"
+      "icon_url": "images/items/992.gif"
     },
     {
       "item_id": 4161,
       "name": "七彩大嘴鳥卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7101,
       "name": "七彩大嘴鳥之羽",
       "rate": 24.25,
-      "icon_url": "/images/items/7101.gif"
+      "icon_url": "images/items/7101.gif"
     }
   ]
 }

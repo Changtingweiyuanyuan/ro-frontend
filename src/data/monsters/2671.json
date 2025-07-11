@@ -4,7 +4,7 @@
     "zh_tw": "精英小野豬 / 迅捷小野豬",
     "en": "C1_SAVAGE_BABE"
   },
-  "image_url": "/images/monsters/2671.gif",
+  "image_url": "images/monsters/2671.gif",
   "basic_info": {
     "level": 14,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 517,
       "name": "肉",
       "rate": 12.5,
-      "icon_url": "/images/items/517.gif"
+      "icon_url": "images/items/517.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 627,
       "name": "魔物牛奶",
       "rate": 1.0,
-      "icon_url": "/images/items/627.gif"
+      "icon_url": "images/items/627.gif"
     },
     {
       "item_id": 919,
       "name": "動物外皮",
       "rate": 100.0,
-      "icon_url": "/images/items/919.gif"
+      "icon_url": "images/items/919.gif"
     },
     {
       "item_id": 949,
       "name": "柔毛",
       "rate": 21.25,
-      "icon_url": "/images/items/949.gif"
+      "icon_url": "images/items/949.gif"
     },
     {
       "item_id": 1010,
       "name": "強化武器金屬-級數一",
       "rate": 2.0,
-      "icon_url": "/images/items/1010.gif"
+      "icon_url": "images/items/1010.gif"
     },
     {
       "item_id": 1302,
       "name": "斧[4]",
       "rate": 2.5,
-      "icon_url": "/images/items/1302.gif"
+      "icon_url": "images/items/1302.gif"
     },
     {
       "item_id": 4017,
       "name": "小野豬卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

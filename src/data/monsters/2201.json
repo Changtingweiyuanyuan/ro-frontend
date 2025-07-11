@@ -4,7 +4,7 @@
     "zh_tw": "深海電鰻",
     "en": "SROPHO"
   },
-  "image_url": "/images/monsters/2201.gif",
+  "image_url": "images/monsters/2201.gif",
   "basic_info": {
     "level": 113,
     "race": "魚貝",
@@ -49,49 +49,49 @@
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 0.5,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 951,
       "name": "背鰭",
       "rate": 25.0,
-      "icon_url": "/images/items/951.gif"
+      "icon_url": "images/items/951.gif"
     },
     {
       "item_id": 991,
       "name": "水靈礦石",
       "rate": 0.25,
-      "icon_url": "/images/items/991.gif"
+      "icon_url": "images/items/991.gif"
     },
     {
       "item_id": 1971,
       "name": "電線",
       "rate": 0.02,
-      "icon_url": "/images/items/1971.gif"
+      "icon_url": "images/items/1971.gif"
     },
     {
       "item_id": 1972,
       "name": "電鰻[2]",
       "rate": 0.02,
-      "icon_url": "/images/items/1972.gif"
+      "icon_url": "images/items/1972.gif"
     },
     {
       "item_id": 4522,
       "name": "深海電鰻卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 0.5,
-      "icon_url": "/images/items/7938.gif"
+      "icon_url": "images/items/7938.gif"
     },
     {
       "item_id": 12012,
       "name": "水靈箭矢筒",
       "rate": 0.5,
-      "icon_url": "/images/items/12012.gif"
+      "icon_url": "images/items/12012.gif"
     }
   ]
 }

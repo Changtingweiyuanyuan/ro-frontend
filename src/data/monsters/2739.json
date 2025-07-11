@@ -4,7 +4,7 @@
     "zh_tw": "精英木乃伊 / 迅捷木乃伊",
     "en": "C1_MUMMY"
   },
-  "image_url": "/images/monsters/2739.gif",
+  "image_url": "images/monsters/2739.gif",
   "basic_info": {
     "level": 55,
     "race": "不死",
@@ -49,49 +49,49 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 21.25,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 525,
       "name": "萬能藥",
       "rate": 6.25,
-      "icon_url": "/images/items/525.gif"
+      "icon_url": "images/items/525.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 2.5,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 930,
       "name": "腐爛繃帶",
       "rate": 100.0,
-      "icon_url": "/images/items/930.gif"
+      "icon_url": "images/items/930.gif"
     },
     {
       "item_id": 934,
       "name": "亡者遺物",
       "rate": 13.75,
-      "icon_url": "/images/items/934.gif"
+      "icon_url": "images/items/934.gif"
     },
     {
       "item_id": 2604,
       "name": "防禦手套",
       "rate": 0.05,
-      "icon_url": "/images/items/2604.gif"
+      "icon_url": "images/items/2604.gif"
     },
     {
       "item_id": 2611,
       "name": "銀戒指",
       "rate": 0.25,
-      "icon_url": "/images/items/2611.gif"
+      "icon_url": "images/items/2611.gif"
     },
     {
       "item_id": 4106,
       "name": "木乃伊卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

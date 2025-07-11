@@ -4,7 +4,7 @@
     "zh_tw": "測試用魔物",
     "en": "龍族"
   },
-  "image_url": "/images/monsters/21068.gif",
+  "image_url": "images/monsters/21068.gif",
   "basic_info": {
     "level": 100,
     "race": "龍",

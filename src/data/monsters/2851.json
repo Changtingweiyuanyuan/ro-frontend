@@ -4,7 +4,7 @@
     "zh_tw": "精英土人 / 憤怒土人",
     "en": "C4_DOKEBI"
   },
-  "image_url": "/images/monsters/2851.gif",
+  "image_url": "images/monsters/2851.gif",
   "basic_info": {
     "level": 68,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 3.75,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 969,
       "name": "黃金",
       "rate": 0.01,
-      "icon_url": "/images/items/969.gif"
+      "icon_url": "images/items/969.gif"
     },
     {
       "item_id": 1005,
       "name": "高級鐵砧",
       "rate": 0.15,
-      "icon_url": "/images/items/1005.gif"
+      "icon_url": "images/items/1005.gif"
     },
     {
       "item_id": 1021,
       "name": "土人之角",
       "rate": 100.0,
-      "icon_url": "/images/items/1021.gif"
+      "icon_url": "images/items/1021.gif"
     },
     {
       "item_id": 1517,
       "name": "尖刃鐵鎚[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/1517.gif"
+      "icon_url": "images/items/1517.gif"
     },
     {
       "item_id": 1613,
       "name": "巫杖 魂咬",
       "rate": 0.05,
-      "icon_url": "/images/items/1613.gif"
+      "icon_url": "images/items/1613.gif"
     },
     {
       "item_id": 4098,
       "name": "土人卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 10038,
       "name": "護角",
       "rate": 0.25,
-      "icon_url": "/images/items/10038.gif"
+      "icon_url": "images/items/10038.gif"
     }
   ]
 }

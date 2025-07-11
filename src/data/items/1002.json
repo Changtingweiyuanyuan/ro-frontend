@@ -4,7 +4,7 @@
     "zh_tw": "鐵礦石",
     "en": "Iron_Ore"
   },
-  "icon_url": "/images/items/1002.gif",
+  "icon_url": "images/items/1002.gif",
   "category": "其他類",
   "description": {
     "official": "含有鐵成分的礦石，提煉的話可得到鐵。",

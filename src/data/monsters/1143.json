@@ -4,7 +4,7 @@
     "zh_tw": "傀儡娃娃",
     "en": "MARIONETTE"
   },
-  "image_url": "/images/monsters/1143.gif",
+  "image_url": "images/monsters/1143.gif",
   "basic_info": {
     "level": 90,
     "race": "惡魔",
@@ -64,49 +64,49 @@
       "item_id": 699,
       "name": "火焰之壁5級卷軸",
       "rate": 0.5,
-      "icon_url": "/images/items/699.gif"
+      "icon_url": "images/items/699.gif"
     },
     {
       "item_id": 1060,
       "name": "金色頭髮",
       "rate": 45.0,
-      "icon_url": "/images/items/1060.gif"
+      "icon_url": "images/items/1060.gif"
     },
     {
       "item_id": 2294,
       "name": "星星發夾",
       "rate": 0.03,
-      "icon_url": "/images/items/2294.gif"
+      "icon_url": "images/items/2294.gif"
     },
     {
       "item_id": 2407,
       "name": "玻璃鞋",
       "rate": 0.01,
-      "icon_url": "/images/items/2407.gif"
+      "icon_url": "images/items/2407.gif"
     },
     {
       "item_id": 2605,
       "name": "敏捷別針",
       "rate": 0.01,
-      "icon_url": "/images/items/2605.gif"
+      "icon_url": "images/items/2605.gif"
     },
     {
       "item_id": 4113,
       "name": "傀儡娃娃卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5141,
       "name": "傀儡娃娃[1]",
       "rate": 0.02,
-      "icon_url": "/images/items/5141.gif"
+      "icon_url": "images/items/5141.gif"
     },
     {
       "item_id": 16040,
       "name": "緋紅色鐵鎚[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/16040.gif"
+      "icon_url": "images/items/16040.gif"
     }
   ]
 }

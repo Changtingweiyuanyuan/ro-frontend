@@ -4,7 +4,7 @@
     "zh_tw": "小妖精",
     "en": "GREMLIN"
   },
-  "image_url": "/images/monsters/1632.gif",
+  "image_url": "images/monsters/1632.gif",
   "basic_info": {
     "level": 118,
     "race": "惡魔",
@@ -59,43 +59,43 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.01,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 719,
       "name": "紫寶石",
       "rate": 0.5,
-      "icon_url": "/images/items/719.gif"
+      "icon_url": "images/items/719.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 15.0,
-      "icon_url": "/images/items/938.gif"
+      "icon_url": "images/items/938.gif"
     },
     {
       "item_id": 1265,
       "name": "血拳刃",
       "rate": 0.01,
-      "icon_url": "/images/items/1265.gif"
+      "icon_url": "images/items/1265.gif"
     },
     {
       "item_id": 2406,
       "name": "戰士長靴[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2406.gif"
+      "icon_url": "images/items/2406.gif"
     },
     {
       "item_id": 4355,
       "name": "小妖精卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7340,
       "name": "黑暗的意志",
       "rate": 15.0,
-      "icon_url": "/images/items/7340.gif"
+      "icon_url": "images/items/7340.gif"
     }
   ]
 }

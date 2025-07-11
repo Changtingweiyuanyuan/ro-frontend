@@ -4,7 +4,7 @@
     "zh_tw": "異種普拉加",
     "en": "EP17_1_PLAGA2"
   },
-  "image_url": "/images/monsters/20360.gif",
+  "image_url": "images/monsters/20360.gif",
   "basic_info": {
     "level": 178,
     "race": "龍",
@@ -49,37 +49,37 @@
       "item_id": 721,
       "name": "綠寶石",
       "rate": 0.5,
-      "icon_url": "/images/items/721.gif"
+      "icon_url": "images/items/721.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 8.0,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 7123,
       "name": "龍皮",
       "rate": 10.0,
-      "icon_url": "/images/items/7123.gif"
+      "icon_url": "images/items/7123.gif"
     },
     {
       "item_id": 7326,
       "name": "熒光色的液體",
       "rate": 25.0,
-      "icon_url": "/images/items/7326.gif"
+      "icon_url": "images/items/7326.gif"
     },
     {
       "item_id": 25723,
       "name": "核心元件",
       "rate": 0.1,
-      "icon_url": "/images/items/25723.gif"
+      "icon_url": "images/items/25723.gif"
     },
     {
       "item_id": 27311,
       "name": "變異普拉加卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27311.gif"
+      "icon_url": "images/items/27311.gif"
     }
   ]
 }

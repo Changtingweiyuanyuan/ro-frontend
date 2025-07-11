@@ -4,7 +4,7 @@
     "zh_tw": "橡木魔杖",
     "en": "Wand_"
   },
-  "icon_url": "/images/items/1605.gif",
+  "icon_url": "images/items/1605.gif",
   "category": "武器",
   "description": {
     "official": "蘊含魔力的手杖。INT+1，MATK上升45",

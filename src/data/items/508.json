@@ -4,7 +4,7 @@
     "zh_tw": "黃色藥草",
     "en": "Yellow_Herb"
   },
-  "icon_url": "/images/items/508.gif",
+  "icon_url": "images/items/508.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "在治療傷處上有相當功效的珍貴藥草，可恢復少量的HP。",

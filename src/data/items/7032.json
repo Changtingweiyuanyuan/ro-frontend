@@ -4,7 +4,7 @@
     "zh_tw": "蛋殼碎片",
     "en": "Piece_Of_Egg_Shell"
   },
-  "icon_url": "/images/items/7032.gif",
+  "icon_url": "images/items/7032.gif",
   "category": "其他類",
   "description": {
     "official": "破掉的蛋殼碎片，賣給收集品商人。",

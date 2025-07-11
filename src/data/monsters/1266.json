@@ -4,7 +4,7 @@
     "zh_tw": "海星",
     "en": "ASTER"
   },
-  "image_url": "/images/monsters/1266.gif",
+  "image_url": "images/monsters/1266.gif",
   "basic_info": {
     "level": 50,
     "race": "魚貝",
@@ -74,49 +74,49 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 1.0,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 512,
       "name": "蘋果",
       "rate": 0.5,
-      "icon_url": "/images/items/512.gif"
+      "icon_url": "images/items/512.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 0.3,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 2.5,
-      "icon_url": "/images/items/938.gif"
+      "icon_url": "images/items/938.gif"
     },
     {
       "item_id": 1052,
       "name": "單細胞",
       "rate": 6.0,
-      "icon_url": "/images/items/1052.gif"
+      "icon_url": "images/items/1052.gif"
     },
     {
       "item_id": 4247,
       "name": "海星卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7013,
       "name": "珊瑚",
       "rate": 0.2,
-      "icon_url": "/images/items/7013.gif"
+      "icon_url": "images/items/7013.gif"
     }
   ]
 }

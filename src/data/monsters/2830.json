@@ -4,7 +4,7 @@
     "zh_tw": "精英水靈龜 / 雄壯水靈龜",
     "en": "C2_FREEZER"
   },
-  "image_url": "/images/monsters/2830.gif",
+  "image_url": "images/monsters/2830.gif",
   "basic_info": {
     "level": 94,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 526,
       "name": "蜂膠",
       "rate": 4.0,
-      "icon_url": "/images/items/526.gif"
+      "icon_url": "images/items/526.gif"
     },
     {
       "item_id": 689,
       "name": "冰箭術 等級5",
       "rate": 2.5,
-      "icon_url": "/images/items/689.gif"
+      "icon_url": "images/items/689.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 45.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 967,
       "name": "烏龜外殼",
       "rate": 100.0,
-      "icon_url": "/images/items/967.gif"
+      "icon_url": "images/items/967.gif"
     },
     {
       "item_id": 4319,
       "name": "水靈龜卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6256,
       "name": "冰碎片",
       "rate": 5.0,
-      "icon_url": "/images/items/6256.gif"
+      "icon_url": "images/items/6256.gif"
     },
     {
       "item_id": 7066,
       "name": "冰塊一角",
       "rate": 31.25,
-      "icon_url": "/images/items/7066.gif"
+      "icon_url": "images/items/7066.gif"
     },
     {
       "item_id": 7070,
       "name": "破裂的硬殼",
       "rate": 21.25,
-      "icon_url": "/images/items/7070.gif"
+      "icon_url": "images/items/7070.gif"
     }
   ]
 }

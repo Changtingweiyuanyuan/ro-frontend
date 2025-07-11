@@ -4,7 +4,7 @@
     "zh_tw": "白幽靈",
     "en": "WHISPER"
   },
-  "image_url": "/images/monsters/1179.gif",
+  "image_url": "images/monsters/1179.gif",
   "basic_info": {
     "level": 46,
     "race": "惡魔",
@@ -94,37 +94,37 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 0.75,
-      "icon_url": "/images/items/1001.gif"
+      "icon_url": "images/items/1001.gif"
     },
     {
       "item_id": 1059,
       "name": "透明之布",
       "rate": 26.68,
-      "icon_url": "/images/items/1059.gif"
+      "icon_url": "images/items/1059.gif"
     },
     {
       "item_id": 2282,
       "name": "光環",
       "rate": 0.01,
-      "icon_url": "/images/items/2282.gif"
+      "icon_url": "images/items/2282.gif"
     },
     {
       "item_id": 2333,
       "name": "祕銀之衣[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2333.gif"
+      "icon_url": "images/items/2333.gif"
     },
     {
       "item_id": 4102,
       "name": "白幽靈卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

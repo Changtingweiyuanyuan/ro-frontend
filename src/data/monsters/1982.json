@@ -4,7 +4,7 @@
     "zh_tw": "獸人狙擊手",
     "en": "I_ORC_ARCHER"
   },
-  "image_url": "/images/monsters/1982.gif",
+  "image_url": "images/monsters/1982.gif",
   "basic_info": {
     "level": 78,
     "race": "人形",

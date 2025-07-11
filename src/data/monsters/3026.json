@@ -4,7 +4,7 @@
     "zh_tw": "火坑",
     "en": "FIREPIT"
   },
-  "image_url": "/images/monsters/3026.gif",
+  "image_url": "images/monsters/3026.gif",
   "basic_info": {
     "level": 17,
     "race": "不死",

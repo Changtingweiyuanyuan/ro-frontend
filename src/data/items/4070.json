@@ -4,7 +4,7 @@
     "zh_tw": "轉轉蛋卡片",
     "en": "Eggyra_Card"
   },
-  "icon_url": "/images/items/4070.gif",
+  "icon_url": "images/items/4070.gif",
   "category": "卡片",
   "description": {
     "official": "SP恢復力上升15%",

@@ -4,7 +4,7 @@
     "zh_tw": "蛙王",
     "en": "TOAD"
   },
-  "image_url": "/images/monsters/1089.gif",
+  "image_url": "images/monsters/1089.gif",
   "basic_info": {
     "level": 27,
     "race": "魚貝",
@@ -54,49 +54,49 @@
       "item_id": 518,
       "name": "蜂蜜",
       "rate": 10.0,
-      "icon_url": "/images/items/518.gif"
+      "icon_url": "images/items/518.gif"
     },
     {
       "item_id": 729,
       "name": "青綠寶石",
       "rate": 5.0,
-      "icon_url": "/images/items/729.gif"
+      "icon_url": "images/items/729.gif"
     },
     {
       "item_id": 970,
       "name": "酒精",
       "rate": 0.5,
-      "icon_url": "/images/items/970.gif"
+      "icon_url": "images/items/970.gif"
     },
     {
       "item_id": 971,
       "name": "帝特立米藥水",
       "rate": 0.5,
-      "icon_url": "/images/items/971.gif"
+      "icon_url": "images/items/971.gif"
     },
     {
       "item_id": 2244,
       "name": "紅蝶發帶",
       "rate": 0.25,
-      "icon_url": "/images/items/2244.gif"
+      "icon_url": "images/items/2244.gif"
     },
     {
       "item_id": 4306,
       "name": "蛙王卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5125,
       "name": "天使之吻[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/5125.gif"
+      "icon_url": "images/items/5125.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 2.5,
-      "icon_url": "/images/items/7938.gif"
+      "icon_url": "images/items/7938.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "巫婆",
     "en": "BATHORY"
   },
-  "image_url": "/images/monsters/1102.gif",
+  "image_url": "images/monsters/1102.gif",
   "basic_info": {
     "level": 86,
     "race": "人形",
@@ -54,49 +54,49 @@
       "item_id": 637,
       "name": "魔物掃把",
       "rate": 0.1,
-      "icon_url": "/images/items/637.gif"
+      "icon_url": "images/items/637.gif"
     },
     {
       "item_id": 1000,
       "name": "星星的角",
       "rate": 0.15,
-      "icon_url": "/images/items/1000.gif"
+      "icon_url": "images/items/1000.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 1.0,
-      "icon_url": "/images/items/1001.gif"
+      "icon_url": "images/items/1001.gif"
     },
     {
       "item_id": 1006,
       "name": "古魔法書",
       "rate": 0.08,
-      "icon_url": "/images/items/1006.gif"
+      "icon_url": "images/items/1006.gif"
     },
     {
       "item_id": 1061,
       "name": "魔女之星沙",
       "rate": 24.25,
-      "icon_url": "/images/items/1061.gif"
+      "icon_url": "images/items/1061.gif"
     },
     {
       "item_id": 1680,
       "name": "緋紅色權仗[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/1680.gif"
+      "icon_url": "images/items/1680.gif"
     },
     {
       "item_id": 2252,
       "name": "魔法帽",
       "rate": 0.02,
-      "icon_url": "/images/items/2252.gif"
+      "icon_url": "images/items/2252.gif"
     },
     {
       "item_id": 4119,
       "name": "巫婆卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

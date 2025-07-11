@@ -4,7 +4,7 @@
     "zh_tw": "精英帕莎納 / 迅捷帕莎納",
     "en": "C1_PASANA"
   },
-  "image_url": "/images/monsters/2719.gif",
+  "image_url": "images/monsters/2719.gif",
   "basic_info": {
     "level": 79,
     "race": "人形",
@@ -49,43 +49,43 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.5,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 2522,
       "name": "襯衫",
       "rate": 2.5,
-      "icon_url": "/images/items/2522.gif"
+      "icon_url": "images/items/2522.gif"
     },
     {
       "item_id": 4099,
       "name": "帕莎納卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7110,
       "name": "破裂之劍",
       "rate": 100.0,
-      "icon_url": "/images/items/7110.gif"
+      "icon_url": "images/items/7110.gif"
     },
     {
       "item_id": 7121,
       "name": "蜂蜜罐",
       "rate": 62.5,
-      "icon_url": "/images/items/7121.gif"
+      "icon_url": "images/items/7121.gif"
     },
     {
       "item_id": 13454,
       "name": "緋紅色騎兵之劍[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/13454.gif"
+      "icon_url": "images/items/13454.gif"
     },
     {
       "item_id": 28705,
       "name": "緋紅色大駒短劍[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/28705.gif"
+      "icon_url": "images/items/28705.gif"
     }
   ]
 }

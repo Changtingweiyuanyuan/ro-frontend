@@ -4,7 +4,7 @@
     "zh_tw": "影魔 / 幽暗咪魘",
     "en": "GLOOMUNDERNIGHT"
   },
-  "image_url": "/images/monsters/1768.gif",
+  "image_url": "images/monsters/1768.gif",
   "basic_info": {
     "level": 139,
     "race": "無形",
@@ -49,43 +49,43 @@
       "item_id": 616,
       "name": "老舊收集冊",
       "rate": 25.0,
-      "icon_url": "/images/items/616.gif"
+      "icon_url": "images/items/616.gif"
     },
     {
       "item_id": 1377,
       "name": "狂暴颶風[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/1377.gif"
+      "icon_url": "images/items/1377.gif"
     },
     {
       "item_id": 2513,
       "name": "薄紗圍巾[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/2513.gif"
+      "icon_url": "images/items/2513.gif"
     },
     {
       "item_id": 4408,
       "name": "影魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7022,
       "name": "老舊劍柄",
       "rate": 10.0,
-      "icon_url": "/images/items/7022.gif"
+      "icon_url": "images/items/7022.gif"
     },
     {
       "item_id": 7023,
       "name": "斷柄之刀",
       "rate": 20.0,
-      "icon_url": "/images/items/7023.gif"
+      "icon_url": "images/items/7023.gif"
     },
     {
       "item_id": 7566,
       "name": "紅色的黑暗的意志",
       "rate": 35.0,
-      "icon_url": "/images/items/7566.gif"
+      "icon_url": "images/items/7566.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "煤礦",
     "en": "Coal"
   },
-  "icon_url": "/images/items/1003.gif",
+  "icon_url": "images/items/1003.gif",
   "category": "其他類",
   "description": {
     "official": "含有很多碳成分的礦石，和鐵一起提煉可以得到鋼鐵。",

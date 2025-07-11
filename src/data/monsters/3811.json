@@ -4,7 +4,7 @@
     "zh_tw": "巨大黃金波利",
     "en": "MD_GOLDRING"
   },
-  "image_url": "/images/monsters/3811.gif",
+  "image_url": "images/monsters/3811.gif",
   "basic_info": {
     "level": 35,
     "race": "無形",
@@ -49,25 +49,25 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 30.0,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 546,
       "name": "黃色纖細藥水",
       "rate": 0.1,
-      "icon_url": "/images/items/546.gif"
+      "icon_url": "images/items/546.gif"
     },
     {
       "item_id": 728,
       "name": "黃寶石",
       "rate": 0.1,
-      "icon_url": "/images/items/728.gif"
+      "icon_url": "images/items/728.gif"
     },
     {
       "item_id": 6498,
       "name": "光澤傑勒比結晶",
       "rate": 30.0,
-      "icon_url": "/images/items/6498.gif"
+      "icon_url": "images/items/6498.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "精英毒蛇 / 憤怒毒蛇",
     "en": "C4_ANACONDAQ"
   },
-  "image_url": "/images/monsters/2904.gif",
+  "image_url": "images/monsters/2904.gif",
   "basic_info": {
     "level": 100,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 1.25,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 926,
       "name": "蛇鱗",
       "rate": 37.5,
-      "icon_url": "/images/items/926.gif"
+      "icon_url": "images/items/926.gif"
     },
     {
       "item_id": 936,
       "name": "鱗片皮膚",
       "rate": 5.0,
-      "icon_url": "/images/items/936.gif"
+      "icon_url": "images/items/936.gif"
     },
     {
       "item_id": 937,
       "name": "毒牙",
       "rate": 100.0,
-      "icon_url": "/images/items/937.gif"
+      "icon_url": "images/items/937.gif"
     },
     {
       "item_id": 1498,
       "name": "緋紅色騎士長矛[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/1498.gif"
+      "icon_url": "images/items/1498.gif"
     },
     {
       "item_id": 4062,
       "name": "黃蛇卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6247,
       "name": "白色粉末",
       "rate": 5.0,
-      "icon_url": "/images/items/6247.gif"
+      "icon_url": "images/items/6247.gif"
     },
     {
       "item_id": 15126,
       "name": "喵族專屬外套[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/15126.gif"
+      "icon_url": "images/items/15126.gif"
     }
   ]
 }

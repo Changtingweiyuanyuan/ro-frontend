@@ -4,7 +4,7 @@
     "zh_tw": "風靈礦石",
     "en": "Wind_Of_Verdure"
   },
-  "icon_url": "/images/items/992.gif",
+  "icon_url": "images/items/992.gif",
   "category": "其他類",
   "description": {
     "official": "黃色的小礦石塊。擁有風屬性，提煉後可以製作出風靈原石。",

@@ -4,7 +4,7 @@
     "zh_tw": "畢尤的詛咒戰士",
     "en": "AS_D_CURSED_SOLDIER"
   },
-  "image_url": "/images/monsters/3485.gif",
+  "image_url": "images/monsters/3485.gif",
   "basic_info": {
     "level": 160,
     "race": "不死",

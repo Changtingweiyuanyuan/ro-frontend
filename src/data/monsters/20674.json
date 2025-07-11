@@ -4,7 +4,7 @@
     "zh_tw": "帕皮拉凱依",
     "en": "MD_PAPILA_CAE"
   },
-  "image_url": "/images/monsters/20674.gif",
+  "image_url": "images/monsters/20674.gif",
   "basic_info": {
     "level": 137,
     "race": "昆蟲",
@@ -49,37 +49,37 @@
       "item_id": 924,
       "name": "蝴蝶翅膀粉末",
       "rate": 20.0,
-      "icon_url": "/images/items/924.gif"
+      "icon_url": "images/items/924.gif"
     },
     {
       "item_id": 6086,
       "name": "凋謝的花",
       "rate": 5.0,
-      "icon_url": "/images/items/6086.gif"
+      "icon_url": "images/items/6086.gif"
     },
     {
       "item_id": 6557,
       "name": "絢麗精靈翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/6557.gif"
+      "icon_url": "images/items/6557.gif"
     },
     {
       "item_id": 7163,
       "name": "銳利的觸角",
       "rate": 5.0,
-      "icon_url": "/images/items/7163.gif"
+      "icon_url": "images/items/7163.gif"
     },
     {
       "item_id": 7168,
       "name": "巨大翅膀",
       "rate": 15.0,
-      "icon_url": "/images/items/7168.gif"
+      "icon_url": "images/items/7168.gif"
     },
     {
       "item_id": 300095,
       "name": "帕皮拉凱依卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300095.gif"
+      "icon_url": "images/items/300095.gif"
     }
   ]
 }

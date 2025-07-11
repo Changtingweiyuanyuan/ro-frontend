@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 狡猾 咪羅克門徒",
     "en": "C5_MOROCC_1"
   },
-  "image_url": "/images/monsters/2743.gif",
+  "image_url": "images/monsters/2743.gif",
   "basic_info": {
     "level": 132,
     "race": "天使",
@@ -49,43 +49,43 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 4.0,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1541,
       "name": "復仇女神",
       "rate": 0.5,
-      "icon_url": "/images/items/1541.gif"
+      "icon_url": "images/items/1541.gif"
     },
     {
       "item_id": 2111,
       "name": "大天使之盾",
       "rate": 0.25,
-      "icon_url": "/images/items/2111.gif"
+      "icon_url": "images/items/2111.gif"
     },
     {
       "item_id": 2537,
       "name": "恐懼斗篷[1]",
       "rate": 0.1,
-      "icon_url": "/images/items/2537.gif"
+      "icon_url": "images/items/2537.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 100.0,
-      "icon_url": "/images/items/7054.gif"
+      "icon_url": "images/items/7054.gif"
     },
     {
       "item_id": 7798,
       "name": "黑暗的碎片",
       "rate": 75.0,
-      "icon_url": "/images/items/7798.gif"
+      "icon_url": "images/items/7798.gif"
     },
     {
       "item_id": 7799,
       "name": "黑暗的結晶體",
       "rate": 25.0,
-      "icon_url": "/images/items/7799.gif"
+      "icon_url": "images/items/7799.gif"
     }
   ]
 }

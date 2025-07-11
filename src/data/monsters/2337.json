@@ -4,7 +4,7 @@
     "zh_tw": "隱形怪物",
     "en": "HIDDEN_MOB"
   },
-  "image_url": "/images/monsters/2337.gif",
+  "image_url": "images/monsters/2337.gif",
   "basic_info": {
     "level": 151,
     "race": "昆蟲",

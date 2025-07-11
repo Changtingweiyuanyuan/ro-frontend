@@ -4,7 +4,7 @@
     "zh_tw": "攜帶用孵蛋器",
     "en": "Pet_Incubator"
   },
-  "icon_url": "/images/items/643.gif",
+  "icon_url": "images/items/643.gif",
   "category": "消耗類",
   "description": {
     "official": "可以把魔物的蛋孵化的裝備，攜帶方便，可叫醒睡覺的寵物。",

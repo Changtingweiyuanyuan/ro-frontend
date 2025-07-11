@@ -4,7 +4,7 @@
     "zh_tw": "卡那多斯卡片",
     "en": "Cornutus_Card"
   },
-  "icon_url": "/images/items/4061.gif",
+  "icon_url": "images/items/4061.gif",
   "category": "卡片",
   "description": {
     "official": "可使鎧甲完全不受損。DEF+1",

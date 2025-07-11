@@ -4,7 +4,7 @@
     "zh_tw": "熔岩波利 / 岩漿波利",
     "en": "MAGMARING"
   },
-  "image_url": "/images/monsters/1836.gif",
+  "image_url": "images/monsters/1836.gif",
   "basic_info": {
     "level": 110,
     "race": "無形",
@@ -59,19 +59,19 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.17,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 4432,
       "name": "熔岩波利卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7097,
       "name": "燃燒的心臟",
       "rate": 15.0,
-      "icon_url": "/images/items/7097.gif"
+      "icon_url": "images/items/7097.gif"
     }
   ]
 }

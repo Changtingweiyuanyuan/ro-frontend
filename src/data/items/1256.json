@@ -4,7 +4,7 @@
     "zh_tw": "冰靈拳刃",
     "en": "Katar_Of_Cold_Icicle"
   },
-  "icon_url": "/images/items/1256.gif",
+  "icon_url": "images/items/1256.gif",
   "category": "武器",
   "description": {
     "official": "冰冷又銳利，以冰晶所做成的水屬性拳刃，有一定的幾率，使敵人陷入冷凍狀態",

@@ -4,7 +4,7 @@
     "zh_tw": "流浪之狼卡片",
     "en": "Vagabond_Wolf_Card"
   },
-  "icon_url": "/images/items/4183.gif",
+  "icon_url": "images/items/4183.gif",
   "category": "卡片",
   "description": {
     "official": "STR+1裝備狼卡片時，FLEE+18套裝資料:狼卡片 & 流浪之狼卡片 套裝",

@@ -4,7 +4,7 @@
     "zh_tw": "小雞卡片",
     "en": "Picky_Card"
   },
-  "icon_url": "/images/items/4008.gif",
+  "icon_url": "images/items/4008.gif",
   "category": "卡片",
   "description": {
     "official": "STR+1ATK+10",

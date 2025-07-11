@@ -4,7 +4,7 @@
     "zh_tw": "盜蟲卵卡片",
     "en": "Thief_Bug_Egg_Card"
   },
-  "icon_url": "/images/items/4012.gif",
+  "icon_url": "images/items/4012.gif",
   "category": "卡片",
   "description": {
     "official": "MHP+400",

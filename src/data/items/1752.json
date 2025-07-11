@@ -4,7 +4,7 @@
     "zh_tw": "火箭矢",
     "en": "Fire_Arrow"
   },
-  "icon_url": "/images/items/1752.gif",
+  "icon_url": "images/items/1752.gif",
   "category": "彈藥/扔的武器",
   "description": {
     "official": "前端可以點火的箭矢。套裝資料:灼熱之弓[1] + 火箭矢 套裝灼熱之_弓[1] , 火箭矢 & 元素衣服[1]火箭矢 & 灼熱之_弓[2]火箭矢, 灼熱之_弓[2] & 元素衣服[1]",

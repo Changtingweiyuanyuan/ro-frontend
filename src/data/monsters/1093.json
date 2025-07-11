@@ -4,7 +4,7 @@
     "zh_tw": "藍瘋兔",
     "en": "ECLIPSE"
   },
-  "image_url": "/images/monsters/1093.gif",
+  "image_url": "images/monsters/1093.gif",
   "basic_info": {
     "level": 31,
     "race": "動物",
@@ -54,49 +54,49 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 40.0,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 622,
       "name": "彩色紅蘿蔔",
       "rate": 0.25,
-      "icon_url": "/images/items/622.gif"
+      "icon_url": "images/items/622.gif"
     },
     {
       "item_id": 706,
       "name": "四葉幸運草",
       "rate": 0.01,
-      "icon_url": "/images/items/706.gif"
+      "icon_url": "images/items/706.gif"
     },
     {
       "item_id": 727,
       "name": "白寶石",
       "rate": 6.0,
-      "icon_url": "/images/items/727.gif"
+      "icon_url": "images/items/727.gif"
     },
     {
       "item_id": 2250,
       "name": "粉紗發圈",
       "rate": 1.0,
-      "icon_url": "/images/items/2250.gif"
+      "icon_url": "images/items/2250.gif"
     },
     {
       "item_id": 2355,
       "name": "天使的加護[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/2355.gif"
+      "icon_url": "images/items/2355.gif"
     },
     {
       "item_id": 4266,
       "name": "藍瘋兔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 2.5,
-      "icon_url": "/images/items/7938.gif"
+      "icon_url": "images/items/7938.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "彈簧兔",
     "en": "SPRING_RABBIT"
   },
-  "image_url": "/images/monsters/1322.gif",
+  "image_url": "images/monsters/1322.gif",
   "basic_info": {
     "level": 88,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 4.0,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 509,
       "name": "白色藥草",
       "rate": 4.0,
-      "icon_url": "/images/items/509.gif"
+      "icon_url": "images/items/509.gif"
     },
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 1.0,
-      "icon_url": "/images/items/510.gif"
+      "icon_url": "images/items/510.gif"
     },
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 22.5,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 949,
       "name": "柔毛",
       "rate": 12.5,
-      "icon_url": "/images/items/949.gif"
+      "icon_url": "images/items/949.gif"
     },
     {
       "item_id": 4227,
       "name": "彈簧兔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7053,
       "name": "賽依伐",
       "rate": 12.5,
-      "icon_url": "/images/items/7053.gif"
+      "icon_url": "images/items/7053.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 17.5,
-      "icon_url": "/images/items/7054.gif"
+      "icon_url": "images/items/7054.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "精英代行刑者 / 狡猾代行刑者",
     "en": "C5_RETRIBUTION"
   },
-  "image_url": "/images/monsters/2685.gif",
+  "image_url": "images/monsters/2685.gif",
   "basic_info": {
     "level": 121,
     "race": "天使",
@@ -49,49 +49,49 @@
       "item_id": 723,
       "name": "紅寶石",
       "rate": 25.0,
-      "icon_url": "/images/items/723.gif"
+      "icon_url": "images/items/723.gif"
     },
     {
       "item_id": 2506,
       "name": "斗篷[1]",
       "rate": 0.15,
-      "icon_url": "/images/items/2506.gif"
+      "icon_url": "images/items/2506.gif"
     },
     {
       "item_id": 2621,
       "name": "力量戒指[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2621.gif"
+      "icon_url": "images/items/2621.gif"
     },
     {
       "item_id": 4391,
       "name": "代行刑者卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7440,
       "name": "紅色羽毛",
       "rate": 10.0,
-      "icon_url": "/images/items/7440.gif"
+      "icon_url": "images/items/7440.gif"
     },
     {
       "item_id": 7442,
       "name": "被詛咒的印",
       "rate": 1.25,
-      "icon_url": "/images/items/7442.gif"
+      "icon_url": "images/items/7442.gif"
     },
     {
       "item_id": 12040,
       "name": "賢者之石",
       "rate": 1.25,
-      "icon_url": "/images/items/12040.gif"
+      "icon_url": "images/items/12040.gif"
     },
     {
       "item_id": 21015,
       "name": "緋紅色雙手巨劍[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/21015.gif"
+      "icon_url": "images/items/21015.gif"
     }
   ]
 }

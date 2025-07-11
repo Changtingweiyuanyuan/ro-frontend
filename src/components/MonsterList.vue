@@ -43,15 +43,12 @@ provide('releasedMonsters', releasedMonsters);
 
 <style scoped lang="scss">
 .monster-list-container {
-  /* 確保容器佔滿整個可用寬度 */
   width: 100%;
   margin-top: 24px;
 }
 .monster-grid {
   display: flex;
   flex-wrap: wrap;
-  /* 讓卡片在容器內水平置中 */
-  justify-content: center; 
   gap: 16px;
 }
 .no-results {

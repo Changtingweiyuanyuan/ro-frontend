@@ -4,7 +4,7 @@
     "zh_tw": "化學毒物",
     "en": "MD_VENOM_BUG"
   },
-  "image_url": "/images/monsters/20344.gif",
+  "image_url": "images/monsters/20344.gif",
   "basic_info": {
     "level": 110,
     "race": "無形",

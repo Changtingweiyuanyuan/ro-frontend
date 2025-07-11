@@ -4,7 +4,7 @@
     "zh_tw": "憤怒九尾狐",
     "en": "ILL_NINE_TAIL"
   },
-  "image_url": "/images/monsters/3759.gif",
+  "image_url": "images/monsters/3759.gif",
   "basic_info": {
     "level": 116,
     "race": "動物",
@@ -49,43 +49,43 @@
       "item_id": 604,
       "name": "枯樹枝",
       "rate": 1.0,
-      "icon_url": "/images/items/604.gif"
+      "icon_url": "images/items/604.gif"
     },
     {
       "item_id": 746,
       "name": "玻璃珠",
       "rate": 2.0,
-      "icon_url": "/images/items/746.gif"
+      "icon_url": "images/items/746.gif"
     },
     {
       "item_id": 1022,
       "name": "狐狸尾巴",
       "rate": 30.0,
-      "icon_url": "/images/items/1022.gif"
+      "icon_url": "images/items/1022.gif"
     },
     {
       "item_id": 6223,
       "name": "混沌金屬",
       "rate": 1.0,
-      "icon_url": "/images/items/6223.gif"
+      "icon_url": "images/items/6223.gif"
     },
     {
       "item_id": 25256,
       "name": "朦朧咪境碎片",
       "rate": 5.0,
-      "icon_url": "/images/items/25256.gif"
+      "icon_url": "images/items/25256.gif"
     },
     {
       "item_id": 25272,
       "name": "幻想石",
       "rate": 2.0,
-      "icon_url": "/images/items/25272.gif"
+      "icon_url": "images/items/25272.gif"
     },
     {
       "item_id": 27082,
       "name": "憤怒九尾狐卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27082.gif"
+      "icon_url": "images/items/27082.gif"
     }
   ]
 }

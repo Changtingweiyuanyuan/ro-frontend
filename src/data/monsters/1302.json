@@ -4,7 +4,7 @@
     "zh_tw": "迷幻之王",
     "en": "DARK_ILLUSION"
   },
-  "image_url": "/images/monsters/1302.gif",
+  "image_url": "images/monsters/1302.gif",
   "basic_info": {
     "level": 96,
     "race": "惡魔",
@@ -74,49 +74,49 @@
       "item_id": 509,
       "name": "白色藥草",
       "rate": 7.75,
-      "icon_url": "/images/items/509.gif"
+      "icon_url": "images/items/509.gif"
     },
     {
       "item_id": 522,
       "name": "瑪絲黛拉果實",
       "rate": 0.6,
-      "icon_url": "/images/items/522.gif"
+      "icon_url": "images/items/522.gif"
     },
     {
       "item_id": 1615,
       "name": "骷髏魔杖",
       "rate": 0.02,
-      "icon_url": "/images/items/1615.gif"
+      "icon_url": "images/items/1615.gif"
     },
     {
       "item_id": 2508,
       "name": "抗魔斗篷",
       "rate": 0.02,
-      "icon_url": "/images/items/2508.gif"
+      "icon_url": "images/items/2508.gif"
     },
     {
       "item_id": 4169,
       "name": "迷幻之王卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5017,
       "name": "骨制頭盔",
       "rate": 0.01,
-      "icon_url": "/images/items/5017.gif"
+      "icon_url": "images/items/5017.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 26.68,
-      "icon_url": "/images/items/7054.gif"
+      "icon_url": "images/items/7054.gif"
     },
     {
       "item_id": 21015,
       "name": "緋紅色雙手巨劍[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/21015.gif"
+      "icon_url": "images/items/21015.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "集中藥水",
     "en": "Center_Potion"
   },
-  "icon_url": "/images/items/645.gif",
+  "icon_url": "images/items/645.gif",
   "category": "消耗類",
   "description": {
     "official": "含有可讓敏捷能力上升成份的藥水，服用時，可讓攻擊速度上升。全職業都可以使用。",

@@ -4,7 +4,7 @@
     "zh_tw": "尖角甲蟲",
     "en": "噩咪"
   },
-  "image_url": "/images/monsters/2164.gif",
+  "image_url": "images/monsters/2164.gif",
   "basic_info": {
     "level": 139,
     "race": "昆蟲",
@@ -49,49 +49,49 @@
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.05,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 0.5,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 4508,
       "name": "黃金甲蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6321,
       "name": "尖角帽子",
       "rate": 32.5,
-      "icon_url": "/images/items/6321.gif"
+      "icon_url": "images/items/6321.gif"
     },
     {
       "item_id": 12107,
       "name": "包裝的面具",
       "rate": 0.05,
-      "icon_url": "/images/items/12107.gif"
+      "icon_url": "images/items/12107.gif"
     },
     {
       "item_id": 12735,
       "name": "古代符文原石",
       "rate": 0.5,
-      "icon_url": "/images/items/12735.gif"
+      "icon_url": "images/items/12735.gif"
     },
     {
       "item_id": 15000,
       "name": "骷髏盔甲[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/15000.gif"
+      "icon_url": "images/items/15000.gif"
     },
     {
       "item_id": 16010,
       "name": "紅色以太手提包[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/16010.gif"
+      "icon_url": "images/items/16010.gif"
     }
   ]
 }

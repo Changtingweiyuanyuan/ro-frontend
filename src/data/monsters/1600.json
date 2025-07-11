@@ -4,7 +4,7 @@
     "zh_tw": "火焰龜",
     "en": "G_HEATER"
   },
-  "image_url": "/images/monsters/1600.gif",
+  "image_url": "images/monsters/1600.gif",
   "basic_info": {
     "level": 96,
     "race": "動物",

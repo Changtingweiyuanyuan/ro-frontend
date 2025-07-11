@@ -4,7 +4,7 @@
     "zh_tw": "不死的腐屍突擊兵",
     "en": "AS_ZOMBIE"
   },
-  "image_url": "/images/monsters/3476.gif",
+  "image_url": "images/monsters/3476.gif",
   "basic_info": {
     "level": 160,
     "race": "不死",

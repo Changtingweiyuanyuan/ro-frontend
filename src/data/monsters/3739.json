@@ -4,7 +4,7 @@
     "zh_tw": "郊狼",
     "en": "COYOTE"
   },
-  "image_url": "/images/monsters/3739.gif",
+  "image_url": "images/monsters/3739.gif",
   "basic_info": {
     "level": 110,
     "race": "動物",
@@ -54,37 +54,37 @@
       "item_id": 702,
       "name": "家畜血",
       "rate": 5.0,
-      "icon_url": "/images/items/702.gif"
+      "icon_url": "images/items/702.gif"
     },
     {
       "item_id": 996,
       "name": "風靈原石",
       "rate": 0.05,
-      "icon_url": "/images/items/996.gif"
+      "icon_url": "images/items/996.gif"
     },
     {
       "item_id": 2531,
       "name": "狼毛披風[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2531.gif"
+      "icon_url": "images/items/2531.gif"
     },
     {
       "item_id": 7564,
       "name": "腐臭之肉",
       "rate": 15.0,
-      "icon_url": "/images/items/7564.gif"
+      "icon_url": "images/items/7564.gif"
     },
     {
       "item_id": 25276,
       "name": "乾淨骨頭",
       "rate": 25.0,
-      "icon_url": "/images/items/25276.gif"
+      "icon_url": "images/items/25276.gif"
     },
     {
       "item_id": 27179,
       "name": "郊狼卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27179.gif"
+      "icon_url": "images/items/27179.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "瑪絲黛拉果實",
     "en": "Fruit_Of_Mastela"
   },
-  "icon_url": "/images/items/522.gif",
+  "icon_url": "images/items/522.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "瑪絲黛拉樹上採下的紫色果實，可恢復大量的HP。",

@@ -4,7 +4,7 @@
     "zh_tw": "俄希托斯",
     "en": "黃"
   },
-  "image_url": "/images/monsters/1713.gif",
+  "image_url": "images/monsters/1713.gif",
   "basic_info": {
     "level": 130,
     "race": "龍",
@@ -59,49 +59,49 @@
       "item_id": 1035,
       "name": "龍牙",
       "rate": 20.0,
-      "icon_url": "/images/items/1035.gif"
+      "icon_url": "images/items/1035.gif"
     },
     {
       "item_id": 1269,
       "name": "龍之咆哮",
       "rate": 0.05,
-      "icon_url": "/images/items/1269.gif"
+      "icon_url": "images/items/1269.gif"
     },
     {
       "item_id": 2114,
       "name": "石制圓盾[1]",
       "rate": 0.25,
-      "icon_url": "/images/items/2114.gif"
+      "icon_url": "images/items/2114.gif"
     },
     {
       "item_id": 2890,
       "name": "白翼胸針",
       "rate": 0.05,
-      "icon_url": "/images/items/2890.gif"
+      "icon_url": "images/items/2890.gif"
     },
     {
       "item_id": 4378,
       "name": "俄希托斯卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7444,
       "name": "財寶箱",
       "rate": 0.03,
-      "icon_url": "/images/items/7444.gif"
+      "icon_url": "images/items/7444.gif"
     },
     {
       "item_id": 7448,
       "name": "黃色龍珠",
       "rate": 4.0,
-      "icon_url": "/images/items/7448.gif"
+      "icon_url": "images/items/7448.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 2.5,
-      "icon_url": "/images/items/7938.gif"
+      "icon_url": "images/items/7938.gif"
     }
   ]
 }

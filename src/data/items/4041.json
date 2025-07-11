@@ -4,7 +4,7 @@
     "zh_tw": "松鼠卡片",
     "en": "Coco_Card"
   },
-  "icon_url": "/images/items/4041.gif",
+  "icon_url": "images/items/4041.gif",
   "category": "卡片",
   "description": {
     "official": "受到攻擊時，被[睡眠]的幾率降低20%。DEF+1",

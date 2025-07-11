@@ -4,7 +4,7 @@
     "zh_tw": "魔劍士 達納托斯的記憶",
     "en": "THANATOS"
   },
-  "image_url": "/images/monsters/1708.gif",
+  "image_url": "images/monsters/1708.gif",
   "basic_info": {
     "level": 99,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 2342,
       "name": "祕銀金屬盔甲[1]",
       "rate": 25.0,
-      "icon_url": "/images/items/2342.gif"
+      "icon_url": "images/items/2342.gif"
     },
     {
       "item_id": 2412,
       "name": "重靴[1]",
       "rate": 25.0,
-      "icon_url": "/images/items/2412.gif"
+      "icon_url": "images/items/2412.gif"
     },
     {
       "item_id": 2515,
       "name": "老鷹之翅膀[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/2515.gif"
+      "icon_url": "images/items/2515.gif"
     },
     {
       "item_id": 2519,
       "name": "茉莉雅娜斗篷",
       "rate": 5.0,
-      "icon_url": "/images/items/2519.gif"
+      "icon_url": "images/items/2519.gif"
     },
     {
       "item_id": 2655,
       "name": "血跡鐵球",
       "rate": 2.5,
-      "icon_url": "/images/items/2655.gif"
+      "icon_url": "images/items/2655.gif"
     },
     {
       "item_id": 4399,
       "name": "魔劍士 達納托斯的記憶卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7444,
       "name": "財寶箱",
       "rate": 5.0,
-      "icon_url": "/images/items/7444.gif"
+      "icon_url": "images/items/7444.gif"
     },
     {
       "item_id": 7450,
       "name": "骨制盔甲的碎片",
       "rate": 25.0,
-      "icon_url": "/images/items/7450.gif"
+      "icon_url": "images/items/7450.gif"
     }
   ]
 }

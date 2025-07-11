@@ -4,7 +4,7 @@
     "zh_tw": "鋼鐵",
     "en": "Steel"
   },
-  "icon_url": "/images/items/999.gif",
+  "icon_url": "images/items/999.gif",
   "category": "其他類",
   "description": {
     "official": "將鐵浸泡幾次特殊藥水後，可以使其強度更高，製造出來的武器或防具硬度更高。",

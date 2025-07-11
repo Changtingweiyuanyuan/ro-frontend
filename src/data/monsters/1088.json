@@ -4,7 +4,7 @@
     "zh_tw": "搖滾蝗蟲",
     "en": "VOCAL"
   },
-  "image_url": "/images/monsters/1088.gif",
+  "image_url": "images/monsters/1088.gif",
   "basic_info": {
     "level": 18,
     "race": "昆蟲",
@@ -64,49 +64,49 @@
       "item_id": 721,
       "name": "綠寶石",
       "rate": 5.0,
-      "icon_url": "/images/items/721.gif"
+      "icon_url": "images/items/721.gif"
     },
     {
       "item_id": 752,
       "name": "搖滾蝗蟲娃娃",
       "rate": 7.5,
-      "icon_url": "/images/items/752.gif"
+      "icon_url": "images/items/752.gif"
     },
     {
       "item_id": 940,
       "name": "蝗蟲後腿",
       "rate": 40.0,
-      "icon_url": "/images/items/940.gif"
+      "icon_url": "images/items/940.gif"
     },
     {
       "item_id": 1917,
       "name": "涼風的吉他",
       "rate": 0.05,
-      "icon_url": "/images/items/1917.gif"
+      "icon_url": "images/items/1917.gif"
     },
     {
       "item_id": 2247,
       "name": "回憶帽",
       "rate": 0.25,
-      "icon_url": "/images/items/2247.gif"
+      "icon_url": "images/items/2247.gif"
     },
     {
       "item_id": 2420,
       "name": "天使的降臨[1]",
       "rate": 5.0,
-      "icon_url": "/images/items/2420.gif"
+      "icon_url": "images/items/2420.gif"
     },
     {
       "item_id": 4211,
       "name": "蝗蟲之王卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7938,
       "name": "光粒",
       "rate": 2.5,
-      "icon_url": "/images/items/7938.gif"
+      "icon_url": "images/items/7938.gif"
     }
   ]
 }

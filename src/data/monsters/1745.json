@@ -4,7 +4,7 @@
     "zh_tw": "恆量魔",
     "en": "G_CONSTANT"
   },
-  "image_url": "/images/monsters/1745.gif",
+  "image_url": "images/monsters/1745.gif",
   "basic_info": {
     "level": 108,
     "race": "惡魔",
@@ -59,7 +59,7 @@
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 2.5,
-      "icon_url": "/images/items/7507.gif"
+      "icon_url": "images/items/7507.gif"
     }
   ]
 }

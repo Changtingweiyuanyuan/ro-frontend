@@ -4,7 +4,7 @@
     "zh_tw": "巫師 奧樂德",
     "en": "GEFFEN_MAGE_5"
   },
-  "image_url": "/images/monsters/2555.gif",
+  "image_url": "images/monsters/2555.gif",
   "basic_info": {
     "level": 110,
     "race": "人形",
@@ -49,7 +49,7 @@
       "item_id": 27255,
       "name": "奧樂德卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27255.gif"
+      "icon_url": "images/items/27255.gif"
     }
   ]
 }

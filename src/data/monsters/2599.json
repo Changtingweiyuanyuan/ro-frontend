@@ -4,7 +4,7 @@
     "zh_tw": "野貓騎士",
     "en": "G_WILD_RIDER"
   },
-  "image_url": "/images/monsters/2599.gif",
+  "image_url": "images/monsters/2599.gif",
   "basic_info": {
     "level": 95,
     "race": "魚貝",

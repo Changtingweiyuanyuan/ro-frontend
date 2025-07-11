@@ -4,7 +4,7 @@
     "zh_tw": "皮影魔",
     "en": "SKOGUL"
   },
-  "image_url": "/images/monsters/1752.gif",
+  "image_url": "images/monsters/1752.gif",
   "basic_info": {
     "level": 126,
     "race": "惡魔",
@@ -64,49 +64,49 @@
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 5.0,
-      "icon_url": "/images/items/716.gif"
+      "icon_url": "images/items/716.gif"
     },
     {
       "item_id": 739,
       "name": "化妝品",
       "rate": 2.5,
-      "icon_url": "/images/items/739.gif"
+      "icon_url": "images/items/739.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 2.5,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 1271,
       "name": "血之淚[2]",
       "rate": 0.03,
-      "icon_url": "/images/items/1271.gif"
+      "icon_url": "images/items/1271.gif"
     },
     {
       "item_id": 2609,
       "name": "骷髏戒指",
       "rate": 0.5,
-      "icon_url": "/images/items/2609.gif"
+      "icon_url": "images/items/2609.gif"
     },
     {
       "item_id": 2884,
       "name": "珀斯符文印記[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2884.gif"
+      "icon_url": "images/items/2884.gif"
     },
     {
       "item_id": 4404,
       "name": "皮影魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7511,
       "name": "黑暗的輪",
       "rate": 17.5,
-      "icon_url": "/images/items/7511.gif"
+      "icon_url": "images/items/7511.gif"
     }
   ]
 }

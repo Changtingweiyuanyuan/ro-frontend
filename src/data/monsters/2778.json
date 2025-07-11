@@ -4,7 +4,7 @@
     "zh_tw": "精英豹皮怪 / 狡猾豹皮怪",
     "en": "C5_LI_ME_MANG_RYANG"
   },
-  "image_url": "/images/monsters/2778.gif",
+  "image_url": "images/monsters/2778.gif",
   "basic_info": {
     "level": 80,
     "race": "惡魔",
@@ -49,31 +49,31 @@
       "item_id": 1523,
       "name": "暗盲之錘",
       "rate": 0.05,
-      "icon_url": "/images/items/1523.gif"
+      "icon_url": "images/items/1523.gif"
     },
     {
       "item_id": 4265,
       "name": "豹皮怪卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7267,
       "name": "豹紋內褲",
       "rate": 100.0,
-      "icon_url": "/images/items/7267.gif"
+      "icon_url": "images/items/7267.gif"
     },
     {
       "item_id": 7268,
       "name": "小鬼靈",
       "rate": 10.0,
-      "icon_url": "/images/items/7268.gif"
+      "icon_url": "images/items/7268.gif"
     },
     {
       "item_id": 16040,
       "name": "緋紅色鐵鎚[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/16040.gif"
+      "icon_url": "images/items/16040.gif"
     }
   ]
 }

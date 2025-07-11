@@ -4,7 +4,7 @@
     "zh_tw": "基爾瑟卡片",
     "en": "Giearth_Card"
   },
-  "icon_url": "/images/items/4087.gif",
+  "icon_url": "images/items/4087.gif",
   "category": "卡片",
   "description": {
     "official": "避免陷入混亂的狀態。受到地屬性的傷害減少15%。",

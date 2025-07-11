@@ -4,7 +4,7 @@
     "zh_tw": "無顱武士",
     "en": "DULLAHAN"
   },
-  "image_url": "/images/monsters/1504.gif",
+  "image_url": "images/monsters/1504.gif",
   "basic_info": {
     "level": 108,
     "race": "不死",
@@ -64,43 +64,43 @@
       "item_id": 2505,
       "name": "斗篷",
       "rate": 0.07,
-      "icon_url": "/images/items/2505.gif"
+      "icon_url": "images/items/2505.gif"
     },
     {
       "item_id": 2506,
       "name": "斗篷[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2506.gif"
+      "icon_url": "images/items/2506.gif"
     },
     {
       "item_id": 2614,
       "name": "永恆戒指",
       "rate": 0.01,
-      "icon_url": "/images/items/2614.gif"
+      "icon_url": "images/items/2614.gif"
     },
     {
       "item_id": 4176,
       "name": "無顱武士卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7209,
       "name": "無顱武士的頭盔",
       "rate": 16.0,
-      "icon_url": "/images/items/7209.gif"
+      "icon_url": "images/items/7209.gif"
     },
     {
       "item_id": 7210,
       "name": "無顱武士的盔甲一角",
       "rate": 24.25,
-      "icon_url": "/images/items/7210.gif"
+      "icon_url": "images/items/7210.gif"
     },
     {
       "item_id": 15039,
       "name": "奈博的外袍[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/15039.gif"
+      "icon_url": "images/items/15039.gif"
     }
   ]
 }

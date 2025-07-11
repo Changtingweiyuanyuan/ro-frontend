@@ -4,7 +4,7 @@
     "zh_tw": "鶚梟假面",
     "en": "OWL_MARQUEES"
   },
-  "image_url": "/images/monsters/2923.gif",
+  "image_url": "images/monsters/2923.gif",
   "basic_info": {
     "level": 170,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 1472,
       "name": "靈魂之杖",
       "rate": 0.01,
-      "icon_url": "/images/items/1472.gif"
+      "icon_url": "images/items/1472.gif"
     },
     {
       "item_id": 1668,
       "name": "手杖劍[2]",
       "rate": 0.01,
-      "icon_url": "/images/items/1668.gif"
+      "icon_url": "images/items/1668.gif"
     },
     {
       "item_id": 1716,
       "name": "角弓[2]",
       "rate": 0.01,
-      "icon_url": "/images/items/1716.gif"
+      "icon_url": "images/items/1716.gif"
     },
     {
       "item_id": 4632,
       "name": "鶚裊侯爵卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7063,
       "name": "柔軟的羽毛",
       "rate": 15.0,
-      "icon_url": "/images/items/7063.gif"
+      "icon_url": "images/items/7063.gif"
     },
     {
       "item_id": 7071,
       "name": "破爛爛的衣服",
       "rate": 20.0,
-      "icon_url": "/images/items/7071.gif"
+      "icon_url": "images/items/7071.gif"
     },
     {
       "item_id": 15089,
       "name": "紳士西裝",
       "rate": 0.03,
-      "icon_url": "/images/items/15089.gif"
+      "icon_url": "images/items/15089.gif"
     },
     {
       "item_id": 18874,
       "name": "單眼眼鏡[1]",
       "rate": 0.1,
-      "icon_url": "/images/items/18874.gif"
+      "icon_url": "images/items/18874.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "緋紅色大駒短劍",
     "en": "Scarlet_Dagger"
   },
-  "icon_url": "/images/items/28705.gif",
+  "icon_url": "images/items/28705.gif",
   "category": "武器",
   "description": {
     "official": "劍身上散髮著紅光的短劍。ATK增加至(精煉*精煉) (套用至精煉+15)MATK增加至(精煉*精煉)/2 (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。",

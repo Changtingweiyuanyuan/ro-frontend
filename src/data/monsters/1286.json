@@ -4,7 +4,7 @@
     "zh_tw": "騎士 監護人",
     "en": "KNIGHT_GUARDIAN"
   },
-  "image_url": "/images/monsters/1286.gif",
+  "image_url": "images/monsters/1286.gif",
   "basic_info": {
     "level": 86,
     "race": "人形",

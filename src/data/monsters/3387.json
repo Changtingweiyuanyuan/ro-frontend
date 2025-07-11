@@ -4,7 +4,7 @@
     "zh_tw": "小雞",
     "en": "MIN_PICKY"
   },
-  "image_url": "/images/monsters/3387.gif",
+  "image_url": "images/monsters/3387.gif",
   "basic_info": {
     "level": 100,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 10.0,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 519,
       "name": "牛奶",
       "rate": 10.0,
-      "icon_url": "/images/items/519.gif"
+      "icon_url": "images/items/519.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 715,
       "name": "黃色魔力礦石",
       "rate": 0.6,
-      "icon_url": "/images/items/715.gif"
+      "icon_url": "images/items/715.gif"
     },
     {
       "item_id": 916,
       "name": "羽毛",
       "rate": 70.0,
-      "icon_url": "/images/items/916.gif"
+      "icon_url": "images/items/916.gif"
     },
     {
       "item_id": 949,
       "name": "柔毛",
       "rate": 10.0,
-      "icon_url": "/images/items/949.gif"
+      "icon_url": "images/items/949.gif"
     },
     {
       "item_id": 2302,
       "name": "棉襯衫[1]",
       "rate": 2.0,
-      "icon_url": "/images/items/2302.gif"
+      "icon_url": "images/items/2302.gif"
     },
     {
       "item_id": 4008,
       "name": "小雞卡片",
       "rate": 0.2,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

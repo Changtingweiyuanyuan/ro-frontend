@@ -4,7 +4,7 @@
     "zh_tw": "暗●武僧",
     "en": "L_EREND"
   },
-  "image_url": "/images/monsters/2427.gif",
+  "image_url": "images/monsters/2427.gif",
   "basic_info": {
     "level": 98,
     "race": "人形",
@@ -49,43 +49,43 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.02,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 1809,
       "name": "龍爪拳套[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/1809.gif"
+      "icon_url": "images/items/1809.gif"
     },
     {
       "item_id": 1813,
       "name": "風靈拳套",
       "rate": 0.05,
-      "icon_url": "/images/items/1813.gif"
+      "icon_url": "images/items/1813.gif"
     },
     {
       "item_id": 2326,
       "name": "聖職之衣[1]",
       "rate": 0.2,
-      "icon_url": "/images/items/2326.gif"
+      "icon_url": "images/items/2326.gif"
     },
     {
       "item_id": 2373,
       "name": "天衣月舞[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2373.gif"
+      "icon_url": "images/items/2373.gif"
     },
     {
       "item_id": 7345,
       "name": "犯人的手煉",
       "rate": 25.0,
-      "icon_url": "/images/items/7345.gif"
+      "icon_url": "images/items/7345.gif"
     },
     {
       "item_id": 7347,
       "name": "研究員紀錄表",
       "rate": 50.0,
-      "icon_url": "/images/items/7347.gif"
+      "icon_url": "images/items/7347.gif"
     }
   ]
 }

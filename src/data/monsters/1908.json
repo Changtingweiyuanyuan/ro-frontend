@@ -4,7 +4,7 @@
     "zh_tw": "第2守護石",
     "en": "S_EMPEL_2"
   },
-  "image_url": "/images/monsters/1908.gif",
+  "image_url": "images/monsters/1908.gif",
   "basic_info": {
     "level": 90,
     "race": "無形",

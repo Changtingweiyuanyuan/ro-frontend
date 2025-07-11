@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 迅捷 艾吉歐蜈蚣",
     "en": "C1_ARGIOPE"
   },
-  "image_url": "/images/monsters/2892.gif",
+  "image_url": "images/monsters/2892.gif",
   "basic_info": {
     "level": 75,
     "race": "昆蟲",
@@ -49,43 +49,43 @@
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 37.5,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 719,
       "name": "紫寶石",
       "rate": 0.25,
-      "icon_url": "/images/items/719.gif"
+      "icon_url": "images/items/719.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 4.4,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 30.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 1042,
       "name": "昆蟲後腳",
       "rate": 100.0,
-      "icon_url": "/images/items/1042.gif"
+      "icon_url": "images/items/1042.gif"
     },
     {
       "item_id": 2406,
       "name": "戰士長靴[1]",
       "rate": 0.15,
-      "icon_url": "/images/items/2406.gif"
+      "icon_url": "images/items/2406.gif"
     },
     {
       "item_id": 4114,
       "name": "艾吉歐蜈蚣卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

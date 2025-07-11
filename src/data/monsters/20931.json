@@ -4,7 +4,7 @@
     "zh_tw": "飛拉加裡安",
     "en": "PLAGARION"
   },
-  "image_url": "/images/monsters/20931.gif",
+  "image_url": "images/monsters/20931.gif",
   "basic_info": {
     "level": 215,
     "race": "龍",
@@ -49,49 +49,49 @@
       "item_id": 1035,
       "name": "龍牙",
       "rate": 20.0,
-      "icon_url": "/images/items/1035.gif"
+      "icon_url": "images/items/1035.gif"
     },
     {
       "item_id": 1037,
       "name": "龍尾",
       "rate": 20.0,
-      "icon_url": "/images/items/1037.gif"
+      "icon_url": "images/items/1037.gif"
     },
     {
       "item_id": 7123,
       "name": "龍皮",
       "rate": 20.0,
-      "icon_url": "/images/items/7123.gif"
+      "icon_url": "images/items/7123.gif"
     },
     {
       "item_id": 25728,
       "name": "影子神祕原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25728.gif"
+      "icon_url": "images/items/25728.gif"
     },
     {
       "item_id": 25729,
       "name": "影子神祕金屬",
       "rate": 0.12,
-      "icon_url": "/images/items/25729.gif"
+      "icon_url": "images/items/25729.gif"
     },
     {
       "item_id": 25730,
       "name": "鍺金原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25730.gif"
+      "icon_url": "images/items/25730.gif"
     },
     {
       "item_id": 25731,
       "name": "鍺金石",
       "rate": 0.12,
-      "icon_url": "/images/items/25731.gif"
+      "icon_url": "images/items/25731.gif"
     },
     {
       "item_id": 300251,
       "name": "Plagarion Card",
       "rate": 0.01,
-      "icon_url": "/images/items/300251.gif"
+      "icon_url": "images/items/300251.gif"
     }
   ]
 }

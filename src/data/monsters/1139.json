@@ -4,7 +4,7 @@
     "zh_tw": "螳螂",
     "en": "MANTIS"
   },
-  "image_url": "/images/monsters/1139.gif",
+  "image_url": "images/monsters/1139.gif",
   "basic_info": {
     "level": 65,
     "race": "昆蟲",
@@ -114,49 +114,49 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 3.25,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 721,
       "name": "綠寶石",
       "rate": 0.05,
-      "icon_url": "/images/items/721.gif"
+      "icon_url": "images/items/721.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.35,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 7.0,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 1.25,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 0.55,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 1031,
       "name": "螳螂臂",
       "rate": 45.0,
-      "icon_url": "/images/items/1031.gif"
+      "icon_url": "images/items/1031.gif"
     },
     {
       "item_id": 4079,
       "name": "螳螂卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

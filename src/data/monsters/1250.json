@@ -4,7 +4,7 @@
     "zh_tw": "魔靈娃娃",
     "en": "CHEPET"
   },
-  "image_url": "/images/monsters/1250.gif",
+  "image_url": "images/monsters/1250.gif",
   "basic_info": {
     "level": 42,
     "race": "人形",
@@ -54,49 +54,49 @@
       "item_id": 512,
       "name": "蘋果",
       "rate": 27.5,
-      "icon_url": "/images/items/512.gif"
+      "icon_url": "images/items/512.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 619,
       "name": "青蘋果",
       "rate": 0.2,
-      "icon_url": "/images/items/619.gif"
+      "icon_url": "images/items/619.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 3.75,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 2508,
       "name": "抗魔斗篷",
       "rate": 0.03,
-      "icon_url": "/images/items/2508.gif"
+      "icon_url": "images/items/2508.gif"
     },
     {
       "item_id": 4284,
       "name": "魔靈娃娃卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7035,
       "name": "火柴",
       "rate": 12.5,
-      "icon_url": "/images/items/7035.gif"
+      "icon_url": "images/items/7035.gif"
     },
     {
       "item_id": 10019,
       "name": "紅色領巾",
       "rate": 0.03,
-      "icon_url": "/images/items/10019.gif"
+      "icon_url": "images/items/10019.gif"
     }
   ]
 }

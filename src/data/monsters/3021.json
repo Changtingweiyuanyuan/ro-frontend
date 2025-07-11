@@ -4,7 +4,7 @@
     "zh_tw": "火焰泥人",
     "en": "FIRE_SAND_MAN"
   },
-  "image_url": "/images/monsters/3021.gif",
+  "image_url": "images/monsters/3021.gif",
   "basic_info": {
     "level": 143,
     "race": "無形",
@@ -49,13 +49,13 @@
       "item_id": 6694,
       "name": "怪獸血液",
       "rate": 15.0,
-      "icon_url": "/images/items/6694.gif"
+      "icon_url": "images/items/6694.gif"
     },
     {
       "item_id": 27027,
       "name": "Fire Sandman Card",
       "rate": 0.01,
-      "icon_url": "/images/items/27027.gif"
+      "icon_url": "images/items/27027.gif"
     }
   ]
 }

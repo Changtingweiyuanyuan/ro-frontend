@@ -4,7 +4,7 @@
     "zh_tw": "魔力藤蔓",
     "en": "G_ENTWEIHEN_M"
   },
-  "image_url": "/images/monsters/1960.gif",
+  "image_url": "images/monsters/1960.gif",
   "basic_info": {
     "level": 89,
     "race": "惡魔",

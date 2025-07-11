@@ -4,7 +4,7 @@
     "zh_tw": "庫克雷卡片",
     "en": "Kukre_Card"
   },
-  "icon_url": "/images/items/4027.gif",
+  "icon_url": "images/items/4027.gif",
   "category": "卡片",
   "description": {
     "official": "AGI+2",

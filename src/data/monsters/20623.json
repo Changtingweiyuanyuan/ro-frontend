@@ -4,7 +4,7 @@
     "zh_tw": "咪魘研究助理機器人",
     "en": "MD_ASSISTANT_H"
   },
-  "image_url": "/images/monsters/20623.gif",
+  "image_url": "images/monsters/20623.gif",
   "basic_info": {
     "level": 187,
     "race": "無形",
@@ -49,43 +49,43 @@
       "item_id": 998,
       "name": "鐵",
       "rate": 20.0,
-      "icon_url": "/images/items/998.gif"
+      "icon_url": "images/items/998.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 5.0,
-      "icon_url": "/images/items/999.gif"
+      "icon_url": "images/items/999.gif"
     },
     {
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 2.5,
-      "icon_url": "/images/items/7507.gif"
+      "icon_url": "images/items/7507.gif"
     },
     {
       "item_id": 11563,
       "name": "溫暖紅茶",
       "rate": 0.1,
-      "icon_url": "/images/items/11563.gif"
+      "icon_url": "images/items/11563.gif"
     },
     {
       "item_id": 300082,
       "name": "咪魘研究助理機器人卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300082.gif"
+      "icon_url": "images/items/300082.gif"
     },
     {
       "item_id": 540004,
       "name": "斯洛夫技術圖書[2]",
       "rate": 0.04,
-      "icon_url": "/images/items/540004.gif"
+      "icon_url": "images/items/540004.gif"
     },
     {
       "item_id": 540005,
       "name": "斯洛夫聖書[2]",
       "rate": 0.04,
-      "icon_url": "/images/items/540005.gif"
+      "icon_url": "images/items/540005.gif"
     }
   ]
 }

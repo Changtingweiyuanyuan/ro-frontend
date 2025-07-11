@@ -4,7 +4,7 @@
     "zh_tw": "甜餅人",
     "en": "COOKIE_XMAS"
   },
-  "image_url": "/images/monsters/1246.gif",
+  "image_url": "images/monsters/1246.gif",
   "basic_info": {
     "level": 37,
     "race": "人形",
@@ -54,49 +54,49 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 8.5,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 538,
       "name": "姜餅",
       "rate": 20.0,
-      "icon_url": "/images/items/538.gif"
+      "icon_url": "images/items/538.gif"
     },
     {
       "item_id": 644,
       "name": "禮物箱",
       "rate": 0.03,
-      "icon_url": "/images/items/644.gif"
+      "icon_url": "images/items/644.gif"
     },
     {
       "item_id": 688,
       "name": "冰箭術 等級3",
       "rate": 0.5,
-      "icon_url": "/images/items/688.gif"
+      "icon_url": "images/items/688.gif"
     },
     {
       "item_id": 722,
       "name": "珍珠",
       "rate": 0.23,
-      "icon_url": "/images/items/722.gif"
+      "icon_url": "images/items/722.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 1.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 2502,
       "name": "連帽披肩[1]",
       "rate": 0.13,
-      "icon_url": "/images/items/2502.gif"
+      "icon_url": "images/items/2502.gif"
     },
     {
       "item_id": 4235,
       "name": "XMAS甜餅人卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

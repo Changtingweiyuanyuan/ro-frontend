@@ -4,7 +4,7 @@
     "zh_tw": "葡萄汁",
     "en": "Grape_Juice"
   },
-  "icon_url": "/images/items/533.gif",
+  "icon_url": "images/items/533.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "葡萄所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",

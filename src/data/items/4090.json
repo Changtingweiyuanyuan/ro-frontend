@@ -4,7 +4,7 @@
     "zh_tw": "殭屍卡片",
     "en": "Munak_Card"
   },
-  "icon_url": "/images/items/4090.gif",
+  "icon_url": "images/items/4090.gif",
   "category": "卡片",
   "description": {
     "official": "受到攻擊時，被石化的幾率降低15%。受到地屬性的傷害減少5%。DEF+1套裝資料:妖君卡片, 妖道卡片 & 殭屍卡片 套裝殭屍卡片 & 憤懣殭屍卡片",

@@ -4,7 +4,7 @@
     "zh_tw": "魔神的影子",
     "en": "MM_EVIL_SHADOW1"
   },
-  "image_url": "/images/monsters/2939.gif",
+  "image_url": "images/monsters/2939.gif",
   "basic_info": {
     "level": 138,
     "race": "惡魔",
@@ -59,7 +59,7 @@
       "item_id": 27264,
       "name": "魔神影子卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27264.gif"
+      "icon_url": "images/items/27264.gif"
     }
   ]
 }

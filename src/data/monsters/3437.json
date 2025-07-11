@@ -4,7 +4,7 @@
     "zh_tw": "狂暴木乃伊",
     "en": "MIN_G_ANCIENT_MUMMY"
   },
-  "image_url": "/images/monsters/3437.gif",
+  "image_url": "images/monsters/3437.gif",
   "basic_info": {
     "level": 100,
     "race": "不死",

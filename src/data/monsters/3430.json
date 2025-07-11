@@ -4,7 +4,7 @@
     "zh_tw": "塔奧群卡",
     "en": "MIN_TAO_GUNKA"
   },
-  "image_url": "/images/monsters/3430.gif",
+  "image_url": "images/monsters/3430.gif",
   "basic_info": {
     "level": 109,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 504,
       "name": "白色藥水",
       "rate": 15.0,
-      "icon_url": "/images/items/504.gif"
+      "icon_url": "images/items/504.gif"
     },
     {
       "item_id": 728,
       "name": "黃寶石",
       "rate": 5.0,
-      "icon_url": "/images/items/728.gif"
+      "icon_url": "images/items/728.gif"
     },
     {
       "item_id": 2231,
       "name": "寶石頭盔[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2231.gif"
+      "icon_url": "images/items/2231.gif"
     },
     {
       "item_id": 2296,
       "name": "望遠鏡",
       "rate": 2.0,
-      "icon_url": "/images/items/2296.gif"
+      "icon_url": "images/items/2296.gif"
     },
     {
       "item_id": 4651,
       "name": "無限塔奧群卡卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6905,
       "name": "破碎的魔法石",
       "rate": 100.0,
-      "icon_url": "/images/items/6905.gif"
+      "icon_url": "images/items/6905.gif"
     },
     {
       "item_id": 7300,
       "name": "寶石原石",
       "rate": 24.25,
-      "icon_url": "/images/items/7300.gif"
+      "icon_url": "images/items/7300.gif"
     },
     {
       "item_id": 12738,
       "name": "珍稀符文原石",
       "rate": 1.0,
-      "icon_url": "/images/items/12738.gif"
+      "icon_url": "images/items/12738.gif"
     }
   ]
 }

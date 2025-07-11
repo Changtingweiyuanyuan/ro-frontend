@@ -4,7 +4,7 @@
     "zh_tw": "科摩多龍",
     "en": "COMODO"
   },
-  "image_url": "/images/monsters/2152.gif",
+  "image_url": "images/monsters/2152.gif",
   "basic_info": {
     "level": 81,
     "race": "動物",
@@ -49,31 +49,31 @@
       "item_id": 517,
       "name": "肉",
       "rate": 45.0,
-      "icon_url": "/images/items/517.gif"
+      "icon_url": "images/items/517.gif"
     },
     {
       "item_id": 908,
       "name": "青蛙蛋",
       "rate": 25.0,
-      "icon_url": "/images/items/908.gif"
+      "icon_url": "images/items/908.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 45.0,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 4516,
       "name": "科摩多龍卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6403,
       "name": "科摩多龍皮",
       "rate": 25.0,
-      "icon_url": "/images/items/6403.gif"
+      "icon_url": "images/items/6403.gif"
     }
   ]
 }

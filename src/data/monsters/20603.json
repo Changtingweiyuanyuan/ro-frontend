@@ -4,7 +4,7 @@
     "zh_tw": "深淵礦工魔",
     "en": "ABYSSMAN"
   },
-  "image_url": "/images/monsters/20603.gif",
+  "image_url": "images/monsters/20603.gif",
   "basic_info": {
     "level": 190,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 1003,
       "name": "煤礦",
       "rate": 0.5,
-      "icon_url": "/images/items/1003.gif"
+      "icon_url": "images/items/1003.gif"
     },
     {
       "item_id": 1041,
       "name": "手提燈",
       "rate": 5.0,
-      "icon_url": "/images/items/1041.gif"
+      "icon_url": "images/items/1041.gif"
     },
     {
       "item_id": 7318,
       "name": "老舊的十字鎬",
       "rate": 15.0,
-      "icon_url": "/images/items/7318.gif"
+      "icon_url": "images/items/7318.gif"
     },
     {
       "item_id": 7327,
       "name": "懷中電燈",
       "rate": 0.4,
-      "icon_url": "/images/items/7327.gif"
+      "icon_url": "images/items/7327.gif"
     },
     {
       "item_id": 25728,
       "name": "影子神祕原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25728.gif"
+      "icon_url": "images/items/25728.gif"
     },
     {
       "item_id": 25811,
       "name": "橘色神力礦石",
       "rate": 1.5,
-      "icon_url": "/images/items/25811.gif"
+      "icon_url": "images/items/25811.gif"
     },
     {
       "item_id": 25816,
       "name": "閒置陷阱",
       "rate": 1.5,
-      "icon_url": "/images/items/25816.gif"
+      "icon_url": "images/items/25816.gif"
     },
     {
       "item_id": 300005,
       "name": "深淵礦工魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300005.gif"
+      "icon_url": "images/items/300005.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "卡塔勒拳刃",
     "en": "Katar_"
   },
-  "icon_url": "/images/items/1253.gif",
+  "icon_url": "images/items/1253.gif",
   "category": "武器",
   "description": {
     "official": "用古代祕術所製作出來的拳刃，刀刃會不斷的晃動，造成敵人混亂的兵器。DEX+1",

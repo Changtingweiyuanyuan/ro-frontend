@@ -4,7 +4,7 @@
     "zh_tw": "突變蛙卡片",
     "en": "Thara_Frog_Card"
   },
-  "icon_url": "/images/items/4058.gif",
+  "icon_url": "images/items/4058.gif",
   "category": "卡片",
   "description": {
     "official": "受到人型系魔物攻擊時，可減少30%的傷害。",

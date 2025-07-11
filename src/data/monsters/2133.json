@@ -4,7 +4,7 @@
     "zh_tw": "瘋狂螳螂",
     "en": "ANGRA_MANTIS"
   },
-  "image_url": "/images/monsters/2133.gif",
+  "image_url": "images/monsters/2133.gif",
   "basic_info": {
     "level": 144,
     "race": "昆蟲",
@@ -69,31 +69,31 @@
       "item_id": 997,
       "name": "土靈原石",
       "rate": 0.05,
-      "icon_url": "/images/items/997.gif"
+      "icon_url": "images/items/997.gif"
     },
     {
       "item_id": 1830,
       "name": "霸王亂舞[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/1830.gif"
+      "icon_url": "images/items/1830.gif"
     },
     {
       "item_id": 4513,
       "name": "瘋狂螳螂卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6086,
       "name": "凋謝的花",
       "rate": 15.0,
-      "icon_url": "/images/items/6086.gif"
+      "icon_url": "images/items/6086.gif"
     },
     {
       "item_id": 7194,
       "name": "柔軟的草葉",
       "rate": 5.0,
-      "icon_url": "/images/items/7194.gif"
+      "icon_url": "images/items/7194.gif"
     }
   ]
 }

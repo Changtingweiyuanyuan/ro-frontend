@@ -4,7 +4,7 @@
     "zh_tw": "惡臭綠腐屍",
     "en": "GHOUL_H"
   },
-  "image_url": "/images/monsters/3255.gif",
+  "image_url": "images/monsters/3255.gif",
   "basic_info": {
     "level": 155,
     "race": "植物",

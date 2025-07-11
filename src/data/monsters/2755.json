@@ -4,7 +4,7 @@
     "zh_tw": "精英金屬波利 / 雄壯金屬波利",
     "en": "C2_METALING"
   },
-  "image_url": "/images/monsters/2755.gif",
+  "image_url": "images/monsters/2755.gif",
   "basic_info": {
     "level": 81,
     "race": "無形",
@@ -49,49 +49,49 @@
       "item_id": 998,
       "name": "鐵",
       "rate": 12.5,
-      "icon_url": "/images/items/998.gif"
+      "icon_url": "images/items/998.gif"
     },
     {
       "item_id": 1002,
       "name": "鐵礦石",
       "rate": 25.0,
-      "icon_url": "/images/items/1002.gif"
+      "icon_url": "images/items/1002.gif"
     },
     {
       "item_id": 4341,
       "name": "金屬波利卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7126,
       "name": "巨大傑勒比結晶",
       "rate": 25.0,
-      "icon_url": "/images/items/7126.gif"
+      "icon_url": "images/items/7126.gif"
     },
     {
       "item_id": 7312,
       "name": "朱畢雷",
       "rate": 100.0,
-      "icon_url": "/images/items/7312.gif"
+      "icon_url": "images/items/7312.gif"
     },
     {
       "item_id": 7317,
       "name": "生鏽的螺絲",
       "rate": 5.0,
-      "icon_url": "/images/items/7317.gif"
+      "icon_url": "images/items/7317.gif"
     },
     {
       "item_id": 7325,
       "name": "軟管",
       "rate": 100.0,
-      "icon_url": "/images/items/7325.gif"
+      "icon_url": "images/items/7325.gif"
     },
     {
       "item_id": 13127,
       "name": "緋紅色左輪手槍[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/13127.gif"
+      "icon_url": "images/items/13127.gif"
     }
   ]
 }

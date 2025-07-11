@@ -4,7 +4,7 @@
     "zh_tw": "守衛狗 / 溫馴的警犬",
     "en": "GUARDDOG"
   },
-  "image_url": "/images/monsters/2545.gif",
+  "image_url": "images/monsters/2545.gif",
   "basic_info": {
     "level": 101,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 7477,
       "name": "6級烹飪書",
       "rate": 0.01,
-      "icon_url": "/images/items/7477.gif"
+      "icon_url": "images/items/7477.gif"
     },
     {
       "item_id": 12043,
       "name": "醬爆牛排",
       "rate": 6.0,
-      "icon_url": "/images/items/12043.gif"
+      "icon_url": "images/items/12043.gif"
     },
     {
       "item_id": 12048,
       "name": "藥草蜂蜜茶",
       "rate": 6.0,
-      "icon_url": "/images/items/12048.gif"
+      "icon_url": "images/items/12048.gif"
     },
     {
       "item_id": 12053,
       "name": "蛤蜊湯",
       "rate": 6.0,
-      "icon_url": "/images/items/12053.gif"
+      "icon_url": "images/items/12053.gif"
     },
     {
       "item_id": 12058,
       "name": "觸鬚起士湯",
       "rate": 6.0,
-      "icon_url": "/images/items/12058.gif"
+      "icon_url": "images/items/12058.gif"
     },
     {
       "item_id": 12063,
       "name": "水果色拉",
       "rate": 6.0,
-      "icon_url": "/images/items/12063.gif"
+      "icon_url": "images/items/12063.gif"
     },
     {
       "item_id": 12068,
       "name": "番薯餅",
       "rate": 6.0,
-      "icon_url": "/images/items/12068.gif"
+      "icon_url": "images/items/12068.gif"
     },
     {
       "item_id": 12125,
       "name": "野外烹飪用具",
       "rate": 3.33,
-      "icon_url": "/images/items/12125.gif"
+      "icon_url": "images/items/12125.gif"
     }
   ]
 }

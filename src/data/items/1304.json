@@ -4,7 +4,7 @@
     "zh_tw": "獸人斧",
     "en": "Orcish_Axe"
   },
-  "icon_url": "/images/items/1304.gif",
+  "icon_url": "images/items/1304.gif",
   "category": "武器",
   "description": {
     "official": "獸人使用的斧。",

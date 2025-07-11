@@ -4,7 +4,7 @@
     "zh_tw": "藍色驚駭森靈女王 / 人面蟲皇后",
     "en": "FACEWORM_QUEEN_B"
   },
-  "image_url": "/images/monsters/2534.gif",
+  "image_url": "images/monsters/2534.gif",
   "basic_info": {
     "level": 155,
     "race": "昆蟲",
@@ -49,25 +49,25 @@
       "item_id": 995,
       "name": "水靈原石",
       "rate": 50.0,
-      "icon_url": "/images/items/995.gif"
+      "icon_url": "images/items/995.gif"
     },
     {
       "item_id": 6649,
       "name": "斷裂的角",
       "rate": 50.0,
-      "icon_url": "/images/items/6649.gif"
+      "icon_url": "images/items/6649.gif"
     },
     {
       "item_id": 13090,
       "name": "人面蟲皇後的腳[2]",
       "rate": 1.0,
-      "icon_url": "/images/items/13090.gif"
+      "icon_url": "images/items/13090.gif"
     },
     {
       "item_id": 27164,
       "name": "驚駭森靈皇后卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27164.gif"
+      "icon_url": "images/items/27164.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "紅色魔力礦石",
     "en": "Red_Gemstone"
   },
-  "icon_url": "/images/items/716.gif",
+  "icon_url": "images/items/716.gif",
   "category": "其他類",
   "description": {
     "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",

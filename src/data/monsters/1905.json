@@ -4,7 +4,7 @@
     "zh_tw": "防禦線",
     "en": "BARRICADE"
   },
-  "image_url": "/images/monsters/1905.gif",
+  "image_url": "images/monsters/1905.gif",
   "basic_info": {
     "level": 98,
     "race": "無形",

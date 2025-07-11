@@ -4,7 +4,7 @@
     "zh_tw": "大嘴鳥蛋",
     "en": "PECOPECO_EGG"
   },
-  "image_url": "/images/monsters/1047.gif",
+  "image_url": "images/monsters/1047.gif",
   "basic_info": {
     "level": 7,
     "race": "無形",
@@ -64,43 +64,43 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 2.0,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 2.0,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 736,
       "name": "白色盤子",
       "rate": 0.05,
-      "icon_url": "/images/items/736.gif"
+      "icon_url": "images/items/736.gif"
     },
     {
       "item_id": 935,
       "name": "堅硬外殼",
       "rate": 7.5,
-      "icon_url": "/images/items/935.gif"
+      "icon_url": "images/items/935.gif"
     },
     {
       "item_id": 1010,
       "name": "強化武器金屬-級數一",
       "rate": 1.25,
-      "icon_url": "/images/items/1010.gif"
+      "icon_url": "images/items/1010.gif"
     },
     {
       "item_id": 2102,
       "name": "鐵盾[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2102.gif"
+      "icon_url": "images/items/2102.gif"
     },
     {
       "item_id": 4007,
       "name": "大嘴鳥蛋卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

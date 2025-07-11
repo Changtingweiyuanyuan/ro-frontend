@@ -4,7 +4,7 @@
     "zh_tw": "憤懣鬼女 / 憤恨的鬼女",
     "en": "ILL_SOHEE"
   },
-  "image_url": "/images/monsters/3762.gif",
+  "image_url": "images/monsters/3762.gif",
   "basic_info": {
     "level": 114,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 1049,
       "name": "韓服",
       "rate": 3.0,
-      "icon_url": "/images/items/1049.gif"
+      "icon_url": "images/items/1049.gif"
     },
     {
       "item_id": 2277,
       "name": "護士帽",
       "rate": 0.1,
-      "icon_url": "/images/items/2277.gif"
+      "icon_url": "images/items/2277.gif"
     },
     {
       "item_id": 6144,
       "name": "心痛的眼淚",
       "rate": 2.0,
-      "icon_url": "/images/items/6144.gif"
+      "icon_url": "images/items/6144.gif"
     },
     {
       "item_id": 7932,
       "name": "毒草夾竹桃",
       "rate": 2.0,
-      "icon_url": "/images/items/7932.gif"
+      "icon_url": "images/items/7932.gif"
     },
     {
       "item_id": 12196,
       "name": "飽足感的糕餅",
       "rate": 2.0,
-      "icon_url": "/images/items/12196.gif"
+      "icon_url": "images/items/12196.gif"
     },
     {
       "item_id": 15012,
       "name": "皎潔長袍[1]",
       "rate": 0.1,
-      "icon_url": "/images/items/15012.gif"
+      "icon_url": "images/items/15012.gif"
     },
     {
       "item_id": 25257,
       "name": "血跡情書",
       "rate": 20.0,
-      "icon_url": "/images/items/25257.gif"
+      "icon_url": "images/items/25257.gif"
     },
     {
       "item_id": 27084,
       "name": "憤懣鬼女卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27084.gif"
+      "icon_url": "images/items/27084.gif"
     }
   ]
 }

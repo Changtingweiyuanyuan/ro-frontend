@@ -4,7 +4,7 @@
     "zh_tw": "風靈原石",
     "en": "Rough_Wind"
   },
-  "icon_url": "/images/items/996.gif",
+  "icon_url": "images/items/996.gif",
   "category": "其他類",
   "description": {
     "official": "擁有風屬性的礦石。",

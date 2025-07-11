@@ -4,7 +4,7 @@
     "zh_tw": "測試用魔物",
     "en": "惡魔"
   },
-  "image_url": "/images/monsters/21073.gif",
+  "image_url": "images/monsters/21073.gif",
   "basic_info": {
     "level": 100,
     "race": "惡魔",

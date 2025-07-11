@@ -4,7 +4,7 @@
     "zh_tw": "硬石猛瑪",
     "en": "HARDROCK_MOMMOTH"
   },
-  "image_url": "/images/monsters/1990.gif",
+  "image_url": "images/monsters/1990.gif",
   "basic_info": {
     "level": 137,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 45.0,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1483,
       "name": "象牙長矛[1]",
       "rate": 2.5,
-      "icon_url": "/images/items/1483.gif"
+      "icon_url": "images/items/1483.gif"
     },
     {
       "item_id": 2133,
       "name": "錦標賽之盾[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/2133.gif"
+      "icon_url": "images/items/2133.gif"
     },
     {
       "item_id": 2257,
       "name": "獸角頭飾",
       "rate": 0.1,
-      "icon_url": "/images/items/2257.gif"
+      "icon_url": "images/items/2257.gif"
     },
     {
       "item_id": 4462,
       "name": "硬石猛犸卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5398,
       "name": "骸骨帽子[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/5398.gif"
+      "icon_url": "images/items/5398.gif"
     },
     {
       "item_id": 6022,
       "name": "堅硬的皮膚",
       "rate": 45.0,
-      "icon_url": "/images/items/6022.gif"
+      "icon_url": "images/items/6022.gif"
     },
     {
       "item_id": 13039,
       "name": "象牙匕首[2]",
       "rate": 2.0,
-      "icon_url": "/images/items/13039.gif"
+      "icon_url": "images/items/13039.gif"
     }
   ]
 }

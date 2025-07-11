@@ -4,7 +4,7 @@
     "zh_tw": "精英元宵童子 / 菁英元宵童子",
     "en": "C3_RICE_CAKE_BOY"
   },
-  "image_url": "/images/monsters/2683.gif",
+  "image_url": "images/monsters/2683.gif",
   "basic_info": {
     "level": 60,
     "race": "人形",
@@ -49,43 +49,43 @@
       "item_id": 553,
       "name": "包子",
       "rate": 25.0,
-      "icon_url": "/images/items/553.gif"
+      "icon_url": "images/items/553.gif"
     },
     {
       "item_id": 2262,
       "name": "小丑鼻子",
       "rate": 0.05,
-      "icon_url": "/images/items/2262.gif"
+      "icon_url": "images/items/2262.gif"
     },
     {
       "item_id": 4154,
       "name": "元宵童子卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7150,
       "name": "竹筒",
       "rate": 80.0,
-      "icon_url": "/images/items/7150.gif"
+      "icon_url": "images/items/7150.gif"
     },
     {
       "item_id": 7151,
       "name": "油紙",
       "rate": 62.5,
-      "icon_url": "/images/items/7151.gif"
+      "icon_url": "images/items/7151.gif"
     },
     {
       "item_id": 7187,
       "name": "慶典面具",
       "rate": 75.0,
-      "icon_url": "/images/items/7187.gif"
+      "icon_url": "images/items/7187.gif"
     },
     {
       "item_id": 7192,
       "name": "小風車手裡刀",
       "rate": 100.0,
-      "icon_url": "/images/items/7192.gif"
+      "icon_url": "images/items/7192.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "堅硬穆希貝斯寇",
     "en": "MUSPELLSKOLL_H"
   },
-  "image_url": "/images/monsters/20419.gif",
+  "image_url": "images/monsters/20419.gif",
   "basic_info": {
     "level": 188,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 607,
       "name": "天地樹果實",
       "rate": 35.0,
-      "icon_url": "/images/items/607.gif"
+      "icon_url": "images/items/607.gif"
     },
     {
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 35.0,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 15378,
       "name": "熔岩獸皮鎧甲[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/15378.gif"
+      "icon_url": "images/items/15378.gif"
     },
     {
       "item_id": 15379,
       "name": "熔岩獸皮外套[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/15379.gif"
+      "icon_url": "images/items/15379.gif"
     },
     {
       "item_id": 15380,
       "name": "熔岩獸皮外袍[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/15380.gif"
+      "icon_url": "images/items/15380.gif"
     },
     {
       "item_id": 25729,
       "name": "影子神祕金屬",
       "rate": 0.5,
-      "icon_url": "/images/items/25729.gif"
+      "icon_url": "images/items/25729.gif"
     },
     {
       "item_id": 25731,
       "name": "鍺金石",
       "rate": 0.5,
-      "icon_url": "/images/items/25731.gif"
+      "icon_url": "images/items/25731.gif"
     },
     {
       "item_id": 27346,
       "name": "堅硬穆希貝斯寇卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27346.gif"
+      "icon_url": "images/items/27346.gif"
     }
   ]
 }

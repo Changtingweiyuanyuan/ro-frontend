@@ -4,7 +4,7 @@
     "zh_tw": "水靈原石",
     "en": "Mistic_Frozen"
   },
-  "icon_url": "/images/items/995.gif",
+  "icon_url": "images/items/995.gif",
   "category": "其他類",
   "description": {
     "official": "擁有水屬性的礦石。",

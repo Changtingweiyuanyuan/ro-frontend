@@ -4,7 +4,7 @@
     "zh_tw": "強化武器金屬-級數二",
     "en": "Emveretarcon"
   },
-  "icon_url": "/images/items/1011.gif",
+  "icon_url": "images/items/1011.gif",
   "category": "其他類",
   "description": {
     "official": "用來強化武器在製作武器所使用的金屬，可以強化級數二的武器。",

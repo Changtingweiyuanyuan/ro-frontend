@@ -4,7 +4,7 @@
     "zh_tw": "深淵犬妖",
     "en": "大斧"
   },
-  "image_url": "/images/monsters/2284.gif",
+  "image_url": "images/monsters/2284.gif",
   "basic_info": {
     "level": 145,
     "race": "人形",
@@ -54,37 +54,37 @@
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 3.5,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 0.13,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 0.5,
-      "icon_url": "/images/items/999.gif"
+      "icon_url": "images/items/999.gif"
     },
     {
       "item_id": 1034,
       "name": "犬妖的毛",
       "rate": 26.68,
-      "icon_url": "/images/items/1034.gif"
+      "icon_url": "images/items/1034.gif"
     },
     {
       "item_id": 1396,
       "name": "戰神斬首之斧",
       "rate": 0.01,
-      "icon_url": "/images/items/1396.gif"
+      "icon_url": "images/items/1396.gif"
     },
     {
       "item_id": 12679,
       "name": "城戰白色藥水箱",
       "rate": 0.02,
-      "icon_url": "/images/items/12679.gif"
+      "icon_url": "images/items/12679.gif"
     }
   ]
 }

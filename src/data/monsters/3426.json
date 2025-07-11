@@ -4,7 +4,7 @@
     "zh_tw": "虎王",
     "en": "MIN_EDDGA"
   },
-  "image_url": "/images/monsters/3426.gif",
+  "image_url": "images/monsters/3426.gif",
   "basic_info": {
     "level": 101,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 12.0,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1030,
       "name": "虎掌",
       "rate": 4.0,
-      "icon_url": "/images/items/1030.gif"
+      "icon_url": "images/items/1030.gif"
     },
     {
       "item_id": 1133,
       "name": "火靈之劍",
       "rate": 0.75,
-      "icon_url": "/images/items/1133.gif"
+      "icon_url": "images/items/1133.gif"
     },
     {
       "item_id": 1258,
       "name": "火靈拳刃",
       "rate": 2.5,
-      "icon_url": "/images/items/1258.gif"
+      "icon_url": "images/items/1258.gif"
     },
     {
       "item_id": 2268,
       "name": "菸斗",
       "rate": 1.25,
-      "icon_url": "/images/items/2268.gif"
+      "icon_url": "images/items/2268.gif"
     },
     {
       "item_id": 4648,
       "name": "無限虎王卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6905,
       "name": "破碎的魔法石",
       "rate": 100.0,
-      "icon_url": "/images/items/6905.gif"
+      "icon_url": "images/items/6905.gif"
     },
     {
       "item_id": 13046,
       "name": "戰爭短劍[3]",
       "rate": 1.0,
-      "icon_url": "/images/items/13046.gif"
+      "icon_url": "images/items/13046.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "卡那多斯",
     "en": "CORNUTUS"
   },
-  "image_url": "/images/monsters/1067.gif",
+  "image_url": "images/monsters/1067.gif",
   "basic_info": {
     "level": 48,
     "race": "魚貝",
@@ -54,49 +54,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.27,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 4.0,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 5.0,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 961,
       "name": "海螺",
       "rate": 27.5,
-      "icon_url": "/images/items/961.gif"
+      "icon_url": "images/items/961.gif"
     },
     {
       "item_id": 991,
       "name": "水靈礦石",
       "rate": 0.23,
-      "icon_url": "/images/items/991.gif"
+      "icon_url": "images/items/991.gif"
     },
     {
       "item_id": 2106,
       "name": "鋼盾[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2106.gif"
+      "icon_url": "images/items/2106.gif"
     },
     {
       "item_id": 4061,
       "name": "卡那多斯卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "薇歐莉",
     "en": "VIOLY"
   },
-  "image_url": "/images/monsters/1390.gif",
+  "image_url": "images/monsters/1390.gif",
   "basic_info": {
     "level": 118,
     "race": "人形",
@@ -64,49 +64,49 @@
       "item_id": 526,
       "name": "蜂膠",
       "rate": 7.0,
-      "icon_url": "/images/items/526.gif"
+      "icon_url": "images/items/526.gif"
     },
     {
       "item_id": 740,
       "name": "瘋兔娃娃",
       "rate": 6.0,
-      "icon_url": "/images/items/740.gif"
+      "icon_url": "images/items/740.gif"
     },
     {
       "item_id": 1060,
       "name": "金色頭髮",
       "rate": 31.53,
-      "icon_url": "/images/items/1060.gif"
+      "icon_url": "images/items/1060.gif"
     },
     {
       "item_id": 1919,
       "name": "貝斯[1]",
       "rate": 0.25,
-      "icon_url": "/images/items/1919.gif"
+      "icon_url": "images/items/1919.gif"
     },
     {
       "item_id": 1939,
       "name": "緋紅色小提琴[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/1939.gif"
+      "icon_url": "images/items/1939.gif"
     },
     {
       "item_id": 4209,
       "name": "薇歐莉卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 12020,
       "name": "暗水",
       "rate": 5.0,
-      "icon_url": "/images/items/12020.gif"
+      "icon_url": "images/items/12020.gif"
     },
     {
       "item_id": 12127,
       "name": "高級的烹飪用具",
       "rate": 0.25,
-      "icon_url": "/images/items/12127.gif"
+      "icon_url": "images/items/12127.gif"
     }
   ]
 }

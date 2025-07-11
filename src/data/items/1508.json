@@ -4,7 +4,7 @@
     "zh_tw": "思麥斯鐵鎚",
     "en": "Smasher_"
   },
-  "icon_url": "/images/items/1508.gif",
+  "icon_url": "images/items/1508.gif",
   "category": "武器",
   "description": {
     "official": "被打到時，精神會變成眩暈狀態的鈍器。",

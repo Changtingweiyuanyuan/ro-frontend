@@ -4,7 +4,7 @@
     "zh_tw": "精英白蟻 / 雄壯白蟻",
     "en": "C2_ANDRE"
   },
-  "image_url": "/images/monsters/2902.gif",
+  "image_url": "images/monsters/2902.gif",
   "basic_info": {
     "level": 33,
     "race": "昆蟲",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.7,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 910,
       "name": "加勒結晶",
       "rate": 25.0,
-      "icon_url": "/images/items/910.gif"
+      "icon_url": "images/items/910.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 12.5,
-      "icon_url": "/images/items/938.gif"
+      "icon_url": "images/items/938.gif"
     },
     {
       "item_id": 955,
       "name": "昆蟲外殼",
       "rate": 100.0,
-      "icon_url": "/images/items/955.gif"
+      "icon_url": "images/items/955.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 1.25,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 1002,
       "name": "鐵礦石",
       "rate": 8.75,
-      "icon_url": "/images/items/1002.gif"
+      "icon_url": "images/items/1002.gif"
     },
     {
       "item_id": 4043,
       "name": "白蟻卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

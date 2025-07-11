@@ -4,7 +4,7 @@
     "zh_tw": "士兵 監護人",
     "en": "SOLDIER_GUARDIAN"
   },
-  "image_url": "/images/monsters/1287.gif",
+  "image_url": "images/monsters/1287.gif",
   "basic_info": {
     "level": 56,
     "race": "人形",

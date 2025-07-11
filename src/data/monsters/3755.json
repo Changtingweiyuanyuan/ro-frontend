@@ -4,7 +4,7 @@
     "zh_tw": "毒血蘑菇",
     "en": "ILL_BLACK_MUSHROOM"
   },
-  "image_url": "/images/monsters/3755.gif",
+  "image_url": "images/monsters/3755.gif",
   "basic_info": {
     "level": 130,
     "race": "植物",
@@ -49,43 +49,43 @@
       "item_id": 630,
       "name": "青苔",
       "rate": 0.2,
-      "icon_url": "/images/items/630.gif"
+      "icon_url": "images/items/630.gif"
     },
     {
       "item_id": 921,
       "name": "香菇芽孢",
       "rate": 50.0,
-      "icon_url": "/images/items/921.gif"
+      "icon_url": "images/items/921.gif"
     },
     {
       "item_id": 970,
       "name": "酒精",
       "rate": 0.5,
-      "icon_url": "/images/items/970.gif"
+      "icon_url": "images/items/970.gif"
     },
     {
       "item_id": 971,
       "name": "帝特立米藥水",
       "rate": 0.5,
-      "icon_url": "/images/items/971.gif"
+      "icon_url": "images/items/971.gif"
     },
     {
       "item_id": 7033,
       "name": "毒魔菇芽孢",
       "rate": 5.0,
-      "icon_url": "/images/items/7033.gif"
+      "icon_url": "images/items/7033.gif"
     },
     {
       "item_id": 25265,
       "name": "發光孢子",
       "rate": 10.0,
-      "icon_url": "/images/items/25265.gif"
+      "icon_url": "images/items/25265.gif"
     },
     {
       "item_id": 25272,
       "name": "幻想石",
       "rate": 5.0,
-      "icon_url": "/images/items/25272.gif"
+      "icon_url": "images/items/25272.gif"
     }
   ]
 }

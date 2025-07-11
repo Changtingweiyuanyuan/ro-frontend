@@ -4,7 +4,7 @@
     "zh_tw": "傘蜥",
     "en": "FRILLDORA"
   },
-  "image_url": "/images/monsters/1119.gif",
+  "image_url": "images/monsters/1119.gif",
   "basic_info": {
     "level": 57,
     "race": "動物",
@@ -54,49 +54,49 @@
       "item_id": 715,
       "name": "黃色魔力礦石",
       "rate": 1.0,
-      "icon_url": "/images/items/715.gif"
+      "icon_url": "images/items/715.gif"
     },
     {
       "item_id": 721,
       "name": "綠寶石",
       "rate": 0.08,
-      "icon_url": "/images/items/721.gif"
+      "icon_url": "images/items/721.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.45,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 903,
       "name": "爬蟲類舌頭",
       "rate": 7.5,
-      "icon_url": "/images/items/903.gif"
+      "icon_url": "images/items/903.gif"
     },
     {
       "item_id": 1012,
       "name": "傘蜥頸",
       "rate": 27.5,
-      "icon_url": "/images/items/1012.gif"
+      "icon_url": "images/items/1012.gif"
     },
     {
       "item_id": 1690,
       "name": "神祕狐尾草魔杖[3]",
       "rate": 0.2,
-      "icon_url": "/images/items/1690.gif"
+      "icon_url": "images/items/1690.gif"
     },
     {
       "item_id": 1694,
       "name": "狐尾草模型[3]",
       "rate": 0.2,
-      "icon_url": "/images/items/1694.gif"
+      "icon_url": "images/items/1694.gif"
     },
     {
       "item_id": 4088,
       "name": "傘蜥卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

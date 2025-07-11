@@ -4,7 +4,7 @@
     "zh_tw": "紫肉食人火龍果",
     "en": "MD_PITAYA_V"
   },
-  "image_url": "/images/monsters/20663.gif",
+  "image_url": "images/monsters/20663.gif",
   "basic_info": {
     "level": 135,
     "race": "植物",
@@ -49,37 +49,37 @@
       "item_id": 514,
       "name": "葡萄",
       "rate": 3.0,
-      "icon_url": "/images/items/514.gif"
+      "icon_url": "images/items/514.gif"
     },
     {
       "item_id": 903,
       "name": "爬蟲類舌頭",
       "rate": 12.5,
-      "icon_url": "/images/items/903.gif"
+      "icon_url": "images/items/903.gif"
     },
     {
       "item_id": 7312,
       "name": "朱畢雷",
       "rate": 1.0,
-      "icon_url": "/images/items/7312.gif"
+      "icon_url": "images/items/7312.gif"
     },
     {
       "item_id": 12573,
       "name": "水果禮盒",
       "rate": 1.0,
-      "icon_url": "/images/items/12573.gif"
+      "icon_url": "images/items/12573.gif"
     },
     {
       "item_id": 300123,
       "name": "紫肉食人火龍果卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300123.gif"
+      "icon_url": "images/items/300123.gif"
     },
     {
       "item_id": 510009,
       "name": "古拉提斯短劍[2]",
       "rate": 0.05,
-      "icon_url": "/images/items/510009.gif"
+      "icon_url": "images/items/510009.gif"
     }
   ]
 }

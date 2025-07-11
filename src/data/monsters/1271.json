@@ -4,7 +4,7 @@
     "zh_tw": "鱷魚人",
     "en": "ALLIGATOR"
   },
-  "image_url": "/images/monsters/1271.gif",
+  "image_url": "images/monsters/1271.gif",
   "basic_info": {
     "level": 57,
     "race": "動物",
@@ -54,37 +54,37 @@
       "item_id": 608,
       "name": "天地樹芽",
       "rate": 0.01,
-      "icon_url": "/images/items/608.gif"
+      "icon_url": "images/items/608.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 0.65,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 5.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 1099,
       "name": "老舊犯人服",
       "rate": 3.0,
-      "icon_url": "/images/items/1099.gif"
+      "icon_url": "images/items/1099.gif"
     },
     {
       "item_id": 4252,
       "name": "鱷魚人卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7003,
       "name": "虎蜥皮",
       "rate": 10.0,
-      "icon_url": "/images/items/7003.gif"
+      "icon_url": "images/items/7003.gif"
     }
   ]
 }

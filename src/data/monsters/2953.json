@@ -4,7 +4,7 @@
     "zh_tw": "討人厭的回憶 / 怨恨的記憶",
     "en": "CURSED_MEMORY"
   },
-  "image_url": "/images/monsters/2953.gif",
+  "image_url": "images/monsters/2953.gif",
   "basic_info": {
     "level": 110,
     "race": "不死",
@@ -49,13 +49,13 @@
       "item_id": 957,
       "name": "亡者指甲",
       "rate": 30.0,
-      "icon_url": "/images/items/957.gif"
+      "icon_url": "images/items/957.gif"
     },
     {
       "item_id": 6672,
       "name": "土色碎片",
       "rate": 10.0,
-      "icon_url": "/images/items/6672.gif"
+      "icon_url": "images/items/6672.gif"
     }
   ]
 }

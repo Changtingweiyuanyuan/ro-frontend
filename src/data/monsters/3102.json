@@ -4,7 +4,7 @@
     "zh_tw": "生命的瑪娜",
     "en": "MM_MANA_RED"
   },
-  "image_url": "/images/monsters/3102.gif",
+  "image_url": "images/monsters/3102.gif",
   "basic_info": {
     "level": 1,
     "race": "無形",

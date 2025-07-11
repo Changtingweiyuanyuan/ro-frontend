@@ -4,7 +4,7 @@
     "zh_tw": "萬能藥",
     "en": "Panacea"
   },
-  "icon_url": "/images/items/525.gif",
+  "icon_url": "images/items/525.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "幾乎可以恢復所有陷入異常狀態的神祕藥水。",

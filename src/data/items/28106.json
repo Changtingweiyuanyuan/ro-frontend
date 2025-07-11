@@ -4,7 +4,7 @@
     "zh_tw": "緋紅色雙手斧",
     "en": "Scarlet_Twohand_Axe"
   },
-  "icon_url": "/images/items/28106.gif",
+  "icon_url": "images/items/28106.gif",
   "category": "武器",
   "description": {
     "official": "散髮著紅光的雙手斧。ATK增加至(精煉*精煉) (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。不可破壞",

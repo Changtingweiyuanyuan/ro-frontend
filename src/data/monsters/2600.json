@@ -4,7 +4,7 @@
     "zh_tw": "狼",
     "en": "G_WOLF"
   },
-  "image_url": "/images/monsters/2600.gif",
+  "image_url": "images/monsters/2600.gif",
   "basic_info": {
     "level": 45,
     "race": "動物",

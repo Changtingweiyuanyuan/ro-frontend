@@ -4,7 +4,7 @@
     "zh_tw": "熔岩巨石",
     "en": "G_LAVA_GOLEM"
   },
-  "image_url": "/images/monsters/1549.gif",
+  "image_url": "images/monsters/1549.gif",
   "basic_info": {
     "level": 103,
     "race": "無形",

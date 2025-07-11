@@ -4,7 +4,7 @@
     "zh_tw": "蝸牛卡片",
     "en": "Ambernite_Card"
   },
-  "icon_url": "/images/items/4032.gif",
+  "icon_url": "images/items/4032.gif",
   "category": "卡片",
   "description": {
     "official": "DEF+2",

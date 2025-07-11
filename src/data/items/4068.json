@@ -4,7 +4,7 @@
     "zh_tw": "蠍子卡片",
     "en": "Scorpion_Card"
   },
-  "icon_url": "/images/items/4068.gif",
+  "icon_url": "images/items/4068.gif",
   "category": "卡片",
   "description": {
     "official": "對植物系魔物增加20%的傷害。",

@@ -4,7 +4,7 @@
     "zh_tw": "精英紅海星 / 狡猾紅海星",
     "en": "C5_RED_ERUMA"
   },
-  "image_url": "/images/monsters/2689.gif",
+  "image_url": "images/monsters/2689.gif",
   "basic_info": {
     "level": 91,
     "race": "魚貝",
@@ -49,49 +49,49 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.5,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 2.5,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 2.5,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 965,
       "name": "蛤蜊外殼",
       "rate": 100.0,
-      "icon_url": "/images/items/965.gif"
+      "icon_url": "images/items/965.gif"
     },
     {
       "item_id": 966,
       "name": "蛤蜊肉",
       "rate": 50.0,
-      "icon_url": "/images/items/966.gif"
+      "icon_url": "images/items/966.gif"
     },
     {
       "item_id": 1056,
       "name": "黃玉碎片",
       "rate": 75.0,
-      "icon_url": "/images/items/1056.gif"
+      "icon_url": "images/items/1056.gif"
     },
     {
       "item_id": 4531,
       "name": "紅海星卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6426,
       "name": "報廢罐頭",
       "rate": 35.0,
-      "icon_url": "/images/items/6426.gif"
+      "icon_url": "images/items/6426.gif"
     }
   ]
 }

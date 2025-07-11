@@ -4,7 +4,7 @@
     "zh_tw": "變異海葵",
     "en": "E_HYDRA"
   },
-  "image_url": "/images/monsters/2081.gif",
+  "image_url": "images/monsters/2081.gif",
   "basic_info": {
     "level": 34,
     "race": "植物",

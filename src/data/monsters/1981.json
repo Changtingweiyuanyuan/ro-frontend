@@ -4,7 +4,7 @@
     "zh_tw": "獸人守護隊長",
     "en": "I_HIGH_ORC"
   },
-  "image_url": "/images/monsters/1981.gif",
+  "image_url": "images/monsters/1981.gif",
   "basic_info": {
     "level": 81,
     "race": "人形",

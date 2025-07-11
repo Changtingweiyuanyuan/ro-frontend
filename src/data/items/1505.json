@@ -4,7 +4,7 @@
     "zh_tw": "鐵鎚",
     "en": "Mace_"
   },
-  "icon_url": "/images/items/1505.gif",
+  "icon_url": "images/items/1505.gif",
   "category": "武器",
   "description": {
     "official": "鐵制的鈍器，是一種可以對對方痛擊的鈍器。",

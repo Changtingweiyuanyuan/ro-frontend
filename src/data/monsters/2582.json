@@ -4,7 +4,7 @@
     "zh_tw": "瘋兔",
     "en": "G_LUNATIC"
   },
-  "image_url": "/images/monsters/2582.gif",
+  "image_url": "images/monsters/2582.gif",
   "basic_info": {
     "level": 3,
     "race": "動物",

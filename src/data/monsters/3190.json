@@ -4,7 +4,7 @@
     "zh_tw": "莎拉艾琳",
     "en": "MM_SARAH"
   },
-  "image_url": "/images/monsters/3190.gif",
+  "image_url": "images/monsters/3190.gif",
   "basic_info": {
     "level": 160,
     "race": "人形",
@@ -49,13 +49,13 @@
       "item_id": 4610,
       "name": "莎拉卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 15121,
       "name": "莎拉的戰鬥外袍[1]",
       "rate": 10.0,
-      "icon_url": "/images/items/15121.gif"
+      "icon_url": "images/items/15121.gif"
     }
   ]
 }

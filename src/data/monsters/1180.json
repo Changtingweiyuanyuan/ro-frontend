@@ -4,7 +4,7 @@
     "zh_tw": "九尾狐",
     "en": "NINE_TAIL"
   },
-  "image_url": "/images/monsters/1180.gif",
+  "image_url": "images/monsters/1180.gif",
   "basic_info": {
     "level": 72,
     "race": "動物",
@@ -64,49 +64,49 @@
       "item_id": 525,
       "name": "萬能藥",
       "rate": 1.75,
-      "icon_url": "/images/items/525.gif"
+      "icon_url": "images/items/525.gif"
     },
     {
       "item_id": 526,
       "name": "蜂膠",
       "rate": 1.25,
-      "icon_url": "/images/items/526.gif"
+      "icon_url": "images/items/526.gif"
     },
     {
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.5,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 604,
       "name": "枯樹枝",
       "rate": 0.5,
-      "icon_url": "/images/items/604.gif"
+      "icon_url": "images/items/604.gif"
     },
     {
       "item_id": 746,
       "name": "玻璃珠",
       "rate": 1.0,
-      "icon_url": "/images/items/746.gif"
+      "icon_url": "images/items/746.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 0.5,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 1022,
       "name": "狐狸尾巴",
       "rate": 23.28,
-      "icon_url": "/images/items/1022.gif"
+      "icon_url": "images/items/1022.gif"
     },
     {
       "item_id": 4159,
       "name": "九尾狐卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "獸人戰士長",
     "en": "MIN_G_HIGH_ORC"
   },
-  "image_url": "/images/monsters/3439.gif",
+  "image_url": "images/monsters/3439.gif",
   "basic_info": {
     "level": 100,
     "race": "人形",

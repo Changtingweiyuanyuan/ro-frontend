@@ -4,7 +4,7 @@
     "zh_tw": "符文騎士 伊佛德斯",
     "en": "GEFFEN_MAGE_8"
   },
-  "image_url": "/images/monsters/2558.gif",
+  "image_url": "images/monsters/2558.gif",
   "basic_info": {
     "level": 140,
     "race": "人形",
@@ -49,7 +49,7 @@
       "item_id": 27258,
       "name": "伊佛德斯卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27258.gif"
+      "icon_url": "images/items/27258.gif"
     }
   ]
 }

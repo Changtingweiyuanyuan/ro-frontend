@@ -4,7 +4,7 @@
     "zh_tw": "狸貓",
     "en": "SMOKIE"
   },
-  "image_url": "/images/monsters/1056.gif",
+  "image_url": "images/monsters/1056.gif",
   "basic_info": {
     "level": 29,
     "race": "動物",
@@ -64,49 +64,49 @@
       "item_id": 516,
       "name": "番薯",
       "rate": 4.0,
-      "icon_url": "/images/items/516.gif"
+      "icon_url": "images/items/516.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 729,
       "name": "青綠寶石",
       "rate": 0.01,
-      "icon_url": "/images/items/729.gif"
+      "icon_url": "images/items/729.gif"
     },
     {
       "item_id": 754,
       "name": "狸貓娃娃",
       "rate": 0.01,
-      "icon_url": "/images/items/754.gif"
+      "icon_url": "images/items/754.gif"
     },
     {
       "item_id": 919,
       "name": "動物外皮",
       "rate": 27.5,
-      "icon_url": "/images/items/919.gif"
+      "icon_url": "images/items/919.gif"
     },
     {
       "item_id": 945,
       "name": "變身葉子",
       "rate": 27.5,
-      "icon_url": "/images/items/945.gif"
+      "icon_url": "images/items/945.gif"
     },
     {
       "item_id": 2213,
       "name": "貓耳發圈",
       "rate": 0.01,
-      "icon_url": "/images/items/2213.gif"
+      "icon_url": "images/items/2213.gif"
     },
     {
       "item_id": 4044,
       "name": "狸貓卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

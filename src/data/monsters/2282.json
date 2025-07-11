@@ -4,7 +4,7 @@
     "zh_tw": "深淵鏡妖 / 深淵魔鏡",
     "en": "GLD_DARK_FRAME"
   },
-  "image_url": "/images/monsters/2282.gif",
+  "image_url": "images/monsters/2282.gif",
   "basic_info": {
     "level": 145,
     "race": "惡魔",
@@ -54,43 +54,43 @@
       "item_id": 734,
       "name": "紅色相框",
       "rate": 5.0,
-      "icon_url": "/images/items/734.gif"
+      "icon_url": "images/items/734.gif"
     },
     {
       "item_id": 747,
       "name": "水晶鏡子",
       "rate": 0.02,
-      "icon_url": "/images/items/747.gif"
+      "icon_url": "images/items/747.gif"
     },
     {
       "item_id": 1000,
       "name": "星星的角",
       "rate": 0.4,
-      "icon_url": "/images/items/1000.gif"
+      "icon_url": "images/items/1000.gif"
     },
     {
       "item_id": 1587,
       "name": "戰神大百科全書",
       "rate": 0.01,
-      "icon_url": "/images/items/1587.gif"
+      "icon_url": "images/items/1587.gif"
     },
     {
       "item_id": 2505,
       "name": "斗篷",
       "rate": 0.15,
-      "icon_url": "/images/items/2505.gif"
+      "icon_url": "images/items/2505.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 23.28,
-      "icon_url": "/images/items/7054.gif"
+      "icon_url": "images/items/7054.gif"
     },
     {
       "item_id": 12676,
       "name": "城戰紫色藥水箱",
       "rate": 0.5,
-      "icon_url": "/images/items/12676.gif"
+      "icon_url": "images/items/12676.gif"
     }
   ]
 }

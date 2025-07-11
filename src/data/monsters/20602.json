@@ -4,7 +4,7 @@
     "zh_tw": "白色三葉鐵甲蟲",
     "en": "PORCELLIO_W"
   },
-  "image_url": "/images/monsters/20602.gif",
+  "image_url": "images/monsters/20602.gif",
   "basic_info": {
     "level": 188,
     "race": "昆蟲",
@@ -49,49 +49,49 @@
       "item_id": 928,
       "name": "昆蟲觸角",
       "rate": 5.0,
-      "icon_url": "/images/items/928.gif"
+      "icon_url": "images/items/928.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 10.0,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 1052,
       "name": "單細胞",
       "rate": 15.0,
-      "icon_url": "/images/items/1052.gif"
+      "icon_url": "images/items/1052.gif"
     },
     {
       "item_id": 7312,
       "name": "朱畢雷",
       "rate": 25.0,
-      "icon_url": "/images/items/7312.gif"
+      "icon_url": "images/items/7312.gif"
     },
     {
       "item_id": 7326,
       "name": "熒光色的液體",
       "rate": 0.15,
-      "icon_url": "/images/items/7326.gif"
+      "icon_url": "images/items/7326.gif"
     },
     {
       "item_id": 25730,
       "name": "鍺金原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25730.gif"
+      "icon_url": "images/items/25730.gif"
     },
     {
       "item_id": 25811,
       "name": "橘色神力礦石",
       "rate": 1.5,
-      "icon_url": "/images/items/25811.gif"
+      "icon_url": "images/items/25811.gif"
     },
     {
       "item_id": 300003,
       "name": "白色三葉鐵甲蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300003.gif"
+      "icon_url": "images/items/300003.gif"
     }
   ]
 }

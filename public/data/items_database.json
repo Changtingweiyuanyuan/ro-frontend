@@ -5,7 +5,7 @@
       "zh_tw": "紅色藥草",
       "en": "Red_Herb"
     },
-    "icon_url": "/images/items/507.gif",
+    "icon_url": "images/items/507.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "在治療傷處上有一定功效的珍貴藥草，可恢復少量的HP。",
@@ -345,7 +345,7 @@
       "zh_tw": "黃色藥草",
       "en": "Yellow_Herb"
     },
-    "icon_url": "/images/items/508.gif",
+    "icon_url": "images/items/508.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "在治療傷處上有相當功效的珍貴藥草，可恢復少量的HP。",
@@ -620,7 +620,7 @@
       "zh_tw": "白色藥草",
       "en": "White_Herb"
     },
-    "icon_url": "/images/items/509.gif",
+    "icon_url": "images/items/509.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "在治療傷處上功效相當顯著的珍貴藥草，可恢復少量的HP。",
@@ -915,7 +915,7 @@
       "zh_tw": "藍色藥草",
       "en": "Blue_Herb"
     },
-    "icon_url": "/images/items/510.gif",
+    "icon_url": "images/items/510.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "擁有特殊香味且能使精神飽滿的珍貴藥草，可恢復少量的SP。",
@@ -1135,7 +1135,7 @@
       "zh_tw": "綠色藥草",
       "en": "Green_Herb"
     },
-    "icon_url": "/images/items/511.gif",
+    "icon_url": "images/items/511.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "可中和所有毒性的珍貴藥草，具有治療的功效解毒。",
@@ -1460,7 +1460,7 @@
       "zh_tw": "蘋果",
       "en": "Apple"
     },
-    "icon_url": "/images/items/512.gif",
+    "icon_url": "images/items/512.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "清爽香甜的水果，可恢復少量的HP。",
@@ -1640,7 +1640,7 @@
       "zh_tw": "香蕉",
       "en": "Banana"
     },
-    "icon_url": "/images/items/513.gif",
+    "icon_url": "images/items/513.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "香甜好吃的水果，可恢復少量的HP。",
@@ -1710,7 +1710,7 @@
       "zh_tw": "葡萄",
       "en": "Grape"
     },
-    "icon_url": "/images/items/514.gif",
+    "icon_url": "images/items/514.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "清新且味道酸的水果，可恢復少量SP。",
@@ -1870,7 +1870,7 @@
       "zh_tw": "紅蘿蔔",
       "en": "Carrot"
     },
-    "icon_url": "/images/items/515.gif",
+    "icon_url": "images/items/515.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "紅色的蔬菜。味道香甜，常被拿來作菜食用可恢復少量的HP。",
@@ -1930,7 +1930,7 @@
       "zh_tw": "番薯",
       "en": "Sweet_Potato"
     },
-    "icon_url": "/images/items/516.gif",
+    "icon_url": "images/items/516.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "含有豐富的澱粉，味道香甜，常被拿來食用可恢復少量的HP。",
@@ -2020,7 +2020,7 @@
       "zh_tw": "肉",
       "en": "Meat"
     },
-    "icon_url": "/images/items/517.gif",
+    "icon_url": "images/items/517.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "味道很棒。可恢復少量的HP。",
@@ -2145,7 +2145,7 @@
       "zh_tw": "蜂蜜",
       "en": "Honey"
     },
-    "icon_url": "/images/items/518.gif",
+    "icon_url": "images/items/518.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "味道香甜的液體，營養價值相當高，常被拿來治療用可恢復少量HP與SP。",
@@ -2390,7 +2390,7 @@
       "zh_tw": "牛奶",
       "en": "Milk"
     },
-    "icon_url": "/images/items/519.gif",
+    "icon_url": "images/items/519.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "牛奶加工而成的液體，被視為小孩子成長期時最具營養價值的食品。可恢復少量HP。",
@@ -2465,7 +2465,7 @@
       "zh_tw": "蘆薈葉子",
       "en": "Leaflet_Of_Aloe"
     },
-    "icon_url": "/images/items/521.gif",
+    "icon_url": "images/items/521.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "將蘆薈的葉子剪下收集在一起，可恢復定量的HP。",
@@ -2565,7 +2565,7 @@
       "zh_tw": "瑪絲黛拉果實",
       "en": "Fruit_Of_Mastela"
     },
-    "icon_url": "/images/items/522.gif",
+    "icon_url": "images/items/522.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "瑪絲黛拉樹上採下的紫色果實，可恢復大量的HP。",
@@ -2750,7 +2750,7 @@
       "zh_tw": "萬能藥",
       "en": "Panacea"
     },
-    "icon_url": "/images/items/525.gif",
+    "icon_url": "images/items/525.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "幾乎可以恢復所有陷入異常狀態的神祕藥水。",
@@ -2860,7 +2860,7 @@
       "zh_tw": "魔物飼料",
       "en": "Monster's_Feed"
     },
-    "icon_url": "/images/items/528.gif",
+    "icon_url": "images/items/528.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "魔物們最喜愛的加工食品，可恢復少量的HP。",
@@ -2995,7 +2995,7 @@
       "zh_tw": "蘋果汁",
       "en": "Apple_Juice"
     },
-    "icon_url": "/images/items/531.gif",
+    "icon_url": "images/items/531.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "蘋果所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",
@@ -3030,7 +3030,7 @@
       "zh_tw": "葡萄汁",
       "en": "Grape_Juice"
     },
-    "icon_url": "/images/items/533.gif",
+    "icon_url": "images/items/533.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "葡萄所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",
@@ -3065,7 +3065,7 @@
       "zh_tw": "草莓",
       "en": "Strawberry"
     },
-    "icon_url": "/images/items/578.gif",
+    "icon_url": "images/items/578.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "酸甜的滋味，深受大家喜愛的紅色果實可以恢復少量的SP",
@@ -3167,7 +3167,7 @@
       "zh_tw": "橙子",
       "en": "Orange"
     },
-    "icon_url": "/images/items/582.gif",
+    "icon_url": "images/items/582.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "橘色圓形的果實，清爽的香味，可以直接吃或打成果汁、果醬等可以恢復少量的HP和SP",
@@ -3254,7 +3254,7 @@
       "zh_tw": "蒼蠅翅膀",
       "en": "Wing_Of_Fly"
     },
-    "icon_url": "/images/items/601.gif",
+    "icon_url": "images/items/601.gif",
     "category": "延遲消耗類",
     "description": {
       "official": "將蒼蠅的翅膀剪下後，製作出的具有魔法力量的物品，可在地圖上移動至任意的位置上。【此物品無法交易、露天販賣、露天收購】",
@@ -4384,7 +4384,7 @@
       "zh_tw": "神祕箱子",
       "en": "Old_Blue_Box"
     },
-    "icon_url": "/images/items/603.gif",
+    "icon_url": "images/items/603.gif",
     "category": "消耗類",
     "description": {
       "official": "會散髮出神祕藍色光芒的舊箱子，打開的話好像有什麼東西會跑出來似的。",
@@ -5224,7 +5224,7 @@
       "zh_tw": "枯樹枝",
       "en": "Branch_Of_Dead_Tree"
     },
-    "icon_url": "/images/items/604.gif",
+    "icon_url": "images/items/604.gif",
     "category": "消耗類",
     "description": {
       "official": "經過極為長久歲月帶有魔力的樹枝，它的神祕力量可以召喚來任何有生命的東西。(此物品限定部分地圖使用)",
@@ -5474,7 +5474,7 @@
       "zh_tw": "天地樹果實",
       "en": "Yggdrasilberry"
     },
-    "icon_url": "/images/items/607.gif",
+    "icon_url": "images/items/607.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "天地樹的果實，據說食用後精神會為之一振，感覺活力滿滿。可將使用者的HP和SP全數恢復。再使用等候時間 :5秒",
@@ -6130,7 +6130,7 @@
       "zh_tw": "天地樹芽",
       "en": "Seed_Of_Yggdrasil"
     },
-    "icon_url": "/images/items/608.gif",
+    "icon_url": "images/items/608.gif",
     "category": "治療/恢復類",
     "description": {
       "official": "形成這個世界根源的天地樹果實之芽，透露著微微香氣且甘甜美味，可恢復一半的HP與SP。",
@@ -6431,7 +6431,7 @@
       "zh_tw": "返魂符",
       "en": "Amulet"
     },
-    "icon_url": "/images/items/609.gif",
+    "icon_url": "images/items/609.gif",
     "category": "消耗類",
     "description": {
       "official": "可令死人死而復生的符咒，可以保持在半生半死的狀態，也就是成為不死的狀態。",
@@ -6496,7 +6496,7 @@
       "zh_tw": "青蘋果",
       "en": "Unripe_Apple"
     },
-    "icon_url": "/images/items/619.gif",
+    "icon_url": "images/items/619.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "尚未熟透就掉落的蘋果。是魔物波利最喜愛的食物。",
@@ -6566,7 +6566,7 @@
       "zh_tw": "濃縮柳橙汁",
       "en": "Orange_Juice"
     },
-    "icon_url": "/images/items/620.gif",
+    "icon_url": "images/items/620.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "濃縮柳橙汁是魔物土波利最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -6606,7 +6606,7 @@
       "zh_tw": "苦味草",
       "en": "Bitter_Herb"
     },
-    "icon_url": "/images/items/621.gif",
+    "icon_url": "images/items/621.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "非常苦的草，是魔物波波利最喜愛的食物。",
@@ -6651,7 +6651,7 @@
       "zh_tw": "彩色紅蘿蔔",
       "en": "Rainbow_Carrot"
     },
-    "icon_url": "/images/items/622.gif",
+    "icon_url": "images/items/622.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "有五種彩虹光芒顏色的紅蘿蔔，隱隱約約的香氣實在誘人，是魔物瘋兔最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -6706,7 +6706,7 @@
       "zh_tw": "變態蚯蚓",
       "en": "Earthworm_The_Dude"
     },
-    "icon_url": "/images/items/623.gif",
+    "icon_url": "images/items/623.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "變態蚯蚓，脖子上有紅色蝴蝶結，是魔物小雞最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -6741,7 +6741,7 @@
       "zh_tw": "腐臭之魚",
       "en": "Rotten_Fish"
     },
-    "icon_url": "/images/items/624.gif",
+    "icon_url": "images/items/624.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "腐爛的魚，是魔物蒼蠅最喜愛的食物。",
@@ -6786,7 +6786,7 @@
       "zh_tw": "鏽鐵",
       "en": "Lusty_Iron"
     },
-    "icon_url": "/images/items/625.gif",
+    "icon_url": "images/items/625.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "嚴重生鏽的鐵，是魔物綠蒼蠅最喜愛的食物。",
@@ -6841,7 +6841,7 @@
       "zh_tw": "魔物飲料",
       "en": "Monster_Juice"
     },
-    "icon_url": "/images/items/626.gif",
+    "icon_url": "images/items/626.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "以家禽的血做成的飲料，是魔物赤蒼蠅最喜愛的食物。",
@@ -6871,7 +6871,7 @@
       "zh_tw": "營養大骨",
       "en": "Well_Dried_Bone"
     },
-    "icon_url": "/images/items/628.gif",
+    "icon_url": "images/items/628.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "在熾熱的陽光下晒乾而成的骨骼。是魔物沙漠幼狼最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -6916,7 +6916,7 @@
       "zh_tw": "呢喃花",
       "en": "Singing_Flower"
     },
-    "icon_url": "/images/items/629.gif",
+    "icon_url": "images/items/629.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "唱歌草上所開出來的花。是魔物搖滾蝗蟲最喜愛的食物。",
@@ -6961,7 +6961,7 @@
       "zh_tw": "青苔",
       "en": "Dew_Laden_Moss"
     },
-    "icon_url": "/images/items/630.gif",
+    "icon_url": "images/items/630.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "喝飲清晨的露水所長成的青苔。是魔物魔菇最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -7031,7 +7031,7 @@
       "zh_tw": "青嫩毒草",
       "en": "Deadly_Noxious_Herb"
     },
-    "icon_url": "/images/items/631.gif",
+    "icon_url": "images/items/631.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "擁有劇毒的草。是魔物毒魔菇最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -7081,7 +7081,7 @@
       "zh_tw": "營養蚯蚓",
       "en": "Fatty_Chubby_Earthworm"
     },
-    "icon_url": "/images/items/632.gif",
+    "icon_url": "images/items/632.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "健康又胖嘟嘟的蚯蚓，是魔物大嘴鳥最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -7116,7 +7116,7 @@
       "zh_tw": "魔物番薯",
       "en": "Baked_Yam"
     },
-    "icon_url": "/images/items/633.gif",
+    "icon_url": "images/items/633.gif",
     "category": "認養寵物之物品",
     "description": {
       "official": "烤好的地瓜，是魔物狸貓最喜愛的食物。活動魔物、小兵魔物不能被認養。",
@@ -7146,7 +7146,7 @@
       "zh_tw": "攜帶用孵蛋器",
       "en": "Pet_Incubator"
     },
-    "icon_url": "/images/items/643.gif",
+    "icon_url": "images/items/643.gif",
     "category": "消耗類",
     "description": {
       "official": "可以把魔物的蛋孵化的裝備，攜帶方便，可叫醒睡覺的寵物。",
@@ -7176,7 +7176,7 @@
       "zh_tw": "集中藥水",
       "en": "Center_Potion"
     },
-    "icon_url": "/images/items/645.gif",
+    "icon_url": "images/items/645.gif",
     "category": "消耗類",
     "description": {
       "official": "含有可讓敏捷能力上升成份的藥水，服用時，可讓攻擊速度上升。全職業都可以使用。",
@@ -7286,7 +7286,7 @@
       "zh_tw": "火箭術卷軸Lv3",
       "en": "Fire_Scroll_1_3"
     },
-    "icon_url": "/images/items/690.gif",
+    "icon_url": "images/items/690.gif",
     "category": "延遲消耗類",
     "description": {
       "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著火屬性的魔法，可使用等級3的火箭術。",
@@ -7333,7 +7333,7 @@
       "zh_tw": "雷擊術 等級3",
       "en": "Wind_Scroll_1_3"
     },
-    "icon_url": "/images/items/692.gif",
+    "icon_url": "images/items/692.gif",
     "category": "延遲消耗類",
     "description": {
       "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著風屬性的魔法，可使用等級3的雷擊術。",
@@ -7365,7 +7365,7 @@
       "zh_tw": "西納雷花",
       "en": "Hinalle"
     },
-    "icon_url": "/images/items/703.gif",
+    "icon_url": "images/items/703.gif",
     "category": "其他類",
     "description": {
       "official": "世界各地隨處都可見到的普通植物，雖沒什麼香味，外觀也不顯眼，卻可給很多人帶來淡淡喜悅。",
@@ -7415,7 +7415,7 @@
       "zh_tw": "蘆薈",
       "en": "Aloe"
     },
-    "icon_url": "/images/items/704.gif",
+    "icon_url": "images/items/704.gif",
     "category": "其他類",
     "description": {
       "official": "只在森林深處開花的植物，因為一年中只在特定的季節開花，所以不是那麼容易可以碰得到。",
@@ -7450,7 +7450,7 @@
       "zh_tw": "三葉幸運草",
       "en": "Clover"
     },
-    "icon_url": "/images/items/705.gif",
+    "icon_url": "images/items/705.gif",
     "category": "其他類",
     "description": {
       "official": "有著三片心型葉子的植物，6至7月間會開著白色的花，有時候還可以找到有四片葉子的，這類的植物名為幸運草，傳說它會為人帶來好運。",
@@ -7545,7 +7545,7 @@
       "zh_tw": "四葉幸運草",
       "en": "Four_Leaf_Clover"
     },
-    "icon_url": "/images/items/706.gif",
+    "icon_url": "images/items/706.gif",
     "category": "其他類",
     "description": {
       "official": "有著四片葉子的幸運草，傳說它會為人帶來好運。",
@@ -7626,7 +7626,7 @@
       "zh_tw": "哀唱草",
       "en": "Singing_Plant"
     },
-    "icon_url": "/images/items/707.gif",
+    "icon_url": "images/items/707.gif",
     "category": "其他類",
     "description": {
       "official": "一到有滿月的夜晚就會獨自唱著哀傷的歌曲的神祕植物，傳說以前有位少女，她唱著歌思念離開很久的戀人，但是心愛的他終究沒有歸來，等著等著她就這樣化成了一株草。",
@@ -7686,7 +7686,7 @@
       "zh_tw": "曼特花",
       "en": "Ment"
     },
-    "icon_url": "/images/items/708.gif",
+    "icon_url": "images/items/708.gif",
     "category": "其他類",
     "description": {
       "official": "可消除記憶的白色植物，含有讓人忘卻苦痛的成分。",
@@ -7736,7 +7736,7 @@
       "zh_tw": "幻想花",
       "en": "Illusion_Flower"
     },
-    "icon_url": "/images/items/710.gif",
+    "icon_url": "images/items/710.gif",
     "category": "其他類",
     "description": {
       "official": "在深夜裡發著光芒的植物，在人跡罕見的森林裡獨自發著光芒。聽說雖然可以在那光芒中看見天國，但若將花摘下來看的話，它的光芒就會消失。",
@@ -7801,7 +7801,7 @@
       "zh_tw": "芽苗",
       "en": "Shoot"
     },
-    "icon_url": "/images/items/711.gif",
+    "icon_url": "images/items/711.gif",
     "category": "其他類",
     "description": {
       "official": "剛剛纔從這個世上出生的幼小植物，單純無瑕的樣子非常可愛。",
@@ -7881,7 +7881,7 @@
       "zh_tw": "花",
       "en": "Flower"
     },
-    "icon_url": "/images/items/712.gif",
+    "icon_url": "images/items/712.gif",
     "category": "其他類",
     "description": {
       "official": "沒有名稱的花。沒有香味也沒有荊棘。",
@@ -7956,7 +7956,7 @@
       "zh_tw": "華麗金屬",
       "en": "Emperium"
     },
-    "icon_url": "/images/items/714.gif",
+    "icon_url": "images/items/714.gif",
     "category": "其他類",
     "description": {
       "official": "帶有耀眼光芒的華麗金屬，據古代文獻記載，它只出現在可以改變這世界的命運的人的面前。",
@@ -8046,7 +8046,7 @@
       "zh_tw": "黃色魔力礦石",
       "en": "Yellow_Gemstone"
     },
-    "icon_url": "/images/items/715.gif",
+    "icon_url": "images/items/715.gif",
     "category": "其他類",
     "description": {
       "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",
@@ -8236,7 +8236,7 @@
       "zh_tw": "紅色魔力礦石",
       "en": "Red_Gemstone"
     },
-    "icon_url": "/images/items/716.gif",
+    "icon_url": "images/items/716.gif",
     "category": "其他類",
     "description": {
       "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",
@@ -8491,7 +8491,7 @@
       "zh_tw": "紫寶石",
       "en": "Violet_Jewel"
     },
-    "icon_url": "/images/items/719.gif",
+    "icon_url": "images/items/719.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出紫色光芒的寶石。",
@@ -8582,7 +8582,7 @@
       "zh_tw": "天藍寶石",
       "en": "Skyblue_Jewel"
     },
-    "icon_url": "/images/items/720.gif",
+    "icon_url": "images/items/720.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出天空藍之光芒的寶石。",
@@ -8738,7 +8738,7 @@
       "zh_tw": "綠寶石",
       "en": "Azure_Jewel"
     },
-    "icon_url": "/images/items/721.gif",
+    "icon_url": "images/items/721.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出綠色光芒的寶石。",
@@ -8839,7 +8839,7 @@
       "zh_tw": "珍珠",
       "en": "Scarlet_Jewel"
     },
-    "icon_url": "/images/items/722.gif",
+    "icon_url": "images/items/722.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出粉紅色光芒的寶石。",
@@ -8935,7 +8935,7 @@
       "zh_tw": "詛咒紅寶石",
       "en": "Cardinal_Jewel_"
     },
-    "icon_url": "/images/items/724.gif",
+    "icon_url": "images/items/724.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出深紅色光芒的寶石，有著超凡無比的神祕力量。",
@@ -9051,7 +9051,7 @@
       "zh_tw": "大紅寶石",
       "en": "Red_Jewel"
     },
-    "icon_url": "/images/items/725.gif",
+    "icon_url": "images/items/725.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出赤色光芒的寶石。",
@@ -9127,7 +9127,7 @@
       "zh_tw": "白寶石",
       "en": "White_Jewel"
     },
-    "icon_url": "/images/items/727.gif",
+    "icon_url": "images/items/727.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出白色光芒的寶石。",
@@ -9228,7 +9228,7 @@
       "zh_tw": "黃寶石",
       "en": "Golden_Jewel"
     },
-    "icon_url": "/images/items/728.gif",
+    "icon_url": "images/items/728.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出黃色光芒的寶石。",
@@ -9329,7 +9329,7 @@
       "zh_tw": "青綠寶石",
       "en": "Bluish_Green_Jewel"
     },
-    "icon_url": "/images/items/729.gif",
+    "icon_url": "images/items/729.gif",
     "category": "其他類",
     "description": {
       "official": "呈現出青綠色之光芒的寶石。",
@@ -9385,7 +9385,7 @@
       "zh_tw": "白色盤子",
       "en": "White_Platter"
     },
-    "icon_url": "/images/items/736.gif",
+    "icon_url": "images/items/736.gif",
     "category": "其他類",
     "description": {
       "official": "純白乾淨的盤子。",
@@ -9421,7 +9421,7 @@
       "zh_tw": "黑色杓子",
       "en": "Black_Ladle"
     },
-    "icon_url": "/images/items/737.gif",
+    "icon_url": "images/items/737.gif",
     "category": "其他類",
     "description": {
       "official": "黑色的杓子，因為用特殊材質製造的關係，所以相當輕巧耐用。",
@@ -9467,7 +9467,7 @@
       "zh_tw": "蒼蠅娃娃",
       "en": "Chonchon_Doll"
     },
-    "icon_url": "/images/items/742.gif",
+    "icon_url": "images/items/742.gif",
     "category": "其他類",
     "description": {
       "official": "一部分特殊的人依照他們自身喜歡的魔物蒼蠅的外型所製造的玩偶。",
@@ -9518,7 +9518,7 @@
       "zh_tw": "魔菇娃娃",
       "en": "Spore_Doll"
     },
-    "icon_url": "/images/items/743.gif",
+    "icon_url": "images/items/743.gif",
     "category": "其他類",
     "description": {
       "official": "依照棲息在潮溼地區的魔菇外型所製造的玩偶。",
@@ -9564,7 +9564,7 @@
       "zh_tw": "永恆玫瑰",
       "en": "Witherless_Rose"
     },
-    "icon_url": "/images/items/748.gif",
+    "icon_url": "images/items/748.gif",
     "category": "其他類",
     "description": {
       "official": "永不枯萎的玫瑰，因為數量不多，所以價值不菲。雖然如此，但因為帶有永不凋謝的愛情的意義，是年輕男子必備的珍貴物品。",
@@ -9645,7 +9645,7 @@
       "zh_tw": "搖滾蝗蟲娃娃",
       "en": "Grasshopper_Doll"
     },
-    "icon_url": "/images/items/752.gif",
+    "icon_url": "images/items/752.gif",
     "category": "其他類",
     "description": {
       "official": "根據在草原上蹦蹦跳跳悠閒的拉著弦樂器的魔物搖滾蝗蟲的模樣所制做來的玩偶，雖然它們不和諧的音樂經常引起收割的農人不滿，但因為搖滾蝗蟲的外型看起來相當的討喜，因此成為買氣相當旺盛的人氣商品。",
@@ -9686,7 +9686,7 @@
       "zh_tw": "溜溜猴娃娃",
       "en": "Monkey_Doll"
     },
-    "icon_url": "/images/items/753.gif",
+    "icon_url": "images/items/753.gif",
     "category": "其他類",
     "description": {
       "official": "根據在深林裡群居的魔物溜溜猴的模樣所制做出來的玩偶，溜溜猴的模樣相當聰明伶俐可愛，讓人備感親切，因此深深獲得女性及小孩子們的喜愛。",
@@ -9732,7 +9732,7 @@
       "zh_tw": "狸貓娃娃",
       "en": "Raccoondog_Doll"
     },
-    "icon_url": "/images/items/754.gif",
+    "icon_url": "images/items/754.gif",
     "category": "其他類",
     "description": {
       "official": "根據在樹林中存活的魔物狸貓的模樣所製作出來的玩偶，意外的相當受到男性的喜愛。",
@@ -9773,7 +9773,7 @@
       "zh_tw": "神之金屬原石",
       "en": "Oridecon_Stone"
     },
-    "icon_url": "/images/items/756.gif",
+    "icon_url": "images/items/756.gif",
     "category": "其他類",
     "description": {
       "official": "是被稱為神之金屬的礦石。相當稀少，且得來不易，可以說是相當珍貴的物品。",
@@ -10363,7 +10363,7 @@
       "zh_tw": "鋁原石",
       "en": "Elunium_Stone"
     },
-    "icon_url": "/images/items/757.gif",
+    "icon_url": "images/items/757.gif",
     "category": "其他類",
     "description": {
       "official": "可以拿來煉鋁的礦石，拿來提煉作成盔甲。",
@@ -11048,7 +11048,7 @@
       "zh_tw": "辮子",
       "en": "Danggie"
     },
-    "icon_url": "/images/items/901.gif",
+    "icon_url": "images/items/901.gif",
     "category": "其他類",
     "description": {
       "official": "從少女頭上所剪下來的辮子，可向收集商購買。",
@@ -11078,7 +11078,7 @@
       "zh_tw": "樹根",
       "en": "Tree_Root"
     },
-    "icon_url": "/images/items/902.gif",
+    "icon_url": "images/items/902.gif",
     "category": "其他類",
     "description": {
       "official": "樹木的根，可用來綁東西或當成藥材食用，用途非常廣泛，可向收集商購買。",
@@ -11123,7 +11123,7 @@
       "zh_tw": "爬蟲類舌頭",
       "en": "Reptile_Tongue"
     },
-    "icon_url": "/images/items/903.gif",
+    "icon_url": "images/items/903.gif",
     "category": "其他類",
     "description": {
       "official": "爬蟲類的舌頭，可向收集品商購買。",
@@ -11228,7 +11228,7 @@
       "zh_tw": "蠍子尾巴",
       "en": "Scorpion's_Tail"
     },
-    "icon_url": "/images/items/904.gif",
+    "icon_url": "images/items/904.gif",
     "category": "其他類",
     "description": {
       "official": "從蠍子尾端剪下來的尾巴，可向收集商人購買。",
@@ -11273,7 +11273,7 @@
       "zh_tw": "植物梗",
       "en": "Stem"
     },
-    "icon_url": "/images/items/905.gif",
+    "icon_url": "images/items/905.gif",
     "category": "其他類",
     "description": {
       "official": "植物細長的梗，可以當做藥材，可向收集商購買。",
@@ -11403,7 +11403,7 @@
       "zh_tw": "鱗片梗",
       "en": "Pointed_Scale"
     },
-    "icon_url": "/images/items/906.gif",
+    "icon_url": "images/items/906.gif",
     "category": "其他類",
     "description": {
       "official": "有著鱗片的梗，是從魔物森靈身上得來的，可向收集商購買。",
@@ -11453,7 +11453,7 @@
       "zh_tw": "枯木汁",
       "en": "Resin"
     },
-    "icon_url": "/images/items/907.gif",
+    "icon_url": "images/items/907.gif",
     "category": "其他類",
     "description": {
       "official": "搜集從樹上流出的液體，可用在製造數種生活用品，可向收集商購買。",
@@ -11518,7 +11518,7 @@
       "zh_tw": "青蛙蛋",
       "en": "Spawn"
     },
-    "icon_url": "/images/items/908.gif",
+    "icon_url": "images/items/908.gif",
     "category": "其他類",
     "description": {
       "official": "從魔物羅達蛙取下來的卯，可向收集商購買。",
@@ -11583,7 +11583,7 @@
       "zh_tw": "傑勒比結晶",
       "en": "Jellopy"
     },
-    "icon_url": "/images/items/909.gif",
+    "icon_url": "images/items/909.gif",
     "category": "其他類",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
@@ -11783,7 +11783,7 @@
       "zh_tw": "加勒結晶",
       "en": "Garlet"
     },
-    "icon_url": "/images/items/910.gif",
+    "icon_url": "images/items/910.gif",
     "category": "其他類",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
@@ -12028,7 +12028,7 @@
       "zh_tw": "雪勒結晶",
       "en": "Scell"
     },
-    "icon_url": "/images/items/911.gif",
+    "icon_url": "images/items/911.gif",
     "category": "其他類",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
@@ -12258,7 +12258,7 @@
       "zh_tw": "剎勒空結晶",
       "en": "Zargon"
     },
-    "icon_url": "/images/items/912.gif",
+    "icon_url": "images/items/912.gif",
     "category": "其他類",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
@@ -12748,7 +12748,7 @@
       "zh_tw": "蝙蝠牙",
       "en": "Tooth_Of_Bat"
     },
-    "icon_url": "/images/items/913.gif",
+    "icon_url": "images/items/913.gif",
     "category": "其他類",
     "description": {
       "official": "魔物吸血蝙蝠尖銳的牙齒，可以用來做衣服或裝飾用。可向收集商購買。",
@@ -12848,7 +12848,7 @@
       "zh_tw": "毛",
       "en": "Fluff"
     },
-    "icon_url": "/images/items/914.gif",
+    "icon_url": "images/items/914.gif",
     "category": "其他類",
     "description": {
       "official": "小型魔物身上的毛，可以用來做衣服的原料，可向收集商購買。",
@@ -12948,7 +12948,7 @@
       "zh_tw": "蛹殼",
       "en": "Chrysalis"
     },
-    "icon_url": "/images/items/915.gif",
+    "icon_url": "images/items/915.gif",
     "category": "其他類",
     "description": {
       "official": "從魔物身上得來的堅硬的外殼，可向收集商購買。",
@@ -12988,7 +12988,7 @@
       "zh_tw": "羽毛",
       "en": "Feather_Of_Birds"
     },
-    "icon_url": "/images/items/916.gif",
+    "icon_url": "images/items/916.gif",
     "category": "其他類",
     "description": {
       "official": "從飛行魔物或動物身上得來的毛，可以用來做衣服或裝飾用。可向收集商購買。",
@@ -13088,7 +13088,7 @@
       "zh_tw": "鳥指甲",
       "en": "Talon"
     },
-    "icon_url": "/images/items/917.gif",
+    "icon_url": "images/items/917.gif",
     "category": "其他類",
     "description": {
       "official": "從飛行魔物或動物身上得來的腳指甲，可以向收集商購買。",
@@ -13133,7 +13133,7 @@
       "zh_tw": "粘糊的蹼",
       "en": "Sticky_Webfoot"
     },
-    "icon_url": "/images/items/918.gif",
+    "icon_url": "images/items/918.gif",
     "category": "其他類",
     "description": {
       "official": "割下有蹼的魔物的後腳得來的物品。可向收集商購買。",
@@ -13193,7 +13193,7 @@
       "zh_tw": "動物外皮",
       "en": "Animal's_Skin"
     },
-    "icon_url": "/images/items/919.gif",
+    "icon_url": "images/items/919.gif",
     "category": "其他類",
     "description": {
       "official": "剝下動物的外皮得來的，可以用來衣服或棉被等物品。可向收集商購買。",
@@ -13403,7 +13403,7 @@
       "zh_tw": "狼指甲",
       "en": "Claw_Of_Wolves"
     },
-    "icon_url": "/images/items/920.gif",
+    "icon_url": "images/items/920.gif",
     "category": "其他類",
     "description": {
       "official": "從狼的腳上剪下來的腳指甲，可向收集品購買。",

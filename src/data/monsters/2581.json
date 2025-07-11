@@ -4,7 +4,7 @@
     "zh_tw": "南瓜魂",
     "en": "G_LUDE"
   },
-  "image_url": "/images/monsters/2581.gif",
+  "image_url": "images/monsters/2581.gif",
   "basic_info": {
     "level": 101,
     "race": "不死",

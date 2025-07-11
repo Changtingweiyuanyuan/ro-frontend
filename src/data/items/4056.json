@@ -4,7 +4,7 @@
     "zh_tw": "獵蠅卡片",
     "en": "Dustiness_Card"
   },
-  "icon_url": "/images/items/4056.gif",
+  "icon_url": "images/items/4056.gif",
   "category": "卡片",
   "description": {
     "official": "受到風屬性的傷害減少30%。FLEE+5",

@@ -4,7 +4,7 @@
     "zh_tw": "暗●智者 西里亞",
     "en": "B_CELIA"
   },
-  "image_url": "/images/monsters/2237.gif",
+  "image_url": "images/monsters/2237.gif",
   "basic_info": {
     "level": 160,
     "race": "人形",
@@ -54,37 +54,37 @@
       "item_id": 616,
       "name": "老舊收集冊",
       "rate": 30.0,
-      "icon_url": "/images/items/616.gif"
+      "icon_url": "images/items/616.gif"
     },
     {
       "item_id": 2854,
       "name": "煉金術手套[1]",
       "rate": 20.0,
-      "icon_url": "/images/items/2854.gif"
+      "icon_url": "images/items/2854.gif"
     },
     {
       "item_id": 4561,
       "name": "暗●智者 西里亞卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 20.0,
-      "icon_url": "/images/items/6224.gif"
+      "icon_url": "images/items/6224.gif"
     },
     {
       "item_id": 12616,
       "name": "S級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12616.gif"
+      "icon_url": "images/items/12616.gif"
     },
     {
       "item_id": 12623,
       "name": "高級武器箱子",
       "rate": 50.0,
-      "icon_url": "/images/items/12623.gif"
+      "icon_url": "images/items/12623.gif"
     }
   ]
 }

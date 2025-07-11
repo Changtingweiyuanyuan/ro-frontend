@@ -4,7 +4,7 @@
     "zh_tw": "黑菇",
     "en": "BLACK_MUSHROOM"
   },
-  "image_url": "/images/monsters/1084.gif",
+  "image_url": "images/monsters/1084.gif",
   "basic_info": {
     "level": 1,
     "race": "植物",
@@ -159,49 +159,49 @@
       "item_id": 630,
       "name": "青苔",
       "rate": 0.2,
-      "icon_url": "/images/items/630.gif"
+      "icon_url": "images/items/630.gif"
     },
     {
       "item_id": 921,
       "name": "香菇芽孢",
       "rate": 50.0,
-      "icon_url": "/images/items/921.gif"
+      "icon_url": "images/items/921.gif"
     },
     {
       "item_id": 921,
       "name": "香菇芽孢",
       "rate": 50.0,
-      "icon_url": "/images/items/921.gif"
+      "icon_url": "images/items/921.gif"
     },
     {
       "item_id": 949,
       "name": "柔毛",
       "rate": 20.0,
-      "icon_url": "/images/items/949.gif"
+      "icon_url": "images/items/949.gif"
     },
     {
       "item_id": 970,
       "name": "酒精",
       "rate": 0.5,
-      "icon_url": "/images/items/970.gif"
+      "icon_url": "images/items/970.gif"
     },
     {
       "item_id": 971,
       "name": "帝特立米藥水",
       "rate": 0.5,
-      "icon_url": "/images/items/971.gif"
+      "icon_url": "images/items/971.gif"
     },
     {
       "item_id": 991,
       "name": "水靈礦石",
       "rate": 8.0,
-      "icon_url": "/images/items/991.gif"
+      "icon_url": "images/items/991.gif"
     },
     {
       "item_id": 7033,
       "name": "毒魔菇芽孢",
       "rate": 50.0,
-      "icon_url": "/images/items/7033.gif"
+      "icon_url": "images/items/7033.gif"
     }
   ]
 }

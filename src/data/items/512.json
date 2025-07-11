@@ -4,7 +4,7 @@
     "zh_tw": "蘋果",
     "en": "Apple"
   },
-  "icon_url": "/images/items/512.gif",
+  "icon_url": "images/items/512.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "清爽香甜的水果，可恢復少量的HP。",

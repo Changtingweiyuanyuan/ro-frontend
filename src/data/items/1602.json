@@ -4,7 +4,7 @@
     "zh_tw": "手杖",
     "en": "Rod_"
   },
-  "icon_url": "/images/items/1602.gif",
+  "icon_url": "images/items/1602.gif",
   "category": "武器",
   "description": {
     "official": "輕巧又短小的手杖。MATK上升30",

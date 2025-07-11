@@ -4,7 +4,7 @@
     "zh_tw": "死亡魔書",
     "en": "DEATHWORD"
   },
-  "image_url": "/images/monsters/1698.gif",
+  "image_url": "images/monsters/1698.gif",
   "basic_info": {
     "level": 114,
     "race": "無形",
@@ -84,49 +84,49 @@
       "item_id": 1097,
       "name": "破舊書頁",
       "rate": 20.0,
-      "icon_url": "/images/items/1097.gif"
+      "icon_url": "images/items/1097.gif"
     },
     {
       "item_id": 2418,
       "name": "迪塔樂長靴",
       "rate": 0.05,
-      "icon_url": "/images/items/2418.gif"
+      "icon_url": "images/items/2418.gif"
     },
     {
       "item_id": 4388,
       "name": "死亡魔書卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7015,
       "name": "回憶書籤",
       "rate": 1.5,
-      "icon_url": "/images/items/7015.gif"
+      "icon_url": "images/items/7015.gif"
     },
     {
       "item_id": 7449,
       "name": "染血的書頁",
       "rate": 2.5,
-      "icon_url": "/images/items/7449.gif"
+      "icon_url": "images/items/7449.gif"
     },
     {
       "item_id": 7479,
       "name": "8級烹飪書",
       "rate": 0.01,
-      "icon_url": "/images/items/7479.gif"
+      "icon_url": "images/items/7479.gif"
     },
     {
       "item_id": 7480,
       "name": "9級烹飪書",
       "rate": 0.01,
-      "icon_url": "/images/items/7480.gif"
+      "icon_url": "images/items/7480.gif"
     },
     {
       "item_id": 11003,
       "name": "世紀末卡普拉傳說 第1本",
       "rate": 0.25,
-      "icon_url": "/images/items/11003.gif"
+      "icon_url": "images/items/11003.gif"
     }
   ]
 }

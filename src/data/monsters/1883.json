@@ -4,7 +4,7 @@
     "zh_tw": "樹林女巫",
     "en": "UZHAS"
   },
-  "image_url": "/images/monsters/1883.gif",
+  "image_url": "images/monsters/1883.gif",
   "basic_info": {
     "level": 85,
     "race": "人形",
@@ -54,49 +54,49 @@
       "item_id": 520,
       "name": "西納雷葉子",
       "rate": 4.5,
-      "icon_url": "/images/items/520.gif"
+      "icon_url": "images/items/520.gif"
     },
     {
       "item_id": 522,
       "name": "瑪絲黛拉果實",
       "rate": 0.5,
-      "icon_url": "/images/items/522.gif"
+      "icon_url": "images/items/522.gif"
     },
     {
       "item_id": 579,
       "name": "美味的魚",
       "rate": 7.5,
-      "icon_url": "/images/items/579.gif"
+      "icon_url": "images/items/579.gif"
     },
     {
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.02,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 621,
       "name": "苦味草",
       "rate": 0.5,
-      "icon_url": "/images/items/621.gif"
+      "icon_url": "images/items/621.gif"
     },
     {
       "item_id": 918,
       "name": "粘糊的蹼",
       "rate": 17.5,
-      "icon_url": "/images/items/918.gif"
+      "icon_url": "images/items/918.gif"
     },
     {
       "item_id": 1573,
       "name": "遠古魔法[2]",
       "rate": 0.03,
-      "icon_url": "/images/items/1573.gif"
+      "icon_url": "images/items/1573.gif"
     },
     {
       "item_id": 27159,
       "name": "樹林女巫卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27159.gif"
+      "icon_url": "images/items/27159.gif"
     }
   ]
 }

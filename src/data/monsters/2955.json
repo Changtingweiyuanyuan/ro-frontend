@@ -4,7 +4,7 @@
     "zh_tw": "褪色的友情 / 久遠的友情",
     "en": "OLD_FRIENDSHIP"
   },
-  "image_url": "/images/monsters/2955.gif",
+  "image_url": "images/monsters/2955.gif",
   "basic_info": {
     "level": 110,
     "race": "不死",
@@ -49,19 +49,19 @@
       "item_id": 932,
       "name": "死人遺骨",
       "rate": 35.0,
-      "icon_url": "/images/items/932.gif"
+      "icon_url": "images/items/932.gif"
     },
     {
       "item_id": 1098,
       "name": "手銬",
       "rate": 25.0,
-      "icon_url": "/images/items/1098.gif"
+      "icon_url": "images/items/1098.gif"
     },
     {
       "item_id": 6672,
       "name": "土色碎片",
       "rate": 10.0,
-      "icon_url": "/images/items/6672.gif"
+      "icon_url": "images/items/6672.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "樹精",
     "en": "WILOW"
   },
-  "image_url": "/images/monsters/1010.gif",
+  "image_url": "images/monsters/1010.gif",
   "basic_info": {
     "level": 8,
     "race": "植物",
@@ -59,49 +59,49 @@
       "item_id": 516,
       "name": "番薯",
       "rate": 10.0,
-      "icon_url": "/images/items/516.gif"
+      "icon_url": "images/items/516.gif"
     },
     {
       "item_id": 902,
       "name": "樹根",
       "rate": 90.0,
-      "icon_url": "/images/items/902.gif"
+      "icon_url": "images/items/902.gif"
     },
     {
       "item_id": 907,
       "name": "枯木汁",
       "rate": 20.0,
-      "icon_url": "/images/items/907.gif"
+      "icon_url": "images/items/907.gif"
     },
     {
       "item_id": 1019,
       "name": "瑪哪樹枝",
       "rate": 1.0,
-      "icon_url": "/images/items/1019.gif"
+      "icon_url": "images/items/1019.gif"
     },
     {
       "item_id": 1066,
       "name": "天地樹枝",
       "rate": 10.0,
-      "icon_url": "/images/items/1066.gif"
+      "icon_url": "images/items/1066.gif"
     },
     {
       "item_id": 1067,
       "name": "智慧樹枝",
       "rate": 20.0,
-      "icon_url": "/images/items/1067.gif"
+      "icon_url": "images/items/1067.gif"
     },
     {
       "item_id": 1068,
       "name": "世界樹枝",
       "rate": 30.0,
-      "icon_url": "/images/items/1068.gif"
+      "icon_url": "images/items/1068.gif"
     },
     {
       "item_id": 4010,
       "name": "樹精卡片",
       "rate": 0.1,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "綠棉蟲",
     "en": "FABRE"
   },
-  "image_url": "/images/monsters/1007.gif",
+  "image_url": "images/monsters/1007.gif",
   "basic_info": {
     "level": 6,
     "race": "昆蟲",
@@ -109,49 +109,49 @@
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 30.0,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 705,
       "name": "三葉幸運草",
       "rate": 10.0,
-      "icon_url": "/images/items/705.gif"
+      "icon_url": "images/items/705.gif"
     },
     {
       "item_id": 914,
       "name": "毛",
       "rate": 70.0,
-      "icon_url": "/images/items/914.gif"
+      "icon_url": "images/items/914.gif"
     },
     {
       "item_id": 949,
       "name": "柔毛",
       "rate": 10.0,
-      "icon_url": "/images/items/949.gif"
+      "icon_url": "images/items/949.gif"
     },
     {
       "item_id": 1501,
       "name": "木錘[3]",
       "rate": 2.0,
-      "icon_url": "/images/items/1501.gif"
+      "icon_url": "images/items/1501.gif"
     },
     {
       "item_id": 1502,
       "name": "木錘[4]",
       "rate": 0.8,
-      "icon_url": "/images/items/1502.gif"
+      "icon_url": "images/items/1502.gif"
     },
     {
       "item_id": 4002,
       "name": "綠棉蟲卡片",
       "rate": 0.2,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

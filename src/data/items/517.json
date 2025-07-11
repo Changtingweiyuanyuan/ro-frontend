@@ -4,7 +4,7 @@
     "zh_tw": "肉",
     "en": "Meat"
   },
-  "icon_url": "/images/items/517.gif",
+  "icon_url": "images/items/517.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "味道很棒。可恢復少量的HP。",

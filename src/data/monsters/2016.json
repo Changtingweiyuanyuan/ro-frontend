@@ -4,7 +4,7 @@
     "zh_tw": "水元素 / 水精靈",
     "en": "AQUA_ELEMENTAL"
   },
-  "image_url": "/images/monsters/2016.gif",
+  "image_url": "images/monsters/2016.gif",
   "basic_info": {
     "level": 121,
     "race": "無形",
@@ -54,37 +54,37 @@
       "item_id": 1061,
       "name": "魔女之星沙",
       "rate": 12.5,
-      "icon_url": "/images/items/1061.gif"
+      "icon_url": "images/items/1061.gif"
     },
     {
       "item_id": 2787,
       "name": "水滴胸針[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2787.gif"
+      "icon_url": "images/items/2787.gif"
     },
     {
       "item_id": 4443,
       "name": "水元素卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6075,
       "name": "眼淚結晶",
       "rate": 5.0,
-      "icon_url": "/images/items/6075.gif"
+      "icon_url": "images/items/6075.gif"
     },
     {
       "item_id": 7326,
       "name": "熒光色的液體",
       "rate": 25.0,
-      "icon_url": "/images/items/7326.gif"
+      "icon_url": "images/items/7326.gif"
     },
     {
       "item_id": 12353,
       "name": "小水瓶",
       "rate": 0.5,
-      "icon_url": "/images/items/12353.gif"
+      "icon_url": "images/items/12353.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "魔神的追隨者",
     "en": "MM_EVIL_FANATICS"
   },
-  "image_url": "/images/monsters/2942.gif",
+  "image_url": "images/monsters/2942.gif",
   "basic_info": {
     "level": 151,
     "race": "惡魔",
@@ -49,7 +49,7 @@
       "item_id": 27265,
       "name": "魔神追隨者卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27265.gif"
+      "icon_url": "images/items/27265.gif"
     }
   ]
 }

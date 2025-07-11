@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 雄壯 狂暴大腳熊",
     "en": "C2_LEIB_OLMAI"
   },
-  "image_url": "/images/monsters/2780.gif",
+  "image_url": "images/monsters/2780.gif",
   "basic_info": {
     "level": 118,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 518,
       "name": "蜂蜜",
       "rate": 12.5,
-      "icon_url": "/images/items/518.gif"
+      "icon_url": "images/items/518.gif"
     },
     {
       "item_id": 740,
       "name": "瘋兔娃娃",
       "rate": 3.0,
-      "icon_url": "/images/items/740.gif"
+      "icon_url": "images/items/740.gif"
     },
     {
       "item_id": 948,
       "name": "熊掌",
       "rate": 100.0,
-      "icon_url": "/images/items/948.gif"
+      "icon_url": "images/items/948.gif"
     },
     {
       "item_id": 969,
       "name": "黃金",
       "rate": 0.01,
-      "icon_url": "/images/items/969.gif"
+      "icon_url": "images/items/969.gif"
     },
     {
       "item_id": 2289,
       "name": "糞便帽",
       "rate": 0.2,
-      "icon_url": "/images/items/2289.gif"
+      "icon_url": "images/items/2289.gif"
     },
     {
       "item_id": 2717,
       "name": "懷錶",
       "rate": 0.15,
-      "icon_url": "/images/items/2717.gif"
+      "icon_url": "images/items/2717.gif"
     },
     {
       "item_id": 4188,
       "name": "狂暴大腳熊卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7053,
       "name": "賽依伐",
       "rate": 20.0,
-      "icon_url": "/images/items/7053.gif"
+      "icon_url": "images/items/7053.gif"
     }
   ]
 }

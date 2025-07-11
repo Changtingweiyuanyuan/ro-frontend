@@ -4,7 +4,7 @@
     "zh_tw": "汙染黑暗之王",
     "en": "DARK_LORD_H"
   },
-  "image_url": "/images/monsters/20422.gif",
+  "image_url": "images/monsters/20422.gif",
   "basic_info": {
     "level": 194,
     "race": "不死",
@@ -49,31 +49,31 @@
       "item_id": 607,
       "name": "天地樹果實",
       "rate": 25.0,
-      "icon_url": "/images/items/607.gif"
+      "icon_url": "images/items/607.gif"
     },
     {
       "item_id": 7005,
       "name": "骷髏頭",
       "rate": 50.0,
-      "icon_url": "/images/items/7005.gif"
+      "icon_url": "images/items/7005.gif"
     },
     {
       "item_id": 25729,
       "name": "影子神祕金屬",
       "rate": 0.5,
-      "icon_url": "/images/items/25729.gif"
+      "icon_url": "images/items/25729.gif"
     },
     {
       "item_id": 25731,
       "name": "鍺金石",
       "rate": 0.5,
-      "icon_url": "/images/items/25731.gif"
+      "icon_url": "images/items/25731.gif"
     },
     {
       "item_id": 27363,
       "name": "汙染黑暗之王卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27363.gif"
+      "icon_url": "images/items/27363.gif"
     }
   ]
 }

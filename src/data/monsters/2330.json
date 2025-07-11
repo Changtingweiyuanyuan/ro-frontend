@@ -4,7 +4,7 @@
     "zh_tw": "寶箱巨鱷的部下",
     "en": "BUWAYA_SLAVE"
   },
-  "image_url": "/images/monsters/2330.gif",
+  "image_url": "images/monsters/2330.gif",
   "basic_info": {
     "level": 135,
     "race": "植物",

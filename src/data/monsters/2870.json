@@ -4,7 +4,7 @@
     "zh_tw": "精英古鐘魔 / 菁英古鐘魔",
     "en": "C3_CLOCK"
   },
-  "image_url": "/images/monsters/2870.gif",
+  "image_url": "images/monsters/2870.gif",
   "basic_info": {
     "level": 81,
     "race": "無形",
@@ -49,49 +49,49 @@
       "item_id": 509,
       "name": "白色藥草",
       "rate": 47.5,
-      "icon_url": "/images/items/509.gif"
+      "icon_url": "images/items/509.gif"
     },
     {
       "item_id": 568,
       "name": "檸檬",
       "rate": 8.0,
-      "icon_url": "/images/items/568.gif"
+      "icon_url": "images/items/568.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 4.1,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1019,
       "name": "瑪哪樹枝",
       "rate": 20.0,
-      "icon_url": "/images/items/1019.gif"
+      "icon_url": "images/items/1019.gif"
     },
     {
       "item_id": 1095,
       "name": "指針",
       "rate": 100.0,
-      "icon_url": "/images/items/1095.gif"
+      "icon_url": "images/items/1095.gif"
     },
     {
       "item_id": 4299,
       "name": "古鐘魔卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7026,
       "name": "鐘塔之鑰",
       "rate": 0.75,
-      "icon_url": "/images/items/7026.gif"
+      "icon_url": "images/items/7026.gif"
     },
     {
       "item_id": 7027,
       "name": "鐘塔鑰匙",
       "rate": 0.75,
-      "icon_url": "/images/items/7027.gif"
+      "icon_url": "images/items/7027.gif"
     }
   ]
 }

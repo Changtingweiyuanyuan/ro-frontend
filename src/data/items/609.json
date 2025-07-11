@@ -4,7 +4,7 @@
     "zh_tw": "返魂符",
     "en": "Amulet"
   },
-  "icon_url": "/images/items/609.gif",
+  "icon_url": "images/items/609.gif",
   "category": "消耗類",
   "description": {
     "official": "可令死人死而復生的符咒，可以保持在半生半死的狀態，也就是成為不死的狀態。",

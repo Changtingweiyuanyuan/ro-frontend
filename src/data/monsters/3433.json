@@ -4,7 +4,7 @@
     "zh_tw": "蝗蟲",
     "en": "MIN_G_ROCKER"
   },
-  "image_url": "/images/monsters/3433.gif",
+  "image_url": "images/monsters/3433.gif",
   "basic_info": {
     "level": 100,
     "race": "昆蟲",

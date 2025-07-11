@@ -4,7 +4,7 @@
     "zh_tw": "弓",
     "en": "Bow_"
   },
-  "icon_url": "/images/items/1702.gif",
+  "icon_url": "images/items/1702.gif",
   "category": "武器",
   "description": {
     "official": "傷害並不是很高，但使用起來很方便的弓。",

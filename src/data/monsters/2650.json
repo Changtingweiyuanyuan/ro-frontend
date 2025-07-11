@@ -4,7 +4,7 @@
     "zh_tw": "精英慰勞者 / 狡猾慰勞者",
     "en": "C5_SOLACE"
   },
-  "image_url": "/images/monsters/2650.gif",
+  "image_url": "images/monsters/2650.gif",
   "basic_info": {
     "level": 123,
     "race": "天使",
@@ -49,49 +49,49 @@
       "item_id": 718,
       "name": "深紅寶石",
       "rate": 25.0,
-      "icon_url": "/images/items/718.gif"
+      "icon_url": "images/items/718.gif"
     },
     {
       "item_id": 1910,
       "name": "豎琴[2]",
       "rate": 1.25,
-      "icon_url": "/images/items/1910.gif"
+      "icon_url": "images/items/1910.gif"
     },
     {
       "item_id": 1939,
       "name": "緋紅色小提琴[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/1939.gif"
+      "icon_url": "images/items/1939.gif"
     },
     {
       "item_id": 2621,
       "name": "力量戒指[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2621.gif"
+      "icon_url": "images/items/2621.gif"
     },
     {
       "item_id": 4394,
       "name": "慰勞者卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7441,
       "name": "藍色羽毛",
       "rate": 5.0,
-      "icon_url": "/images/items/7441.gif"
+      "icon_url": "images/items/7441.gif"
     },
     {
       "item_id": 7442,
       "name": "被詛咒的印",
       "rate": 1.25,
-      "icon_url": "/images/items/7442.gif"
+      "icon_url": "images/items/7442.gif"
     },
     {
       "item_id": 12040,
       "name": "賢者之石",
       "rate": 1.25,
-      "icon_url": "/images/items/12040.gif"
+      "icon_url": "images/items/12040.gif"
     }
   ]
 }

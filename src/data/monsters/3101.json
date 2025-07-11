@@ -4,7 +4,7 @@
     "zh_tw": "光輝的瑪娜",
     "en": "MM_MANA_WHITE"
   },
-  "image_url": "/images/monsters/3101.gif",
+  "image_url": "images/monsters/3101.gif",
   "basic_info": {
     "level": 1,
     "race": "無形",

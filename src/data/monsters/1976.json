@@ -4,7 +4,7 @@
     "zh_tw": "鈷礦石魔 / 惡精靈礦石",
     "en": "COBALT_MINERAL"
   },
-  "image_url": "/images/monsters/1976.gif",
+  "image_url": "images/monsters/1976.gif",
   "basic_info": {
     "level": 113,
     "race": "無形",
@@ -49,49 +49,49 @@
       "item_id": 715,
       "name": "黃色魔力礦石",
       "rate": 0.5,
-      "icon_url": "/images/items/715.gif"
+      "icon_url": "images/items/715.gif"
     },
     {
       "item_id": 728,
       "name": "黃寶石",
       "rate": 2.5,
-      "icon_url": "/images/items/728.gif"
+      "icon_url": "images/items/728.gif"
     },
     {
       "item_id": 969,
       "name": "黃金",
       "rate": 0.01,
-      "icon_url": "/images/items/969.gif"
+      "icon_url": "images/items/969.gif"
     },
     {
       "item_id": 984,
       "name": "神之金屬",
       "rate": 0.4,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 1011,
       "name": "強化武器金屬-級數二",
       "rate": 4.0,
-      "icon_url": "/images/items/1011.gif"
+      "icon_url": "images/items/1011.gif"
     },
     {
       "item_id": 4475,
       "name": "鈷礦石魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7321,
       "name": "水晶碎片",
       "rate": 15.0,
-      "icon_url": "/images/items/7321.gif"
+      "icon_url": "images/items/7321.gif"
     },
     {
       "item_id": 13414,
       "name": "元素之劍[3]",
       "rate": 0.03,
-      "icon_url": "/images/items/13414.gif"
+      "icon_url": "images/items/13414.gif"
     }
   ]
 }

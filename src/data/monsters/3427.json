@@ -4,7 +4,7 @@
     "zh_tw": "俄塞里斯",
     "en": "MIN_OSIRIS"
   },
-  "image_url": "/images/monsters/3427.gif",
+  "image_url": "images/monsters/3427.gif",
   "basic_info": {
     "level": 103,
     "race": "不死",
@@ -49,49 +49,49 @@
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 10.0,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 1232,
       "name": "妖短劍 泣神怨",
       "rate": 0.75,
-      "icon_url": "/images/items/1232.gif"
+      "icon_url": "images/items/1232.gif"
     },
     {
       "item_id": 1255,
       "name": "祕刃 暗嘯[1]",
       "rate": 3.0,
-      "icon_url": "/images/items/1255.gif"
+      "icon_url": "images/items/1255.gif"
     },
     {
       "item_id": 1285,
       "name": "脈輪之刃[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/1285.gif"
+      "icon_url": "images/items/1285.gif"
     },
     {
       "item_id": 2235,
       "name": "王冠",
       "rate": 1.0,
-      "icon_url": "/images/items/2235.gif"
+      "icon_url": "images/items/2235.gif"
     },
     {
       "item_id": 4647,
       "name": "無限俄塞里斯卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5053,
       "name": "人面獅身帽",
       "rate": 0.75,
-      "icon_url": "/images/items/5053.gif"
+      "icon_url": "images/items/5053.gif"
     },
     {
       "item_id": 6905,
       "name": "破碎的魔法石",
       "rate": 100.0,
-      "icon_url": "/images/items/6905.gif"
+      "icon_url": "images/items/6905.gif"
     }
   ]
 }

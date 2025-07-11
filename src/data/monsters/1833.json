@@ -4,7 +4,7 @@
     "zh_tw": "火鳥",
     "en": "KASA"
   },
-  "image_url": "/images/monsters/1833.gif",
+  "image_url": "images/monsters/1833.gif",
   "basic_info": {
     "level": 135,
     "race": "無形",
@@ -59,49 +59,49 @@
       "item_id": 994,
       "name": "火靈原石",
       "rate": 0.15,
-      "icon_url": "/images/items/994.gif"
+      "icon_url": "images/items/994.gif"
     },
     {
       "item_id": 1626,
       "name": "洞察之杖",
       "rate": 0.05,
-      "icon_url": "/images/items/1626.gif"
+      "icon_url": "images/items/1626.gif"
     },
     {
       "item_id": 1730,
       "name": "燃燒之弓[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/1730.gif"
+      "icon_url": "images/items/1730.gif"
     },
     {
       "item_id": 2344,
       "name": "火鱗盔甲",
       "rate": 0.05,
-      "icon_url": "/images/items/2344.gif"
+      "icon_url": "images/items/2344.gif"
     },
     {
       "item_id": 2680,
       "name": "下級精靈的戒指",
       "rate": 0.01,
-      "icon_url": "/images/items/2680.gif"
+      "icon_url": "images/items/2680.gif"
     },
     {
       "item_id": 4431,
       "name": "不死鳥卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7097,
       "name": "燃燒的心臟",
       "rate": 15.0,
-      "icon_url": "/images/items/7097.gif"
+      "icon_url": "images/items/7097.gif"
     },
     {
       "item_id": 7122,
       "name": "炙熱的毛",
       "rate": 12.5,
-      "icon_url": "/images/items/7122.gif"
+      "icon_url": "images/items/7122.gif"
     }
   ]
 }

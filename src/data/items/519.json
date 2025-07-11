@@ -4,7 +4,7 @@
     "zh_tw": "牛奶",
     "en": "Milk"
   },
-  "icon_url": "/images/items/519.gif",
+  "icon_url": "images/items/519.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "牛奶加工而成的液體，被視為小孩子成長期時最具營養價值的食品。可恢復少量HP。",

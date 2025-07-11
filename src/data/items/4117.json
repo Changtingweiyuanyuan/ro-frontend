@@ -4,7 +4,7 @@
     "zh_tw": "黑蛇卡片",
     "en": "Side_Winder_Card"
   },
-  "icon_url": "/images/items/4117.gif",
+  "icon_url": "images/items/4117.gif",
   "category": "卡片",
   "description": {
     "official": "可使用【二刀連擊】Lv1技能遠程武器無法使用。當習得二刀連擊技能後，因技能等級的不同，啟動二刀連擊的幾率也將有所不同。",

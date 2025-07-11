@@ -4,7 +4,7 @@
     "zh_tw": "流星鎚",
     "en": "Flail_"
   },
-  "icon_url": "/images/items/1511.gif",
+  "icon_url": "images/items/1511.gif",
   "category": "武器",
   "description": {
     "official": "被打到時，會讓人感到好像被好幾個鈍器一起攻擊的感覺。",

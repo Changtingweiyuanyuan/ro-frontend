@@ -4,7 +4,7 @@
     "zh_tw": "海草",
     "en": "MD_SEAWEED"
   },
-  "image_url": "/images/monsters/2191.gif",
+  "image_url": "images/monsters/2191.gif",
   "basic_info": {
     "level": 100,
     "race": "魚貝",

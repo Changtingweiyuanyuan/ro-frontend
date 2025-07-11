@@ -4,7 +4,7 @@
     "zh_tw": "紅蝙蝠卡片",
     "en": "Drainliar_Card"
   },
-  "icon_url": "/images/items/4069.gif",
+  "icon_url": "images/items/4069.gif",
   "category": "卡片",
   "description": {
     "official": "對水屬性魔物增加20%的傷害。",

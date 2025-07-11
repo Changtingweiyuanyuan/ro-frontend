@@ -4,7 +4,7 @@
     "zh_tw": "鐵盾",
     "en": "Guard_"
   },
-  "icon_url": "/images/items/2102.gif",
+  "icon_url": "images/items/2102.gif",
   "category": "防具",
   "description": {
     "official": "可以抵擋敵人攻擊的簡易道具。",

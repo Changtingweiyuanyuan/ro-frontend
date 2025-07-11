@@ -4,7 +4,7 @@
     "zh_tw": "花瓣怪蟲",
     "en": "PETAL"
   },
-  "image_url": "/images/monsters/2364.gif",
+  "image_url": "images/monsters/2364.gif",
   "basic_info": {
     "level": 141,
     "race": "動物",
@@ -49,37 +49,37 @@
       "item_id": 1026,
       "name": "橡實",
       "rate": 10.0,
-      "icon_url": "/images/items/1026.gif"
+      "icon_url": "images/items/1026.gif"
     },
     {
       "item_id": 4594,
       "name": "花瓣怪蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6089,
       "name": "黑暗碎片",
       "rate": 2.5,
-      "icon_url": "/images/items/6089.gif"
+      "icon_url": "images/items/6089.gif"
     },
     {
       "item_id": 6558,
       "name": "橡實堆",
       "rate": 30.0,
-      "icon_url": "/images/items/6558.gif"
+      "icon_url": "images/items/6558.gif"
     },
     {
       "item_id": 12346,
       "name": "未成熟的榛子",
       "rate": 10.0,
-      "icon_url": "/images/items/12346.gif"
+      "icon_url": "images/items/12346.gif"
     },
     {
       "item_id": 12814,
       "name": "薄荷藥草",
       "rate": 0.05,
-      "icon_url": "/images/items/12814.gif"
+      "icon_url": "images/items/12814.gif"
     }
   ]
 }

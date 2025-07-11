@@ -4,7 +4,7 @@
     "zh_tw": "綠蒼蠅卡片",
     "en": "Steel_Chonchon_Card"
   },
-  "icon_url": "/images/items/4042.gif",
+  "icon_url": "images/items/4042.gif",
   "category": "卡片",
   "description": {
     "official": "DEF+2受到風屬性的傷害減少10%。",

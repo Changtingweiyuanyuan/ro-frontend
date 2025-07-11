@@ -4,7 +4,7 @@
     "zh_tw": "銀月魔女",
     "en": "LOLI_RURI"
   },
-  "image_url": "/images/monsters/1505.gif",
+  "image_url": "images/monsters/1505.gif",
   "basic_info": {
     "level": 109,
     "race": "惡魔",
@@ -59,49 +59,49 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 0.5,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 2718,
       "name": "月亮胸針[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2718.gif"
+      "icon_url": "images/items/2718.gif"
     },
     {
       "item_id": 4191,
       "name": "銀月魔女卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7019,
       "name": "傲慢之像",
       "rate": 0.01,
-      "icon_url": "/images/items/7019.gif"
+      "icon_url": "images/items/7019.gif"
     },
     {
       "item_id": 7206,
       "name": "黑貓娃娃",
       "rate": 4.0,
-      "icon_url": "/images/items/7206.gif"
+      "icon_url": "images/items/7206.gif"
     },
     {
       "item_id": 7214,
       "name": "蝙蝠籠子",
       "rate": 25.22,
-      "icon_url": "/images/items/7214.gif"
+      "icon_url": "images/items/7214.gif"
     },
     {
       "item_id": 7219,
       "name": "彩色襪子",
       "rate": 15.0,
-      "icon_url": "/images/items/7219.gif"
+      "icon_url": "images/items/7219.gif"
     },
     {
       "item_id": 15038,
       "name": "薩巴斯的外袍[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/15038.gif"
+      "icon_url": "images/items/15038.gif"
     }
   ]
 }

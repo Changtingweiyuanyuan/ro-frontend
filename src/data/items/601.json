@@ -4,7 +4,7 @@
     "zh_tw": "蒼蠅翅膀",
     "en": "Wing_Of_Fly"
   },
-  "icon_url": "/images/items/601.gif",
+  "icon_url": "images/items/601.gif",
   "category": "延遲消耗類",
   "description": {
     "official": "將蒼蠅的翅膀剪下後，製作出的具有魔法力量的物品，可在地圖上移動至任意的位置上。【此物品無法交易、露天販賣、露天收購】",

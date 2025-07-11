@@ -4,7 +4,7 @@
     "zh_tw": "長老樹精卡片",
     "en": "Elder_Wilow_Card"
   },
-  "icon_url": "/images/items/4052.gif",
+  "icon_url": "images/items/4052.gif",
   "category": "卡片",
   "description": {
     "official": "INT+2",

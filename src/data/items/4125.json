@@ -4,7 +4,7 @@
     "zh_tw": "狄奧斯卡片",
     "en": "Deviace_Card"
   },
-  "icon_url": "/images/items/4125.gif",
+  "icon_url": "images/items/4125.gif",
   "category": "卡片",
   "description": {
     "official": "對人類，動物類，植物類及昆蟲類型魔物增加7%的傷害。",

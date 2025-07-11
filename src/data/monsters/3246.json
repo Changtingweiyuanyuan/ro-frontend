@@ -4,7 +4,7 @@
     "zh_tw": "暗●流浪舞者 特蘭提尼",
     "en": "V_B_TRENTINI"
   },
-  "image_url": "/images/monsters/3246.gif",
+  "image_url": "images/monsters/3246.gif",
   "basic_info": {
     "level": 186,
     "race": "人形",
@@ -49,49 +49,49 @@
       "item_id": 4683,
       "name": "暗●漫遊舞者 特蘭提尼卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6818,
       "name": "弓箭手之魂",
       "rate": 100.0,
-      "icon_url": "/images/items/6818.gif"
+      "icon_url": "images/items/6818.gif"
     },
     {
       "item_id": 6818,
       "name": "弓箭手之魂",
       "rate": 100.0,
-      "icon_url": "/images/items/6818.gif"
+      "icon_url": "images/items/6818.gif"
     },
     {
       "item_id": 6818,
       "name": "弓箭手之魂",
       "rate": 100.0,
-      "icon_url": "/images/items/6818.gif"
+      "icon_url": "images/items/6818.gif"
     },
     {
       "item_id": 20748,
       "name": "戰死者斗篷",
       "rate": 1.5,
-      "icon_url": "/images/items/20748.gif"
+      "icon_url": "images/items/20748.gif"
     },
     {
       "item_id": 20748,
       "name": "戰死者斗篷",
       "rate": 5.0,
-      "icon_url": "/images/items/20748.gif"
+      "icon_url": "images/items/20748.gif"
     },
     {
       "item_id": 22687,
       "name": "邪念碎片",
       "rate": 50.0,
-      "icon_url": "/images/items/22687.gif"
+      "icon_url": "images/items/22687.gif"
     },
     {
       "item_id": 23016,
       "name": "怨念碎片",
       "rate": 30.0,
-      "icon_url": "/images/items/23016.gif"
+      "icon_url": "images/items/23016.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "蝙蝠弓箭手",
     "en": "MIN_G_GARGOYLE"
   },
-  "image_url": "/images/monsters/3435.gif",
+  "image_url": "images/monsters/3435.gif",
   "basic_info": {
     "level": 100,
     "race": "惡魔",

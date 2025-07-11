@@ -4,7 +4,7 @@
     "zh_tw": "捕蟲草",
     "en": "DROSERA"
   },
-  "image_url": "/images/monsters/1781.gif",
+  "image_url": "images/monsters/1781.gif",
   "basic_info": {
     "level": 101,
     "race": "植物",
@@ -74,49 +74,49 @@
       "item_id": 621,
       "name": "苦味草",
       "rate": 0.02,
-      "icon_url": "/images/items/621.gif"
+      "icon_url": "images/items/621.gif"
     },
     {
       "item_id": 905,
       "name": "植物梗",
       "rate": 5.0,
-      "icon_url": "/images/items/905.gif"
+      "icon_url": "images/items/905.gif"
     },
     {
       "item_id": 1032,
       "name": "噬人樹花",
       "rate": 10.0,
-      "icon_url": "/images/items/1032.gif"
+      "icon_url": "images/items/1032.gif"
     },
     {
       "item_id": 1033,
       "name": "噬人樹根",
       "rate": 10.0,
-      "icon_url": "/images/items/1033.gif"
+      "icon_url": "images/items/1033.gif"
     },
     {
       "item_id": 4421,
       "name": "茅膏菜卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6217,
       "name": "曼陀羅魔花花盆",
       "rate": 1.0,
-      "icon_url": "/images/items/6217.gif"
+      "icon_url": "images/items/6217.gif"
     },
     {
       "item_id": 6259,
       "name": "茅膏菜的觸手",
       "rate": 0.5,
-      "icon_url": "/images/items/6259.gif"
+      "icon_url": "images/items/6259.gif"
     },
     {
       "item_id": 7565,
       "name": "黏黏的毒液",
       "rate": 15.0,
-      "icon_url": "/images/items/7565.gif"
+      "icon_url": "images/items/7565.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "三角獸 / 三角狂獅獸",
     "en": "TENDRILRION"
   },
-  "image_url": "/images/monsters/1991.gif",
+  "image_url": "images/monsters/1991.gif",
   "basic_info": {
     "level": 126,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 1186,
       "name": "死亡引導者[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/1186.gif"
+      "icon_url": "images/items/1186.gif"
     },
     {
       "item_id": 1637,
       "name": "淨化之杖",
       "rate": 0.5,
-      "icon_url": "/images/items/1637.gif"
+      "icon_url": "images/items/1637.gif"
     },
     {
       "item_id": 2544,
       "name": "三角獸之皮[1]",
       "rate": 2.5,
-      "icon_url": "/images/items/2544.gif"
+      "icon_url": "images/items/2544.gif"
     },
     {
       "item_id": 4463,
       "name": "三角獸卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6033,
       "name": "三角獸之角",
       "rate": 45.0,
-      "icon_url": "/images/items/6033.gif"
+      "icon_url": "images/items/6033.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 0.05,
-      "icon_url": "/images/items/6224.gif"
+      "icon_url": "images/items/6224.gif"
     },
     {
       "item_id": 7008,
       "name": "鋼硬之角",
       "rate": 24.25,
-      "icon_url": "/images/items/7008.gif"
+      "icon_url": "images/items/7008.gif"
     },
     {
       "item_id": 7197,
       "name": "強韌木藤條",
       "rate": 26.68,
-      "icon_url": "/images/items/7197.gif"
+      "icon_url": "images/items/7197.gif"
     }
   ]
 }

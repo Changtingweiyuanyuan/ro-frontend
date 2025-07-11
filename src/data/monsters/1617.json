@@ -4,7 +4,7 @@
     "zh_tw": "廢鐵暖爐",
     "en": "WASTE_STOVE"
   },
-  "image_url": "/images/monsters/1617.gif",
+  "image_url": "images/monsters/1617.gif",
   "basic_info": {
     "level": 92,
     "race": "無形",
@@ -54,49 +54,49 @@
       "item_id": 604,
       "name": "枯樹枝",
       "rate": 0.25,
-      "icon_url": "/images/items/604.gif"
+      "icon_url": "images/items/604.gif"
     },
     {
       "item_id": 625,
       "name": "鏽鐵",
       "rate": 0.25,
-      "icon_url": "/images/items/625.gif"
+      "icon_url": "images/items/625.gif"
     },
     {
       "item_id": 4332,
       "name": "廢鐵暖爐卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6215,
       "name": "催淚瓦斯",
       "rate": 1.0,
-      "icon_url": "/images/items/6215.gif"
+      "icon_url": "images/items/6215.gif"
     },
     {
       "item_id": 7068,
       "name": "燃燒一半的木材",
       "rate": 5.0,
-      "icon_url": "/images/items/7068.gif"
+      "icon_url": "images/items/7068.gif"
     },
     {
       "item_id": 7319,
       "name": "老舊的鐵板",
       "rate": 19.0,
-      "icon_url": "/images/items/7319.gif"
+      "icon_url": "images/items/7319.gif"
     },
     {
       "item_id": 7323,
       "name": "變形水壺",
       "rate": 5.0,
-      "icon_url": "/images/items/7323.gif"
+      "icon_url": "images/items/7323.gif"
     },
     {
       "item_id": 7939,
       "name": "年老的樹枝",
       "rate": 0.5,
-      "icon_url": "/images/items/7939.gif"
+      "icon_url": "images/items/7939.gif"
     }
   ]
 }

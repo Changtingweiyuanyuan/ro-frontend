@@ -4,7 +4,7 @@
     "zh_tw": "Poring",
     "en": "G_PORING"
   },
-  "image_url": "/images/monsters/2401.gif",
+  "image_url": "images/monsters/2401.gif",
   "basic_info": {
     "level": 1,
     "race": "植物",

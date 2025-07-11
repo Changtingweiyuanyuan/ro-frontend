@@ -4,7 +4,7 @@
     "zh_tw": "石頭",
     "en": "Stone"
   },
-  "icon_url": "/images/items/7049.gif",
+  "icon_url": "images/items/7049.gif",
   "category": "其他類",
   "description": {
     "official": "在地面上滾動的石頭",

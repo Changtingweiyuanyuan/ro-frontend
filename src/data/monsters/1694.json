@@ -4,7 +4,7 @@
     "zh_tw": "紅色等離子體",
     "en": "PLASMA_R"
   },
-  "image_url": "/images/monsters/1694.gif",
+  "image_url": "images/monsters/1694.gif",
   "basic_info": {
     "level": 118,
     "race": "無形",
@@ -74,37 +74,37 @@
       "item_id": 644,
       "name": "禮物箱",
       "rate": 0.05,
-      "icon_url": "/images/items/644.gif"
+      "icon_url": "images/items/644.gif"
     },
     {
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 0.5,
-      "icon_url": "/images/items/716.gif"
+      "icon_url": "images/items/716.gif"
     },
     {
       "item_id": 731,
       "name": "2克拉鑽石",
       "rate": 0.01,
-      "icon_url": "/images/items/731.gif"
+      "icon_url": "images/items/731.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 0.5,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 990,
       "name": "火靈礦石",
       "rate": 0.23,
-      "icon_url": "/images/items/990.gif"
+      "icon_url": "images/items/990.gif"
     },
     {
       "item_id": 4389,
       "name": "等離子體卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

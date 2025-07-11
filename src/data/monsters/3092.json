@@ -4,7 +4,7 @@
     "zh_tw": "穆希貝斯寇",
     "en": "MM_MUSPELLSKOLL"
   },
-  "image_url": "/images/monsters/3092.gif",
+  "image_url": "images/monsters/3092.gif",
   "basic_info": {
     "level": 165,
     "race": "惡魔",
@@ -49,7 +49,7 @@
       "item_id": 27325,
       "name": "Muspellskoll Card",
       "rate": 0.01,
-      "icon_url": "/images/items/27325.gif"
+      "icon_url": "images/items/27325.gif"
     }
   ]
 }

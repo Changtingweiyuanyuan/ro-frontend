@@ -4,7 +4,7 @@
     "zh_tw": "Go!",
     "en": "WA_MONSTER_9"
   },
-  "image_url": "/images/monsters/3084.gif",
+  "image_url": "images/monsters/3084.gif",
   "basic_info": {
     "level": 135,
     "race": "天使",

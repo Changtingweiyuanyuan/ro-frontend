@@ -4,7 +4,7 @@
     "zh_tw": "溜溜猴卡片",
     "en": "Yoyo_Card"
   },
-  "icon_url": "/images/items/4051.gif",
+  "icon_url": "images/items/4051.gif",
   "category": "卡片",
   "description": {
     "official": "完全迴避+5AGI+1",

@@ -4,7 +4,7 @@
     "zh_tw": "鋼盾",
     "en": "Shield_"
   },
-  "icon_url": "/images/items/2106.gif",
+  "icon_url": "images/items/2106.gif",
   "category": "防具",
   "description": {
     "official": "用堅硬的金屬製成的防禦道具。",

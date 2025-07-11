@@ -4,7 +4,7 @@
     "zh_tw": "伍坦戰士",
     "en": "WOOTAN_FIGHTER"
   },
-  "image_url": "/images/monsters/1499.gif",
+  "image_url": "images/monsters/1499.gif",
   "basic_info": {
     "level": 67,
     "race": "人形",
@@ -64,49 +64,49 @@
       "item_id": 517,
       "name": "肉",
       "rate": 22.5,
-      "icon_url": "/images/items/517.gif"
+      "icon_url": "images/items/517.gif"
     },
     {
       "item_id": 1801,
       "name": "虎爪拳套[3]",
       "rate": 0.02,
-      "icon_url": "/images/items/1801.gif"
+      "icon_url": "images/items/1801.gif"
     },
     {
       "item_id": 1812,
       "name": "鷹爪拳套[2]",
       "rate": 0.01,
-      "icon_url": "/images/items/1812.gif"
+      "icon_url": "images/items/1812.gif"
     },
     {
       "item_id": 4261,
       "name": "伍坦戰士卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5116,
       "name": "香蕉帽",
       "rate": 0.03,
-      "icon_url": "/images/items/5116.gif"
+      "icon_url": "images/items/5116.gif"
     },
     {
       "item_id": 7196,
       "name": "木製護肩",
       "rate": 20.0,
-      "icon_url": "/images/items/7196.gif"
+      "icon_url": "images/items/7196.gif"
     },
     {
       "item_id": 7198,
       "name": "巨大葉子",
       "rate": 5.0,
-      "icon_url": "/images/items/7198.gif"
+      "icon_url": "images/items/7198.gif"
     },
     {
       "item_id": 7939,
       "name": "年老的樹枝",
       "rate": 0.5,
-      "icon_url": "/images/items/7939.gif"
+      "icon_url": "images/items/7939.gif"
     }
   ]
 }

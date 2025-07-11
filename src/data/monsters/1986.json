@@ -4,7 +4,7 @@
     "zh_tw": "塔塔丘",
     "en": "TATACHO"
   },
-  "image_url": "/images/monsters/1986.gif",
+  "image_url": "images/monsters/1986.gif",
   "basic_info": {
     "level": 128,
     "race": "動物",
@@ -64,49 +64,49 @@
       "item_id": 579,
       "name": "美味的魚",
       "rate": 15.5,
-      "icon_url": "/images/items/579.gif"
+      "icon_url": "images/items/579.gif"
     },
     {
       "item_id": 1061,
       "name": "魔女之星沙",
       "rate": 12.5,
-      "icon_url": "/images/items/1061.gif"
+      "icon_url": "images/items/1061.gif"
     },
     {
       "item_id": 1544,
       "name": "月之平底鍋[3]",
       "rate": 0.1,
-      "icon_url": "/images/items/1544.gif"
+      "icon_url": "images/items/1544.gif"
     },
     {
       "item_id": 1925,
       "name": "大提琴[3]",
       "rate": 0.05,
-      "icon_url": "/images/items/1925.gif"
+      "icon_url": "images/items/1925.gif"
     },
     {
       "item_id": 4442,
       "name": "噠噠喬卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6020,
       "name": "銀色毛皮",
       "rate": 20.0,
-      "icon_url": "/images/items/6020.gif"
+      "icon_url": "images/items/6020.gif"
     },
     {
       "item_id": 6021,
       "name": "紅色高帽",
       "rate": 15.0,
-      "icon_url": "/images/items/6021.gif"
+      "icon_url": "images/items/6021.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 0.05,
-      "icon_url": "/images/items/6224.gif"
+      "icon_url": "images/items/6224.gif"
     }
   ]
 }

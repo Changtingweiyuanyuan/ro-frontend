@@ -4,7 +4,7 @@
     "zh_tw": "群葉貓",
     "en": "LEAF_CAT"
   },
-  "image_url": "/images/monsters/1586.gif",
+  "image_url": "images/monsters/1586.gif",
   "basic_info": {
     "level": 64,
     "race": "動物",
@@ -54,49 +54,49 @@
       "item_id": 520,
       "name": "西納雷葉子",
       "rate": 1.5,
-      "icon_url": "/images/items/520.gif"
+      "icon_url": "images/items/520.gif"
     },
     {
       "item_id": 567,
       "name": "蝦子",
       "rate": 2.5,
-      "icon_url": "/images/items/567.gif"
+      "icon_url": "images/items/567.gif"
     },
     {
       "item_id": 568,
       "name": "檸檬",
       "rate": 1.25,
-      "icon_url": "/images/items/568.gif"
+      "icon_url": "images/items/568.gif"
     },
     {
       "item_id": 608,
       "name": "天地樹芽",
       "rate": 0.01,
-      "icon_url": "/images/items/608.gif"
+      "icon_url": "images/items/608.gif"
     },
     {
       "item_id": 1023,
       "name": "魚尾",
       "rate": 5.5,
-      "icon_url": "/images/items/1023.gif"
+      "icon_url": "images/items/1023.gif"
     },
     {
       "item_id": 4195,
       "name": "群葉貓卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7198,
       "name": "巨大葉子",
       "rate": 21.83,
-      "icon_url": "/images/items/7198.gif"
+      "icon_url": "images/items/7198.gif"
     },
     {
       "item_id": 7298,
       "name": "樹葉衣",
       "rate": 26.68,
-      "icon_url": "/images/items/7298.gif"
+      "icon_url": "images/items/7298.gif"
     }
   ]
 }

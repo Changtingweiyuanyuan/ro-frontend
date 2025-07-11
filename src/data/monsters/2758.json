@@ -4,7 +4,7 @@
     "zh_tw": "精英花妖精 / 狡猾花妖精",
     "en": "C5_MENBLATT"
   },
-  "image_url": "/images/monsters/2758.gif",
+  "image_url": "images/monsters/2758.gif",
   "basic_info": {
     "level": 143,
     "race": "昆蟲",
@@ -49,25 +49,25 @@
       "item_id": 6557,
       "name": "絢麗精靈翅膀",
       "rate": 100.0,
-      "icon_url": "/images/items/6557.gif"
+      "icon_url": "images/items/6557.gif"
     },
     {
       "item_id": 7163,
       "name": "銳利的觸角",
       "rate": 100.0,
-      "icon_url": "/images/items/7163.gif"
+      "icon_url": "images/items/7163.gif"
     },
     {
       "item_id": 7168,
       "name": "巨大翅膀",
       "rate": 50.0,
-      "icon_url": "/images/items/7168.gif"
+      "icon_url": "images/items/7168.gif"
     },
     {
       "item_id": 12813,
       "name": "溫馨花瓣",
       "rate": 0.25,
-      "icon_url": "/images/items/12813.gif"
+      "icon_url": "images/items/12813.gif"
     }
   ]
 }

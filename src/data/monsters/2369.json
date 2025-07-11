@@ -4,7 +4,7 @@
     "zh_tw": "元素鬼火",
     "en": "紅"
   },
-  "image_url": "/images/monsters/2369.gif",
+  "image_url": "images/monsters/2369.gif",
   "basic_info": {
     "level": 149,
     "race": "無形",
@@ -49,31 +49,31 @@
       "item_id": 994,
       "name": "火靈原石",
       "rate": 0.2,
-      "icon_url": "/images/items/994.gif"
+      "icon_url": "images/items/994.gif"
     },
     {
       "item_id": 1000,
       "name": "星星的角",
       "rate": 10.0,
-      "icon_url": "/images/items/1000.gif"
+      "icon_url": "images/items/1000.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 10.0,
-      "icon_url": "/images/items/1001.gif"
+      "icon_url": "images/items/1001.gif"
     },
     {
       "item_id": 4599,
       "name": "元素鬼火(紅)卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 12813,
       "name": "溫馨花瓣",
       "rate": 0.05,
-      "icon_url": "/images/items/12813.gif"
+      "icon_url": "images/items/12813.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "弓箭手 監護人",
     "en": "ARCHER_GUARDIAN"
   },
-  "image_url": "/images/monsters/1285.gif",
+  "image_url": "images/monsters/1285.gif",
   "basic_info": {
     "level": 74,
     "race": "人形",

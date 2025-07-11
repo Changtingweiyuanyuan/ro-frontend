@@ -4,7 +4,7 @@
     "zh_tw": "精英獸人腐屍 / 狡猾阿修羅狂戰士",
     "en": "C5_ORC_ZOMBIE"
   },
-  "image_url": "/images/monsters/2723.gif",
+  "image_url": "images/monsters/2723.gif",
   "basic_info": {
     "level": 51,
     "race": "不死",
@@ -49,25 +49,25 @@
       "item_id": 714,
       "name": "華麗金屬",
       "rate": 0.05,
-      "icon_url": "/images/items/714.gif"
+      "icon_url": "images/items/714.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 75.0,
-      "icon_url": "/images/items/938.gif"
+      "icon_url": "images/items/938.gif"
     },
     {
       "item_id": 1043,
       "name": "獸人指甲",
       "rate": 100.0,
-      "icon_url": "/images/items/1043.gif"
+      "icon_url": "images/items/1043.gif"
     },
     {
       "item_id": 4071,
       "name": "獸人腐屍卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

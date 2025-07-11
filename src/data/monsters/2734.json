@@ -4,7 +4,7 @@
     "zh_tw": "精英孤魂怨靈 / 迅捷孤魂怨靈",
     "en": "C1_NG_WANDER_MAN"
   },
-  "image_url": "/images/monsters/2734.gif",
+  "image_url": "images/monsters/2734.gif",
   "basic_info": {
     "level": 151,
     "race": "惡魔",
@@ -49,43 +49,43 @@
       "item_id": 616,
       "name": "老舊收集冊",
       "rate": 0.1,
-      "icon_url": "/images/items/616.gif"
+      "icon_url": "images/items/616.gif"
     },
     {
       "item_id": 984,
       "name": "神之金屬",
       "rate": 5.5,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 1164,
       "name": "名刀 不知火",
       "rate": 0.5,
-      "icon_url": "/images/items/1164.gif"
+      "icon_url": "images/items/1164.gif"
     },
     {
       "item_id": 2270,
       "name": "草葉",
       "rate": 0.25,
-      "icon_url": "/images/items/2270.gif"
+      "icon_url": "images/items/2270.gif"
     },
     {
       "item_id": 7005,
       "name": "骷髏頭",
       "rate": 100.0,
-      "icon_url": "/images/items/7005.gif"
+      "icon_url": "images/items/7005.gif"
     },
     {
       "item_id": 13015,
       "name": "骨頭劍[1]",
       "rate": 0.25,
-      "icon_url": "/images/items/13015.gif"
+      "icon_url": "images/items/13015.gif"
     },
     {
       "item_id": 21003,
       "name": "名刀不知火[2]",
       "rate": 0.05,
-      "icon_url": "/images/items/21003.gif"
+      "icon_url": "images/items/21003.gif"
     }
   ]
 }

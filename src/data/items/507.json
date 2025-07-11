@@ -4,7 +4,7 @@
     "zh_tw": "紅色藥草",
     "en": "Red_Herb"
   },
-  "icon_url": "/images/items/507.gif",
+  "icon_url": "images/items/507.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "在治療傷處上有一定功效的珍貴藥草，可恢復少量的HP。",

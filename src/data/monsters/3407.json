@@ -4,7 +4,7 @@
     "zh_tw": "蒼蠅",
     "en": "MIN_CHONCHON"
   },
-  "image_url": "/images/monsters/3407.gif",
+  "image_url": "images/monsters/3407.gif",
   "basic_info": {
     "level": 105,
     "race": "昆蟲",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 742,
       "name": "蒼蠅娃娃",
       "rate": 0.06,
-      "icon_url": "/images/items/742.gif"
+      "icon_url": "images/items/742.gif"
     },
     {
       "item_id": 909,
       "name": "傑勒比結晶",
       "rate": 20.0,
-      "icon_url": "/images/items/909.gif"
+      "icon_url": "images/items/909.gif"
     },
     {
       "item_id": 935,
       "name": "堅硬外殼",
       "rate": 70.0,
-      "icon_url": "/images/items/935.gif"
+      "icon_url": "images/items/935.gif"
     },
     {
       "item_id": 998,
       "name": "鐵",
       "rate": 0.5,
-      "icon_url": "/images/items/998.gif"
+      "icon_url": "images/items/998.gif"
     },
     {
       "item_id": 1002,
       "name": "鐵礦石",
       "rate": 2.0,
-      "icon_url": "/images/items/1002.gif"
+      "icon_url": "images/items/1002.gif"
     },
     {
       "item_id": 1205,
       "name": "卡特短劍[4]",
       "rate": 0.5,
-      "icon_url": "/images/items/1205.gif"
+      "icon_url": "images/items/1205.gif"
     },
     {
       "item_id": 4009,
       "name": "蒼蠅卡片",
       "rate": 0.2,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

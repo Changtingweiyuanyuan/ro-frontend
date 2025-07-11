@@ -4,7 +4,7 @@
     "zh_tw": "熱池劍魚",
     "en": "EP17_2_PHEN"
   },
-  "image_url": "/images/monsters/20643.gif",
+  "image_url": "images/monsters/20643.gif",
   "basic_info": {
     "level": 139,
     "race": "魚貝",
@@ -49,43 +49,43 @@
       "item_id": 720,
       "name": "天藍寶石",
       "rate": 0.03,
-      "icon_url": "/images/items/720.gif"
+      "icon_url": "images/items/720.gif"
     },
     {
       "item_id": 951,
       "name": "背鰭",
       "rate": 9.5,
-      "icon_url": "/images/items/951.gif"
+      "icon_url": "images/items/951.gif"
     },
     {
       "item_id": 963,
       "name": "銳利麟片",
       "rate": 15.0,
-      "icon_url": "/images/items/963.gif"
+      "icon_url": "images/items/963.gif"
     },
     {
       "item_id": 1023,
       "name": "魚尾",
       "rate": 25.0,
-      "icon_url": "/images/items/1023.gif"
+      "icon_url": "images/items/1023.gif"
     },
     {
       "item_id": 6096,
       "name": "青背魚",
       "rate": 0.5,
-      "icon_url": "/images/items/6096.gif"
+      "icon_url": "images/items/6096.gif"
     },
     {
       "item_id": 300118,
       "name": "熱池劍魚卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300118.gif"
+      "icon_url": "images/items/300118.gif"
     },
     {
       "item_id": 700008,
       "name": "古拉根槍弩[2]",
       "rate": 0.03,
-      "icon_url": "/images/items/700008.gif"
+      "icon_url": "images/items/700008.gif"
     }
   ]
 }

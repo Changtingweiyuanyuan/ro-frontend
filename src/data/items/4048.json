@@ -4,7 +4,7 @@
     "zh_tw": "毒魔菇卡片",
     "en": "Poison_Spore_Card"
   },
-  "icon_url": "/images/items/4048.gif",
+  "icon_url": "images/items/4048.gif",
   "category": "卡片",
   "description": {
     "official": "可使用【施毒】Lv3技能。",

@@ -4,7 +4,7 @@
     "zh_tw": "邪惡的凱美拉",
     "en": "MM_M_CHIMERA"
   },
-  "image_url": "/images/monsters/3200.gif",
+  "image_url": "images/monsters/3200.gif",
   "basic_info": {
     "level": 150,
     "race": "動物",
@@ -49,43 +49,43 @@
       "item_id": 568,
       "name": "檸檬",
       "rate": 5.0,
-      "icon_url": "/images/items/568.gif"
+      "icon_url": "images/items/568.gif"
     },
     {
       "item_id": 984,
       "name": "神之金屬",
       "rate": 0.8,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 1048,
       "name": "蛇發",
       "rate": 12.5,
-      "icon_url": "/images/items/1048.gif"
+      "icon_url": "images/items/1048.gif"
     },
     {
       "item_id": 1306,
       "name": "血腥戰斧[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/1306.gif"
+      "icon_url": "images/items/1306.gif"
     },
     {
       "item_id": 1364,
       "name": "克萊伊特斧",
       "rate": 0.01,
-      "icon_url": "/images/items/1364.gif"
+      "icon_url": "images/items/1364.gif"
     },
     {
       "item_id": 7054,
       "name": "布里刊",
       "rate": 26.68,
-      "icon_url": "/images/items/7054.gif"
+      "icon_url": "images/items/7054.gif"
     },
     {
       "item_id": 7295,
       "name": "黃水晶",
       "rate": 7.5,
-      "icon_url": "/images/items/7295.gif"
+      "icon_url": "images/items/7295.gif"
     }
   ]
 }

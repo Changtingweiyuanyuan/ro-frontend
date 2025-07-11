@@ -4,7 +4,7 @@
     "zh_tw": "獸人戰士卡片",
     "en": "Orc_Warrior_Card"
   },
-  "icon_url": "/images/items/4066.gif",
+  "icon_url": "images/items/4066.gif",
   "category": "卡片",
   "description": {
     "official": "受到動物系敵人(含喵族)攻擊時，可減少30%的傷害。套裝資料:獸人戰士卡片 & Corrupt Life Card",

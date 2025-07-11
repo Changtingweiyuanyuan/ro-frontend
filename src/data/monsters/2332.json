@@ -4,7 +4,7 @@
     "zh_tw": "寶箱巨鱷",
     "en": "BUWAYA_GHOST"
   },
-  "image_url": "/images/monsters/2332.gif",
+  "image_url": "images/monsters/2332.gif",
   "basic_info": {
     "level": 138,
     "race": "植物",

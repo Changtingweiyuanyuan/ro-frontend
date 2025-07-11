@@ -4,7 +4,7 @@
     "zh_tw": "腐屍卡片",
     "en": "Zombie_Card"
   },
-  "icon_url": "/images/items/4038.gif",
+  "icon_url": "images/items/4038.gif",
   "category": "卡片",
   "description": {
     "official": "HP恢復力+20%",

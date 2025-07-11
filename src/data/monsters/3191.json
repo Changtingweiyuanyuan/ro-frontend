@@ -4,7 +4,7 @@
     "zh_tw": "基勘特斯",
     "en": "MM_M_GIGAN1"
   },
-  "image_url": "/images/monsters/3191.gif",
+  "image_url": "images/monsters/3191.gif",
   "basic_info": {
     "level": 160,
     "race": "惡魔",
@@ -49,13 +49,13 @@
       "item_id": 15121,
       "name": "莎拉的戰鬥外袍[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/15121.gif"
+      "icon_url": "images/items/15121.gif"
     },
     {
       "item_id": 27183,
       "name": "基勘特斯卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27183.gif"
+      "icon_url": "images/items/27183.gif"
     }
   ]
 }

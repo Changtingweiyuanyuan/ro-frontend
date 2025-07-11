@@ -4,7 +4,7 @@
     "zh_tw": "赤蒼蠅卡片",
     "en": "Hunter_Fly_Card"
   },
-  "icon_url": "/images/items/4115.gif",
+  "icon_url": "images/items/4115.gif",
   "category": "卡片",
   "description": {
     "official": "用3%的幾率 給敵人的傷害中15%會吸收到HP裡。",

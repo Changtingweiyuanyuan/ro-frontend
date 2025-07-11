@@ -4,7 +4,7 @@
     "zh_tw": "煉金術士 培坎納比恩",
     "en": "FEI_KANABIAN"
   },
-  "image_url": "/images/monsters/2563.gif",
+  "image_url": "images/monsters/2563.gif",
   "basic_info": {
     "level": 160,
     "race": "人形",
@@ -49,7 +49,7 @@
       "item_id": 27263,
       "name": "培坎納比恩卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27263.gif"
+      "icon_url": "images/items/27263.gif"
     }
   ]
 }

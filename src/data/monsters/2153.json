@@ -4,7 +4,7 @@
     "zh_tw": "天堂鳥",
     "en": "CENDRAWASIH"
   },
-  "image_url": "/images/monsters/2153.gif",
+  "image_url": "images/monsters/2153.gif",
   "basic_info": {
     "level": 84,
     "race": "天使",
@@ -49,25 +49,25 @@
       "item_id": 916,
       "name": "羽毛",
       "rate": 45.0,
-      "icon_url": "/images/items/916.gif"
+      "icon_url": "images/items/916.gif"
     },
     {
       "item_id": 4517,
       "name": "天堂鳥卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6405,
       "name": "天堂鳥羽毛",
       "rate": 45.0,
-      "icon_url": "/images/items/6405.gif"
+      "icon_url": "images/items/6405.gif"
     },
     {
       "item_id": 7063,
       "name": "柔軟的羽毛",
       "rate": 40.0,
-      "icon_url": "/images/items/7063.gif"
+      "icon_url": "images/items/7063.gif"
     }
   ]
 }

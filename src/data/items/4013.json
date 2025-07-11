@@ -4,7 +4,7 @@
     "zh_tw": "蟻卵卡片",
     "en": "Andre_Egg_Card"
   },
-  "icon_url": "/images/items/4013.gif",
+  "icon_url": "images/items/4013.gif",
   "category": "卡片",
   "description": {
     "official": "MHP+5%",

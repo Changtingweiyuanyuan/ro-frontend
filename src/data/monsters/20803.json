@@ -4,7 +4,7 @@
     "zh_tw": "深海狄奧斯",
     "en": "ILL_DEVIACE"
   },
-  "image_url": "/images/monsters/20803.gif",
+  "image_url": "images/monsters/20803.gif",
   "basic_info": {
     "level": 150,
     "race": "魚貝",
@@ -49,43 +49,43 @@
       "item_id": 995,
       "name": "水靈原石",
       "rate": 0.1,
-      "icon_url": "/images/items/995.gif"
+      "icon_url": "images/items/995.gif"
     },
     {
       "item_id": 1053,
       "name": "人魚之牙",
       "rate": 25.0,
-      "icon_url": "/images/items/1053.gif"
+      "icon_url": "images/items/1053.gif"
     },
     {
       "item_id": 1054,
       "name": "人魚嘴巴",
       "rate": 3.0,
-      "icon_url": "/images/items/1054.gif"
+      "icon_url": "images/items/1054.gif"
     },
     {
       "item_id": 1256,
       "name": "冰靈拳刃",
       "rate": 0.05,
-      "icon_url": "/images/items/1256.gif"
+      "icon_url": "images/items/1256.gif"
     },
     {
       "item_id": 25892,
       "name": "Deep Sea Shell",
       "rate": 10.0,
-      "icon_url": "/images/items/25892.gif"
+      "icon_url": "images/items/25892.gif"
     },
     {
       "item_id": 25899,
       "name": "Abyssal Essence",
       "rate": 2.5,
-      "icon_url": "/images/items/25899.gif"
+      "icon_url": "images/items/25899.gif"
     },
     {
       "item_id": 300142,
       "name": "Deep Sea Deviace Card",
       "rate": 0.01,
-      "icon_url": "/images/items/300142.gif"
+      "icon_url": "images/items/300142.gif"
     }
   ]
 }

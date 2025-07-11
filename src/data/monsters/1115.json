@@ -4,7 +4,7 @@
     "zh_tw": "虎王",
     "en": "EDDGA"
   },
-  "image_url": "/images/monsters/1115.gif",
+  "image_url": "images/monsters/1115.gif",
   "basic_info": {
     "level": 65,
     "race": "動物",
@@ -54,49 +54,49 @@
       "item_id": 518,
       "name": "蜂蜜",
       "rate": 50.0,
-      "icon_url": "/images/items/518.gif"
+      "icon_url": "images/items/518.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 12.0,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1030,
       "name": "虎掌",
       "rate": 4.0,
-      "icon_url": "/images/items/1030.gif"
+      "icon_url": "images/items/1030.gif"
     },
     {
       "item_id": 1133,
       "name": "火靈之劍",
       "rate": 0.75,
-      "icon_url": "/images/items/1133.gif"
+      "icon_url": "images/items/1133.gif"
     },
     {
       "item_id": 1258,
       "name": "火靈拳刃",
       "rate": 2.5,
-      "icon_url": "/images/items/1258.gif"
+      "icon_url": "images/items/1258.gif"
     },
     {
       "item_id": 2268,
       "name": "菸斗",
       "rate": 1.25,
-      "icon_url": "/images/items/2268.gif"
+      "icon_url": "images/items/2268.gif"
     },
     {
       "item_id": 4123,
       "name": "虎王卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 13046,
       "name": "戰爭短劍[3]",
       "rate": 1.0,
-      "icon_url": "/images/items/13046.gif"
+      "icon_url": "images/items/13046.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "食人蜘蛛",
     "en": "POM_SPIDER"
   },
-  "image_url": "/images/monsters/2132.gif",
+  "image_url": "images/monsters/2132.gif",
   "basic_info": {
     "level": 145,
     "race": "昆蟲",
@@ -59,37 +59,37 @@
       "item_id": 1042,
       "name": "昆蟲後腳",
       "rate": 5.0,
-      "icon_url": "/images/items/1042.gif"
+      "icon_url": "images/items/1042.gif"
     },
     {
       "item_id": 1654,
       "name": "精神手杖[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/1654.gif"
+      "icon_url": "images/items/1654.gif"
     },
     {
       "item_id": 4514,
       "name": "食人蜘蛛卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 11520,
       "name": "穆拉柑橘",
       "rate": 5.0,
-      "icon_url": "/images/items/11520.gif"
+      "icon_url": "images/items/11520.gif"
     },
     {
       "item_id": 12573,
       "name": "水果禮盒",
       "rate": 2.5,
-      "icon_url": "/images/items/12573.gif"
+      "icon_url": "images/items/12573.gif"
     },
     {
       "item_id": 13431,
       "name": "鉻合金單手劍",
       "rate": 0.25,
-      "icon_url": "/images/items/13431.gif"
+      "icon_url": "images/items/13431.gif"
     }
   ]
 }

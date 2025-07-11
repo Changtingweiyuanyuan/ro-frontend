@@ -4,7 +4,7 @@
     "zh_tw": "元素鬼火",
     "en": "綠"
   },
-  "image_url": "/images/monsters/2368.gif",
+  "image_url": "images/monsters/2368.gif",
   "basic_info": {
     "level": 147,
     "race": "無形",
@@ -59,31 +59,31 @@
       "item_id": 997,
       "name": "土靈原石",
       "rate": 0.2,
-      "icon_url": "/images/items/997.gif"
+      "icon_url": "images/items/997.gif"
     },
     {
       "item_id": 1000,
       "name": "星星的角",
       "rate": 10.0,
-      "icon_url": "/images/items/1000.gif"
+      "icon_url": "images/items/1000.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 10.0,
-      "icon_url": "/images/items/1001.gif"
+      "icon_url": "images/items/1001.gif"
     },
     {
       "item_id": 4598,
       "name": "元素鬼火(綠)卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 12815,
       "name": "世界樹之塵",
       "rate": 0.05,
-      "icon_url": "/images/items/12815.gif"
+      "icon_url": "images/items/12815.gif"
     }
   ]
 }

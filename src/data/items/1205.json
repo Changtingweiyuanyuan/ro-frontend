@@ -4,7 +4,7 @@
     "zh_tw": "卡特短劍",
     "en": "Cutter_"
   },
-  "icon_url": "/images/items/1205.gif",
+  "icon_url": "images/items/1205.gif",
   "category": "武器",
   "description": {
     "official": "專門為了割東西所製造出來的短劍。",

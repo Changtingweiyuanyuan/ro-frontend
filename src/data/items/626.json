@@ -4,7 +4,7 @@
     "zh_tw": "魔物飲料",
     "en": "Monster_Juice"
   },
-  "icon_url": "/images/items/626.gif",
+  "icon_url": "images/items/626.gif",
   "category": "認養寵物之物品",
   "description": {
     "official": "以家禽的血做成的飲料，是魔物赤蒼蠅最喜愛的食物。",

@@ -4,7 +4,7 @@
     "zh_tw": "寶物箱子",
     "en": "TREASURE_BOX46"
   },
-  "image_url": "/images/monsters/1943.gif",
+  "image_url": "images/monsters/1943.gif",
   "basic_info": {
     "level": 99,
     "race": "無形",
@@ -49,49 +49,49 @@
       "item_id": 604,
       "name": "枯樹枝",
       "rate": 50.0,
-      "icon_url": "/images/items/604.gif"
+      "icon_url": "images/items/604.gif"
     },
     {
       "item_id": 658,
       "name": "組織的團結力",
       "rate": 2.5,
-      "icon_url": "/images/items/658.gif"
+      "icon_url": "images/items/658.gif"
     },
     {
       "item_id": 984,
       "name": "神之金屬",
       "rate": 24.25,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 36.38,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1421,
       "name": "強襲戰矛[1]",
       "rate": 0.75,
-      "icon_url": "/images/items/1421.gif"
+      "icon_url": "images/items/1421.gif"
     },
     {
       "item_id": 1731,
       "name": "冰凍之弓[1]",
       "rate": 0.75,
-      "icon_url": "/images/items/1731.gif"
+      "icon_url": "images/items/1731.gif"
     },
     {
       "item_id": 1822,
       "name": "連擊拳套[4]",
       "rate": 0.75,
-      "icon_url": "/images/items/1822.gif"
+      "icon_url": "images/items/1822.gif"
     },
     {
       "item_id": 7835,
       "name": "黃昏的光芒",
       "rate": 0.05,
-      "icon_url": "/images/items/7835.gif"
+      "icon_url": "images/items/7835.gif"
     }
   ]
 }

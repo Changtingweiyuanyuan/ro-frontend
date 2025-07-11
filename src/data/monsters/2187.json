@@ -4,7 +4,7 @@
     "zh_tw": "黑暗腔棘魚",
     "en": "COELACANTH_N_A"
   },
-  "image_url": "/images/monsters/2187.gif",
+  "image_url": "images/monsters/2187.gif",
   "basic_info": {
     "level": 100,
     "race": "魚貝",
@@ -49,49 +49,49 @@
       "item_id": 4526,
       "name": "古怪腔棘魚卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 12614,
       "name": "中級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12614.gif"
+      "icon_url": "images/items/12614.gif"
     },
     {
       "item_id": 12614,
       "name": "中級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12614.gif"
+      "icon_url": "images/items/12614.gif"
     },
     {
       "item_id": 12615,
       "name": "下級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12615.gif"
+      "icon_url": "images/items/12615.gif"
     },
     {
       "item_id": 12615,
       "name": "下級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12615.gif"
+      "icon_url": "images/items/12615.gif"
     },
     {
       "item_id": 12615,
       "name": "下級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12615.gif"
+      "icon_url": "images/items/12615.gif"
     },
     {
       "item_id": 12617,
       "name": "A級錢袋",
       "rate": 50.0,
-      "icon_url": "/images/items/12617.gif"
+      "icon_url": "images/items/12617.gif"
     },
     {
       "item_id": 12623,
       "name": "高級武器箱子",
       "rate": 7.5,
-      "icon_url": "/images/items/12623.gif"
+      "icon_url": "images/items/12623.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "故障的搓澡師",
     "en": "EP17_2_BETA_CLEANER_B"
   },
-  "image_url": "/images/monsters/20634.gif",
+  "image_url": "images/monsters/20634.gif",
   "basic_info": {
     "level": 144,
     "race": "無形",
@@ -49,43 +49,43 @@
       "item_id": 998,
       "name": "鐵",
       "rate": 5.0,
-      "icon_url": "/images/items/998.gif"
+      "icon_url": "images/items/998.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 1.5,
-      "icon_url": "/images/items/999.gif"
+      "icon_url": "images/items/999.gif"
     },
     {
       "item_id": 7507,
       "name": "堅固的鐵片",
       "rate": 3.0,
-      "icon_url": "/images/items/7507.gif"
+      "icon_url": "images/items/7507.gif"
     },
     {
       "item_id": 7512,
       "name": "燒焦的部品碎片",
       "rate": 10.0,
-      "icon_url": "/images/items/7512.gif"
+      "icon_url": "images/items/7512.gif"
     },
     {
       "item_id": 7512,
       "name": "燒焦的部品碎片",
       "rate": 0.5,
-      "icon_url": "/images/items/7512.gif"
+      "icon_url": "images/items/7512.gif"
     },
     {
       "item_id": 300101,
       "name": "故障的搓澡師卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300101.gif"
+      "icon_url": "images/items/300101.gif"
     },
     {
       "item_id": 650003,
       "name": "雷士大齒輪飛鏢[2]",
       "rate": 0.03,
-      "icon_url": "/images/items/650003.gif"
+      "icon_url": "images/items/650003.gif"
     }
   ]
 }

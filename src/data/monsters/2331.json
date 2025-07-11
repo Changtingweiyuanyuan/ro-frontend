@@ -4,7 +4,7 @@
     "zh_tw": "海草",
     "en": "MA_SEAW"
   },
-  "image_url": "/images/monsters/2331.gif",
+  "image_url": "images/monsters/2331.gif",
   "basic_info": {
     "level": 100,
     "race": "魚貝",

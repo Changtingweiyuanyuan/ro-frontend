@@ -4,7 +4,7 @@
     "zh_tw": "三葉蟲",
     "en": "MIN_TRI_JOINT"
   },
-  "image_url": "/images/monsters/3418.gif",
+  "image_url": "images/monsters/3418.gif",
   "basic_info": {
     "level": 108,
     "race": "昆蟲",
@@ -49,43 +49,43 @@
       "item_id": 606,
       "name": "蘆薈汁液",
       "rate": 1.0,
-      "icon_url": "/images/items/606.gif"
+      "icon_url": "images/items/606.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.53,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 1.9,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 0.8,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 0.7,
-      "icon_url": "/images/items/1001.gif"
+      "icon_url": "images/items/1001.gif"
     },
     {
       "item_id": 4308,
       "name": "三葉蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7053,
       "name": "賽依伐",
       "rate": 0.5,
-      "icon_url": "/images/items/7053.gif"
+      "icon_url": "images/items/7053.gif"
     }
   ]
 }

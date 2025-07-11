@@ -4,7 +4,7 @@
     "zh_tw": "精英爆鑽傘蜥 / 憤怒爆鑽傘蜥",
     "en": "C4_DRILLER"
   },
-  "image_url": "/images/monsters/2846.gif",
+  "image_url": "images/monsters/2846.gif",
   "basic_info": {
     "level": 65,
     "race": "動物",
@@ -49,25 +49,25 @@
       "item_id": 715,
       "name": "黃色魔力礦石",
       "rate": 97.0,
-      "icon_url": "/images/items/715.gif"
+      "icon_url": "images/items/715.gif"
     },
     {
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 87.5,
-      "icon_url": "/images/items/716.gif"
+      "icon_url": "images/items/716.gif"
     },
     {
       "item_id": 1012,
       "name": "傘蜥頸",
       "rate": 100.0,
-      "icon_url": "/images/items/1012.gif"
+      "icon_url": "images/items/1012.gif"
     },
     {
       "item_id": 4180,
       "name": "爆鑽傘蜥卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

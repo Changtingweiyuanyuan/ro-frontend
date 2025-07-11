@@ -4,7 +4,7 @@
     "zh_tw": "奪命毒霧",
     "en": "POISONOUS"
   },
-  "image_url": "/images/monsters/20592.gif",
+  "image_url": "images/monsters/20592.gif",
   "basic_info": {
     "level": 188,
     "race": "無形",
@@ -49,49 +49,49 @@
       "item_id": 605,
       "name": "曼特療傷藥",
       "rate": 0.25,
-      "icon_url": "/images/items/605.gif"
+      "icon_url": "images/items/605.gif"
     },
     {
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.01,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 7001,
       "name": "黴菌粉末",
       "rate": 15.0,
-      "icon_url": "/images/items/7001.gif"
+      "icon_url": "images/items/7001.gif"
     },
     {
       "item_id": 7119,
       "name": "菌絲",
       "rate": 15.0,
-      "icon_url": "/images/items/7119.gif"
+      "icon_url": "images/items/7119.gif"
     },
     {
       "item_id": 7320,
       "name": "粉塵",
       "rate": 15.0,
-      "icon_url": "/images/items/7320.gif"
+      "icon_url": "images/items/7320.gif"
     },
     {
       "item_id": 25728,
       "name": "影子神祕原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25728.gif"
+      "icon_url": "images/items/25728.gif"
     },
     {
       "item_id": 25815,
       "name": "硬化的灰塵",
       "rate": 2.0,
-      "icon_url": "/images/items/25815.gif"
+      "icon_url": "images/items/25815.gif"
     },
     {
       "item_id": 300001,
       "name": "奪命毒霧卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300001.gif"
+      "icon_url": "images/items/300001.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "邪骸戰俘",
     "en": "SKEL_PRISONER"
   },
-  "image_url": "/images/monsters/1196.gif",
+  "image_url": "images/monsters/1196.gif",
   "basic_info": {
     "level": 91,
     "race": "不死",
@@ -54,49 +54,49 @@
       "item_id": 716,
       "name": "紅色魔力礦石",
       "rate": 3.0,
-      "icon_url": "/images/items/716.gif"
+      "icon_url": "images/items/716.gif"
     },
     {
       "item_id": 930,
       "name": "腐爛繃帶",
       "rate": 17.5,
-      "icon_url": "/images/items/930.gif"
+      "icon_url": "images/items/930.gif"
     },
     {
       "item_id": 934,
       "name": "亡者遺物",
       "rate": 7.5,
-      "icon_url": "/images/items/934.gif"
+      "icon_url": "images/items/934.gif"
     },
     {
       "item_id": 1098,
       "name": "手銬",
       "rate": 17.5,
-      "icon_url": "/images/items/1098.gif"
+      "icon_url": "images/items/1098.gif"
     },
     {
       "item_id": 2320,
       "name": "西裝外套[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2320.gif"
+      "icon_url": "images/items/2320.gif"
     },
     {
       "item_id": 2408,
       "name": "腳煉",
       "rate": 0.18,
-      "icon_url": "/images/items/2408.gif"
+      "icon_url": "images/items/2408.gif"
     },
     {
       "item_id": 4222,
       "name": "邪骸戰俘卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7016,
       "name": "老舊湯匙",
       "rate": 0.5,
-      "icon_url": "/images/items/7016.gif"
+      "icon_url": "images/items/7016.gif"
     }
   ]
 }

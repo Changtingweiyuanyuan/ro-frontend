@@ -4,7 +4,7 @@
     "zh_tw": "大地的瑪娜",
     "en": "MM_MANA_YELLOW"
   },
-  "image_url": "/images/monsters/3103.gif",
+  "image_url": "images/monsters/3103.gif",
   "basic_info": {
     "level": 1,
     "race": "無形",

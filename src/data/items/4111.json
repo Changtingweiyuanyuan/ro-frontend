@@ -4,7 +4,7 @@
     "zh_tw": "海神卡片",
     "en": "Strouf_Card"
   },
-  "icon_url": "/images/items/4111.gif",
+  "icon_url": "images/items/4111.gif",
   "category": "卡片",
   "description": {
     "official": "對惡魔系魔物增加20%的傷害。",

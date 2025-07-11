@@ -4,7 +4,7 @@
     "zh_tw": "綠色等離子體",
     "en": "PLASMA_G"
   },
-  "image_url": "/images/monsters/1695.gif",
+  "image_url": "images/monsters/1695.gif",
   "basic_info": {
     "level": 116,
     "race": "無形",
@@ -74,31 +74,31 @@
       "item_id": 644,
       "name": "禮物箱",
       "rate": 0.05,
-      "icon_url": "/images/items/644.gif"
+      "icon_url": "images/items/644.gif"
     },
     {
       "item_id": 731,
       "name": "2克拉鑽石",
       "rate": 0.01,
-      "icon_url": "/images/items/731.gif"
+      "icon_url": "images/items/731.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 0.5,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 0.2,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 4389,
       "name": "等離子體卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

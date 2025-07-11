@@ -4,7 +4,7 @@
     "zh_tw": "十字刺客 艾勒梅斯",
     "en": "G_EREMES"
   },
-  "image_url": "/images/monsters/1641.gif",
+  "image_url": "images/monsters/1641.gif",
   "basic_info": {
     "level": 160,
     "race": "惡魔",
@@ -49,13 +49,13 @@
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.05,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 6223,
       "name": "混沌金屬",
       "rate": 0.5,
-      "icon_url": "/images/items/6223.gif"
+      "icon_url": "images/items/6223.gif"
     }
   ]
 }

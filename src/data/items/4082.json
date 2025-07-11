@@ -4,7 +4,7 @@
     "zh_tw": "沙漠之狼卡片",
     "en": "Desert_Wolf_Card"
   },
-  "icon_url": "/images/items/4082.gif",
+  "icon_url": "images/items/4082.gif",
   "category": "卡片",
   "description": {
     "official": "對小型魔物增加15%的傷害。ATK+5套裝資料:沙漠之狼卡片 & Corrupt Life Card",

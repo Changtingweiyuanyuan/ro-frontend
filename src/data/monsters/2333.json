@@ -4,7 +4,7 @@
     "zh_tw": "寶箱巨鱷的弱點",
     "en": "BUWAYA_WEAK"
   },
-  "image_url": "/images/monsters/2333.gif",
+  "image_url": "images/monsters/2333.gif",
   "basic_info": {
     "level": 138,
     "race": "植物",

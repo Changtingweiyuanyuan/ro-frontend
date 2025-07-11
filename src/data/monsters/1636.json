@@ -4,7 +4,7 @@
     "zh_tw": "暗●神工匠",
     "en": "HARWORD"
   },
-  "image_url": "/images/monsters/1636.gif",
+  "image_url": "images/monsters/1636.gif",
   "basic_info": {
     "level": 142,
     "race": "人形",
@@ -54,49 +54,49 @@
       "item_id": 1311,
       "name": "貝克戰斧[2]",
       "rate": 2.0,
-      "icon_url": "/images/items/1311.gif"
+      "icon_url": "images/items/1311.gif"
     },
     {
       "item_id": 2318,
       "name": "祕衣 美德[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2318.gif"
+      "icon_url": "images/items/2318.gif"
     },
     {
       "item_id": 4362,
       "name": "暗●神工匠卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6223,
       "name": "混沌金屬",
       "rate": 0.05,
-      "icon_url": "/images/items/6223.gif"
+      "icon_url": "images/items/6223.gif"
     },
     {
       "item_id": 6469,
       "name": "勇士的意志",
       "rate": 2.0,
-      "icon_url": "/images/items/6469.gif"
+      "icon_url": "images/items/6469.gif"
     },
     {
       "item_id": 6471,
       "name": "亡者的寒氣",
       "rate": 0.01,
-      "icon_url": "/images/items/6471.gif"
+      "icon_url": "images/items/6471.gif"
     },
     {
       "item_id": 7345,
       "name": "犯人的手煉",
       "rate": 15.0,
-      "icon_url": "/images/items/7345.gif"
+      "icon_url": "images/items/7345.gif"
     },
     {
       "item_id": 25129,
       "name": "不安的能量碎片",
       "rate": 10.0,
-      "icon_url": "/images/items/25129.gif"
+      "icon_url": "images/items/25129.gif"
     }
   ]
 }

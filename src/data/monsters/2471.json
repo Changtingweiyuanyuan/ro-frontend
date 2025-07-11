@@ -4,7 +4,7 @@
     "zh_tw": "王朝侍衛長 / 怨念的卡利斯格",
     "en": "MG_KHALITZBURG"
   },
-  "image_url": "/images/monsters/2471.gif",
+  "image_url": "images/monsters/2471.gif",
   "basic_info": {
     "level": 143,
     "race": "不死",
@@ -54,37 +54,37 @@
       "item_id": 985,
       "name": "鋁",
       "rate": 0.5,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1004,
       "name": "忠誠之證",
       "rate": 0.1,
-      "icon_url": "/images/items/1004.gif"
+      "icon_url": "images/items/1004.gif"
     },
     {
       "item_id": 1110,
       "name": "擊刺長劍[2]",
       "rate": 3.0,
-      "icon_url": "/images/items/1110.gif"
+      "icon_url": "images/items/1110.gif"
     },
     {
       "item_id": 6608,
       "name": "凝固的魔力",
       "rate": 0.5,
-      "icon_url": "/images/items/6608.gif"
+      "icon_url": "images/items/6608.gif"
     },
     {
       "item_id": 6609,
       "name": "古城亡者的指甲",
       "rate": 3.0,
-      "icon_url": "/images/items/6609.gif"
+      "icon_url": "images/items/6609.gif"
     },
     {
       "item_id": 6610,
       "name": "古城亡者的牙齒",
       "rate": 2.0,
-      "icon_url": "/images/items/6610.gif"
+      "icon_url": "images/items/6610.gif"
     }
   ]
 }

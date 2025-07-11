@@ -4,7 +4,7 @@
     "zh_tw": "鬼火卡片",
     "en": "Horong_Card"
   },
-  "icon_url": "/images/items/4103.gif",
+  "icon_url": "images/items/4103.gif",
   "category": "卡片",
   "description": {
     "official": "可使用【火狩】Lv1技能。",

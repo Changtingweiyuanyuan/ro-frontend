@@ -4,7 +4,7 @@
     "zh_tw": "艾斯蜘蛛卡片",
     "en": "Argos_Card"
   },
-  "icon_url": "/images/items/4075.gif",
+  "icon_url": "images/items/4075.gif",
   "category": "卡片",
   "description": {
     "official": "受到攻擊時，被石化的幾率降低20%。DEF+1",

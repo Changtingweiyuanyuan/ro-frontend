@@ -4,7 +4,7 @@
     "zh_tw": "魔物飼料",
     "en": "Monster's_Feed"
   },
-  "icon_url": "/images/items/528.gif",
+  "icon_url": "images/items/528.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "魔物們最喜愛的加工食品，可恢復少量的HP。",

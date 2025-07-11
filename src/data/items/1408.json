@@ -4,7 +4,7 @@
     "zh_tw": "步兵長矛",
     "en": "Pike_"
   },
-  "icon_url": "/images/items/1408.gif",
+  "icon_url": "images/items/1408.gif",
   "category": "武器",
   "description": {
     "official": "步兵們所使用的單手長矛。套裝資料:步兵長矛[4] & 重裝步兵帽子[1]",

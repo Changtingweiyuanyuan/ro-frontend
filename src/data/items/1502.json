@@ -4,7 +4,7 @@
     "zh_tw": "木錘",
     "en": "Club_"
   },
-  "icon_url": "/images/items/1502.gif",
+  "icon_url": "images/items/1502.gif",
   "category": "武器",
   "description": {
     "official": "木製的鈍器，任何人都方便使用。",

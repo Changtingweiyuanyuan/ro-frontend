@@ -4,7 +4,7 @@
     "zh_tw": "綠色藥草",
     "en": "Green_Herb"
   },
-  "icon_url": "/images/items/511.gif",
+  "icon_url": "images/items/511.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "可中和所有毒性的珍貴藥草，具有治療的功效解毒。",

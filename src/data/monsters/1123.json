@@ -4,7 +4,7 @@
     "zh_tw": "鍊錘哥布靈",
     "en": "GOBLIN_2"
   },
-  "image_url": "/images/monsters/1123.gif",
+  "image_url": "images/monsters/1123.gif",
   "basic_info": {
     "level": 44,
     "race": "人形",
@@ -59,49 +59,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 45.0,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 998,
       "name": "鐵",
       "rate": 1.25,
-      "icon_url": "/images/items/998.gif"
+      "icon_url": "images/items/998.gif"
     },
     {
       "item_id": 1511,
       "name": "流星鎚[3]",
       "rate": 0.05,
-      "icon_url": "/images/items/1511.gif"
+      "icon_url": "images/items/1511.gif"
     },
     {
       "item_id": 2146,
       "name": "銀色盾牌[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2146.gif"
+      "icon_url": "images/items/2146.gif"
     },
     {
       "item_id": 2297,
       "name": "哥布靈面具",
       "rate": 0.02,
-      "icon_url": "/images/items/2297.gif"
+      "icon_url": "images/items/2297.gif"
     },
     {
       "item_id": 4060,
       "name": "哥布靈卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5010,
       "name": "印地安發箍",
       "rate": 0.02,
-      "icon_url": "/images/items/5010.gif"
+      "icon_url": "images/items/5010.gif"
     }
   ]
 }

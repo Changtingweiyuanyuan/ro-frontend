@@ -4,7 +4,7 @@
     "zh_tw": "馬克卡片",
     "en": "Marc_Card"
   },
-  "icon_url": "/images/items/4105.gif",
+  "icon_url": "images/items/4105.gif",
   "category": "卡片",
   "description": {
     "official": "可避免陷入冰凍的狀態。受到水屬性的傷害減少5%。",

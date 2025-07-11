@@ -4,7 +4,7 @@
     "zh_tw": "土靈原石",
     "en": "Great_Nature"
   },
-  "icon_url": "/images/items/997.gif",
+  "icon_url": "images/items/997.gif",
   "category": "其他類",
   "description": {
     "official": "擁有地屬性的礦石。",

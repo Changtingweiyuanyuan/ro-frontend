@@ -4,7 +4,7 @@
     "zh_tw": "古代獸人惡靈",
     "en": "I_ORC_SKELETON"
   },
-  "image_url": "/images/monsters/1983.gif",
+  "image_url": "images/monsters/1983.gif",
   "basic_info": {
     "level": 87,
     "race": "不死",

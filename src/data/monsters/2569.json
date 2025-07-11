@@ -4,7 +4,7 @@
     "zh_tw": "瘧蚊",
     "en": "G_ANOPHELES"
   },
-  "image_url": "/images/monsters/2569.gif",
+  "image_url": "images/monsters/2569.gif",
   "basic_info": {
     "level": 95,
     "race": "昆蟲",

@@ -4,7 +4,7 @@
     "zh_tw": "礦工魔",
     "en": "PITMAN"
   },
-  "image_url": "/images/monsters/1616.gif",
+  "image_url": "images/monsters/1616.gif",
   "basic_info": {
     "level": 90,
     "race": "不死",
@@ -64,49 +64,49 @@
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 2.5,
-      "icon_url": "/images/items/999.gif"
+      "icon_url": "images/items/999.gif"
     },
     {
       "item_id": 1003,
       "name": "煤礦",
       "rate": 0.5,
-      "icon_url": "/images/items/1003.gif"
+      "icon_url": "images/items/1003.gif"
     },
     {
       "item_id": 1041,
       "name": "手提燈",
       "rate": 5.0,
-      "icon_url": "/images/items/1041.gif"
+      "icon_url": "images/items/1041.gif"
     },
     {
       "item_id": 4335,
       "name": "礦工魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6244,
       "name": "火藥粉末",
       "rate": 4.5,
-      "icon_url": "/images/items/6244.gif"
+      "icon_url": "images/items/6244.gif"
     },
     {
       "item_id": 7318,
       "name": "老舊的十字鎬",
       "rate": 15.0,
-      "icon_url": "/images/items/7318.gif"
+      "icon_url": "images/items/7318.gif"
     },
     {
       "item_id": 7319,
       "name": "老舊的鐵板",
       "rate": 2.5,
-      "icon_url": "/images/items/7319.gif"
+      "icon_url": "images/items/7319.gif"
     },
     {
       "item_id": 7327,
       "name": "懷中電燈",
       "rate": 0.4,
-      "icon_url": "/images/items/7327.gif"
+      "icon_url": "images/items/7327.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "紙妖",
     "en": "THE_PAPER"
   },
-  "image_url": "/images/monsters/1375.gif",
+  "image_url": "images/monsters/1375.gif",
   "basic_info": {
     "level": 97,
     "race": "無形",
@@ -59,37 +59,37 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 9.0,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 10.0,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 4172,
       "name": "紙妖卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7111,
       "name": "光滑的紙",
       "rate": 24.74,
-      "icon_url": "/images/items/7111.gif"
+      "icon_url": "images/items/7111.gif"
     },
     {
       "item_id": 7112,
       "name": "恐怖的紙刃",
       "rate": 16.0,
-      "icon_url": "/images/items/7112.gif"
+      "icon_url": "images/items/7112.gif"
     },
     {
       "item_id": 13009,
       "name": "真空刀",
       "rate": 0.03,
-      "icon_url": "/images/items/13009.gif"
+      "icon_url": "images/items/13009.gif"
     }
   ]
 }

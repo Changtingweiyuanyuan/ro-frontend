@@ -4,7 +4,7 @@
     "zh_tw": "天地樹果實",
     "en": "Yggdrasilberry"
   },
-  "icon_url": "/images/items/607.gif",
+  "icon_url": "images/items/607.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "天地樹的果實，據說食用後精神會為之一振，感覺活力滿滿。可將使用者的HP和SP全數恢復。再使用等候時間 :5秒",

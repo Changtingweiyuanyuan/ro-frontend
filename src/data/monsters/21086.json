@@ -4,7 +4,7 @@
     "zh_tw": "測試用魔物",
     "en": "不死屬性"
   },
-  "image_url": "/images/monsters/21086.gif",
+  "image_url": "images/monsters/21086.gif",
   "basic_info": {
     "level": 100,
     "race": "無形",

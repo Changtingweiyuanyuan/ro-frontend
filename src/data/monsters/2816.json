@@ -4,7 +4,7 @@
     "zh_tw": "精英魔羌 / 菁英魔羌",
     "en": "C3_GOAT"
   },
-  "image_url": "/images/monsters/2816.gif",
+  "image_url": "images/monsters/2816.gif",
   "basic_info": {
     "level": 80,
     "race": "動物",
@@ -49,43 +49,43 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 12.5,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 62.5,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 25.0,
-      "icon_url": "/images/items/510.gif"
+      "icon_url": "images/items/510.gif"
     },
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 100.0,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 4150,
       "name": "魔羌卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7106,
       "name": "魔羌之角",
       "rate": 100.0,
-      "icon_url": "/images/items/7106.gif"
+      "icon_url": "images/items/7106.gif"
     },
     {
       "item_id": 7107,
       "name": "魔羌之毛皮",
       "rate": 62.5,
-      "icon_url": "/images/items/7107.gif"
+      "icon_url": "images/items/7107.gif"
     }
   ]
 }

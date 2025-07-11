@@ -4,7 +4,7 @@
     "zh_tw": "克萊本",
     "en": "KRABEN"
   },
-  "image_url": "/images/monsters/1587.gif",
+  "image_url": "images/monsters/1587.gif",
   "basic_info": {
     "level": 70,
     "race": "無形",
@@ -64,49 +64,49 @@
       "item_id": 519,
       "name": "牛奶",
       "rate": 15.0,
-      "icon_url": "/images/items/519.gif"
+      "icon_url": "images/items/519.gif"
     },
     {
       "item_id": 521,
       "name": "蘆薈葉子",
       "rate": 5.0,
-      "icon_url": "/images/items/521.gif"
+      "icon_url": "images/items/521.gif"
     },
     {
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.05,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 17.5,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 2102,
       "name": "鐵盾[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2102.gif"
+      "icon_url": "images/items/2102.gif"
     },
     {
       "item_id": 4295,
       "name": "克萊本卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7286,
       "name": "紅辣椒",
       "rate": 5.0,
-      "icon_url": "/images/items/7286.gif"
+      "icon_url": "images/items/7286.gif"
     },
     {
       "item_id": 7299,
       "name": "竹籃",
       "rate": 24.25,
-      "icon_url": "/images/items/7299.gif"
+      "icon_url": "images/items/7299.gif"
     }
   ]
 }

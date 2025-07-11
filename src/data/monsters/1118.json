@@ -4,7 +4,7 @@
     "zh_tw": "噬人花",
     "en": "FLORA"
   },
-  "image_url": "/images/monsters/1118.gif",
+  "image_url": "images/monsters/1118.gif",
   "basic_info": {
     "level": 59,
     "race": "植物",
@@ -89,49 +89,49 @@
       "item_id": 521,
       "name": "蘆薈葉子",
       "rate": 0.25,
-      "icon_url": "/images/items/521.gif"
+      "icon_url": "images/items/521.gif"
     },
     {
       "item_id": 629,
       "name": "呢喃花",
       "rate": 0.1,
-      "icon_url": "/images/items/629.gif"
+      "icon_url": "images/items/629.gif"
     },
     {
       "item_id": 704,
       "name": "蘆薈",
       "rate": 0.05,
-      "icon_url": "/images/items/704.gif"
+      "icon_url": "images/items/704.gif"
     },
     {
       "item_id": 748,
       "name": "永恆玫瑰",
       "rate": 0.01,
-      "icon_url": "/images/items/748.gif"
+      "icon_url": "images/items/748.gif"
     },
     {
       "item_id": 905,
       "name": "植物梗",
       "rate": 10.0,
-      "icon_url": "/images/items/905.gif"
+      "icon_url": "images/items/905.gif"
     },
     {
       "item_id": 1032,
       "name": "噬人樹花",
       "rate": 45.0,
-      "icon_url": "/images/items/1032.gif"
+      "icon_url": "images/items/1032.gif"
     },
     {
       "item_id": 2253,
       "name": "向日葵頭飾",
       "rate": 0.02,
-      "icon_url": "/images/items/2253.gif"
+      "icon_url": "images/items/2253.gif"
     },
     {
       "item_id": 4080,
       "name": "噬人花卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "惡靈",
     "en": "G_WRAITH"
   },
-  "image_url": "/images/monsters/1475.gif",
+  "image_url": "images/monsters/1475.gif",
   "basic_info": {
     "level": 77,
     "race": "不死",

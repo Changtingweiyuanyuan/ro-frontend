@@ -4,7 +4,7 @@
     "zh_tw": "死靈",
     "en": "DOPPELGANGER"
   },
-  "image_url": "/images/monsters/1046.gif",
+  "image_url": "images/monsters/1046.gif",
   "basic_info": {
     "level": 77,
     "race": "惡魔",
@@ -59,49 +59,49 @@
       "item_id": 984,
       "name": "神之金屬",
       "rate": 13.5,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 985,
       "name": "鋁",
       "rate": 18.43,
-      "icon_url": "/images/items/985.gif"
+      "icon_url": "images/items/985.gif"
     },
     {
       "item_id": 1162,
       "name": "雙手重劍[2]",
       "rate": 1.1,
-      "icon_url": "/images/items/1162.gif"
+      "icon_url": "images/items/1162.gif"
     },
     {
       "item_id": 1168,
       "name": "巨大雙手劍",
       "rate": 0.75,
-      "icon_url": "/images/items/1168.gif"
+      "icon_url": "images/items/1168.gif"
     },
     {
       "item_id": 1411,
       "name": "騎士長矛",
       "rate": 2.75,
-      "icon_url": "/images/items/1411.gif"
+      "icon_url": "images/items/1411.gif"
     },
     {
       "item_id": 2258,
       "name": "尖角發圈",
       "rate": 1.75,
-      "icon_url": "/images/items/2258.gif"
+      "icon_url": "images/items/2258.gif"
     },
     {
       "item_id": 2317,
       "name": "鋼鐵盔甲[1]",
       "rate": 1.25,
-      "icon_url": "/images/items/2317.gif"
+      "icon_url": "images/items/2317.gif"
     },
     {
       "item_id": 4142,
       "name": "死靈卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "異變的王子 / 扭曲的救贖主",
     "en": "TORTUROUS_REDEEMER"
   },
-  "image_url": "/images/monsters/2959.gif",
+  "image_url": "images/monsters/2959.gif",
   "basic_info": {
     "level": 120,
     "race": "人形",
@@ -49,19 +49,19 @@
       "item_id": 923,
       "name": "惡魔角",
       "rate": 20.0,
-      "icon_url": "/images/items/923.gif"
+      "icon_url": "images/items/923.gif"
     },
     {
       "item_id": 6672,
       "name": "土色碎片",
       "rate": 100.0,
-      "icon_url": "/images/items/6672.gif"
+      "icon_url": "images/items/6672.gif"
     },
     {
       "item_id": 6672,
       "name": "土色碎片",
       "rate": 100.0,
-      "icon_url": "/images/items/6672.gif"
+      "icon_url": "images/items/6672.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "森靈卡片",
     "en": "Worm_Tail_Card"
   },
-  "icon_url": "/images/items/4034.gif",
+  "icon_url": "images/items/4034.gif",
   "category": "卡片",
   "description": {
     "official": "DEX+2",

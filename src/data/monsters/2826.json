@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 菁英 蝙蝠弓箭手",
     "en": "C3_GARGOYLE"
   },
-  "image_url": "/images/monsters/2826.gif",
+  "image_url": "images/monsters/2826.gif",
   "basic_info": {
     "level": 100,
     "race": "惡魔",
@@ -49,43 +49,43 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 5.95,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 97.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 1039,
       "name": "小惡魔翅膀",
       "rate": 12.5,
-      "icon_url": "/images/items/1039.gif"
+      "icon_url": "images/items/1039.gif"
     },
     {
       "item_id": 1746,
       "name": "精靈之弓[1]",
       "rate": 0.15,
-      "icon_url": "/images/items/1746.gif"
+      "icon_url": "images/items/1746.gif"
     },
     {
       "item_id": 1769,
       "name": "寧靜箭矢",
       "rate": 50.0,
-      "icon_url": "/images/items/1769.gif"
+      "icon_url": "images/items/1769.gif"
     },
     {
       "item_id": 2619,
       "name": "神射手套",
       "rate": 0.05,
-      "icon_url": "/images/items/2619.gif"
+      "icon_url": "images/items/2619.gif"
     },
     {
       "item_id": 4149,
       "name": "蝙蝠弓箭手卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

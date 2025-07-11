@@ -4,7 +4,7 @@
     "zh_tw": "狸貓卡片",
     "en": "Smokie_Card"
   },
-  "icon_url": "/images/items/4044.gif",
+  "icon_url": "images/items/4044.gif",
   "category": "卡片",
   "description": {
     "official": "可使用【隱匿】Lv1 技能。",

@@ -4,7 +4,7 @@
     "zh_tw": "玩具工廠警備兵",
     "en": "XM_CRUISER"
   },
-  "image_url": "/images/monsters/2990.gif",
+  "image_url": "images/monsters/2990.gif",
   "basic_info": {
     "level": 140,
     "race": "惡魔",

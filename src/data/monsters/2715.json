@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 雄壯 畢帝特地龍",
     "en": "C2_PETIT"
   },
-  "image_url": "/images/monsters/2715.gif",
+  "image_url": "images/monsters/2715.gif",
   "basic_info": {
     "level": 86,
     "race": "龍",
@@ -54,49 +54,49 @@
       "item_id": 509,
       "name": "白色藥草",
       "rate": 25.0,
-      "icon_url": "/images/items/509.gif"
+      "icon_url": "images/items/509.gif"
     },
     {
       "item_id": 606,
       "name": "蘆薈汁液",
       "rate": 0.4,
-      "icon_url": "/images/items/606.gif"
+      "icon_url": "images/items/606.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 3.5,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 1035,
       "name": "龍牙",
       "rate": 100.0,
-      "icon_url": "/images/items/1035.gif"
+      "icon_url": "images/items/1035.gif"
     },
     {
       "item_id": 1037,
       "name": "龍尾",
       "rate": 7.5,
-      "icon_url": "/images/items/1037.gif"
+      "icon_url": "images/items/1037.gif"
     },
     {
       "item_id": 4118,
       "name": "畢帝特地龍卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6260,
       "name": "畢帝特龍的尾巴",
       "rate": 2.5,
-      "icon_url": "/images/items/6260.gif"
+      "icon_url": "images/items/6260.gif"
     },
     {
       "item_id": 16040,
       "name": "緋紅色鐵鎚[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/16040.gif"
+      "icon_url": "images/items/16040.gif"
     }
   ]
 }

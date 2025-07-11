@@ -4,7 +4,7 @@
     "zh_tw": "咪魘艾裡厄斯",
     "en": "MD_ARIES_H"
   },
-  "image_url": "/images/monsters/20678.gif",
+  "image_url": "images/monsters/20678.gif",
   "basic_info": {
     "level": 190,
     "race": "人形",
@@ -49,31 +49,31 @@
       "item_id": 710,
       "name": "幻想花",
       "rate": 0.01,
-      "icon_url": "/images/items/710.gif"
+      "icon_url": "images/items/710.gif"
     },
     {
       "item_id": 6557,
       "name": "絢麗精靈翅膀",
       "rate": 2.5,
-      "icon_url": "/images/items/6557.gif"
+      "icon_url": "images/items/6557.gif"
     },
     {
       "item_id": 7168,
       "name": "巨大翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/7168.gif"
+      "icon_url": "images/items/7168.gif"
     },
     {
       "item_id": 300098,
       "name": "咪魘艾裡厄斯卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/300098.gif"
+      "icon_url": "images/items/300098.gif"
     },
     {
       "item_id": 700009,
       "name": "普里格蒂亞強弩[2]",
       "rate": 0.05,
-      "icon_url": "/images/items/700009.gif"
+      "icon_url": "images/items/700009.gif"
     }
   ]
 }

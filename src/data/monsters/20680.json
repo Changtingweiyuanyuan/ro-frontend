@@ -4,7 +4,7 @@
     "zh_tw": "邪心獵人偵察兵",
     "en": "EP17_2_HEART_HUNTER"
   },
-  "image_url": "/images/monsters/20680.gif",
+  "image_url": "images/monsters/20680.gif",
   "basic_info": {
     "level": 130,
     "race": "人形",
@@ -59,49 +59,49 @@
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.24,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 7110,
       "name": "破裂之劍",
       "rate": 5.0,
-      "icon_url": "/images/items/7110.gif"
+      "icon_url": "images/items/7110.gif"
     },
     {
       "item_id": 25159,
       "name": "邪心獵人之印",
       "rate": 25.0,
-      "icon_url": "/images/items/25159.gif"
+      "icon_url": "images/items/25159.gif"
     },
     {
       "item_id": 25669,
       "name": "神祕零件",
       "rate": 0.3,
-      "icon_url": "/images/items/25669.gif"
+      "icon_url": "images/items/25669.gif"
     },
     {
       "item_id": 25723,
       "name": "核心元件",
       "rate": 0.1,
-      "icon_url": "/images/items/25723.gif"
+      "icon_url": "images/items/25723.gif"
     },
     {
       "item_id": 27149,
       "name": "邪心獵人卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27149.gif"
+      "icon_url": "images/items/27149.gif"
     },
     {
       "item_id": 500007,
       "name": "希波克里西銳劍[3]",
       "rate": 0.03,
-      "icon_url": "/images/items/500007.gif"
+      "icon_url": "images/items/500007.gif"
     },
     {
       "item_id": 600008,
       "name": "希波克里西巨劍[2]",
       "rate": 0.03,
-      "icon_url": "/images/items/600008.gif"
+      "icon_url": "images/items/600008.gif"
     }
   ]
 }

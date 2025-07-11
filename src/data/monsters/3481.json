@@ -4,7 +4,7 @@
     "zh_tw": "不死的影子-惡咪",
     "en": "AS_EVIL_SHADOW1"
   },
-  "image_url": "/images/monsters/3481.gif",
+  "image_url": "images/monsters/3481.gif",
   "basic_info": {
     "level": 160,
     "race": "惡魔",
@@ -49,37 +49,37 @@
       "item_id": 1800,
       "name": "邪念之升龍拳套[1]",
       "rate": 0.3,
-      "icon_url": "/images/items/1800.gif"
+      "icon_url": "images/items/1800.gif"
     },
     {
       "item_id": 13328,
       "name": "邪念之風魔飛鏢[1]",
       "rate": 0.3,
-      "icon_url": "/images/items/13328.gif"
+      "icon_url": "images/items/13328.gif"
     },
     {
       "item_id": 16041,
       "name": "邪念之鐵鎚[1]",
       "rate": 0.3,
-      "icon_url": "/images/items/16041.gif"
+      "icon_url": "images/items/16041.gif"
     },
     {
       "item_id": 28008,
       "name": "邪念之拳刃[1]",
       "rate": 0.3,
-      "icon_url": "/images/items/28008.gif"
+      "icon_url": "images/items/28008.gif"
     },
     {
       "item_id": 28107,
       "name": "邪念之雙手斧[1]",
       "rate": 0.3,
-      "icon_url": "/images/items/28107.gif"
+      "icon_url": "images/items/28107.gif"
     },
     {
       "item_id": 28605,
       "name": "邪念之書[1]",
       "rate": 0.3,
-      "icon_url": "/images/items/28605.gif"
+      "icon_url": "images/items/28605.gif"
     }
   ]
 }

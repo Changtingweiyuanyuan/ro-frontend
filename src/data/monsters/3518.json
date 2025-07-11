@@ -4,7 +4,7 @@
     "zh_tw": "警衛兵 / 神殿衛士",
     "en": "POPE_MD_H_GUARD"
   },
-  "image_url": "/images/monsters/3518.gif",
+  "image_url": "images/monsters/3518.gif",
   "basic_info": {
     "level": 130,
     "race": "人形",
@@ -54,31 +54,31 @@
       "item_id": 504,
       "name": "白色藥水",
       "rate": 10.0,
-      "icon_url": "/images/items/504.gif"
+      "icon_url": "images/items/504.gif"
     },
     {
       "item_id": 6508,
       "name": "銀手鍊",
       "rate": 30.0,
-      "icon_url": "/images/items/6508.gif"
+      "icon_url": "images/items/6508.gif"
     },
     {
       "item_id": 7157,
       "name": "黑色覆面",
       "rate": 30.0,
-      "icon_url": "/images/items/7157.gif"
+      "icon_url": "images/items/7157.gif"
     },
     {
       "item_id": 11565,
       "name": "白色藥水",
       "rate": 5.0,
-      "icon_url": "/images/items/11565.gif"
+      "icon_url": "images/items/11565.gif"
     },
     {
       "item_id": 22542,
       "name": "[非賣品]集中藥水",
       "rate": 1.0,
-      "icon_url": "/images/items/22542.gif"
+      "icon_url": "images/items/22542.gif"
     }
   ]
 }

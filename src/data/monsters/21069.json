@@ -4,7 +4,7 @@
     "zh_tw": "測試用魔物",
     "en": "動物"
   },
-  "image_url": "/images/monsters/21069.gif",
+  "image_url": "images/monsters/21069.gif",
   "basic_info": {
     "level": 100,
     "race": "動物",

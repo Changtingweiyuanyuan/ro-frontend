@@ -4,7 +4,7 @@
     "zh_tw": "國王波利",
     "en": "MD_KING_PORING"
   },
-  "image_url": "/images/monsters/3810.gif",
+  "image_url": "images/monsters/3810.gif",
   "basic_info": {
     "level": 35,
     "race": "無形",
@@ -49,43 +49,43 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 30.0,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 509,
       "name": "白色藥草",
       "rate": 30.0,
-      "icon_url": "/images/items/509.gif"
+      "icon_url": "images/items/509.gif"
     },
     {
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 30.0,
-      "icon_url": "/images/items/510.gif"
+      "icon_url": "images/items/510.gif"
     },
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 30.0,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.1,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 6498,
       "name": "光澤傑勒比結晶",
       "rate": 30.0,
-      "icon_url": "/images/items/6498.gif"
+      "icon_url": "images/items/6498.gif"
     },
     {
       "item_id": 7126,
       "name": "巨大傑勒比結晶",
       "rate": 30.0,
-      "icon_url": "/images/items/7126.gif"
+      "icon_url": "images/items/7126.gif"
     }
   ]
 }

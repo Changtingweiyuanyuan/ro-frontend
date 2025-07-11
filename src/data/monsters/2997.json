@@ -4,7 +4,7 @@
     "zh_tw": "席琳基米的幻影",
     "en": "G_XM_CELINE_KIMI"
   },
-  "image_url": "/images/monsters/2997.gif",
+  "image_url": "images/monsters/2997.gif",
   "basic_info": {
     "level": 160,
     "race": "不死",
@@ -49,7 +49,7 @@
       "item_id": 6683,
       "name": "枯萎的花朵",
       "rate": 100.0,
-      "icon_url": "/images/items/6683.gif"
+      "icon_url": "images/items/6683.gif"
     }
   ]
 }

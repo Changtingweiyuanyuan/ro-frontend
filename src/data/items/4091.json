@@ -4,7 +4,7 @@
     "zh_tw": "犬妖卡片",
     "en": "Kobold_Card"
   },
-  "icon_url": "/images/items/4091.gif",
+  "icon_url": "images/items/4091.gif",
   "category": "卡片",
   "description": {
     "official": "CRI+4STR+1",

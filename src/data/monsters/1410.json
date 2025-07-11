@@ -4,7 +4,7 @@
     "zh_tw": "猴桃木",
     "en": "LIVE_PEACH_TREE"
   },
-  "image_url": "/images/monsters/1410.gif",
+  "image_url": "images/monsters/1410.gif",
   "basic_info": {
     "level": 92,
     "race": "植物",
@@ -64,49 +64,49 @@
       "item_id": 526,
       "name": "蜂膠",
       "rate": 5.0,
-      "icon_url": "/images/items/526.gif"
+      "icon_url": "images/items/526.gif"
     },
     {
       "item_id": 532,
       "name": "香蕉汁",
       "rate": 0.5,
-      "icon_url": "/images/items/532.gif"
+      "icon_url": "images/items/532.gif"
     },
     {
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.03,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 604,
       "name": "枯樹枝",
       "rate": 2.0,
-      "icon_url": "/images/items/604.gif"
+      "icon_url": "images/items/604.gif"
     },
     {
       "item_id": 4217,
       "name": "猴桃木卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7164,
       "name": "石榴桃",
       "rate": 21.83,
-      "icon_url": "/images/items/7164.gif"
+      "icon_url": "images/items/7164.gif"
     },
     {
       "item_id": 7939,
       "name": "年老的樹枝",
       "rate": 0.5,
-      "icon_url": "/images/items/7939.gif"
+      "icon_url": "images/items/7939.gif"
     },
     {
       "item_id": 23187,
       "name": "樹液果凍",
       "rate": 0.05,
-      "icon_url": "/images/items/23187.gif"
+      "icon_url": "images/items/23187.gif"
     }
   ]
 }

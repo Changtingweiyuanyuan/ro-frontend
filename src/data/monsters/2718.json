@@ -4,7 +4,7 @@
     "zh_tw": "精英大嘴鳥 / 狡猾大嘴鳥",
     "en": "C5_PECOPECO"
   },
-  "image_url": "/images/monsters/2718.gif",
+  "image_url": "images/monsters/2718.gif",
   "basic_info": {
     "level": 25,
     "race": "動物",
@@ -49,43 +49,43 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 5.0,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 582,
       "name": "橙子",
       "rate": 25.0,
-      "icon_url": "/images/items/582.gif"
+      "icon_url": "images/items/582.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 925,
       "name": "鳥嘴",
       "rate": 100.0,
-      "icon_url": "/images/items/925.gif"
+      "icon_url": "images/items/925.gif"
     },
     {
       "item_id": 1604,
       "name": "橡木魔杖[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/1604.gif"
+      "icon_url": "images/items/1604.gif"
     },
     {
       "item_id": 2402,
       "name": "輕便鞋[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/2402.gif"
+      "icon_url": "images/items/2402.gif"
     },
     {
       "item_id": 4031,
       "name": "大嘴鳥卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

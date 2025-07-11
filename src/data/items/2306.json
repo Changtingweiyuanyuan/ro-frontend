@@ -4,7 +4,7 @@
     "zh_tw": "冒險衣",
     "en": "Adventurere's_Suit_"
   },
-  "icon_url": "/images/items/2306.gif",
+  "icon_url": "images/items/2306.gif",
   "category": "防具",
   "description": {
     "official": "專為冒險者製作的衣服。",

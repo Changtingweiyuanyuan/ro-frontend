@@ -4,7 +4,7 @@
     "zh_tw": "地靈礦石",
     "en": "Yellow_Live"
   },
-  "icon_url": "/images/items/993.gif",
+  "icon_url": "images/items/993.gif",
   "category": "其他類",
   "description": {
     "official": "綠色的小礦石塊。擁有地屬性，提煉後可以製作出地靈原石。",

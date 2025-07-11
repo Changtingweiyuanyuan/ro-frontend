@@ -4,7 +4,7 @@
     "zh_tw": "狂暴螳螂",
     "en": "KILLER_MANTIS"
   },
-  "image_url": "/images/monsters/1294.gif",
+  "image_url": "images/monsters/1294.gif",
   "basic_info": {
     "level": 141,
     "race": "昆蟲",
@@ -64,49 +64,49 @@
       "item_id": 721,
       "name": "綠寶石",
       "rate": 0.05,
-      "icon_url": "/images/items/721.gif"
+      "icon_url": "images/items/721.gif"
     },
     {
       "item_id": 943,
       "name": "堅硬外皮",
       "rate": 12.5,
-      "icon_url": "/images/items/943.gif"
+      "icon_url": "images/items/943.gif"
     },
     {
       "item_id": 1031,
       "name": "螳螂臂",
       "rate": 22.75,
-      "icon_url": "/images/items/1031.gif"
+      "icon_url": "images/items/1031.gif"
     },
     {
       "item_id": 1262,
       "name": "洛奇的指甲",
       "rate": 0.01,
-      "icon_url": "/images/items/1262.gif"
+      "icon_url": "images/items/1262.gif"
     },
     {
       "item_id": 1492,
       "name": "戰神長槍",
       "rate": 0.01,
-      "icon_url": "/images/items/1492.gif"
+      "icon_url": "images/items/1492.gif"
     },
     {
       "item_id": 2108,
       "name": "鏡盾[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2108.gif"
+      "icon_url": "images/items/2108.gif"
     },
     {
       "item_id": 2894,
       "name": "修羅金屬手套",
       "rate": 0.01,
-      "icon_url": "/images/items/2894.gif"
+      "icon_url": "images/items/2894.gif"
     },
     {
       "item_id": 4301,
       "name": "狂暴螳螂卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

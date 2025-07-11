@@ -4,7 +4,7 @@
     "zh_tw": "憤怒的信徒",
     "en": "POPE_MD_H_BELIEVER_1"
   },
-  "image_url": "/images/monsters/3519.gif",
+  "image_url": "images/monsters/3519.gif",
   "basic_info": {
     "level": 133,
     "race": "人形",
@@ -54,37 +54,37 @@
       "item_id": 504,
       "name": "白色藥水",
       "rate": 10.0,
-      "icon_url": "/images/items/504.gif"
+      "icon_url": "images/items/504.gif"
     },
     {
       "item_id": 7449,
       "name": "染血的書頁",
       "rate": 10.0,
-      "icon_url": "/images/items/7449.gif"
+      "icon_url": "images/items/7449.gif"
     },
     {
       "item_id": 7561,
       "name": "冰塊心臟",
       "rate": 20.0,
-      "icon_url": "/images/items/7561.gif"
+      "icon_url": "images/items/7561.gif"
     },
     {
       "item_id": 7568,
       "name": "白色面具",
       "rate": 30.0,
-      "icon_url": "/images/items/7568.gif"
+      "icon_url": "images/items/7568.gif"
     },
     {
       "item_id": 11565,
       "name": "白色藥水",
       "rate": 5.0,
-      "icon_url": "/images/items/11565.gif"
+      "icon_url": "images/items/11565.gif"
     },
     {
       "item_id": 22542,
       "name": "[非賣品]集中藥水",
       "rate": 1.0,
-      "icon_url": "/images/items/22542.gif"
+      "icon_url": "images/items/22542.gif"
     }
   ]
 }

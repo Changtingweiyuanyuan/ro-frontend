@@ -4,7 +4,7 @@
     "zh_tw": "氣泡蟲",
     "en": "MARINE_SPHERE"
   },
-  "image_url": "/images/monsters/1142.gif",
+  "image_url": "images/monsters/1142.gif",
   "basic_info": {
     "level": 51,
     "race": "植物",
@@ -54,37 +54,37 @@
       "item_id": 720,
       "name": "天藍寶石",
       "rate": 0.05,
-      "icon_url": "/images/items/720.gif"
+      "icon_url": "images/items/720.gif"
     },
     {
       "item_id": 1050,
       "name": "血管",
       "rate": 25.0,
-      "icon_url": "/images/items/1050.gif"
+      "icon_url": "images/items/1050.gif"
     },
     {
       "item_id": 1051,
       "name": "腦管",
       "rate": 12.5,
-      "icon_url": "/images/items/1051.gif"
+      "icon_url": "images/items/1051.gif"
     },
     {
       "item_id": 1520,
       "name": "鍊錘[3]",
       "rate": 0.05,
-      "icon_url": "/images/items/1520.gif"
+      "icon_url": "images/items/1520.gif"
     },
     {
       "item_id": 4084,
       "name": "氣泡蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 10003,
       "name": "潛水帽子",
       "rate": 0.05,
-      "icon_url": "/images/items/10003.gif"
+      "icon_url": "images/items/10003.gif"
     }
   ]
 }

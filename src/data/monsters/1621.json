@@ -4,7 +4,7 @@
     "zh_tw": "毒液魔",
     "en": "VENOMOUS"
   },
-  "image_url": "/images/monsters/1621.gif",
+  "image_url": "images/monsters/1621.gif",
   "basic_info": {
     "level": 87,
     "race": "無形",
@@ -64,49 +64,49 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.01,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 4333,
       "name": "毒液魔卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6213,
       "name": "炸彈粉末",
       "rate": 1.5,
-      "icon_url": "/images/items/6213.gif"
+      "icon_url": "images/items/6213.gif"
     },
     {
       "item_id": 6215,
       "name": "催淚瓦斯",
       "rate": 3.0,
-      "icon_url": "/images/items/6215.gif"
+      "icon_url": "images/items/6215.gif"
     },
     {
       "item_id": 7119,
       "name": "菌絲",
       "rate": 15.0,
-      "icon_url": "/images/items/7119.gif"
+      "icon_url": "images/items/7119.gif"
     },
     {
       "item_id": 7154,
       "name": "毒粉",
       "rate": 5.0,
-      "icon_url": "/images/items/7154.gif"
+      "icon_url": "images/items/7154.gif"
     },
     {
       "item_id": 7320,
       "name": "粉塵",
       "rate": 25.0,
-      "icon_url": "/images/items/7320.gif"
+      "icon_url": "images/items/7320.gif"
     },
     {
       "item_id": 7322,
       "name": "有毒瓦斯",
       "rate": 10.0,
-      "icon_url": "/images/items/7322.gif"
+      "icon_url": "images/items/7322.gif"
     }
   ]
 }

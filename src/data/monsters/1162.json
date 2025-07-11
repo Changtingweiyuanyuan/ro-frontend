@@ -4,7 +4,7 @@
     "zh_tw": "草精",
     "en": "RAFFLESIA"
   },
-  "image_url": "/images/monsters/1162.gif",
+  "image_url": "images/monsters/1162.gif",
   "basic_info": {
     "level": 86,
     "race": "植物",
@@ -64,49 +64,49 @@
       "item_id": 509,
       "name": "白色藥草",
       "rate": 0.15,
-      "icon_url": "/images/items/509.gif"
+      "icon_url": "images/items/509.gif"
     },
     {
       "item_id": 703,
       "name": "西納雷花",
       "rate": 0.05,
-      "icon_url": "/images/items/703.gif"
+      "icon_url": "images/items/703.gif"
     },
     {
       "item_id": 706,
       "name": "四葉幸運草",
       "rate": 0.01,
-      "icon_url": "/images/items/706.gif"
+      "icon_url": "images/items/706.gif"
     },
     {
       "item_id": 708,
       "name": "曼特花",
       "rate": 0.05,
-      "icon_url": "/images/items/708.gif"
+      "icon_url": "images/items/708.gif"
     },
     {
       "item_id": 711,
       "name": "芽苗",
       "rate": 2.75,
-      "icon_url": "/images/items/711.gif"
+      "icon_url": "images/items/711.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 8.0,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 1033,
       "name": "噬人樹根",
       "rate": 27.5,
-      "icon_url": "/images/items/1033.gif"
+      "icon_url": "images/items/1033.gif"
     },
     {
       "item_id": 4083,
       "name": "草精卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

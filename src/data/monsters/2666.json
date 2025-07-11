@@ -4,7 +4,7 @@
     "zh_tw": "精英 / 迅捷 貝殼魔靈",
     "en": "C1_SHELLFISH"
   },
-  "image_url": "/images/monsters/2666.gif",
+  "image_url": "images/monsters/2666.gif",
   "basic_info": {
     "level": 50,
     "race": "魚貝",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 0.45,
-      "icon_url": "/images/items/757.gif"
+      "icon_url": "images/items/757.gif"
     },
     {
       "item_id": 965,
       "name": "蛤蜊外殼",
       "rate": 100.0,
-      "icon_url": "/images/items/965.gif"
+      "icon_url": "images/items/965.gif"
     },
     {
       "item_id": 966,
       "name": "蛤蜊肉",
       "rate": 25.0,
-      "icon_url": "/images/items/966.gif"
+      "icon_url": "images/items/966.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 0.25,
-      "icon_url": "/images/items/1001.gif"
+      "icon_url": "images/items/1001.gif"
     },
     {
       "item_id": 1056,
       "name": "黃玉碎片",
       "rate": 25.0,
-      "icon_url": "/images/items/1056.gif"
+      "icon_url": "images/items/1056.gif"
     },
     {
       "item_id": 4273,
       "name": "貝殼魔靈卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7049,
       "name": "石頭",
       "rate": 12.5,
-      "icon_url": "/images/items/7049.gif"
+      "icon_url": "images/items/7049.gif"
     }
   ]
 }

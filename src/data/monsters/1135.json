@@ -4,7 +4,7 @@
     "zh_tw": "刺錘犬妖",
     "en": "KOBOLD_3"
   },
-  "image_url": "/images/monsters/1135.gif",
+  "image_url": "images/monsters/1135.gif",
   "basic_info": {
     "level": 101,
     "race": "人形",
@@ -59,49 +59,49 @@
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 1.0,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 990,
       "name": "火靈礦石",
       "rate": 0.18,
-      "icon_url": "/images/items/990.gif"
+      "icon_url": "images/items/990.gif"
     },
     {
       "item_id": 999,
       "name": "鋼鐵",
       "rate": 0.5,
-      "icon_url": "/images/items/999.gif"
+      "icon_url": "images/items/999.gif"
     },
     {
       "item_id": 1034,
       "name": "犬妖的毛",
       "rate": 26.68,
-      "icon_url": "/images/items/1034.gif"
+      "icon_url": "images/items/1034.gif"
     },
     {
       "item_id": 4091,
       "name": "犬妖卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 15126,
       "name": "喵族專屬外套[1]",
       "rate": 0.2,
-      "icon_url": "/images/items/15126.gif"
+      "icon_url": "images/items/15126.gif"
     },
     {
       "item_id": 20788,
       "name": "喵族專屬斗篷[1]",
       "rate": 0.2,
-      "icon_url": "/images/items/20788.gif"
+      "icon_url": "images/items/20788.gif"
     },
     {
       "item_id": 28106,
       "name": "緋紅色雙手斧[2]",
       "rate": 0.5,
-      "icon_url": "/images/items/28106.gif"
+      "icon_url": "images/items/28106.gif"
     }
   ]
 }

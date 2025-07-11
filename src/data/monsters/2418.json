@@ -4,7 +4,7 @@
     "zh_tw": "暗●獵人",
     "en": "L_SHECIL"
   },
-  "image_url": "/images/monsters/2418.gif",
+  "image_url": "images/monsters/2418.gif",
   "basic_info": {
     "level": 98,
     "race": "人形",
@@ -49,43 +49,43 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.02,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 1721,
       "name": "十字機弩[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/1721.gif"
+      "icon_url": "images/items/1721.gif"
     },
     {
       "item_id": 1722,
       "name": "貝利斯塔強弩",
       "rate": 0.05,
-      "icon_url": "/images/items/1722.gif"
+      "icon_url": "images/items/1722.gif"
     },
     {
       "item_id": 2330,
       "name": "緊身便衣",
       "rate": 0.22,
-      "icon_url": "/images/items/2330.gif"
+      "icon_url": "images/items/2330.gif"
     },
     {
       "item_id": 2331,
       "name": "緊身便衣[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2331.gif"
+      "icon_url": "images/items/2331.gif"
     },
     {
       "item_id": 7345,
       "name": "犯人的手煉",
       "rate": 50.0,
-      "icon_url": "/images/items/7345.gif"
+      "icon_url": "images/items/7345.gif"
     },
     {
       "item_id": 7347,
       "name": "研究員紀錄表",
       "rate": 25.0,
-      "icon_url": "/images/items/7347.gif"
+      "icon_url": "images/items/7347.gif"
     }
   ]
 }

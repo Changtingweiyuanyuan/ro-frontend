@@ -4,7 +4,7 @@
     "zh_tw": "紅蝙蝠",
     "en": "MD_DRAINLIAR_100"
   },
-  "image_url": "/images/monsters/3666.gif",
+  "image_url": "images/monsters/3666.gif",
   "basic_info": {
     "level": 100,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 725,
       "name": "大紅寶石",
       "rate": 0.1,
-      "icon_url": "/images/items/725.gif"
+      "icon_url": "images/items/725.gif"
     },
     {
       "item_id": 913,
       "name": "蝙蝠牙",
       "rate": 15.0,
-      "icon_url": "/images/items/913.gif"
+      "icon_url": "images/items/913.gif"
     },
     {
       "item_id": 984,
       "name": "神之金屬",
       "rate": 0.3,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 4069,
       "name": "紅蝙蝠卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7006,
       "name": "紅色蝙蝠翅膀",
       "rate": 27.5,
-      "icon_url": "/images/items/7006.gif"
+      "icon_url": "images/items/7006.gif"
     },
     {
       "item_id": 7937,
       "name": "毒草透骨草",
       "rate": 0.1,
-      "icon_url": "/images/items/7937.gif"
+      "icon_url": "images/items/7937.gif"
     },
     {
       "item_id": 25235,
       "name": "附魔原石",
       "rate": 0.1,
-      "icon_url": "/images/items/25235.gif"
+      "icon_url": "images/items/25235.gif"
     }
   ]
 }

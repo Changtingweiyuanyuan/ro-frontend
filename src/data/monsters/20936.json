@@ -4,7 +4,7 @@
     "zh_tw": "偽裝者",
     "en": "DISGUISER"
   },
-  "image_url": "/images/monsters/20936.gif",
+  "image_url": "images/monsters/20936.gif",
   "basic_info": {
     "level": 254,
     "race": "惡魔",
@@ -49,49 +49,49 @@
       "item_id": 6247,
       "name": "白色粉末",
       "rate": 0.5,
-      "icon_url": "/images/items/6247.gif"
+      "icon_url": "images/items/6247.gif"
     },
     {
       "item_id": 7216,
       "name": "紅色圍巾",
       "rate": 25.0,
-      "icon_url": "/images/items/7216.gif"
+      "icon_url": "images/items/7216.gif"
     },
     {
       "item_id": 7221,
       "name": "糾纏鐵鍊",
       "rate": 18.0,
-      "icon_url": "/images/items/7221.gif"
+      "icon_url": "images/items/7221.gif"
     },
     {
       "item_id": 25728,
       "name": "影子神祕原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25728.gif"
+      "icon_url": "images/items/25728.gif"
     },
     {
       "item_id": 25729,
       "name": "影子神祕金屬",
       "rate": 0.25,
-      "icon_url": "/images/items/25729.gif"
+      "icon_url": "images/items/25729.gif"
     },
     {
       "item_id": 25730,
       "name": "鍺金原石",
       "rate": 1.5,
-      "icon_url": "/images/items/25730.gif"
+      "icon_url": "images/items/25730.gif"
     },
     {
       "item_id": 25731,
       "name": "鍺金石",
       "rate": 0.25,
-      "icon_url": "/images/items/25731.gif"
+      "icon_url": "images/items/25731.gif"
     },
     {
       "item_id": 300244,
       "name": "Disguiser Card",
       "rate": 0.01,
-      "icon_url": "/images/items/300244.gif"
+      "icon_url": "images/items/300244.gif"
     }
   ]
 }

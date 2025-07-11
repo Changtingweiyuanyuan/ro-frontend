@@ -4,7 +4,7 @@
     "zh_tw": "堅硬爆炎蝙蝠",
     "en": "EXPLOSION_H"
   },
-  "image_url": "/images/monsters/20376.gif",
+  "image_url": "images/monsters/20376.gif",
   "basic_info": {
     "level": 171,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 7006,
       "name": "紅色蝙蝠翅膀",
       "rate": 13.25,
-      "icon_url": "/images/items/7006.gif"
+      "icon_url": "images/items/7006.gif"
     },
     {
       "item_id": 7097,
       "name": "燃燒的心臟",
       "rate": 5.5,
-      "icon_url": "/images/items/7097.gif"
+      "icon_url": "images/items/7097.gif"
     },
     {
       "item_id": 7122,
       "name": "炙熱的毛",
       "rate": 7.5,
-      "icon_url": "/images/items/7122.gif"
+      "icon_url": "images/items/7122.gif"
     },
     {
       "item_id": 22201,
       "name": "熔岩獸皮涼鞋[1]",
       "rate": 0.5,
-      "icon_url": "/images/items/22201.gif"
+      "icon_url": "images/items/22201.gif"
     },
     {
       "item_id": 23815,
       "name": "熔岩精華",
       "rate": 0.05,
-      "icon_url": "/images/items/23815.gif"
+      "icon_url": "images/items/23815.gif"
     },
     {
       "item_id": 25728,
       "name": "影子神祕原石",
       "rate": 0.8,
-      "icon_url": "/images/items/25728.gif"
+      "icon_url": "images/items/25728.gif"
     },
     {
       "item_id": 25730,
       "name": "鍺金原石",
       "rate": 0.8,
-      "icon_url": "/images/items/25730.gif"
+      "icon_url": "images/items/25730.gif"
     },
     {
       "item_id": 27349,
       "name": "堅硬爆炎蝙蝠卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27349.gif"
+      "icon_url": "images/items/27349.gif"
     }
   ]
 }

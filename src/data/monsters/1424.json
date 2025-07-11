@@ -4,7 +4,7 @@
     "zh_tw": "黑蛇",
     "en": "G_SIDE_WINDER"
   },
-  "image_url": "/images/monsters/1424.gif",
+  "image_url": "images/monsters/1424.gif",
   "basic_info": {
     "level": 70,
     "race": "動物",

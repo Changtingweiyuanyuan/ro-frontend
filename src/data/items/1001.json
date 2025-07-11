@@ -4,7 +4,7 @@
     "zh_tw": "星星的粉末",
     "en": "Sparkling_Dust"
   },
-  "icon_url": "/images/items/1001.gif",
+  "icon_url": "images/items/1001.gif",
   "category": "其他類",
   "description": {
     "official": "星星的一角，提煉之後可以製造星星的碎片。",

@@ -4,7 +4,7 @@
     "zh_tw": "魔神的門徒 阿哈特",
     "en": "MM_GB_MOROCC_1"
   },
-  "image_url": "/images/monsters/3105.gif",
+  "image_url": "images/monsters/3105.gif",
   "basic_info": {
     "level": 149,
     "race": "天使",
@@ -49,7 +49,7 @@
       "item_id": 27322,
       "name": "Demon God's Apostle Ahat Card",
       "rate": 0.01,
-      "icon_url": "/images/items/27322.gif"
+      "icon_url": "images/items/27322.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "E-EA1L",
     "en": "MD_E_EA1L"
   },
-  "image_url": "/images/monsters/20341.gif",
+  "image_url": "images/monsters/20341.gif",
   "basic_info": {
     "level": 116,
     "race": "無形",
@@ -49,25 +49,25 @@
       "item_id": 975,
       "name": "紅色染料",
       "rate": 0.3,
-      "icon_url": "/images/items/975.gif"
+      "icon_url": "images/items/975.gif"
     },
     {
       "item_id": 7213,
       "name": "繡針包",
       "rate": 12.5,
-      "icon_url": "/images/items/7213.gif"
+      "icon_url": "images/items/7213.gif"
     },
     {
       "item_id": 25669,
       "name": "神祕零件",
       "rate": 0.1,
-      "icon_url": "/images/items/25669.gif"
+      "icon_url": "images/items/25669.gif"
     },
     {
       "item_id": 27320,
       "name": "E-EA1L卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27320.gif"
+      "icon_url": "images/items/27320.gif"
     }
   ]
 }

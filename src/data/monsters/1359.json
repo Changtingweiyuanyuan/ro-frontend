@@ -4,7 +4,7 @@
     "zh_tw": "寶物箱子",
     "en": "TREASURE_BOX36"
   },
-  "image_url": "/images/monsters/1359.gif",
+  "image_url": "images/monsters/1359.gif",
   "basic_info": {
     "level": 99,
     "race": "無形",
@@ -49,49 +49,49 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 50.0,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 607,
       "name": "天地樹果實",
       "rate": 25.0,
-      "icon_url": "/images/items/607.gif"
+      "icon_url": "images/items/607.gif"
     },
     {
       "item_id": 616,
       "name": "老舊收集冊",
       "rate": 2.5,
-      "icon_url": "/images/items/616.gif"
+      "icon_url": "images/items/616.gif"
     },
     {
       "item_id": 658,
       "name": "組織的團結力",
       "rate": 2.5,
-      "icon_url": "/images/items/658.gif"
+      "icon_url": "images/items/658.gif"
     },
     {
       "item_id": 12106,
       "name": "寶石盒",
       "rate": 0.2,
-      "icon_url": "/images/items/12106.gif"
+      "icon_url": "images/items/12106.gif"
     },
     {
       "item_id": 12623,
       "name": "高級武器箱子",
       "rate": 0.2,
-      "icon_url": "/images/items/12623.gif"
+      "icon_url": "images/items/12623.gif"
     },
     {
       "item_id": 12674,
       "name": "神級材料寶箱",
       "rate": 0.05,
-      "icon_url": "/images/items/12674.gif"
+      "icon_url": "images/items/12674.gif"
     },
     {
       "item_id": 12675,
       "name": "城戰武器補給箱",
       "rate": 0.05,
-      "icon_url": "/images/items/12675.gif"
+      "icon_url": "images/items/12675.gif"
     }
   ]
 }

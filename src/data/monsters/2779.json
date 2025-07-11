@@ -4,7 +4,7 @@
     "zh_tw": "精英雷斯 / 迅捷雷斯",
     "en": "C1_LES"
   },
-  "image_url": "/images/monsters/2779.gif",
+  "image_url": "images/monsters/2779.gif",
   "basic_info": {
     "level": 82,
     "race": "植物",
@@ -49,49 +49,49 @@
       "item_id": 510,
       "name": "藍色藥草",
       "rate": 1.25,
-      "icon_url": "/images/items/510.gif"
+      "icon_url": "images/items/510.gif"
     },
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 25.0,
-      "icon_url": "/images/items/511.gif"
+      "icon_url": "images/items/511.gif"
     },
     {
       "item_id": 521,
       "name": "蘆薈葉子",
       "rate": 12.5,
-      "icon_url": "/images/items/521.gif"
+      "icon_url": "images/items/521.gif"
     },
     {
       "item_id": 711,
       "name": "芽苗",
       "rate": 25.0,
-      "icon_url": "/images/items/711.gif"
+      "icon_url": "images/items/711.gif"
     },
     {
       "item_id": 905,
       "name": "植物梗",
       "rate": 62.5,
-      "icon_url": "/images/items/905.gif"
+      "icon_url": "images/items/905.gif"
     },
     {
       "item_id": 2270,
       "name": "草葉",
       "rate": 0.05,
-      "icon_url": "/images/items/2270.gif"
+      "icon_url": "images/items/2270.gif"
     },
     {
       "item_id": 7100,
       "name": "尖銳的葉子",
       "rate": 50.0,
-      "icon_url": "/images/items/7100.gif"
+      "icon_url": "images/items/7100.gif"
     },
     {
       "item_id": 27158,
       "name": "雷斯卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/27158.gif"
+      "icon_url": "images/items/27158.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "精英岩石龜 / 雄壯岩石龜",
     "en": "C2_SOLIDER"
   },
-  "image_url": "/images/monsters/2647.gif",
+  "image_url": "images/monsters/2647.gif",
   "basic_info": {
     "level": 92,
     "race": "動物",
@@ -49,49 +49,49 @@
       "item_id": 508,
       "name": "黃色藥草",
       "rate": 52.5,
-      "icon_url": "/images/items/508.gif"
+      "icon_url": "images/items/508.gif"
     },
     {
       "item_id": 518,
       "name": "蜂蜜",
       "rate": 21.25,
-      "icon_url": "/images/items/518.gif"
+      "icon_url": "images/items/518.gif"
     },
     {
       "item_id": 967,
       "name": "烏龜外殼",
       "rate": 100.0,
-      "icon_url": "/images/items/967.gif"
+      "icon_url": "images/items/967.gif"
     },
     {
       "item_id": 4220,
       "name": "岩石龜卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7067,
       "name": "石頭一角",
       "rate": 21.25,
-      "icon_url": "/images/items/7067.gif"
+      "icon_url": "images/items/7067.gif"
     },
     {
       "item_id": 7070,
       "name": "破裂的硬殼",
       "rate": 1.6,
-      "icon_url": "/images/items/7070.gif"
+      "icon_url": "images/items/7070.gif"
     },
     {
       "item_id": 16040,
       "name": "緋紅色鐵鎚[2]",
       "rate": 2.5,
-      "icon_url": "/images/items/16040.gif"
+      "icon_url": "images/items/16040.gif"
     },
     {
       "item_id": 22083,
       "name": "喵族專屬靴子[1]",
       "rate": 1.0,
-      "icon_url": "/images/items/22083.gif"
+      "icon_url": "images/items/22083.gif"
     }
   ]
 }

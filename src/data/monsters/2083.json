@@ -4,7 +4,7 @@
     "zh_tw": "獨角甲蟲",
     "en": "HORN_SCARABA"
   },
-  "image_url": "/images/monsters/2083.gif",
+  "image_url": "images/monsters/2083.gif",
   "basic_info": {
     "level": 130,
     "race": "昆蟲",
@@ -49,43 +49,43 @@
       "item_id": 993,
       "name": "地靈礦石",
       "rate": 0.5,
-      "icon_url": "/images/items/993.gif"
+      "icon_url": "images/items/993.gif"
     },
     {
       "item_id": 1433,
       "name": "帝國長矛[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/1433.gif"
+      "icon_url": "images/items/1433.gif"
     },
     {
       "item_id": 4505,
       "name": "甲蟲卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6324,
       "name": "獨角帽子",
       "rate": 32.5,
-      "icon_url": "/images/items/6324.gif"
+      "icon_url": "images/items/6324.gif"
     },
     {
       "item_id": 7939,
       "name": "年老的樹枝",
       "rate": 0.5,
-      "icon_url": "/images/items/7939.gif"
+      "icon_url": "images/items/7939.gif"
     },
     {
       "item_id": 12735,
       "name": "古代符文原石",
       "rate": 0.05,
-      "icon_url": "/images/items/12735.gif"
+      "icon_url": "images/items/12735.gif"
     },
     {
       "item_id": 15129,
       "name": "喵族高級外套[1]",
       "rate": 0.2,
-      "icon_url": "/images/items/15129.gif"
+      "icon_url": "images/items/15129.gif"
     }
   ]
 }

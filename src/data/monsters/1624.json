@@ -4,7 +4,7 @@
     "zh_tw": "廢鐵暖爐",
     "en": "G_WASTE_STOVE"
   },
-  "image_url": "/images/monsters/1624.gif",
+  "image_url": "images/monsters/1624.gif",
   "basic_info": {
     "level": 92,
     "race": "無形",

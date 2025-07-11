@@ -196,7 +196,7 @@ const officialDescriptionLines = computed(() => {
                 </div>
 
                 <div class="dropped-by-section" v-if="itemsDatabase[drop.item_id].dropped_by.length > 1">
-                    <h5>其他掉落來源</h5>
+                    <div class="monster-drop-title">其他掉落來源</div>
                     <div class="monster-drop-list">
                         <template v-for="mob in itemsDatabase[drop.item_id].dropped_by" :key="mob.monster_id">
                             <div v-if="mob.monster_id != monster.id && releasedMonsters && releasedMonsters[mob.monster_id]?.released" class="monster-drop-item">
@@ -219,20 +219,18 @@ const officialDescriptionLines = computed(() => {
 
 <style scoped lang="scss">
 .monster-card-new {
-  width: 280px;
-  background-color: #F7F2EB;
+  width: 260px;
+  background-color: #F9E7D0;
   border-radius: 8px;
-  border: 1px solid #DCD3C9;
-  padding: 16px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 18px;
+  box-shadow: 2px 2px 1px #000;
   display: flex;
   flex-direction: column;
-  color: #6D635A;
+  color: #594a41;
   transition: all 0.2s ease-in-out;
-  font-family: 'Noto Sans TC', sans-serif;
 
   &:hover {
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 6px 16px rgba(178, 26, 26, 0.08);
     border-color: #c8bfae;
   }
 }
@@ -240,72 +238,95 @@ const officialDescriptionLines = computed(() => {
 .card-top {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 12px;
+	align-items: flex-start;
+  margin-bottom: 8px;
 }
 
 .map-icon-container {
   position: relative;
-  display: flex;
-  align-items: center;
+	color: #8c7f76;
   cursor: help;
 
+	&:hover {
+    color: #3d2d1b;
+
+		.spawn-tooltip {
+			visibility: visible;
+			opacity: 1;
+			transform: translate(0, -12px);
+		}
+		.spawn-tooltip-empty {
+			visibility: visible;
+			opacity: 1;
+		}
+	}
+
   .map-icon {
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
+		filter: drop-shadow(2px 2px 0px #000);
+
+		&:hover + .location-icon {
+			opacity: 1;
+			transform: translate(-23.5px, -12px);
+		}
   }
   .location-icon {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 16px;
-    height: 16px;
-    opacity: 0.8;
-  }
-
-  .spawn-tooltip, .spawn-tooltip-empty {
-    visibility: hidden;
+    width: 20px;
+    height: 20px;
     opacity: 0;
-    position: absolute;
-    bottom: 120%;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #4a423a;
-    color: #fff;
-    padding: 8px 12px;
-    border-radius: 6px;
-    font-size: 0.8rem;
-    white-space: nowrap;
-    z-index: 10;
-    transition: opacity 0.2s, visibility 0.2s;
-    pointer-events: none;
+    transform: translate(-23.5px, -23px);
+		transition: opacity 0.2s ease, transform 0.2s ease;
+  }
 
-    &::after {
-      content: '';
-      position: absolute;
-      top: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      border-width: 5px;
-      border-style: solid;
-      border-color: #4a423a transparent transparent transparent;
-    }
-  }
-  
-  &:hover .spawn-tooltip, &:hover .spawn-tooltip-empty {
-    visibility: visible;
-    opacity: 1;
-  }
+	.spawn-tooltip {
+		visibility: hidden;
+		opacity: 0;
+		position: absolute;
+		background-color: #363636;
+		color: #fff;
+		border: 1.5px solid #B5A093;
+		padding: 8px 12px;
+		border-radius: 4px;
+		z-index: 10;
+		width: max-content;
+		max-width: 250px;
+		top: calc(100% - 32px);
+		left: calc(100% + 8px);
+		transform: translate(0, -80px);
+		pointer-events: none;
+		transition: opacity 0.2s ease, transform 0.2s ease;
+
+		&-empty {
+			visibility: hidden;
+			opacity: 0;
+			position: absolute;
+			top: 0;
+			left: calc(100% + 8px);
+			font-size: 12px;
+			font-weight: 500;
+			color: #B62B14;
+			word-break: keep-all;
+			transition: opacity 0.2s ease;
+		}
+	}
+
+	.tooltip-item {
+		font-size: 13px;
+		text-align: left;
+	}
 }
 
 .attributes {
   display: flex;
   gap: 8px;
-  font-size: 0.75rem;
   
   span {
-    background-color: #e8e3dc;
+		background-color: #dcd6b8;
+		font-size: 12px;
+		font-weight: 500;
+		line-height: 18px;
     padding: 2px 6px;
     border-radius: 4px;
   }
@@ -315,34 +336,33 @@ const officialDescriptionLines = computed(() => {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 
 .monster-image-large {
   width: 80px;
   height: 80px;
   object-fit: contain;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
 .monster-name-primary {
-  font-size: 1.5rem;
+  font-size: 20px;
   font-weight: bold;
-  color: #4a423a;
+  color: #2A1F18;
 }
 
 .monster-name-secondary {
-  font-size: 0.9rem;
-  color: #B2A99F;
+  font-size: 14px;
+  color: #8c7f76;
 }
 
 .stats-list {
   display: flex;
   flex-direction: column;
-  gap: 6px;
-  padding: 12px 0;
-  border-top: 1px solid #e8e3dc;
-  border-bottom: 1px solid #e8e3dc;
+  gap: 4px;
+  padding: 12px 4px;
+  border-bottom: 1.5px solid #dcd6b8;
   margin-bottom: 12px;
 }
 
@@ -353,23 +373,18 @@ const officialDescriptionLines = computed(() => {
 }
 
 .stat-label {
-  color: #8a7e72;
+  color: #8c7f76;
 }
 
 .stat-value {
-  font-weight: 500;
-  color: #5c5248;
+  font-weight: 600;
+  color: #3d2d1b;
 }
 
-.drops-list {
+.drops-list, .drops-list-placeholder {
   display: flex;
   flex-direction: column;
-  gap: 4px;
-  flex-grow: 1;
-}
-
-.drops-list-placeholder {
-  min-height: 100px; 
+  gap: 2px;
   flex-grow: 1;
 }
 
@@ -379,13 +394,27 @@ const officialDescriptionLines = computed(() => {
   align-items: center;
   gap: 8px;
   padding: 4px;
-  border-radius: 4px;
+  border-radius: 2px;
+	border: 1px solid transparent;
   transition: background-color 0.2s;
 
   &.clickable {
     cursor: pointer;
+
+		&:has(+ .item-details-panel) {
+			//background-color: #dcd6b8;
+			background-color: #f9f1c5;
+			border: 1px solid #5e6908;
+
+			&:hover {
+				//background-color: #dcd6b8;
+				background-color: #f9f1c5;
+			}
+		}
+
     &:hover {
-      background-color: #e8e3dc;
+      background-color: #dcd6b8;
+      //background-color: #dcd6b850;
     }
   }
 }
@@ -397,61 +426,63 @@ const officialDescriptionLines = computed(() => {
 
 .drop-name {
   flex-grow: 1;
-  font-size: 0.9rem;
+  font-size: 14px;
+	font-weight: 500;
 }
 
 .drop-rate {
-  font-size: 0.9rem;
-  color: #8a7e72;
-  font-weight: 500;
+  font-size: 14px;
+  color: #3d2d1b;
+  font-weight: 600;
   min-width: 50px;
   text-align: right;
 }
 
 .item-details-panel {
-  padding: 12px 16px;
-  background-color: #e8e3dc;
-  border-top: 1px solid #dcd3c9;
+  padding: 12px;
+  background-color: #dcd6b850;
+  border-top: 1px solid #5e6908;
   color: #5c5248;
   font-size: 0.9rem;
-  margin: 4px -4px -4px -4px;
+  margin: 4px -4px 0 -4px;
   border-radius: 0 0 4px 4px;
+}
+
+.details-content {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
 }
 
 .details-basic-info {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 12px;
   color: #8a7e72;
-  font-size: 0.85rem;
+  font-size: 12px;
 }
 
 .effects-section {
   border-top: 1px dashed #c8bfae;
-  padding-top: 10px;
+  padding-top: 12px;
 }
 
 .effect-item {
-  color: #3b6b8b;
-  margin-bottom: 6px;
+  color: #246993;
   font-weight: 500;
-  line-height: 1.5;
+	font-size: 14px;
+  line-height: 18px;
 }
 
 .dropped-by-section {
   border-top: 1px dashed #c8bfae;
-  padding-top: 10px;
-  margin-top: 12px;
+  padding-top: 12px;
+	font-size: 14px;
 }
 
-.dropped-by-section h5 {
-  margin: 0 0 8px 0;
+.monster-drop-title {
+  margin-bottom: 4px;
   font-weight: bold;
   color: #6d635a;
-}
-
-.monster-drop-list {
-  font-size: 0.9rem;
 }
 
 .monster-drop-item {

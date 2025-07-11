@@ -4,7 +4,7 @@
     "zh_tw": "吉芬流氓",
     "en": "GEFFEN_MAGE_3_3"
   },
-  "image_url": "/images/monsters/2553.gif",
+  "image_url": "images/monsters/2553.gif",
   "basic_info": {
     "level": 100,
     "race": "人形",
@@ -49,7 +49,7 @@
       "item_id": 27251,
       "name": "吉芬流氓卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27251.gif"
+      "icon_url": "images/items/27251.gif"
     }
   ]
 }

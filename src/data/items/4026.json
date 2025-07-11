@@ -4,7 +4,7 @@
     "zh_tw": "浮勒盜蟲卡片",
     "en": "Thief_Bug_Female_Card"
   },
-  "icon_url": "/images/items/4026.gif",
+  "icon_url": "images/items/4026.gif",
   "category": "卡片",
   "description": {
     "official": "AGI+1FLEE+1",

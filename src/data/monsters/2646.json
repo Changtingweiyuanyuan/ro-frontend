@@ -4,7 +4,7 @@
     "zh_tw": "精英魔菇 / 迅捷魔菇",
     "en": "C1_SPORE"
   },
-  "image_url": "/images/monsters/2646.gif",
+  "image_url": "images/monsters/2646.gif",
   "basic_info": {
     "level": 18,
     "race": "植物",
@@ -49,49 +49,49 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 50.0,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 578,
       "name": "草莓",
       "rate": 30.0,
-      "icon_url": "/images/items/578.gif"
+      "icon_url": "images/items/578.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 743,
       "name": "魔菇娃娃",
       "rate": 0.5,
-      "icon_url": "/images/items/743.gif"
+      "icon_url": "images/items/743.gif"
     },
     {
       "item_id": 921,
       "name": "香菇芽孢",
       "rate": 100.0,
-      "icon_url": "/images/items/921.gif"
+      "icon_url": "images/items/921.gif"
     },
     {
       "item_id": 2220,
       "name": "漁夫帽",
       "rate": 1.5,
-      "icon_url": "/images/items/2220.gif"
+      "icon_url": "images/items/2220.gif"
     },
     {
       "item_id": 4022,
       "name": "魔菇卡片",
       "rate": 0.5,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7033,
       "name": "毒魔菇芽孢",
       "rate": 0.5,
-      "icon_url": "/images/items/7033.gif"
+      "icon_url": "images/items/7033.gif"
     }
   ]
 }

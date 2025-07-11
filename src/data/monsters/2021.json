@@ -4,7 +4,7 @@
     "zh_tw": "費爾拉",
     "en": "PHYLLA"
   },
-  "image_url": "/images/monsters/2021.gif",
+  "image_url": "images/monsters/2021.gif",
   "basic_info": {
     "level": 139,
     "race": "無形",
@@ -54,25 +54,25 @@
       "item_id": 971,
       "name": "帝特立米藥水",
       "rate": 0.03,
-      "icon_url": "/images/items/971.gif"
+      "icon_url": "images/items/971.gif"
     },
     {
       "item_id": 4461,
       "name": "費爾拉卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6088,
       "name": "紅色精靈結晶",
       "rate": 2.5,
-      "icon_url": "/images/items/6088.gif"
+      "icon_url": "images/items/6088.gif"
     },
     {
       "item_id": 7326,
       "name": "熒光色的液體",
       "rate": 25.0,
-      "icon_url": "/images/items/7326.gif"
+      "icon_url": "images/items/7326.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "精英伊西拉 / 菁英伊西拉",
     "en": "C3_ISILLA"
   },
-  "image_url": "/images/monsters/2791.gif",
+  "image_url": "images/monsters/2791.gif",
   "basic_info": {
     "level": 124,
     "race": "人形",
@@ -49,49 +49,49 @@
       "item_id": 2422,
       "name": "高級涼鞋[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2422.gif"
+      "icon_url": "images/items/2422.gif"
     },
     {
       "item_id": 2601,
       "name": "力量戒指",
       "rate": 0.05,
-      "icon_url": "/images/items/2601.gif"
+      "icon_url": "images/items/2601.gif"
     },
     {
       "item_id": 2610,
       "name": "金戒指",
       "rate": 0.25,
-      "icon_url": "/images/items/2610.gif"
+      "icon_url": "images/items/2610.gif"
     },
     {
       "item_id": 2883,
       "name": "烏魯茲符文印記[1]",
       "rate": 0.25,
-      "icon_url": "/images/items/2883.gif"
+      "icon_url": "images/items/2883.gif"
     },
     {
       "item_id": 4412,
       "name": "依斯拉卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7563,
       "name": "血色的輪",
       "rate": 25.0,
-      "icon_url": "/images/items/7563.gif"
+      "icon_url": "images/items/7563.gif"
     },
     {
       "item_id": 7563,
       "name": "血色的輪",
       "rate": 2.5,
-      "icon_url": "/images/items/7563.gif"
+      "icon_url": "images/items/7563.gif"
     },
     {
       "item_id": 7568,
       "name": "白色面具",
       "rate": 62.5,
-      "icon_url": "/images/items/7568.gif"
+      "icon_url": "images/items/7568.gif"
     }
   ]
 }

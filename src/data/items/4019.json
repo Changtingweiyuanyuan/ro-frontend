@@ -4,7 +4,7 @@
     "zh_tw": "蜂兵卡片",
     "en": "Hornet_Card"
   },
-  "icon_url": "/images/items/4019.gif",
+  "icon_url": "images/items/4019.gif",
   "category": "卡片",
   "description": {
     "official": "STR+1ATK+3",

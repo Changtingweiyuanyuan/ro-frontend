@@ -4,7 +4,7 @@
     "zh_tw": "刺刀哥布靈",
     "en": "GOBLIN_1"
   },
-  "image_url": "/images/monsters/1122.gif",
+  "image_url": "images/monsters/1122.gif",
   "basic_info": {
     "level": 48,
     "race": "人形",
@@ -59,49 +59,49 @@
       "item_id": 507,
       "name": "紅色藥草",
       "rate": 9.0,
-      "icon_url": "/images/items/507.gif"
+      "icon_url": "images/items/507.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 0.22,
-      "icon_url": "/images/items/756.gif"
+      "icon_url": "images/items/756.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 45.0,
-      "icon_url": "/images/items/911.gif"
+      "icon_url": "images/items/911.gif"
     },
     {
       "item_id": 1211,
       "name": "德克短劍[3]",
       "rate": 0.05,
-      "icon_url": "/images/items/1211.gif"
+      "icon_url": "images/items/1211.gif"
     },
     {
       "item_id": 2104,
       "name": "圓盾[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2104.gif"
+      "icon_url": "images/items/2104.gif"
     },
     {
       "item_id": 2297,
       "name": "哥布靈面具",
       "rate": 0.02,
-      "icon_url": "/images/items/2297.gif"
+      "icon_url": "images/items/2297.gif"
     },
     {
       "item_id": 4060,
       "name": "哥布靈卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "zh_tw": "暗●神官",
     "en": "MAGALETA"
   },
-  "image_url": "/images/monsters/1637.gif",
+  "image_url": "images/monsters/1637.gif",
   "basic_info": {
     "level": 140,
     "race": "人形",
@@ -59,49 +59,49 @@
       "item_id": 1561,
       "name": "精裝之書[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/1561.gif"
+      "icon_url": "images/items/1561.gif"
     },
     {
       "item_id": 1647,
       "name": "紅十字杖[1]",
       "rate": 2.0,
-      "icon_url": "/images/items/1647.gif"
+      "icon_url": "images/items/1647.gif"
     },
     {
       "item_id": 1659,
       "name": "痊癒光輝[1]",
       "rate": 0.1,
-      "icon_url": "/images/items/1659.gif"
+      "icon_url": "images/items/1659.gif"
     },
     {
       "item_id": 2162,
       "name": "誓約之書(第二卷)[1]",
       "rate": 0.05,
-      "icon_url": "/images/items/2162.gif"
+      "icon_url": "images/items/2162.gif"
     },
     {
       "item_id": 4364,
       "name": "暗●神官卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6469,
       "name": "勇士的意志",
       "rate": 2.0,
-      "icon_url": "/images/items/6469.gif"
+      "icon_url": "images/items/6469.gif"
     },
     {
       "item_id": 6471,
       "name": "亡者的寒氣",
       "rate": 0.01,
-      "icon_url": "/images/items/6471.gif"
+      "icon_url": "images/items/6471.gif"
     },
     {
       "item_id": 7347,
       "name": "研究員紀錄表",
       "rate": 10.0,
-      "icon_url": "/images/items/7347.gif"
+      "icon_url": "images/items/7347.gif"
     }
   ]
 }

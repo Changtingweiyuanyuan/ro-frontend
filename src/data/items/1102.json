@@ -4,7 +4,7 @@
     "zh_tw": "長劍",
     "en": "Sword_"
   },
-  "icon_url": "/images/items/1102.gif",
+  "icon_url": "images/items/1102.gif",
   "category": "武器",
   "description": {
     "official": "看起來任何人都可使用的劍，但服事不能使用。",

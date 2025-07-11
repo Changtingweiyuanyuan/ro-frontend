@@ -4,7 +4,7 @@
     "zh_tw": "風魔巫師",
     "en": "WIND_GHOST"
   },
-  "image_url": "/images/monsters/1263.gif",
+  "image_url": "images/monsters/1263.gif",
   "basic_info": {
     "level": 80,
     "race": "惡魔",
@@ -69,49 +69,49 @@
       "item_id": 693,
       "name": "雷擊術 等級5",
       "rate": 0.5,
-      "icon_url": "/images/items/693.gif"
+      "icon_url": "images/items/693.gif"
     },
     {
       "item_id": 912,
       "name": "剎勒空結晶",
       "rate": 22.8,
-      "icon_url": "/images/items/912.gif"
+      "icon_url": "images/items/912.gif"
     },
     {
       "item_id": 932,
       "name": "死人遺骨",
       "rate": 30.0,
-      "icon_url": "/images/items/932.gif"
+      "icon_url": "images/items/932.gif"
     },
     {
       "item_id": 996,
       "name": "風靈原石",
       "rate": 0.5,
-      "icon_url": "/images/items/996.gif"
+      "icon_url": "images/items/996.gif"
     },
     {
       "item_id": 1611,
       "name": "言靈魔杖[2]",
       "rate": 0.04,
-      "icon_url": "/images/items/1611.gif"
+      "icon_url": "images/items/1611.gif"
     },
     {
       "item_id": 1615,
       "name": "骷髏魔杖",
       "rate": 0.01,
-      "icon_url": "/images/items/1615.gif"
+      "icon_url": "images/items/1615.gif"
     },
     {
       "item_id": 4264,
       "name": "風魔巫師卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 7005,
       "name": "骷髏頭",
       "rate": 2.5,
-      "icon_url": "/images/items/7005.gif"
+      "icon_url": "images/items/7005.gif"
     }
   ]
 }

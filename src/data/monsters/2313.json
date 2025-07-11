@@ -4,7 +4,7 @@
     "zh_tw": "邪魔馬",
     "en": "TIKBALANG"
   },
-  "image_url": "/images/monsters/2313.gif",
+  "image_url": "images/monsters/2313.gif",
   "basic_info": {
     "level": 115,
     "race": "動物",
@@ -49,25 +49,25 @@
       "item_id": 984,
       "name": "神之金屬",
       "rate": 0.1,
-      "icon_url": "/images/items/984.gif"
+      "icon_url": "images/items/984.gif"
     },
     {
       "item_id": 4586,
       "name": "邪魔馬卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6496,
       "name": "邪魔馬的厚脊椎骨",
       "rate": 5.0,
-      "icon_url": "/images/items/6496.gif"
+      "icon_url": "images/items/6496.gif"
     },
     {
       "item_id": 12700,
       "name": "反穿的襯衫",
       "rate": 1.0,
-      "icon_url": "/images/items/12700.gif"
+      "icon_url": "images/items/12700.gif"
     }
   ]
 }

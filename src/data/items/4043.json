@@ -4,7 +4,7 @@
     "zh_tw": "白蟻卡片",
     "en": "Andre_Card"
   },
-  "icon_url": "/images/items/4043.gif",
+  "icon_url": "images/items/4043.gif",
   "category": "卡片",
   "description": {
     "official": "ATK+20",

@@ -4,7 +4,7 @@
     "zh_tw": "暴焰野熊",
     "en": "GRIZZLY"
   },
-  "image_url": "/images/monsters/1381.gif",
+  "image_url": "images/monsters/1381.gif",
   "basic_info": {
     "level": 66,
     "race": "動物",
@@ -59,31 +59,31 @@
       "item_id": 549,
       "name": "美味番薯",
       "rate": 12.5,
-      "icon_url": "/images/items/549.gif"
+      "icon_url": "images/items/549.gif"
     },
     {
       "item_id": 919,
       "name": "動物外皮",
       "rate": 25.0,
-      "icon_url": "/images/items/919.gif"
+      "icon_url": "images/items/919.gif"
     },
     {
       "item_id": 948,
       "name": "熊掌",
       "rate": 25.0,
-      "icon_url": "/images/items/948.gif"
+      "icon_url": "images/items/948.gif"
     },
     {
       "item_id": 2353,
       "name": "奧丁的祝福[1]",
       "rate": 0.1,
-      "icon_url": "/images/items/2353.gif"
+      "icon_url": "images/items/2353.gif"
     },
     {
       "item_id": 4162,
       "name": "暴焰野熊卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

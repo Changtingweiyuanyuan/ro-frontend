@@ -4,7 +4,7 @@
     "zh_tw": "精英吃人草 / 狡猾吃人草",
     "en": "C5_MUSCIPULAR"
   },
-  "image_url": "/images/monsters/2738.gif",
+  "image_url": "images/monsters/2738.gif",
   "basic_info": {
     "level": 105,
     "race": "植物",
@@ -49,49 +49,49 @@
       "item_id": 629,
       "name": "呢喃花",
       "rate": 0.05,
-      "icon_url": "/images/items/629.gif"
+      "icon_url": "images/items/629.gif"
     },
     {
       "item_id": 631,
       "name": "青嫩毒草",
       "rate": 0.1,
-      "icon_url": "/images/items/631.gif"
+      "icon_url": "images/items/631.gif"
     },
     {
       "item_id": 905,
       "name": "植物梗",
       "rate": 25.0,
-      "icon_url": "/images/items/905.gif"
+      "icon_url": "images/items/905.gif"
     },
     {
       "item_id": 1032,
       "name": "噬人樹花",
       "rate": 75.0,
-      "icon_url": "/images/items/1032.gif"
+      "icon_url": "images/items/1032.gif"
     },
     {
       "item_id": 1033,
       "name": "噬人樹根",
       "rate": 50.0,
-      "icon_url": "/images/items/1033.gif"
+      "icon_url": "images/items/1033.gif"
     },
     {
       "item_id": 4420,
       "name": "邪惡噬人花卡片",
       "rate": 0.05,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 6217,
       "name": "曼陀羅魔花花盆",
       "rate": 10.0,
-      "icon_url": "/images/items/6217.gif"
+      "icon_url": "images/items/6217.gif"
     },
     {
       "item_id": 7565,
       "name": "黏黏的毒液",
       "rate": 75.0,
-      "icon_url": "/images/items/7565.gif"
+      "icon_url": "images/items/7565.gif"
     }
   ]
 }

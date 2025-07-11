@@ -4,7 +4,7 @@
     "zh_tw": "曼陀羅魔花卡片",
     "en": "Mandragora_Card"
   },
-  "icon_url": "/images/items/4030.gif",
+  "icon_url": "images/items/4030.gif",
   "category": "卡片",
   "description": {
     "official": "對風屬性魔物增加20%的傷害。",

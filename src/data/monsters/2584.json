@@ -4,7 +4,7 @@
     "zh_tw": "礦石魔",
     "en": "G_MINERAL"
   },
-  "image_url": "/images/monsters/2584.gif",
+  "image_url": "images/monsters/2584.gif",
   "basic_info": {
     "level": 96,
     "race": "無形",

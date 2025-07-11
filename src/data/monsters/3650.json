@@ -4,7 +4,7 @@
     "zh_tw": "腐屍",
     "en": "MD_ZOMBIE_80"
   },
-  "image_url": "/images/monsters/3650.gif",
+  "image_url": "images/monsters/3650.gif",
   "basic_info": {
     "level": 80,
     "race": "不死",
@@ -49,49 +49,49 @@
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 5.0,
-      "icon_url": "/images/items/601.gif"
+      "icon_url": "images/items/601.gif"
     },
     {
       "item_id": 724,
       "name": "詛咒紅寶石",
       "rate": 0.24,
-      "icon_url": "/images/items/724.gif"
+      "icon_url": "images/items/724.gif"
     },
     {
       "item_id": 727,
       "name": "白寶石",
       "rate": 1.4,
-      "icon_url": "/images/items/727.gif"
+      "icon_url": "images/items/727.gif"
     },
     {
       "item_id": 938,
       "name": "粘稠液體",
       "rate": 10.0,
-      "icon_url": "/images/items/938.gif"
+      "icon_url": "images/items/938.gif"
     },
     {
       "item_id": 957,
       "name": "亡者指甲",
       "rate": 90.0,
-      "icon_url": "/images/items/957.gif"
+      "icon_url": "images/items/957.gif"
     },
     {
       "item_id": 958,
       "name": "亡者牙齒",
       "rate": 10.0,
-      "icon_url": "/images/items/958.gif"
+      "icon_url": "images/items/958.gif"
     },
     {
       "item_id": 4038,
       "name": "腐屍卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     },
     {
       "item_id": 5158,
       "name": "神聖之帽[1]",
       "rate": 0.04,
-      "icon_url": "/images/items/5158.gif"
+      "icon_url": "images/items/5158.gif"
     }
   ]
 }

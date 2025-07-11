@@ -4,7 +4,7 @@
     "zh_tw": "大主教 萊采尼芮",
     "en": "GEFFEN_MAGE_9"
   },
-  "image_url": "/images/monsters/2559.gif",
+  "image_url": "images/monsters/2559.gif",
   "basic_info": {
     "level": 145,
     "race": "人形",
@@ -49,7 +49,7 @@
       "item_id": 27259,
       "name": "萊采尼芮卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/27259.gif"
+      "icon_url": "images/items/27259.gif"
     }
   ]
 }

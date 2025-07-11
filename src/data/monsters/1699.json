@@ -4,7 +4,7 @@
     "zh_tw": "狂暴邪惡箱",
     "en": "ANCIENT_MIMIC"
   },
-  "image_url": "/images/monsters/1699.gif",
+  "image_url": "images/monsters/1699.gif",
   "basic_info": {
     "level": 112,
     "race": "無形",
@@ -109,49 +109,49 @@
       "item_id": 603,
       "name": "神祕箱子",
       "rate": 0.15,
-      "icon_url": "/images/items/603.gif"
+      "icon_url": "images/items/603.gif"
     },
     {
       "item_id": 617,
       "name": "神祕紫箱",
       "rate": 0.01,
-      "icon_url": "/images/items/617.gif"
+      "icon_url": "images/items/617.gif"
     },
     {
       "item_id": 644,
       "name": "禮物箱",
       "rate": 0.25,
-      "icon_url": "/images/items/644.gif"
+      "icon_url": "images/items/644.gif"
     },
     {
       "item_id": 2404,
       "name": "長靴[1]",
       "rate": 0.03,
-      "icon_url": "/images/items/2404.gif"
+      "icon_url": "images/items/2404.gif"
     },
     {
       "item_id": 2417,
       "name": "傅裡哥長靴",
       "rate": 0.05,
-      "icon_url": "/images/items/2417.gif"
+      "icon_url": "images/items/2417.gif"
     },
     {
       "item_id": 2506,
       "name": "斗篷[1]",
       "rate": 0.01,
-      "icon_url": "/images/items/2506.gif"
+      "icon_url": "images/items/2506.gif"
     },
     {
       "item_id": 2610,
       "name": "金戒指",
       "rate": 0.5,
-      "icon_url": "/images/items/2610.gif"
+      "icon_url": "images/items/2610.gif"
     },
     {
       "item_id": 4387,
       "name": "狂暴邪惡箱卡片",
       "rate": 0.01,
-      "icon_url": "/images/items/card.gif"
+      "icon_url": "images/items/card.gif"
     }
   ]
 }

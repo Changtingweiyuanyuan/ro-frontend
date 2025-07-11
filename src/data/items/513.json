@@ -4,7 +4,7 @@
     "zh_tw": "香蕉",
     "en": "Banana"
   },
-  "icon_url": "/images/items/513.gif",
+  "icon_url": "images/items/513.gif",
   "category": "治療/恢復類",
   "description": {
     "official": "香甜好吃的水果，可恢復少量的HP。",
