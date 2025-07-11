@@ -27,7 +27,7 @@
     "defense": 103,
     "magic_defense": 25,
     "hit_100_percent": 427,
-    "flee_95_percent": 0,
+    "flee_95_percent": 423,
     "base_stats": {
       "str": 109,
       "agi": 76,
@@ -37,5 +37,54 @@
       "luk": 30
     }
   },
-  "drops": []
+  "spawns": [
+    {
+      "map_name": "gld2_prt",
+      "description": "- 深淵迴廊 : 戰士之路",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun03_2",
+      "description": "- 普隆德拉-公會地下迷宮 2層",
+      "spawn_info": "13x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 3.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.13,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 999,
+      "name": "鋼鐵",
+      "rate": 0.5,
+      "icon_url": "/images/items/999.gif"
+    },
+    {
+      "item_id": 1034,
+      "name": "犬妖的毛",
+      "rate": 26.68,
+      "icon_url": "/images/items/1034.gif"
+    },
+    {
+      "item_id": 1396,
+      "name": "戰神斬首之斧",
+      "rate": 0.01,
+      "icon_url": "/images/items/1396.gif"
+    },
+    {
+      "item_id": 12679,
+      "name": "城戰白色藥水箱",
+      "rate": 0.02,
+      "icon_url": "/images/items/12679.gif"
+    }
+  ]
 }

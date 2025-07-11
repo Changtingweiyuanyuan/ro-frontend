@@ -1,0 +1,102 @@
+{
+  "id": 578,
+  "name": {
+    "zh_tw": "草莓",
+    "en": "Strawberry"
+  },
+  "icon_url": "/images/items/578.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "酸甜的滋味，深受大家喜愛的紅色果實可以恢復少量的SP",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 200,
+    "sell_price": 100,
+    "weight": 2
+  },
+  "script": "{ itemheal 0,rand(16,28); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2646,
+      "name": "精英魔菇 / 迅捷魔菇",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1014,
+      "name": "魔菇",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3390,
+      "name": "魔菇",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1413,
+      "name": "人參精",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20660,
+      "name": "紅肉食人火龍果",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20649,
+      "name": "紅肉食人火龍果",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": []
+}

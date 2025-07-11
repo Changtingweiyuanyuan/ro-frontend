@@ -27,7 +27,7 @@
     "defense": 84,
     "magic_defense": 73,
     "hit_100_percent": 393,
-    "flee_95_percent": 0,
+    "flee_95_percent": 450,
     "base_stats": {
       "str": 108,
       "agi": 54,
@@ -37,6 +37,28 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abbey02",
+      "description": "- 修道院 F2",
+      "spawn_info": "7x / 5 秒"
+    },
+    {
+      "map_name": "abbey03",
+      "description": "- 修道院 F3",
+      "spawn_info": "60x / 5 秒"
+    },
+    {
+      "map_name": "arug_dun01",
+      "description": "- 公會地下迷宮 (拉赫)",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 609,

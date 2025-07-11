@@ -1,0 +1,80 @@
+{
+  "id": 972,
+  "name": {
+    "zh_tw": "卡勒波迪藥水",
+    "en": "Karvodailnirol"
+  },
+  "icon_url": "/images/items/972.gif",
+  "category": "其他類",
+  "description": {
+    "official": "Karvodailnirol的縮寫。是無法輕易得到的液體，有著無法與水混合的特性，非常的稀少，常常被用來製成混合劑。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 400,
+    "sell_price": 200,
+    "weight": 3
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2688,
+      "name": "精英消防魔 / 菁英消防魔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2705,
+      "name": "精英毒魔菇 / 雄壯毒魔菇",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2528,
+      "name": "驚駭森靈 / 人面蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2371,
+      "name": "頑靈惡童",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1682,
+      "name": "消防魔",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1085,
+      "name": "紅菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1077,
+      "name": "毒魔菇",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2710,
+      "name": "精英 / 雄壯 黑暗捕蟲堇妖",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1855,
+      "name": "毒魔菇",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2015,
+      "name": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2020,
+      "name": "鉤藤",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

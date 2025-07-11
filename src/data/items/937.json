@@ -1,0 +1,70 @@
+{
+  "id": 937,
+  "name": {
+    "zh_tw": "毒牙",
+    "en": "Posionous_Canine"
+  },
+  "icon_url": "/images/items/937.gif",
+  "category": "其他類",
+  "description": {
+    "official": "含有毒液的犬齒，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 148,
+    "sell_price": 74,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2904,
+      "name": "精英毒蛇 / 憤怒毒蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2662,
+      "name": "精英黑蛇 / 雄壯黑蛇",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2663,
+      "name": "精英黑蛇 / 菁英黑蛇",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 1030,
+      "name": "毒蛇",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3398,
+      "name": "毒蛇",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1037,
+      "name": "黑蛇",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 8.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

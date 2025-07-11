@@ -27,7 +27,7 @@
     "defense": 140,
     "magic_defense": 44,
     "hit_100_percent": 488,
-    "flee_95_percent": 0,
+    "flee_95_percent": 555,
     "base_stats": {
       "str": 155,
       "agi": 126,
@@ -37,5 +37,60 @@
       "luk": 76
     }
   },
-  "drops": []
+  "spawns": [
+    {
+      "map_name": "gld2_gef",
+      "description": "- 深淵迴廊 : 亡者之丘",
+      "spawn_info": "80x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun04_2",
+      "description": "- 吉芬-公會地下迷宮 2層",
+      "spawn_info": "45x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 2609,
+      "name": "骷髏戒指",
+      "rate": 5.0,
+      "icon_url": "/images/items/2609.gif"
+    },
+    {
+      "item_id": 2783,
+      "name": "眼珠戒指[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2783.gif"
+    },
+    {
+      "item_id": 6089,
+      "name": "黑暗碎片",
+      "rate": 5.0,
+      "icon_url": "/images/items/6089.gif"
+    },
+    {
+      "item_id": 6224,
+      "name": "魔力之石",
+      "rate": 0.02,
+      "icon_url": "/images/items/6224.gif"
+    },
+    {
+      "item_id": 7205,
+      "name": "黑色布條",
+      "rate": 25.0,
+      "icon_url": "/images/items/7205.gif"
+    },
+    {
+      "item_id": 12676,
+      "name": "城戰紫色藥水箱",
+      "rate": 0.02,
+      "icon_url": "/images/items/12676.gif"
+    },
+    {
+      "item_id": 13038,
+      "name": "追蹤者短劍[3]",
+      "rate": 0.03,
+      "icon_url": "/images/items/13038.gif"
+    }
+  ]
 }

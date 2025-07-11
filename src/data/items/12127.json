@@ -1,0 +1,87 @@
+{
+  "id": 12127,
+  "name": {
+    "zh_tw": "高級的烹飪用具",
+    "en": "High_end_Cooking_Kits"
+  },
+  "icon_url": "/images/items/12127.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "把一些高級料理器具搜集成整組的，感覺能烹飪出更棒的料理來似的。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2000,
+    "sell_price": 1000,
+    "weight": 5
+  },
+  "script": "{ cooking 13; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2625,
+      "name": "精英凡娜圖 / 憤怒凡娜圖",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2622,
+      "name": "精英薇歐莉 / 迅捷薇歐莉",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2621,
+      "name": "精英薇歐莉 / 狡猾薇歐莉",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2623,
+      "name": "精英薇歐莉 / 雄壯薇歐莉",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1676,
+      "name": "褐凡娜圖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1678,
+      "name": "橘凡娜圖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1677,
+      "name": "綠凡娜圖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2746,
+      "name": "精英米雅畢 / 菁英米雅畢",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1390,
+      "name": "薇歐莉",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2768,
+      "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1404,
+      "name": "米雅畢",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1856,
+      "name": "魔鍋蛋",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1138,
+      "name": "魔鍋蛋",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": []
+}

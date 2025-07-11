@@ -1,0 +1,30 @@
+{
+  "id": 10003,
+  "name": {
+    "zh_tw": "潛水帽子",
+    "en": "Transparent_Headgear"
+  },
+  "icon_url": "/images/items/10003.gif",
+  "category": "可愛寵物裝備",
+  "description": {
+    "official": "以魔法的素材所做成圓形頭部保護罩，不同於其它材質，戴上它還可呼吸。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1142,
+      "name": "氣泡蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

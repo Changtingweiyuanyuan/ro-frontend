@@ -1,0 +1,32 @@
+{
+  "id": 2264,
+  "name": {
+    "zh_tw": "殭屍帽",
+    "en": "上中下"
+  },
+  "icon_url": "/images/items/2264.gif",
+  "category": "防具",
+  "description": {
+    "official": "魔物殭屍戴的帽子。帽子上有不知名的符咒以及長辮子。對不死系魔物的損害，10%下降。不可精煉",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 30
+  },
+  "script": "{ bonus2 bSubRace,RC_Undead,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3760,
+      "name": "憤懣殭屍 / 憤恨的殭屍",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

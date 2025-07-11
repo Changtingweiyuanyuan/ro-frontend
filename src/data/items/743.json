@@ -1,0 +1,46 @@
+{
+  "id": 743,
+  "name": {
+    "zh_tw": "魔菇娃娃",
+    "en": "Spore_Doll"
+  },
+  "icon_url": "/images/items/743.gif",
+  "category": "其他類",
+  "description": {
+    "official": "依照棲息在潮溼地區的魔菇外型所製造的玩偶。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 5500,
+    "sell_price": 2750,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2646,
+      "name": "精英魔菇 / 迅捷魔菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3390,
+      "name": "魔菇",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1014,
+      "name": "魔菇",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3501,
+      "name": "變形魔菇",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

@@ -27,7 +27,7 @@
     "defense": 92,
     "magic_defense": 55,
     "hit_100_percent": 479,
-    "flee_95_percent": 0,
+    "flee_95_percent": 417,
     "base_stats": {
       "str": 126,
       "agi": 153,
@@ -37,6 +37,13 @@
       "luk": 84
     }
   },
+  "spawns": [
+    {
+      "map_name": "iz_dun05",
+      "description": "- 依斯魯得海底洞穴 6層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

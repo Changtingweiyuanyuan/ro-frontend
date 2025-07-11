@@ -1,0 +1,75 @@
+{
+  "id": 7006,
+  "name": {
+    "zh_tw": "紅色蝙蝠翅膀",
+    "en": "Wing_Of_Red_Bat"
+  },
+  "icon_url": "/images/items/7006.gif",
+  "category": "其他類",
+  "description": {
+    "official": "紅色蝙蝠的翅膀。可向收集商人購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 168,
+    "sell_price": 84,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2847,
+      "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2837,
+      "name": "精英爆炎蝙蝠 / 憤怒爆炎蝙蝠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3750,
+      "name": "幻影紅蝙蝠",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2766,
+      "name": "精英瑪那能革 / 菁英瑪那能革",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1111,
+      "name": "紅蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3667,
+      "name": "紅蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1383,
+      "name": "爆炎蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3666,
+      "name": "紅蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 20376,
+      "name": "堅硬爆炎蝙蝠",
+      "rate": 13.25
+    },
+    {
+      "monster_id": 2311,
+      "name": "瑪那能革",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

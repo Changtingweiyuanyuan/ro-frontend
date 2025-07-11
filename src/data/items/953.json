@@ -1,0 +1,65 @@
+{
+  "id": 953,
+  "name": {
+    "zh_tw": "石心",
+    "en": "Stone_Heart"
+  },
+  "icon_url": "/images/items/953.gif",
+  "category": "其他類",
+  "description": {
+    "official": "擁有魔力，是讓石頭髮揮力量的原動力之石心臟，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 184,
+    "sell_price": 92,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2882,
+      "name": "精英石錘巨人 / 狡猾鈽鐳巨人",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2812,
+      "name": "精英巨石怪 / 憤怒巨石怪",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1040,
+      "name": "巨石怪",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3405,
+      "name": "巨石怪",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1309,
+      "name": "狂暴鬼火",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 1129,
+      "name": "鬼火",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 2024,
+      "name": "石錘巨人 / 鈽鐳巨人",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1674,
+      "name": "莫內",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

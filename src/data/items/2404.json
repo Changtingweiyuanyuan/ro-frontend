@@ -1,0 +1,45 @@
+{
+  "id": 2404,
+  "name": {
+    "zh_tw": "長靴",
+    "en": "Shoes_"
+  },
+  "icon_url": "/images/items/2404.gif",
+  "category": "防具",
+  "description": {
+    "official": "保護到腳腕的長靴。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3500,
+    "sell_price": 1750,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2903,
+      "name": "精英 / 菁英 狂暴邪惡箱",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1699,
+      "name": "狂暴邪惡箱",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1656,
+      "name": "暗●弓箭手",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

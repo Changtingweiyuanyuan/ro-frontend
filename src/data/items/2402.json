@@ -1,0 +1,70 @@
+{
+  "id": 2402,
+  "name": {
+    "zh_tw": "輕便鞋",
+    "en": "Sandals_"
+  },
+  "icon_url": "/images/items/2402.gif",
+  "category": "防具",
+  "description": {
+    "official": "很方便著裝的鞋子，不過沒有什麼防禦力。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 400,
+    "sell_price": 200,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2865,
+      "name": "精英甜餅人 / 菁英甜餅人",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1265,
+      "name": "綠餅人",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1860,
+      "name": "松鼠",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 621,
+  "name": {
+    "zh_tw": "苦味草",
+    "en": "Bitter_Herb"
+  },
+  "icon_url": "/images/items/621.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "非常苦的草，是魔物波波利最喜愛的食物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 5
+  },
+  "script": "{ pet 1031; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1883,
+      "name": "樹林女巫",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2844,
+      "name": "精英捕蟲草 / 雄壯捕蟲草",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1781,
+      "name": "捕蟲草",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

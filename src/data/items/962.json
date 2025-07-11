@@ -1,0 +1,95 @@
+{
+  "id": 962,
+  "name": {
+    "zh_tw": "觸鬚",
+    "en": "Tentacle"
+  },
+  "icon_url": "/images/items/962.gif",
+  "category": "其他類",
+  "description": {
+    "official": "溼溼地還殘留水分的觸鬚，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 70,
+    "sell_price": 35,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2716,
+      "name": "精英梅納海葵 / 菁英梅納海葵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2717,
+      "name": "精英梅納海葵 / 憤怒梅納海葵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2669,
+      "name": "精英賽杜拉 / 憤怒賽杜拉",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1216,
+      "name": "梅納海葵",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 2192,
+      "name": "小章魚",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2193,
+      "name": "章魚腳",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 20811,
+      "name": "深海魔鬼大烏賊",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2202,
+      "name": "魔鬼大烏賊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2204,
+      "name": "賽杜拉",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2175,
+      "name": "深海魷魚",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 20806,
+      "name": "深海賽杜拉",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20804,
+      "name": "深海烏賊",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

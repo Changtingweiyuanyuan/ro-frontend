@@ -1,0 +1,261 @@
+{
+  "id": 998,
+  "name": {
+    "zh_tw": "鐵",
+    "en": "Iron"
+  },
+  "icon_url": "/images/items/998.gif",
+  "category": "其他類",
+  "description": {
+    "official": "除了硬度夠，它也較為輕薄，與其他金屬比較起來，加工較容易。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 5
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3155,
+      "name": "修繕機器人",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3156,
+      "name": "勘查機器人",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1403,
+      "name": "武士火鎗兵",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 20623,
+      "name": "咪魘研究助理機器人",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3249,
+      "name": "探索機器人",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3248,
+      "name": "修復機器人",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20622,
+      "name": "研究助理機器人 / 花園監視者",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2756,
+      "name": "精英金屬波利 / 菁英金屬波利",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2755,
+      "name": "精英金屬波利 / 雄壯金屬波利",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2660,
+      "name": "精英 / 狡猾 邪骸礦工",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2812,
+      "name": "精英巨石怪 / 憤怒巨石怪",
+      "rate": 8.75
+    },
+    {
+      "monster_id": 20633,
+      "name": "故障的搓澡師",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20639,
+      "name": "故障的警衛型-B",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20634,
+      "name": "故障的搓澡師",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2642,
+      "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20641,
+      "name": "故障的掃地機器人-歐米茄",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20635,
+      "name": "浴池管理員 / 掃地機器人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20636,
+      "name": "浴池掃地機器人 / 掃地機器人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20632,
+      "name": "咪魘故障的園丁-B",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20631,
+      "name": "故障的園丁-B",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20629,
+      "name": "大宅管理員-B",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20628,
+      "name": "大宅管理員-a",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20640,
+      "name": "掃地機器人-歐米茄",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20630,
+      "name": "故障的-B",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1613,
+      "name": "金屬波利",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1977,
+      "name": "礦石波利 / 重金屬波利",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1169,
+      "name": "邪骸礦工",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1308,
+      "name": "狂暴哥布靈",
+      "rate": 1.8
+    },
+    {
+      "monster_id": 3405,
+      "name": "巨石怪",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1040,
+      "name": "巨石怪",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1280,
+      "name": "噴射哥布靈",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1212,
+      "name": "鐵蠍",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3125,
+      "name": "變異晶片 / 步伐",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1980,
+      "name": "庫布靈",
+      "rate": 1.35
+    },
+    {
+      "monster_id": 1123,
+      "name": "鍊錘哥布靈",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1258,
+      "name": "弓箭哥布靈",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1124,
+      "name": "大斧哥布靈",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 1235,
+      "name": "吸菸的獸人戰士",
+      "rate": 1.05
+    },
+    {
+      "monster_id": 1042,
+      "name": "綠蒼蠅",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3128,
+      "name": "霹靂機器人",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1178,
+      "name": "傑洛米",
+      "rate": 0.95
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1183,
+      "name": "蒼蠅",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3627,
+      "name": "邪心獵人保鏢",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3154,
+      "name": "巡邏機器人",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

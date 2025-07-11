@@ -1,0 +1,81 @@
+{
+  "id": 706,
+  "name": {
+    "zh_tw": "四葉幸運草",
+    "en": "Four_Leaf_Clover"
+  },
+  "icon_url": "/images/items/706.gif",
+  "category": "其他類",
+  "description": {
+    "official": "有著四片葉子的幸運草，傳說它會為人帶來好運。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 80000,
+    "sell_price": 40000,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1162,
+      "name": "草精",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2695,
+      "name": "精英草精 / 迅捷草精",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1093,
+      "name": "藍瘋兔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3424,
+      "name": "藍瘋兔王",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2880,
+      "name": "精英微風 / 菁英微風",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2881,
+      "name": "精英微風 / 憤怒微風",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1692,
+      "name": "微風",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3506,
+      "name": "叢林曼陀羅魔花",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

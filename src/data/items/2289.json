@@ -1,0 +1,50 @@
+{
+  "id": 2289,
+  "name": {
+    "zh_tw": "糞便帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2289.gif",
+  "category": "防具",
+  "description": {
+    "official": "動物的屎或大便等的，說起來會比較不文雅，因此統稱糞便。受到人型系敵人的攻擊時，可減少10%的傷害不可精煉",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 70
+  },
+  "script": "{ bonus2 bSubRace,RC_DemiHuman,10; bonus2 bSubRace,RC_Player_Human,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2780,
+      "name": "精英 / 雄壯 狂暴大腳熊",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1306,
+      "name": "狂暴大腳熊",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

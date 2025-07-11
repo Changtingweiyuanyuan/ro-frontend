@@ -1,0 +1,40 @@
+{
+  "id": 1211,
+  "name": {
+    "zh_tw": "德克短劍",
+    "en": "Dirk_"
+  },
+  "icon_url": "/images/items/1211.gif",
+  "category": "武器",
+  "description": {
+    "official": "古代某個西方國家所使用的短劍。以刺擊為要求，所製造出來的短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 8500,
+    "sell_price": 4250,
+    "weight": 50
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2814,
+      "name": "精英哥布靈 / 迅捷哥布靈",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2813,
+      "name": "精英哥布靈 / 狡猾哥布靈",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1122,
+      "name": "刺刀哥布靈",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

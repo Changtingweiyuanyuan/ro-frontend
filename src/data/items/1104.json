@@ -1,0 +1,39 @@
+{
+  "id": 1104,
+  "name": {
+    "zh_tw": "圓月刀",
+    "en": "Falchion"
+  },
+  "icon_url": "/images/items/1104.gif",
+  "category": "武器",
+  "description": {
+    "official": "有著圓刃的刀。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2676,
+      "name": "精英 / 迅捷 蠻刀海盜骷髏",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2407,
+      "name": "蠻刀海盜骷髏",
+      "rate": 0.6
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4153,
+  "name": {
+    "zh_tw": "卡拉蟹卡片",
+    "en": "Crab_Card"
+  },
+  "icon_url": "/images/items/4153.gif",
+  "category": "卡片",
+  "description": {
+    "official": "對海星的傷害增加30%，ATK+5卡拉蟹、貝殼魔靈、海星卡片全部裝備後，擊殺魚貝類魔物時，有30%的幾率會掉落生魚片。對水屬性魔物增加30%的傷害。套裝資料:貝殼魔靈卡片, 卡拉蟹卡片 & 海星卡片 套裝卡拉蟹卡片 & 大蝦帽子",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bBaseAtk,5; bonus2 bAddDamageClass,1266,30; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1073,
+      "name": "卡拉蟹",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

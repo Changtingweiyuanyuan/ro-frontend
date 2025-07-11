@@ -27,7 +27,7 @@
     "defense": 410,
     "magic_defense": 40,
     "hit_100_percent": 365,
-    "flee_95_percent": 0,
+    "flee_95_percent": 596,
     "base_stats": {
       "str": 190,
       "agi": 60,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "6@tower",
+      "description": "- 無限塔 (魔物終結塔) 6樓",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

@@ -27,7 +27,7 @@
     "defense": 449,
     "magic_defense": 43,
     "hit_100_percent": 413,
-    "flee_95_percent": 0,
+    "flee_95_percent": 521,
     "base_stats": {
       "str": 191,
       "agi": 66,
@@ -37,6 +37,13 @@
       "luk": 51
     }
   },
+  "spawns": [
+    {
+      "map_name": "man_fild03",
+      "description": "- 馬努克曠野",
+      "spawn_info": "1x / 240 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

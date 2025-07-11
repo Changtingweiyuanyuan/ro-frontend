@@ -1,0 +1,35 @@
+{
+  "id": 1917,
+  "name": {
+    "zh_tw": "涼風的吉他",
+    "en": "Guitar_Of_Gentle_Breeze"
+  },
+  "icon_url": "/images/items/1917.gif",
+  "category": "武器",
+  "description": {
+    "official": "演奏音樂時不知道從哪裡漂來一陣風，突然間想要讓你去旅行的吉他。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 90
+  },
+  "script": "{ bonus bAtkEle,Ele_Wind; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3423,
+      "name": "蝗蟲之王",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1088,
+      "name": "搖滾蝗蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

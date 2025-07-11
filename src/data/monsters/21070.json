@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/21070.gif",
   "basic_info": {
-    "level": 0,
+    "level": 100,
     "race": "人形",
     "element": {
       "type": "無",

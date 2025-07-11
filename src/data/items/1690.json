@@ -1,0 +1,42 @@
+{
+  "id": 1690,
+  "name": {
+    "zh_tw": "神祕狐尾草魔杖",
+    "en": "Amazing_Foxtail"
+  },
+  "icon_url": "/images/items/1690.gif",
+  "category": "武器",
+  "description": {
+    "official": "上面坐著蜻蜓且蘊含魔法的堅固狐尾草。MATK+180，MSP+50。精煉值每+3時，MATK+10，MSP+10。無法破壞",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 40
+  },
+  "script": "{ .@r = getrefine(); bonus bMaxSP,10*(.@r/3)+50; bonus bMatk,10*(.@r/3); bonus bUnbreakableWeapon; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2754,
+      "name": "精英 / 迅捷 重金屬蝗蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1126,
+      "name": "刺錘哥布靈",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1058,
+      "name": "重金屬蝗蟲",
+      "rate": 0.15
+    }
+  ],
+  "obtained_from": []
+}

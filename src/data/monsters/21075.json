@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/21075.gif",
   "basic_info": {
-    "level": 0,
+    "level": 100,
     "race": "天使",
     "element": {
       "type": "無",

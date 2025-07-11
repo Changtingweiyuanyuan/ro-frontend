@@ -1,0 +1,55 @@
+{
+  "id": 2106,
+  "name": {
+    "zh_tw": "鋼盾",
+    "en": "Shield_"
+  },
+  "icon_url": "/images/items/2106.gif",
+  "category": "防具",
+  "description": {
+    "official": "用堅硬的金屬製成的防禦道具。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 56000,
+    "sell_price": 28000,
+    "weight": 130
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1087,
+      "name": "獸人英雄",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3429,
+      "name": "獸人英雄",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2864,
+      "name": "精英卡那多斯 / 雄壯卡那多斯",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1067,
+      "name": "卡那多斯",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2177,
+      "name": "深海海螺",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1299,
+      "name": "哥布靈首領",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

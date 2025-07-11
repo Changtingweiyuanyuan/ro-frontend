@@ -1,69 +1,73 @@
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, watch, onMounted, onUnmounted } from 'vue'
 import Filter from '../components/Filter.vue'
 import MonsterList from '../components/MonsterList.vue'
 
-// 改為相對路徑匯入
-import releasedMonstersData from '../data/released_monsters.json'
+import allMonstersData from '../data/monsters_display_index.json'
 
-// 將 glob 路徑改為相對路徑
-const monsterModules = import.meta.glob('../data/monsters/*.json', { eager: true });
-
-// 篩選狀態 (保持不變)
 const searchQuery = ref('')
 const activeRace = ref('ALL')
 const activeElement = ref('ALL')
-const activeSize = ref('SMALL')
+const activeSize = ref('ALL')
 
-// --- 資料處理 ---
+const filteredMonsters = ref([]);
+const monstersToShow = ref([]);
+const itemsPerLoad = 20;
 
-// 1. 取得所有已開放的魔物 ID
-const releasedIds = Object.keys(releasedMonstersData)
-    .filter(id => releasedMonstersData[id].released);
-
-// 2. 從已匯入的模組中，根據 ID 篩選出對應的魔物資料
-const allMonsters = ref(
-    releasedIds.map(id => {
-        // 同時修正這裡的路徑，使其與上面的 glob 路徑匹配
-        return monsterModules[`../data/monsters/${id}.json`]?.default;
-    }).filter(m => m) // 過濾掉可能找不到的資料
-);
-
-// --- 對應表與篩選邏輯 (保持不變) ---
-const raceMap = {
-    '無形': 'FORMLESS', '魚貝': 'AQUATIC', '龍族': 'DRAGON',
-    '動物': 'BEAST', '天使': 'ANGEL', '惡魔': 'DEMON',
-    '昆蟲': 'INSECT', '植物': 'PLANT', '不死': 'UNDEAD', '人形': 'HUMANOID'
-};
-const elementMap = {
-    '無': 'NONE', '水': 'WATER', '地': 'EARTH', '火': 'FIRE',
-    '風': 'WIND', '毒': 'POISON', '聖': 'HOLY', '暗': 'DARK',
-    '念': 'GHOST', '不死': 'UNDEAD'
-};
-const sizeMap = {
-    '小': 'SMALL', '中': 'MEDIUM', '大': 'LARGE'
+// 提取出一個共用的函式來清理物品名稱，避免邏輯不一致
+const getCleanDropName = (name) => {
+  if (typeof name !== 'string') return '';
+  return name.replace(/\s*\(\s*[\d.]+%?\s*\)\s*$/, '').replace(/\s+[\d.]+%?\s*$/, '').trim().toLowerCase();
 };
 
-const filteredMonsters = computed(() => {
-    return allMonsters.value.filter(monster => {
-        const query = searchQuery.value.toLowerCase().trim()
+const filterAndReset = () => {
+    const query = searchQuery.value.toLowerCase().trim();
+    
+    filteredMonsters.value = allMonstersData.filter(monster => {
+        // 【關鍵修改】在搜尋掉落物時，使用清理過的名稱進行比對
         const matchesQuery = !query ||
             monster.name.zh_tw.toLowerCase().includes(query) ||
             monster.id.toString().includes(query) ||
-            (monster.drops && monster.drops.some(drop => drop.name.toLowerCase().includes(query)));
+            (monster.drops && monster.drops.some(drop => getCleanDropName(drop.name).includes(query)));
+        
+        const raceMap = { '無形': 'FORMLESS', '魚貝': 'AQUATIC', '龍族': 'DRAGON', '動物': 'BEAST', '天使': 'ANGEL', '惡魔': 'DEMON', '昆蟲': 'INSECT', '植物': 'PLANT', '不死': 'UNDEAD', '人形': 'HUMANOID' };
+        const elementMap = { '無': 'NONE', '水': 'WATER', '地': 'EARTH', '火': 'FIRE', '風': 'WIND', '毒': 'POISON', '聖': 'HOLY', '暗': 'DARK', '念': 'GHOST', '不死': 'UNDEAD' };
+        const sizeMap = { '小': 'SMALL', '中': 'MEDIUM', '大': 'LARGE' };
 
-        const monsterRace = raceMap[monster.basic_info.race]?.toUpperCase();
+        const monsterRace = raceMap[monster.basic_info.race] || 'UNKNOWN';
         const matchesRace = activeRace.value === 'ALL' || monsterRace === activeRace.value;
-
-        const monsterElement = elementMap[monster.basic_info.element.type]?.toUpperCase();
+        
+        const monsterElement = elementMap[monster.basic_info.element.type] || 'UNKNOWN';
         const matchesElement = activeElement.value === 'ALL' || monsterElement === activeElement.value;
 
-        const monsterSize = sizeMap[monster.basic_info.size]?.toUpperCase();
+        const monsterSize = sizeMap[monster.basic_info.size] || 'UNKNOWN';
         const matchesSize = activeSize.value === 'ALL' || monsterSize === activeSize.value;
         
         return matchesQuery && matchesRace && matchesElement && matchesSize;
-    })
-})
+    });
+
+    monstersToShow.value = [];
+    loadMoreMonsters();
+}
+
+const loadMoreMonsters = () => {
+    if (monstersToShow.value.length >= filteredMonsters.value.length) return;
+    const currentLength = monstersToShow.value.length;
+    const nextMonsters = filteredMonsters.value.slice(currentLength, currentLength + itemsPerLoad);
+    monstersToShow.value.push(...nextMonsters);
+}
+
+watch([searchQuery, activeRace, activeElement, activeSize], filterAndReset, { immediate: true });
+
+const handleScroll = () => {
+    const buffer = 500;
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - buffer) {
+        loadMoreMonsters();
+    }
+}
+
+onMounted(() => window.addEventListener('scroll', handleScroll));
+onUnmounted(() => window.removeEventListener('scroll', handleScroll));
 </script>
 
 <template>
@@ -73,9 +77,5 @@ const filteredMonsters = computed(() => {
     v-model:activeElement="activeElement"
     v-model:activeSize="activeSize"
   />
-  <MonsterList :monsters="filteredMonsters" />
+  <MonsterList :monsters="monstersToShow" />
 </template>
-
-<style scoped>
-/* 這裡可以留空，或像之前一樣加上讀取訊息的樣式，以備不時之需 */
-</style>

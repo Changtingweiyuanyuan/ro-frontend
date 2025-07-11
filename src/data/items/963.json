@@ -1,0 +1,80 @@
+{
+  "id": 963,
+  "name": {
+    "zh_tw": "銳利麟片",
+    "en": "Sharp_Scale"
+  },
+  "icon_url": "/images/items/963.gif",
+  "category": "其他類",
+  "description": {
+    "official": "像刀子般銳利的鱗片，加工後可以製成多種相當有用的道具。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 250,
+    "sell_price": 125,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2709,
+      "name": "精英食人魚 / 迅捷食人魚",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2181,
+      "name": "遠古異變魚",
+      "rate": 67.5
+    },
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2070,
+      "name": "食人魚",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1069,
+      "name": "異變魚",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 20809,
+      "name": "深海劍魚",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20807,
+      "name": "深海異變魚",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20643,
+      "name": "熱池劍魚",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20644,
+      "name": "熱池馬克",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20647,
+      "name": "浴池人魚",
+      "rate": 12.0
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

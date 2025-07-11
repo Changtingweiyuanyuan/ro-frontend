@@ -1,0 +1,55 @@
+{
+  "id": 920,
+  "name": {
+    "zh_tw": "狼指甲",
+    "en": "Claw_Of_Wolves"
+  },
+  "icon_url": "/images/items/920.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從狼的腳上剪下來的腳指甲，可向收集品購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 58,
+    "sell_price": 29,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3422,
+      "name": "流浪之狼",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1220,
+      "name": "沙漠之狼",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

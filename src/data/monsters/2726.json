@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 55,
     "hit_100_percent": 418,
-    "flee_95_percent": 0,
+    "flee_95_percent": 501,
     "base_stats": {
       "str": 99,
       "agi": 75,
@@ -37,6 +37,13 @@
       "luk": 80
     }
   },
+  "spawns": [
+    {
+      "map_name": "tha_t12",
+      "description": "- 達納托斯之塔 上層 12樓 憎恨之房",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 728,

@@ -1,0 +1,34 @@
+{
+  "id": 4061,
+  "name": {
+    "zh_tw": "卡那多斯卡片",
+    "en": "Cornutus_Card"
+  },
+  "icon_url": "/images/items/4061.gif",
+  "category": "卡片",
+  "description": {
+    "official": "可使鎧甲完全不受損。DEF+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bUnbreakableArmor; bonus bDef,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2864,
+      "name": "精英卡那多斯 / 雄壯卡那多斯",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1067,
+      "name": "卡那多斯",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

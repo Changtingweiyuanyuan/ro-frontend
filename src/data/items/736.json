@@ -1,0 +1,36 @@
+{
+  "id": 736,
+  "name": {
+    "zh_tw": "白色盤子",
+    "en": "White_Platter"
+  },
+  "icon_url": "/images/items/736.gif",
+  "category": "其他類",
+  "description": {
+    "official": "純白乾淨的盤子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1232,
+      "name": "大嘴鳥蛋",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1047,
+      "name": "大嘴鳥蛋",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

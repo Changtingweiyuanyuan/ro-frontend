@@ -1,0 +1,32 @@
+{
+  "id": 5125,
+  "name": {
+    "zh_tw": "天使之吻",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5125.gif",
+  "category": "防具",
+  "description": {
+    "official": "受到負責超級初學者天使之吻的頭具裝飾，若對這頭具來一個吻的話，也許就是跟天使來一個間接之吻。。。SP自然恢復力增加3%套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 30
+  },
+  "script": "{ bonus bSPrecovRate,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3421,
+      "name": "蛙王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": []
+}

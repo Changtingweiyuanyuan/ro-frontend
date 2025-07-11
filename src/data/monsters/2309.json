@@ -27,7 +27,7 @@
     "defense": 115,
     "magic_defense": 35,
     "hit_100_percent": 356,
-    "flee_95_percent": 0,
+    "flee_95_percent": 371,
     "base_stats": {
       "str": 71,
       "agi": 32,
@@ -37,5 +37,43 @@
       "luk": 19
     }
   },
-  "drops": []
+  "spawns": [
+    {
+      "map_name": "ma_fild02",
+      "description": "- 普勒斯特(森林)",
+      "spawn_info": "54x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.1,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 4582,
+      "name": "獨眼怪卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 6511,
+      "name": "漂亮的花",
+      "rate": 10.0,
+      "icon_url": "/images/items/6511.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 10.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 12700,
+      "name": "反穿的襯衫",
+      "rate": 1.0,
+      "icon_url": "/images/items/12700.gif"
+    }
+  ]
 }

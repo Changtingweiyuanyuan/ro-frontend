@@ -1,0 +1,45 @@
+{
+  "id": 902,
+  "name": {
+    "zh_tw": "樹根",
+    "en": "Tree_Root"
+  },
+  "icon_url": "/images/items/902.gif",
+  "category": "其他類",
+  "description": {
+    "official": "樹木的根，可用來綁東西或當成藥材食用，用途非常廣泛，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 12,
+    "sell_price": 6,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2615,
+      "name": "精英樹精 / 菁英樹精",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3389,
+      "name": "樹精",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 1010,
+      "name": "樹精",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 2026,
+      "name": "逃走的蒲公英成員",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

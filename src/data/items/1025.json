@@ -1,0 +1,45 @@
+{
+  "id": 1025,
+  "name": {
+    "zh_tw": "蜘蛛絲",
+    "en": "Spiderweb"
+  },
+  "icon_url": "/images/items/1025.gif",
+  "category": "其他類",
+  "description": {
+    "official": "蜘蛛所吐出來的蜘蛛絲，具有黏性且相當結實。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 184,
+    "sell_price": 92,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2890,
+      "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 20421,
+      "name": "汙染蜘蛛女王",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1100,
+      "name": "艾斯蜘蛛",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1304,
+      "name": "狂暴蜘蛛",
+      "rate": 22.75
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1708,
+  "name": {
+    "zh_tw": "克羅伊特弓",
+    "en": "Great_Bow_"
+  },
+  "icon_url": "/images/items/1708.gif",
+  "category": "武器",
+  "description": {
+    "official": "巨大的弓，看起來很難操作。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 0.18
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

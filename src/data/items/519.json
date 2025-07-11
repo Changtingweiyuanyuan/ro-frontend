@@ -1,0 +1,75 @@
+{
+  "id": 519,
+  "name": {
+    "zh_tw": "牛奶",
+    "en": "Milk"
+  },
+  "icon_url": "/images/items/519.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "牛奶加工而成的液體，被視為小孩子成長期時最具營養價值的食品。可恢復少量HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 25,
+    "sell_price": 12,
+    "weight": 3
+  },
+  "script": "{ itemheal rand(27,37),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2712,
+      "name": "精英小雞 / 憤怒小雞",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2626,
+      "name": "精英 / 狡猾 芭芭亞卡",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1686,
+      "name": "獸人嬰兒",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1587,
+      "name": "克萊本",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1241,
+      "name": "蛋殼小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1050,
+      "name": "蛋殼小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3387,
+      "name": "小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1049,
+      "name": "小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1240,
+      "name": "小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1882,
+      "name": "芭芭亞卡",
+      "rate": 7.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

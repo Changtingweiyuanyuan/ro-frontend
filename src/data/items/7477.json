@@ -1,0 +1,64 @@
+{
+  "id": 7477,
+  "name": {
+    "zh_tw": "6級烹飪書",
+    "en": "Cookbook06"
+  },
+  "icon_url": "/images/items/7477.gif",
+  "category": "其他類",
+  "description": {
+    "official": "封面寫著“在密室裡也能做出料理的人-結果總是只有一種！ 料理在此鍋子裡！！”的字句，是本令人印象深刻的書。記載著所有6等料理的數據。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2676,
+      "name": "精英 / 迅捷 蠻刀海盜骷髏",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2687,
+      "name": "精英諾可伊 / 雄壯諾可伊",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1164,
+      "name": "諾可伊",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2407,
+      "name": "蠻刀海盜骷髏",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2545,
+      "name": "守衛狗 / 溫馴的警犬",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕紫箱"
+  ]
+}

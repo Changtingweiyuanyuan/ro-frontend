@@ -1,0 +1,130 @@
+{
+  "id": 905,
+  "name": {
+    "zh_tw": "植物梗",
+    "en": "Stem"
+  },
+  "icon_url": "/images/items/905.gif",
+  "category": "其他類",
+  "description": {
+    "official": "植物細長的梗，可以當做藥材，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 46,
+    "sell_price": 23,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2735,
+      "name": "精英豬籠草 / 雄壯豬籠草",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2906,
+      "name": "精英 / 迅捷 泰坦魔芋花",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3506,
+      "name": "叢林曼陀羅魔花",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2779,
+      "name": "精英雷斯 / 迅捷雷斯",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 1988,
+      "name": "豬籠草",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2844,
+      "name": "精英捕蟲草 / 雄壯捕蟲草",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2738,
+      "name": "精英吃人草 / 狡猾吃人草",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2151,
+      "name": "泰坦魔芋花",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2150,
+      "name": "西瓜",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1881,
+      "name": "雷斯",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1781,
+      "name": "捕蟲草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1780,
+      "name": "吃人草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

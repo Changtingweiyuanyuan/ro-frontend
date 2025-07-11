@@ -27,7 +27,7 @@
     "defense": 364,
     "magic_defense": 35,
     "hit_100_percent": 434,
-    "flee_95_percent": 0,
+    "flee_95_percent": 526,
     "base_stats": {
       "str": 100,
       "agi": 129,
@@ -37,6 +37,13 @@
       "luk": 32
     }
   },
+  "spawns": [
+    {
+      "map_name": "thana_boss",
+      "description": "- 達納托斯之塔 F-Boss",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 2342,

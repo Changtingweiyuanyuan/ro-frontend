@@ -1,0 +1,29 @@
+{
+  "id": 4012,
+  "name": {
+    "zh_tw": "盜蟲卵卡片",
+    "en": "Thief_Bug_Egg_Card"
+  },
+  "icon_url": "/images/items/4012.gif",
+  "category": "卡片",
+  "description": {
+    "official": "MHP+400",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bMaxHP,400; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

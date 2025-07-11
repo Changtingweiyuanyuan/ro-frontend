@@ -1,0 +1,81 @@
+{
+  "id": 748,
+  "name": {
+    "zh_tw": "永恆玫瑰",
+    "en": "Witherless_Rose"
+  },
+  "icon_url": "/images/items/748.gif",
+  "category": "其他類",
+  "description": {
+    "official": "永不枯萎的玫瑰，因為數量不多，所以價值不菲。雖然如此，但因為帶有永不凋謝的愛情的意義，是年輕男子必備的珍貴物品。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 41250,
+    "sell_price": 20625,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3450,
+      "name": "畢尤",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3490,
+      "name": "不死的軍團軍官",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1884,
+      "name": "森林妖精",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2795,
+      "name": "精英亞拉 / 雄壯亞拉",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1970,
+      "name": "人魚_E",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2069,
+      "name": "亞拉",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2184,
+      "name": "深海人魚",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1044,
+      "name": "人魚",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

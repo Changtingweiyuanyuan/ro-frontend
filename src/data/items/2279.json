@@ -1,0 +1,30 @@
+{
+  "id": 2279,
+  "name": {
+    "zh_tw": "火線頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2279.gif",
+  "category": "防具",
+  "description": {
+    "official": "仿照火線樣式製造而成的頭飾。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1129,
+      "name": "鬼火",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

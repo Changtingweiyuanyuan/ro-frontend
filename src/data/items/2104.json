@@ -1,0 +1,70 @@
+{
+  "id": 2104,
+  "name": {
+    "zh_tw": "圓盾",
+    "en": "Buckler_"
+  },
+  "icon_url": "/images/items/2104.gif",
+  "category": "防具",
+  "description": {
+    "official": "製作簡單且方便使用，所以普遍使用的圓形盾牌。可以裝備",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 14000,
+    "sell_price": 7000,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2814,
+      "name": "精英哥布靈 / 迅捷哥布靈",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2813,
+      "name": "精英哥布靈 / 狡猾哥布靈",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2785,
+      "name": "精英犬妖 / 雄壯犬妖",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1122,
+      "name": "刺刀哥布靈",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1133,
+      "name": "大斧犬妖",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1136,
+      "name": "犬妖",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1137,
+      "name": "犬妖",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1134,
+      "name": "榔頭犬妖",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1124,
+      "name": "大斧哥布靈",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

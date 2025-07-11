@@ -1,0 +1,27 @@
+{
+  "id": 1287,
+  "name": {
+    "zh_tw": "聖靈拳刃",
+    "en": "Durga"
+  },
+  "icon_url": "/images/items/1287.gif",
+  "category": "武器",
+  "description": {
+    "official": "優於高速突刺攻擊之用的拳刃。套裝資料:聖靈拳刃[1] & Whikebain Suit[1]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 120
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1106,
+      "name": "沙漠之狼",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

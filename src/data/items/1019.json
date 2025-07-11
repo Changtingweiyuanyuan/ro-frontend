@@ -1,0 +1,120 @@
+{
+  "id": 1019,
+  "name": {
+    "zh_tw": "瑪哪樹枝",
+    "en": "Wooden_Block"
+  },
+  "icon_url": "/images/items/1019.gif",
+  "category": "其他類",
+  "description": {
+    "official": "瑪哪樹枝。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 60,
+    "sell_price": 30,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2789,
+      "name": "精英傘妖 / 迅捷傘妖",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1364,
+      "name": "風靈龜",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2871,
+      "name": "精英古鐘魔 / 憤怒古鐘魔",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2870,
+      "name": "精英古鐘魔 / 菁英古鐘魔",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20362,
+      "name": "異種朵洛爾",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1400,
+      "name": "傘妖",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 20274,
+      "name": "古代石炮火樹",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1495,
+      "name": "石炮火樹",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20349,
+      "name": "A013-朵洛爾",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20361,
+      "name": "朵洛爾",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2916,
+      "name": "大笨鐘 / 大古鐘",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2615,
+      "name": "精英樹精 / 菁英樹精",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1151,
+      "name": "麥斯特",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1269,
+      "name": "古鐘魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 20689,
+      "name": "魔癮朵洛爾",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3389,
+      "name": "樹精",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1010,
+      "name": "樹精",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

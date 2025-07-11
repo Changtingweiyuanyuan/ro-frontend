@@ -27,7 +27,7 @@
     "defense": 288,
     "magic_defense": 265,
     "hit_100_percent": 595,
-    "flee_95_percent": 0,
+    "flee_95_percent": 645,
     "base_stats": {
       "str": 155,
       "agi": 235,
@@ -37,5 +37,17 @@
       "luk": 66
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abbey03",
+      "description": "- 修道院 F3",
+      "spawn_info": "1x / 720~730 分鐘"
+    }
+  ],
   "drops": []
 }

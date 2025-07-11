@@ -27,7 +27,7 @@
     "defense": 55,
     "magic_defense": 7,
     "hit_100_percent": 233,
-    "flee_95_percent": 0,
+    "flee_95_percent": 211,
     "base_stats": {
       "str": 18,
       "agi": 4,
@@ -37,54 +37,61 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_fild07",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 516,
       "name": "番薯",
       "rate": 37.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/516.gif"
+      "icon_url": "/images/items/516.gif"
     },
     {
       "item_id": 518,
       "name": "蜂蜜",
       "rate": 11.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/518.gif"
+      "icon_url": "/images/items/518.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 756,
       "name": "神之金屬原石",
       "rate": 1.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/756.gif"
+      "icon_url": "/images/items/756.gif"
     },
     {
       "item_id": 919,
       "name": "動物外皮",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/919.gif"
+      "icon_url": "/images/items/919.gif"
     },
     {
       "item_id": 948,
       "name": "熊掌",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/948.gif"
+      "icon_url": "/images/items/948.gif"
     },
     {
       "item_id": 2289,
       "name": "糞便帽",
       "rate": 0.15,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2289.gif"
+      "icon_url": "/images/items/2289.gif"
     },
     {
       "item_id": 4074,
       "name": "大腳熊卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

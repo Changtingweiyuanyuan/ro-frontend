@@ -27,7 +27,7 @@
     "defense": 49,
     "magic_defense": 8,
     "hit_100_percent": 303,
-    "flee_95_percent": 0,
+    "flee_95_percent": 327,
     "base_stats": {
       "str": 69,
       "agi": 14,
@@ -37,6 +37,18 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "mosk_dun02",
+      "description": "- 莫斯科比亞 森林深處",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "mosk_dun03",
+      "description": "- 莫斯科比亞 深淵森林",
+      "spawn_info": "39x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 520,

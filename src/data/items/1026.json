@@ -1,0 +1,55 @@
+{
+  "id": 1026,
+  "name": {
+    "zh_tw": "橡實",
+    "en": "Acorn"
+  },
+  "icon_url": "/images/items/1026.gif",
+  "category": "其他類",
+  "description": {
+    "official": "橡木的果實。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 98,
+    "sell_price": 49,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1860,
+      "name": "松鼠",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2017,
+      "name": "拉塔 / 刷尾負鼠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2364,
+      "name": "花瓣怪蟲",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

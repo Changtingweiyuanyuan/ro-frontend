@@ -1,0 +1,35 @@
+{
+  "id": 7030,
+  "name": {
+    "zh_tw": "沙漠之狼之指甲",
+    "en": "Claw_Of_Desert_Wolf"
+  },
+  "icon_url": "/images/items/7030.gif",
+  "category": "其他類",
+  "description": {
+    "official": "棲息在沙漠之中 狼的指甲。可向收集商人購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 208,
+    "sell_price": 104,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1220,
+      "name": "沙漠之狼",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1106,
+      "name": "沙漠之狼",
+      "rate": 27.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -27,7 +27,7 @@
     "defense": 73,
     "magic_defense": 62,
     "hit_100_percent": 379,
-    "flee_95_percent": 0,
+    "flee_95_percent": 369,
     "base_stats": {
       "str": 103,
       "agi": 67,
@@ -37,6 +37,13 @@
       "luk": 32
     }
   },
+  "spawns": [
+    {
+      "map_name": "arug_dun01",
+      "description": "- 公會地下迷宮 (拉赫)",
+      "spawn_info": "22x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 576,

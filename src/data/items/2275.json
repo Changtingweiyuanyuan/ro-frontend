@@ -1,0 +1,30 @@
+{
+  "id": 2275,
+  "name": {
+    "zh_tw": "頭巾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2275.gif",
+  "category": "防具",
+  "description": {
+    "official": "可防止陽光照射，擁有相當好的隔熱能力。用通風材料做成的頭巾。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1124,
+      "name": "大斧哥布靈",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

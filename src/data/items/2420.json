@@ -1,0 +1,34 @@
+{
+  "id": 2420,
+  "name": {
+    "zh_tw": "天使的降臨",
+    "en": "Angel's_Arrival"
+  },
+  "icon_url": "/images/items/2420.gif",
+  "category": "防具",
+  "description": {
+    "official": "負責超級初學者天使的涼鞋，穿著這雙涼鞋跳躍的話，感覺上可以跳到天空似的MHP+100套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 30
+  },
+  "script": "{ bonus bMaxHP,100; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3423,
+      "name": "蝗蟲之王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1088,
+      "name": "搖滾蝗蟲",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

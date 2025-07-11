@@ -1,0 +1,35 @@
+{
+  "id": 1058,
+  "name": {
+    "zh_tw": "蛾蝶翅膀",
+    "en": "Wing_Of_Moth"
+  },
+  "icon_url": "/images/items/1058.gif",
+  "category": "其他類",
+  "description": {
+    "official": "蛾蝶的翅膀。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 200,
+    "sell_price": 100,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2842,
+      "name": "精英獵蠅 / 憤怒獵蠅",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1114,
+      "name": "獵蠅",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

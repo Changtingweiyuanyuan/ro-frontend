@@ -1,0 +1,70 @@
+{
+  "id": 2310,
+  "name": {
+    "zh_tw": "長大衣",
+    "en": "Coat_"
+  },
+  "icon_url": "/images/items/2310.gif",
+  "category": "防具",
+  "description": {
+    "official": "長度到膝蓋的大衣，有防寒效果。不過夏天穿起來會很熱喔。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 22000,
+    "sell_price": 11000,
+    "weight": 120
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2436,
+      "name": "暗●煉金術士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2430,
+      "name": "暗●鐵匠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2423,
+      "name": "暗●煉金術士",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2417,
+      "name": "暗●鐵匠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

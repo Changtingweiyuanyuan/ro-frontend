@@ -1,0 +1,30 @@
+{
+  "id": 626,
+  "name": {
+    "zh_tw": "魔物飲料",
+    "en": "Monster_Juice"
+  },
+  "icon_url": "/images/items/626.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "以家禽的血做成的飲料，是魔物赤蒼蠅最喜愛的食物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 5
+  },
+  "script": "{ pet 1035; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

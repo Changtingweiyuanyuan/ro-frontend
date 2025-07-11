@@ -1,0 +1,45 @@
+{
+  "id": 952,
+  "name": {
+    "zh_tw": "仙人掌刺",
+    "en": "Cactus_Needle"
+  },
+  "icon_url": "/images/items/952.gif",
+  "category": "其他類",
+  "description": {
+    "official": "具有保護仙人掌作用的尖銳的刺，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 82,
+    "sell_price": 41,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1854,
+      "name": "摩卡",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 45.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 633,
+  "name": {
+    "zh_tw": "魔物番薯",
+    "en": "Baked_Yam"
+  },
+  "icon_url": "/images/items/633.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "烤好的地瓜，是魔物狸貓最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 5
+  },
+  "script": "{ pet 1056; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1129,
+      "name": "鬼火",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

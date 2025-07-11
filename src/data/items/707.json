@@ -1,0 +1,60 @@
+{
+  "id": 707,
+  "name": {
+    "zh_tw": "哀唱草",
+    "en": "Singing_Plant"
+  },
+  "icon_url": "/images/items/707.gif",
+  "category": "其他類",
+  "description": {
+    "official": "一到有滿月的夜晚就會獨自唱著哀傷的歌曲的神祕植物，傳說以前有位少女，她唱著歌思念離開很久的戀人，但是心愛的他終究沒有歸來，等著等著她就這樣化成了一株草。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1884,
+      "name": "森林妖精",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 20625,
+      "name": "咪魘乾扁草精 / 花園監視者",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 20624,
+      "name": "乾扁草精 / 花園監視者",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2754,
+      "name": "精英 / 迅捷 重金屬蝗蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1058,
+      "name": "重金屬蝗蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3408,
+      "name": "重金屬蝗蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -27,7 +27,7 @@
     "defense": 125,
     "magic_defense": 56,
     "hit_100_percent": 434,
-    "flee_95_percent": 0,
+    "flee_95_percent": 532,
     "base_stats": {
       "str": 122,
       "agi": 81,
@@ -37,6 +37,13 @@
       "luk": 61
     }
   },
+  "spawns": [
+    {
+      "map_name": "lhz_dun04",
+      "description": "- 生體試驗 研究所 地下4樓",
+      "spawn_info": "42x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

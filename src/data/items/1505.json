@@ -1,0 +1,45 @@
+{
+  "id": 1505,
+  "name": {
+    "zh_tw": "鐵鎚",
+    "en": "Mace_"
+  },
+  "icon_url": "/images/items/1505.gif",
+  "category": "武器",
+  "description": {
+    "official": "鐵制的鈍器，是一種可以對對方痛擊的鈍器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1600,
+    "sell_price": 800,
+    "weight": 80
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2619,
+      "name": "精英 / 菁英 石斧海盜骷髏",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 2074,
+      "name": "小綠人",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2405,
+      "name": "石斧海盜骷髏",
+      "rate": 0.4
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

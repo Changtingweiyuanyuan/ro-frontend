@@ -1,0 +1,40 @@
+{
+  "id": 2287,
+  "name": {
+    "zh_tw": "海盜頭巾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2287.gif",
+  "category": "防具",
+  "description": {
+    "official": "有象徵海盜骷髏頭的圖案，會賦予佩帶此頭巾的人勇猛的力量。STR+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus bStr,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2676,
+      "name": "精英 / 迅捷 蠻刀海盜骷髏",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 2407,
+      "name": "蠻刀海盜骷髏",
+      "rate": 0.04
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

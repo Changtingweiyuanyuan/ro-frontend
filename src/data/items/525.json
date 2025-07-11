@@ -1,0 +1,110 @@
+{
+  "id": 525,
+  "name": {
+    "zh_tw": "萬能藥",
+    "en": "Panacea"
+  },
+  "icon_url": "/images/items/525.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "幾乎可以恢復所有陷入異常狀態的神祕藥水。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 10
+  },
+  "script": "{ sc_end SC_POISON; sc_end SC_SILENCE; sc_end SC_BLIND; sc_end SC_CONFUSION; sc_end SC_CURSE; sc_end SC_Hallucination; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1387,
+      "name": "沙漠毒蠍",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2739,
+      "name": "精英木乃伊 / 迅捷木乃伊",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2740,
+      "name": "精英木乃伊 / 雄壯木乃伊",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2717,
+      "name": "精英梅納海葵 / 憤怒梅納海葵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2716,
+      "name": "精英梅納海葵 / 菁英梅納海葵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2354,
+      "name": "木乃伊-咪魘",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1304,
+      "name": "狂暴蜘蛛",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1313,
+      "name": "流氓",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1180,
+      "name": "九尾狐",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1403,
+      "name": "武士火鎗兵",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1041,
+      "name": "木乃伊",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1216,
+      "name": "梅納海葵",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1296,
+      "name": "犬妖首領",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

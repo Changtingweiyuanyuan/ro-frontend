@@ -1,0 +1,39 @@
+{
+  "id": 4057,
+  "name": {
+    "zh_tw": "重金屬蝗蟲卡片",
+    "en": "Metaller_Card"
+  },
+  "icon_url": "/images/items/4057.gif",
+  "category": "卡片",
+  "description": {
+    "official": "攻擊時，有5%的幾率使敵人陷入沉默狀態。ATK+5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddEff,Eff_Silence,500; bonus bBaseAtk,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2754,
+      "name": "精英 / 迅捷 重金屬蝗蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3408,
+      "name": "重金屬蝗蟲",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1058,
+      "name": "重金屬蝗蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 727,
+  "name": {
+    "zh_tw": "白寶石",
+    "en": "White_Jewel"
+  },
+  "icon_url": "/images/items/727.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出白色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6000,
+    "sell_price": 3000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1093,
+      "name": "藍瘋兔",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3424,
+      "name": "藍瘋兔王",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 2464,
+      "name": "鬼哭神嚎園丁 / 腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 4.2
+    },
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 2.8
+    },
+    {
+      "monster_id": 2605,
+      "name": "精英 / 菁英 腐屍首領",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 2.1
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 1.4
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 1298,
+      "name": "腐屍首領",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3452,
+      "name": "殭屍警衛 / 殭屍衛士",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1243,
+      "name": "雪熊",
+      "rate": 0.15
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

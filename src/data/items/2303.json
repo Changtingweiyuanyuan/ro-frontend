@@ -1,0 +1,44 @@
+{
+  "id": 2303,
+  "name": {
+    "zh_tw": "皮製外套",
+    "en": "Leather_Jacket"
+  },
+  "icon_url": "/images/items/2303.gif",
+  "category": "防具",
+  "description": {
+    "official": "價格低廉的皮製外套，穿久了會有特別的皮革風采。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 200,
+    "sell_price": 100,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2632,
+      "name": "精英盜蟲 / 雄壯盜蟲",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2633,
+      "name": "精英盜蟲 / 菁英盜蟲",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2634,
+      "name": "精英盜蟲 / 憤怒盜蟲",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1051,
+      "name": "盜蟲",
+      "rate": 0.6
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

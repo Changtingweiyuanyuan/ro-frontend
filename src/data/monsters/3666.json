@@ -27,7 +27,7 @@
     "defense": 50,
     "magic_defense": 15,
     "hit_100_percent": 360,
-    "flee_95_percent": 0,
+    "flee_95_percent": 360,
     "base_stats": {
       "str": 45,
       "agi": 54,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@md_gef",
+      "description": "- 周五副本",
+      "spawn_info": "20x / 10 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

@@ -1,0 +1,80 @@
+{
+  "id": 971,
+  "name": {
+    "zh_tw": "帝特立米藥水",
+    "en": "Detrimindexta"
+  },
+  "icon_url": "/images/items/971.gif",
+  "category": "其他類",
+  "description": {
+    "official": "DetriminDEXta的縮寫。是無法輕易得到的液體，有著無法與水混合的特性，非常的稀少，常常被用來製成中和劑。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 400,
+    "sell_price": 200,
+    "weight": 3
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2688,
+      "name": "精英消防魔 / 菁英消防魔",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2371,
+      "name": "頑靈惡童",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2528,
+      "name": "驚駭森靈 / 人面蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1084,
+      "name": "黑菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3421,
+      "name": "蛙王",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3755,
+      "name": "毒血蘑菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1682,
+      "name": "消防魔",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2021,
+      "name": "費爾拉",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

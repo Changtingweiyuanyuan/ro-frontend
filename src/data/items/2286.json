@@ -1,0 +1,44 @@
+{
+  "id": 2286,
+  "name": {
+    "zh_tw": "妖精長耳朵飾",
+    "en": "中"
+  },
+  "icon_url": "/images/items/2286.gif",
+  "category": "防具",
+  "description": {
+    "official": "仿照妖精的耳朵做成的，配帶時可以感覺到變身為妖精的感覺。套裝資料:妖精長耳朵飾 & Skull Cap [1]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1502,
+      "name": "魔王波利",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2786,
+      "name": "精英 / 菁英 礦坑小精靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1838,
+      "name": "礦坑小精靈",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕紫箱"
+  ]
+}

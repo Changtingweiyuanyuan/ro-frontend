@@ -1,0 +1,35 @@
+{
+  "id": 2250,
+  "name": {
+    "zh_tw": "粉紗發圈",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2250.gif",
+  "category": "防具",
+  "description": {
+    "official": "用來固定頭髮的發圈，上面有一個小蝴蝶結為重點。最大SP+20",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 10
+  },
+  "script": "{ bonus bMaxSP,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3424,
+      "name": "藍瘋兔王",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1093,
+      "name": "藍瘋兔",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

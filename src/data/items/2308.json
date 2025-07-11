@@ -1,0 +1,55 @@
+{
+  "id": 2308,
+  "name": {
+    "zh_tw": "大衣",
+    "en": "Mantle_"
+  },
+  "icon_url": "/images/items/2308.gif",
+  "category": "防具",
+  "description": {
+    "official": "沒有腰身的長大衣。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2687,
+      "name": "精英諾可伊 / 雄壯諾可伊",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1164,
+      "name": "諾可伊",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1753,
+      "name": "彩色皮影魔",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

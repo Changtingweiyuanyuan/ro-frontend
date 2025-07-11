@@ -27,7 +27,7 @@
     "defense": 93,
     "magic_defense": 40,
     "hit_100_percent": 424,
-    "flee_95_percent": 0,
+    "flee_95_percent": 451,
     "base_stats": {
       "str": 111,
       "agi": 90,
@@ -37,6 +37,43 @@
       "luk": 65
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cata",
+      "description": "- 咯塔空 地下墓穴",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@cata",
+      "description": "- 封印的神殿 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abbey01",
+      "description": "- 修道院 F1",
+      "spawn_info": "21x / 5 秒"
+    },
+    {
+      "map_name": "abbey02",
+      "description": "- 修道院 F2",
+      "spawn_info": "21x / 5 秒"
+    },
+    {
+      "map_name": "abbey03",
+      "description": "- 修道院 F3",
+      "spawn_info": "25x / 5 秒"
+    },
+    {
+      "map_name": "nameless_n",
+      "description": "- 無名島",
+      "spawn_info": "3x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 958,

@@ -1,0 +1,70 @@
+{
+  "id": 619,
+  "name": {
+    "zh_tw": "青蘋果",
+    "en": "Unripe_Apple"
+  },
+  "icon_url": "/images/items/619.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "尚未熟透就掉落的蘋果。是魔物波利最喜愛的食物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 5
+  },
+  "script": "{ pet 1002; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1250,
+      "name": "魔靈娃娃",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

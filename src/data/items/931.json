@@ -1,0 +1,55 @@
+{
+  "id": 931,
+  "name": {
+    "zh_tw": "獸人戰士之證",
+    "en": "Orcish_Voucher"
+  },
+  "icon_url": "/images/items/931.gif",
+  "category": "其他類",
+  "description": {
+    "official": "代表獸人戰士身份地位的雕刻品。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 142,
+    "sell_price": 71,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2805,
+      "name": "精英 / 雄壯 獸人戰士長",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1213,
+      "name": "獸人戰士長",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1588,
+      "name": "聖誕獸人戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1235,
+      "name": "吸菸的獸人戰士",
+      "rate": 27.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

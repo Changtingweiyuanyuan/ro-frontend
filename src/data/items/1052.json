@@ -1,0 +1,80 @@
+{
+  "id": 1052,
+  "name": {
+    "zh_tw": "單細胞",
+    "en": "Single_Cell"
+  },
+  "icon_url": "/images/items/1052.gif",
+  "category": "其他類",
+  "description": {
+    "official": "單細胞。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 46,
+    "sell_price": 23,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2700,
+      "name": "精英 / 雄壯 三葉鐵甲蟲",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 1858,
+      "name": "漂浮蟲",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1972,
+      "name": "水母_E",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1141,
+      "name": "水母",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2404,
+      "name": "變異幽浮水母",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20593,
+      "name": "絕命毒霧",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20602,
+      "name": "白色三葉鐵甲蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1619,
+      "name": "三葉鐵甲蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1266,
+      "name": "海星",
+      "rate": 6.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

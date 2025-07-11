@@ -1,0 +1,237 @@
+{
+  "id": 995,
+  "name": {
+    "zh_tw": "水靈原石",
+    "en": "Mistic_Frozen"
+  },
+  "icon_url": "/images/items/995.gif",
+  "category": "其他類",
+  "description": {
+    "official": "擁有水屬性的礦石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3000,
+    "sell_price": 1500,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2534,
+      "name": "藍色驚駭森靈女王 / 人面蟲皇后",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 20421,
+      "name": "汙染蜘蛛女王",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1251,
+      "name": "冰暴騎士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1252,
+      "name": "卡崙",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20928,
+      "name": "變異救世主凱美拉",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20811,
+      "name": "深海魔鬼大烏賊",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2208,
+      "name": "野貓騎士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20843,
+      "name": "深海魔女",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2202,
+      "name": "魔鬼大烏賊",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2794,
+      "name": "精英冰巨人 / 迅捷冰巨人",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3793,
+      "name": "憤怒的雪怪 / 憤怒雪獸",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 20805,
+      "name": "深海人魚士兵",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 20807,
+      "name": "深海異變魚",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20809,
+      "name": "深海劍魚",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20921,
+      "name": "變異獨角光輝凱美拉",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1777,
+      "name": "冰巨人",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2198,
+      "name": "大腳龍蝦",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3070,
+      "name": "貝爾 / 派",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3072,
+      "name": "貝爾 / 派",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2367,
+      "name": "元素鬼火(藍)",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 20808,
+      "name": "深海海神",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 1969,
+      "name": "馬克_E",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 2709,
+      "name": "精英食人魚 / 迅捷食人魚",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2795,
+      "name": "精英亞拉 / 雄壯亞拉",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1970,
+      "name": "人魚_E",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 2182,
+      "name": "遠古海馬",
+      "rate": 0.12
+    },
+    {
+      "monster_id": 20803,
+      "name": "深海狄奧斯",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1045,
+      "name": "馬克",
+      "rate": 0.09
+    },
+    {
+      "monster_id": 2175,
+      "name": "深海魷魚",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1044,
+      "name": "人魚",
+      "rate": 0.07
+    },
+    {
+      "monster_id": 2184,
+      "name": "深海人魚",
+      "rate": 0.07
+    },
+    {
+      "monster_id": 20804,
+      "name": "深海烏賊",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 2181,
+      "name": "遠古異變魚",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1069,
+      "name": "異變魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2069,
+      "name": "亞拉",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2070,
+      "name": "食人魚",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1972,
+      "name": "水母_E",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1141,
+      "name": "水母",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": 715,
+  "name": {
+    "zh_tw": "黃色魔力礦石",
+    "en": "Yellow_Gemstone"
+  },
+  "icon_url": "/images/items/715.gif",
+  "category": "其他類",
+  "description": {
+    "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 450,
+    "sell_price": 225,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2846,
+      "name": "精英爆鑽傘蜥 / 憤怒爆鑽傘蜥",
+      "rate": 97.0
+    },
+    {
+      "monster_id": 3764,
+      "name": "真理超魔導師",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2834,
+      "name": "精英偽天使 / 迅捷偽天使",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1380,
+      "name": "爆鑽傘蜥",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 1378,
+      "name": "天邪鬼",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 2919,
+      "name": "惡靈朽魔 / 變種朽魔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1371,
+      "name": "偽天使",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2812,
+      "name": "精英巨石怪 / 憤怒巨石怪",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1199,
+      "name": "朽魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2750,
+      "name": "精英礦石魔 / 雄壯礦石魔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2706,
+      "name": "精英等離子體 / 菁英等離子體",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20693,
+      "name": "強大魔力",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 20690,
+      "name": "釋放魔力",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1040,
+      "name": "巨石怪",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3405,
+      "name": "巨石怪",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3387,
+      "name": "小雞",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1241,
+      "name": "蛋殼小雞",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1049,
+      "name": "小雞",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1240,
+      "name": "小雞",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1614,
+      "name": "礦石魔",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1976,
+      "name": "鈷礦石魔 / 惡精靈礦石",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1693,
+      "name": "黃色等離子體",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3013,
+      "name": "墮落的獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3016,
+      "name": "墮落的獸人腐屍",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3010,
+      "name": "墮落的獸人嬰兒",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3017,
+      "name": "墮落的畢萊特",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3018,
+      "name": "墮落的邪骸食人魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3011,
+      "name": "墮落的沙漠幼狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3014,
+      "name": "墮落的沙漠之狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3012,
+      "name": "墮落的吸血蝙蝠",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3015,
+      "name": "墮落的劍魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3622,
+      "name": "特殊警衛",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

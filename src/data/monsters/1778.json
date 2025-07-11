@@ -27,7 +27,7 @@
     "defense": 71,
     "magic_defense": 21,
     "hit_100_percent": 350,
-    "flee_95_percent": 0,
+    "flee_95_percent": 404,
     "base_stats": {
       "str": 105,
       "agi": 37,
@@ -37,6 +37,28 @@
       "luk": 38
     }
   },
+  "spawns": [
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ice_dun01",
+      "description": "- 拉赫 冰洞穴 1層",
+      "spawn_info": "2x / 5 秒"
+    },
+    {
+      "map_name": "ice_dun02",
+      "description": "- 拉赫 冰洞穴 2層",
+      "spawn_info": "15x / 5 秒"
+    },
+    {
+      "map_name": "ice_dun03",
+      "description": "- 拉赫 冰洞穴 3層",
+      "spawn_info": "42x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 985,

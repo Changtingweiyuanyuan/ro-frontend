@@ -1,0 +1,85 @@
+{
+  "id": 1056,
+  "name": {
+    "zh_tw": "黃玉碎片",
+    "en": "Grit"
+  },
+  "icon_url": "/images/items/1056.gif",
+  "category": "其他類",
+  "description": {
+    "official": "黃玉碎片。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 306,
+    "sell_price": 153,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2674,
+      "name": "精英泥人 / 憤怒泥人",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2656,
+      "name": "精英沙妖 / 迅捷沙妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2655,
+      "name": "精英沙妖 / 狡猾沙妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2689,
+      "name": "精英紅海星 / 狡猾紅海星",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 3409,
+      "name": "泥人",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1165,
+      "name": "泥人",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1386,
+      "name": "沙妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2197,
+      "name": "紅海星",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2178,
+      "name": "深海貝殼",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2203,
+      "name": "醬缸章魚",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

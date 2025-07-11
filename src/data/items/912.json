@@ -1,0 +1,490 @@
+{
+  "id": 912,
+  "name": {
+    "zh_tw": "剎勒空結晶",
+    "en": "Zargon"
+  },
+  "icon_url": "/images/items/912.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 480,
+    "sell_price": 240,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2873,
+      "name": "精英突變蜈蚣 / 迅捷變異蜈蚣",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2789,
+      "name": "精英傘妖 / 迅捷傘妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2614,
+      "name": "精英 / 雄壯 風魔巫師",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2826,
+      "name": "精英 / 菁英 蝙蝠弓箭手",
+      "rate": 97.0
+    },
+    {
+      "monster_id": 2827,
+      "name": "精英 / 憤怒 蝙蝠弓箭手",
+      "rate": 97.0
+    },
+    {
+      "monster_id": 2687,
+      "name": "精英諾可伊 / 雄壯諾可伊",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2888,
+      "name": "精英 / 雄壯 巴拿斯帕堤",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2830,
+      "name": "精英水靈龜 / 雄壯水靈龜",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2831,
+      "name": "精英水靈龜 / 菁英水靈龜",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2910,
+      "name": "精英鐘怪 / 狡猾鐘怪",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2663,
+      "name": "精英黑蛇 / 菁英黑蛇",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2662,
+      "name": "精英黑蛇 / 雄壯黑蛇",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2797,
+      "name": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 2805,
+      "name": "精英 / 雄壯 獸人戰士長",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 2892,
+      "name": "精英 / 迅捷 艾吉歐蜈蚣",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2891,
+      "name": "精英 / 狡猾 艾吉歐蜈蚣",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1999,
+      "name": "變異蜈蚣幼蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1987,
+      "name": "變異蜈蚣",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2907,
+      "name": "精英鱷魚人 / 雄壯鱷魚人",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1582,
+      "name": "惡魔波利",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 20380,
+      "name": "火魔巫師",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 1263,
+      "name": "風魔巫師",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 20379,
+      "name": "冰魔巫師",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 21.83
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 21.83
+    },
+    {
+      "monster_id": 1400,
+      "name": "傘妖",
+      "rate": 20.37
+    },
+    {
+      "monster_id": 3197,
+      "name": "變種蝙蝠弓箭手",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 1253,
+      "name": "蝙蝠弓箭手",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 2818,
+      "name": "精英深淵犬妖 / 狡猾深淵犬妖",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1587,
+      "name": "克萊本",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 2817,
+      "name": "精英深淵犬妖 / 憤怒深淵犬妖",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 2785,
+      "name": "精英犬妖 / 雄壯犬妖",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 20272,
+      "name": "古代邪惡摩艾",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1292,
+      "name": "狂暴小惡魔",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1305,
+      "name": "狂暴蜈蚣",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1392,
+      "name": "直升機哥布靈",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1164,
+      "name": "諾可伊",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1313,
+      "name": "流氓",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1309,
+      "name": "狂暴鬼火",
+      "rate": 11.5
+    },
+    {
+      "monster_id": 2893,
+      "name": "精英卷甲蟲 / 雄壯卷甲蟲",
+      "rate": 11.25
+    },
+    {
+      "monster_id": 2894,
+      "name": "精英卷甲蟲 / 菁英卷甲蟲",
+      "rate": 11.25
+    },
+    {
+      "monster_id": 2154,
+      "name": "巴拿斯帕堤",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1131,
+      "name": "裘卡",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20369,
+      "name": "冰凍蝙蝠弓箭手",
+      "rate": 9.7
+    },
+    {
+      "monster_id": 1319,
+      "name": "水靈龜",
+      "rate": 9.0
+    },
+    {
+      "monster_id": 1156,
+      "name": "畢帝特飛龍",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1193,
+      "name": "鐘怪",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2917,
+      "name": "大鐘怪",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2355,
+      "name": "木乃伊犬-咪魘",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 1037,
+      "name": "黑蛇",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 1035,
+      "name": "赤蒼蠅",
+      "rate": 6.5
+    },
+    {
+      "monster_id": 1213,
+      "name": "獸人戰士長",
+      "rate": 6.5
+    },
+    {
+      "monster_id": 2784,
+      "name": "精英 / 迅捷 犬妖弓箭手",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1314,
+      "name": "果樹龜",
+      "rate": 6.2
+    },
+    {
+      "monster_id": 1099,
+      "name": "艾吉歐蜈蚣",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1296,
+      "name": "犬妖首領",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1211,
+      "name": "伊特瓢蟲",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 2812,
+      "name": "精英巨石怪 / 憤怒巨石怪",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 1271,
+      "name": "鱷魚人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2358,
+      "name": "卷甲蟲-咪魘",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3416,
+      "name": "鱷魚人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3663,
+      "name": "南瓜先生",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 3662,
+      "name": "南瓜先生",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 1130,
+      "name": "南瓜先生",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 1250,
+      "name": "魔靈娃娃",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 1243,
+      "name": "雪熊",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 1032,
+      "name": "畢萊特",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 1133,
+      "name": "大斧犬妖",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 2285,
+      "name": "深淵犬妖 (榔頭)",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 2286,
+      "name": "深淵犬妖 (刺錘)",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 2284,
+      "name": "深淵犬妖 (大斧)",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 1129,
+      "name": "鬼火",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2541,
+      "name": "驚駭森靈幼蟲 / 人面蟲幼蟲",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1194,
+      "name": "卷甲蟲",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 3175,
+      "name": "直升機哥布靈",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1282,
+      "name": "犬妖弓箭手",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2287,
+      "name": "深淵犬妖弓箭手",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3405,
+      "name": "巨石怪",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 1040,
+      "name": "巨石怪",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 1135,
+      "name": "刺錘犬妖",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1246,
+      "name": "甜餅人",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1134,
+      "name": "榔頭犬妖",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1311,
+      "name": "狂暴野豬",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3419,
+      "name": "邪惡摩艾",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1136,
+      "name": "犬妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1274,
+      "name": "邪惡摩艾",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1137,
+      "name": "犬妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1266,
+      "name": "海星",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2768,
+      "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1856,
+      "name": "魔鍋蛋",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1138,
+      "name": "魔鍋蛋",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1855,
+      "name": "毒魔菇",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

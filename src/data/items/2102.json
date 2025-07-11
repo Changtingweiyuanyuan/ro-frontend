@@ -1,0 +1,65 @@
+{
+  "id": 2102,
+  "name": {
+    "zh_tw": "鐵盾",
+    "en": "Guard_"
+  },
+  "icon_url": "/images/items/2102.gif",
+  "category": "防具",
+  "description": {
+    "official": "可以抵擋敵人攻擊的簡易道具。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2787,
+      "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1494,
+      "name": "巨象甲蟲",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1047,
+      "name": "大嘴鳥蛋",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1232,
+      "name": "大嘴鳥蛋",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1587,
+      "name": "克萊本",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

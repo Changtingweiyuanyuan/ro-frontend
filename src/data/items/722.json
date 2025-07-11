@@ -1,0 +1,96 @@
+{
+  "id": 722,
+  "name": {
+    "zh_tw": "珍珠",
+    "en": "Scarlet_Jewel"
+  },
+  "icon_url": "/images/items/722.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出粉紅色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6000,
+    "sell_price": 3000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1059,
+      "name": "蜂後",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2665,
+      "name": "精英安息者 / 狡猾安息者",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2759,
+      "name": "精英米杜沙 / 迅捷米杜沙",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1701,
+      "name": "安息者",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2737,
+      "name": "精英邪惡禮盒 / 憤怒邪惡禮盒",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 1148,
+      "name": "米杜沙",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1249,
+      "name": "邪惡禮盒",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2821,
+      "name": "精英狂暴蜂兵 / 菁英狂暴蜂兵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1246,
+      "name": "甜餅人",
+      "rate": 0.23
+    },
+    {
+      "monster_id": 1303,
+      "name": "狂暴蜂兵",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

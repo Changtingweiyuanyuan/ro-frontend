@@ -1,0 +1,245 @@
+{
+  "id": 518,
+  "name": {
+    "zh_tw": "蜂蜜",
+    "en": "Honey"
+  },
+  "icon_url": "/images/items/518.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "味道香甜的液體，營養價值相當高，常被拿來治療用可恢復少量HP與SP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 10
+  },
+  "script": "{ itemheal rand(70,100),rand(20,40); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1059,
+      "name": "蜂後",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1115,
+      "name": "虎王",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2095,
+      "name": "虎王_E",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2099,
+      "name": "蜂後_E",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2821,
+      "name": "精英狂暴蜂兵 / 菁英狂暴蜂兵",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2636,
+      "name": "精英玩偶熊 / 迅捷玩偶熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2647,
+      "name": "精英岩石龜 / 雄壯岩石龜",
+      "rate": 21.25
+    },
+    {
+      "monster_id": 2156,
+      "name": "讓特",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2780,
+      "name": "精英 / 雄壯 狂暴大腳熊",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2849,
+      "name": "精英暴躁龍 / 雄壯暴躁龍",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 11.25
+    },
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2773,
+      "name": "精英 / 狡猾 魯修拉黃蜂",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1303,
+      "name": "狂暴蜂兵",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1622,
+      "name": "玩偶熊",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1417,
+      "name": "拉鏈熊",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 1316,
+      "name": "岩石龜",
+      "rate": 4.25
+    },
+    {
+      "monster_id": 3802,
+      "name": "不祥岩石龜",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1293,
+      "name": "狂暴克瑞米",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 1519,
+      "name": "小青",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1631,
+      "name": "小青",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2852,
+      "name": "精英假面鬼 / 狡猾假面鬼",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2013,
+      "name": "飛龍 / 暴躁龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1306,
+      "name": "狂暴大腳熊",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1994,
+      "name": "毒黃蜂 / 魯修拉黃蜂",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3498,
+      "name": "狂野蜂兵",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1231,
+      "name": "克瑞米",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 2168,
+      "name": "鹿角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2090,
+      "name": "鹿角甲蟲卵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2166,
+      "name": "獨角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2089,
+      "name": "雙角甲蟲卵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1506,
+      "name": "假面鬼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2167,
+      "name": "雙角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2091,
+      "name": "尖角甲蟲卵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2169,
+      "name": "尖角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2088,
+      "name": "獨角甲蟲卵",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 628,
+  "name": {
+    "zh_tw": "營養大骨",
+    "en": "Well_Dried_Bone"
+  },
+  "icon_url": "/images/items/628.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "在熾熱的陽光下晒乾而成的骨骼。是魔物沙漠幼狼最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 5
+  },
+  "script": "{ pet 1107; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2676,
+      "name": "精英 / 迅捷 蠻刀海盜骷髏",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1866,
+      "name": "地獄犬 / 地獄貴賓狗",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2407,
+      "name": "蠻刀海盜骷髏",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

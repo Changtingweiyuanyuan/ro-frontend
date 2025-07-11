@@ -1,0 +1,31 @@
+{
+  "id": 5088,
+  "name": {
+    "zh_tw": "嚇壞眼的假面",
+    "en": "中下"
+  },
+  "icon_url": "/images/items/5088.gif",
+  "category": "防具",
+  "description": {
+    "official": "眼睛睜很大圓圓表情的假面，假如有驚嚇的事情時，試著帶帶看。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1124,
+      "name": "大斧哥布靈",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "包裝的面具"
+  ]
+}

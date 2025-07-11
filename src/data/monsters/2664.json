@@ -27,7 +27,7 @@
     "defense": 49,
     "magic_defense": 45,
     "hit_100_percent": 392,
-    "flee_95_percent": 0,
+    "flee_95_percent": 358,
     "base_stats": {
       "str": 71,
       "agi": 91,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "ama_dun03",
+      "description": "- 櫻花城迷宮3層 (地下神社)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 2336,

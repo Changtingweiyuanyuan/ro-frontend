@@ -1,0 +1,55 @@
+{
+  "id": 2337,
+  "name": {
+    "zh_tw": "忍服 血櫻",
+    "en": "Ninja_Suit"
+  },
+  "icon_url": "/images/items/2337.gif",
+  "category": "防具",
+  "description": {
+    "official": "在東方某一島國傳進來的輕便衣服。AGI+1，MDEF+3套裝資料:忍服 血櫻 & 火忍西怒畢的腰帶",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 150
+  },
+  "script": "{ bonus bAgi,1; bonus bMdef,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2783,
+      "name": "精英暗●刺客 / 狡猾暗●刺客",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2429,
+      "name": "暗●刺客",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2416,
+      "name": "暗●刺客",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2664,
+      "name": "精英 / 憤怒 火忍西怒畢",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1401,
+      "name": "火忍西怒畢",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

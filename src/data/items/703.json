@@ -1,0 +1,50 @@
+{
+  "id": 703,
+  "name": {
+    "zh_tw": "西納雷花",
+    "en": "Hinalle"
+  },
+  "icon_url": "/images/items/703.gif",
+  "category": "其他類",
+  "description": {
+    "official": "世界各地隨處都可見到的普通植物，雖沒什麼香味，外觀也不顯眼，卻可給很多人帶來淡淡喜悅。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2680,
+      "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2695,
+      "name": "精英草精 / 迅捷草精",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1052,
+      "name": "蝗蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1162,
+      "name": "草精",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

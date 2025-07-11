@@ -1,0 +1,840 @@
+{
+  "id": 603,
+  "name": {
+    "zh_tw": "神祕箱子",
+    "en": "Old_Blue_Box"
+  },
+  "icon_url": "/images/items/603.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "會散髮出神祕藍色光芒的舊箱子，打開的話好像有什麼東西會跑出來似的。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 20
+  },
+  "script": "{ getrandgroupitem(IG_BlueBox,1); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1832,
+      "name": "伊夫利特",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1343,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1341,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1345,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1347,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1351,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1349,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1339,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1337,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1329,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1327,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1331,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1333,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1335,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1353,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1357,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1646,
+      "name": "暗●騎士領主 賽依連",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1651,
+      "name": "暗●超魔導師 凱特莉娜",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1973,
+      "name": "波利_E",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1685,
+      "name": "貝思波",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1708,
+      "name": "魔劍士 達納托斯的記憶",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1719,
+      "name": "迪塔勒泰晤勒斯",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1648,
+      "name": "暗●神工匠 哈沃得",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1650,
+      "name": "暗●神射手 迪文",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1359,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1325,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1361,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1363,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1647,
+      "name": "暗●十字刺客 艾勒梅斯",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1355,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1649,
+      "name": "暗●神官 瑪嘉雷特",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1734,
+      "name": "基爾 D-01 / 齊爾 D-01",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1751,
+      "name": "蘭特克力斯",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3473,
+      "name": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3427,
+      "name": "俄塞里斯",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1038,
+      "name": "俄塞里斯",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1147,
+      "name": "蟻後",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20620,
+      "name": "紅椒 / 卡帕",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2441,
+      "name": "最後的初心者 / 魔鬼孩子王",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20621,
+      "name": "咪魘紅椒 / 卡帕",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2442,
+      "name": "超級初心者之王 / 魔鬼孩子王",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1252,
+      "name": "卡崙",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1630,
+      "name": "白素貞",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1658,
+      "name": "暗●劍士 賽尼亞",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2238,
+      "name": "暗●武術宗師 陳理歐",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2239,
+      "name": "暗●神行太保 科迪",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2236,
+      "name": "暗●創造者 普拉梅姆",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2237,
+      "name": "暗●智者 西里亞",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2240,
+      "name": "暗●搞笑藝人 雅歐帕奇爾",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2235,
+      "name": "暗●聖殿十字軍 蘭達",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2112,
+      "name": "暗●騎士領主 賽依連_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2109,
+      "name": "蘭特克力斯_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2113,
+      "name": "暗●十字刺客 艾勒梅斯_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1813,
+      "name": "三頭龍",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2106,
+      "name": "阿修羅機械戰士_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2111,
+      "name": "暗●神工匠 哈沃得_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2096,
+      "name": "俄塞里斯_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1251,
+      "name": "冰暴騎士",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1792,
+      "name": "足球",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3633,
+      "name": "劇毒凱美拉",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2211,
+      "name": "玩偶熊_E",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3628,
+      "name": "邪心獵人 伊芙 / 暗●邪心獵人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3621,
+      "name": "小可愛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1681,
+      "name": "雙子星-S58",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2093,
+      "name": "布達林",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3029,
+      "name": "死神安庫",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2999,
+      "name": "咪羅克的魔法師",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3000,
+      "name": "咪羅克的亡靈巫師",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2752,
+      "name": "精英邪惡箱 / 憤怒邪惡箱",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 2753,
+      "name": "精英邪惡箱 / 狡猾邪惡箱",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 2451,
+      "name": "神奇貝比",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3505,
+      "name": "巨型蛋黃波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2450,
+      "name": "神偷波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2687,
+      "name": "精英諾可伊 / 雄壯諾可伊",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 3504,
+      "name": "突擊巴西利斯克",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 2903,
+      "name": "精英 / 菁英 狂暴邪惡箱",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1398,
+      "name": "水元素",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1180,
+      "name": "九尾狐",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3799,
+      "name": "不祥風靈龜",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2689,
+      "name": "精英紅海星 / 狡猾紅海星",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2479,
+      "name": "受詛咒寶箱",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1954,
+      "name": "天使彩蛋",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2737,
+      "name": "精英邪惡禮盒 / 憤怒邪惡禮盒",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2356,
+      "name": "邪惡箱-咪魘",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3631,
+      "name": "人型凱美拉",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3632,
+      "name": "物質型凱美拉",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2669,
+      "name": "精英賽杜拉 / 憤怒賽杜拉",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1191,
+      "name": "邪惡箱",
+      "rate": 0.23
+    },
+    {
+      "monster_id": 3018,
+      "name": "墮落的邪骸食人魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3017,
+      "name": "墮落的畢萊特",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3014,
+      "name": "墮落的沙漠之狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3011,
+      "name": "墮落的沙漠幼狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1839,
+      "name": "漂流浪人",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3012,
+      "name": "墮落的吸血蝙蝠",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3013,
+      "name": "墮落的獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3010,
+      "name": "墮落的獸人嬰兒",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3016,
+      "name": "墮落的獸人腐屍",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3015,
+      "name": "墮落的劍魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1164,
+      "name": "諾可伊",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 1061,
+      "name": "咪魘",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1699,
+      "name": "狂暴邪惡箱",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3660,
+      "name": "咪魘",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3661,
+      "name": "咪魘",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2775,
+      "name": "精英猴桃木 / 雄壯猴桃木",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1249,
+      "name": "邪惡禮盒",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2197,
+      "name": "紅海星",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2782,
+      "name": "精英暗●流氓 / 憤怒暗●流氓",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2783,
+      "name": "精英暗●刺客 / 狡猾暗●刺客",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2876,
+      "name": "精英 / 憤怒 狂暴綠棉蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2624,
+      "name": "精英毒液魔 / 菁英毒液魔",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2889,
+      "name": "精英風靈龜 / 菁英風靈龜",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1120,
+      "name": "幽靈波利",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2727,
+      "name": "精英廢氣魔 / 憤怒廢氣魔",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2204,
+      "name": "賽杜拉",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 20806,
+      "name": "深海賽杜拉",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1587,
+      "name": "克萊本",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1410,
+      "name": "猴桃木",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3627,
+      "name": "邪心獵人保鏢",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3622,
+      "name": "特殊警衛",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3489,
+      "name": "粉碎犁士兵",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2425,
+      "name": "暗●舞孃",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2419,
+      "name": "暗●巫師",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2427,
+      "name": "暗●武僧",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2422,
+      "name": "暗●流氓",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2421,
+      "name": "暗●十字軍",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2416,
+      "name": "暗●刺客",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 3487,
+      "name": "剁肉刀士兵",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 3451,
+      "name": "不死軍團",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 3488,
+      "name": "憎惡鐮刀士兵",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2420,
+      "name": "暗●牧師",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2423,
+      "name": "暗●煉金術士",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2415,
+      "name": "暗●騎士",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1883,
+      "name": "樹林女巫",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1291,
+      "name": "狂暴惡靈",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1300,
+      "name": "狂暴綠棉蟲",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2417,
+      "name": "暗●鐵匠",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2418,
+      "name": "暗●獵人",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2424,
+      "name": "暗●詩人",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2426,
+      "name": "暗●賢者",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1315,
+      "name": "風靈龜",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3444,
+      "name": "觀察者",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2428,
+      "name": "暗●騎士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2434,
+      "name": "暗●十字軍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2432,
+      "name": "暗●巫師",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2435,
+      "name": "暗●流氓",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2429,
+      "name": "暗●刺客",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1633,
+      "name": "惡魔之眼",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1632,
+      "name": "小妖精",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3176,
+      "name": "小妖精",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1620,
+      "name": "廢氣魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2436,
+      "name": "暗●煉金術士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2431,
+      "name": "暗●獵人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3740,
+      "name": "瓦斯特",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1518,
+      "name": "白素貞",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3177,
+      "name": "目擊者 / 惡魔之眼",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1621,
+      "name": "毒液魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2430,
+      "name": "暗●鐵匠",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2438,
+      "name": "暗●舞孃",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2437,
+      "name": "暗●詩人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2439,
+      "name": "暗●賢者",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1975,
+      "name": "眼魔首領",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "恐怖玩具工廠",
+    "禮物箱/禮盒"
+  ]
+}

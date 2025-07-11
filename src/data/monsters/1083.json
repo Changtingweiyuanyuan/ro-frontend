@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 99,
     "hit_100_percent": 220,
-    "flee_95_percent": 0,
+    "flee_95_percent": 202,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,6 +37,198 @@
       "luk": 90
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@md_gef",
+      "description": "- 周五副本",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "1@md_gef(hard)",
+      "description": "- 周五副本 - 噩咪模式",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "bra_dun02",
+      "description": "- 巴西瀑布裡的洞穴內部",
+      "spawn_info": "2x / 5 秒"
+    },
+    {
+      "map_name": "cmd_fild01",
+      "description": "- 巴不其卡 森林",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "cmd_fild03",
+      "description": "- 基乃依 沼澤地",
+      "spawn_info": "3x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gef_dun00",
+      "description": "- 吉芬塔 地下密穴 1層",
+      "spawn_info": "1x / 50~75 分鐘"
+    },
+    {
+      "map_name": "gef_dun02",
+      "description": "- 吉芬塔 地下密穴 3層",
+      "spawn_info": "2x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gef_dun03",
+      "description": "- 吉芬塔 地下密穴 4層",
+      "spawn_info": "5x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gef_fild02",
+      "description": "- 吉芬 區域",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gef_fild06",
+      "description": "- 吉芬 區域",
+      "spawn_info": "4x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gef_fild07",
+      "description": "- 吉芬 區域",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "glast_01",
+      "description": "- 克雷斯特漢姆古城",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "gon_fild01",
+      "description": "- 昆崙原野",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "lou_dun01",
+      "description": "- 洛陽 古都王陵 1層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "mjolnir_01",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "2x / 30~45 分鐘"
+    },
+    {
+      "map_name": "mjolnir_03",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "2x / 30~45 分鐘"
+    },
+    {
+      "map_name": "mjolnir_04",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "3x / 30~45 分鐘"
+    },
+    {
+      "map_name": "mjolnir_05",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "mjolnir_10",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "mosk_dun03",
+      "description": "- 莫斯科比亞 深淵森林",
+      "spawn_info": "5x / 10 秒"
+    },
+    {
+      "map_name": "odin_tem03",
+      "description": "- 奧丁神殿 3層",
+      "spawn_info": "18x / 30~45 分鐘"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "2x / 30~45 分鐘"
+    },
+    {
+      "map_name": "pay_fild04",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "pay_fild06",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "pay_fild08",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "1x / 60~90 分鐘"
+    },
+    {
+      "map_name": "pay_fild09",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "prt_fild00",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "prt_fild02",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "3x / 30~45 分鐘"
+    },
+    {
+      "map_name": "prt_fild10",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "2x / 30~45 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "5x / 30~45 分鐘"
+    },
+    {
+      "map_name": "rockrdg2",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "um_fild01",
+      "description": "- 嚕嚕卡森林",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "um_fild03",
+      "description": "- 卡拉拉森林",
+      "spawn_info": "2x / 3~5 分鐘"
+    },
+    {
+      "map_name": "ve_fild01",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "1x / 16 分鐘"
+    },
+    {
+      "map_name": "yggdrasil01",
+      "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
+      "spawn_info": "10x / 20~30 分鐘"
+    },
+    {
+      "map_name": "yuno_fild01",
+      "description": "- 國界 檢查站",
+      "spawn_info": "3x / 30~45 分鐘"
+    },
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "1x / 30~45 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

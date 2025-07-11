@@ -1,0 +1,40 @@
+{
+  "id": 1012,
+  "name": {
+    "zh_tw": "傘蜥頸",
+    "en": "Lizard_Scruff"
+  },
+  "icon_url": "/images/items/1012.gif",
+  "category": "其他類",
+  "description": {
+    "official": "住在沙漠中的傘蜥有著華麗圖案的頸部。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 250,
+    "sell_price": 125,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2846,
+      "name": "精英爆鑽傘蜥 / 憤怒爆鑽傘蜥",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1380,
+      "name": "爆鑽傘蜥",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 27.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

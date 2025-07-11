@@ -27,7 +27,7 @@
     "defense": 56,
     "magic_defense": 3,
     "hit_100_percent": 385,
-    "flee_95_percent": 0,
+    "flee_95_percent": 405,
     "base_stats": {
       "str": 21,
       "agi": 58,
@@ -37,6 +37,13 @@
       "luk": 66
     }
   },
+  "spawns": [
+    {
+      "map_name": "nyd_dun01",
+      "description": "- 尼德霍格洞穴 1樓",
+      "spawn_info": "40x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

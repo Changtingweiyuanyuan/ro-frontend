@@ -1,0 +1,75 @@
+{
+  "id": 712,
+  "name": {
+    "zh_tw": "花",
+    "en": "Flower"
+  },
+  "icon_url": "/images/items/712.gif",
+  "category": "其他類",
+  "description": {
+    "official": "沒有名稱的花。沒有香味也沒有荊棘。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2,
+    "sell_price": 1,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2996,
+      "name": "席琳基米",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 20669,
+      "name": "帕皮拉",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20670,
+      "name": "咪魘帕皮拉",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1231,
+      "name": "克瑞米",
+      "rate": 4.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

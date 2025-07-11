@@ -1,0 +1,40 @@
+{
+  "id": 2220,
+  "name": {
+    "zh_tw": "漁夫帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2220.gif",
+  "category": "防具",
+  "description": {
+    "official": "可以遮蔽陽光的寬鬆帽子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2646,
+      "name": "精英魔菇 / 迅捷魔菇",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3390,
+      "name": "魔菇",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1014,
+      "name": "魔菇",
+      "rate": 0.3
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

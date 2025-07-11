@@ -1,0 +1,70 @@
+{
+  "id": 960,
+  "name": {
+    "zh_tw": "鉗子",
+    "en": "Nipper"
+  },
+  "icon_url": "/images/items/960.gif",
+  "category": "其他類",
+  "description": {
+    "official": "螃蟹的鉗子，比想象中還要堅硬，注意一旦被夾到，就不容易甩開，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 114,
+    "sell_price": 57,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2174,
+      "name": "遠古甲殼類",
+      "rate": 67.5
+    },
+    {
+      "monster_id": 2075,
+      "name": "Ragunta",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1971,
+      "name": "螃蟹_E",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2198,
+      "name": "大腳龍蝦",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20810,
+      "name": "深海大腳龍蝦",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2176,
+      "name": "深海大蟹",
+      "rate": 11.24
+    },
+    {
+      "monster_id": 1073,
+      "name": "卡拉蟹",
+      "rate": 7.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

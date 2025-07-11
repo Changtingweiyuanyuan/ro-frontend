@@ -27,7 +27,7 @@
     "defense": 132,
     "magic_defense": 123,
     "hit_100_percent": 418,
-    "flee_95_percent": 0,
+    "flee_95_percent": 543,
     "base_stats": {
       "str": 144,
       "agi": 66,
@@ -37,6 +37,13 @@
       "luk": 132
     }
   },
+  "spawns": [
+    {
+      "map_name": "spl_fild03",
+      "description": "- 輝煌領域",
+      "spawn_info": "2x / 60 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 1186,

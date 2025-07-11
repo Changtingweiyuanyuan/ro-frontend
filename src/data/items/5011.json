@@ -1,0 +1,30 @@
+{
+  "id": 5011,
+  "name": {
+    "zh_tw": "天線頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5011.gif",
+  "category": "防具",
+  "description": {
+    "official": "配帶時會被左右人嫌棄，討厭與他人交往溝通的人所佩帶，是種傳說中的頭飾。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

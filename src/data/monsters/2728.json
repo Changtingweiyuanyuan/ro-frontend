@@ -27,7 +27,7 @@
     "defense": 95,
     "magic_defense": 48,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 383,
     "base_stats": {
       "str": 74,
       "agi": 56,
@@ -37,6 +37,13 @@
       "luk": 45
     }
   },
+  "spawns": [
+    {
+      "map_name": "hu_fild05",
+      "description": "- 深淵湖水",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

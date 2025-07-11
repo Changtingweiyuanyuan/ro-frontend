@@ -1,0 +1,35 @@
+{
+  "id": 1402,
+  "name": {
+    "zh_tw": "長戟",
+    "en": "Javelin_"
+  },
+  "icon_url": "/images/items/1402.gif",
+  "category": "武器",
+  "description": {
+    "official": "以前當作雙手長矛來使用的，被改良成單手長矛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 150,
+    "sell_price": 75,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2680,
+      "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1052,
+      "name": "蝗蟲",
+      "rate": 0.8
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

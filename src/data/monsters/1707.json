@@ -27,7 +27,7 @@
     "defense": 71,
     "magic_defense": 80,
     "hit_100_percent": 416,
-    "flee_95_percent": 0,
+    "flee_95_percent": 434,
     "base_stats": {
       "str": 91,
       "agi": 72,
@@ -37,6 +37,23 @@
       "luk": 79
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "tha_t05",
+      "description": "- 達納托斯之塔 上層 5樓",
+      "spawn_info": "2x / 5 秒"
+    },
+    {
+      "map_name": "tha_t09",
+      "description": "- 達納托斯之塔 上層 9樓 苦惱之房",
+      "spawn_info": "1x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

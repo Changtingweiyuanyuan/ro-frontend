@@ -1,0 +1,29 @@
+{
+  "id": 4090,
+  "name": {
+    "zh_tw": "殭屍卡片",
+    "en": "Munak_Card"
+  },
+  "icon_url": "/images/items/4090.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到攻擊時，被石化的幾率降低15%。受到地屬性的傷害減少5%。DEF+1套裝資料:妖君卡片, 妖道卡片 & 殭屍卡片 套裝殭屍卡片 & 憤懣殭屍卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bResEff,Eff_Stone,1500; bonus2 bSubEle,Ele_Earth,5; bonus bDef,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

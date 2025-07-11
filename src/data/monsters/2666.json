@@ -27,7 +27,7 @@
     "defense": 43,
     "magic_defense": 5,
     "hit_100_percent": 263,
-    "flee_95_percent": 0,
+    "flee_95_percent": 252,
     "base_stats": {
       "str": 42,
       "agi": 11,
@@ -37,6 +37,13 @@
       "luk": 10
     }
   },
+  "spawns": [
+    {
+      "map_name": "hu_fild06",
+      "description": "- 毀葛原野",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

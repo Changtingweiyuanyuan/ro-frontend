@@ -1,0 +1,60 @@
+{
+  "id": 2313,
+  "name": {
+    "zh_tw": "鐵制盔甲",
+    "en": "Padded_Armor_"
+  },
+  "icon_url": "/images/items/2313.gif",
+  "category": "防具",
+  "description": {
+    "official": "用堅硬的金屬做成的鎧甲。套裝資料:鐵制鎧甲 [1] & 過度的改變",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 48000,
+    "sell_price": 24000,
+    "weight": 280
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2792,
+      "name": "精英邪惡使者 / 憤怒邪惡使者",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1971,
+      "name": "螃蟹_E",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1257,
+      "name": "邪惡使者",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2075,
+      "name": "Ragunta",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2174,
+      "name": "遠古甲殼類",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

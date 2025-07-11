@@ -1,0 +1,90 @@
+{
+  "id": 2406,
+  "name": {
+    "zh_tw": "戰士長靴",
+    "en": "Boots_"
+  },
+  "icon_url": "/images/items/2406.gif",
+  "category": "防具",
+  "description": {
+    "official": "用堅硬的布料做成的長靴。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 18000,
+    "sell_price": 9000,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2629,
+      "name": "精英 / 菁英 溫古力安特",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1251,
+      "name": "冰暴騎士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1618,
+      "name": "溫古力安特",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2892,
+      "name": "精英 / 迅捷 艾吉歐蜈蚣",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2891,
+      "name": "精英 / 狡猾 艾吉歐蜈蚣",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2801,
+      "name": "精英異形 / 菁英異形",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2796,
+      "name": "精英妖君 / 菁英妖君",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1305,
+      "name": "狂暴蜈蚣",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1999,
+      "name": "變異蜈蚣幼蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1099,
+      "name": "艾吉歐蜈蚣",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1512,
+      "name": "妖君",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1632,
+      "name": "小妖精",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1773,
+      "name": "異型",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

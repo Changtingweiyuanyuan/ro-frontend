@@ -1,0 +1,60 @@
+{
+  "id": 1304,
+  "name": {
+    "zh_tw": "獸人斧",
+    "en": "Orcish_Axe"
+  },
+  "icon_url": "/images/items/1304.gif",
+  "category": "武器",
+  "description": {
+    "official": "獸人使用的斧。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 150
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2436,
+      "name": "暗●煉金術士",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2423,
+      "name": "暗●煉金術士",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2805,
+      "name": "精英 / 雄壯 獸人戰士長",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1213,
+      "name": "獸人戰士長",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1235,
+      "name": "吸菸的獸人戰士",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

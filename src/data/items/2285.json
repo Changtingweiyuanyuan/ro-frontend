@@ -1,0 +1,40 @@
+{
+  "id": 2285,
+  "name": {
+    "zh_tw": "蘋果頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2285.gif",
+  "category": "防具",
+  "description": {
+    "official": "據說那蘋果是古代某位神射手在相當遠的距離下所射中的蘋果。DEX+3",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 20
+  },
+  "script": "{ bonus bDex,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3763,
+      "name": "憤懣邪骸弓箭手 / 含冤的士兵",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1403,
+      "name": "武士火鎗兵",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

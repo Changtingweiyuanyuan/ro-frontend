@@ -27,7 +27,7 @@
     "defense": 81,
     "magic_defense": 37,
     "hit_100_percent": 383,
-    "flee_95_percent": 0,
+    "flee_95_percent": 380,
     "base_stats": {
       "str": 69,
       "agi": 37,
@@ -37,5 +37,60 @@
       "luk": 5
     }
   },
-  "drops": []
+  "spawns": [
+    {
+      "map_name": "gld2_gef",
+      "description": "- 深淵迴廊 : 亡者之丘",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun04_2",
+      "description": "- 吉芬-公會地下迷宮 2層",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 734,
+      "name": "紅色相框",
+      "rate": 5.0,
+      "icon_url": "/images/items/734.gif"
+    },
+    {
+      "item_id": 747,
+      "name": "水晶鏡子",
+      "rate": 0.02,
+      "icon_url": "/images/items/747.gif"
+    },
+    {
+      "item_id": 1000,
+      "name": "星星的角",
+      "rate": 0.4,
+      "icon_url": "/images/items/1000.gif"
+    },
+    {
+      "item_id": 1587,
+      "name": "戰神大百科全書",
+      "rate": 0.01,
+      "icon_url": "/images/items/1587.gif"
+    },
+    {
+      "item_id": 2505,
+      "name": "斗篷",
+      "rate": 0.15,
+      "icon_url": "/images/items/2505.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 23.28,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 12676,
+      "name": "城戰紫色藥水箱",
+      "rate": 0.5,
+      "icon_url": "/images/items/12676.gif"
+    }
+  ]
 }

@@ -1,0 +1,40 @@
+{
+  "id": 1352,
+  "name": {
+    "zh_tw": "巨斧",
+    "en": "Battle_Axe_"
+  },
+  "icon_url": "/images/items/1352.gif",
+  "category": "武器",
+  "description": {
+    "official": "多人戰鬥時所使用的雙手斧。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 5400,
+    "sell_price": 2700,
+    "weight": 150
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1235,
+      "name": "吸菸的獸人戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

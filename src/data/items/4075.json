@@ -1,0 +1,34 @@
+{
+  "id": 4075,
+  "name": {
+    "zh_tw": "艾斯蜘蛛卡片",
+    "en": "Argos_Card"
+  },
+  "icon_url": "/images/items/4075.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到攻擊時，被石化的幾率降低20%。DEF+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bResEff,Eff_Stone,2000; bonus bDef,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2890,
+      "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1100,
+      "name": "艾斯蜘蛛",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

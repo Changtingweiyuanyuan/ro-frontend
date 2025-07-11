@@ -27,7 +27,7 @@
     "defense": 83,
     "magic_defense": 32,
     "hit_100_percent": 434,
-    "flee_95_percent": 0,
+    "flee_95_percent": 359,
     "base_stats": {
       "str": 75,
       "agi": 131,
@@ -37,54 +37,61 @@
       "luk": 55
     }
   },
+  "spawns": [
+    {
+      "map_name": "lhz_fild03",
+      "description": "- 裡希塔樂鎮 原野",
+      "spawn_info": "3x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 604,
       "name": "枯樹枝",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/604.gif"
+      "icon_url": "/images/items/604.gif"
     },
     {
       "item_id": 706,
       "name": "四葉幸運草",
       "rate": 0.01,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/706.gif"
+      "icon_url": "/images/items/706.gif"
     },
     {
       "item_id": 996,
       "name": "風靈原石",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/996.gif"
+      "icon_url": "/images/items/996.gif"
     },
     {
       "item_id": 1695,
       "name": "精美狐尾草模型[2]",
       "rate": 1.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1695.gif"
+      "icon_url": "/images/items/1695.gif"
     },
     {
       "item_id": 1733,
       "name": "疾風之弓[1]",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1733.gif"
+      "icon_url": "/images/items/1733.gif"
     },
     {
       "item_id": 2269,
       "name": "花葉",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2269.gif"
+      "icon_url": "/images/items/2269.gif"
     },
     {
       "item_id": 2270,
       "name": "草葉",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2270.gif"
+      "icon_url": "/images/items/2270.gif"
     },
     {
       "item_id": 4390,
       "name": "微風卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

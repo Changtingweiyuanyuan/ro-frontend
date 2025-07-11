@@ -1,0 +1,45 @@
+{
+  "id": 917,
+  "name": {
+    "zh_tw": "鳥指甲",
+    "en": "Talon"
+  },
+  "icon_url": "/images/items/917.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從飛行魔物或動物身上得來的腳指甲，可以向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2630,
+      "name": "精英大嘴鳥 / 憤怒巨嘴鳥",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2073,
+      "name": "巨嘴鳥",
+      "rate": 15.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

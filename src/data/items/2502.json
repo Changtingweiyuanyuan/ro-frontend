@@ -1,0 +1,60 @@
+{
+  "id": 2502,
+  "name": {
+    "zh_tw": "連帽披肩",
+    "en": "Hood_"
+  },
+  "icon_url": "/images/items/2502.gif",
+  "category": "防具",
+  "description": {
+    "official": "保護肩膀和頭部的連帽披肩。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1246,
+      "name": "甜餅人",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1860,
+      "name": "松鼠",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1199,
+      "name": "朽魔",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 2919,
+      "name": "惡靈朽魔 / 變種朽魔",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

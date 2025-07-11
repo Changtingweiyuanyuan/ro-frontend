@@ -1,0 +1,55 @@
+{
+  "id": 622,
+  "name": {
+    "zh_tw": "彩色紅蘿蔔",
+    "en": "Rainbow_Carrot"
+  },
+  "icon_url": "/images/items/622.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "有五種彩虹光芒顏色的紅蘿蔔，隱隱約約的香氣實在誘人，是魔物瘋兔最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2500,
+    "sell_price": 1250,
+    "weight": 5
+  },
+  "script": "{ pet 1063; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3424,
+      "name": "藍瘋兔王",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1093,
+      "name": "藍瘋兔",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

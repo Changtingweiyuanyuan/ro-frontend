@@ -1,0 +1,31 @@
+{
+  "id": 5089,
+  "name": {
+    "zh_tw": "討厭的假面",
+    "en": "中下"
+  },
+  "icon_url": "/images/items/5089.gif",
+  "category": "防具",
+  "description": {
+    "official": "當你遇到非常討厭又不好笑又很煩的事情時，所攜帶的假面，它的用途只有這樣。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1126,
+      "name": "刺錘哥布靈",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "包裝的面具"
+  ]
+}

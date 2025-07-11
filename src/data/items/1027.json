@@ -1,0 +1,40 @@
+{
+  "id": 1027,
+  "name": {
+    "zh_tw": "刺蝟尖刺",
+    "en": "Porcupine_Spike"
+  },
+  "icon_url": "/images/items/1027.gif",
+  "category": "其他類",
+  "description": {
+    "official": "刺蝟身上尖細的刺，不好好保管的話可能會造成傷害。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 158,
+    "sell_price": 79,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3443,
+      "name": "塔皮",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 45.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

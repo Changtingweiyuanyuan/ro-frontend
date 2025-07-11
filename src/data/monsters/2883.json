@@ -27,7 +27,7 @@
     "defense": 79,
     "magic_defense": 50,
     "hit_100_percent": 368,
-    "flee_95_percent": 0,
+    "flee_95_percent": 382,
     "base_stats": {
       "str": 70,
       "agi": 68,
@@ -37,54 +37,61 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "gon_dun01",
+      "description": "- 昆崙洞 1層 (西王母神殿)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 924,
       "name": "蝴蝶翅膀粉末",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/924.gif"
+      "icon_url": "/images/items/924.gif"
     },
     {
       "item_id": 1691,
       "name": "奇妙狐尾草魔杖[2]",
       "rate": 0.3,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1691.gif"
+      "icon_url": "/images/items/1691.gif"
     },
     {
       "item_id": 1695,
       "name": "精美狐尾草模型[2]",
       "rate": 0.3,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1695.gif"
+      "icon_url": "/images/items/1695.gif"
     },
     {
       "item_id": 1839,
       "name": "緋紅色拳套[2]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1839.gif"
+      "icon_url": "/images/items/1839.gif"
     },
     {
       "item_id": 1962,
       "name": "細刃鞭子",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1962.gif"
+      "icon_url": "/images/items/1962.gif"
     },
     {
       "item_id": 4327,
       "name": "血蝴蝶卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 7163,
       "name": "銳利的觸角",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7163.gif"
+      "icon_url": "/images/items/7163.gif"
     },
     {
       "item_id": 7168,
       "name": "巨大翅膀",
       "rate": 62.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7168.gif"
+      "icon_url": "/images/items/7168.gif"
     }
   ]
 }

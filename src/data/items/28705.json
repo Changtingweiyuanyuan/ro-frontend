@@ -1,0 +1,92 @@
+{
+  "id": 28705,
+  "name": {
+    "zh_tw": "緋紅色大駒短劍",
+    "en": "Scarlet_Dagger"
+  },
+  "icon_url": "/images/items/28705.gif",
+  "category": "武器",
+  "description": {
+    "official": "劍身上散髮著紅光的短劍。ATK增加至(精煉*精煉) (套用至精煉+15)MATK增加至(精煉*精煉)/2 (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 55
+  },
+  "script": "{ .@r = getrefine(); bonus bBaseAtk,(((BaseLevel-70)/10)*5)+(.@r<=15?pow(.@r,2):225); bonus bMatk,(.@r<=15?(pow(.@r,2)/2):225); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2700,
+      "name": "精英 / 雄壯 三葉鐵甲蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2719,
+      "name": "精英帕莎納 / 迅捷帕莎納",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2655,
+      "name": "精英沙妖 / 狡猾沙妖",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2656,
+      "name": "精英沙妖 / 迅捷沙妖",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2658,
+      "name": "精英 / 菁英 邪骸戰士長",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2659,
+      "name": "精英 / 憤怒 邪骸戰士長",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1204,
+      "name": "獸牙怪",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2199,
+      "name": "胖胖波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1290,
+      "name": "邪骸戰士長",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1154,
+      "name": "帕莎納",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1203,
+      "name": "弒神者",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1106,
+      "name": "沙漠之狼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1386,
+      "name": "沙妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1619,
+      "name": "三葉鐵甲蟲",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

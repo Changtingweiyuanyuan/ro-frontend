@@ -1,0 +1,111 @@
+{
+  "id": 1010,
+  "name": {
+    "zh_tw": "強化武器金屬-級數一",
+    "en": "Phracon"
+  },
+  "icon_url": "/images/items/1010.gif",
+  "category": "其他類",
+  "description": {
+    "official": "用來強化武器在製作武器所使用的金屬，可以強化等級一的武器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 200,
+    "sell_price": 100,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 2619,
+      "name": "精英 / 菁英 石斧海盜骷髏",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 2.15
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 2.15
+    },
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1097,
+      "name": "白蟻幼蟲",
+      "rate": 1.6
+    },
+    {
+      "monster_id": 1047,
+      "name": "大嘴鳥蛋",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 1236,
+      "name": "螞蟻卵",
+      "rate": 0.68
+    },
+    {
+      "monster_id": 1232,
+      "name": "大嘴鳥蛋",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 2405,
+      "name": "石斧海盜骷髏",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 0.43
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3495,
+      "name": "蛋黃波利",
+      "rate": 0.3
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

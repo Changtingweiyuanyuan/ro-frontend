@@ -1,0 +1,29 @@
+{
+  "id": 4088,
+  "name": {
+    "zh_tw": "傘蜥卡片",
+    "en": "Frilldora_Card"
+  },
+  "icon_url": "/images/items/4088.gif",
+  "category": "卡片",
+  "description": {
+    "official": "使用【偽裝】Lv1技能。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ skill \"AS_CLOAKING\",1; },{},{ sc_end SC_CLOAKING; }",
+  "dropped_by": [
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

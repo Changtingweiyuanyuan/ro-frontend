@@ -1,0 +1,39 @@
+{
+  "id": 4037,
+  "name": {
+    "zh_tw": "青蛇卡片",
+    "en": "Snake_Card"
+  },
+  "icon_url": "/images/items/4037.gif",
+  "category": "卡片",
+  "description": {
+    "official": "攻擊時，有5%的幾率使敵人中毒。ATK+5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddEff,Eff_Poison,500; bonus bBaseAtk,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 918,
+  "name": {
+    "zh_tw": "粘糊的蹼",
+    "en": "Sticky_Webfoot"
+  },
+  "icon_url": "/images/items/918.gif",
+  "category": "其他類",
+  "description": {
+    "official": "割下有蹼的魔物的後腳得來的物品。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2678,
+      "name": "精英羅達蛙 / 菁英羅達蛙",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2679,
+      "name": "精英羅達蛙 / 憤怒羅達蛙",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2635,
+      "name": "精英突變蛙 / 狡猾突變蛙",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1012,
+      "name": "羅達蛙",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3499,
+      "name": "甜心羅達蛙",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1883,
+      "name": "樹林女巫",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1034,
+      "name": "達拉蛙",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

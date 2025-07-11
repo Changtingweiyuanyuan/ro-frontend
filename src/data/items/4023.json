@@ -1,0 +1,39 @@
+{
+  "id": 4023,
+  "name": {
+    "zh_tw": "沙漠幼狼卡片",
+    "en": "Desert_Wolf_Babe_Card"
+  },
+  "icon_url": "/images/items/4023.gif",
+  "category": "卡片",
+  "description": {
+    "official": "INT+1套裝資料:沙漠幼狼卡片 & Corrupt Life Card",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bInt,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

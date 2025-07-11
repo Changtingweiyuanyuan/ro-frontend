@@ -1,0 +1,45 @@
+{
+  "id": 629,
+  "name": {
+    "zh_tw": "呢喃花",
+    "en": "Singing_Flower"
+  },
+  "icon_url": "/images/items/629.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "唱歌草上所開出來的花。是魔物搖滾蝗蟲最喜愛的食物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 300,
+    "sell_price": 150,
+    "weight": 5
+  },
+  "script": "{ pet 1052; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1884,
+      "name": "森林妖精",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2738,
+      "name": "精英吃人草 / 狡猾吃人草",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1780,
+      "name": "吃人草",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

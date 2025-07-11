@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 5,
     "hit_100_percent": 445,
-    "flee_95_percent": 0,
+    "flee_95_percent": 470,
     "base_stats": {
       "str": 118,
       "agi": 119,
@@ -37,6 +37,13 @@
       "luk": 33
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_cas02",
+      "description": "- 克雷斯特漢姆古城 地上2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 616,

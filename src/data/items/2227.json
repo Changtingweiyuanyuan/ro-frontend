@@ -1,0 +1,35 @@
+{
+  "id": 2227,
+  "name": {
+    "zh_tw": "無邊帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2227.gif",
+  "category": "防具",
+  "description": {
+    "official": "簡單的設計，有著活動性和使用性的帽子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 12000,
+    "sell_price": 6000,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3792,
+      "name": "憤怒的寒冰雕像 / 憤怒蓋俄斯提",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

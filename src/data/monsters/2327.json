@@ -27,7 +27,7 @@
     "defense": 411,
     "magic_defense": 95,
     "hit_100_percent": 518,
-    "flee_95_percent": 0,
+    "flee_95_percent": 555,
     "base_stats": {
       "str": 151,
       "agi": 192,
@@ -37,6 +37,13 @@
       "luk": 57
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ma_h",
+      "description": "- 般滾勾特 噩咪醫院2層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 2169,

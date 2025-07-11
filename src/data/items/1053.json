@@ -1,0 +1,50 @@
+{
+  "id": 1053,
+  "name": {
+    "zh_tw": "人魚之牙",
+    "en": "Tooth_Of_Ancient_Fish"
+  },
+  "icon_url": "/images/items/1053.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從生長在深海中的魚類身上得來的牙齒。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 548,
+    "sell_price": 274,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 20803,
+      "name": "深海狄奧斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2709,
+      "name": "精英食人魚 / 迅捷食人魚",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2070,
+      "name": "食人魚",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20646,
+      "name": "熱池食人魚",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

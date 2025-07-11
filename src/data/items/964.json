@@ -1,0 +1,35 @@
+{
+  "id": 964,
+  "name": {
+    "zh_tw": "螃蟹外殼",
+    "en": "Crap_Shell"
+  },
+  "icon_url": "/images/items/964.gif",
+  "category": "其他類",
+  "description": {
+    "official": "螃蟹背上的外殼，晒乾後相當堅硬而且會散髮出特殊的香味。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 90,
+    "sell_price": 45,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2176,
+      "name": "深海大蟹",
+      "rate": 41.24
+    },
+    {
+      "monster_id": 1073,
+      "name": "卡拉蟹",
+      "rate": 27.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

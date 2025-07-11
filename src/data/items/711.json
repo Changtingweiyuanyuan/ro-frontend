@@ -1,0 +1,80 @@
+{
+  "id": 711,
+  "name": {
+    "zh_tw": "芽苗",
+    "en": "Shoot"
+  },
+  "icon_url": "/images/items/711.gif",
+  "category": "其他類",
+  "description": {
+    "official": "剛剛纔從這個世上出生的幼小植物，單純無瑕的樣子非常可愛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 16,
+    "sell_price": 8,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2779,
+      "name": "精英雷斯 / 迅捷雷斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2695,
+      "name": "精英草精 / 迅捷草精",
+      "rate": 13.75
+    },
+    {
+      "monster_id": 2906,
+      "name": "精英 / 迅捷 泰坦魔芋花",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1881,
+      "name": "雷斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20924,
+      "name": "變異阿米特拉凱美拉",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1162,
+      "name": "草精",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 2151,
+      "name": "泰坦魔芋花",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

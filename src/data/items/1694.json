@@ -1,0 +1,42 @@
+{
+  "id": 1694,
+  "name": {
+    "zh_tw": "狐尾草模型",
+    "en": "Model_Foxtail"
+  },
+  "icon_url": "/images/items/1694.gif",
+  "category": "武器",
+  "description": {
+    "official": "用塑膠製成的狐尾草模型。遠程物理攻擊力+8%，MHP+100。精煉值每+3時，DEX+2，MSP+10。無法破壞",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 30
+  },
+  "script": "{ bonus bLongAtkRate,8; bonus bMaxHP,100; .@r = getrefine(); bonus bDex,(.@r/3)*2; bonus bMaxSP,(.@r/3)*10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2754,
+      "name": "精英 / 迅捷 重金屬蝗蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1126,
+      "name": "刺錘哥布靈",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1058,
+      "name": "重金屬蝗蟲",
+      "rate": 0.15
+    }
+  ],
+  "obtained_from": []
+}

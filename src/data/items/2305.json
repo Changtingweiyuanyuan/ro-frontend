@@ -1,0 +1,29 @@
+{
+  "id": 2305,
+  "name": {
+    "zh_tw": "冒險衣",
+    "en": "Adventure_Suit"
+  },
+  "icon_url": "/images/items/2305.gif",
+  "category": "防具",
+  "description": {
+    "official": "專為冒險者製作的衣服。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

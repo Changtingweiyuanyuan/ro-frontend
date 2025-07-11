@@ -27,7 +27,7 @@
     "defense": 113,
     "magic_defense": 44,
     "hit_100_percent": 376,
-    "flee_95_percent": 0,
+    "flee_95_percent": 429,
     "base_stats": {
       "str": 110,
       "agi": 55,
@@ -37,6 +37,13 @@
       "luk": 41
     }
   },
+  "spawns": [
+    {
+      "map_name": "schg_dun01",
+      "description": "- 公會地下迷宮 (朱諾)",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 715,

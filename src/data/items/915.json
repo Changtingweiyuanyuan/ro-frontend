@@ -1,0 +1,40 @@
+{
+  "id": 915,
+  "name": {
+    "zh_tw": "蛹殼",
+    "en": "Chrysalis"
+  },
+  "icon_url": "/images/items/915.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從魔物身上得來的堅硬的外殼，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 8,
+    "sell_price": 4,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 60.0
+    },
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 50.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 4033,
+  "name": {
+    "zh_tw": "波波利卡片",
+    "en": "Poporing_Card"
+  },
+  "icon_url": "/images/items/4033.gif",
+  "category": "卡片",
+  "description": {
+    "official": "可使用【解毒】Lv1技能。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ skill \"TF_DETOXIFY\",1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3814,
+      "name": "強化波波利",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

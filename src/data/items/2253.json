@@ -1,0 +1,45 @@
+{
+  "id": 2253,
+  "name": {
+    "zh_tw": "向日葵頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2253.gif",
+  "category": "防具",
+  "description": {
+    "official": "戴在頭上裝飾用的向日葵頭飾。受到昆蟲系魔物的攻擊時，可減少10%的傷害",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus2 bSubRace,RC_Insect,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2825,
+      "name": "精英 / 雄壯 邪惡向日葵",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2824,
+      "name": "精英 / 迅捷 邪惡向日葵",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1368,
+      "name": "邪惡向日葵",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

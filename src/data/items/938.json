@@ -1,0 +1,530 @@
+{
+  "id": 938,
+  "name": {
+    "zh_tw": "粘稠液體",
+    "en": "Sticky_Mucus"
+  },
+  "icon_url": "/images/items/938.gif",
+  "category": "其他類",
+  "description": {
+    "official": "不知名的黏稠液體，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 70,
+    "sell_price": 35,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2716,
+      "name": "精英梅納海葵 / 菁英梅納海葵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2717,
+      "name": "精英梅納海葵 / 憤怒梅納海葵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2894,
+      "name": "精英卷甲蟲 / 菁英卷甲蟲",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2893,
+      "name": "精英卷甲蟲 / 雄壯卷甲蟲",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2723,
+      "name": "精英獸人腐屍 / 狡猾阿修羅狂戰士",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2603,
+      "name": "精英殭屍屠戮者 / 迅捷屠殺腐屍",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2802,
+      "name": "精英蚯蚓 / 憤怒蚯蚓",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 60.0
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 60.0
+    },
+    {
+      "monster_id": 2540,
+      "name": "驚駭森靈卵 / 人面蟲卵",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2531,
+      "name": "毒袋",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3814,
+      "name": "強化波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2631,
+      "name": "精英 / 狡猾 惡魔嬰兒",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2776,
+      "name": "精英寶貝波利 / 菁英寶貝波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1875,
+      "name": "特里斯坦三世",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2605,
+      "name": "精英 / 菁英 腐屍首領",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2193,
+      "name": "章魚腳",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2762,
+      "name": "精英冰波利 / 憤怒冰波利",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1216,
+      "name": "梅納海葵",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2951,
+      "name": "聲聲歎息 / 漂流的悲哀",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2857,
+      "name": "精英兵蟻 / 狡猾兵蟻",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2845,
+      "name": "精英土波利 / 菁英土波利",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2358,
+      "name": "卷甲蟲-咪魘",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20685,
+      "name": "下水道貝納姆",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2801,
+      "name": "精英異形 / 菁英異形",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20364,
+      "name": "異種貝納姆",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20933,
+      "name": "貝內迪",
+      "rate": 24.0
+    },
+    {
+      "monster_id": 20927,
+      "name": "變異水精靈凱美拉",
+      "rate": 24.0
+    },
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1305,
+      "name": "狂暴蜈蚣",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1632,
+      "name": "小妖精",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1864,
+      "name": "殭屍屠戮者 / 屠殺腐屍",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1194,
+      "name": "卷甲蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2541,
+      "name": "驚駭森靈幼蟲 / 人面蟲幼蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1153,
+      "name": "獸人腐屍",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1127,
+      "name": "蚯蚓",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3787,
+      "name": "沼澤卷甲蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2155,
+      "name": "布托異竺",
+      "rate": 13.75
+    },
+    {
+      "monster_id": 20343,
+      "name": "E-13EN0",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1177,
+      "name": "茲諾克",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20363,
+      "name": "貝納姆",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20683,
+      "name": "書蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2398,
+      "name": "寶貝波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2314,
+      "name": "惡魔嬰兒",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2464,
+      "name": "鬼哭神嚎園丁 / 腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1141,
+      "name": "水母",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1857,
+      "name": "冰波利",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1298,
+      "name": "腐屍首領",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1242,
+      "name": "冰波利",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3452,
+      "name": "殭屍警衛 / 殭屍衛士",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3399,
+      "name": "冰波利",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3816,
+      "name": "強化冰波利",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1972,
+      "name": "水母_E",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 1105,
+      "name": "兵蟻",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1113,
+      "name": "土波利",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3813,
+      "name": "強化土波利",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1239,
+      "name": "兵蟻",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3402,
+      "name": "兵蟻",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1665,
+      "name": "黃真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1667,
+      "name": "藍真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1666,
+      "name": "綠真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1664,
+      "name": "紅真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2012,
+      "name": "萬聖節腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3176,
+      "name": "小妖精",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1773,
+      "name": "異型",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 3495,
+      "name": "蛋黃波利",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1236,
+      "name": "螞蟻卵",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 1858,
+      "name": "漂浮蟲",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 1097,
+      "name": "白蟻幼蟲",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1266,
+      "name": "海星",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2404,
+      "name": "變異幽浮水母",
+      "rate": 1.7
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2301,
+  "name": {
+    "zh_tw": "棉襯衫",
+    "en": "Cotton_Shirt"
+  },
+  "icon_url": "/images/items/2301.gif",
+  "category": "防具",
+  "description": {
+    "official": "純棉製成的衣服，穿著時非常舒服的衣物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 710,
+  "name": {
+    "zh_tw": "幻想花",
+    "en": "Illusion_Flower"
+  },
+  "icon_url": "/images/items/710.gif",
+  "category": "其他類",
+  "description": {
+    "official": "在深夜裡發著光芒的植物，在人跡罕見的森林裡獨自發著光芒。聽說雖然可以在那光芒中看見天國，但若將花摘下來看的話，它的光芒就會消失。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 20667,
+      "name": "席瓦帕皮利亞",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20668,
+      "name": "格蘭帕皮利亞",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1884,
+      "name": "森林妖精",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2795,
+      "name": "精英亞拉 / 雄壯亞拉",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2069,
+      "name": "亞拉",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 20677,
+      "name": "艾裡厄斯",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 20678,
+      "name": "咪魘艾裡厄斯",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

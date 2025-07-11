@@ -1,0 +1,65 @@
+{
+  "id": 2269,
+  "name": {
+    "zh_tw": "花葉",
+    "en": "下"
+  },
+  "icon_url": "/images/items/2269.gif",
+  "category": "防具",
+  "description": {
+    "official": "小小的花葉，含在嘴裡會讓人有幸福浪漫的感覺。受到植物系敵人的攻擊時，可減少3%的傷害。套裝資料:花葉 & Persika[1]花葉 & Ancient Elven Ear",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus2 bSubRace,RC_Plant,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2906,
+      "name": "精英 / 迅捷 泰坦魔芋花",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2151,
+      "name": "泰坦魔芋花",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2880,
+      "name": "精英微風 / 菁英微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2881,
+      "name": "精英微風 / 憤怒微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1692,
+      "name": "微風",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

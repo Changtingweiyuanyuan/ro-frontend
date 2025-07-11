@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1054.gif",
   "basic_info": {
-    "level": 0,
+    "level": 30,
     "race": "昆蟲",
     "element": {
       "type": "暗",

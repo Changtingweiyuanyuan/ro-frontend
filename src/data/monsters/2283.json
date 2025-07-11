@@ -27,7 +27,7 @@
     "defense": 62,
     "magic_defense": 41,
     "hit_100_percent": 409,
-    "flee_95_percent": 0,
+    "flee_95_percent": 419,
     "base_stats": {
       "str": 5,
       "agi": 60,
@@ -37,5 +37,60 @@
       "luk": 42
     }
   },
-  "drops": []
+  "spawns": [
+    {
+      "map_name": "gld2_gef",
+      "description": "- 深淵迴廊 : 亡者之丘",
+      "spawn_info": "20x / 5 秒"
+    },
+    {
+      "map_name": "gld_dun04_2",
+      "description": "- 吉芬-公會地下迷宮 2層",
+      "spawn_info": "15x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 2.25,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 1009,
+      "name": "神之手",
+      "rate": 0.01,
+      "icon_url": "/images/items/1009.gif"
+    },
+    {
+      "item_id": 1586,
+      "name": "戰神聖言之書",
+      "rate": 0.01,
+      "icon_url": "/images/items/1586.gif"
+    },
+    {
+      "item_id": 2319,
+      "name": "祕衣 惡德[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2319.gif"
+    },
+    {
+      "item_id": 2898,
+      "name": "暗黑幸運珠鍊[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2898.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 15.0,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 12680,
+      "name": "攻城用藍色藥水箱子",
+      "rate": 0.02,
+      "icon_url": "/images/items/12680.gif"
+    }
+  ]
 }

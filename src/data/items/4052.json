@@ -1,0 +1,39 @@
+{
+  "id": 4052,
+  "name": {
+    "zh_tw": "長老樹精卡片",
+    "en": "Elder_Wilow_Card"
+  },
+  "icon_url": "/images/items/4052.gif",
+  "category": "卡片",
+  "description": {
+    "official": "INT+2",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bInt,2; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2839,
+      "name": "精英長老樹精 / 迅捷長老樹精",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2840,
+      "name": "精英長老樹精 / 雄壯長老樹精",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1033,
+      "name": "長老樹精",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

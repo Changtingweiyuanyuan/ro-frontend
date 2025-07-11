@@ -1,0 +1,125 @@
+{
+  "id": 935,
+  "name": {
+    "zh_tw": "堅硬外殼",
+    "en": "Shell"
+  },
+  "icon_url": "/images/items/935.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物身上堅硬的外殼，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 14,
+    "sell_price": 7,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2642,
+      "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2905,
+      "name": "精英蝸牛 / 狡猾蝸牛",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2754,
+      "name": "精英 / 迅捷 重金屬蝗蟲",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1042,
+      "name": "綠蒼蠅",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1094,
+      "name": "蝸牛",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1183,
+      "name": "蒼蠅",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1058,
+      "name": "重金屬蝗蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3408,
+      "name": "重金屬蝗蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1236,
+      "name": "螞蟻卵",
+      "rate": 13.7
+    },
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 13.0
+    },
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1097,
+      "name": "白蟻幼蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1047,
+      "name": "大嘴鳥蛋",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1232,
+      "name": "大嘴鳥蛋",
+      "rate": 7.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

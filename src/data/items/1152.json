@@ -1,0 +1,30 @@
+{
+  "id": 1152,
+  "name": {
+    "zh_tw": "雙手劍",
+    "en": "Slayer_"
+  },
+  "icon_url": "/images/items/1152.gif",
+  "category": "武器",
+  "description": {
+    "official": "用於制伏敵人時，有不錯效果的雙手劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15000,
+    "sell_price": 7500,
+    "weight": 130
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1054,
+      "name": "瑪勒盜蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 921,
+  "name": {
+    "zh_tw": "香菇芽孢",
+    "en": "Mushroom_Spore"
+  },
+  "icon_url": "/images/items/921.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從香菇類的植物那得來的芽孢。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 36,
+    "sell_price": 18,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2646,
+      "name": "精英魔菇 / 迅捷魔菇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3501,
+      "name": "變形魔菇",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1014,
+      "name": "魔菇",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 3390,
+      "name": "魔菇",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1085,
+      "name": "紅菇",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3755,
+      "name": "毒血蘑菇",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1084,
+      "name": "黑菇",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2705,
+      "name": "精英毒魔菇 / 雄壯毒魔菇",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1077,
+      "name": "毒魔菇",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1855,
+      "name": "毒魔菇",
+      "rate": 6.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

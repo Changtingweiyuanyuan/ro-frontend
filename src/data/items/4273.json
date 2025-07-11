@@ -1,0 +1,34 @@
+{
+  "id": 4273,
+  "name": {
+    "zh_tw": "貝殼魔靈卡片",
+    "en": "Shellfish_Card"
+  },
+  "icon_url": "/images/items/4273.gif",
+  "category": "卡片",
+  "description": {
+    "official": "對卡拉蟹的傷害，增加30%ATK+5套裝資料:貝殼魔靈卡片, 卡拉蟹卡片 & 海星卡片 套裝貝殼魔靈卡片 & 大蝦帽子",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bBaseAtk,5; bonus2 bAddDamageClass,1073,30; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

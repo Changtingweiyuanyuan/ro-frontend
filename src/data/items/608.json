@@ -1,0 +1,301 @@
+{
+  "id": 608,
+  "name": {
+    "zh_tw": "天地樹芽",
+    "en": "Seed_Of_Yggdrasil"
+  },
+  "icon_url": "/images/items/608.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "形成這個世界根源的天地樹果實之芽，透露著微微香氣且甘甜美味，可恢復一半的HP與SP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 5000,
+    "sell_price": 2500,
+    "weight": 30
+  },
+  "script": "{ percentheal 50,50; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2452,
+      "name": "搞鬼箱 / 寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1492,
+      "name": "元靈武士",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 1418,
+      "name": "墨蛇君",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 1511,
+      "name": "古埃及王",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2362,
+      "name": "古埃及王-咪魘",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 3810,
+      "name": "國王波利",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3427,
+      "name": "俄塞里斯",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20381,
+      "name": "R48-85-貝斯帝亞",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1038,
+      "name": "俄塞里斯",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3474,
+      "name": "不滅的受到詛咒的騎士",
+      "rate": 20.05
+    },
+    {
+      "monster_id": 3475,
+      "name": "不滅的風魔巫師",
+      "rate": 20.05
+    },
+    {
+      "monster_id": 2107,
+      "name": "墮落的大神官希巴姆_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3473,
+      "name": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1346,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1348,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1344,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1342,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1340,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1350,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1352,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1356,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1358,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1354,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1362,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20943,
+      "name": "死亡女巫",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1360,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1338,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1326,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1324,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1328,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1330,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1334,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1332,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1336,
+      "name": "寶物箱子",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1785,
+      "name": "阿特羅斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2096,
+      "name": "俄塞里斯_E",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2131,
+      "name": "殭屍龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1388,
+      "name": "聖天使波利",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 3632,
+      "name": "物質型凱美拉",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3631,
+      "name": "人型凱美拉",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2641,
+      "name": "精英灰森靈 / 迅捷灰森靈",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2841,
+      "name": "精英埃奇歐 / 菁英埃奇歐",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1215,
+      "name": "灰森靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2907,
+      "name": "精英鱷魚人 / 雄壯鱷魚人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2781,
+      "name": "精英群葉貓 / 菁英群葉貓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3627,
+      "name": "邪心獵人保鏢",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3622,
+      "name": "特殊警衛",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1770,
+      "name": "埃奇歐",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1271,
+      "name": "鱷魚人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3416,
+      "name": "鱷魚人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1952,
+      "name": "天使彩蛋",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1396,
+      "name": "土元素",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1586,
+      "name": "群葉貓",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1876,
+      "name": "死靈騎士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "魔神殿",
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

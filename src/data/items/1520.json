@@ -1,0 +1,30 @@
+{
+  "id": 1520,
+  "name": {
+    "zh_tw": "鍊錘",
+    "en": "Chain_"
+  },
+  "icon_url": "/images/items/1520.gif",
+  "category": "武器",
+  "description": {
+    "official": "上頭懸掛著鐵鍊的鈍器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 23000,
+    "sell_price": 11500,
+    "weight": 80
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1142,
+      "name": "氣泡蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

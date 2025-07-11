@@ -27,7 +27,7 @@
     "defense": 66,
     "magic_defense": 95,
     "hit_100_percent": 382,
-    "flee_95_percent": 0,
+    "flee_95_percent": 445,
     "base_stats": {
       "str": 51,
       "agi": 47,
@@ -37,6 +37,28 @@
       "luk": 77
     }
   },
+  "spawns": [
+    {
+      "map_name": "bif_fild01",
+      "description": "- 彩虹橋南部",
+      "spawn_info": "17x / 5 秒"
+    },
+    {
+      "map_name": "bif_fild02",
+      "description": "- 彩虹橋北部",
+      "spawn_info": "16x / 5 秒"
+    },
+    {
+      "map_name": "spl_fild01",
+      "description": "- 輝煌領域",
+      "spawn_info": "49x / 5 秒"
+    },
+    {
+      "map_name": "spl_fild03",
+      "description": "- 輝煌領域",
+      "spawn_info": "52x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 1420,

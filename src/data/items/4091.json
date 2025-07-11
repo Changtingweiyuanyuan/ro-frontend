@@ -1,0 +1,54 @@
+{
+  "id": 4091,
+  "name": {
+    "zh_tw": "犬妖卡片",
+    "en": "Kobold_Card"
+  },
+  "icon_url": "/images/items/4091.gif",
+  "category": "卡片",
+  "description": {
+    "official": "CRI+4STR+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bStr,1; bonus bCritical,4; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2785,
+      "name": "精英犬妖 / 雄壯犬妖",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1137,
+      "name": "犬妖",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1136,
+      "name": "犬妖",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1134,
+      "name": "榔頭犬妖",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1133,
+      "name": "大斧犬妖",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1135,
+      "name": "刺錘犬妖",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

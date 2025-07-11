@@ -1,0 +1,165 @@
+{
+  "id": 1001,
+  "name": {
+    "zh_tw": "星星的粉末",
+    "en": "Sparkling_Dust"
+  },
+  "icon_url": "/images/items/1001.gif",
+  "category": "其他類",
+  "description": {
+    "official": "星星的一角，提煉之後可以製造星星的碎片。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 20642,
+      "name": "斯威蒂",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2367,
+      "name": "元素鬼火(藍)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2368,
+      "name": "元素鬼火(綠)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2370,
+      "name": "元素鬼火(褐)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2369,
+      "name": "元素鬼火(紅)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2885,
+      "name": "精英巫婆 / 憤怒巫婆",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2674,
+      "name": "精英泥人 / 憤怒泥人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2618,
+      "name": "精英白幽靈 / 雄壯白幽靈",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 3409,
+      "name": "泥人",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1102,
+      "name": "巫婆",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1165,
+      "name": "泥人",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1186,
+      "name": "巨大白幽靈",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1179,
+      "name": "白幽靈",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 20270,
+      "name": "古代三葉蟲",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 3418,
+      "name": "三葉蟲",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 1279,
+      "name": "三葉蟲",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2842,
+      "name": "精英獵蠅 / 憤怒獵蠅",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2176,
+      "name": "深海大蟹",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1073,
+      "name": "卡拉蟹",
+      "rate": 0.07
+    },
+    {
+      "monster_id": 2178,
+      "name": "深海貝殼",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1185,
+      "name": "白幽靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1114,
+      "name": "獵蠅",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1239,
+      "name": "兵蟻",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

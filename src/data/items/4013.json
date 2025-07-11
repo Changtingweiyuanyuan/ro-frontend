@@ -1,0 +1,34 @@
+{
+  "id": 4013,
+  "name": {
+    "zh_tw": "蟻卵卡片",
+    "en": "Andre_Egg_Card"
+  },
+  "icon_url": "/images/items/4013.gif",
+  "category": "卡片",
+  "description": {
+    "official": "MHP+5%",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bMaxHPrate,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1236,
+      "name": "螞蟻卵",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1097,
+      "name": "白蟻幼蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

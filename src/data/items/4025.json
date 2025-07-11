@@ -1,0 +1,59 @@
+{
+  "id": 4025,
+  "name": {
+    "zh_tw": "邪骸戰士卡片",
+    "en": "Skeleton_Card"
+  },
+  "icon_url": "/images/items/4025.gif",
+  "category": "卡片",
+  "description": {
+    "official": "攻擊時，有2%的幾率使敵人陷入眩暈狀態。ATK+10套裝資料:邪骸戰俘卡片 & 邪骸戰士卡片 套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bBaseAtk,10; bonus2 bAddEff,Eff_Stun,200; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3641,
+      "name": "邪骸戰士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3642,
+      "name": "邪骸戰士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3640,
+      "name": "邪骸戰士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3639,
+      "name": "邪骸戰士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3637,
+      "name": "邪骸戰士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3638,
+      "name": "邪骸戰士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

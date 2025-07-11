@@ -27,7 +27,7 @@
     "defense": 59,
     "magic_defense": 35,
     "hit_100_percent": 370,
-    "flee_95_percent": 0,
+    "flee_95_percent": 379,
     "base_stats": {
       "str": 89,
       "agi": 55,
@@ -37,6 +37,28 @@
       "luk": 12
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@nyd",
+      "description": "- 尼德霍格巢穴 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "2@nyd",
+      "description": "- 尼德霍格巢穴 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "nyd_dun01",
+      "description": "- 尼德霍格洞穴 1樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "spl_fild01",
+      "description": "- 輝煌領域",
+      "spawn_info": "98x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 972,

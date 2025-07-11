@@ -1,0 +1,40 @@
+{
+  "id": 1120,
+  "name": {
+    "zh_tw": "日本刀",
+    "en": "Tsurugi_"
+  },
+  "icon_url": "/images/items/1120.gif",
+  "category": "武器",
+  "description": {
+    "official": "非常恐怖且尖銳的劍，是專門用來傷害敵方時使用。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 51000,
+    "sell_price": 25500,
+    "weight": 120
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2663,
+      "name": "精英黑蛇 / 菁英黑蛇",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2662,
+      "name": "精英黑蛇 / 雄壯黑蛇",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1037,
+      "name": "黑蛇",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

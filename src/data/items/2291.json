@@ -1,0 +1,40 @@
+{
+  "id": 2291,
+  "name": {
+    "zh_tw": "蝴蝶假面",
+    "en": "中"
+  },
+  "icon_url": "/images/items/2291.gif",
+  "category": "防具",
+  "description": {
+    "official": "蝴蝶模樣製成的眼鏡，戴上時會有很奇妙的感覺。對人型系敵人，增加3%的傷害",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus2 bAddRace,RC_DemiHuman,3; bonus2 bAddRace,RC_Player_Human,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2842,
+      "name": "精英獵蠅 / 憤怒獵蠅",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1200,
+      "name": "艾斯恩魔女",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1114,
+      "name": "獵蠅",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

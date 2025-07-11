@@ -1,0 +1,35 @@
+{
+  "id": 1208,
+  "name": {
+    "zh_tw": "笨拙短劍",
+    "en": "Main_Gauche_"
+  },
+  "icon_url": "/images/items/1208.gif",
+  "category": "武器",
+  "description": {
+    "official": "以多功能使用為要求，所製造出來的短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2400,
+    "sell_price": 1200,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

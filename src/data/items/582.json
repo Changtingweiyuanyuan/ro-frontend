@@ -1,0 +1,87 @@
+{
+  "id": 582,
+  "name": {
+    "zh_tw": "橙子",
+    "en": "Orange"
+  },
+  "icon_url": "/images/items/582.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "橘色圓形的果實，清爽的香味，可以直接吃或打成果汁、果醬等可以恢復少量的HP和SP",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 300,
+    "sell_price": 150,
+    "weight": 2
+  },
+  "script": "{ itemheal rand(10,20),rand(10,20); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2811,
+      "name": "精英 / 菁英 七彩大嘴鳥",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2810,
+      "name": "精英 / 雄壯 七彩大嘴鳥",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3500,
+      "name": "狩獵沙漠幼狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1369,
+      "name": "七彩大嘴鳥",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": []
+}

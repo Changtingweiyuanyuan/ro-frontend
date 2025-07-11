@@ -1,0 +1,156 @@
+{
+  "id": 2609,
+  "name": {
+    "zh_tw": "骷髏戒指",
+    "en": "Skul_Ring"
+  },
+  "icon_url": "/images/items/2609.gif",
+  "category": "防具",
+  "description": {
+    "official": "骷髏頭模樣的戒指，內部刻有 '死後也將永遠。。。'的字樣在上面。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2819,
+      "name": "精英深淵魔影 / 迅捷深淵魔影",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2820,
+      "name": "精英深淵魔影 / 雄壯深淵魔影",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2023,
+      "name": "黑影幽靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2281,
+      "name": "深淵魔影 / 深淵黑影幽靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2657,
+      "name": "精英皮影魔 / 雄壯皮影魔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2822,
+      "name": "精英綠腐屍 / 憤怒綠腐屍",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2823,
+      "name": "精英綠腐屍 / 狡猾綠腐屍",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2466,
+      "name": "痛苦侍衛長 / 綠腐屍",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2619,
+      "name": "精英 / 菁英 石斧海盜骷髏",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1752,
+      "name": "皮影魔",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3637,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3638,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3641,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3642,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3640,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3639,
+      "name": "邪骸戰士",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1036,
+      "name": "綠腐屍",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2405,
+      "name": "石斧海盜骷髏",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3446,
+      "name": "強化邪骸戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3752,
+      "name": "活死人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3753,
+      "name": "活死人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3664,
+      "name": "綠腐屍",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3665,
+      "name": "綠腐屍",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2355,
+      "name": "木乃伊犬-咪魘",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1032,
+      "name": "畢萊特",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "寶石盒"
+  ]
+}

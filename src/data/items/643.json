@@ -1,0 +1,30 @@
+{
+  "id": 643,
+  "name": {
+    "zh_tw": "攜帶用孵蛋器",
+    "en": "Pet_Incubator"
+  },
+  "icon_url": "/images/items/643.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "可以把魔物的蛋孵化的裝備，攜帶方便，可叫醒睡覺的寵物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 3
+  },
+  "script": "{ bpet; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1116,
+      "name": "轉轉蛋",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

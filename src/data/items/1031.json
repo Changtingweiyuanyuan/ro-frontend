@@ -1,0 +1,40 @@
+{
+  "id": 1031,
+  "name": {
+    "zh_tw": "螳螂臂",
+    "en": "Limb_Of_Mantis"
+  },
+  "icon_url": "/images/items/1031.gif",
+  "category": "其他類",
+  "description": {
+    "official": "如鐮刀般銳利的螳螂手臂，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 196,
+    "sell_price": 98,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2764,
+      "name": "精英螳螂 / 迅捷螳螂",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1139,
+      "name": "螳螂",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1294,
+      "name": "狂暴螳螂",
+      "rate": 22.75
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

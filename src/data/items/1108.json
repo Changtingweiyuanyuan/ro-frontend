@@ -1,0 +1,30 @@
+{
+  "id": 1108,
+  "name": {
+    "zh_tw": "厚刃劍",
+    "en": "Blade_"
+  },
+  "icon_url": "/images/items/1108.gif",
+  "category": "武器",
+  "description": {
+    "official": "有著厚刃的劍，用處很廣泛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2900,
+    "sell_price": 1450,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1053,
+      "name": "浮勒盜蟲",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

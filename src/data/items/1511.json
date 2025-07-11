@@ -1,0 +1,30 @@
+{
+  "id": 1511,
+  "name": {
+    "zh_tw": "流星鎚",
+    "en": "Flail_"
+  },
+  "icon_url": "/images/items/1511.gif",
+  "category": "武器",
+  "description": {
+    "official": "被打到時，會讓人感到好像被好幾個鈍器一起攻擊的感覺。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 16000,
+    "sell_price": 8000,
+    "weight": 90
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1123,
+      "name": "鍊錘哥布靈",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2315,
+  "name": {
+    "zh_tw": "鋼鐵鎖子甲",
+    "en": "Chain_Mail_"
+  },
+  "icon_url": "/images/items/2315.gif",
+  "category": "防具",
+  "description": {
+    "official": "堅硬的金屬編成的鎧甲。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 65000,
+    "sell_price": 32500,
+    "weight": 330
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2639,
+      "name": "精英塔嚕安 / 憤怒塔嚕安",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2690,
+      "name": "精英幽靈劍士 / 迅捷幽靈劍士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2428,
+      "name": "暗●騎士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2415,
+      "name": "暗●騎士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2691,
+      "name": "精英幽靈劍士 / 雄壯幽靈劍士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1584,
+      "name": "塔嚕安",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2406,
+      "name": "短劍海盜骷髏",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1163,
+      "name": "幽靈劍士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1276,
+      "name": "幽靈弓箭手",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1065,
+      "name": "海神",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

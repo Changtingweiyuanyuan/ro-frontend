@@ -1,0 +1,75 @@
+{
+  "id": 926,
+  "name": {
+    "zh_tw": "蛇鱗",
+    "en": "Scale_Of_Snakes"
+  },
+  "icon_url": "/images/items/926.gif",
+  "category": "其他類",
+  "description": {
+    "official": "蛇的鱗片，可以用來制做各種衣物。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 82,
+    "sell_price": 41,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2662,
+      "name": "精英黑蛇 / 雄壯黑蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2663,
+      "name": "精英黑蛇 / 菁英黑蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2904,
+      "name": "精英毒蛇 / 憤怒毒蛇",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2047,
+      "name": "沉醉於魔力的納迦 / 中邪的那迦",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1037,
+      "name": "黑蛇",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3398,
+      "name": "毒蛇",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1030,
+      "name": "毒蛇",
+      "rate": 7.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

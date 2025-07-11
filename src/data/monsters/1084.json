@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 99,
     "hit_100_percent": 202,
-    "flee_95_percent": 0,
+    "flee_95_percent": 172,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,6 +37,123 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "bra_dun01",
+      "description": "- 巴西瀑布裡的洞穴入口",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "bra_dun02",
+      "description": "- 巴西瀑布裡的洞穴內部",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "gef_dun00",
+      "description": "- 吉芬塔 地下密穴 1層",
+      "spawn_info": "6x / 3~5 分鐘"
+    },
+    {
+      "map_name": "gef_dun01",
+      "description": "- 吉芬塔 地下密穴 2層",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "gl_knt01",
+      "description": "- 克雷斯特漢姆 騎士團1樓",
+      "spawn_info": "12x / 60~90 分鐘"
+    },
+    {
+      "map_name": "harboro2",
+      "description": "- 洛克里奇 地下水道",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "iz_dun00",
+      "description": "- 依斯魯得海底洞穴 1層",
+      "spawn_info": "6x / 3~5 分鐘"
+    },
+    {
+      "map_name": "iz_dun01",
+      "description": "- 依斯魯得海底洞穴 2層",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "iz_dun02",
+      "description": "- 依斯魯得海底洞穴 3層",
+      "spawn_info": "15x / 3~5 分鐘"
+    },
+    {
+      "map_name": "jawaii_in",
+      "description": "- 爪哇咿 內部",
+      "spawn_info": "2x / 50~70 分鐘"
+    },
+    {
+      "map_name": "lou_dun01",
+      "description": "- 洛陽 古都王陵 1層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "orcsdun01",
+      "description": "- 獸人地下洞窟 1層",
+      "spawn_info": "10x / 15~23 分鐘"
+    },
+    {
+      "map_name": "orcsdun02",
+      "description": "- 獸人地下洞窟 2層",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "pay_dun00",
+      "description": "- 斐揚 (殭屍洞) 地下1層",
+      "spawn_info": "3x / 6~9 分鐘"
+    },
+    {
+      "map_name": "pay_dun01",
+      "description": "- 斐揚 (殭屍洞) 地下2層",
+      "spawn_info": "7x / 15~23 分鐘"
+    },
+    {
+      "map_name": "pay_dun02",
+      "description": "- 斐揚 (殭屍洞) 地下3層",
+      "spawn_info": "1x / 10~15 分鐘"
+    },
+    {
+      "map_name": "prt_fild07",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "3x / 6~9 分鐘"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "6x / 3~5 分鐘"
+    },
+    {
+      "map_name": "rockrdg1",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "treasure_n1",
+      "description": "- 依斯魯得島 遇難船 1樓",
+      "spawn_info": "40x / 50 秒"
+    },
+    {
+      "map_name": "treasure_n2",
+      "description": "- 依斯魯得島 遇難船 2樓",
+      "spawn_info": "20x / 50 秒"
+    },
+    {
+      "map_name": "un_bunker",
+      "description": "- 地下碉堡",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 630,

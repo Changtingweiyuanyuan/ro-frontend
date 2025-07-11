@@ -2,7 +2,7 @@
   "id": 3736,
   "name": {
     "zh_tw": "草寇",
-    "en": "散弹枪"
+    "en": "散彈槍"
   },
   "image_url": "/images/monsters/3736.gif",
   "basic_info": {
@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 25,
     "hit_100_percent": 370,
-    "flee_95_percent": 0,
+    "flee_95_percent": 375,
     "base_stats": {
       "str": 51,
       "agi": 58,
@@ -37,6 +37,13 @@
       "luk": 49
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockrdg1",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 7054,

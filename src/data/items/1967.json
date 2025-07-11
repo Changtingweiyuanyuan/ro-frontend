@@ -1,0 +1,40 @@
+{
+  "id": 1967,
+  "name": {
+    "zh_tw": "大地鞭子",
+    "en": "Whip_Of_Earth"
+  },
+  "icon_url": "/images/items/1967.gif",
+  "category": "武器",
+  "description": {
+    "official": "只選用堅韌的樹根，所編織成的鞭子",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 70
+  },
+  "script": "{ bonus bAtkEle,Ele_Earth; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

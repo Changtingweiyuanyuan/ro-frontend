@@ -1,0 +1,35 @@
+{
+  "id": 2259,
+  "name": {
+    "zh_tw": "竹蜻蜓發圈",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2259.gif",
+  "category": "防具",
+  "description": {
+    "official": "攜帶的時候，會讓人感覺可以遨遊於天上的發圈。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2797,
+      "name": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1035,
+      "name": "赤蒼蠅",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

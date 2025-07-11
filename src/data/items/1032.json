@@ -1,0 +1,70 @@
+{
+  "id": 1032,
+  "name": {
+    "zh_tw": "噬人樹花",
+    "en": "Blossom_Of_Maneater"
+  },
+  "icon_url": "/images/items/1032.gif",
+  "category": "其他類",
+  "description": {
+    "official": "像人一般擁有各種器官的花。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 196,
+    "sell_price": 98,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2825,
+      "name": "精英 / 雄壯 邪惡向日葵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2824,
+      "name": "精英 / 迅捷 邪惡向日葵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2738,
+      "name": "精英吃人草 / 狡猾吃人草",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2844,
+      "name": "精英捕蟲草 / 雄壯捕蟲草",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1368,
+      "name": "邪惡向日葵",
+      "rate": 31.0
+    },
+    {
+      "monster_id": 1413,
+      "name": "人參精",
+      "rate": 24.0
+    },
+    {
+      "monster_id": 1780,
+      "name": "吃人草",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1781,
+      "name": "捕蟲草",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

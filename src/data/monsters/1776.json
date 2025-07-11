@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 38,
     "hit_100_percent": 353,
-    "flee_95_percent": 0,
+    "flee_95_percent": 384,
     "base_stats": {
       "str": 83,
       "agi": 43,
@@ -37,6 +37,18 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "ice_dun01",
+      "description": "- 拉赫 冰洞穴 1層",
+      "spawn_info": "76x / 5 秒"
+    },
+    {
+      "map_name": "ice_dun02",
+      "description": "- 拉赫 冰洞穴 2層",
+      "spawn_info": "30x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 510,

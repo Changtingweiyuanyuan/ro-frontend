@@ -1,0 +1,40 @@
+{
+  "id": 1148,
+  "name": {
+    "zh_tw": "星塵劍",
+    "en": "Star_Dust_Blade"
+  },
+  "icon_url": "/images/items/1148.gif",
+  "category": "武器",
+  "description": {
+    "official": "據說刀刃部分是用隕石鑄造的特殊劍，到晚上時刀刃部分像星星一樣閃亮著。攻擊時有5%的幾率對敵人眩暈，不可破壞。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 100
+  },
+  "script": "{ bonus2 bAddEff,Eff_Stun,500; bonus bUnbreakableWeapon; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2441,
+      "name": "最後的初心者 / 魔鬼孩子王",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3422,
+      "name": "流浪之狼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

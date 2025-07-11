@@ -27,7 +27,7 @@
     "defense": 144,
     "magic_defense": 12,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 326,
     "base_stats": {
       "str": 73,
       "agi": 19,
@@ -37,6 +37,18 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def01",
+      "description": "- 波動模式迷宮 - 森林",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "mosk_dun01",
+      "description": "- 莫斯科比亞 森林",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 574,

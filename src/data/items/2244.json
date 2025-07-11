@@ -1,0 +1,45 @@
+{
+  "id": 2244,
+  "name": {
+    "zh_tw": "紅蝶發帶",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2244.gif",
+  "category": "防具",
+  "description": {
+    "official": "大蝴蝶結，可讓女性更可愛、漂亮。MDEF+3",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15000,
+    "sell_price": 7500,
+    "weight": 20
+  },
+  "script": "{ bonus bMdef,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3421,
+      "name": "蛙王",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

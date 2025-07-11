@@ -1,0 +1,35 @@
+{
+  "id": 1750,
+  "name": {
+    "zh_tw": "箭矢",
+    "en": "Arrow"
+  },
+  "icon_url": "/images/items/1750.gif",
+  "category": "彈藥/扔的武器",
+  "description": {
+    "official": "在任何地方都可以取得，是種一般常見的箭矢。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1,
+    "sell_price": 0,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 50.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

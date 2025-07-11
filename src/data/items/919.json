@@ -1,0 +1,210 @@
+{
+  "id": 919,
+  "name": {
+    "zh_tw": "動物外皮",
+    "en": "Animal's_Skin"
+  },
+  "icon_url": "/images/items/919.gif",
+  "category": "其他類",
+  "description": {
+    "official": "剝下動物的外皮得來的，可以用來衣服或棉被等物品。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 27,
+    "sell_price": 13,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2654,
+      "name": "精英狸貓 / 憤怒狸貓",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2638,
+      "name": "精英白鼠 / 菁英白鼠",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2677,
+      "name": "精英土狼 / 雄壯土狼",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2828,
+      "name": "精英迦利 / 狡猾迦利",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3443,
+      "name": "塔皮",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1146,
+      "name": "黑狐",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3392,
+      "name": "狸貓",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1056,
+      "name": "狸貓",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3500,
+      "name": "狩獵沙漠幼狼",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1866,
+      "name": "地獄犬 / 地獄貴賓狗",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1381,
+      "name": "暴焰野熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20924,
+      "name": "變異阿米特拉凱美拉",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 20923,
+      "name": "變異凱倫西斯凱美拉",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 1783,
+      "name": "迦利",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3198,
+      "name": "變種迦利",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1175,
+      "name": "白鼠",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1782,
+      "name": "土狼",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1860,
+      "name": "松鼠",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20921,
+      "name": "變異獨角光輝凱美拉",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2072,
+      "name": "美洲虎",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

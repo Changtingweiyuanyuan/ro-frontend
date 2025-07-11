@@ -1,0 +1,32 @@
+{
+  "id": 2521,
+  "name": {
+    "zh_tw": "天使的溫氣",
+    "en": "Angel's_Warmth"
+  },
+  "icon_url": "/images/items/2521.gif",
+  "category": "防具",
+  "description": {
+    "official": "負責超級初學者天使的小背心，披在身上的話較暖和，即使睡在外面好像也不會被著涼的HP自然恢復力增加5%套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 40
+  },
+  "script": "{ bonus bHPrecovRate,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3422,
+      "name": "流浪之狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": []
+}

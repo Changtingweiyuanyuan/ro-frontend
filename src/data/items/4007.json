@@ -1,0 +1,34 @@
+{
+  "id": 4007,
+  "name": {
+    "zh_tw": "大嘴鳥蛋卡片",
+    "en": "Pecopeco_Egg_Card"
+  },
+  "icon_url": "/images/items/4007.gif",
+  "category": "卡片",
+  "description": {
+    "official": "對無形系魔物增加20%的傷害。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddRace,RC_Formless,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1232,
+      "name": "大嘴鳥蛋",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1047,
+      "name": "大嘴鳥蛋",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

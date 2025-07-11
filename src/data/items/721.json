@@ -1,0 +1,101 @@
+{
+  "id": 721,
+  "name": {
+    "zh_tw": "綠寶石",
+    "en": "Azure_Jewel"
+  },
+  "icon_url": "/images/items/721.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出綠色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 4500,
+    "sell_price": 2250,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1666,
+      "name": "綠真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3423,
+      "name": "蝗蟲之王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1088,
+      "name": "搖滾蝗蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20359,
+      "name": "普拉加",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20360,
+      "name": "異種普拉加",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2679,
+      "name": "精英羅達蛙 / 憤怒羅達蛙",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2678,
+      "name": "精英羅達蛙 / 菁英羅達蛙",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2764,
+      "name": "精英螳螂 / 迅捷螳螂",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1012,
+      "name": "羅達蛙",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3499,
+      "name": "甜心羅達蛙",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1139,
+      "name": "螳螂",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1294,
+      "name": "狂暴螳螂",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1184,
+      "name": "綠棉蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

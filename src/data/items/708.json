@@ -1,0 +1,50 @@
+{
+  "id": 708,
+  "name": {
+    "zh_tw": "曼特花",
+    "en": "Ment"
+  },
+  "icon_url": "/images/items/708.gif",
+  "category": "其他類",
+  "description": {
+    "official": "可消除記憶的白色植物，含有讓人忘卻苦痛的成分。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2695,
+      "name": "精英草精 / 迅捷草精",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1162,
+      "name": "草精",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1406,
+      "name": "釣魚河童",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2185,
+      "name": "變形釣魚河童",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

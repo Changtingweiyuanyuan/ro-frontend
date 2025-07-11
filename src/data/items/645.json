@@ -1,0 +1,110 @@
+{
+  "id": 645,
+  "name": {
+    "zh_tw": "集中藥水",
+    "en": "Center_Potion"
+  },
+  "icon_url": "/images/items/645.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "含有可讓敏捷能力上升成份的藥水，服用時，可讓攻擊速度上升。全職業都可以使用。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1200,
+    "sell_price": 600,
+    "weight": 10
+  },
+  "script": "{ sc_start SC_ASPDPOTION0,1800000,4; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2833,
+      "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1116,
+      "name": "轉轉蛋",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3645,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3644,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3643,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1005,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1858,
+      "name": "漂浮蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3648,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3647,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3646,
+      "name": "吸血蝙蝠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 20637,
+      "name": "故障的倉庫管理員 / 故障的倉管",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2404,
+      "name": "變異幽浮水母",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

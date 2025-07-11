@@ -1,0 +1,39 @@
+{
+  "id": 4086,
+  "name": {
+    "zh_tw": "邪骸士兵卡片",
+    "en": "Soldier_Skeleton_Card"
+  },
+  "icon_url": "/images/items/4086.gif",
+  "category": "卡片",
+  "description": {
+    "official": "CRI+9",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bCritical,9; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

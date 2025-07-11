@@ -1,0 +1,185 @@
+{
+  "id": 522,
+  "name": {
+    "zh_tw": "瑪絲黛拉果實",
+    "en": "Fruit_Of_Mastela"
+  },
+  "icon_url": "/images/items/522.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "瑪絲黛拉樹上採下的紫色果實，可恢復大量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 8500,
+    "sell_price": 4250,
+    "weight": 3
+  },
+  "script": "{ itemheal rand(400,600),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1389,
+      "name": "德古拉男爵",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2837,
+      "name": "精英爆炎蝙蝠 / 憤怒爆炎蝙蝠",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1374,
+      "name": "惡魔侍者",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2810,
+      "name": "精英 / 雄壯 七彩大嘴鳥",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2811,
+      "name": "精英 / 菁英 七彩大嘴鳥",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1370,
+      "name": "惡魔女僕",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3029,
+      "name": "死神安庫",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2999,
+      "name": "咪羅克的魔法師",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3488,
+      "name": "憎惡鐮刀士兵",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3000,
+      "name": "咪羅克的亡靈巫師",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1383,
+      "name": "爆炎蝙蝠",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3451,
+      "name": "不死軍團",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3489,
+      "name": "粉碎犁士兵",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3487,
+      "name": "剁肉刀士兵",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1369,
+      "name": "七彩大嘴鳥",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1405,
+      "name": "天狗",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1302,
+      "name": "迷幻之王",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1883,
+      "name": "樹林女巫",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2821,
+      "name": "精英狂暴蜂兵 / 菁英狂暴蜂兵",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1293,
+      "name": "狂暴克瑞米",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3010,
+      "name": "墮落的獸人嬰兒",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3017,
+      "name": "墮落的畢萊特",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3011,
+      "name": "墮落的沙漠幼狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3014,
+      "name": "墮落的沙漠之狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3015,
+      "name": "墮落的劍魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3013,
+      "name": "墮落的獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3012,
+      "name": "墮落的吸血蝙蝠",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3016,
+      "name": "墮落的獸人腐屍",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3018,
+      "name": "墮落的邪骸食人魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1314,
+      "name": "果樹龜",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1303,
+      "name": "狂暴蜂兵",
+      "rate": 0.06
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

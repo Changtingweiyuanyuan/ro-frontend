@@ -4,8 +4,7 @@ import Header from './components/Header.vue'
 </script>
 
 <template>
-	<!--<Header />-->
-	<Home msg="Vite + Vue" />
+  <Home /> 
 </template>
 
 <style scoped>

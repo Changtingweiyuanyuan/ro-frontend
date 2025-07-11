@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3651.gif",
   "basic_info": {
-    "level": 0,
+    "level": 100,
     "race": "不死",
     "element": {
       "type": "不死",

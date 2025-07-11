@@ -1,0 +1,60 @@
+{
+  "id": 2245,
+  "name": {
+    "zh_tw": "紳士帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2245.gif",
+  "category": "防具",
+  "description": {
+    "official": "紳士們戴的時髦帽子，外觀給人感覺莊重大方。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15000,
+    "sell_price": 7500,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1091,
+      "name": "龍蠅",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3648,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3647,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3646,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3644,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3645,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3643,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

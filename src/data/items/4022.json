@@ -1,0 +1,39 @@
+{
+  "id": 4022,
+  "name": {
+    "zh_tw": "魔菇卡片",
+    "en": "Spore_Card"
+  },
+  "icon_url": "/images/items/4022.gif",
+  "category": "卡片",
+  "description": {
+    "official": "VIT+2",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bVit,2; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2646,
+      "name": "精英魔菇 / 迅捷魔菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3390,
+      "name": "魔菇",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1014,
+      "name": "魔菇",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

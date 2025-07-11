@@ -1,0 +1,40 @@
+{
+  "id": 2306,
+  "name": {
+    "zh_tw": "冒險衣",
+    "en": "Adventurere's_Suit_"
+  },
+  "icon_url": "/images/items/2306.gif",
+  "category": "防具",
+  "description": {
+    "official": "專為冒險者製作的衣服。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 0.4
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

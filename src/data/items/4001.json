@@ -1,0 +1,59 @@
+{
+  "id": 4001,
+  "name": {
+    "zh_tw": "波利卡片",
+    "en": "Poring_Card"
+  },
+  "icon_url": "/images/items/4001.gif",
+  "category": "卡片",
+  "description": {
+    "official": "LUK+2完全迴避+1套裝資料:波利卡片 & 波利之王卡片 套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bLuk,2; bonus bFlee2,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 925,
+  "name": {
+    "zh_tw": "鳥嘴",
+    "en": "Bill_Of_Birds"
+  },
+  "icon_url": "/images/items/925.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從飛行魔怪或動物身上得來的嘴巴，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 48,
+    "sell_price": 24,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 45.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

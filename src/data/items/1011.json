@@ -1,0 +1,176 @@
+{
+  "id": 1011,
+  "name": {
+    "zh_tw": "強化武器金屬-級數二",
+    "en": "Emveretarcon"
+  },
+  "icon_url": "/images/items/1011.gif",
+  "category": "其他類",
+  "description": {
+    "official": "用來強化武器在製作武器所使用的金屬，可以強化級數二的武器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2750,
+      "name": "精英礦石魔 / 雄壯礦石魔",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1614,
+      "name": "礦石魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 20596,
+      "name": "白色礦石魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 20595,
+      "name": "紅色礦石魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 20597,
+      "name": "紫色礦石魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 20594,
+      "name": "綠色礦石魔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1976,
+      "name": "鈷礦石魔 / 惡精靈礦石",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2847,
+      "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2635,
+      "name": "精英突變蛙 / 狡猾突變蛙",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2610,
+      "name": "精英森靈 / 菁英森靈",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3500,
+      "name": "狩獵沙漠幼狼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3501,
+      "name": "變形魔菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1111,
+      "name": "紅蝙蝠",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1178,
+      "name": "傑洛米",
+      "rate": 0.28
+    },
+    {
+      "monster_id": 1034,
+      "name": "達拉蛙",
+      "rate": 0.23
+    },
+    {
+      "monster_id": 1054,
+      "name": "瑪勒盜蟲",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1024,
+      "name": "森靈",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 3395,
+      "name": "森靈",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2074,
+      "name": "小綠人",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

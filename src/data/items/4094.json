@@ -1,0 +1,29 @@
+{
+  "id": 4094,
+  "name": {
+    "zh_tw": "邪骸弓箭手卡片",
+    "en": "Archer_Skeleton_Card"
+  },
+  "icon_url": "/images/items/4094.gif",
+  "category": "卡片",
+  "description": {
+    "official": "遠距離物理傷害+10%。套裝資料:邪骸弓箭手卡片 & 憤懣邪骸弓箭手卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bLongAtkRate,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -27,7 +27,7 @@
     "defense": 82,
     "magic_defense": 10,
     "hit_100_percent": 270,
-    "flee_95_percent": 0,
+    "flee_95_percent": 248,
     "base_stats": {
       "str": 52,
       "agi": 16,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "orcsdun02",
+      "description": "- 獸人地下洞窟 2層",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,

@@ -1,0 +1,55 @@
+{
+  "id": 2257,
+  "name": {
+    "zh_tw": "獸角頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2257.gif",
+  "category": "防具",
+  "description": {
+    "official": "純白色的角，尾端不但不尖銳，還相當的圓滑。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1990,
+      "name": "硬石猛瑪",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1992,
+      "name": "飛馬 / 獨角飛馬",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2181,
+      "name": "遠古異變魚",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 20645,
+      "name": "熱池變異魚",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1069,
+      "name": "異變魚",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

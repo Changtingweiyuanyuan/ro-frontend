@@ -1,0 +1,82 @@
+{
+  "id": 970,
+  "name": {
+    "zh_tw": "酒精",
+    "en": "Alchol"
+  },
+  "icon_url": "/images/items/970.gif",
+  "category": "其他類",
+  "description": {
+    "official": "帶有獨特香味的液體，因為在常溫中容易蒸發的關係，所以必須保存於密閉的空間中。具有容易著火的特性，還可以融化水無法溶解的物質。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 400,
+    "sell_price": 200,
+    "weight": 3
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2371,
+      "name": "頑靈惡童",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3421,
+      "name": "蛙王",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3755,
+      "name": "毒血蘑菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1084,
+      "name": "黑菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1085,
+      "name": "紅菇",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1129,
+      "name": "鬼火",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1072,
+      "name": "卡浩",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1858,
+      "name": "漂浮蟲",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 2404,
+      "name": "變異幽浮水母",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

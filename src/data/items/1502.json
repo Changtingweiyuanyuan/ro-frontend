@@ -1,0 +1,55 @@
+{
+  "id": 1502,
+  "name": {
+    "zh_tw": "木錘",
+    "en": "Club_"
+  },
+  "icon_url": "/images/items/1502.gif",
+  "category": "武器",
+  "description": {
+    "official": "木製的鈍器，任何人都方便使用。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 120,
+    "sell_price": 60,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1184,
+      "name": "綠棉蟲",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 0.4
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

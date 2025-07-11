@@ -1,0 +1,35 @@
+{
+  "id": 1702,
+  "name": {
+    "zh_tw": "弓",
+    "en": "Bow_"
+  },
+  "icon_url": "/images/items/1702.gif",
+  "category": "武器",
+  "description": {
+    "official": "傷害並不是很高，但使用起來很方便的弓。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 50
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

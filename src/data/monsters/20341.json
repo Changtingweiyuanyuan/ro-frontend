@@ -27,7 +27,7 @@
     "defense": 75,
     "magic_defense": 37,
     "hit_100_percent": 368,
-    "flee_95_percent": 0,
+    "flee_95_percent": 391,
     "base_stats": {
       "str": 80,
       "agi": 46,
@@ -37,6 +37,13 @@
       "luk": 32
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@cor",
+      "description": "- 柯爾記憶副本",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 975,

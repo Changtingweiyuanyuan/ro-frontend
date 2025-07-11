@@ -1,0 +1,35 @@
+{
+  "id": 704,
+  "name": {
+    "zh_tw": "蘆薈",
+    "en": "Aloe"
+  },
+  "icon_url": "/images/items/704.gif",
+  "category": "其他類",
+  "description": {
+    "official": "只在森林深處開花的植物，因為一年中只在特定的季節開花，所以不是那麼容易可以碰得到。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

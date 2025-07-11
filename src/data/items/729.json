@@ -1,0 +1,56 @@
+{
+  "id": 729,
+  "name": {
+    "zh_tw": "青綠寶石",
+    "en": "Bluish_Green_Jewel"
+  },
+  "icon_url": "/images/items/729.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出青綠色之光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 4500,
+    "sell_price": 2250,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3421,
+      "name": "蛙王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2654,
+      "name": "精英狸貓 / 憤怒狸貓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1054,
+      "name": "瑪勒盜蟲",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3392,
+      "name": "狸貓",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1056,
+      "name": "狸貓",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

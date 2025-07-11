@@ -1,0 +1,60 @@
+{
+  "id": 940,
+  "name": {
+    "zh_tw": "蝗蟲後腿",
+    "en": "Grasshopper's_Leg"
+  },
+  "icon_url": "/images/items/940.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物搖滾蝗蟲的後腿。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 36,
+    "sell_price": 18,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2754,
+      "name": "精英 / 迅捷 重金屬蝗蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2680,
+      "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1052,
+      "name": "蝗蟲",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1088,
+      "name": "搖滾蝗蟲",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 3423,
+      "name": "蝗蟲之王",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 3408,
+      "name": "重金屬蝗蟲",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 1058,
+      "name": "重金屬蝗蟲",
+      "rate": 32.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

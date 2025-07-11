@@ -1,0 +1,1130 @@
+{
+  "id": 601,
+  "name": {
+    "zh_tw": "蒼蠅翅膀",
+    "en": "Wing_Of_Fly"
+  },
+  "icon_url": "/images/items/601.gif",
+  "category": "延遲消耗類",
+  "description": {
+    "official": "將蒼蠅的翅膀剪下後，製作出的具有魔法力量的物品，可在地圖上移動至任意的位置上。【此物品無法交易、露天販賣、露天收購】",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 250,
+    "sell_price": 125,
+    "weight": 5
+  },
+  "script": "{ itemskill \"AL_TELEPORT\",1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2610,
+      "name": "精英森靈 / 菁英森靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2705,
+      "name": "精英毒魔菇 / 雄壯毒魔菇",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2712,
+      "name": "精英小雞 / 憤怒小雞",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2680,
+      "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2857,
+      "name": "精英兵蟻 / 狡猾兵蟻",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2660,
+      "name": "精英 / 狡猾 邪骸礦工",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2762,
+      "name": "精英冰波利 / 憤怒冰波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2845,
+      "name": "精英土波利 / 菁英土波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2814,
+      "name": "精英哥布靈 / 迅捷哥布靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2813,
+      "name": "精英哥布靈 / 狡猾哥布靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2864,
+      "name": "精英卡那多斯 / 雄壯卡那多斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2833,
+      "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2890,
+      "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2678,
+      "name": "精英羅達蛙 / 菁英羅達蛙",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2642,
+      "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2679,
+      "name": "精英羅達蛙 / 憤怒羅達蛙",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2905,
+      "name": "精英蝸牛 / 狡猾蝸牛",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2670,
+      "name": "精英蠍子 / 狡猾蠍子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2840,
+      "name": "精英長老樹精 / 雄壯長老樹精",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2646,
+      "name": "精英魔菇 / 迅捷魔菇",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2839,
+      "name": "精英長老樹精 / 迅捷長老樹精",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2737,
+      "name": "精英邪惡禮盒 / 憤怒邪惡禮盒",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2847,
+      "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2865,
+      "name": "精英甜餅人 / 菁英甜餅人",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2654,
+      "name": "精英狸貓 / 憤怒狸貓",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2633,
+      "name": "精英盜蟲 / 菁英盜蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2632,
+      "name": "精英盜蟲 / 雄壯盜蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2635,
+      "name": "精英突變蛙 / 狡猾突變蛙",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2634,
+      "name": "精英盜蟲 / 憤怒盜蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2638,
+      "name": "精英白鼠 / 菁英白鼠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2618,
+      "name": "精英白幽靈 / 雄壯白幽靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2209,
+      "name": "浮勒盜蟲_E",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3443,
+      "name": "塔皮",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3505,
+      "name": "巨型蛋黃波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1265,
+      "name": "綠餅人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1042,
+      "name": "綠蒼蠅",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1012,
+      "name": "羅達蛙",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1100,
+      "name": "艾斯蜘蛛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3666,
+      "name": "紅蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1122,
+      "name": "刺刀哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3399,
+      "name": "冰波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1073,
+      "name": "卡拉蟹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1067,
+      "name": "卡那多斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3643,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1005,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3501,
+      "name": "變形魔菇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1242,
+      "name": "冰波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1111,
+      "name": "紅蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3497,
+      "name": "草地綠棉蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1105,
+      "name": "兵蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3402,
+      "name": "兵蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1686,
+      "name": "獸人嬰兒",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3667,
+      "name": "紅蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1212,
+      "name": "鐵蠍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1123,
+      "name": "鍊錘哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1169,
+      "name": "邪骸礦工",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3641,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3642,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1033,
+      "name": "長老樹精",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3390,
+      "name": "魔菇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1151,
+      "name": "麥斯特",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1014,
+      "name": "魔菇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1250,
+      "name": "魔靈娃娃",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3640,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3639,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1001,
+      "name": "蠍子",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3406,
+      "name": "蠍子",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1052,
+      "name": "蝗蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1094,
+      "name": "蝸牛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1050,
+      "name": "蛋殼小雞",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3495,
+      "name": "蛋黃波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3637,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3638,
+      "name": "邪骸戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1034,
+      "name": "達拉蛙",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1249,
+      "name": "邪惡禮盒",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3644,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3646,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3498,
+      "name": "狂野蜂兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1056,
+      "name": "狸貓",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3500,
+      "name": "狩獵沙漠幼狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1053,
+      "name": "浮勒盜蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1266,
+      "name": "海星",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3392,
+      "name": "狸貓",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1179,
+      "name": "白幽靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3499,
+      "name": "甜心羅達蛙",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1054,
+      "name": "瑪勒盜蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1248,
+      "name": "玩具士兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2406,
+      "name": "短劍海盜骷髏",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3175,
+      "name": "直升機哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1392,
+      "name": "直升機哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1175,
+      "name": "白鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1051,
+      "name": "盜蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1124,
+      "name": "大斧哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3648,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3647,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1113,
+      "name": "土波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1049,
+      "name": "小雞",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3387,
+      "name": "小雞",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1024,
+      "name": "森靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3395,
+      "name": "森靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1125,
+      "name": "榔頭哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1141,
+      "name": "水母",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1077,
+      "name": "毒魔菇",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3816,
+      "name": "強化冰波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3813,
+      "name": "強化土波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3814,
+      "name": "強化波波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3645,
+      "name": "吸血蝙蝠",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

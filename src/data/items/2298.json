@@ -1,0 +1,35 @@
+{
+  "id": 2298,
+  "name": {
+    "zh_tw": "觸角頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2298.gif",
+  "category": "防具",
+  "description": {
+    "official": "昆蟲草綠色的觸鬚，配帶時會感覺到如蝗蟲跳躍。不可精煉",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2680,
+      "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1052,
+      "name": "蝗蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

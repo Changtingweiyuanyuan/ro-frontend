@@ -1,0 +1,76 @@
+{
+  "id": 725,
+  "name": {
+    "zh_tw": "大紅寶石",
+    "en": "Red_Jewel"
+  },
+  "icon_url": "/images/items/725.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出赤色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6000,
+    "sell_price": 3000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1087,
+      "name": "獸人英雄",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2094,
+      "name": "獸人英雄_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3429,
+      "name": "獸人英雄",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3750,
+      "name": "幻影紅蝙蝠",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2847,
+      "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2635,
+      "name": "精英突變蛙 / 狡猾突變蛙",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3667,
+      "name": "紅蝙蝠",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3666,
+      "name": "紅蝙蝠",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1111,
+      "name": "紅蝙蝠",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1034,
+      "name": "達拉蛙",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

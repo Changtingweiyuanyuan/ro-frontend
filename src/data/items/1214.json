@@ -1,0 +1,50 @@
+{
+  "id": 1214,
+  "name": {
+    "zh_tw": "大駒短劍",
+    "en": "Dagger_"
+  },
+  "icon_url": "/images/items/1214.gif",
+  "category": "武器",
+  "description": {
+    "official": "將刀刃適當彎曲的短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 14000,
+    "sell_price": 7000,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1415,
+      "name": "小花豹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 2406,
+      "name": "短劍海盜骷髏",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

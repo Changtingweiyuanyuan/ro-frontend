@@ -1,0 +1,100 @@
+{
+  "id": 913,
+  "name": {
+    "zh_tw": "蝙蝠牙",
+    "en": "Tooth_Of_Bat"
+  },
+  "icon_url": "/images/items/913.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物吸血蝙蝠尖銳的牙齒，可以用來做衣服或裝飾用。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 34,
+    "sell_price": 17,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2833,
+      "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2847,
+      "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2766,
+      "name": "精英瑪那能革 / 菁英瑪那能革",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3750,
+      "name": "幻影紅蝙蝠",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3644,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3643,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3646,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3645,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3648,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3647,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1005,
+      "name": "吸血蝙蝠",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3667,
+      "name": "紅蝙蝠",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3666,
+      "name": "紅蝙蝠",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1111,
+      "name": "紅蝙蝠",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2311,
+      "name": "瑪那能革",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

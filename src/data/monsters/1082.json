@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 99,
     "hit_100_percent": 202,
-    "flee_95_percent": 0,
+    "flee_95_percent": 172,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,6 +37,108 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_d01_i",
+      "description": "- 幻影: 吸血鬼幻影",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_dun01",
+      "description": "- 吉芬塔 地下密穴 2層",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "gef_dun02",
+      "description": "- 吉芬塔 地下密穴 3層",
+      "spawn_info": "12x / 3~5 分鐘"
+    },
+    {
+      "map_name": "gef_dun03",
+      "description": "- 吉芬塔 地下密穴 4層",
+      "spawn_info": "18x / 3~5 分鐘"
+    },
+    {
+      "map_name": "gon_dun01",
+      "description": "- 昆崙洞 1層 (西王母神殿)",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "gon_dun03",
+      "description": "- 昆崙洞 3層 (武陵道院)",
+      "spawn_info": "13x / 5 秒"
+    },
+    {
+      "map_name": "mosk_dun03",
+      "description": "- 莫斯科比亞 深淵森林",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "5x / 10 秒"
+    },
+    {
+      "map_name": "orcsdun01",
+      "description": "- 獸人地下洞窟 1層",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "orcsdun02",
+      "description": "- 獸人地下洞窟 2層",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "pay_d03_i",
+      "description": "- 幻影: 月夜貓的噩咪",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun02",
+      "description": "- 斐揚 (殭屍洞) 地下3層",
+      "spawn_info": "6x / 3~5 分鐘"
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "pay_dun04",
+      "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+      "spawn_info": "6x / 3~5 分鐘"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "3x / 30~45 分鐘"
+    },
+    {
+      "map_name": "rockrdg2",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "treasure_n1",
+      "description": "- 依斯魯得島 遇難船 1樓",
+      "spawn_info": "10x / 50 秒"
+    },
+    {
+      "map_name": "treasure_n2",
+      "description": "- 依斯魯得島 遇難船 2樓",
+      "spawn_info": "10x / 50 秒"
+    },
+    {
+      "map_name": "ve_fild07",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "10x / 10 分鐘"
+    },
+    {
+      "map_name": "yggdrasil01",
+      "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
+      "spawn_info": "5x / 20~30 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

@@ -1,0 +1,31 @@
+{
+  "id": 1558,
+  "name": {
+    "zh_tw": "日記本",
+    "en": "Girl's_Diary"
+  },
+  "icon_url": "/images/items/1558.gif",
+  "category": "武器",
+  "description": {
+    "official": "少女的日記本。內容上寫的好像是日期天氣以及當天生活內容的樣子。因為是由未知的文字所寫成的，因此無法閱讀辨識。對魔物'妖道'增加150%的傷害。套裝資料:日記本[1] & 憤懣殭屍卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 30
+  },
+  "script": "{ bonus2 bAddDamageClass,1188,150; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

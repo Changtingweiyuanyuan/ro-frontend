@@ -27,7 +27,7 @@
     "defense": 117,
     "magic_defense": 66,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 341,
     "base_stats": {
       "str": 58,
       "agi": 58,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "ein_fild05",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 603,

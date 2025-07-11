@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/3079.gif",
   "basic_info": {
-    "level": 0,
+    "level": 120,
     "race": "天使",
     "element": {
       "type": "聖",

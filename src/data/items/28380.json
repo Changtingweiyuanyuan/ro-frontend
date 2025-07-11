@@ -1,0 +1,37 @@
+{
+  "id": 28380,
+  "name": {
+    "zh_tw": "青澀草項鍊",
+    "en": "Fresh_G_Necklace"
+  },
+  "icon_url": "/images/items/28380.gif",
+  "category": "防具",
+  "description": {
+    "official": "用幸運草編制的青澀項鍊。完全迴避+5，白鼠創傷技能冷卻時間-5秒。套裝資料:杜蘭族專屬的初級兔子套裝杜蘭族高級的中級兔子套裝杜蘭族優雅的高級兔子套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus bFlee2,5; bonus2 bSkillCooldown,\"SU_SCAROFTAROU\",-5000; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2640,
+      "name": "精英史汀 / 狡猾史汀",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1134,
+      "name": "榔頭犬妖",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1207,
+      "name": "史汀",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": []
+}

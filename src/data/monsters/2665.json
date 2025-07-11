@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 89,
     "hit_100_percent": 408,
-    "flee_95_percent": 0,
+    "flee_95_percent": 457,
     "base_stats": {
       "str": 99,
       "agi": 66,
@@ -37,6 +37,13 @@
       "luk": 89
     }
   },
+  "spawns": [
+    {
+      "map_name": "tha_t11",
+      "description": "- 達納托斯之塔 上層 11樓 絕望之房",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 722,

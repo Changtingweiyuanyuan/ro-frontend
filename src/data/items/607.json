@@ -1,0 +1,656 @@
+{
+  "id": 607,
+  "name": {
+    "zh_tw": "天地樹果實",
+    "en": "Yggdrasilberry"
+  },
+  "icon_url": "/images/items/607.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "天地樹的果實，據說食用後精神會為之一振，感覺活力滿滿。可將使用者的HP和SP全數恢復。再使用等候時間 :5秒",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 5000,
+    "sell_price": 2500,
+    "weight": 30
+  },
+  "script": "{ percentheal 100,100; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2476,
+      "name": "暗答萊屍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2475,
+      "name": "墮落根莖 / 墮落之根",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2107,
+      "name": "墮落的大神官希巴姆_E",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1871,
+      "name": "墮落的大神官 希巴姆 / 悉潘",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 2101,
+      "name": "死靈騎士_E",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1373,
+      "name": "死靈騎士",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1418,
+      "name": "墨蛇君",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 2319,
+      "name": "寶箱巨鱷",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1623,
+      "name": "RSX-0806",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1399,
+      "name": "巴風特",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1768,
+      "name": "影魔 / 幽暗咪魘",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 2108,
+      "name": "影魔_E",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1157,
+      "name": "法老王",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 2104,
+      "name": "墨蛇君_E",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1630,
+      "name": "白素貞",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1917,
+      "name": "負傷咪羅克",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 2202,
+      "name": "魔鬼大烏賊",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1885,
+      "name": "青冠龍",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1955,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3757,
+      "name": "憤怒的德古拉",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3796,
+      "name": "蘇醒的寒冰龍 / 蘇醒水晶龍",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2452,
+      "name": "搞鬼箱 / 寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2094,
+      "name": "獸人英雄_E",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 20419,
+      "name": "堅硬穆希貝斯寇",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2362,
+      "name": "古埃及王-咪魘",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1874,
+      "name": "貝雷傑 / 詛咒蠅王",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1325,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1343,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1329,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1327,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1333,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1779,
+      "name": "寒冰龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1339,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1337,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2103,
+      "name": "寒冰龍_E",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1785,
+      "name": "阿特羅斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1335,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1331,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1363,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20421,
+      "name": "汙染蜘蛛女王",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1353,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3526,
+      "name": "可圖拉納斯的幻影 / 憤怒的水晶龍幻影",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1359,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1355,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20422,
+      "name": "汙染黑暗之王",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1351,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1361,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1341,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1357,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1345,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1347,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1349,
+      "name": "寶物箱子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1389,
+      "name": "德古拉男爵",
+      "rate": 23.5
+    },
+    {
+      "monster_id": 2097,
+      "name": "德古拉男爵_E",
+      "rate": 23.5
+    },
+    {
+      "monster_id": 1492,
+      "name": "元靈武士",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2100,
+      "name": "巴風特_E2",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1039,
+      "name": "巴風特",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2999,
+      "name": "咪羅克的魔法師",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2105,
+      "name": "烏龜將軍_E",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3000,
+      "name": "咪羅克的亡靈巫師",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2483,
+      "name": "巴風特-咪魘",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3758,
+      "name": "憤怒月夜貓",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3429,
+      "name": "獸人英雄",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1511,
+      "name": "古埃及王",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1087,
+      "name": "獸人英雄",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20943,
+      "name": "死亡女巫",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1312,
+      "name": "烏龜將軍",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1358,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2156,
+      "name": "讓特",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1362,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1360,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1348,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1332,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1334,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1336,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1330,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1326,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1356,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1324,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1338,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1328,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1346,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1350,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1352,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1354,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1344,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1342,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1340,
+      "name": "寶物箱子",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 3474,
+      "name": "不滅的受到詛咒的騎士",
+      "rate": 10.04
+    },
+    {
+      "monster_id": 3475,
+      "name": "不滅的風魔巫師",
+      "rate": 10.04
+    },
+    {
+      "monster_id": 3473,
+      "name": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3804,
+      "name": "不祥烏龜將軍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3741,
+      "name": "蜘蛛戰車",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2529,
+      "name": "驚駭森靈女王 / 人面蟲皇后",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20648,
+      "name": "大王喵喵",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3075,
+      "name": "Treasure",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3633,
+      "name": "劇毒凱美拉",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3029,
+      "name": "死神安庫",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3621,
+      "name": "小可愛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3628,
+      "name": "邪心獵人 伊芙 / 暗●邪心獵人",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3490,
+      "name": "不死的軍團軍官",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2068,
+      "name": "波伊塔塔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2131,
+      "name": "殭屍龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3507,
+      "name": "果實食人蜘蛛",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 20805,
+      "name": "深海人魚士兵",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3504,
+      "name": "突擊巴西利斯克",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3503,
+      "name": "突擊巴西利斯克",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3487,
+      "name": "剁肉刀士兵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3451,
+      "name": "不死軍團",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3489,
+      "name": "粉碎犁士兵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3488,
+      "name": "憎惡鐮刀士兵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1101,
+      "name": "小巴風特",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1861,
+      "name": "巧克猴",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 3014,
+      "name": "墮落的沙漠之狼",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3017,
+      "name": "墮落的畢萊特",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3011,
+      "name": "墮落的沙漠幼狼",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3018,
+      "name": "墮落的邪骸食人魚",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3015,
+      "name": "墮落的劍魚",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3012,
+      "name": "墮落的吸血蝙蝠",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3013,
+      "name": "墮落的獸人戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3010,
+      "name": "墮落的獸人嬰兒",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3016,
+      "name": "墮落的獸人腐屍",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1214,
+      "name": "巧克猴",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1951,
+      "name": "天使彩蛋",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1395,
+      "name": "風元素",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "魔神殿",
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

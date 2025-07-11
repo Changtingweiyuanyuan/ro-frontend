@@ -27,7 +27,7 @@
     "defense": 96,
     "magic_defense": 90,
     "hit_100_percent": 453,
-    "flee_95_percent": 0,
+    "flee_95_percent": 436,
     "base_stats": {
       "str": 97,
       "agi": 111,
@@ -37,6 +37,13 @@
       "luk": 67
     }
   },
+  "spawns": [
+    {
+      "map_name": "tha_t10",
+      "description": "- 達納托斯之塔 上層 10樓 悲哀之房",
+      "spawn_info": "3x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 731,

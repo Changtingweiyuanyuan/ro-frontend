@@ -1,0 +1,44 @@
+{
+  "id": 4036,
+  "name": {
+    "zh_tw": "摩卡卡片",
+    "en": "Muka_Card"
+  },
+  "icon_url": "/images/items/4036.gif",
+  "category": "卡片",
+  "description": {
+    "official": "HP恢復力上升10%套裝資料:煉金術士套裝 : 摩卡卡片, 摩爾卡片, 拉鏈熊卡片, 小花豹卡片, 奈吉鳥卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bHPrecovRate,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1854,
+      "name": "摩卡",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

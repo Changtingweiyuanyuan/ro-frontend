@@ -1,0 +1,60 @@
+{
+  "id": 515,
+  "name": {
+    "zh_tw": "紅蘿蔔",
+    "en": "Carrot"
+  },
+  "icon_url": "/images/items/515.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "紅色的蔬菜。味道香甜，常被拿來作菜食用可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15,
+    "sell_price": 7,
+    "weight": 2
+  },
+  "script": "{ itemheal rand(18,20),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1609,
+      "name": "年獸",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2018,
+      "name": "杜內爾 / 杜尼爾",
+      "rate": 25.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

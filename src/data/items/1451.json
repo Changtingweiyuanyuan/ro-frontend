@@ -1,0 +1,44 @@
+{
+  "id": 1451,
+  "name": {
+    "zh_tw": "彎刃長矛",
+    "en": "Guisarme"
+  },
+  "icon_url": "/images/items/1451.gif",
+  "category": "武器",
+  "description": {
+    "official": "有著向內彎曲的刀刃之長矛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 13000,
+    "sell_price": 6500,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1854,
+      "name": "摩卡",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

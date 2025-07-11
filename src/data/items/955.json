@@ -1,0 +1,145 @@
+{
+  "id": 955,
+  "name": {
+    "zh_tw": "昆蟲外殼",
+    "en": "Worm_Peelings"
+  },
+  "icon_url": "/images/items/955.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物身上堅硬的外殼，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 52,
+    "sell_price": 26,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2857,
+      "name": "精英兵蟻 / 狡猾兵蟻",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2634,
+      "name": "精英盜蟲 / 憤怒盜蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2632,
+      "name": "精英盜蟲 / 雄壯盜蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2633,
+      "name": "精英盜蟲 / 菁英盜蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1105,
+      "name": "兵蟻",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1999,
+      "name": "變異蜈蚣幼蟲",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3402,
+      "name": "兵蟻",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2179,
+      "name": "遠古庫克雷",
+      "rate": 41.24
+    },
+    {
+      "monster_id": 1051,
+      "name": "盜蟲",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2209,
+      "name": "浮勒盜蟲_E",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1239,
+      "name": "兵蟻",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1053,
+      "name": "浮勒盜蟲",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 28.5
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2787,
+      "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1054,
+      "name": "瑪勒盜蟲",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1494,
+      "name": "巨象甲蟲",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

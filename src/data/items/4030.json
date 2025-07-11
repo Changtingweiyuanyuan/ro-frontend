@@ -1,0 +1,39 @@
+{
+  "id": 4030,
+  "name": {
+    "zh_tw": "曼陀羅魔花卡片",
+    "en": "Mandragora_Card"
+  },
+  "icon_url": "/images/items/4030.gif",
+  "category": "卡片",
+  "description": {
+    "official": "對風屬性魔物增加20%的傷害。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddEle,Ele_Wind,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

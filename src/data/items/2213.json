@@ -1,0 +1,40 @@
+{
+  "id": 2213,
+  "name": {
+    "zh_tw": "貓耳發圈",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2213.gif",
+  "category": "防具",
+  "description": {
+    "official": "貓耳模樣的發圈。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2654,
+      "name": "精英狸貓 / 憤怒狸貓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3392,
+      "name": "狸貓",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1056,
+      "name": "狸貓",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

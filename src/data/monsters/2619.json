@@ -27,7 +27,7 @@
     "defense": 12,
     "magic_defense": 2,
     "hit_100_percent": 223,
-    "flee_95_percent": 0,
+    "flee_95_percent": 200,
     "base_stats": {
       "str": 15,
       "agi": 5,
@@ -37,6 +37,13 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "treasure_n2",
+      "description": "- 依斯魯得島 遇難船 2樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 507,

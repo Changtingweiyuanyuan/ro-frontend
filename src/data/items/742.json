@@ -1,0 +1,51 @@
+{
+  "id": 742,
+  "name": {
+    "zh_tw": "蒼蠅娃娃",
+    "en": "Chonchon_Doll"
+  },
+  "icon_url": "/images/items/742.gif",
+  "category": "其他類",
+  "description": {
+    "official": "一部分特殊的人依照他們自身喜歡的魔物蒼蠅的外型所製造的玩偶。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3000,
+    "sell_price": 1500,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1091,
+      "name": "龍蠅",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1183,
+      "name": "蒼蠅",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

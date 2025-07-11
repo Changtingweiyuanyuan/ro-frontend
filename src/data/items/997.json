@@ -1,0 +1,227 @@
+{
+  "id": 997,
+  "name": {
+    "zh_tw": "土靈原石",
+    "en": "Great_Nature"
+  },
+  "icon_url": "/images/items/997.gif",
+  "category": "其他類",
+  "description": {
+    "official": "擁有地屬性的礦石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3000,
+    "sell_price": 1500,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2655,
+      "name": "精英沙妖 / 狡猾沙妖",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2656,
+      "name": "精英沙妖 / 迅捷沙妖",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2533,
+      "name": "綠色驚駭森靈女王 / 人面蟲皇后",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1386,
+      "name": "沙妖",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20928,
+      "name": "變異救世主凱美拉",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2876,
+      "name": "精英 / 憤怒 狂暴綠棉蟲",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2467,
+      "name": "蛆蟲 / 卷甲蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2674,
+      "name": "精英泥人 / 憤怒泥人",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 2786,
+      "name": "精英 / 菁英 礦坑小精靈",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2644,
+      "name": "精英 / 憤怒 鐘乳巨石怪",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2640,
+      "name": "精英史汀 / 狡猾史汀",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2832,
+      "name": "精英紅貝勒斯 / 憤怒綠貝勒斯",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2893,
+      "name": "精英卷甲蟲 / 雄壯卷甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20923,
+      "name": "變異凱倫西斯凱美拉",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3802,
+      "name": "不祥岩石龜",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2894,
+      "name": "精英卷甲蟲 / 菁英卷甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2247,
+      "name": "米糕 (任務,未完成)",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 20370,
+      "name": "汙染史汀",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2793,
+      "name": "精英米糕 / 狡猾米糕",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2900,
+      "name": "精英瘋狂螳螂 / 狡猾瘋狂螳螂",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3069,
+      "name": "貝爾 / 派",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2901,
+      "name": "精英瘋狂螳螂 / 迅捷瘋狂螳螂",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3071,
+      "name": "貝爾 / 派",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1300,
+      "name": "狂暴綠棉蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2368,
+      "name": "元素鬼火(綠)",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2358,
+      "name": "卷甲蟲-咪魘",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3409,
+      "name": "泥人",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 1165,
+      "name": "泥人",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 1278,
+      "name": "鐘乳巨石怪",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 20271,
+      "name": "古代鐘乳巨石怪",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2641,
+      "name": "精英灰森靈 / 迅捷灰森靈",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1838,
+      "name": "礦坑小精靈",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1207,
+      "name": "史汀",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1717,
+      "name": "綠貝勒斯",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1194,
+      "name": "卷甲蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1516,
+      "name": "米糕",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2133,
+      "name": "瘋狂螳螂",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1215,
+      "name": "灰森靈",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3787,
+      "name": "沼澤卷甲蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

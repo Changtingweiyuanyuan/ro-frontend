@@ -1,0 +1,55 @@
+{
+  "id": 942,
+  "name": {
+    "zh_tw": "猴子尾巴",
+    "en": "Yoyo_Tail"
+  },
+  "icon_url": "/images/items/942.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物溜溜猴的尾巴。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 114,
+    "sell_price": 57,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1861,
+      "name": "巧克猴",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 1214,
+      "name": "巧克猴",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 30.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

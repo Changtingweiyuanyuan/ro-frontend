@@ -1,0 +1,100 @@
+{
+  "id": 2270,
+  "name": {
+    "zh_tw": "草葉",
+    "en": "下"
+  },
+  "icon_url": "/images/items/2270.gif",
+  "category": "防具",
+  "description": {
+    "official": "草葉，含在嘴裡時，會隨著風飄蕩，有到處流浪的感覺。受到植物系敵人的攻擊時，可減少3%的傷害。套裝資料:草葉 & Persika[1]草葉 & Ancient Elven Ear",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus2 bSubRace,RC_Plant,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2880,
+      "name": "精英微風 / 菁英微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2843,
+      "name": "精英森林妖姬 / 迅捷森林妖姬",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2734,
+      "name": "精英孤魂怨靈 / 迅捷孤魂怨靈",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2881,
+      "name": "精英微風 / 憤怒微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2620,
+      "name": "精英 / 憤怒 邪骸浪人",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2779,
+      "name": "精英雷斯 / 迅捷雷斯",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1493,
+      "name": "森林妖姬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1497,
+      "name": "機木人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2477,
+      "name": "孤魂怨靈 / 被詛咒的邪骸浪人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3420,
+      "name": "森林妖姬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1208,
+      "name": "邪骸浪人",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 20420,
+      "name": "汙染邪骸浪人",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1881,
+      "name": "雷斯",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1051,
+  "name": {
+    "zh_tw": "腦管",
+    "en": "Detonator"
+  },
+  "icon_url": "/images/items/1051.gif",
+  "category": "其他類",
+  "description": {
+    "official": "腦管。像動物的腦一樣圓圓的。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 450,
+    "sell_price": 225,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1142,
+      "name": "氣泡蟲",
+      "rate": 12.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

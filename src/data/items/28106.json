@@ -1,0 +1,42 @@
+{
+  "id": 28106,
+  "name": {
+    "zh_tw": "緋紅色雙手斧",
+    "en": "Scarlet_Twohand_Axe"
+  },
+  "icon_url": "/images/items/28106.gif",
+  "category": "武器",
+  "description": {
+    "official": "散髮著紅光的雙手斧。ATK增加至(精煉*精煉) (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。不可破壞",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 200
+  },
+  "script": "{ .@r = getrefine(); bonus bBaseAtk,(((BaseLevel-70)/10)*5)+(.@r<=15?pow(.@r,2):225); bonus bUnbreakableWeapon; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2767,
+      "name": "精英 / 憤怒 狂暴米諾斯",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2353,
+      "name": "米洛斯-咪魘",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1310,
+      "name": "狂暴米諾斯",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1135,
+      "name": "刺錘犬妖",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

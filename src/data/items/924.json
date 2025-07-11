@@ -1,0 +1,85 @@
+{
+  "id": 924,
+  "name": {
+    "zh_tw": "蝴蝶翅膀粉末",
+    "en": "Powder_Of_Butterfly"
+  },
+  "icon_url": "/images/items/924.gif",
+  "category": "其他類",
+  "description": {
+    "official": "將蝴蝶翅膀上掉落下來的粉末，可向收集商高價販賣。價值不菲。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 90,
+    "sell_price": 45,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2883,
+      "name": "精英血蝴蝶 / 迅捷血蝴蝶",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1231,
+      "name": "克瑞米",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1408,
+      "name": "血蝴蝶",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1293,
+      "name": "狂暴克瑞米",
+      "rate": 22.75
+    },
+    {
+      "monster_id": 20672,
+      "name": "咪魘帕皮拉盧巴",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20670,
+      "name": "咪魘帕皮拉",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20669,
+      "name": "帕皮拉",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20674,
+      "name": "帕皮拉凱依",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20671,
+      "name": "帕皮拉盧巴",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20675,
+      "name": "咪魘帕皮拉凱依",
+      "rate": 20.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

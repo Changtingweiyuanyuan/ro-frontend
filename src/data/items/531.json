@@ -1,0 +1,35 @@
+{
+  "id": 531,
+  "name": {
+    "zh_tw": "蘋果汁",
+    "en": "Apple_Juice"
+  },
+  "icon_url": "/images/items/531.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "蘋果所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 4
+  },
+  "script": "{ itemheal rand(25,35),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1952,
+      "name": "天使彩蛋",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 20.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1202,
+  "name": {
+    "zh_tw": "短劍",
+    "en": "Knife_"
+  },
+  "icon_url": "/images/items/1202.gif",
+  "category": "武器",
+  "description": {
+    "official": "為了方便任何人使用所製作出來的短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 50,
+    "sell_price": 25,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2776,
+      "name": "精英寶貝波利 / 菁英寶貝波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2398,
+      "name": "寶貝波利",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

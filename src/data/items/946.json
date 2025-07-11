@@ -1,0 +1,35 @@
+{
+  "id": 946,
+  "name": {
+    "zh_tw": "蝸牛殼",
+    "en": "Snail's_Shell"
+  },
+  "icon_url": "/images/items/946.gif",
+  "category": "其他類",
+  "description": {
+    "official": "堅硬的蝸牛外殼。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 64,
+    "sell_price": 32,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2905,
+      "name": "精英蝸牛 / 狡猾蝸牛",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1094,
+      "name": "蝸牛",
+      "rate": 80.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

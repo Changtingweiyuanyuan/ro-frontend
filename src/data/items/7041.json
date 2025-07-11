@@ -1,0 +1,35 @@
+{
+  "id": 7041,
+  "name": {
+    "zh_tw": "黃晶沙的一角",
+    "en": "Fine_Grit"
+  },
+  "icon_url": "/images/items/7041.gif",
+  "category": "其他類",
+  "description": {
+    "official": "黃晶沙的粉末結晶",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 120,
+    "sell_price": 60,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3406,
+      "name": "蠍子",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1001,
+      "name": "蠍子",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

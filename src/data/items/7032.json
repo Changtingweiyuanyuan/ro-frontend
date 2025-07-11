@@ -1,0 +1,100 @@
+{
+  "id": 7032,
+  "name": {
+    "zh_tw": "蛋殼碎片",
+    "en": "Piece_Of_Egg_Shell"
+  },
+  "icon_url": "/images/items/7032.gif",
+  "category": "其他類",
+  "description": {
+    "official": "破掉的蛋殼碎片，賣給收集品商人。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 168,
+    "sell_price": 84,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2540,
+      "name": "驚駭森靈卵 / 人面蟲卵",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2089,
+      "name": "雙角甲蟲卵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2014,
+      "name": "飛龍蛋 / 暴躁龍蛋",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2090,
+      "name": "鹿角甲蟲卵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2168,
+      "name": "鹿角甲蟲卵 (噩咪)",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2088,
+      "name": "獨角甲蟲卵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2166,
+      "name": "獨角甲蟲卵 (噩咪)",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2091,
+      "name": "尖角甲蟲卵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2167,
+      "name": "雙角甲蟲卵 (噩咪)",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2169,
+      "name": "尖角甲蟲卵 (噩咪)",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2026,
+      "name": "逃走的蒲公英成員",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2612,
+      "name": "精英 / 狡猾 樹林哥布靈",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1116,
+      "name": "轉轉蛋",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 1880,
+      "name": "樹林哥布靈",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1721,
+      "name": "龍蛋",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": 528,
+  "name": {
+    "zh_tw": "魔物飼料",
+    "en": "Monster's_Feed"
+  },
+  "icon_url": "/images/items/528.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "魔物們最喜愛的加工食品，可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 60,
+    "sell_price": 30,
+    "weight": 15
+  },
+  "script": "{ itemheal rand(72,108),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 26.25
+    },
+    {
+      "monster_id": 2803,
+      "name": "精英希爾士兵 / 狡猾希爾士兵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2804,
+      "name": "精英希爾士兵 / 迅捷希爾士兵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1146,
+      "name": "黑狐",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2638,
+      "name": "精英白鼠 / 菁英白鼠",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1866,
+      "name": "地獄犬 / 地獄貴賓狗",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2310,
+      "name": "昂坎圖",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 5.25
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 5.25
+    },
+    {
+      "monster_id": 1209,
+      "name": "藍鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1175,
+      "name": "白鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1680,
+      "name": "希爾隊長",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20686,
+      "name": "下水道藍鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1629,
+      "name": "希爾士兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2179,
+      "name": "遠古庫克雷",
+      "rate": 3.74
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3788,
+      "name": "溝鼠",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

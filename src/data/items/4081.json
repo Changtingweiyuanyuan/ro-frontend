@@ -1,0 +1,34 @@
+{
+  "id": 4081,
+  "name": {
+    "zh_tw": "蚯蚓卡片",
+    "en": "Hode_Card"
+  },
+  "icon_url": "/images/items/4081.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到地屬性的傷害減少30%。FLEE+5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bSubEle,Ele_Earth,30; bonus bFlee,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2802,
+      "name": "精英蚯蚓 / 憤怒蚯蚓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1127,
+      "name": "蚯蚓",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

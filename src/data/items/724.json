@@ -1,0 +1,116 @@
+{
+  "id": 724,
+  "name": {
+    "zh_tw": "詛咒紅寶石",
+    "en": "Cardinal_Jewel_"
+  },
+  "icon_url": "/images/items/724.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出深紅色光芒的寶石，有著超凡無比的神祕力量。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 600,
+    "sell_price": 300,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1046,
+      "name": "死靈",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 2.4
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 2.4
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 2.4
+    },
+    {
+      "monster_id": 1503,
+      "name": "鬼娃樹",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 20620,
+      "name": "紅椒 / 卡帕",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1696,
+      "name": "紫色等離子體",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20621,
+      "name": "咪魘紅椒 / 卡帕",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3752,
+      "name": "活死人",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3751,
+      "name": "活死人",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 0.24
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 2704,
+      "name": "精英牛蛙 / 迅捷牛蛙",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2012,
+      "name": "萬聖節腐屍",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1402,
+      "name": "牛蛙",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7021,
+  "name": {
+    "zh_tw": "盲人之證",
+    "en": "Foolishness_Of_Blind"
+  },
+  "icon_url": "/images/items/7021.gif",
+  "category": "其他類",
+  "description": {
+    "official": "眼睛瞎掉無法辨清事物的人。因為眼睛瞎了，所以很容易輕易的受人欺騙。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2802,
+      "name": "精英蚯蚓 / 憤怒蚯蚓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1127,
+      "name": "蚯蚓",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

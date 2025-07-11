@@ -1,0 +1,65 @@
+{
+  "id": 907,
+  "name": {
+    "zh_tw": "枯木汁",
+    "en": "Resin"
+  },
+  "icon_url": "/images/items/907.gif",
+  "category": "其他類",
+  "description": {
+    "official": "搜集從樹上流出的液體，可用在製造數種生活用品，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 120,
+    "sell_price": 60,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2839,
+      "name": "精英長老樹精 / 迅捷長老樹精",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2840,
+      "name": "精英長老樹精 / 雄壯長老樹精",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2615,
+      "name": "精英樹精 / 菁英樹精",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2612,
+      "name": "精英 / 狡猾 樹林哥布靈",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1033,
+      "name": "長老樹精",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1010,
+      "name": "樹精",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3389,
+      "name": "樹精",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1880,
+      "name": "樹林哥布靈",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

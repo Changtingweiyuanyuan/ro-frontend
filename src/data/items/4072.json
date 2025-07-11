@@ -1,0 +1,39 @@
+{
+  "id": 4072,
+  "name": {
+    "zh_tw": "巨石怪卡片",
+    "en": "Golem_Card"
+  },
+  "icon_url": "/images/items/4072.gif",
+  "category": "卡片",
+  "description": {
+    "official": "可使武器完全不受損。ATK+5套裝資料:巨石怪卡片 & Hetairoi Sword[2]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bUnbreakableWeapon; bonus bBaseAtk,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2812,
+      "name": "精英巨石怪 / 憤怒巨石怪",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3405,
+      "name": "巨石怪",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1040,
+      "name": "巨石怪",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

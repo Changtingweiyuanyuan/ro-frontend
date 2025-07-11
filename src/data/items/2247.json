@@ -1,0 +1,35 @@
+{
+  "id": 2247,
+  "name": {
+    "zh_tw": "回憶帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2247.gif",
+  "category": "防具",
+  "description": {
+    "official": "年老者戴的帽子，可以讓人回想起年少時期的歡樂時光。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15000,
+    "sell_price": 7500,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3423,
+      "name": "蝗蟲之王",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1088,
+      "name": "搖滾蝗蟲",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": 993,
+  "name": {
+    "zh_tw": "地靈礦石",
+    "en": "Yellow_Live"
+  },
+  "icon_url": "/images/items/993.gif",
+  "category": "其他類",
+  "description": {
+    "official": "綠色的小礦石塊。擁有地屬性，提煉後可以製作出地靈原石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 5
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2802,
+      "name": "精英蚯蚓 / 憤怒蚯蚓",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 20923,
+      "name": "變異凱倫西斯凱美拉",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3069,
+      "name": "貝爾 / 派",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3071,
+      "name": "貝爾 / 派",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2764,
+      "name": "精英螳螂 / 迅捷螳螂",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 2799,
+      "name": "精英獨角甲蟲 / 迅捷獨角甲蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2896,
+      "name": "精英鹿角甲蟲 / 狡猾鹿角甲蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2693,
+      "name": "精英尖角甲蟲 / 憤怒尖角甲蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 2610,
+      "name": "精英森靈 / 菁英森靈",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2735,
+      "name": "精英豬籠草 / 雄壯豬籠草",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3418,
+      "name": "三葉蟲",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 20270,
+      "name": "古代三葉蟲",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1279,
+      "name": "三葉蟲",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3506,
+      "name": "叢林曼陀羅魔花",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1127,
+      "name": "蚯蚓",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1139,
+      "name": "螳螂",
+      "rate": 0.55
+    },
+    {
+      "monster_id": 2083,
+      "name": "獨角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2162,
+      "name": "雙角甲蟲 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2086,
+      "name": "尖角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2084,
+      "name": "雙角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1125,
+      "name": "榔頭哥布靈",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2085,
+      "name": "鹿角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2161,
+      "name": "獨角甲蟲 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2164,
+      "name": "尖角甲蟲 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1854,
+      "name": "摩卡",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 3395,
+      "name": "森靈",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1024,
+      "name": "森靈",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1988,
+      "name": "豬籠草",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2643,
+      "name": "精英 / 菁英 石頭波利",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1695,
+      "name": "綠色等離子體",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1784,
+      "name": "石頭波利",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2163,
+      "name": "鹿角甲蟲 (噩咪)",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

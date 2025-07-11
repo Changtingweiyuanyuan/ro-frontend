@@ -1,0 +1,195 @@
+{
+  "id": 932,
+  "name": {
+    "zh_tw": "死人遺骨",
+    "en": "Skel_Bone"
+  },
+  "icon_url": "/images/items/932.gif",
+  "category": "其他類",
+  "description": {
+    "official": "不死的邪骸戰士的骨頭。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 232,
+    "sell_price": 116,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2614,
+      "name": "精英 / 雄壯 風魔巫師",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2736,
+      "name": "精英亡靈巫師 / 菁英行妖術者",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2724,
+      "name": "精英邪骸獸人 / 迅捷邪骸獸人",
+      "rate": 87.5
+    },
+    {
+      "monster_id": 2619,
+      "name": "精英 / 菁英 石斧海盜骷髏",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1132,
+      "name": "卡利斯格",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 2676,
+      "name": "精英 / 迅捷 蠻刀海盜骷髏",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2955,
+      "name": "褪色的友情 / 久遠的友情",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 20380,
+      "name": "火魔巫師",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1263,
+      "name": "風魔巫師",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20379,
+      "name": "冰魔巫師",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 1865,
+      "name": "變異殭屍 / 襤褸腐屍",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 1870,
+      "name": "亡靈巫師 / 行妖術者",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 1866,
+      "name": "地獄犬 / 地獄貴賓狗",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 1152,
+      "name": "邪骸獸人",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 3639,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3638,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3641,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3642,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3637,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3640,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2406,
+      "name": "短劍海盜骷髏",
+      "rate": 13.0
+    },
+    {
+      "monster_id": 3521,
+      "name": "生氣的狗 / 憤努狗",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 3513,
+      "name": "生氣的狗 / 憤努狗",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 2405,
+      "name": "石斧海盜骷髏",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2407,
+      "name": "蠻刀海盜骷髏",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 2199,
+      "name": "胖胖波利",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

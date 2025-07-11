@@ -1,0 +1,79 @@
+{
+  "id": 4043,
+  "name": {
+    "zh_tw": "白蟻卡片",
+    "en": "Andre_Card"
+  },
+  "icon_url": "/images/items/4043.gif",
+  "category": "卡片",
+  "description": {
+    "official": "ATK+20",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bBaseAtk,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2857,
+      "name": "精英兵蟻 / 狡猾兵蟻",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1239,
+      "name": "兵蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3402,
+      "name": "兵蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1105,
+      "name": "兵蟻",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": 604,
+  "name": {
+    "zh_tw": "枯樹枝",
+    "en": "Branch_Of_Dead_Tree"
+  },
+  "icon_url": "/images/items/604.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "經過極為長久歲月帶有魔力的樹枝，它的神祕力量可以召喚來任何有生命的東西。(此物品限定部分地圖使用)",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 50,
+    "sell_price": 25,
+    "weight": 5
+  },
+  "script": "{ monster \"this\",-1,-1,\"--ja--\",-1-MOBG_BRANCH_OF_DEAD_TREE,1,\"\"; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1942,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1941,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1940,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1943,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1944,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1946,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1945,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1939,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1938,
+      "name": "寶物箱子",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2775,
+      "name": "精英猴桃木 / 雄壯猴桃木",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1120,
+      "name": "幽靈波利",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2840,
+      "name": "精英長老樹精 / 雄壯長老樹精",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2839,
+      "name": "精英長老樹精 / 迅捷長老樹精",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2999,
+      "name": "咪羅克的魔法師",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3000,
+      "name": "咪羅克的亡靈巫師",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1410,
+      "name": "猴桃木",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3029,
+      "name": "死神安庫",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1953,
+      "name": "天使彩蛋",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3759,
+      "name": "憤怒九尾狐",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1397,
+      "name": "火元素",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1497,
+      "name": "機木人",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1033,
+      "name": "長老樹精",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1180,
+      "name": "九尾狐",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2881,
+      "name": "精英微風 / 憤怒微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2880,
+      "name": "精英微風 / 菁英微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1617,
+      "name": "廢鐵暖爐",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 20625,
+      "name": "咪魘乾扁草精 / 花園監視者",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 20624,
+      "name": "乾扁草精 / 花園監視者",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3015,
+      "name": "墮落的劍魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3012,
+      "name": "墮落的吸血蝙蝠",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3016,
+      "name": "墮落的獸人腐屍",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3013,
+      "name": "墮落的獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3010,
+      "name": "墮落的獸人嬰兒",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3014,
+      "name": "墮落的沙漠之狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3017,
+      "name": "墮落的畢萊特",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2987,
+      "name": "惡靈樹裝飾 / 驚悚的裝飾樹",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3011,
+      "name": "墮落的沙漠幼狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3018,
+      "name": "墮落的邪骸食人魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3487,
+      "name": "剁肉刀士兵",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3451,
+      "name": "不死軍團",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3488,
+      "name": "憎惡鐮刀士兵",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3489,
+      "name": "粉碎犁士兵",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1503,
+      "name": "鬼娃樹",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 20941,
+      "name": "格羅特",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1692,
+      "name": "微風",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

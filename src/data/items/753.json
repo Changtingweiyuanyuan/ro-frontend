@@ -1,0 +1,46 @@
+{
+  "id": 753,
+  "name": {
+    "zh_tw": "溜溜猴娃娃",
+    "en": "Monkey_Doll"
+  },
+  "icon_url": "/images/items/753.gif",
+  "category": "其他類",
+  "description": {
+    "official": "根據在深林裡群居的魔物溜溜猴的模樣所制做出來的玩偶，溜溜猴的模樣相當聰明伶俐可愛，讓人備感親切，因此深深獲得女性及小孩子們的喜愛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6000,
+    "sell_price": 3000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 0.04
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 2146,
+  "name": {
+    "zh_tw": "銀色盾牌",
+    "en": "Siver_Guard"
+  },
+  "icon_url": "/images/items/2146.gif",
+  "category": "防具",
+  "description": {
+    "official": "把銀和鐵混合而成的一般薄盾，據說反射光線時很衒。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 12500,
+    "sell_price": 6250,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2812,
+      "name": "精英巨石怪 / 憤怒巨石怪",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1123,
+      "name": "鍊錘哥布靈",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1125,
+      "name": "榔頭哥布靈",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3405,
+      "name": "巨石怪",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1040,
+      "name": "巨石怪",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": []
+}

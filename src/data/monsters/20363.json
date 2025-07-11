@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/20363.gif",
   "basic_info": {
-    "level": 0,
+    "level": 123,
     "race": "動物",
     "element": {
       "type": "毒",

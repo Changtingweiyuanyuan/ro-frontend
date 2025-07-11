@@ -1,0 +1,60 @@
+{
+  "id": 948,
+  "name": {
+    "zh_tw": "熊掌",
+    "en": "Bear's_Foot"
+  },
+  "icon_url": "/images/items/948.gif",
+  "category": "其他類",
+  "description": {
+    "official": "熊的腳掌，聽說有著相當特殊的風味。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 174,
+    "sell_price": 87,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2780,
+      "name": "精英 / 雄壯 狂暴大腳熊",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1381,
+      "name": "暴焰野熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1243,
+      "name": "雪熊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1306,
+      "name": "狂暴大腳熊",
+      "rate": 22.75
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

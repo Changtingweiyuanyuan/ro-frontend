@@ -1,0 +1,90 @@
+{
+  "id": 516,
+  "name": {
+    "zh_tw": "番薯",
+    "en": "Sweet_Potato"
+  },
+  "icon_url": "/images/items/516.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "含有豐富的澱粉，味道香甜，常被拿來食用可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15,
+    "sell_price": 7,
+    "weight": 2
+  },
+  "script": "{ itemheal rand(15,23),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2615,
+      "name": "精英樹精 / 菁英樹精",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2654,
+      "name": "精英狸貓 / 憤怒狸貓",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1010,
+      "name": "樹精",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3389,
+      "name": "樹精",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1056,
+      "name": "狸貓",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 3392,
+      "name": "狸貓",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1860,
+      "name": "松鼠",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

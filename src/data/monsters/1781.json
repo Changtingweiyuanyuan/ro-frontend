@@ -27,7 +27,7 @@
     "defense": 86,
     "magic_defense": 52,
     "hit_100_percent": 335,
-    "flee_95_percent": 0,
+    "flee_95_percent": 369,
     "base_stats": {
       "str": 79,
       "agi": 32,
@@ -37,6 +37,38 @@
       "luk": 14
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ve_fild01",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild02",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "177x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild03",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "38x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild04",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "55x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild07",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "64x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 621,

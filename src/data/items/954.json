@@ -1,0 +1,50 @@
+{
+  "id": 954,
+  "name": {
+    "zh_tw": "發亮鱗片",
+    "en": "Shining_Scales"
+  },
+  "icon_url": "/images/items/954.gif",
+  "category": "其他類",
+  "description": {
+    "official": "閃閃發亮的神祕麟片，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 466,
+    "sell_price": 233,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2663,
+      "name": "精英黑蛇 / 菁英黑蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2662,
+      "name": "精英黑蛇 / 雄壯黑蛇",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1037,
+      "name": "黑蛇",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2790,
+      "name": "精英蛇女伊絲 / 雄壯蛇女伊絲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1029,
+      "name": "蛇女伊絲",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 992,
+  "name": {
+    "zh_tw": "風靈礦石",
+    "en": "Wind_Of_Verdure"
+  },
+  "icon_url": "/images/items/992.gif",
+  "category": "其他類",
+  "description": {
+    "official": "黃色的小礦石塊。擁有風屬性，提煉後可以製作出風靈原石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 5
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2811,
+      "name": "精英 / 菁英 七彩大嘴鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2810,
+      "name": "精英 / 雄壯 七彩大嘴鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1369,
+      "name": "七彩大嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2773,
+      "name": "精英 / 狡猾 魯修拉黃蜂",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 20922,
+      "name": "變異納佩奧凱美拉",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 2642,
+      "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 2677,
+      "name": "精英土狼 / 雄壯土狼",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1211,
+      "name": "伊特瓢蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3498,
+      "name": "狂野蜂兵",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1994,
+      "name": "毒黃蜂 / 魯修拉黃蜂",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1042,
+      "name": "綠蒼蠅",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1782,
+      "name": "土狼",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

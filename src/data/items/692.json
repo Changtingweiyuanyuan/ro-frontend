@@ -1,0 +1,32 @@
+{
+  "id": 692,
+  "name": {
+    "zh_tw": "雷擊術 等級3",
+    "en": "Wind_Scroll_1_3"
+  },
+  "icon_url": "/images/items/692.gif",
+  "category": "延遲消耗類",
+  "description": {
+    "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著風屬性的魔法，可使用等級3的雷擊術。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 1
+  },
+  "script": "{ itemskill \"MG_LIGHTNINGBOLT\",3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": []
+}

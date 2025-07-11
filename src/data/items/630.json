@@ -1,0 +1,70 @@
+{
+  "id": 630,
+  "name": {
+    "zh_tw": "青苔",
+    "en": "Dew_Laden_Moss"
+  },
+  "icon_url": "/images/items/630.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "喝飲清晨的露水所長成的青苔。是魔物魔菇最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 5
+  },
+  "script": "{ pet 1014; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1085,
+      "name": "紅菇",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1084,
+      "name": "黑菇",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3755,
+      "name": "毒血蘑菇",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1858,
+      "name": "漂浮蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2700,
+      "name": "精英 / 雄壯 三葉鐵甲蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2404,
+      "name": "變異幽浮水母",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1619,
+      "name": "三葉鐵甲蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

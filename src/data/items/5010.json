@@ -1,0 +1,30 @@
+{
+  "id": 5010,
+  "name": {
+    "zh_tw": "印地安發箍",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5010.gif",
+  "category": "防具",
+  "description": {
+    "official": "印地安人所戴的發箍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1123,
+      "name": "鍊錘哥布靈",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

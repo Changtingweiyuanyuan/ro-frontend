@@ -1,0 +1,245 @@
+{
+  "id": 943,
+  "name": {
+    "zh_tw": "堅硬外皮",
+    "en": "Solid_Shell"
+  },
+  "icon_url": "/images/items/943.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物身上堅硬的外皮，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 448,
+    "sell_price": 224,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2797,
+      "name": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2773,
+      "name": "精英 / 狡猾 魯修拉黃蜂",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2873,
+      "name": "精英突變蜈蚣 / 迅捷變異蜈蚣",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 1035,
+      "name": "赤蒼蠅",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2864,
+      "name": "精英卡那多斯 / 雄壯卡那多斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2198,
+      "name": "大腳龍蝦",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2848,
+      "name": "精英刺尾蜻蜓 / 迅捷刺尾蜻蜓",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2894,
+      "name": "精英卷甲蟲 / 菁英卷甲蟲",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2893,
+      "name": "精英卷甲蟲 / 雄壯卷甲蟲",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1994,
+      "name": "毒黃蜂 / 魯修拉黃蜂",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20810,
+      "name": "深海大腳龍蝦",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1294,
+      "name": "狂暴螳螂",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1999,
+      "name": "變異蜈蚣幼蟲",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1987,
+      "name": "變異蜈蚣",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20602,
+      "name": "白色三葉鐵甲蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2358,
+      "name": "卷甲蟲-咪魘",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 20359,
+      "name": "普拉加",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 20360,
+      "name": "異種普拉加",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 2177,
+      "name": "深海海螺",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2764,
+      "name": "精英螳螂 / 迅捷螳螂",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1304,
+      "name": "狂暴蜘蛛",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 20270,
+      "name": "古代三葉蟲",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 2670,
+      "name": "精英蠍子 / 狡猾蠍子",
+      "rate": 5.25
+    },
+    {
+      "monster_id": 20683,
+      "name": "書蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1067,
+      "name": "卡那多斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3411,
+      "name": "刺尾蜻蜓",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1321,
+      "name": "刺尾蜻蜓",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2541,
+      "name": "驚駭森靈幼蟲 / 人面蟲幼蟲",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1194,
+      "name": "卷甲蟲",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3418,
+      "name": "三葉蟲",
+      "rate": 1.9
+    },
+    {
+      "monster_id": 1279,
+      "name": "三葉蟲",
+      "rate": 1.9
+    },
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1139,
+      "name": "螳螂",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1001,
+      "name": "蠍子",
+      "rate": 1.05
+    },
+    {
+      "monster_id": 3406,
+      "name": "蠍子",
+      "rate": 1.05
+    },
+    {
+      "monster_id": 3787,
+      "name": "沼澤卷甲蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2642,
+      "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2174,
+      "name": "遠古甲殼類",
+      "rate": 0.74
+    },
+    {
+      "monster_id": 2075,
+      "name": "Ragunta",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1971,
+      "name": "螃蟹_E",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1042,
+      "name": "綠蒼蠅",
+      "rate": 0.15
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

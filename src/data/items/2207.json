@@ -1,0 +1,70 @@
+{
+  "id": 2207,
+  "name": {
+    "zh_tw": "花朵頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2207.gif",
+  "category": "防具",
+  "description": {
+    "official": "用來插在頭上當裝飾的花。受到植物系魔物的攻擊時，可減少10% 的傷害。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus2 bSubRace,RC_Plant,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2825,
+      "name": "精英 / 雄壯 邪惡向日葵",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2824,
+      "name": "精英 / 迅捷 邪惡向日葵",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1368,
+      "name": "邪惡向日葵",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2848,
+      "name": "精英刺尾蜻蜓 / 迅捷刺尾蜻蜓",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3411,
+      "name": "刺尾蜻蜓",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1321,
+      "name": "刺尾蜻蜓",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1231,
+      "name": "克瑞米",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1034,
+  "name": {
+    "zh_tw": "犬妖的毛",
+    "en": "Cobold_Hair"
+  },
+  "icon_url": "/images/items/1034.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從魔物犬妖身上剪下來的毛，相當柔軟。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 342,
+    "sell_price": 171,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2784,
+      "name": "精英 / 迅捷 犬妖弓箭手",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2818,
+      "name": "精英深淵犬妖 / 狡猾深淵犬妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2817,
+      "name": "精英深淵犬妖 / 憤怒深淵犬妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2785,
+      "name": "精英犬妖 / 雄壯犬妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1296,
+      "name": "犬妖首領",
+      "rate": 31.53
+    },
+    {
+      "monster_id": 1137,
+      "name": "犬妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1135,
+      "name": "刺錘犬妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1136,
+      "name": "犬妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1134,
+      "name": "榔頭犬妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1133,
+      "name": "大斧犬妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2286,
+      "name": "深淵犬妖 (刺錘)",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2284,
+      "name": "深淵犬妖 (大斧)",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2285,
+      "name": "深淵犬妖 (榔頭)",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1282,
+      "name": "犬妖弓箭手",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 2287,
+      "name": "深淵犬妖弓箭手",
+      "rate": 24.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

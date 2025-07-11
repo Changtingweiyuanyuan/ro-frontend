@@ -1,0 +1,100 @@
+{
+  "id": 914,
+  "name": {
+    "zh_tw": "毛",
+    "en": "Fluff"
+  },
+  "icon_url": "/images/items/914.gif",
+  "category": "其他類",
+  "description": {
+    "official": "小型魔物身上的毛，可以用來做衣服的原料，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 8,
+    "sell_price": 4,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2869,
+      "name": "精英松鼠 / 雄壯松鼠",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2868,
+      "name": "精英松鼠 / 迅捷松鼠",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 3497,
+      "name": "草地綠棉蟲",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 20923,
+      "name": "變異凱倫西斯凱美拉",
+      "rate": 24.0
+    },
+    {
+      "monster_id": 1104,
+      "name": "松鼠",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1860,
+      "name": "松鼠",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1184,
+      "name": "綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1878,
+      "name": "光芒草",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

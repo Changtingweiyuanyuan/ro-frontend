@@ -1,0 +1,37 @@
+{
+  "id": 13011,
+  "name": {
+    "zh_tw": "破壞劍",
+    "en": "Asura_"
+  },
+  "icon_url": "/images/items/13011.gif",
+  "category": "武器",
+  "description": {
+    "official": "遠古以前神賜給人類的劍，擁有這把劍的話感覺到一股破壞的沖動MATK+50。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3000,
+    "sell_price": 1500,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2855,
+      "name": "精英沙漠之狼 / 菁英沙漠之狼",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2856,
+      "name": "精英沙漠之狼 / 憤怒沙漠之狼",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1107,
+      "name": "沙漠幼狼",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": []
+}

@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 51,
     "hit_100_percent": 311,
-    "flee_95_percent": 0,
+    "flee_95_percent": 358,
     "base_stats": {
       "str": 62,
       "agi": 27,
@@ -37,6 +37,18 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "gef_dun03",
+      "description": "- 吉芬塔 地下密穴 4層",
+      "spawn_info": "1x / 5 分鐘"
+    },
+    {
+      "map_name": "gl_step",
+      "description": "- 克雷斯特漢姆 樓梯密穴",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 693,

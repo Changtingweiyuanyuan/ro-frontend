@@ -1,0 +1,44 @@
+{
+  "id": 1216,
+  "name": {
+    "zh_tw": "雙刃短劍",
+    "en": "Stiletto"
+  },
+  "icon_url": "/images/items/1216.gif",
+  "category": "武器",
+  "description": {
+    "official": "以刀刃實用為要求，所製造出的雙刃短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 19500,
+    "sell_price": 9750,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2406,
+      "name": "短劍海盜骷髏",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

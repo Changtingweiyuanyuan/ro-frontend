@@ -1,0 +1,197 @@
+{
+  "id": 7938,
+  "name": {
+    "zh_tw": "光粒",
+    "en": "Light_Granule"
+  },
+  "icon_url": "/images/items/7938.gif",
+  "category": "其他類",
+  "description": {
+    "official": "金光的結晶體，猶如裝著太陽般的感覺。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2753,
+      "name": "精英邪惡箱 / 狡猾邪惡箱",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2752,
+      "name": "精英邪惡箱 / 憤怒邪惡箱",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2479,
+      "name": "受詛咒寶箱",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2356,
+      "name": "邪惡箱-咪魘",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2706,
+      "name": "精英等離子體 / 菁英等離子體",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1989,
+      "name": "希斯利安 / 三角幼獅獸",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1191,
+      "name": "邪惡箱",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2208,
+      "name": "野貓騎士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3793,
+      "name": "憤怒的雪怪 / 憤怒雪獸",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2751,
+      "name": "精英 / 菁英 異形毛毛怪",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2777,
+      "name": "精英玩偶魔妖 / 憤怒玩偶魔妖",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3421,
+      "name": "蛙王",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1093,
+      "name": "藍瘋兔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3424,
+      "name": "藍瘋兔王",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3423,
+      "name": "蝗蟲之王",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1713,
+      "name": "俄希托斯(黃)",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3422,
+      "name": "流浪之狼",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1088,
+      "name": "搖滾蝗蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1089,
+      "name": "蛙王",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3761,
+      "name": "憤懣妖道 / 憤恨的妖道",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3765,
+      "name": "狂熱英雄 / 狂熱的冒險家",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1693,
+      "name": "黃色等離子體",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 20690,
+      "name": "釋放魔力",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3178,
+      "name": "俄希托斯",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2198,
+      "name": "大腳龍蝦",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2201,
+      "name": "深海電鰻",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2136,
+      "name": "玩偶魔妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2137,
+      "name": "異形毛毛怪",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1211,
+      "name": "伊特瓢蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1130,
+      "name": "南瓜先生",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3662,
+      "name": "南瓜先生",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3663,
+      "name": "南瓜先生",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1178,
+      "name": "傑洛米",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

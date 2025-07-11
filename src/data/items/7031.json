@@ -1,0 +1,45 @@
+{
+  "id": 7031,
+  "name": {
+    "zh_tw": "破舊平底鍋",
+    "en": "Old_Frying_Pan"
+  },
+  "icon_url": "/images/items/7031.gif",
+  "category": "其他類",
+  "description": {
+    "official": "破舊的平底鍋，用這平底鍋再做料理已經是不可能了，賣給收集品商人。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 196,
+    "sell_price": 98,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2768,
+      "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1138,
+      "name": "魔鍋蛋",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1856,
+      "name": "魔鍋蛋",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2026,
+      "name": "逃走的蒲公英成員",
+      "rate": 25.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

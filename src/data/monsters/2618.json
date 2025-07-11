@@ -27,7 +27,7 @@
     "defense": 20,
     "magic_defense": 40,
     "hit_100_percent": 298,
-    "flee_95_percent": 0,
+    "flee_95_percent": 274,
     "base_stats": {
       "str": 32,
       "agi": 48,
@@ -37,6 +37,13 @@
       "luk": 20
     }
   },
+  "spawns": [
+    {
+      "map_name": "gl_sew01",
+      "description": "- 克雷斯特漢姆 地下水道 1樓",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

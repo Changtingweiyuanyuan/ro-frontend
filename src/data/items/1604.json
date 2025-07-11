@@ -1,0 +1,39 @@
+{
+  "id": 1604,
+  "name": {
+    "zh_tw": "橡木魔杖",
+    "en": "Wand"
+  },
+  "icon_url": "/images/items/1604.gif",
+  "category": "武器",
+  "description": {
+    "official": "蘊含魔力的手杖。INT+1，MATK上升45",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2500,
+    "sell_price": 1250,
+    "weight": 40
+  },
+  "script": "{ bonus bInt,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

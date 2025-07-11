@@ -1,0 +1,27 @@
+{
+  "id": 2116,
+  "name": {
+    "zh_tw": "天使的保護",
+    "en": "Angel's_Safeguard"
+  },
+  "icon_url": "/images/items/2116.gif",
+  "category": "防具",
+  "description": {
+    "official": "負責超級初學者天使的盾牌，裡面滲透著打敗惡的神聖的力量對惡魔型魔物傷害減少5%套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 40
+  },
+  "script": "{ bonus2 bSubRace,RC_Demon,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": []
+}

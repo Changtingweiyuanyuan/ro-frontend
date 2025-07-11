@@ -1,0 +1,34 @@
+{
+  "id": 4003,
+  "name": {
+    "zh_tw": "蟲蛹卡片",
+    "en": "Pupa_Card"
+  },
+  "icon_url": "/images/items/4003.gif",
+  "category": "卡片",
+  "description": {
+    "official": "MHP+700",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bMaxHP,700; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

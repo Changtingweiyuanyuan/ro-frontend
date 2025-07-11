@@ -1,0 +1,50 @@
+{
+  "id": 5015,
+  "name": {
+    "zh_tw": "蛋殼帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5015.gif",
+  "category": "防具",
+  "description": {
+    "official": "戴在頭上裝飾用的蛋殼，相當堅硬。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2712,
+      "name": "精英小雞 / 憤怒小雞",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1050,
+      "name": "蛋殼小雞",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1241,
+      "name": "蛋殼小雞",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2014,
+      "name": "飛龍蛋 / 暴躁龍蛋",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1116,
+      "name": "轉轉蛋",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

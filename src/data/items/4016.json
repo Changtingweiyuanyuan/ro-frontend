@@ -1,0 +1,44 @@
+{
+  "id": 4016,
+  "name": {
+    "zh_tw": "盜蟲卡片",
+    "en": "Thief_Bug_Card"
+  },
+  "icon_url": "/images/items/4016.gif",
+  "category": "卡片",
+  "description": {
+    "official": "AGI+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bAgi,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2632,
+      "name": "精英盜蟲 / 雄壯盜蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2633,
+      "name": "精英盜蟲 / 菁英盜蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2634,
+      "name": "精英盜蟲 / 憤怒盜蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1051,
+      "name": "盜蟲",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

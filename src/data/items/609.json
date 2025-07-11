@@ -1,0 +1,65 @@
+{
+  "id": 609,
+  "name": {
+    "zh_tw": "返魂符",
+    "en": "Amulet"
+  },
+  "icon_url": "/images/items/609.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "可令死人死而復生的符咒，可以保持在半生半死的狀態，也就是成為不死的狀態。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2736,
+      "name": "精英亡靈巫師 / 菁英行妖術者",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2796,
+      "name": "精英妖君 / 菁英妖君",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1870,
+      "name": "亡靈巫師 / 行妖術者",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1512,
+      "name": "妖君",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3760,
+      "name": "憤懣殭屍 / 憤恨的殭屍",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3761,
+      "name": "憤懣妖道 / 憤恨的妖道",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1188,
+      "name": "妖道",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

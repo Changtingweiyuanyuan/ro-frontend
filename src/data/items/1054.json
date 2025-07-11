@@ -1,0 +1,65 @@
+{
+  "id": 1054,
+  "name": {
+    "zh_tw": "人魚嘴巴",
+    "en": "Lip_Of_Ancient_Fish"
+  },
+  "icon_url": "/images/items/1054.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從生長在深海中的魚類身上得來的嘴巴。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 2709,
+      "name": "精英食人魚 / 迅捷食人魚",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20805,
+      "name": "深海人魚士兵",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 6.5
+    },
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20803,
+      "name": "深海狄奧斯",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2070,
+      "name": "食人魚",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20646,
+      "name": "熱池食人魚",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

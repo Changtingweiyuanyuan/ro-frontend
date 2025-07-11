@@ -1,0 +1,30 @@
+{
+  "id": 1605,
+  "name": {
+    "zh_tw": "橡木魔杖",
+    "en": "Wand_"
+  },
+  "icon_url": "/images/items/1605.gif",
+  "category": "武器",
+  "description": {
+    "official": "蘊含魔力的手杖。INT+1，MATK上升45",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2500,
+    "sell_price": 1250,
+    "weight": 40
+  },
+  "script": "{ bonus bInt,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1126,
+      "name": "刺錘哥布靈",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

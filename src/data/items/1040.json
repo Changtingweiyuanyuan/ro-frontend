@@ -1,0 +1,40 @@
+{
+  "id": 1040,
+  "name": {
+    "zh_tw": "老妖精胡須",
+    "en": "Elder_Pixie's_Beard"
+  },
+  "icon_url": "/images/items/1040.gif",
+  "category": "其他類",
+  "description": {
+    "official": "老妖精的胡須。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 232,
+    "sell_price": 116,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2786,
+      "name": "精英 / 菁英 礦坑小精靈",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1838,
+      "name": "礦坑小精靈",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 27.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

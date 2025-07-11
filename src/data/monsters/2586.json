@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 37,
     "hit_100_percent": 353,
-    "flee_95_percent": 0,
+    "flee_95_percent": 367,
     "base_stats": {
       "str": 97,
       "agi": 45,
@@ -37,5 +37,12 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@def01",
+      "description": "- 波動模式迷宮 - 森林",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

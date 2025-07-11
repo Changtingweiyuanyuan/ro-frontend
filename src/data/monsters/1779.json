@@ -27,7 +27,7 @@
     "defense": 129,
     "magic_defense": 78,
     "hit_100_percent": 446,
-    "flee_95_percent": 0,
+    "flee_95_percent": 517,
     "base_stats": {
       "str": 85,
       "agi": 126,
@@ -37,6 +37,13 @@
       "luk": 112
     }
   },
+  "spawns": [
+    {
+      "map_name": "ice_dun03",
+      "description": "- 拉赫 冰洞穴 3層",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 607,

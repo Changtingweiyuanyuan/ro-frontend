@@ -1,0 +1,40 @@
+{
+  "id": 939,
+  "name": {
+    "zh_tw": "蜂針",
+    "en": "Bee_Sting"
+  },
+  "icon_url": "/images/items/939.gif",
+  "category": "其他類",
+  "description": {
+    "official": "大黃蜂尾端用來做武器的又長又細的蜂針，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 32,
+    "sell_price": 16,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 3498,
+      "name": "狂野蜂兵",
+      "rate": 80.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -27,7 +27,7 @@
     "defense": 101,
     "magic_defense": 12,
     "hit_100_percent": 305,
-    "flee_95_percent": 0,
+    "flee_95_percent": 318,
     "base_stats": {
       "str": 52,
       "agi": 32,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

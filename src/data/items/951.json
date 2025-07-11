@@ -1,0 +1,140 @@
+{
+  "id": 951,
+  "name": {
+    "zh_tw": "背鰭",
+    "en": "Fin"
+  },
+  "icon_url": "/images/items/951.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從魚類或是部分魔物身上得來的背鰭。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 412,
+    "sell_price": 206,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 20647,
+      "name": "浴池人魚",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2180,
+      "name": "遠古海神",
+      "rate": 40.02
+    },
+    {
+      "monster_id": 1968,
+      "name": "海神_E",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1065,
+      "name": "海神",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2201,
+      "name": "深海電鰻",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20801,
+      "name": "幻影深海電鰻",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20808,
+      "name": "深海海神",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2795,
+      "name": "精英亞拉 / 雄壯亞拉",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20809,
+      "name": "深海劍魚",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20646,
+      "name": "熱池食人魚",
+      "rate": 9.5
+    },
+    {
+      "monster_id": 20644,
+      "name": "熱池馬克",
+      "rate": 9.5
+    },
+    {
+      "monster_id": 20643,
+      "name": "熱池劍魚",
+      "rate": 9.5
+    },
+    {
+      "monster_id": 20645,
+      "name": "熱池變異魚",
+      "rate": 9.5
+    },
+    {
+      "monster_id": 2182,
+      "name": "遠古海馬",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1045,
+      "name": "馬克",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1969,
+      "name": "馬克_E",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1044,
+      "name": "人魚",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2184,
+      "name": "深海人魚",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2069,
+      "name": "亞拉",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1970,
+      "name": "人魚_E",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20802,
+      "name": "深海人魚",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

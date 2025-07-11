@@ -1,0 +1,29 @@
+{
+  "id": 4035,
+  "name": {
+    "zh_tw": "海葵卡片",
+    "en": "Hydra_Card"
+  },
+  "icon_url": "/images/items/4035.gif",
+  "category": "卡片",
+  "description": {
+    "official": "對人型系魔物增加20%的傷害。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddRace,RC_DemiHuman,20; bonus2 bAddRace,RC_Player_Human,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

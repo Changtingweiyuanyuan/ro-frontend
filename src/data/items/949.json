@@ -1,0 +1,185 @@
+{
+  "id": 949,
+  "name": {
+    "zh_tw": "柔毛",
+    "en": "Feather"
+  },
+  "icon_url": "/images/items/949.gif",
+  "category": "其他類",
+  "description": {
+    "official": "相當柔軟的毛，可用來製作高級衣物。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2876,
+      "name": "精英 / 憤怒 狂暴綠棉蟲",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2712,
+      "name": "精英小雞 / 憤怒小雞",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20924,
+      "name": "變異阿米特拉凱美拉",
+      "rate": 24.0
+    },
+    {
+      "monster_id": 2180,
+      "name": "遠古海神",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 21.25
+    },
+    {
+      "monster_id": 2638,
+      "name": "精英白鼠 / 菁英白鼠",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1084,
+      "name": "黑菇",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1968,
+      "name": "海神_E",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1065,
+      "name": "海神",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1300,
+      "name": "狂暴綠棉蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1322,
+      "name": "彈簧兔",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3497,
+      "name": "草地綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1050,
+      "name": "蛋殼小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1049,
+      "name": "小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3387,
+      "name": "小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1241,
+      "name": "蛋殼小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1240,
+      "name": "小雞",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1085,
+      "name": "紅菇",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1243,
+      "name": "雪熊",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 4.25
+    },
+    {
+      "monster_id": 1175,
+      "name": "白鼠",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1184,
+      "name": "綠棉蟲",
+      "rate": 1.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

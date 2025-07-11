@@ -1,0 +1,37 @@
+{
+  "id": 7935,
+  "name": {
+    "zh_tw": "毒草蛇足草",
+    "en": "Poison_Herb_Seratum"
+  },
+  "icon_url": "/images/items/7935.gif",
+  "category": "其他類",
+  "description": {
+    "official": "危險: 不像美麗的外表，卻沒有香味。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1,
+    "sell_price": 0,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3760,
+      "name": "憤懣殭屍 / 憤恨的殭屍",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": []
+}

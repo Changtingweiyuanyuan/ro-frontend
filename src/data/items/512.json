@@ -1,0 +1,180 @@
+{
+  "id": 512,
+  "name": {
+    "zh_tw": "蘋果",
+    "en": "Apple"
+  },
+  "icon_url": "/images/items/512.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "清爽香甜的水果，可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15,
+    "sell_price": 7,
+    "weight": 2
+  },
+  "script": "{ itemheal rand(16,22),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2776,
+      "name": "精英寶貝波利 / 菁英寶貝波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1850,
+      "name": "獸人英雄",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2845,
+      "name": "精英土波利 / 菁英土波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1816,
+      "name": "葫蘆藤",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2398,
+      "name": "寶貝波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1090,
+      "name": "波利之王",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 1250,
+      "name": "魔靈娃娃",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2643,
+      "name": "精英 / 菁英 石頭波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1582,
+      "name": "惡魔波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3495,
+      "name": "蛋黃波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3813,
+      "name": "強化土波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1113,
+      "name": "土波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1784,
+      "name": "石頭波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1266,
+      "name": "海星",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1417,
+      "name": "拉鏈熊",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 2086,
+      "name": "尖角甲蟲",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1096,
+      "name": "天使波利",
+      "rate": 0.14
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

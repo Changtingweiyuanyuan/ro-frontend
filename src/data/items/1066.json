@@ -1,0 +1,40 @@
+{
+  "id": 1066,
+  "name": {
+    "zh_tw": "天地樹枝",
+    "en": "Tree_Of_Archer_1"
+  },
+  "icon_url": "/images/items/1066.gif",
+  "category": "其他類",
+  "description": {
+    "official": "樹木的一角，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2,
+    "sell_price": 1,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2615,
+      "name": "精英樹精 / 菁英樹精",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3389,
+      "name": "樹精",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1010,
+      "name": "樹精",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

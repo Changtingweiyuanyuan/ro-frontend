@@ -6,7 +6,7 @@
   },
   "image_url": "/images/monsters/1266.gif",
   "basic_info": {
-    "level": 0,
+    "level": 50,
     "race": "魚貝",
     "element": {
       "type": "地",

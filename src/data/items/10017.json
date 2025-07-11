@@ -1,0 +1,35 @@
+{
+  "id": 10017,
+  "name": {
+    "zh_tw": "樹皮褲",
+    "en": "Bark_Shorts"
+  },
+  "icon_url": "/images/items/10017.gif",
+  "category": "可愛寵物裝備",
+  "description": {
+    "official": "用木頭與樹皮編成的褲子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2890,
+      "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1100,
+      "name": "艾斯蜘蛛",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

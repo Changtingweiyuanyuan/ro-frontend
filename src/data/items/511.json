@@ -1,0 +1,325 @@
+{
+  "id": 511,
+  "name": {
+    "zh_tw": "綠色藥草",
+    "en": "Green_Herb"
+  },
+  "icon_url": "/images/items/511.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "可中和所有毒性的珍貴藥草，具有治療的功效解毒。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 3
+  },
+  "script": "{ sc_end SC_POISON; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2816,
+      "name": "精英魔羌 / 菁英魔羌",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2815,
+      "name": "精英魔羌 / 雄壯魔羌",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2730,
+      "name": "精英諾博斯 / 雄壯諾博斯",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2728,
+      "name": "精英諾博斯 / 狡猾諾博斯",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2731,
+      "name": "精英諾博斯 / 菁英諾博斯",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2729,
+      "name": "精英諾博斯 / 迅捷諾博斯",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2891,
+      "name": "精英 / 狡猾 艾吉歐蜈蚣",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2892,
+      "name": "精英 / 迅捷 艾吉歐蜈蚣",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3810,
+      "name": "國王波利",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3497,
+      "name": "草地綠棉蟲",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1372,
+      "name": "魔羌",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2026,
+      "name": "逃走的蒲公英成員",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2779,
+      "name": "精英雷斯 / 迅捷雷斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1322,
+      "name": "彈簧兔",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2823,
+      "name": "精英綠腐屍 / 狡猾綠腐屍",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2822,
+      "name": "精英綠腐屍 / 憤怒綠腐屍",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2890,
+      "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+      "rate": 16.75
+    },
+    {
+      "monster_id": 1715,
+      "name": "諾博斯(紅)",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2678,
+      "name": "精英羅達蛙 / 菁英羅達蛙",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2679,
+      "name": "精英羅達蛙 / 憤怒羅達蛙",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2705,
+      "name": "精英毒魔菇 / 雄壯毒魔菇",
+      "rate": 13.75
+    },
+    {
+      "monster_id": 2704,
+      "name": "精英牛蛙 / 迅捷牛蛙",
+      "rate": 13.5
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1375,
+      "name": "紙妖",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3814,
+      "name": "強化波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1099,
+      "name": "艾吉歐蜈蚣",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1881,
+      "name": "雷斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3498,
+      "name": "狂野蜂兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1036,
+      "name": "綠腐屍",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2011,
+      "name": "萬聖節綠腐屍",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 1100,
+      "name": "艾斯蜘蛛",
+      "rate": 3.35
+    },
+    {
+      "monster_id": 1012,
+      "name": "羅達蛙",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3499,
+      "name": "甜心羅達蛙",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1855,
+      "name": "毒魔菇",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 1077,
+      "name": "毒魔菇",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 1402,
+      "name": "牛蛙",
+      "rate": 2.7
+    },
+    {
+      "monster_id": 1878,
+      "name": "光芒草",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1184,
+      "name": "綠棉蟲",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 2724,
+      "name": "精英邪骸獸人 / 迅捷邪骸獸人",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1152,
+      "name": "邪骸獸人",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

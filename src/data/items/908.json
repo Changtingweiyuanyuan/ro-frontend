@@ -1,0 +1,65 @@
+{
+  "id": 908,
+  "name": {
+    "zh_tw": "青蛙蛋",
+    "en": "Spawn"
+  },
+  "icon_url": "/images/items/908.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從魔物羅達蛙取下來的卯，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 140,
+    "sell_price": 70,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2867,
+      "name": "精英科摩多龍 / 狡猾科摩多龍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2635,
+      "name": "精英突變蛙 / 狡猾突變蛙",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1034,
+      "name": "達拉蛙",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2678,
+      "name": "精英羅達蛙 / 菁英羅達蛙",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2679,
+      "name": "精英羅達蛙 / 憤怒羅達蛙",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2152,
+      "name": "科摩多龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3499,
+      "name": "甜心羅達蛙",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1012,
+      "name": "羅達蛙",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

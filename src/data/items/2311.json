@@ -1,0 +1,35 @@
+{
+  "id": 2311,
+  "name": {
+    "zh_tw": "毛皮大衣",
+    "en": "Mink_Coat"
+  },
+  "icon_url": "/images/items/2311.gif",
+  "category": "防具",
+  "description": {
+    "official": "用柔軟的動物皮毛作成的外套，不過是被保育團體批評最多的衣服。希望大家能愛護動物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 230
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1220,
+      "name": "沙漠之狼",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1106,
+      "name": "沙漠之狼",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

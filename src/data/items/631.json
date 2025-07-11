@@ -1,0 +1,50 @@
+{
+  "id": 631,
+  "name": {
+    "zh_tw": "青嫩毒草",
+    "en": "Deadly_Noxious_Herb"
+  },
+  "icon_url": "/images/items/631.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "擁有劇毒的草。是魔物毒魔菇最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 5
+  },
+  "script": "{ pet 1077; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1972,
+      "name": "水母_E",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1141,
+      "name": "水母",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2738,
+      "name": "精英吃人草 / 狡猾吃人草",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1780,
+      "name": "吃人草",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

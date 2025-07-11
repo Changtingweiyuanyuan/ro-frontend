@@ -1,0 +1,70 @@
+{
+  "id": 513,
+  "name": {
+    "zh_tw": "香蕉",
+    "en": "Banana"
+  },
+  "icon_url": "/images/items/513.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "香甜好吃的水果，可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15,
+    "sell_price": 7,
+    "weight": 2
+  },
+  "script": "{ itemheal rand(17,21),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1861,
+      "name": "巧克猴",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1214,
+      "name": "巧克猴",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1498,
+      "name": "伍坦彈弓手",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20276,
+      "name": "古代伍坦戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20661,
+      "name": "黃肉食人火龍果",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 20650,
+      "name": "黃肉食人火龍果",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

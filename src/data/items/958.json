@@ -1,0 +1,135 @@
+{
+  "id": 958,
+  "name": {
+    "zh_tw": "亡者牙齒",
+    "en": "Horrendous_Mouth"
+  },
+  "icon_url": "/images/items/958.gif",
+  "category": "其他類",
+  "description": {
+    "official": "亡者身上的牙齒，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 390,
+    "sell_price": 195,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2823,
+      "name": "精英綠腐屍 / 狡猾綠腐屍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2822,
+      "name": "精英綠腐屍 / 憤怒綠腐屍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2687,
+      "name": "精英諾可伊 / 雄壯諾可伊",
+      "rate": 87.5
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 2605,
+      "name": "精英 / 菁英 腐屍首領",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2954,
+      "name": "崩壞的誓約 / 褪色的誓言",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 3665,
+      "name": "綠腐屍",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2011,
+      "name": "萬聖節綠腐屍",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3664,
+      "name": "綠腐屍",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1869,
+      "name": "火焰顱骨 / 火焰骷髏頭",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1036,
+      "name": "綠腐屍",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1164,
+      "name": "諾可伊",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1298,
+      "name": "腐屍首領",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2199,
+      "name": "胖胖波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2012,
+      "name": "萬聖節腐屍",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

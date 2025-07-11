@@ -1,0 +1,91 @@
+{
+  "id": 719,
+  "name": {
+    "zh_tw": "紫寶石",
+    "en": "Violet_Jewel"
+  },
+  "icon_url": "/images/items/719.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出紫色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6000,
+    "sell_price": 3000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1091,
+      "name": "龍蠅",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1112,
+      "name": "海盜之王",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3176,
+      "name": "小妖精",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1632,
+      "name": "小妖精",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2717,
+      "name": "精英梅納海葵 / 憤怒梅納海葵",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2716,
+      "name": "精英梅納海葵 / 菁英梅納海葵",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2892,
+      "name": "精英 / 迅捷 艾吉歐蜈蚣",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2891,
+      "name": "精英 / 狡猾 艾吉歐蜈蚣",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3812,
+      "name": "巨大萌萌波利",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1216,
+      "name": "梅納海葵",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1099,
+      "name": "艾吉歐蜈蚣",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

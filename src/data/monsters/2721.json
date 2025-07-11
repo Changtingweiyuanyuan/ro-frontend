@@ -27,7 +27,7 @@
     "defense": 80,
     "magic_defense": 45,
     "hit_100_percent": 353,
-    "flee_95_percent": 0,
+    "flee_95_percent": 384,
     "base_stats": {
       "str": 54,
       "agi": 51,
@@ -37,6 +37,13 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "tha_t05",
+      "description": "- 達納托斯之塔 上層 5樓",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 693,

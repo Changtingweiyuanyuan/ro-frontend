@@ -1,0 +1,60 @@
+{
+  "id": 1050,
+  "name": {
+    "zh_tw": "血管",
+    "en": "Tendon"
+  },
+  "icon_url": "/images/items/1050.gif",
+  "category": "其他類",
+  "description": {
+    "official": "血管。相當結實。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 220,
+    "sell_price": 110,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2958,
+      "name": "往事只能回味 / 致命的日子",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1142,
+      "name": "氣泡蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20366,
+      "name": "異種雙頭卡夫特",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20929,
+      "name": "巨人卡夫特",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20348,
+      "name": "A013-卡夫特",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20930,
+      "name": "多洛裡安",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20365,
+      "name": "雙頭卡夫特",
+      "rate": 10.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

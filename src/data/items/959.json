@@ -1,0 +1,35 @@
+{
+  "id": 959,
+  "name": {
+    "zh_tw": "腐爛鱗片",
+    "en": "Rotten_Scale"
+  },
+  "icon_url": "/images/items/959.gif",
+  "category": "其他類",
+  "description": {
+    "official": "嚴重腐爛且發出惡臭的鱗片，雖然不知道用處為何，但可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 168,
+    "sell_price": 84,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 27.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

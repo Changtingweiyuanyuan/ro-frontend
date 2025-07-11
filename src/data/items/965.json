@@ -1,0 +1,65 @@
+{
+  "id": 965,
+  "name": {
+    "zh_tw": "蛤蜊外殼",
+    "en": "Clam_Shell"
+  },
+  "icon_url": "/images/items/965.gif",
+  "category": "其他類",
+  "description": {
+    "official": "蛤蜊的外殼，晒乾後相當堅硬。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 56,
+    "sell_price": 28,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2689,
+      "name": "精英紅海星 / 狡猾紅海星",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2178,
+      "name": "深海貝殼",
+      "rate": 41.24
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2197,
+      "name": "紅海星",
+      "rate": 25.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

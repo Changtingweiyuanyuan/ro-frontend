@@ -27,7 +27,7 @@
     "defense": 31,
     "magic_defense": 18,
     "hit_100_percent": 279,
-    "flee_95_percent": 0,
+    "flee_95_percent": 268,
     "base_stats": {
       "str": 32,
       "agi": 26,
@@ -37,6 +37,13 @@
       "luk": 28
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild04",
+      "description": "- 克克魔 海邊",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 601,

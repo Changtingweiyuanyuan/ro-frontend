@@ -1,0 +1,39 @@
+{
+  "id": 4010,
+  "name": {
+    "zh_tw": "樹精卡片",
+    "en": "Wilow_Card"
+  },
+  "icon_url": "/images/items/4010.gif",
+  "category": "卡片",
+  "description": {
+    "official": "MSP+80",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bMaxSP,80; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2615,
+      "name": "精英樹精 / 菁英樹精",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3389,
+      "name": "樹精",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1010,
+      "name": "樹精",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

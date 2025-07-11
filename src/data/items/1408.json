@@ -1,0 +1,50 @@
+{
+  "id": 1408,
+  "name": {
+    "zh_tw": "步兵長矛",
+    "en": "Pike_"
+  },
+  "icon_url": "/images/items/1408.gif",
+  "category": "武器",
+  "description": {
+    "official": "步兵們所使用的單手長矛。套裝資料:步兵長矛[4] & 重裝步兵帽子[1]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3450,
+    "sell_price": 1725,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2610,
+      "name": "精英森靈 / 菁英森靈",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3395,
+      "name": "森靈",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1024,
+      "name": "森靈",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

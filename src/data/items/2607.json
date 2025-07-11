@@ -1,0 +1,56 @@
+{
+  "id": 2607,
+  "name": {
+    "zh_tw": "發夾",
+    "en": "Clip"
+  },
+  "icon_url": "/images/items/2607.gif",
+  "category": "防具",
+  "description": {
+    "official": "仔細看的話，可以插某種物品的裝飾品。SP+10套裝資料:發夾[1] & 精靈戒指發夾[1] & 精靈戒指 (租賃物品)發夾[1] & Spiritual Ring (M)",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 30000,
+    "sell_price": 15000,
+    "weight": 10
+  },
+  "script": "{ bonus bMaxSP,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1091,
+      "name": "龍蠅",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2910,
+      "name": "精英鐘怪 / 狡猾鐘怪",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2692,
+      "name": "精英 / 菁英 暗●魔法師",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1657,
+      "name": "暗●魔法師",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1193,
+      "name": "鐘怪",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2917,
+      "name": "大鐘怪",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "寶石盒"
+  ]
+}

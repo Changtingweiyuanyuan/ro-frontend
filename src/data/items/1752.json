@@ -1,0 +1,45 @@
+{
+  "id": 1752,
+  "name": {
+    "zh_tw": "火箭矢",
+    "en": "Fire_Arrow"
+  },
+  "icon_url": "/images/items/1752.gif",
+  "category": "彈藥/扔的武器",
+  "description": {
+    "official": "前端可以點火的箭矢。套裝資料:灼熱之弓[1] + 火箭矢 套裝灼熱之_弓[1] , 火箭矢 & 元素衣服[1]火箭矢 & 灼熱之_弓[2]火箭矢, 灼熱之_弓[2] & 元素衣服[1]",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 5,
+    "sell_price": 2,
+    "weight": 0
+  },
+  "script": "{ bonus bAtkEle,Ele_Fire; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1129,
+      "name": "鬼火",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3763,
+      "name": "憤懣邪骸弓箭手 / 含冤的士兵",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2154,
+      "name": "巴拿斯帕堤",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

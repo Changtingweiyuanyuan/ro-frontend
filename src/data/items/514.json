@@ -1,0 +1,160 @@
+{
+  "id": 514,
+  "name": {
+    "zh_tw": "葡萄",
+    "en": "Grape"
+  },
+  "icon_url": "/images/items/514.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "清新且味道酸的水果，可恢復少量SP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 200,
+    "sell_price": 100,
+    "weight": 2
+  },
+  "script": "{ itemheal 0,rand(10,15); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20663,
+      "name": "紫肉食人火龍果",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2833,
+      "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2175,
+      "name": "深海魷魚",
+      "rate": 2.24
+    },
+    {
+      "monster_id": 3648,
+      "name": "吸血蝙蝠",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3646,
+      "name": "吸血蝙蝠",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3647,
+      "name": "吸血蝙蝠",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3814,
+      "name": "強化波波利",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 20652,
+      "name": "紫肉食人火龍果",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3645,
+      "name": "吸血蝙蝠",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1258,
+      "name": "弓箭哥布靈",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1311,
+      "name": "狂暴野豬",
+      "rate": 1.45
+    },
+    {
+      "monster_id": 1255,
+      "name": "奈利蟲",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3644,
+      "name": "吸血蝙蝠",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1146,
+      "name": "黑狐",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1221,
+      "name": "野豬",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 3643,
+      "name": "吸血蝙蝠",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1005,
+      "name": "吸血蝙蝠",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

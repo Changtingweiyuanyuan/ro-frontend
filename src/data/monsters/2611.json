@@ -27,7 +27,7 @@
     "defense": 103,
     "magic_defense": 8,
     "hit_100_percent": 288,
-    "flee_95_percent": 0,
+    "flee_95_percent": 304,
     "base_stats": {
       "str": 63,
       "agi": 18,
@@ -37,6 +37,13 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "um_fild02",
+      "description": "- 滬家森林",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 517,

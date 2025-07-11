@@ -1,0 +1,90 @@
+{
+  "id": 714,
+  "name": {
+    "zh_tw": "華麗金屬",
+    "en": "Emperium"
+  },
+  "icon_url": "/images/items/714.gif",
+  "category": "其他類",
+  "description": {
+    "official": "帶有耀眼光芒的華麗金屬，據古代文獻記載，它只出現在可以改變這世界的命運的人的面前。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2,
+    "sell_price": 1,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2483,
+      "name": "巴風特-咪魘",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1039,
+      "name": "巴風特",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1086,
+      "name": "黃金蟲",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1840,
+      "name": "黃金野豬",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1096,
+      "name": "天使波利",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1120,
+      "name": "幽靈波利",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2687,
+      "name": "精英諾可伊 / 雄壯諾可伊",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2750,
+      "name": "精英礦石魔 / 雄壯礦石魔",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2723,
+      "name": "精英獸人腐屍 / 狡猾阿修羅狂戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1614,
+      "name": "礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1153,
+      "name": "獸人腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1164,
+      "name": "諾可伊",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

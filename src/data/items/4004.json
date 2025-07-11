@@ -1,0 +1,39 @@
+{
+  "id": 4004,
+  "name": {
+    "zh_tw": "土波利卡片",
+    "en": "Drops_Card"
+  },
+  "icon_url": "/images/items/4004.gif",
+  "category": "卡片",
+  "description": {
+    "official": "DEX+1HIT+3",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bDex,1; bonus bHit,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2845,
+      "name": "精英土波利 / 菁英土波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3813,
+      "name": "強化土波利",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1113,
+      "name": "土波利",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

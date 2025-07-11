@@ -1,0 +1,50 @@
+{
+  "id": 1452,
+  "name": {
+    "zh_tw": "彎刃長矛",
+    "en": "Guisarme_"
+  },
+  "icon_url": "/images/items/1452.gif",
+  "category": "武器",
+  "description": {
+    "official": "有著向內彎曲的刀刃之長矛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 13000,
+    "sell_price": 6500,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

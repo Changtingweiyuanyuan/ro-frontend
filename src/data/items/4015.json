@@ -1,0 +1,34 @@
+{
+  "id": 4015,
+  "name": {
+    "zh_tw": "禿鷹卡片",
+    "en": "Condor_Card"
+  },
+  "icon_url": "/images/items/4015.gif",
+  "category": "卡片",
+  "description": {
+    "official": "FLEE+10套裝資料:禿鷹卡片 & Flying Galapago",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bFlee,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

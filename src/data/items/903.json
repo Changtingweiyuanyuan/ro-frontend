@@ -1,0 +1,105 @@
+{
+  "id": 903,
+  "name": {
+    "zh_tw": "爬蟲類舌頭",
+    "en": "Reptile_Tongue"
+  },
+  "icon_url": "/images/items/903.gif",
+  "category": "其他類",
+  "description": {
+    "official": "爬蟲類的舌頭，可向收集品商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 140,
+    "sell_price": 70,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20659,
+      "name": "大王喵喵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20648,
+      "name": "大王喵喵",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20651,
+      "name": "藍肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20664,
+      "name": "綠肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20662,
+      "name": "藍肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20661,
+      "name": "黃肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20653,
+      "name": "綠肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20650,
+      "name": "黃肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20660,
+      "name": "紅肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20663,
+      "name": "紫肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20652,
+      "name": "紫肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20649,
+      "name": "紅肉食人火龍果",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1119,
+      "name": "傘蜥",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

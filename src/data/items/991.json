@@ -1,0 +1,181 @@
+{
+  "id": 991,
+  "name": {
+    "zh_tw": "水靈礦石",
+    "en": "Crystal_Blue"
+  },
+  "icon_url": "/images/items/991.gif",
+  "category": "其他類",
+  "description": {
+    "official": "藍色的小礦石塊。擁有水屬性，提煉後可以製作出水靈原石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 5
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1084,
+      "name": "黑菇",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 3070,
+      "name": "貝爾 / 派",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 20921,
+      "name": "變異獨角光輝凱美拉",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3072,
+      "name": "貝爾 / 派",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 20927,
+      "name": "變異水精靈凱美拉",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2652,
+      "name": "精英雪獸 / 雄壯雪獸",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2905,
+      "name": "精英蝸牛 / 狡猾蝸牛",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2669,
+      "name": "精英賽杜拉 / 憤怒賽杜拉",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2864,
+      "name": "精英卡那多斯 / 雄壯卡那多斯",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2661,
+      "name": "精英小雪獸 / 迅捷小雪獸",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1094,
+      "name": "蝸牛",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1775,
+      "name": "雪獸",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1972,
+      "name": "水母_E",
+      "rate": 0.45
+    },
+    {
+      "monster_id": 2177,
+      "name": "深海海螺",
+      "rate": 0.32
+    },
+    {
+      "monster_id": 2174,
+      "name": "遠古甲殼類",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2201,
+      "name": "深海電鰻",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2198,
+      "name": "大腳龍蝦",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2203,
+      "name": "醬缸章魚",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2204,
+      "name": "賽杜拉",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1067,
+      "name": "卡那多斯",
+      "rate": 0.23
+    },
+    {
+      "monster_id": 1141,
+      "name": "水母",
+      "rate": 0.23
+    },
+    {
+      "monster_id": 2179,
+      "name": "遠古庫克雷",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 20806,
+      "name": "深海賽杜拉",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2075,
+      "name": "Ragunta",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1971,
+      "name": "螃蟹_E",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1697,
+      "name": "藍色等離子體",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1776,
+      "name": "小雪獸",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 20369,
+      "name": "冰凍蝙蝠弓箭手",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 99,
     "hit_100_percent": 202,
-    "flee_95_percent": 0,
+    "flee_95_percent": 172,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,6 +37,278 @@
       "luk": 1
     }
   },
+  "spawns": [
+    {
+      "map_name": "ayo_fild02",
+      "description": "- 哎喲泰雅 原野",
+      "spawn_info": "10x / 10 秒"
+    },
+    {
+      "map_name": "cmd_fild06",
+      "description": "- 要塞都市 山特樂曼(西邊)",
+      "spawn_info": "5x / 30~45 分鐘"
+    },
+    {
+      "map_name": "cmd_fild08",
+      "description": "- 要塞都市 山特樂曼(東邊)",
+      "spawn_info": "8x / 30~45 分鐘"
+    },
+    {
+      "map_name": "ein_fild03",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "15x / 1~2 分鐘"
+    },
+    {
+      "map_name": "ein_fild04",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "10x / 1~2 分鐘"
+    },
+    {
+      "map_name": "ein_fild06",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "10x / 2~3 分鐘"
+    },
+    {
+      "map_name": "ein_fild07",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "10x / 2~3 分鐘"
+    },
+    {
+      "map_name": "ein_fild08",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "10x / 2~3 分鐘"
+    },
+    {
+      "map_name": "ein_fild09",
+      "description": "- 艾音布羅克 原野",
+      "spawn_info": "10x / 2~3 分鐘"
+    },
+    {
+      "map_name": "gef_dun00",
+      "description": "- 吉芬塔 地下密穴 1層",
+      "spawn_info": "1x / 5~8 分鐘"
+    },
+    {
+      "map_name": "gon_dun01",
+      "description": "- 昆崙洞 1層 (西王母神殿)",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "gon_dun02",
+      "description": "- 昆崙洞 2層 (神仙的圍棋臺)",
+      "spawn_info": "13x / 5 秒"
+    },
+    {
+      "map_name": "hu_fild04",
+      "description": "- 毀葛 原野",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "hu_fild06",
+      "description": "- 毀葛原野",
+      "spawn_info": "10x / 10 分鐘"
+    },
+    {
+      "map_name": "lhz_fild01",
+      "description": "- 裡希塔樂鎮 原野",
+      "spawn_info": "10x / 1~2 分鐘"
+    },
+    {
+      "map_name": "lhz_fild02",
+      "description": "- 裡希塔樂鎮 原野(死神的峽谷)",
+      "spawn_info": "15x / 1~2 分鐘"
+    },
+    {
+      "map_name": "lou_fild01",
+      "description": "- 龍之城 原野",
+      "spawn_info": "10x / 10 秒"
+    },
+    {
+      "map_name": "moc_fild01",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "10x / 15~23 分鐘"
+    },
+    {
+      "map_name": "moc_fild02",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "7x / 3~5 分鐘"
+    },
+    {
+      "map_name": "moc_fild07",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "5x / 6~9 分鐘"
+    },
+    {
+      "map_name": "moc_fild12",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "moc_fild13",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "15x / 3~5 分鐘"
+    },
+    {
+      "map_name": "moc_fild17",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "6x / 3~5 分鐘"
+    },
+    {
+      "map_name": "moc_fild18",
+      "description": "- 蘇克拉特 沙漠",
+      "spawn_info": "8x / 3~5 分鐘"
+    },
+    {
+      "map_name": "mosk_dun03",
+      "description": "- 莫斯科比亞 深淵森林",
+      "spawn_info": "11x / 5 秒"
+    },
+    {
+      "map_name": "mosk_fild02",
+      "description": "- 莫斯科比亞 原野",
+      "spawn_info": "5x / 10 秒"
+    },
+    {
+      "map_name": "odin_tem01",
+      "description": "- 奧丁神殿 1層",
+      "spawn_info": "7x / 1~2 分鐘"
+    },
+    {
+      "map_name": "pay_d03_i",
+      "description": "- 幻影: 月夜貓的噩咪",
+      "spawn_info": "1x / 5 秒"
+    },
+    {
+      "map_name": "pay_dun03",
+      "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+      "spawn_info": "1x / 10~15 分鐘"
+    },
+    {
+      "map_name": "prt_fild09",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "3x / 6~9 分鐘"
+    },
+    {
+      "map_name": "prt_maze01",
+      "description": "- 迷藏森林1層(普隆德拉北部)",
+      "spawn_info": "2x / 30~45 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "1x / 30~45 分鐘"
+    },
+    {
+      "map_name": "ra_fild12",
+      "description": "- 拉赫 伊達曠野",
+      "spawn_info": "15x / 10 秒"
+    },
+    {
+      "map_name": "rockrdg1",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "rockrdg2",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "treasure_n1",
+      "description": "- 依斯魯得島 遇難船 1樓",
+      "spawn_info": "10x / 50 秒"
+    },
+    {
+      "map_name": "treasure_n2",
+      "description": "- 依斯魯得島 遇難船 2樓",
+      "spawn_info": "10x / 50 秒"
+    },
+    {
+      "map_name": "um_fild01",
+      "description": "- 嚕嚕卡森林",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "um_fild02",
+      "description": "- 滬家森林",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "um_fild04",
+      "description": "- 滬家叢林",
+      "spawn_info": "5x / 3~5 分鐘"
+    },
+    {
+      "map_name": "ve_fild01",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild02",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "10x / 10 秒"
+    },
+    {
+      "map_name": "ve_fild03",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "10x / 10 秒"
+    },
+    {
+      "map_name": "ve_fild04",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "10x / 10 秒"
+    },
+    {
+      "map_name": "yggdrasil01",
+      "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
+      "spawn_info": "5x / 20~30 分鐘"
+    },
+    {
+      "map_name": "yuno_fild01",
+      "description": "- 國界 檢查站",
+      "spawn_info": "23x / 30~45 分鐘"
+    },
+    {
+      "map_name": "yuno_fild02",
+      "description": "- 啟-海伊洛 別墅",
+      "spawn_info": "10x / 30~45 分鐘"
+    },
+    {
+      "map_name": "yuno_fild03",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "15x / 30~45 分鐘"
+    },
+    {
+      "map_name": "yuno_fild04",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "10x / 30~45 分鐘"
+    },
+    {
+      "map_name": "yuno_fild06",
+      "description": "- 爾邁斯 瀑雷德",
+      "spawn_info": "10x / 10 秒"
+    },
+    {
+      "map_name": "yuno_fild07",
+      "description": "- 爾邁斯 峽谷(深淵的峽谷)",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "yuno_fild08",
+      "description": "- 啟 海伊洛 學院",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "yuno_fild09",
+      "description": "- 秀發茲發德 警備隊 露營地",
+      "spawn_info": "10x / 3~5 分鐘"
+    },
+    {
+      "map_name": "yuno_fild11",
+      "description": "- 朱諾 原野",
+      "spawn_info": "10x / 3~5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 508,

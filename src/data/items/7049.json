@@ -1,0 +1,90 @@
+{
+  "id": 7049,
+  "name": {
+    "zh_tw": "石頭",
+    "en": "Stone"
+  },
+  "icon_url": "/images/items/7049.gif",
+  "category": "其他類",
+  "description": {
+    "official": "在地面上滾動的石頭",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 0,
+    "sell_price": 0,
+    "weight": 3
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1725,
+      "name": "波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1592,
+      "name": "流氓",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1674,
+      "name": "莫內",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20272,
+      "name": "古代邪惡摩艾",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 2176,
+      "name": "深海大蟹",
+      "rate": 5.24
+    },
+    {
+      "monster_id": 3419,
+      "name": "邪惡摩艾",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1274,
+      "name": "邪惡摩艾",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1495,
+      "name": "石炮火樹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1498,
+      "name": "伍坦彈弓手",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2178,
+      "name": "深海貝殼",
+      "rate": 3.74
+    },
+    {
+      "monster_id": 1073,
+      "name": "卡拉蟹",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

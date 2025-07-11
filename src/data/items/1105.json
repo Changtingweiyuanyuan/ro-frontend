@@ -1,0 +1,35 @@
+{
+  "id": 1105,
+  "name": {
+    "zh_tw": "圓月刀",
+    "en": "Falchion_"
+  },
+  "icon_url": "/images/items/1105.gif",
+  "category": "武器",
+  "description": {
+    "official": "有著圓刃的刀。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2833,
+      "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1005,
+      "name": "吸血蝙蝠",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

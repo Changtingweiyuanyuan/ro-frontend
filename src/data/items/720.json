@@ -1,0 +1,156 @@
+{
+  "id": 720,
+  "name": {
+    "zh_tw": "天藍寶石",
+    "en": "Skyblue_Jewel"
+  },
+  "icon_url": "/images/items/720.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出天空藍之光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6000,
+    "sell_price": 3000,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1251,
+      "name": "冰暴騎士",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2208,
+      "name": "野貓騎士",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1857,
+      "name": "冰波利",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1968,
+      "name": "海神_E",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2180,
+      "name": "遠古海神",
+      "rate": 0.14
+    },
+    {
+      "monster_id": 20808,
+      "name": "深海海神",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1969,
+      "name": "馬克_E",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1065,
+      "name": "海神",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1970,
+      "name": "人魚_E",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2182,
+      "name": "遠古海馬",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 2175,
+      "name": "深海魷魚",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1045,
+      "name": "馬克",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1721,
+      "name": "龍蛋",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 20802,
+      "name": "深海人魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1142,
+      "name": "氣泡蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1044,
+      "name": "人魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 20804,
+      "name": "深海烏賊",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2184,
+      "name": "深海人魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 20645,
+      "name": "熱池變異魚",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 20643,
+      "name": "熱池劍魚",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 20644,
+      "name": "熱池馬克",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

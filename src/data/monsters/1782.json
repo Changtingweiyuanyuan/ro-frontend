@@ -27,7 +27,7 @@
     "defense": 73,
     "magic_defense": 33,
     "hit_100_percent": 382,
-    "flee_95_percent": 0,
+    "flee_95_percent": 381,
     "base_stats": {
       "str": 70,
       "agi": 82,
@@ -37,6 +37,38 @@
       "luk": 25
     }
   },
+  "spawns": [
+    {
+      "map_name": "ice_dun01",
+      "description": "- 拉赫 冰洞穴 1層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild01",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "33x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild03",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "35x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild04",
+      "description": "- 拉赫 奧頓拉草原",
+      "spawn_info": "35x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild08",
+      "description": "- 拉赫 伊達平原",
+      "spawn_info": "79x / 5 秒"
+    },
+    {
+      "map_name": "ra_fild12",
+      "description": "- 拉赫 伊達曠野",
+      "spawn_info": "216x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 919,

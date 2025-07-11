@@ -1,0 +1,42 @@
+{
+  "id": 2147,
+  "name": {
+    "zh_tw": "鋁制圓盾",
+    "en": "Round_Buckler"
+  },
+  "icon_url": "/images/items/2147.gif",
+  "category": "防具",
+  "description": {
+    "official": "普遍廣泛被使用的圓形盾牌，外框上使用鋁以加強防禦力。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 24000,
+    "sell_price": 12000,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2644,
+      "name": "精英 / 憤怒 鐘乳巨石怪",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1278,
+      "name": "鐘乳巨石怪",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": []
+}

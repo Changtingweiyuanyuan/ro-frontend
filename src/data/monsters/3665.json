@@ -27,7 +27,7 @@
     "defense": 78,
     "magic_defense": 5,
     "hit_100_percent": 408,
-    "flee_95_percent": 0,
+    "flee_95_percent": 420,
     "base_stats": {
       "str": 86,
       "agi": 42,
@@ -37,6 +37,13 @@
       "luk": 30
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@md_gef(hard)",
+      "description": "- 周五副本 - 噩咪模式",
+      "spawn_info": "30x / 10 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 509,

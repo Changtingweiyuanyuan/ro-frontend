@@ -1,0 +1,162 @@
+{
+  "id": 996,
+  "name": {
+    "zh_tw": "風靈原石",
+    "en": "Rough_Wind"
+  },
+  "icon_url": "/images/items/996.gif",
+  "category": "其他類",
+  "description": {
+    "official": "擁有風屬性的礦石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 3000,
+    "sell_price": 1500,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2535,
+      "name": "黃色驚駭森靈女王 / 人面蟲皇后",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1059,
+      "name": "蜂後",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2099,
+      "name": "蜂後_E",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20928,
+      "name": "變異救世主凱美拉",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2614,
+      "name": "精英 / 雄壯 風魔巫師",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3444,
+      "name": "觀察者",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1259,
+      "name": "獅鷲獸",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2797,
+      "name": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 3799,
+      "name": "不祥風靈龜",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2912,
+      "name": "精英俄希托斯 / 雄壯俄希托斯",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1263,
+      "name": "風魔巫師",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2913,
+      "name": "精英俄希托斯 / 菁英俄希托斯",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20922,
+      "name": "變異納佩奧凱美拉",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1975,
+      "name": "眼魔首領",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1633,
+      "name": "惡魔之眼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3177,
+      "name": "目擊者 / 惡魔之眼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2881,
+      "name": "精英微風 / 憤怒微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2828,
+      "name": "精英迦利 / 狡猾迦利",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2880,
+      "name": "精英微風 / 菁英微風",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2370,
+      "name": "元素鬼火(褐)",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1035,
+      "name": "赤蒼蠅",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1716,
+      "name": "灰俄希托斯",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3739,
+      "name": "郊狼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1692,
+      "name": "微風",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1783,
+      "name": "迦利",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3198,
+      "name": "變種迦利",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1248,
+      "name": "玩具士兵",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

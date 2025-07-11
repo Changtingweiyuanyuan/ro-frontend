@@ -1,0 +1,100 @@
+{
+  "id": 521,
+  "name": {
+    "zh_tw": "蘆薈葉子",
+    "en": "Leaflet_Of_Aloe"
+  },
+  "icon_url": "/images/items/521.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "將蘆薈的葉子剪下收集在一起，可恢復定量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 360,
+    "sell_price": 180,
+    "weight": 2
+  },
+  "script": "{ itemheal rand(325,405),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1413,
+      "name": "人參精",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 2185,
+      "name": "變形釣魚河童",
+      "rate": 17.24
+    },
+    {
+      "monster_id": 2779,
+      "name": "精英雷斯 / 迅捷雷斯",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1406,
+      "name": "釣魚河童",
+      "rate": 11.5
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2906,
+      "name": "精英 / 迅捷 泰坦魔芋花",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1587,
+      "name": "克萊本",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1881,
+      "name": "雷斯",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2151,
+      "name": "泰坦魔芋花",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1118,
+      "name": "噬人花",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1082,
+      "name": "白草",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1691,
+      "name": "克萊本",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

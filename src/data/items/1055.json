@@ -1,0 +1,50 @@
+{
+  "id": 1055,
+  "name": {
+    "zh_tw": "蚯蚓皮",
+    "en": "Earthworm_Peeling"
+  },
+  "icon_url": "/images/items/1055.gif",
+  "category": "其他類",
+  "description": {
+    "official": "蚯蚓的皮。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 196,
+    "sell_price": 98,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2802,
+      "name": "精英蚯蚓 / 憤怒蚯蚓",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1127,
+      "name": "蚯蚓",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1255,
+      "name": "奈利蟲",
+      "rate": 25.5
+    },
+    {
+      "monster_id": 1281,
+      "name": "賢者蟲",
+      "rate": 15.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

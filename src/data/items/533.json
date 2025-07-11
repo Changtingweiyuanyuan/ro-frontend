@@ -1,0 +1,35 @@
+{
+  "id": 533,
+  "name": {
+    "zh_tw": "葡萄汁",
+    "en": "Grape_Juice"
+  },
+  "icon_url": "/images/items/533.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "葡萄所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 250,
+    "sell_price": 125,
+    "weight": 4
+  },
+  "script": "{ itemheal 0,rand(15,25); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1954,
+      "name": "天使彩蛋",
+      "rate": 32.5
+    },
+    {
+      "monster_id": 1091,
+      "name": "龍蠅",
+      "rate": 15.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

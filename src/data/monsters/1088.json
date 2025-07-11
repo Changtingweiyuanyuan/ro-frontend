@@ -27,7 +27,7 @@
     "defense": 77,
     "magic_defense": 26,
     "hit_100_percent": 252,
-    "flee_95_percent": 0,
+    "flee_95_percent": 254,
     "base_stats": {
       "str": 77,
       "agi": 26,
@@ -37,6 +37,28 @@
       "luk": 40
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "prt_fild04",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "1x / 30~50 分鐘"
+    },
+    {
+      "map_name": "prt_fild07",
+      "description": "- 普隆德拉 區域",
+      "spawn_info": "1x / 30~50 分鐘"
+    },
+    {
+      "map_name": "prt_maze03",
+      "description": "- 迷藏森林3層(普隆德拉北部)",
+      "spawn_info": "1x / 32~57 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 721,

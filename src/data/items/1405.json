@@ -1,0 +1,55 @@
+{
+  "id": 1405,
+  "name": {
+    "zh_tw": "長矛",
+    "en": "Spear_"
+  },
+  "icon_url": "/images/items/1405.gif",
+  "category": "武器",
+  "description": {
+    "official": "被廣泛使用的單手長矛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1700,
+    "sell_price": 850,
+    "weight": 85
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2765,
+      "name": "精英 / 雄壯 曼陀羅魔花",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3443,
+      "name": "塔皮",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1020,
+      "name": "曼陀羅魔花",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1859,
+      "name": "曼陀羅魔花",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

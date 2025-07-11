@@ -1,0 +1,101 @@
+{
+  "id": 728,
+  "name": {
+    "zh_tw": "黃寶石",
+    "en": "Golden_Jewel"
+  },
+  "icon_url": "/images/items/728.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出黃色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 4500,
+    "sell_price": 2250,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2726,
+      "name": "精英監視者 / 菁英監視者",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2750,
+      "name": "精英礦石魔 / 雄壯礦石魔",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 2377,
+      "name": "Novus",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3422,
+      "name": "流浪之狼",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1583,
+      "name": "塔奧群卡",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20273,
+      "name": "古代塔奧群卡",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1150,
+      "name": "月夜貓",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1700,
+      "name": "監視者",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1667,
+      "name": "藍真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3430,
+      "name": "塔奧群卡",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1976,
+      "name": "鈷礦石魔 / 惡精靈礦石",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1614,
+      "name": "礦石魔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3811,
+      "name": "巨大黃金波利",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1721,
+      "name": "龍蛋",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": 716,
+  "name": {
+    "zh_tw": "紅色魔力礦石",
+    "en": "Red_Gemstone"
+  },
+  "icon_url": "/images/items/716.gif",
+  "category": "其他類",
+  "description": {
+    "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 450,
+    "sell_price": 225,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2846,
+      "name": "精英爆鑽傘蜥 / 憤怒爆鑽傘蜥",
+      "rate": 87.5
+    },
+    {
+      "monster_id": 2733,
+      "name": "精英守墓怨靈 / 狡猾守墓怨靈",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 20620,
+      "name": "紅椒 / 卡帕",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20621,
+      "name": "咪魘紅椒 / 卡帕",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3764,
+      "name": "真理超魔導師",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2657,
+      "name": "精英皮影魔 / 雄壯皮影魔",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2834,
+      "name": "精英偽天使 / 迅捷偽天使",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1380,
+      "name": "爆鑽傘蜥",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 2604,
+      "name": "精英 / 雄壯 腐屍戰俘",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2716,
+      "name": "精英梅納海葵 / 菁英梅納海葵",
+      "rate": 13.75
+    },
+    {
+      "monster_id": 2717,
+      "name": "精英梅納海葵 / 憤怒梅納海葵",
+      "rate": 13.75
+    },
+    {
+      "monster_id": 2861,
+      "name": "精英暗黑祭司 / 憤怒暗黑祭司",
+      "rate": 11.25
+    },
+    {
+      "monster_id": 2893,
+      "name": "精英卷甲蟲 / 雄壯卷甲蟲",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2894,
+      "name": "精英卷甲蟲 / 菁英卷甲蟲",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2481,
+      "name": "守墓怨靈 / 被詛咒的守墓人",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1752,
+      "name": "皮影魔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1371,
+      "name": "偽天使",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1753,
+      "name": "彩色皮影魔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1291,
+      "name": "狂暴惡靈",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 1192,
+      "name": "惡靈",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 1196,
+      "name": "邪骸戰俘",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2358,
+      "name": "卷甲蟲-咪魘",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1197,
+      "name": "腐屍戰俘",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1216,
+      "name": "梅納海葵",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 1198,
+      "name": "暗黑祭司",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 2283,
+      "name": "深淵暗黑祭司 / 深淵神父",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 20694,
+      "name": "尖銳魔力",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1072,
+      "name": "卡浩",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1194,
+      "name": "卷甲蟲",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1387,
+      "name": "沙漠毒蠍",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1696,
+      "name": "紫色等離子體",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1694,
+      "name": "紅色等離子體",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1503,
+      "name": "鬼娃樹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2987,
+      "name": "惡靈樹裝飾 / 驚悚的裝飾樹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1053,
+      "name": "浮勒盜蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3016,
+      "name": "墮落的獸人腐屍",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3010,
+      "name": "墮落的獸人嬰兒",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3013,
+      "name": "墮落的獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3012,
+      "name": "墮落的吸血蝙蝠",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3018,
+      "name": "墮落的邪骸食人魚",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3011,
+      "name": "墮落的沙漠幼狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3014,
+      "name": "墮落的沙漠之狼",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3017,
+      "name": "墮落的畢萊特",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 3015,
+      "name": "墮落的劍魚",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

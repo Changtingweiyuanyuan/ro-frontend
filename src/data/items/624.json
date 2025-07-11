@@ -1,0 +1,45 @@
+{
+  "id": 624,
+  "name": {
+    "zh_tw": "腐臭之魚",
+    "en": "Rotten_Fish"
+  },
+  "icon_url": "/images/items/624.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "腐爛的魚，是魔物蒼蠅最喜愛的食物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2500,
+    "sell_price": 1250,
+    "weight": 5
+  },
+  "script": "{ pet 1011; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 0.9
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 0.18
+    },
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

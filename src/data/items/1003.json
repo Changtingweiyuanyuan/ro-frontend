@@ -1,0 +1,126 @@
+{
+  "id": 1003,
+  "name": {
+    "zh_tw": "煤礦",
+    "en": "Coal"
+  },
+  "icon_url": "/images/items/1003.gif",
+  "category": "其他類",
+  "description": {
+    "official": "含有很多碳成分的礦石，和鐵一起提煉可以得到鋼鐵。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 5
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2888,
+      "name": "精英 / 雄壯 巴拿斯帕堤",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3803,
+      "name": "不祥火焰龜",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2660,
+      "name": "精英 / 狡猾 邪骸礦工",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2154,
+      "name": "巴拿斯帕堤",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2786,
+      "name": "精英 / 菁英 礦坑小精靈",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 2640,
+      "name": "精英史汀 / 狡猾史汀",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 1308,
+      "name": "狂暴哥布靈",
+      "rate": 2.9
+    },
+    {
+      "monster_id": 1615,
+      "name": "黑曜石",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2708,
+      "name": "精英礦工魔 / 狡猾礦工魔",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20370,
+      "name": "汙染史汀",
+      "rate": 1.6
+    },
+    {
+      "monster_id": 1280,
+      "name": "噴射哥布靈",
+      "rate": 1.6
+    },
+    {
+      "monster_id": 1169,
+      "name": "邪骸礦工",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1072,
+      "name": "卡浩",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 20377,
+      "name": "堅硬卡浩",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1121,
+      "name": "基爾瑟",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1838,
+      "name": "礦坑小精靈",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1207,
+      "name": "史汀",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 20687,
+      "name": "下水道瀑布",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 20603,
+      "name": "深淵礦工魔",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1616,
+      "name": "礦工魔",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

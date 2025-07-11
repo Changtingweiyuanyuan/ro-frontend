@@ -1,0 +1,27 @@
+{
+  "id": 6252,
+  "name": {
+    "zh_tw": "狼血",
+    "en": "Wolf_Blood"
+  },
+  "icon_url": "/images/items/6252.gif",
+  "category": "其他類",
+  "description": {
+    "official": "藥用的沙漠之狼血",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1106,
+      "name": "沙漠之狼",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": []
+}

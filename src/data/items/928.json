@@ -1,0 +1,85 @@
+{
+  "id": 928,
+  "name": {
+    "zh_tw": "昆蟲觸角",
+    "en": "Insect_Feeler"
+  },
+  "icon_url": "/images/items/928.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從部分魔物或昆蟲身上得來的觸鬚。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 114,
+    "sell_price": 57,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2842,
+      "name": "精英獵蠅 / 憤怒獵蠅",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1054,
+      "name": "瑪勒盜蟲",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2700,
+      "name": "精英 / 雄壯 三葉鐵甲蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2787,
+      "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20922,
+      "name": "變異納佩奧凱美拉",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1114,
+      "name": "獵蠅",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20593,
+      "name": "絕命毒霧",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20602,
+      "name": "白色三葉鐵甲蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1494,
+      "name": "巨象甲蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1619,
+      "name": "三葉鐵甲蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2179,
+      "name": "遠古庫克雷",
+      "rate": 3.36
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 2.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

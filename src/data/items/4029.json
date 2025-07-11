@@ -1,0 +1,39 @@
+{
+  "id": 4029,
+  "name": {
+    "zh_tw": "狼卡片",
+    "en": "Wolf_Card"
+  },
+  "icon_url": "/images/items/4029.gif",
+  "category": "卡片",
+  "description": {
+    "official": "ATK+15CRI+1套裝資料:狼卡片 & 流浪之狼卡片 套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bBaseAtk,15; bonus bCritical,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2613,
+      "name": "精英狼 / 迅捷狼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3396,
+      "name": "狼",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1013,
+      "name": "狼",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

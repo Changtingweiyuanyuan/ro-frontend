@@ -1,0 +1,100 @@
+{
+  "id": 916,
+  "name": {
+    "zh_tw": "羽毛",
+    "en": "Feather_Of_Birds"
+  },
+  "icon_url": "/images/items/916.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從飛行魔物或動物身上得來的毛，可以用來做衣服或裝飾用。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2712,
+      "name": "精英小雞 / 憤怒小雞",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1241,
+      "name": "蛋殼小雞",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1050,
+      "name": "蛋殼小雞",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1240,
+      "name": "小雞",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 3387,
+      "name": "小雞",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1049,
+      "name": "小雞",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 2153,
+      "name": "天堂鳥",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 20926,
+      "name": "變異菲利凱美拉",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2612,
+      "name": "精英 / 狡猾 樹林哥布靈",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1880,
+      "name": "樹林哥布靈",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

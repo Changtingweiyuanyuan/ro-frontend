@@ -1,0 +1,55 @@
+{
+  "id": 7182,
+  "name": {
+    "zh_tw": "可可",
+    "en": "Cacao"
+  },
+  "icon_url": "/images/items/7182.gif",
+  "category": "其他類",
+  "description": {
+    "official": "又稱為可可亞，熱帶常綠植物，錦葵科，原產於南美。將果實取出乾燥後便是可可豆，將其烘焙後磨成粉便是可可膏。將可可膏濃縮萃取出脂肪厚就成為可可亞，而萃取出的脂肪則稱為可可脂。在可可膏的階段添加牛奶香料使其定型後便是巧克力。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 200,
+    "sell_price": 100,
+    "weight": 2
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 20275,
+      "name": "古代伍坦彈弓手",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1498,
+      "name": "伍坦彈弓手",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

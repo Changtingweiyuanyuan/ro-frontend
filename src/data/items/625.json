@@ -1,0 +1,55 @@
+{
+  "id": 625,
+  "name": {
+    "zh_tw": "鏽鐵",
+    "en": "Lusty_Iron"
+  },
+  "icon_url": "/images/items/625.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "嚴重生鏽的鐵，是魔物綠蒼蠅最喜愛的食物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 5
+  },
+  "script": "{ pet 1042; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2994,
+      "name": "扭動的傀儡 / 尚未包裝的玩偶",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2670,
+      "name": "精英蠍子 / 狡猾蠍子",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1617,
+      "name": "廢鐵暖爐",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1091,
+      "name": "龍蠅",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1001,
+      "name": "蠍子",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3406,
+      "name": "蠍子",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

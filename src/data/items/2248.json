@@ -1,0 +1,35 @@
+{
+  "id": 2248,
+  "name": {
+    "zh_tw": "牛仔帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2248.gif",
+  "category": "防具",
+  "description": {
+    "official": "帶有西部風味，西部牛仔們戴的帽子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15000,
+    "sell_price": 7500,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3422,
+      "name": "流浪之狼",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1092,
+      "name": "流浪之狼",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

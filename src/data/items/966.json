@@ -1,0 +1,50 @@
+{
+  "id": 966,
+  "name": {
+    "zh_tw": "蛤蜊肉",
+    "en": "Flesh_Of_Clam"
+  },
+  "icon_url": "/images/items/966.gif",
+  "category": "其他類",
+  "description": {
+    "official": "有好幾種方法可以食用，但若未將殘留其中的沙子清除掉，味道會變得極差。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 158,
+    "sell_price": 79,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2689,
+      "name": "精英紅海星 / 狡猾紅海星",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2666,
+      "name": "精英 / 迅捷 貝殼魔靈",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2197,
+      "name": "紅海星",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2178,
+      "name": "深海貝殼",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1074,
+      "name": "貝殼魔靈",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

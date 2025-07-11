@@ -1,0 +1,207 @@
+{
+  "id": 7939,
+  "name": {
+    "zh_tw": "年老的樹枝",
+    "en": "Elder_Branch"
+  },
+  "icon_url": "/images/items/7939.gif",
+  "category": "其他類",
+  "description": {
+    "official": "生長在聖地的古老樹上採的小樹枝。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2710,
+      "name": "精英 / 雄壯 黑暗捕蟲堇妖",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2711,
+      "name": "精英捕蟲堇妖 / 菁英捕蟲堇妖",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2015,
+      "name": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2019,
+      "name": "古樹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1995,
+      "name": "捕蟲堇 / 捕蟲堇妖",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1377,
+      "name": "邪靈魔導士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2920,
+      "name": "邪靈長老 / 長者魔導士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3794,
+      "name": "憤怒的寒冰巨人 / 憤怒冰巨人",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2799,
+      "name": "精英獨角甲蟲 / 迅捷獨角甲蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2775,
+      "name": "精英猴桃木 / 雄壯猴桃木",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2896,
+      "name": "精英鹿角甲蟲 / 狡猾鹿角甲蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2987,
+      "name": "惡靈樹裝飾 / 驚悚的裝飾樹",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 20627,
+      "name": "咪魘特殊泰坦魔芋花 / 花園監視者",
+      "rate": 1.4
+    },
+    {
+      "monster_id": 3800,
+      "name": "不祥果樹龜",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2669,
+      "name": "精英賽杜拉 / 憤怒賽杜拉",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 20626,
+      "name": "特殊泰坦魔芋花 / 花園監視者",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 2163,
+      "name": "鹿角甲蟲 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1503,
+      "name": "鬼娃樹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2085,
+      "name": "鹿角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2161,
+      "name": "獨角甲蟲 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1410,
+      "name": "猴桃木",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20276,
+      "name": "古代伍坦戰士",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20275,
+      "name": "古代伍坦彈弓手",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2084,
+      "name": "雙角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 20277,
+      "name": "古代伍坦防禦者",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2083,
+      "name": "獨角甲蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1314,
+      "name": "果樹龜",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1617,
+      "name": "廢鐵暖爐",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1498,
+      "name": "伍坦彈弓手",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2162,
+      "name": "雙角甲蟲 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2204,
+      "name": "賽杜拉",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2839,
+      "name": "精英長老樹精 / 迅捷長老樹精",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2840,
+      "name": "精英長老樹精 / 雄壯長老樹精",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1033,
+      "name": "長老樹精",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

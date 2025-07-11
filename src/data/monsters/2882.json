@@ -27,7 +27,7 @@
     "defense": 559,
     "magic_defense": 12,
     "hit_100_percent": 364,
-    "flee_95_percent": 0,
+    "flee_95_percent": 418,
     "base_stats": {
       "str": 189,
       "agi": 25,
@@ -37,48 +37,55 @@
       "luk": 33
     }
   },
+  "spawns": [
+    {
+      "map_name": "man_fild02",
+      "description": "- 馬努克曠野",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 953,
       "name": "石心",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/953.gif"
+      "icon_url": "/images/items/953.gif"
     },
     {
       "item_id": 2138,
       "name": "魔力之石盾牌[1]",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2138.gif"
+      "icon_url": "/images/items/2138.gif"
     },
     {
       "item_id": 4472,
       "name": "石錘巨人卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 6090,
       "name": "精煉魔力之石",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6090.gif"
+      "icon_url": "/images/items/6090.gif"
     },
     {
       "item_id": 6224,
       "name": "魔力之石",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/6224.gif"
+      "icon_url": "/images/items/6224.gif"
     },
     {
       "item_id": 7067,
       "name": "石頭一角",
       "rate": 75.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/7067.gif"
+      "icon_url": "/images/items/7067.gif"
     },
     {
       "item_id": 12738,
       "name": "珍稀符文原石",
       "rate": 0.25,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/12738.gif"
+      "icon_url": "/images/items/12738.gif"
     }
   ]
 }

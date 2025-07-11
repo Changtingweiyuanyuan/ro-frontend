@@ -1,0 +1,45 @@
+{
+  "id": 1205,
+  "name": {
+    "zh_tw": "卡特短劍",
+    "en": "Cutter_"
+  },
+  "icon_url": "/images/items/1205.gif",
+  "category": "武器",
+  "description": {
+    "official": "專門為了割東西所製造出來的短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1250,
+    "sell_price": 625,
+    "weight": 50
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1183,
+      "name": "蒼蠅",
+      "rate": 0.28
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

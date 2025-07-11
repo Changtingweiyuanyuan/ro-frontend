@@ -1,0 +1,220 @@
+{
+  "id": 510,
+  "name": {
+    "zh_tw": "藍色藥草",
+    "en": "Blue_Herb"
+  },
+  "icon_url": "/images/items/510.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "擁有特殊香味且能使精神飽滿的珍貴藥草，可恢復少量的SP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 60,
+    "sell_price": 30,
+    "weight": 7
+  },
+  "script": "{ itemheal 0,rand(15,30); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3810,
+      "name": "國王波利",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1079,
+      "name": "藍草",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2815,
+      "name": "精英魔羌 / 雄壯魔羌",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2816,
+      "name": "精英魔羌 / 菁英魔羌",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1884,
+      "name": "森林妖精",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1964,
+      "name": "咪魘",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1372,
+      "name": "魔羌",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2732,
+      "name": "精英七彩咪魘 / 憤怒七彩咪魘",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 3661,
+      "name": "咪魘",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1061,
+      "name": "咪魘",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3660,
+      "name": "咪魘",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2762,
+      "name": "精英冰波利 / 憤怒冰波利",
+      "rate": 1.9
+    },
+    {
+      "monster_id": 2705,
+      "name": "精英毒魔菇 / 雄壯毒魔菇",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2779,
+      "name": "精英雷斯 / 迅捷雷斯",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2652,
+      "name": "精英雪獸 / 雄壯雪獸",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2630,
+      "name": "精英大嘴鳥 / 憤怒巨嘴鳥",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1255,
+      "name": "奈利蟲",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 1322,
+      "name": "彈簧兔",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3812,
+      "name": "巨大萌萌波利",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1379,
+      "name": "七彩咪魘",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 20801,
+      "name": "幻影深海電鰻",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3417,
+      "name": "邪骸食人魚",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1064,
+      "name": "邪骸食人魚",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 3816,
+      "name": "強化冰波利",
+      "rate": 0.38
+    },
+    {
+      "monster_id": 1242,
+      "name": "冰波利",
+      "rate": 0.38
+    },
+    {
+      "monster_id": 3399,
+      "name": "冰波利",
+      "rate": 0.38
+    },
+    {
+      "monster_id": 1209,
+      "name": "藍鼠",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1077,
+      "name": "毒魔菇",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 2073,
+      "name": "巨嘴鳥",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1881,
+      "name": "雷斯",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2804,
+      "name": "精英希爾士兵 / 迅捷希爾士兵",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 20373,
+      "name": "堅硬七彩咪魘",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2803,
+      "name": "精英希爾士兵 / 狡猾希爾士兵",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2661,
+      "name": "精英小雪獸 / 迅捷小雪獸",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1775,
+      "name": "雪獸",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1680,
+      "name": "希爾隊長",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1776,
+      "name": "小雪獸",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3788,
+      "name": "溝鼠",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

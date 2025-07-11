@@ -27,7 +27,7 @@
     "defense": 58,
     "magic_defense": 8,
     "hit_100_percent": 272,
-    "flee_95_percent": 0,
+    "flee_95_percent": 248,
     "base_stats": {
       "str": 38,
       "agi": 22,
@@ -37,54 +37,61 @@
       "luk": 15
     }
   },
+  "spawns": [
+    {
+      "map_name": "mjolnir_10",
+      "description": "- 妙勒尼 山脈",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 511,
       "name": "綠色藥草",
       "rate": 16.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/511.gif"
+      "icon_url": "/images/items/511.gif"
     },
     {
       "item_id": 601,
       "name": "蒼蠅翅膀",
       "rate": 25.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/601.gif"
+      "icon_url": "/images/items/601.gif"
     },
     {
       "item_id": 757,
       "name": "鋁原石",
       "rate": 1.55,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/757.gif"
+      "icon_url": "/images/items/757.gif"
     },
     {
       "item_id": 911,
       "name": "雪勒結晶",
       "rate": 30.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/911.gif"
+      "icon_url": "/images/items/911.gif"
     },
     {
       "item_id": 1025,
       "name": "蜘蛛絲",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1025.gif"
+      "icon_url": "/images/items/1025.gif"
     },
     {
       "item_id": 1042,
       "name": "昆蟲後腳",
       "rate": 12.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1042.gif"
+      "icon_url": "/images/items/1042.gif"
     },
     {
       "item_id": 4075,
       "name": "艾斯蜘蛛卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     },
     {
       "item_id": 10017,
       "name": "樹皮褲",
       "rate": 0.4,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/10017.gif"
+      "icon_url": "/images/items/10017.gif"
     }
   ]
 }

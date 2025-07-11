@@ -1,0 +1,60 @@
+{
+  "id": 2262,
+  "name": {
+    "zh_tw": "小丑鼻子",
+    "en": "下"
+  },
+  "icon_url": "/images/items/2262.gif",
+  "category": "防具",
+  "description": {
+    "official": "小丑戴在鼻子上的飾品。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2683,
+      "name": "精英元宵童子 / 菁英元宵童子",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1409,
+      "name": "元宵童子",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

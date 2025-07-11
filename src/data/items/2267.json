@@ -1,0 +1,40 @@
+{
+  "id": 2267,
+  "name": {
+    "zh_tw": "香煙",
+    "en": "下"
+  },
+  "icon_url": "/images/items/2267.gif",
+  "category": "防具",
+  "description": {
+    "official": "吸菸有害人體健康，未成年的人絕對禁止吸菸。受到昆蟲系敵人的攻擊時，可減少3%的傷害。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus2 bSubRace,RC_Insect,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1235,
+      "name": "吸菸的獸人戰士",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

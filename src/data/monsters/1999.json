@@ -27,7 +27,7 @@
     "defense": 98,
     "magic_defense": 17,
     "hit_100_percent": 388,
-    "flee_95_percent": 0,
+    "flee_95_percent": 410,
     "base_stats": {
       "str": 103,
       "agi": 62,
@@ -37,6 +37,23 @@
       "luk": 44
     }
   },
+  "spawns": [
+    {
+      "map_name": "dic_fild01",
+      "description": "- 卡米達山麓",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "dic_fild02",
+      "description": "- 卡米達山麓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "man_fild01",
+      "description": "- 馬努克曠野",
+      "spawn_info": "42x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 732,

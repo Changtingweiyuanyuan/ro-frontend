@@ -1,0 +1,42 @@
+{
+  "id": 20788,
+  "name": {
+    "zh_tw": "喵族專屬斗篷",
+    "en": "Doram_Only_Cape"
+  },
+  "icon_url": "/images/items/20788.gif",
+  "category": "防具",
+  "description": {
+    "official": "喵族所喜愛紋路的斗篷。FLEE+5、無屬性抗性+2%。精煉值每+3時，完全迴避+1。套裝資料:杜蘭族專屬的道具套裝杜蘭族專屬的初級葉子套裝杜蘭族專屬的初級兔子套裝杜蘭族專屬的初級魚套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 30
+  },
+  "script": "{ bonus bFlee,5; bonus2 bSubEle,Ele_Neutral,2; bonus bFlee2,getrefine()/3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2889,
+      "name": "精英風靈龜 / 菁英風靈龜",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1315,
+      "name": "風靈龜",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1135,
+      "name": "刺錘犬妖",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1384,
+      "name": "七彩飛龍",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": []
+}

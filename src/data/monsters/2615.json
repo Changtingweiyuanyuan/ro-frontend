@@ -27,7 +27,7 @@
     "defense": 38,
     "magic_defense": 2,
     "hit_100_percent": 212,
-    "flee_95_percent": 0,
+    "flee_95_percent": 191,
     "base_stats": {
       "str": 13,
       "agi": 3,
@@ -37,6 +37,13 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "pay_fild01",
+      "description": "- 斐揚 樹林",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 516,

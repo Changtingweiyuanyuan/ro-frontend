@@ -1,0 +1,35 @@
+{
+  "id": 623,
+  "name": {
+    "zh_tw": "變態蚯蚓",
+    "en": "Earthworm_The_Dude"
+  },
+  "icon_url": "/images/items/623.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "變態蚯蚓，脖子上有紅色蝴蝶結，是魔物小雞最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 4000,
+    "sell_price": 2000,
+    "weight": 5
+  },
+  "script": "{ pet 1049; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2179,
+      "name": "遠古庫克雷",
+      "rate": 0.14
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

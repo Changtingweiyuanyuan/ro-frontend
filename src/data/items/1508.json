@@ -1,0 +1,30 @@
+{
+  "id": 1508,
+  "name": {
+    "zh_tw": "思麥斯鐵鎚",
+    "en": "Smasher_"
+  },
+  "icon_url": "/images/items/1508.gif",
+  "category": "武器",
+  "description": {
+    "official": "被打到時，精神會變成眩暈狀態的鈍器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 9000,
+    "sell_price": 4500,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1125,
+      "name": "榔頭哥布靈",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

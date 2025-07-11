@@ -1,0 +1,56 @@
+{
+  "id": 2297,
+  "name": {
+    "zh_tw": "哥布靈面具",
+    "en": "中下"
+  },
+  "icon_url": "/images/items/2297.gif",
+  "category": "防具",
+  "description": {
+    "official": "哥布靈族戴的假面，帶的時候會被人指指點點。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2813,
+      "name": "精英哥布靈 / 狡猾哥布靈",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2814,
+      "name": "精英哥布靈 / 迅捷哥布靈",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1123,
+      "name": "鍊錘哥布靈",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1258,
+      "name": "弓箭哥布靈",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1980,
+      "name": "庫布靈",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1122,
+      "name": "刺刀哥布靈",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "包裝的面具"
+  ]
+}

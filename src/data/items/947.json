@@ -1,0 +1,45 @@
+{
+  "id": 947,
+  "name": {
+    "zh_tw": "硬角",
+    "en": "Horn"
+  },
+  "icon_url": "/images/items/947.gif",
+  "category": "其他類",
+  "description": {
+    "official": "尖銳且硬尖的魔物的角。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 116,
+    "sell_price": 58,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2800,
+      "name": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1128,
+      "name": "鍬形蟲",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2951,
+      "name": "聲聲歎息 / 漂流的悲哀",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20921,
+      "name": "變異獨角光輝凱美拉",
+      "rate": 21.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

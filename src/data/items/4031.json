@@ -1,0 +1,39 @@
+{
+  "id": 4031,
+  "name": {
+    "zh_tw": "大嘴鳥卡片",
+    "en": "Pecopeco_Card"
+  },
+  "icon_url": "/images/items/4031.gif",
+  "category": "卡片",
+  "description": {
+    "official": "MHP+10%套裝資料:大嘴鳥卡片 & 七彩大嘴鳥卡片 套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bMaxHPrate,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

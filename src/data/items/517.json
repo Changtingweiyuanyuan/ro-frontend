@@ -1,0 +1,125 @@
+{
+  "id": 517,
+  "name": {
+    "zh_tw": "肉",
+    "en": "Meat"
+  },
+  "icon_url": "/images/items/517.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "味道很棒。可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 50,
+    "sell_price": 25,
+    "weight": 15
+  },
+  "script": "{ itemheal rand(70,100),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2867,
+      "name": "精英科摩多龍 / 狡猾科摩多龍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2152,
+      "name": "科摩多龍",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2074,
+      "name": "小綠人",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1415,
+      "name": "小花豹",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1220,
+      "name": "沙漠之狼",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 20644,
+      "name": "熱池馬克",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 3788,
+      "name": "溝鼠",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1629,
+      "name": "希爾士兵",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1009,
+      "name": "禿鷹",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 3388,
+      "name": "禿鷹",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1068,
+      "name": "海葵",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 20809,
+      "name": "深海劍魚",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2155,
+      "name": "布托異竺",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

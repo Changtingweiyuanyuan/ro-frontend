@@ -27,7 +27,7 @@
     "defense": 481,
     "magic_defense": 78,
     "hit_100_percent": 597,
-    "flee_95_percent": 0,
+    "flee_95_percent": 698,
     "base_stats": {
       "str": 201,
       "agi": 248,
@@ -37,5 +37,12 @@
       "luk": 57
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@ma_c",
+      "description": "- 寶箱巨鱷洞穴",
+      "spawn_info": ""
+    }
+  ],
   "drops": []
 }

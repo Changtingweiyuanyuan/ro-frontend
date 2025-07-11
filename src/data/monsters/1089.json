@@ -27,7 +27,7 @@
     "defense": 24,
     "magic_defense": 6,
     "hit_100_percent": 247,
-    "flee_95_percent": 0,
+    "flee_95_percent": 222,
     "base_stats": {
       "str": 32,
       "agi": 19,
@@ -37,6 +37,18 @@
       "luk": 5
     }
   },
+  "spawns": [
+    {
+      "map_name": "cmd_fild03",
+      "description": "- 基乃依 沼澤地",
+      "spawn_info": "1x / 60~90 分鐘"
+    },
+    {
+      "map_name": "gef_fild01",
+      "description": "- 吉芬 區域",
+      "spawn_info": "1x / 60~90 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 518,

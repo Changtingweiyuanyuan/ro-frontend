@@ -1,0 +1,35 @@
+{
+  "id": 2209,
+  "name": {
+    "zh_tw": "紫蝶發帶",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2209.gif",
+  "category": "防具",
+  "description": {
+    "official": "用布條做成的蝴蝶發帶，主要是給女性使用。MDEF+3",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 800,
+    "sell_price": 400,
+    "weight": 10
+  },
+  "script": "{ bonus bMdef,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2833,
+      "name": "精英吸血蝙蝠 / 狡猾吸血蝙蝠",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1005,
+      "name": "吸血蝙蝠",
+      "rate": 0.08
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

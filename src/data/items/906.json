@@ -1,0 +1,50 @@
+{
+  "id": 906,
+  "name": {
+    "zh_tw": "鱗片梗",
+    "en": "Pointed_Scale"
+  },
+  "icon_url": "/images/items/906.gif",
+  "category": "其他類",
+  "description": {
+    "official": "有著鱗片的梗，是從魔物森靈身上得來的，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 68,
+    "sell_price": 34,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2610,
+      "name": "精英森靈 / 菁英森靈",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3395,
+      "name": "森靈",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1024,
+      "name": "森靈",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1080,
+      "name": "綠草",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1878,
+      "name": "光芒草",
+      "rate": 7.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

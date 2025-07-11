@@ -1,0 +1,275 @@
+{
+  "id": 508,
+  "name": {
+    "zh_tw": "黃色藥草",
+    "en": "Yellow_Herb"
+  },
+  "icon_url": "/images/items/508.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "在治療傷處上有相當功效的珍貴藥草，可恢復少量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 40,
+    "sell_price": 20,
+    "weight": 5
+  },
+  "script": "{ itemheal rand(38,58),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2815,
+      "name": "精英魔羌 / 雄壯魔羌",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2816,
+      "name": "精英魔羌 / 菁英魔羌",
+      "rate": 62.5
+    },
+    {
+      "monster_id": 2647,
+      "name": "精英岩石龜 / 雄壯岩石龜",
+      "rate": 52.5
+    },
+    {
+      "monster_id": 2806,
+      "name": "精英鳥人哈比 / 菁英鳥人哈比",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2807,
+      "name": "精英鳥人哈比 / 憤怒鳥人哈比",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 3811,
+      "name": "巨大黃金波利",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3810,
+      "name": "國王波利",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1081,
+      "name": "黃草",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2805,
+      "name": "精英 / 雄壯 獸人戰士長",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2740,
+      "name": "精英木乃伊 / 雄壯木乃伊",
+      "rate": 21.25
+    },
+    {
+      "monster_id": 2739,
+      "name": "精英木乃伊 / 迅捷木乃伊",
+      "rate": 21.25
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1372,
+      "name": "魔羌",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1316,
+      "name": "岩石龜",
+      "rate": 10.5
+    },
+    {
+      "monster_id": 2768,
+      "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1083,
+      "name": "光芒草",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2354,
+      "name": "木乃伊-咪魘",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1718,
+      "name": "黃諾博斯",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1375,
+      "name": "紙妖",
+      "rate": 9.0
+    },
+    {
+      "monster_id": 1376,
+      "name": "鳥人哈比",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1878,
+      "name": "光芒草",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1101,
+      "name": "小巴風特",
+      "rate": 6.5
+    },
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2718,
+      "name": "精英大嘴鳥 / 狡猾大嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2670,
+      "name": "精英蠍子 / 狡猾蠍子",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1188,
+      "name": "妖道",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1131,
+      "name": "裘卡",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1213,
+      "name": "獸人戰士長",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 1041,
+      "name": "木乃伊",
+      "rate": 4.25
+    },
+    {
+      "monster_id": 1322,
+      "name": "彈簧兔",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1299,
+      "name": "哥布靈首領",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 2630,
+      "name": "精英大嘴鳥 / 憤怒巨嘴鳥",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1138,
+      "name": "魔鍋蛋",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2610,
+      "name": "精英森靈 / 菁英森靈",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1126,
+      "name": "刺錘哥布靈",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 3401,
+      "name": "大嘴鳥",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1266,
+      "name": "海星",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1019,
+      "name": "大嘴鳥",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3398,
+      "name": "毒蛇",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1234,
+      "name": "溜溜猴",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2073,
+      "name": "巨嘴鳥",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1177,
+      "name": "茲諾克",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1137,
+      "name": "犬妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1134,
+      "name": "榔頭犬妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1136,
+      "name": "犬妖",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1024,
+      "name": "森靈",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 3395,
+      "name": "森靈",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1403,
+      "name": "武士火鎗兵",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

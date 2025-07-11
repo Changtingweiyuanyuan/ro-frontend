@@ -27,7 +27,7 @@
     "defense": 100,
     "magic_defense": 0,
     "hit_100_percent": 341,
-    "flee_95_percent": 0,
+    "flee_95_percent": 1509,
     "base_stats": {
       "str": 1,
       "agi": 1,
@@ -37,5 +37,76 @@
       "luk": 1
     }
   },
-  "drops": []
+  "spawns": [
+    {
+      "map_name": "gld2_ald",
+      "description": "- 深淵迴廊 : 英雄之淚",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "gld2_gef",
+      "description": "- 深淵迴廊 : 亡者之丘",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "gld2_pay",
+      "description": "- 深淵迴廊 : 太古之風",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "gld2_prt",
+      "description": "- 深淵迴廊 : 戰士之路",
+      "spawn_info": "5x / 5 秒"
+    }
+  ],
+  "drops": [
+    {
+      "item_id": 1661,
+      "name": "合金毀滅魔杖",
+      "rate": 0.1,
+      "icon_url": "/images/items/1661.gif"
+    },
+    {
+      "item_id": 7444,
+      "name": "財寶箱",
+      "rate": 0.5,
+      "icon_url": "/images/items/7444.gif"
+    },
+    {
+      "item_id": 11547,
+      "name": "城戰紫色藥水",
+      "rate": 20.0,
+      "icon_url": "/images/items/11547.gif"
+    },
+    {
+      "item_id": 11547,
+      "name": "城戰紫色藥水",
+      "rate": 20.0,
+      "icon_url": "/images/items/11547.gif"
+    },
+    {
+      "item_id": 11548,
+      "name": "城戰白色藥水",
+      "rate": 10.0,
+      "icon_url": "/images/items/11548.gif"
+    },
+    {
+      "item_id": 11549,
+      "name": "城戰藍色藥水",
+      "rate": 10.0,
+      "icon_url": "/images/items/11549.gif"
+    },
+    {
+      "item_id": 12675,
+      "name": "城戰武器補給箱",
+      "rate": 0.5,
+      "icon_url": "/images/items/12675.gif"
+    },
+    {
+      "item_id": 12680,
+      "name": "攻城用藍色藥水箱子",
+      "rate": 0.5,
+      "icon_url": "/images/items/12680.gif"
+    }
+  ]
 }

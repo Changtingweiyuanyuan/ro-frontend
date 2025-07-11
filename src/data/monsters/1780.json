@@ -27,7 +27,7 @@
     "defense": 114,
     "magic_defense": 43,
     "hit_100_percent": 374,
-    "flee_95_percent": 0,
+    "flee_95_percent": 362,
     "base_stats": {
       "str": 100,
       "agi": 60,
@@ -37,6 +37,43 @@
       "luk": 47
     }
   },
+  "spawns": [
+    {
+      "map_name": "1@tower",
+      "description": "- 無限塔 (魔物終結塔) 1樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ice_dun01",
+      "description": "- 拉赫 冰洞穴 1層",
+      "spawn_info": "5x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild01",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "34x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild02",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "27x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild03",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "38x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild04",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "110x / 5 秒"
+    },
+    {
+      "map_name": "ve_fild07",
+      "description": "- 伯仁斯 曠野",
+      "spawn_info": "38x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 629,

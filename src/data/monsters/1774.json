@@ -27,7 +27,7 @@
     "defense": 64,
     "magic_defense": 30,
     "hit_100_percent": 420,
-    "flee_95_percent": 0,
+    "flee_95_percent": 480,
     "base_stats": {
       "str": 91,
       "agi": 90,
@@ -37,6 +37,33 @@
       "luk": 31
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@tower",
+      "description": "- 無限塔 (魔物終結塔) 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "ra_san02",
+      "description": "- 拉赫 神殿聖域 2樓",
+      "spawn_info": "2x / 5 秒"
+    },
+    {
+      "map_name": "ra_san03",
+      "description": "- 拉赫 神殿聖域 3樓",
+      "spawn_info": "57x / 5 秒"
+    },
+    {
+      "map_name": "ra_san04",
+      "description": "- 拉赫 神殿聖域 4樓",
+      "spawn_info": "10x / 5 秒"
+    },
+    {
+      "map_name": "ra_san05",
+      "description": "- 拉赫 神殿聖域 5樓",
+      "spawn_info": "21x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 587,

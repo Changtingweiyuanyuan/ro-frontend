@@ -1,0 +1,590 @@
+{
+  "id": 756,
+  "name": {
+    "zh_tw": "神之金屬原石",
+    "en": "Oridecon_Stone"
+  },
+  "icon_url": "/images/items/756.gif",
+  "category": "其他類",
+  "description": {
+    "official": "是被稱為神之金屬的礦石。相當稀少，且得來不易，可以說是相當珍貴的物品。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 550,
+    "sell_price": 275,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2888,
+      "name": "精英 / 雄壯 巴拿斯帕堤",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 2837,
+      "name": "精英爆炎蝙蝠 / 憤怒爆炎蝙蝠",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3155,
+      "name": "修繕機器人",
+      "rate": 15.01
+    },
+    {
+      "monster_id": 2154,
+      "name": "巴拿斯帕堤",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2656,
+      "name": "精英沙妖 / 迅捷沙妖",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2655,
+      "name": "精英沙妖 / 狡猾沙妖",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 5.1
+    },
+    {
+      "monster_id": 2748,
+      "name": "精英米洛斯 / 狡猾米洛斯",
+      "rate": 4.9
+    },
+    {
+      "monster_id": 2805,
+      "name": "精英 / 雄壯 獸人戰士長",
+      "rate": 4.9
+    },
+    {
+      "monster_id": 2749,
+      "name": "精英米洛斯 / 迅捷米洛斯",
+      "rate": 4.9
+    },
+    {
+      "monster_id": 2747,
+      "name": "精英米洛斯 / 憤怒米洛斯",
+      "rate": 4.9
+    },
+    {
+      "monster_id": 1383,
+      "name": "爆炎蝙蝠",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2658,
+      "name": "精英 / 菁英 邪骸戰士長",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2659,
+      "name": "精英 / 憤怒 邪骸戰士長",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2854,
+      "name": "精英 / 雄壯小惡魔",
+      "rate": 3.85
+    },
+    {
+      "monster_id": 2715,
+      "name": "精英 / 雄壯 畢帝特地龍",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 2714,
+      "name": "精英 / 迅捷 畢帝特地龍",
+      "rate": 3.5
+    },
+    {
+      "monster_id": 2663,
+      "name": "精英黑蛇 / 菁英黑蛇",
+      "rate": 3.35
+    },
+    {
+      "monster_id": 2662,
+      "name": "精英黑蛇 / 雄壯黑蛇",
+      "rate": 3.35
+    },
+    {
+      "monster_id": 2797,
+      "name": "精英赤蒼蠅 / 憤怒赤蒼蠅",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 2907,
+      "name": "精英鱷魚人 / 雄壯鱷魚人",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 2641,
+      "name": "精英灰森靈 / 迅捷灰森靈",
+      "rate": 2.9
+    },
+    {
+      "monster_id": 2822,
+      "name": "精英綠腐屍 / 憤怒綠腐屍",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 2823,
+      "name": "精英綠腐屍 / 狡猾綠腐屍",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 2689,
+      "name": "精英紅海星 / 狡猾紅海星",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2739,
+      "name": "精英木乃伊 / 迅捷木乃伊",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2740,
+      "name": "精英木乃伊 / 雄壯木乃伊",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2353,
+      "name": "米洛斯-咪魘",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2784,
+      "name": "精英 / 迅捷 犬妖弓箭手",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 2360,
+      "name": "狂暴木乃伊-咪魘",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1289,
+      "name": "狂暴蟻後",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2649,
+      "name": "精英 / 憤怒 邪骸士兵",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 20357,
+      "name": "薩納雷 / 邪心獵人薩納雷",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2648,
+      "name": "精英 / 菁英 邪骸士兵",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1386,
+      "name": "沙妖",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 2904,
+      "name": "精英毒蛇 / 憤怒毒蛇",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1968,
+      "name": "海神_E",
+      "rate": 1.15
+    },
+    {
+      "monster_id": 2813,
+      "name": "精英哥布靈 / 狡猾哥布靈",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 2814,
+      "name": "精英哥布靈 / 迅捷哥布靈",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 1.02
+    },
+    {
+      "monster_id": 2466,
+      "name": "痛苦侍衛長 / 綠腐屍",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2847,
+      "name": "精英紅蝙蝠 / 狡猾紅蝙蝠",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2722,
+      "name": "精英聖誕獸人戰士 / 憤怒獸人戰士",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2354,
+      "name": "木乃伊-咪魘",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1149,
+      "name": "米洛斯",
+      "rate": 0.98
+    },
+    {
+      "monster_id": 1213,
+      "name": "獸人戰士長",
+      "rate": 0.98
+    },
+    {
+      "monster_id": 1969,
+      "name": "馬克_E",
+      "rate": 0.95
+    },
+    {
+      "monster_id": 2180,
+      "name": "遠古海神",
+      "rate": 0.86
+    },
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 0.81
+    },
+    {
+      "monster_id": 1290,
+      "name": "邪骸戰士長",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1109,
+      "name": "小惡魔",
+      "rate": 0.77
+    },
+    {
+      "monster_id": 1415,
+      "name": "小花豹",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1297,
+      "name": "狂暴木乃伊",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2182,
+      "name": "遠古海馬",
+      "rate": 0.72
+    },
+    {
+      "monster_id": 1155,
+      "name": "畢帝特地龍",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 1037,
+      "name": "黑蛇",
+      "rate": 0.67
+    },
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 1035,
+      "name": "赤蒼蠅",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 3416,
+      "name": "鱷魚人",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 1271,
+      "name": "鱷魚人",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2608,
+      "name": "精英溜溜猴 / 迅捷溜溜猴",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1299,
+      "name": "哥布靈首領",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 2609,
+      "name": "精英溜溜猴 / 雄壯溜溜猴",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1065,
+      "name": "海神",
+      "rate": 0.58
+    },
+    {
+      "monster_id": 1215,
+      "name": "灰森靈",
+      "rate": 0.58
+    },
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 0.58
+    },
+    {
+      "monster_id": 1036,
+      "name": "綠腐屍",
+      "rate": 0.55
+    },
+    {
+      "monster_id": 2011,
+      "name": "萬聖節綠腐屍",
+      "rate": 0.55
+    },
+    {
+      "monster_id": 20274,
+      "name": "古代石炮火樹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2197,
+      "name": "紅海星",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2201,
+      "name": "深海電鰻",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1495,
+      "name": "石炮火樹",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1041,
+      "name": "木乃伊",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2676,
+      "name": "精英 / 迅捷 蠻刀海盜骷髏",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1180,
+      "name": "九尾狐",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1045,
+      "name": "馬克",
+      "rate": 0.48
+    },
+    {
+      "monster_id": 1248,
+      "name": "玩具士兵",
+      "rate": 0.44
+    },
+    {
+      "monster_id": 1282,
+      "name": "犬妖弓箭手",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2287,
+      "name": "深淵犬妖弓箭手",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1177,
+      "name": "茲諾克",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1016,
+      "name": "邪骸弓箭手",
+      "rate": 0.35
+    },
+    {
+      "monster_id": 1151,
+      "name": "麥斯特",
+      "rate": 0.33
+    },
+    {
+      "monster_id": 1028,
+      "name": "邪骸士兵",
+      "rate": 0.3
+    },
+    {
+      "monster_id": 1106,
+      "name": "沙漠之狼",
+      "rate": 0.27
+    },
+    {
+      "monster_id": 1220,
+      "name": "沙漠之狼",
+      "rate": 0.27
+    },
+    {
+      "monster_id": 1030,
+      "name": "毒蛇",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3398,
+      "name": "毒蛇",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2181,
+      "name": "遠古異變魚",
+      "rate": 0.24
+    },
+    {
+      "monster_id": 1071,
+      "name": "邪骸海盜",
+      "rate": 0.22
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 0.22
+    },
+    {
+      "monster_id": 1980,
+      "name": "庫布靈",
+      "rate": 0.22
+    },
+    {
+      "monster_id": 1122,
+      "name": "刺刀哥布靈",
+      "rate": 0.22
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 0.22
+    },
+    {
+      "monster_id": 2072,
+      "name": "美洲虎",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1023,
+      "name": "獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1111,
+      "name": "紅蝙蝠",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1235,
+      "name": "吸菸的獸人戰士",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1069,
+      "name": "異變魚",
+      "rate": 0.17
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 0.16
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 0.16
+    },
+    {
+      "monster_id": 2406,
+      "name": "短劍海盜骷髏",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3622,
+      "name": "特殊警衛",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3502,
+      "name": "偵查巴西利斯克",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 1057,
+      "name": "溜溜猴",
+      "rate": 0.12
+    },
+    {
+      "monster_id": 20808,
+      "name": "深海海神",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2407,
+      "name": "蠻刀海盜骷髏",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1508,
+      "name": "萬聖魔",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3156,
+      "name": "勘查機器人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3154,
+      "name": "巡邏機器人",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

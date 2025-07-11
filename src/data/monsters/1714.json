@@ -27,7 +27,7 @@
     "defense": 96,
     "magic_defense": 45,
     "hit_100_percent": 416,
-    "flee_95_percent": 0,
+    "flee_95_percent": 421,
     "base_stats": {
       "str": 94,
       "agi": 80,
@@ -37,6 +37,28 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "4@tower",
+      "description": "- 無限塔 (魔物終結塔) 4樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "abyss_01",
+      "description": "- 深淵湖水 地下洞穴 F1",
+      "spawn_info": "30x / 5 秒"
+    },
+    {
+      "map_name": "abyss_02",
+      "description": "- 深淵湖水 地下洞穴 F2",
+      "spawn_info": "50x / 5 秒"
+    },
+    {
+      "map_name": "abyss_03",
+      "description": "- 深淵湖水 地下洞穴 F3",
+      "spawn_info": "10x / 5 秒"
+    }
+  ],
   "drops": [
     {
       "item_id": 994,

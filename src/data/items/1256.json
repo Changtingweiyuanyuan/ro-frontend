@@ -1,0 +1,40 @@
+{
+  "id": 1256,
+  "name": {
+    "zh_tw": "冰靈拳刃",
+    "en": "Katar_Of_Cold_Icicle"
+  },
+  "icon_url": "/images/items/1256.gif",
+  "category": "武器",
+  "description": {
+    "official": "冰冷又銳利，以冰晶所做成的水屬性拳刃，有一定的幾率，使敵人陷入冷凍狀態",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 45000,
+    "sell_price": 22500,
+    "weight": 120
+  },
+  "script": "{ bonus bAtkEle,Ele_Water; bonus2 bAddEff,Eff_Freeze,500; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1252,
+      "name": "卡崙",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20803,
+      "name": "深海狄奧斯",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1108,
+      "name": "狄奧斯",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

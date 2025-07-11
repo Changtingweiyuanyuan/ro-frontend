@@ -1,0 +1,69 @@
+{
+  "id": 4038,
+  "name": {
+    "zh_tw": "腐屍卡片",
+    "en": "Zombie_Card"
+  },
+  "icon_url": "/images/items/4038.gif",
+  "category": "卡片",
+  "description": {
+    "official": "HP恢復力+20%",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bHPrecovRate,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2012,
+      "name": "萬聖節腐屍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

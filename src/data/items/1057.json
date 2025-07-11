@@ -1,0 +1,45 @@
+{
+  "id": 1057,
+  "name": {
+    "zh_tw": "蛾蝶翅膀粉末",
+    "en": "Moth_Dust"
+  },
+  "icon_url": "/images/items/1057.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從蛾蝶翅膀上掉落的粉末。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 138,
+    "sell_price": 69,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2842,
+      "name": "精英獵蠅 / 憤怒獵蠅",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1114,
+      "name": "獵蠅",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1199,
+      "name": "朽魔",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2919,
+      "name": "惡靈朽魔 / 變種朽魔",
+      "rate": 15.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1117,
+  "name": {
+    "zh_tw": "武士刀",
+    "en": "Katana_"
+  },
+  "icon_url": "/images/items/1117.gif",
+  "category": "武器",
+  "description": {
+    "official": "非常傳神且做的不錯的刀。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2000,
+    "sell_price": 1000,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2653,
+      "name": "精英青蛇 / 菁英青蛇",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3397,
+      "name": "青蛇",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1025,
+      "name": "青蛇",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1069,
+      "name": "異變魚",
+      "rate": 0.13
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

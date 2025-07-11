@@ -2,7 +2,7 @@
   "id": 3737,
   "name": {
     "zh_tw": "草寇",
-    "en": "左轮手枪"
+    "en": "左輪手槍"
   },
   "image_url": "/images/monsters/3737.gif",
   "basic_info": {
@@ -27,7 +27,7 @@
     "defense": 62,
     "magic_defense": 32,
     "hit_100_percent": 363,
-    "flee_95_percent": 0,
+    "flee_95_percent": 379,
     "base_stats": {
       "str": 76,
       "agi": 52,
@@ -37,6 +37,18 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "rockrdg1",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "rockrdg2",
+      "description": "- 洛克里奇 契瓦瓦沙漠",
+      "spawn_info": ""
+    }
+  ],
   "drops": [
     {
       "item_id": 580,

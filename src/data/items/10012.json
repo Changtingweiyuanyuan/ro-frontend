@@ -1,0 +1,35 @@
+{
+  "id": 10012,
+  "name": {
+    "zh_tw": "寵物蛋殼帽",
+    "en": "Tiny_Egg_Shell"
+  },
+  "icon_url": "/images/items/10012.gif",
+  "category": "可愛寵物裝備",
+  "description": {
+    "official": "寵物專用蛋殼帽。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2712,
+      "name": "精英小雞 / 憤怒小雞",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1050,
+      "name": "蛋殼小雞",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

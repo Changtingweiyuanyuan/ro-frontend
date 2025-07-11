@@ -1,0 +1,80 @@
+{
+  "id": 957,
+  "name": {
+    "zh_tw": "亡者指甲",
+    "en": "Decayed_Nail"
+  },
+  "icon_url": "/images/items/957.gif",
+  "category": "其他類",
+  "description": {
+    "official": "亡者身上的手指甲，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 82,
+    "sell_price": 41,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2606,
+      "name": "精英腐屍 / 憤怒腐屍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3652,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 3653,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 3651,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 3654,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 3650,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 3649,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 1015,
+      "name": "腐屍",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 2012,
+      "name": "萬聖節腐屍",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2953,
+      "name": "討人厭的回憶 / 怨恨的記憶",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2948,
+      "name": "受到詛咒的士兵",
+      "rate": 30.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

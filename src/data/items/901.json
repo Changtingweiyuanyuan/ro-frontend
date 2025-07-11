@@ -1,0 +1,30 @@
+{
+  "id": 901,
+  "name": {
+    "zh_tw": "辮子",
+    "en": "Danggie"
+  },
+  "icon_url": "/images/items/901.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從少女頭上所剪下來的辮子，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 260,
+    "sell_price": 130,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1026,
+      "name": "殭屍",
+      "rate": 45.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1455,
+  "name": {
+    "zh_tw": "長槍",
+    "en": "Glaive_"
+  },
+  "icon_url": "/images/items/1455.gif",
+  "category": "武器",
+  "description": {
+    "official": "是劍還是長矛已經不清楚了，有著大刀刃的長矛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20000,
+    "sell_price": 10000,
+    "weight": 120
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3443,
+      "name": "塔皮",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2878,
+      "name": "精英刺蝟蟲 / 迅捷刺蝟蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 3398,
+      "name": "毒蛇",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1103,
+      "name": "刺蝟蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

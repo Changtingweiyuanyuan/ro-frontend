@@ -1,0 +1,95 @@
+{
+  "id": 705,
+  "name": {
+    "zh_tw": "三葉幸運草",
+    "en": "Clover"
+  },
+  "icon_url": "/images/items/705.gif",
+  "category": "其他類",
+  "description": {
+    "official": "有著三片心型葉子的植物，6至7月間會開著白色的花，有時候還可以找到有四片葉子的，這類的植物名為幸運草，傳說它會為人帶來好運。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3496,
+      "name": "群葉瘋兔",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3497,
+      "name": "草地綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2906,
+      "name": "精英 / 迅捷 泰坦魔芋花",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1184,
+      "name": "綠棉蟲",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2151,
+      "name": "泰坦魔芋花",
+      "rate": 1.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

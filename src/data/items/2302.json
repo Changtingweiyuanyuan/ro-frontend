@@ -1,0 +1,40 @@
+{
+  "id": 2302,
+  "name": {
+    "zh_tw": "棉襯衫",
+    "en": "Cotton_Shirt_"
+  },
+  "icon_url": "/images/items/2302.gif",
+  "category": "防具",
+  "description": {
+    "official": "純棉製成的衣服。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1049,
+      "name": "小雞",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3387,
+      "name": "小雞",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1240,
+      "name": "小雞",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

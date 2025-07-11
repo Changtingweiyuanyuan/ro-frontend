@@ -1,0 +1,49 @@
+{
+  "id": 4002,
+  "name": {
+    "zh_tw": "綠棉蟲卡片",
+    "en": "Fabre_Card"
+  },
+  "icon_url": "/images/items/4002.gif",
+  "category": "卡片",
+  "description": {
+    "official": "VIT+1MHP+100",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bVit,1; bonus bMaxHP,100; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2836,
+      "name": "精英綠棉蟲 / 菁英綠棉蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2835,
+      "name": "精英綠棉蟲 / 雄壯綠棉蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3386,
+      "name": "綠棉蟲",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1007,
+      "name": "綠棉蟲",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1229,
+      "name": "綠棉蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "id": 1002,
+  "name": {
+    "zh_tw": "鐵礦石",
+    "en": "Iron_Ore"
+  },
+  "icon_url": "/images/items/1002.gif",
+  "category": "其他類",
+  "description": {
+    "official": "含有鐵成分的礦石，提煉的話可得到鐵。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 50,
+    "sell_price": 25,
+    "weight": 15
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2756,
+      "name": "精英金屬波利 / 菁英金屬波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2755,
+      "name": "精英金屬波利 / 雄壯金屬波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2857,
+      "name": "精英兵蟻 / 狡猾兵蟻",
+      "rate": 11.25
+    },
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2905,
+      "name": "精英蝸牛 / 狡猾蝸牛",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 8.75
+    },
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2741,
+      "name": "精英摩卡 / 菁英摩卡",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2634,
+      "name": "精英盜蟲 / 憤怒盜蟲",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2633,
+      "name": "精英盜蟲 / 菁英盜蟲",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 2632,
+      "name": "精英盜蟲 / 雄壯盜蟲",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1230,
+      "name": "蟲蛹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1613,
+      "name": "金屬波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1008,
+      "name": "蟲蛹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1977,
+      "name": "礦石波利 / 重金屬波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1212,
+      "name": "鐵蠍",
+      "rate": 3.75
+    },
+    {
+      "monster_id": 3402,
+      "name": "兵蟻",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1105,
+      "name": "兵蟻",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1239,
+      "name": "兵蟻",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1094,
+      "name": "蝸牛",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1053,
+      "name": "浮勒盜蟲",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1178,
+      "name": "傑洛米",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1854,
+      "name": "摩卡",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3400,
+      "name": "摩卡",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1055,
+      "name": "摩卡",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1051,
+      "name": "盜蟲",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1048,
+      "name": "盜蟲卵",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1236,
+      "name": "螞蟻卵",
+      "rate": 1.1
+    },
+    {
+      "monster_id": 1097,
+      "name": "白蟻幼蟲",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

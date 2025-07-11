@@ -1,0 +1,55 @@
+{
+  "id": 2322,
+  "name": {
+    "zh_tw": "絲質外袍",
+    "en": "Silk_Robe_"
+  },
+  "icon_url": "/images/items/2322.gif",
+  "category": "防具",
+  "description": {
+    "official": "用高級的布料製成的衣服，具有卓越的魔法防禦力。MDEF+10",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 8000,
+    "sell_price": 4000,
+    "weight": 40
+  },
+  "script": "{ bonus bMdef,10; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2863,
+      "name": "精英克瑞米 / 迅捷克瑞米",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1754,
+      "name": "褐方體惡魔",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1755,
+      "name": "黑方體惡魔",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2692,
+      "name": "精英 / 菁英 暗●魔法師",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1018,
+      "name": "克瑞米",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1231,
+      "name": "克瑞米",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

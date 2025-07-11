@@ -1,0 +1,245 @@
+{
+  "id": 910,
+  "name": {
+    "zh_tw": "加勒結晶",
+    "en": "Garlet"
+  },
+  "icon_url": "/images/items/910.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 40,
+    "sell_price": 20,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2905,
+      "name": "精英蝸牛 / 狡猾蝸牛",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2762,
+      "name": "精英冰波利 / 憤怒冰波利",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2857,
+      "name": "精英兵蟻 / 狡猾兵蟻",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2642,
+      "name": "精英綠蒼蠅 / 雄壯綠蒼蠅",
+      "rate": 60.0
+    },
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 52.5
+    },
+    {
+      "monster_id": 2703,
+      "name": "精英波波利 / 狡猾波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2702,
+      "name": "精英波波利 / 憤怒波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2701,
+      "name": "精英波波利 / 菁英波波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1392,
+      "name": "直升機哥布靈",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 2902,
+      "name": "精英白蟻 / 雄壯白蟻",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2174,
+      "name": "遠古甲殼類",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 2768,
+      "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1094,
+      "name": "蝸牛",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1242,
+      "name": "冰波利",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3399,
+      "name": "冰波利",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3816,
+      "name": "強化冰波利",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 1857,
+      "name": "冰波利",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 2075,
+      "name": "Ragunta",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1237,
+      "name": "白蟻",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3402,
+      "name": "兵蟻",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1971,
+      "name": "螃蟹_E",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1105,
+      "name": "兵蟻",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1239,
+      "name": "兵蟻",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1042,
+      "name": "綠蒼蠅",
+      "rate": 12.0
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 10.5
+    },
+    {
+      "monster_id": 3814,
+      "name": "強化波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1031,
+      "name": "波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3391,
+      "name": "波波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2707,
+      "name": "精英漂浮蟲 / 憤怒漂浮蟲",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3403,
+      "name": "工蟻",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 1238,
+      "name": "工蟻",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 1160,
+      "name": "工蟻",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 3404,
+      "name": "白蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1095,
+      "name": "白蟻",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1138,
+      "name": "魔鍋蛋",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1856,
+      "name": "魔鍋蛋",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2179,
+      "name": "遠古庫克雷",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1070,
+      "name": "庫克雷",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 3175,
+      "name": "直升機哥布靈",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1161,
+      "name": "漂浮蟲",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1053,
+      "name": "浮勒盜蟲",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2404,
+      "name": "變異幽浮水母",
+      "rate": 0.7
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

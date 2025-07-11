@@ -1,0 +1,35 @@
+{
+  "id": 1916,
+  "name": {
+    "zh_tw": "大地的吉他",
+    "en": "Guitar_Of_Vast_Land"
+  },
+  "icon_url": "/images/items/1916.gif",
+  "category": "武器",
+  "description": {
+    "official": "據說擁有這吉他的人可以和石頭對話的，不過實際上不要嘗試，因為只會留下自身的。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 90
+  },
+  "script": "{ bonus bAtkEle,Ele_Earth; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2680,
+      "name": "精英搖滾蝗蟲 / 狡猾搖滾蝗蟲",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1052,
+      "name": "蝗蟲",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

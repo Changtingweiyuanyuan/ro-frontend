@@ -27,7 +27,7 @@
     "defense": 46,
     "magic_defense": 45,
     "hit_100_percent": 355,
-    "flee_95_percent": 0,
+    "flee_95_percent": 379,
     "base_stats": {
       "str": 84,
       "agi": 46,
@@ -37,6 +37,13 @@
       "luk": 60
     }
   },
+  "spawns": [
+    {
+      "map_name": "gon_dun03",
+      "description": "- 昆崙洞 3層 (武陵道院)",
+      "spawn_info": "2x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 984,

@@ -1,0 +1,42 @@
+{
+  "id": 15126,
+  "name": {
+    "zh_tw": "喵族專屬外套",
+    "en": "Doram_Only_Suit"
+  },
+  "icon_url": "/images/items/15126.gif",
+  "category": "防具",
+  "description": {
+    "official": "愛乾淨的喵族所喜愛的輕裝。MHP+500，MSP+100。精煉值每+3時，DEX+1，INT+1。搭配喵族專屬鞋子、喵族專屬斗篷時，MHP+2000，詠唱不會中斷，固定詠唱-15%。(依外套、鞋子、斗篷的精煉值總和固定詠唱會再增加)套裝資料:杜蘭族專屬的道具套裝杜蘭族專屬的初級葉子套裝杜蘭族專屬的初級兔子套裝杜蘭族專屬的初級魚套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 70
+  },
+  "script": "{ bonus bMaxHP,500; bonus bMaxSP,100; .@r = getrefine()/3; bonus bDex,.@r; bonus bInt,.@r; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2904,
+      "name": "精英毒蛇 / 憤怒毒蛇",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1318,
+      "name": "火焰龜",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1030,
+      "name": "毒蛇",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1135,
+      "name": "刺錘犬妖",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": []
+}

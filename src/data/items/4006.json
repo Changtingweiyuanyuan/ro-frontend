@@ -1,0 +1,44 @@
+{
+  "id": 4006,
+  "name": {
+    "zh_tw": "瘋兔卡片",
+    "en": "Lunatic_Card"
+  },
+  "icon_url": "/images/items/4006.gif",
+  "category": "卡片",
+  "description": {
+    "official": "LUK+1CRI+1完全迴避+1套裝資料:瘋兔卡片 & 藍瘋兔卡片 套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bLuk,1; bonus bCritical,1; bonus bFlee2,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2770,
+      "name": "精英瘋兔 / 雄壯瘋兔",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2771,
+      "name": "精英瘋兔 / 菁英瘋兔",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3385,
+      "name": "瘋兔",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1063,
+      "name": "瘋兔",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": 909,
+  "name": {
+    "zh_tw": "傑勒比結晶",
+    "en": "Jellopy"
+  },
+  "icon_url": "/images/items/909.gif",
+  "category": "其他類",
+  "description": {
+    "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 6,
+    "sell_price": 3,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2698,
+      "name": "精英波利 / 狡猾波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2697,
+      "name": "精英波利 / 憤怒波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2696,
+      "name": "精英波利 / 菁英波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2699,
+      "name": "精英波利 / 迅捷波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2798,
+      "name": "精英蜂兵 / 狡猾蜂兵",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2872,
+      "name": "精英蒼蠅 / 狡猾蒼蠅",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2845,
+      "name": "精英土波利 / 菁英土波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2776,
+      "name": "精英寶貝波利 / 菁英寶貝波利",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2398,
+      "name": "寶貝波利",
+      "rate": 90.0
+    },
+    {
+      "monster_id": 2619,
+      "name": "精英 / 菁英 石斧海盜骷髏",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 3384,
+      "name": "波利",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1113,
+      "name": "土波利",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 1002,
+      "name": "波利",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 3495,
+      "name": "蛋黃波利",
+      "rate": 70.0
+    },
+    {
+      "monster_id": 2633,
+      "name": "精英盜蟲 / 菁英盜蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1766,
+      "name": "天使波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2632,
+      "name": "精英盜蟲 / 雄壯盜蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3815,
+      "name": "強化波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2634,
+      "name": "精英盜蟲 / 憤怒盜蟲",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 3813,
+      "name": "強化土波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1767,
+      "name": "惡魔波利",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1004,
+      "name": "蜂兵",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3498,
+      "name": "狂野蜂兵",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1076,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2643,
+      "name": "精英 / 菁英 石頭波利",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1973,
+      "name": "波利_E",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 3407,
+      "name": "蒼蠅",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1011,
+      "name": "蒼蠅",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2405,
+      "name": "石斧海盜骷髏",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1236,
+      "name": "螞蟻卵",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2316,
+      "name": "食人波利",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1051,
+      "name": "盜蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1097,
+      "name": "白蟻幼蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1183,
+      "name": "蒼蠅",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1784,
+      "name": "石頭波利",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

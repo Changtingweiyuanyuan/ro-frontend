@@ -27,7 +27,7 @@
     "defense": 197,
     "magic_defense": 70,
     "hit_100_percent": 340,
-    "flee_95_percent": 0,
+    "flee_95_percent": 378,
     "base_stats": {
       "str": 97,
       "agi": 82,
@@ -37,6 +37,23 @@
       "luk": 43
     }
   },
+  "spawns": [
+    {
+      "map_name": "2@orcs",
+      "description": "- 獸人地下洞穴 2樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "3@tower",
+      "description": "- 無限塔 (魔物終結塔) 3樓",
+      "spawn_info": ""
+    },
+    {
+      "map_name": "gef_fild03",
+      "description": "- 吉芬 區域",
+      "spawn_info": "1x / 60~70 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 968,

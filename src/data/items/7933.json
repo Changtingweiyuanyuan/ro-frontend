@@ -1,0 +1,32 @@
+{
+  "id": 7933,
+  "name": {
+    "zh_tw": "毒草馬纓丹",
+    "en": "Poison_Herb_Rantana"
+  },
+  "icon_url": "/images/items/7933.gif",
+  "category": "其他類",
+  "description": {
+    "official": "危險: 看起來美味的紅果實，其味道猶如動物的排泄物。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1,
+    "sell_price": 0,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1078,
+      "name": "紅草",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3751,
+      "name": "活死人",
+      "rate": 0.6
+    }
+  ],
+  "obtained_from": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1042,
+  "name": {
+    "zh_tw": "昆蟲後腳",
+    "en": "Short_Leg"
+  },
+  "icon_url": "/images/items/1042.gif",
+  "category": "其他類",
+  "description": {
+    "official": "昆蟲又細又短的腿。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 430,
+    "sell_price": 215,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2873,
+      "name": "精英突變蜈蚣 / 迅捷變異蜈蚣",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2892,
+      "name": "精英 / 迅捷 艾吉歐蜈蚣",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2891,
+      "name": "精英 / 狡猾 艾吉歐蜈蚣",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1099,
+      "name": "艾吉歐蜈蚣",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1987,
+      "name": "變異蜈蚣",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1999,
+      "name": "變異蜈蚣幼蟲",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1305,
+      "name": "狂暴蜈蚣",
+      "rate": 22.07
+    },
+    {
+      "monster_id": 2890,
+      "name": "精英艾斯蜘蛛 / 憤怒艾斯蜘蛛",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1304,
+      "name": "狂暴蜘蛛",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3507,
+      "name": "果實食人蜘蛛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2132,
+      "name": "食人蜘蛛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1100,
+      "name": "艾斯蜘蛛",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

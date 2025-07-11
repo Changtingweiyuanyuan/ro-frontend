@@ -1,0 +1,39 @@
+{
+  "id": 4049,
+  "name": {
+    "zh_tw": "螃蟹卡片",
+    "en": "Vadon_Card"
+  },
+  "icon_url": "/images/items/4049.gif",
+  "category": "卡片",
+  "description": {
+    "official": "對火屬性魔物增加20%的傷害。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddEle,Ele_Fire,20; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2628,
+      "name": "精英螃蟹 / 雄壯螃蟹",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1971,
+      "name": "螃蟹_E",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1066,
+      "name": "螃蟹",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

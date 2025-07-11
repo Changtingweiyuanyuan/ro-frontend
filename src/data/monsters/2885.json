@@ -27,7 +27,7 @@
     "defense": 61,
     "magic_defense": 89,
     "hit_100_percent": 345,
-    "flee_95_percent": 0,
+    "flee_95_percent": 339,
     "base_stats": {
       "str": 66,
       "agi": 49,
@@ -37,54 +37,61 @@
       "luk": 50
     }
   },
+  "spawns": [
+    {
+      "map_name": "alde_dun04",
+      "description": "- 艾爾帕蘭 鐘塔地下樓層 4樓",
+      "spawn_info": "1x / 5 分鐘"
+    }
+  ],
   "drops": [
     {
       "item_id": 637,
       "name": "魔物掃把",
       "rate": 0.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/637.gif"
+      "icon_url": "/images/items/637.gif"
     },
     {
       "item_id": 1000,
       "name": "星星的角",
       "rate": 0.75,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1000.gif"
+      "icon_url": "/images/items/1000.gif"
     },
     {
       "item_id": 1001,
       "name": "星星的粉末",
       "rate": 5.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1001.gif"
+      "icon_url": "/images/items/1001.gif"
     },
     {
       "item_id": 1006,
       "name": "古魔法書",
       "rate": 0.4,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1006.gif"
+      "icon_url": "/images/items/1006.gif"
     },
     {
       "item_id": 1061,
       "name": "魔女之星沙",
       "rate": 100.0,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1061.gif"
+      "icon_url": "/images/items/1061.gif"
     },
     {
       "item_id": 1680,
       "name": "緋紅色權仗[2]",
       "rate": 2.5,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/1680.gif"
+      "icon_url": "/images/items/1680.gif"
     },
     {
       "item_id": 2252,
       "name": "魔法帽",
       "rate": 0.1,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/2252.gif"
+      "icon_url": "/images/items/2252.gif"
     },
     {
       "item_id": 4119,
       "name": "巫婆卡片",
       "rate": 0.05,
-      "icon_url": "https://file5s.ratemyserver.net/items/small/card.gif"
+      "icon_url": "/images/items/card.gif"
     }
   ]
 }

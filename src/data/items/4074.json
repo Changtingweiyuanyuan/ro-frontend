@@ -1,0 +1,44 @@
+{
+  "id": 4074,
+  "name": {
+    "zh_tw": "大腳熊卡片",
+    "en": "BigFoot_Card"
+  },
+  "icon_url": "/images/items/4074.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到昆蟲系魔物攻擊時，可減少30%的傷害。套裝資料:大腳熊卡片 & 暴焰野熊卡片 套裝",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bSubRace,RC_Insect,30; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2884,
+      "name": "精英大腳熊 / 菁英大腳熊",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2095,
+      "name": "虎王_E",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3394,
+      "name": "大腳熊",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1060,
+      "name": "大腳熊",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}
