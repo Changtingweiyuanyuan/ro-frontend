@@ -1,0 +1,34 @@
+{
+  "id": 4307,
+  "name": {
+    "zh_tw": "巨象甲蟲卡片",
+    "en": "Kind_Of_Beetle_Card"
+  },
+  "icon_url": "/images/items/4307.gif",
+  "category": "卡片",
+  "description": {
+    "official": "每當用近距離物理攻擊擊殺魚貝系魔物時，SP可恢復到5裝備解除時，SP會減少5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bSPGainRace,RC_Fish,5; },{},{ heal 0,-5; }",
+  "dropped_by": [
+    {
+      "monster_id": 2787,
+      "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1494,
+      "name": "巨象甲蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

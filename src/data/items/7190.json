@@ -1,0 +1,35 @@
+{
+  "id": 7190,
+  "name": {
+    "zh_tw": "昆蟲硬殼",
+    "en": "Solid_Peeling"
+  },
+  "icon_url": "/images/items/7190.gif",
+  "category": "其他類",
+  "description": {
+    "official": "看起來很堅固的昆蟲硬殼。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 140,
+    "sell_price": 70,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2787,
+      "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1494,
+      "name": "巨象甲蟲",
+      "rate": 32.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

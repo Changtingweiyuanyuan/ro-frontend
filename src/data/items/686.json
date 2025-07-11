@@ -1,0 +1,32 @@
+{
+  "id": 686,
+  "name": {
+    "zh_tw": "地震術 等級3",
+    "en": "Earth_Scroll_1_3"
+  },
+  "icon_url": "/images/items/686.gif",
+  "category": "延遲消耗類",
+  "description": {
+    "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著地屬性的魔法，可使用等級3的地震術。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 1
+  },
+  "script": "{ itemskill \"WZ_EARTHSPIKE\",3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

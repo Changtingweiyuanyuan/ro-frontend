@@ -1,0 +1,111 @@
+{
+  "id": 529,
+  "name": {
+    "zh_tw": "糖果",
+    "en": "Candy"
+  },
+  "icon_url": "/images/items/529.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "味道甜美的糖果，可恢復45點HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10,
+    "sell_price": 5,
+    "weight": 3
+  },
+  "script": "{ itemheal rand(45,65),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1812,
+      "name": "南瓜魂",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2220,
+      "name": "萬聖魔_E",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 1244,
+      "name": "聖誕南瓜先生",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1245,
+      "name": "聖誕哥布靈",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1588,
+      "name": "聖誕獸人戰士",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1062,
+      "name": "聖誕波利",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 2025,
+      "name": "瘋狂的禮物箱",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2762,
+      "name": "精英冰波利 / 憤怒冰波利",
+      "rate": 8.75
+    },
+    {
+      "monster_id": 2737,
+      "name": "精英邪惡禮盒 / 憤怒邪惡禮盒",
+      "rate": 8.5
+    },
+    {
+      "monster_id": 2865,
+      "name": "精英甜餅人 / 菁英甜餅人",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 2211,
+      "name": "玩偶熊_E",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3399,
+      "name": "冰波利",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1857,
+      "name": "冰波利",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1242,
+      "name": "冰波利",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 3816,
+      "name": "強化冰波利",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1249,
+      "name": "邪惡禮盒",
+      "rate": 1.7
+    },
+    {
+      "monster_id": 1265,
+      "name": "綠餅人",
+      "rate": 1.6
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

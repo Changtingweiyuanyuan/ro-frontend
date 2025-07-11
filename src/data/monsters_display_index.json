@@ -13230,5 +13230,2207 @@
         "icon_url": "images/items/10003.gif"
       }
     ]
+  },
+  {
+    "id": 1277,
+    "name": {
+      "zh_tw": "將軍魔碑",
+      "en": "GREATEST_GENERAL"
+    },
+    "image_url": "/images/monsters/1277.gif",
+    "basic_info": {
+      "level": 55,
+      "race": "無形",
+      "element": {
+        "type": "火",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1575,
+      "attack": {
+        "min": 293,
+        "max": 385
+      },
+      "magic_attack": {
+        "min": 98,
+        "max": 114
+      },
+      "defense": 114,
+      "magic_defense": 30,
+      "hit_100_percent": 289,
+      "flee_95_percent": 259,
+      "base_stats": {
+        "str": 58,
+        "agi": 30,
+        "vit": 20,
+        "int": 25,
+        "dex": 28,
+        "luk": 20
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@face",
+        "description": "- 人面蟲洞穴",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "pay_dun03",
+        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+        "spawn_info": "3x / 5 秒"
+      },
+      {
+        "map_name": "pay_dun04",
+        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+        "spawn_info": "15x / 5 秒"
+      },
+      {
+        "map_name": "pay_fild10",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "129x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 508,
+        "name": "黃色藥草",
+        "rate": 1.25,
+        "icon_url": "/images/items/508.gif"
+      },
+      {
+        "item_id": 662,
+        "name": "馬牌",
+        "rate": 1.5,
+        "icon_url": "/images/items/662.gif"
+      },
+      {
+        "item_id": 686,
+        "name": "地震術 等級3",
+        "rate": 0.5,
+        "icon_url": "/images/items/686.gif"
+      },
+      {
+        "item_id": 1019,
+        "name": "瑪哪樹枝",
+        "rate": 10.0,
+        "icon_url": "/images/items/1019.gif"
+      },
+      {
+        "item_id": 1501,
+        "name": "木錘[3]",
+        "rate": 0.5,
+        "icon_url": "/images/items/1501.gif"
+      },
+      {
+        "item_id": 2272,
+        "name": "停止標誌頭飾",
+        "rate": 0.01,
+        "icon_url": "/images/items/2272.gif"
+      },
+      {
+        "item_id": 4283,
+        "name": "將軍魔碑卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/card.gif"
+      },
+      {
+        "item_id": 7054,
+        "name": "布里刊",
+        "rate": 10.0,
+        "icon_url": "/images/items/7054.gif"
+      }
+    ]
+  },
+  {
+    "id": 1494,
+    "name": {
+      "zh_tw": "巨象甲蟲",
+      "en": "KIND_OF_BEETLE"
+    },
+    "image_url": "images/monsters/1494.gif",
+    "basic_info": {
+      "level": 55,
+      "race": "昆蟲",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 2061,
+      "attack": {
+        "min": 200,
+        "max": 248
+      },
+      "magic_attack": {
+        "min": 92,
+        "max": 124
+      },
+      "defense": 79,
+      "magic_defense": 8,
+      "hit_100_percent": 302,
+      "flee_95_percent": 275,
+      "base_stats": {
+        "str": 53,
+        "agi": 47,
+        "vit": 10,
+        "int": 1,
+        "dex": 50,
+        "luk": 1
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@face",
+        "description": "- 人面蟲洞穴",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "mjolnir_07",
+        "description": "- 妙勒尼 山脈",
+        "spawn_info": "34x / 5 秒"
+      },
+      {
+        "map_name": "mjolnir_08",
+        "description": "- 妙勒尼 山脈",
+        "spawn_info": "169x / 5 秒"
+      },
+      {
+        "map_name": "mjolnir_10",
+        "description": "- 妙勒尼 山脈",
+        "spawn_info": "41x / 5 秒"
+      },
+      {
+        "map_name": "pay_fild10",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "64x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 928,
+        "name": "昆蟲觸角",
+        "rate": 5.0,
+        "icon_url": "images/items/928.gif"
+      },
+      {
+        "item_id": 955,
+        "name": "昆蟲外殼",
+        "rate": 2.5,
+        "icon_url": "images/items/955.gif"
+      },
+      {
+        "item_id": 2102,
+        "name": "鐵盾[1]",
+        "rate": 0.01,
+        "icon_url": "images/items/2102.gif"
+      },
+      {
+        "item_id": 4307,
+        "name": "巨象甲蟲卡片",
+        "rate": 0.01,
+        "icon_url": "images/items/card.gif"
+      },
+      {
+        "item_id": 7190,
+        "name": "昆蟲硬殼",
+        "rate": 32.5,
+        "icon_url": "images/items/7190.gif"
+      },
+      {
+        "item_id": 7202,
+        "name": "巨象甲蟲之螯",
+        "rate": 22.5,
+        "icon_url": "images/items/7202.gif"
+      }
+    ]
+  },
+  {
+    "id": 2572,
+    "name": {
+      "zh_tw": "刺蝟蟲",
+      "en": "G_CARAMEL"
+    },
+    "image_url": "images/monsters/2572.gif",
+    "basic_info": {
+      "level": 25,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 518,
+      "attack": {
+        "min": 97,
+        "max": 125
+      },
+      "magic_attack": {
+        "min": 41,
+        "max": 47
+      },
+      "defense": 39,
+      "magic_defense": 0,
+      "hit_100_percent": 236,
+      "flee_95_percent": 228,
+      "base_stats": {
+        "str": 19,
+        "agi": 10,
+        "vit": 15,
+        "int": 10,
+        "dex": 32,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@def01",
+        "description": "- 波動模式迷宮 - 森林",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
+  },
+  {
+    "id": 2575,
+    "name": {
+      "zh_tw": "松鼠",
+      "en": "G_COCO"
+    },
+    "image_url": "images/monsters/2575.gif",
+    "basic_info": {
+      "level": 38,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 836,
+      "attack": {
+        "min": 116,
+        "max": 146
+      },
+      "magic_attack": {
+        "min": 65,
+        "max": 73
+      },
+      "defense": 37,
+      "magic_defense": 0,
+      "hit_100_percent": 253,
+      "flee_95_percent": 249,
+      "base_stats": {
+        "str": 22,
+        "agi": 13,
+        "vit": 30,
+        "int": 20,
+        "dex": 38,
+        "luk": 10
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@def01",
+        "description": "- 波動模式迷宮 - 森林",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
+  },
+  {
+    "id": 2576,
+    "name": {
+      "zh_tw": "克瑞米",
+      "en": "G_CREAMY"
+    },
+    "image_url": "images/monsters/2576.gif",
+    "basic_info": {
+      "level": 23,
+      "race": "昆蟲",
+      "element": {
+        "type": "風",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 378,
+      "attack": {
+        "min": 87,
+        "max": 113
+      },
+      "magic_attack": {
+        "min": 24,
+        "max": 26
+      },
+      "defense": 28,
+      "magic_defense": 20,
+      "hit_100_percent": 228,
+      "flee_95_percent": 200,
+      "base_stats": {
+        "str": 16,
+        "agi": 1,
+        "vit": 1,
+        "int": 1,
+        "dex": 1,
+        "luk": 20
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@def01",
+        "description": "- 波動模式迷宮 - 森林",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
+  },
+  {
+    "id": 2578,
+    "name": {
+      "zh_tw": "鍬形蟲",
+      "en": "G_HORN"
+    },
+    "image_url": "images/monsters/2578.gif",
+    "basic_info": {
+      "level": 32,
+      "race": "昆蟲",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 705,
+      "attack": {
+        "min": 93,
+        "max": 119
+      },
+      "magic_attack": {
+        "min": 64,
+        "max": 72
+      },
+      "defense": 52,
+      "magic_defense": 8,
+      "hit_100_percent": 251,
+      "flee_95_percent": 234,
+      "base_stats": {
+        "str": 10,
+        "agi": 12,
+        "vit": 36,
+        "int": 25,
+        "dex": 21,
+        "luk": 35
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@def01",
+        "description": "- 波動模式迷宮 - 森林",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
+  },
+  {
+    "id": 2591,
+    "name": {
+      "zh_tw": "野豬",
+      "en": "G_SAVAGE"
+    },
+    "image_url": "images/monsters/2591.gif",
+    "basic_info": {
+      "level": 59,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 2
+      },
+      "size": "大"
+    },
+    "stats": {
+      "hp": 2301,
+      "attack": {
+        "min": 259,
+        "max": 333
+      },
+      "magic_attack": {
+        "min": 85,
+        "max": 99
+      },
+      "defense": 126,
+      "magic_defense": 3,
+      "hit_100_percent": 283,
+      "flee_95_percent": 286,
+      "base_stats": {
+        "str": 56,
+        "agi": 21,
+        "vit": 54,
+        "int": 10,
+        "dex": 52,
+        "luk": 15
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@def01",
+        "description": "- 波動模式迷宮 - 森林",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
+  },
+  {
+    "id": 2595,
+    "name": {
+      "zh_tw": "瓢蟲",
+      "en": "G_STAINER"
+    },
+    "image_url": "images/monsters/2595.gif",
+    "basic_info": {
+      "level": 21,
+      "race": "昆蟲",
+      "element": {
+        "type": "風",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 365,
+      "attack": {
+        "min": 83,
+        "max": 109
+      },
+      "magic_attack": {
+        "min": 28,
+        "max": 34
+      },
+      "defense": 22,
+      "magic_defense": 25,
+      "hit_100_percent": 234,
+      "flee_95_percent": 235,
+      "base_stats": {
+        "str": 10,
+        "agi": 10,
+        "vit": 24,
+        "int": 1,
+        "dex": 39,
+        "luk": 15
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@def01",
+        "description": "- 波動模式迷宮 - 森林",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
+  },
+  {
+    "id": 2610,
+    "name": {
+      "zh_tw": "精英森靈 / 菁英森靈",
+      "en": "C3_WORM_TAIL"
+    },
+    "image_url": "images/monsters/2610.gif",
+    "basic_info": {
+      "level": 17,
+      "race": "植物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1000,
+      "attack": {
+        "min": 47,
+        "max": 59
+      },
+      "magic_attack": {
+        "min": 25,
+        "max": 29
+      },
+      "defense": 16,
+      "magic_defense": 0,
+      "hit_100_percent": 230,
+      "flee_95_percent": 210,
+      "base_stats": {
+        "str": 10,
+        "agi": 6,
+        "vit": 14,
+        "int": 5,
+        "dex": 12,
+        "luk": 35
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild06",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "3x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 508,
+        "name": "黃色藥草",
+        "rate": 1.75,
+        "icon_url": "images/items/508.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 906,
+        "name": "鱗片梗",
+        "rate": 100.0,
+        "icon_url": "images/items/906.gif"
+      },
+      {
+        "item_id": 993,
+        "name": "地靈礦石",
+        "rate": 1.5,
+        "icon_url": "images/items/993.gif"
+      },
+      {
+        "item_id": 1011,
+        "name": "強化武器金屬-級數二",
+        "rate": 0.65,
+        "icon_url": "images/items/1011.gif"
+      },
+      {
+        "item_id": 1408,
+        "name": "步兵長矛[4]",
+        "rate": 0.75,
+        "icon_url": "images/items/1408.gif"
+      },
+      {
+        "item_id": 4034,
+        "name": "森靈卡片",
+        "rate": 0.05,
+        "icon_url": "images/items/card.gif"
+      },
+      {
+        "item_id": 10015,
+        "name": "寵物圍兜兜",
+        "rate": 2.5,
+        "icon_url": "images/items/10015.gif"
+      }
+    ]
+  },
+  {
+    "id": 2615,
+    "name": {
+      "zh_tw": "精英樹精 / 菁英樹精",
+      "en": "C3_WILOW"
+    },
+    "image_url": "/images/monsters/2615.gif",
+    "basic_info": {
+      "level": 8,
+      "race": "植物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 455,
+      "attack": {
+        "min": 33,
+        "max": 39
+      },
+      "magic_attack": {
+        "min": 16,
+        "max": 20
+      },
+      "defense": 38,
+      "magic_defense": 2,
+      "hit_100_percent": 212,
+      "flee_95_percent": 191,
+      "base_stats": {
+        "str": 13,
+        "agi": 3,
+        "vit": 8,
+        "int": 5,
+        "dex": 12,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild01",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 516,
+        "name": "番薯",
+        "rate": 50.0,
+        "icon_url": "/images/items/516.gif"
+      },
+      {
+        "item_id": 902,
+        "name": "樹根",
+        "rate": 100.0,
+        "icon_url": "/images/items/902.gif"
+      },
+      {
+        "item_id": 907,
+        "name": "枯木汁",
+        "rate": 100.0,
+        "icon_url": "/images/items/907.gif"
+      },
+      {
+        "item_id": 1019,
+        "name": "瑪哪樹枝",
+        "rate": 5.0,
+        "icon_url": "/images/items/1019.gif"
+      },
+      {
+        "item_id": 1066,
+        "name": "天地樹枝",
+        "rate": 50.0,
+        "icon_url": "/images/items/1066.gif"
+      },
+      {
+        "item_id": 1067,
+        "name": "智慧樹枝",
+        "rate": 100.0,
+        "icon_url": "/images/items/1067.gif"
+      },
+      {
+        "item_id": 1068,
+        "name": "世界樹枝",
+        "rate": 100.0,
+        "icon_url": "/images/items/1068.gif"
+      },
+      {
+        "item_id": 4010,
+        "name": "樹精卡片",
+        "rate": 0.5,
+        "icon_url": "/images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 2646,
+    "name": {
+      "zh_tw": "精英魔菇 / 迅捷魔菇",
+      "en": "C1_SPORE"
+    },
+    "image_url": "images/monsters/2646.gif",
+    "basic_info": {
+      "level": 18,
+      "race": "植物",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1400,
+      "attack": {
+        "min": 57,
+        "max": 69
+      },
+      "magic_attack": {
+        "min": 24,
+        "max": 30
+      },
+      "defense": 12,
+      "magic_defense": 10,
+      "hit_100_percent": 223,
+      "flee_95_percent": 200,
+      "base_stats": {
+        "str": 15,
+        "agi": 5,
+        "vit": 10,
+        "int": 1,
+        "dex": 12,
+        "luk": 1
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "treasure_n1",
+        "description": "- 依斯魯得島 遇難船 1樓",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 507,
+        "name": "紅色藥草",
+        "rate": 50.0,
+        "icon_url": "images/items/507.gif"
+      },
+      {
+        "item_id": 578,
+        "name": "草莓",
+        "rate": 30.0,
+        "icon_url": "images/items/578.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 743,
+        "name": "魔菇娃娃",
+        "rate": 0.5,
+        "icon_url": "images/items/743.gif"
+      },
+      {
+        "item_id": 921,
+        "name": "香菇芽孢",
+        "rate": 100.0,
+        "icon_url": "images/items/921.gif"
+      },
+      {
+        "item_id": 2220,
+        "name": "漁夫帽",
+        "rate": 1.5,
+        "icon_url": "images/items/2220.gif"
+      },
+      {
+        "item_id": 4022,
+        "name": "魔菇卡片",
+        "rate": 0.5,
+        "icon_url": "images/items/card.gif"
+      },
+      {
+        "item_id": 7033,
+        "name": "毒魔菇芽孢",
+        "rate": 0.5,
+        "icon_url": "images/items/7033.gif"
+      }
+    ]
+  },
+  {
+    "id": 2653,
+    "name": {
+      "zh_tw": "精英青蛇 / 菁英青蛇",
+      "en": "C3_SNAKE"
+    },
+    "image_url": "/images/monsters/2653.gif",
+    "basic_info": {
+      "level": 18,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1085,
+      "attack": {
+        "min": 49,
+        "max": 61
+      },
+      "magic_attack": {
+        "min": 31,
+        "max": 35
+      },
+      "defense": 9,
+      "magic_defense": 8,
+      "hit_100_percent": 229,
+      "flee_95_percent": 207,
+      "base_stats": {
+        "str": 10,
+        "agi": 8,
+        "vit": 18,
+        "int": 10,
+        "dex": 14,
+        "luk": 15
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild02",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "3x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 507,
+        "name": "紅色藥草",
+        "rate": 40.0,
+        "icon_url": "/images/items/507.gif"
+      },
+      {
+        "item_id": 578,
+        "name": "草莓",
+        "rate": 100.0,
+        "icon_url": "/images/items/578.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "/images/items/601.gif"
+      },
+      {
+        "item_id": 926,
+        "name": "蛇鱗",
+        "rate": 100.0,
+        "icon_url": "/images/items/926.gif"
+      },
+      {
+        "item_id": 937,
+        "name": "毒牙",
+        "rate": 40.0,
+        "icon_url": "/images/items/937.gif"
+      },
+      {
+        "item_id": 1011,
+        "name": "強化武器金屬-級數二",
+        "rate": 5.0,
+        "icon_url": "/images/items/1011.gif"
+      },
+      {
+        "item_id": 1117,
+        "name": "武士刀[4]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1117.gif"
+      },
+      {
+        "item_id": 4037,
+        "name": "青蛇卡片",
+        "rate": 0.5,
+        "icon_url": "/images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 2703,
+    "name": {
+      "zh_tw": "精英波波利 / 狡猾波波利",
+      "en": "C5_POPORING"
+    },
+    "image_url": "images/monsters/2703.gif",
+    "basic_info": {
+      "level": 30,
+      "race": "植物",
+      "element": {
+        "type": "毒",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 2620,
+      "attack": {
+        "min": 117,
+        "max": 153
+      },
+      "magic_attack": {
+        "min": 62,
+        "max": 74
+      },
+      "defense": 36,
+      "magic_defense": 17,
+      "hit_100_percent": 257,
+      "flee_95_percent": 237,
+      "base_stats": {
+        "str": 17,
+        "agi": 26,
+        "vit": 20,
+        "int": 18,
+        "dex": 36,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild04",
+        "description": "- 蘇克拉特 沙漠",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 511,
+        "name": "綠色藥草",
+        "rate": 50.0,
+        "icon_url": "images/items/511.gif"
+      },
+      {
+        "item_id": 512,
+        "name": "蘋果",
+        "rate": 6.25,
+        "icon_url": "images/items/512.gif"
+      },
+      {
+        "item_id": 514,
+        "name": "葡萄",
+        "rate": 10.0,
+        "icon_url": "images/items/514.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 910,
+        "name": "加勒結晶",
+        "rate": 50.0,
+        "icon_url": "images/items/910.gif"
+      },
+      {
+        "item_id": 938,
+        "name": "粘稠液體",
+        "rate": 100.0,
+        "icon_url": "images/items/938.gif"
+      },
+      {
+        "item_id": 1207,
+        "name": "笨拙短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1207.gif"
+      },
+      {
+        "item_id": 4033,
+        "name": "波波利卡片",
+        "rate": 0.5,
+        "icon_url": "images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 2800,
+    "name": {
+      "zh_tw": "精英鍬形蟲 / 雄壯鍬形蟲",
+      "en": "C2_HORN"
+    },
+    "image_url": "images/monsters/2800.gif",
+    "basic_info": {
+      "level": 32,
+      "race": "昆蟲",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 7050,
+      "attack": {
+        "min": 102,
+        "max": 134
+      },
+      "magic_attack": {
+        "min": 64,
+        "max": 72
+      },
+      "defense": 52,
+      "magic_defense": 8,
+      "hit_100_percent": 251,
+      "flee_95_percent": 234,
+      "base_stats": {
+        "str": 10,
+        "agi": 12,
+        "vit": 36,
+        "int": 25,
+        "dex": 21,
+        "luk": 35
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild09",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 935,
+        "name": "堅硬外殼",
+        "rate": 100.0,
+        "icon_url": "images/items/935.gif"
+      },
+      {
+        "item_id": 943,
+        "name": "堅硬外皮",
+        "rate": 1.75,
+        "icon_url": "images/items/943.gif"
+      },
+      {
+        "item_id": 947,
+        "name": "硬角",
+        "rate": 100.0,
+        "icon_url": "images/items/947.gif"
+      },
+      {
+        "item_id": 993,
+        "name": "地靈礦石",
+        "rate": 2.0,
+        "icon_url": "images/items/993.gif"
+      },
+      {
+        "item_id": 1011,
+        "name": "強化武器金屬-級數二",
+        "rate": 0.9,
+        "icon_url": "images/items/1011.gif"
+      },
+      {
+        "item_id": 1452,
+        "name": "彎刃長矛[3]",
+        "rate": 0.4,
+        "icon_url": "images/items/1452.gif"
+      },
+      {
+        "item_id": 4045,
+        "name": "鍬形蟲卡片",
+        "rate": 0.05,
+        "icon_url": "images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 2809,
+    "name": {
+      "zh_tw": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "en": "C1_GREATEST_GENERAL"
+    },
+    "image_url": "/images/monsters/2809.gif",
+    "basic_info": {
+      "level": 55,
+      "race": "無形",
+      "element": {
+        "type": "火",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 7875,
+      "attack": {
+        "min": 329,
+        "max": 439
+      },
+      "magic_attack": {
+        "min": 98,
+        "max": 114
+      },
+      "defense": 114,
+      "magic_defense": 30,
+      "hit_100_percent": 289,
+      "flee_95_percent": 259,
+      "base_stats": {
+        "str": 58,
+        "agi": 30,
+        "vit": 20,
+        "int": 25,
+        "dex": 28,
+        "luk": 20
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild10",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 508,
+        "name": "黃色藥草",
+        "rate": 6.25,
+        "icon_url": "/images/items/508.gif"
+      },
+      {
+        "item_id": 662,
+        "name": "馬牌",
+        "rate": 7.5,
+        "icon_url": "/images/items/662.gif"
+      },
+      {
+        "item_id": 686,
+        "name": "地震術 等級3",
+        "rate": 2.5,
+        "icon_url": "/images/items/686.gif"
+      },
+      {
+        "item_id": 1019,
+        "name": "瑪哪樹枝",
+        "rate": 50.0,
+        "icon_url": "/images/items/1019.gif"
+      },
+      {
+        "item_id": 1501,
+        "name": "木錘[3]",
+        "rate": 2.5,
+        "icon_url": "/images/items/1501.gif"
+      },
+      {
+        "item_id": 2272,
+        "name": "停止標誌頭飾",
+        "rate": 0.05,
+        "icon_url": "/images/items/2272.gif"
+      },
+      {
+        "item_id": 4283,
+        "name": "將軍魔碑卡片",
+        "rate": 0.05,
+        "icon_url": "/images/items/card.gif"
+      },
+      {
+        "item_id": 7054,
+        "name": "布里刊",
+        "rate": 50.0,
+        "icon_url": "/images/items/7054.gif"
+      }
+    ]
+  },
+  {
+    "id": 2836,
+    "name": {
+      "zh_tw": "精英綠棉蟲 / 菁英綠棉蟲",
+      "en": "C3_FABRE"
+    },
+    "image_url": "images/monsters/2836.gif",
+    "basic_info": {
+      "level": 6,
+      "race": "昆蟲",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 360,
+      "attack": {
+        "min": 29,
+        "max": 35
+      },
+      "magic_attack": {
+        "min": 13,
+        "max": 15
+      },
+      "defense": 24,
+      "magic_defense": 0,
+      "hit_100_percent": 212,
+      "flee_95_percent": 189,
+      "base_stats": {
+        "str": 12,
+        "agi": 5,
+        "vit": 5,
+        "int": 5,
+        "dex": 12,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild03",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "3x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 511,
+        "name": "綠色藥草",
+        "rate": 100.0,
+        "icon_url": "images/items/511.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 705,
+        "name": "三葉幸運草",
+        "rate": 50.0,
+        "icon_url": "images/items/705.gif"
+      },
+      {
+        "item_id": 914,
+        "name": "毛",
+        "rate": 100.0,
+        "icon_url": "images/items/914.gif"
+      },
+      {
+        "item_id": 949,
+        "name": "柔毛",
+        "rate": 50.0,
+        "icon_url": "images/items/949.gif"
+      },
+      {
+        "item_id": 1501,
+        "name": "木錘[3]",
+        "rate": 10.0,
+        "icon_url": "images/items/1501.gif"
+      },
+      {
+        "item_id": 1502,
+        "name": "木錘[4]",
+        "rate": 4.0,
+        "icon_url": "images/items/1502.gif"
+      },
+      {
+        "item_id": 4002,
+        "name": "綠棉蟲卡片",
+        "rate": 1.0,
+        "icon_url": "images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 2884,
+    "name": {
+      "zh_tw": "精英大腳熊 / 菁英大腳熊",
+      "en": "C3_BIGFOOT"
+    },
+    "image_url": "images/monsters/2884.gif",
+    "basic_info": {
+      "level": 29,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "大"
+    },
+    "stats": {
+      "hp": 2935,
+      "attack": {
+        "min": 95,
+        "max": 119
+      },
+      "magic_attack": {
+        "min": 38,
+        "max": 46
+      },
+      "defense": 55,
+      "magic_defense": 7,
+      "hit_100_percent": 233,
+      "flee_95_percent": 211,
+      "base_stats": {
+        "str": 18,
+        "agi": 4,
+        "vit": 7,
+        "int": 1,
+        "dex": 12,
+        "luk": 1
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild07",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 516,
+        "name": "番薯",
+        "rate": 37.5,
+        "icon_url": "images/items/516.gif"
+      },
+      {
+        "item_id": 518,
+        "name": "蜂蜜",
+        "rate": 11.25,
+        "icon_url": "images/items/518.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 756,
+        "name": "神之金屬原石",
+        "rate": 1.1,
+        "icon_url": "images/items/756.gif"
+      },
+      {
+        "item_id": 919,
+        "name": "動物外皮",
+        "rate": 100.0,
+        "icon_url": "images/items/919.gif"
+      },
+      {
+        "item_id": 948,
+        "name": "熊掌",
+        "rate": 100.0,
+        "icon_url": "images/items/948.gif"
+      },
+      {
+        "item_id": 2289,
+        "name": "糞便帽",
+        "rate": 0.15,
+        "icon_url": "images/items/2289.gif"
+      },
+      {
+        "item_id": 4074,
+        "name": "大腳熊卡片",
+        "rate": 0.05,
+        "icon_url": "images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 3384,
+    "name": {
+      "zh_tw": "波利",
+      "en": "MIN_PORING"
+    },
+    "image_url": "/images/monsters/3384.gif",
+    "basic_info": {
+      "level": 100,
+      "race": "植物",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 25000,
+      "attack": {
+        "min": 843,
+        "max": 1161
+      },
+      "magic_attack": {
+        "min": 180,
+        "max": 222
+      },
+      "defense": 146,
+      "magic_defense": 5,
+      "hit_100_percent": 353,
+      "flee_95_percent": 397,
+      "base_stats": {
+        "str": 108,
+        "agi": 49,
+        "vit": 68,
+        "int": 34,
+        "dex": 119,
+        "luk": 24
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 512,
+        "name": "蘋果",
+        "rate": 10.0,
+        "icon_url": "/images/items/512.gif"
+      },
+      {
+        "item_id": 512,
+        "name": "蘋果",
+        "rate": 1.5,
+        "icon_url": "/images/items/512.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "/images/items/601.gif"
+      },
+      {
+        "item_id": 619,
+        "name": "青蘋果",
+        "rate": 0.2,
+        "icon_url": "/images/items/619.gif"
+      },
+      {
+        "item_id": 909,
+        "name": "傑勒比結晶",
+        "rate": 70.0,
+        "icon_url": "/images/items/909.gif"
+      },
+      {
+        "item_id": 938,
+        "name": "粘稠液體",
+        "rate": 4.0,
+        "icon_url": "/images/items/938.gif"
+      },
+      {
+        "item_id": 1202,
+        "name": "短劍[4]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1202.gif"
+      },
+      {
+        "item_id": 4001,
+        "name": "波利卡片",
+        "rate": 0.2,
+        "icon_url": "/images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 3386,
+    "name": {
+      "zh_tw": "綠棉蟲",
+      "en": "MIN_FABRE"
+    },
+    "image_url": "images/monsters/3386.gif",
+    "basic_info": {
+      "level": 100,
+      "race": "昆蟲",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 25000,
+      "attack": {
+        "min": 690,
+        "max": 930
+      },
+      "magic_attack": {
+        "min": 138,
+        "max": 140
+      },
+      "defense": 148,
+      "magic_defense": 0,
+      "hit_100_percent": 356,
+      "flee_95_percent": 399,
+      "base_stats": {
+        "str": 110,
+        "agi": 51,
+        "vit": 70,
+        "int": 36,
+        "dex": 121,
+        "luk": 26
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 511,
+        "name": "綠色藥草",
+        "rate": 30.0,
+        "icon_url": "images/items/511.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 705,
+        "name": "三葉幸運草",
+        "rate": 10.0,
+        "icon_url": "images/items/705.gif"
+      },
+      {
+        "item_id": 914,
+        "name": "毛",
+        "rate": 70.0,
+        "icon_url": "images/items/914.gif"
+      },
+      {
+        "item_id": 949,
+        "name": "柔毛",
+        "rate": 10.0,
+        "icon_url": "images/items/949.gif"
+      },
+      {
+        "item_id": 1501,
+        "name": "木錘[3]",
+        "rate": 2.0,
+        "icon_url": "images/items/1501.gif"
+      },
+      {
+        "item_id": 1502,
+        "name": "木錘[4]",
+        "rate": 0.8,
+        "icon_url": "images/items/1502.gif"
+      },
+      {
+        "item_id": 4002,
+        "name": "綠棉蟲卡片",
+        "rate": 0.2,
+        "icon_url": "images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 3389,
+    "name": {
+      "zh_tw": "樹精",
+      "en": "MIN_WILOW"
+    },
+    "image_url": "/images/monsters/3389.gif",
+    "basic_info": {
+      "level": 101,
+      "race": "植物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 40000,
+      "attack": {
+        "min": 702,
+        "max": 946
+      },
+      "magic_attack": {
+        "min": 143,
+        "max": 147
+      },
+      "defense": 151,
+      "magic_defense": 2,
+      "hit_100_percent": 360,
+      "flee_95_percent": 404,
+      "base_stats": {
+        "str": 113,
+        "agi": 54,
+        "vit": 73,
+        "int": 39,
+        "dex": 124,
+        "luk": 29
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 516,
+        "name": "番薯",
+        "rate": 10.0,
+        "icon_url": "/images/items/516.gif"
+      },
+      {
+        "item_id": 902,
+        "name": "樹根",
+        "rate": 90.0,
+        "icon_url": "/images/items/902.gif"
+      },
+      {
+        "item_id": 907,
+        "name": "枯木汁",
+        "rate": 20.0,
+        "icon_url": "/images/items/907.gif"
+      },
+      {
+        "item_id": 1019,
+        "name": "瑪哪樹枝",
+        "rate": 1.0,
+        "icon_url": "/images/items/1019.gif"
+      },
+      {
+        "item_id": 1066,
+        "name": "天地樹枝",
+        "rate": 10.0,
+        "icon_url": "/images/items/1066.gif"
+      },
+      {
+        "item_id": 1067,
+        "name": "智慧樹枝",
+        "rate": 20.0,
+        "icon_url": "/images/items/1067.gif"
+      },
+      {
+        "item_id": 1068,
+        "name": "世界樹枝",
+        "rate": 30.0,
+        "icon_url": "/images/items/1068.gif"
+      },
+      {
+        "item_id": 4010,
+        "name": "樹精卡片",
+        "rate": 0.1,
+        "icon_url": "/images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 3390,
+    "name": {
+      "zh_tw": "魔菇",
+      "en": "MIN_SPORE"
+    },
+    "image_url": "images/monsters/3390.gif",
+    "basic_info": {
+      "level": 101,
+      "race": "植物",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 40000,
+      "attack": {
+        "min": 703,
+        "max": 947
+      },
+      "magic_attack": {
+        "min": 146,
+        "max": 152
+      },
+      "defense": 152,
+      "magic_defense": 10,
+      "hit_100_percent": 362,
+      "flee_95_percent": 406,
+      "base_stats": {
+        "str": 114,
+        "agi": 55,
+        "vit": 74,
+        "int": 40,
+        "dex": 125,
+        "luk": 30
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 507,
+        "name": "紅色藥草",
+        "rate": 10.0,
+        "icon_url": "images/items/507.gif"
+      },
+      {
+        "item_id": 578,
+        "name": "草莓",
+        "rate": 6.0,
+        "icon_url": "images/items/578.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 743,
+        "name": "魔菇娃娃",
+        "rate": 0.1,
+        "icon_url": "images/items/743.gif"
+      },
+      {
+        "item_id": 921,
+        "name": "香菇芽孢",
+        "rate": 80.0,
+        "icon_url": "images/items/921.gif"
+      },
+      {
+        "item_id": 2220,
+        "name": "漁夫帽",
+        "rate": 0.3,
+        "icon_url": "images/items/2220.gif"
+      },
+      {
+        "item_id": 4022,
+        "name": "魔菇卡片",
+        "rate": 0.1,
+        "icon_url": "images/items/card.gif"
+      },
+      {
+        "item_id": 7033,
+        "name": "毒魔菇芽孢",
+        "rate": 0.1,
+        "icon_url": "images/items/7033.gif"
+      }
+    ]
+  },
+  {
+    "id": 3391,
+    "name": {
+      "zh_tw": "波波利",
+      "en": "MIN_POPORING"
+    },
+    "image_url": "images/monsters/3391.gif",
+    "basic_info": {
+      "level": 101,
+      "race": "植物",
+      "element": {
+        "type": "毒",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 40000,
+      "attack": {
+        "min": 704,
+        "max": 948
+      },
+      "magic_attack": {
+        "min": 156,
+        "max": 168
+      },
+      "defense": 153,
+      "magic_defense": 17,
+      "hit_100_percent": 363,
+      "flee_95_percent": 407,
+      "base_stats": {
+        "str": 115,
+        "agi": 56,
+        "vit": 75,
+        "int": 41,
+        "dex": 126,
+        "luk": 31
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 511,
+        "name": "綠色藥草",
+        "rate": 10.0,
+        "icon_url": "images/items/511.gif"
+      },
+      {
+        "item_id": 512,
+        "name": "蘋果",
+        "rate": 1.25,
+        "icon_url": "images/items/512.gif"
+      },
+      {
+        "item_id": 514,
+        "name": "葡萄",
+        "rate": 2.0,
+        "icon_url": "images/items/514.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 910,
+        "name": "加勒結晶",
+        "rate": 10.0,
+        "icon_url": "images/items/910.gif"
+      },
+      {
+        "item_id": 938,
+        "name": "粘稠液體",
+        "rate": 60.0,
+        "icon_url": "images/items/938.gif"
+      },
+      {
+        "item_id": 1207,
+        "name": "笨拙短劍[3]",
+        "rate": 0.2,
+        "icon_url": "images/items/1207.gif"
+      },
+      {
+        "item_id": 4033,
+        "name": "波波利卡片",
+        "rate": 0.1,
+        "icon_url": "images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 3395,
+    "name": {
+      "zh_tw": "森靈",
+      "en": "MIN_WORM_TAIL"
+    },
+    "image_url": "/images/monsters/3395.gif",
+    "basic_info": {
+      "level": 102,
+      "race": "植物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 55000,
+      "attack": {
+        "min": 717,
+        "max": 965
+      },
+      "magic_attack": {
+        "min": 150,
+        "max": 154
+      },
+      "defense": 157,
+      "magic_defense": 0,
+      "hit_100_percent": 369,
+      "flee_95_percent": 413,
+      "base_stats": {
+        "str": 119,
+        "agi": 60,
+        "vit": 79,
+        "int": 45,
+        "dex": 130,
+        "luk": 35
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 508,
+        "name": "黃色藥草",
+        "rate": 0.35,
+        "icon_url": "/images/items/508.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "/images/items/601.gif"
+      },
+      {
+        "item_id": 906,
+        "name": "鱗片梗",
+        "rate": 27.5,
+        "icon_url": "/images/items/906.gif"
+      },
+      {
+        "item_id": 993,
+        "name": "地靈礦石",
+        "rate": 0.3,
+        "icon_url": "/images/items/993.gif"
+      },
+      {
+        "item_id": 1011,
+        "name": "強化武器金屬-級數二",
+        "rate": 0.13,
+        "icon_url": "/images/items/1011.gif"
+      },
+      {
+        "item_id": 1408,
+        "name": "步兵長矛[4]",
+        "rate": 0.15,
+        "icon_url": "/images/items/1408.gif"
+      },
+      {
+        "item_id": 4034,
+        "name": "森靈卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/card.gif"
+      },
+      {
+        "item_id": 10015,
+        "name": "寵物圍兜兜",
+        "rate": 0.5,
+        "icon_url": "/images/items/10015.gif"
+      }
+    ]
+  },
+  {
+    "id": 3397,
+    "name": {
+      "zh_tw": "青蛇",
+      "en": "MIN_SNAKE"
+    },
+    "image_url": "/images/monsters/3397.gif",
+    "basic_info": {
+      "level": 103,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 70000,
+      "attack": {
+        "min": 728,
+        "max": 980
+      },
+      "magic_attack": {
+        "min": 153,
+        "max": 157
+      },
+      "defense": 159,
+      "magic_defense": 8,
+      "hit_100_percent": 372,
+      "flee_95_percent": 417,
+      "base_stats": {
+        "str": 121,
+        "agi": 62,
+        "vit": 81,
+        "int": 47,
+        "dex": 132,
+        "luk": 37
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 507,
+        "name": "紅色藥草",
+        "rate": 8.0,
+        "icon_url": "/images/items/507.gif"
+      },
+      {
+        "item_id": 578,
+        "name": "草莓",
+        "rate": 30.0,
+        "icon_url": "/images/items/578.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "/images/items/601.gif"
+      },
+      {
+        "item_id": 926,
+        "name": "蛇鱗",
+        "rate": 80.0,
+        "icon_url": "/images/items/926.gif"
+      },
+      {
+        "item_id": 937,
+        "name": "毒牙",
+        "rate": 8.0,
+        "icon_url": "/images/items/937.gif"
+      },
+      {
+        "item_id": 1011,
+        "name": "強化武器金屬-級數二",
+        "rate": 1.0,
+        "icon_url": "/images/items/1011.gif"
+      },
+      {
+        "item_id": 1117,
+        "name": "武士刀[4]",
+        "rate": 0.2,
+        "icon_url": "/images/items/1117.gif"
+      },
+      {
+        "item_id": 4037,
+        "name": "青蛇卡片",
+        "rate": 0.1,
+        "icon_url": "/images/items/card.gif"
+      }
+    ]
+  },
+  {
+    "id": 3399,
+    "name": {
+      "zh_tw": "冰波利",
+      "en": "MIN_MARIN"
+    },
+    "image_url": "/images/monsters/3399.gif",
+    "basic_info": {
+      "level": 103,
+      "race": "植物",
+      "element": {
+        "type": "水",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 70000,
+      "attack": {
+        "min": 730,
+        "max": 982
+      },
+      "magic_attack": {
+        "min": 161,
+        "max": 171
+      },
+      "defense": 161,
+      "magic_defense": 8,
+      "hit_100_percent": 374,
+      "flee_95_percent": 420,
+      "base_stats": {
+        "str": 123,
+        "agi": 64,
+        "vit": 83,
+        "int": 49,
+        "dex": 134,
+        "luk": 39
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 510,
+        "name": "藍色藥草",
+        "rate": 0.38,
+        "icon_url": "/images/items/510.gif"
+      },
+      {
+        "item_id": 529,
+        "name": "糖果",
+        "rate": 1.75,
+        "icon_url": "/images/items/529.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "/images/items/601.gif"
+      },
+      {
+        "item_id": 700,
+        "name": "冰凍術 等級1",
+        "rate": 0.5,
+        "icon_url": "/images/items/700.gif"
+      },
+      {
+        "item_id": 910,
+        "name": "加勒結晶",
+        "rate": 16.0,
+        "icon_url": "/images/items/910.gif"
+      },
+      {
+        "item_id": 938,
+        "name": "粘稠液體",
+        "rate": 7.5,
+        "icon_url": "/images/items/938.gif"
+      },
+      {
+        "item_id": 4196,
+        "name": "冰波利卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/card.gif"
+      },
+      {
+        "item_id": 5035,
+        "name": "波利帽",
+        "rate": 0.01,
+        "icon_url": "/images/items/5035.gif"
+      }
+    ]
+  },
+  {
+    "id": 3436,
+    "name": {
+      "zh_tw": "大腳熊",
+      "en": "MIN_G_BIGFOOT"
+    },
+    "image_url": "images/monsters/3436.gif",
+    "basic_info": {
+      "level": 100,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "大"
+    },
+    "stats": {
+      "hp": 100000,
+      "attack": {
+        "min": 158,
+        "max": 178
+      },
+      "magic_attack": {
+        "min": 109,
+        "max": 117
+      },
+      "defense": 55,
+      "magic_defense": 7,
+      "hit_100_percent": 304,
+      "flee_95_percent": 282,
+      "base_stats": {
+        "str": 18,
+        "agi": 4,
+        "vit": 7,
+        "int": 1,
+        "dex": 12,
+        "luk": 1
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@infi",
+        "description": "- 無限空間",
+        "spawn_info": ""
+      }
+    ],
+    "drops": []
   }
 ]

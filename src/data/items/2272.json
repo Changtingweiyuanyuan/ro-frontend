@@ -1,0 +1,32 @@
+{
+  "id": 2272,
+  "name": {
+    "zh_tw": "停止標誌頭飾",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2272.gif",
+  "category": "防具",
+  "description": {
+    "official": "上面寫著STOP的標誌板。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4283,
+  "name": {
+    "zh_tw": "將軍魔碑卡片",
+    "en": "Greatest_General_Card"
+  },
+  "icon_url": "/images/items/4283.gif",
+  "category": "卡片",
+  "description": {
+    "official": "物理攻擊時，有幾率可搜集到氣球體或硬幣當裝備者是服事系列時，+聚集氣球體的幾率。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus3 bAutoSpell,\"MO_CALLSPIRITS\",5,2+18*(BaseClass == Job_Acolyte); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

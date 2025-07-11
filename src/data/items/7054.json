@@ -1,0 +1,410 @@
+{
+  "id": 7054,
+  "name": {
+    "zh_tw": "布里刊",
+    "en": "Brigan"
+  },
+  "icon_url": "/images/items/7054.gif",
+  "category": "其他類",
+  "description": {
+    "official": "發出紅色光芒的稀有礦物，可賣給搜集品商人",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 746,
+    "sell_price": 373,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2744,
+      "name": "精英 / 迅捷 咪羅克門徒",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2886,
+      "name": "精英 / 狡猾 愛爾蘭女妖首領",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2644,
+      "name": "精英 / 憤怒 鐘乳巨石怪",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2876,
+      "name": "精英 / 憤怒 狂暴綠棉蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2887,
+      "name": "精英女妖 / 迅捷惡耗女妖",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2690,
+      "name": "精英幽靈劍士 / 迅捷幽靈劍士",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2792,
+      "name": "精英邪惡使者 / 憤怒邪惡使者",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2908,
+      "name": "精英愛麗 / 菁英愛麗",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2691,
+      "name": "精英幽靈劍士 / 雄壯幽靈劍士",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2742,
+      "name": "精英 / 憤怒 咪羅克門徒",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2743,
+      "name": "精英 / 狡猾 咪羅克門徒",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2796,
+      "name": "精英妖君 / 菁英妖君",
+      "rate": 97.0
+    },
+    {
+      "monster_id": 2877,
+      "name": "精英 / 狡猾 卡拉特小丑",
+      "rate": 80.0
+    },
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2879,
+      "name": "精英獨眼怪 / 雄壯獨眼怪",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2485,
+      "name": "凱美拉-咪魘",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2472,
+      "name": "受詛咒騎士 / 血腥騎士",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 20368,
+      "name": "汙染幽靈弓箭手",
+      "rate": 37.74
+    },
+    {
+      "monster_id": 20367,
+      "name": "汙染幽靈劍士",
+      "rate": 37.74
+    },
+    {
+      "monster_id": 2468,
+      "name": "王朝騎士 / 幽靈劍士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3639,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3640,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3638,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3074,
+      "name": "時間支配者 / 時間管理者",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3637,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3641,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2918,
+      "name": "時光守護者",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2469,
+      "name": "王朝弓箭手 / 四處徘徊的弓箭手",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3642,
+      "name": "邪骸戰士",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1300,
+      "name": "狂暴綠棉蟲",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 3200,
+      "name": "邪惡的凱美拉",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1302,
+      "name": "迷幻之王",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1867,
+      "name": "女妖 / 惡耗女妖",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1257,
+      "name": "邪惡使者",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1283,
+      "name": "凱美拉",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1259,
+      "name": "獅鷲獸",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1270,
+      "name": "鐘塔守護者",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1974,
+      "name": "愛爾蘭女妖首領",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 3425,
+      "name": "凱美拉王",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1989,
+      "name": "希斯利安 / 三角幼獅獸",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1262,
+      "name": "半龍人",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1163,
+      "name": "幽靈劍士",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1268,
+      "name": "血腥騎士",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 3199,
+      "name": "邪惡半龍人",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1920,
+      "name": "咪羅克門徒之活屍",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 20271,
+      "name": "古代鐘乳巨石怪",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1278,
+      "name": "鐘乳巨石怪",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1918,
+      "name": "咪羅克門徒之邪靈",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1260,
+      "name": "鏡妖",
+      "rate": 23.28
+    },
+    {
+      "monster_id": 1276,
+      "name": "幽靈弓箭手",
+      "rate": 23.28
+    },
+    {
+      "monster_id": 2282,
+      "name": "深淵鏡妖 / 深淵魔鏡",
+      "rate": 23.28
+    },
+    {
+      "monster_id": 3747,
+      "name": "精英 / 菁英草寇 (散彈槍)",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3748,
+      "name": "精英 / 菁英草寇 (左輪手槍)",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 3749,
+      "name": "精英 / 菁英草寇 (彎刀)",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1737,
+      "name": "愛麗哲 / 愛麗莎",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1512,
+      "name": "妖君",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 1308,
+      "name": "狂暴哥布靈",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1322,
+      "name": "彈簧兔",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1267,
+      "name": "卡拉特小丑",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 1305,
+      "name": "狂暴蜈蚣",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3738,
+      "name": "草寇 (彎刀)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3737,
+      "name": "草寇 (左輪手槍)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2309,
+      "name": "獨眼怪",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3736,
+      "name": "草寇 (散彈槍)",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2312,
+      "name": "猛酷巫師",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2310,
+      "name": "昂坎圖",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1299,
+      "name": "哥布靈首領",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1712,
+      "name": "達納托斯的苦惱",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1704,
+      "name": "達納托斯的憎恨",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1711,
+      "name": "達納托斯的悲哀",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1706,
+      "name": "達納托斯的悲哀",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1709,
+      "name": "達納托斯的憎恨",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1705,
+      "name": "達納托斯的絕望",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1707,
+      "name": "達納托斯的苦惱",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1710,
+      "name": "達納托斯的絕望",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

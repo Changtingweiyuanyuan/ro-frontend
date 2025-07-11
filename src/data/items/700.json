@@ -1,0 +1,47 @@
+{
+  "id": 700,
+  "name": {
+    "zh_tw": "冰凍術 等級1",
+    "en": "Cold_Scroll_2_1"
+  },
+  "icon_url": "/images/items/700.gif",
+  "category": "延遲消耗類",
+  "description": {
+    "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著水屬性的魔法，可使用等級1的冰凍術。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1000,
+    "sell_price": 500,
+    "weight": 1
+  },
+  "script": "{ itemskill \"MG_FROSTDIVER\",1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2762,
+      "name": "精英冰波利 / 憤怒冰波利",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3816,
+      "name": "強化冰波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3399,
+      "name": "冰波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1857,
+      "name": "冰波利",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1242,
+      "name": "冰波利",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

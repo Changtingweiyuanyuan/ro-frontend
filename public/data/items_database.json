@@ -5746,6 +5746,38 @@
       "神祕紫箱"
     ]
   },
+  "2272": {
+    "id": 2272,
+    "name": {
+      "zh_tw": "停止標誌頭飾",
+      "en": "上"
+    },
+    "icon_url": "/images/items/2272.gif",
+    "category": "防具",
+    "description": {
+      "official": "上面寫著STOP的標誌板。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 40
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2809,
+        "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1277,
+        "name": "將軍魔碑",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": []
+  },
   "2275": {
     "id": 2275,
     "name": {
@@ -10711,6 +10743,55 @@
       "具有魔力的 卡片冊"
     ]
   },
+  "4196": {
+    "id": 4196,
+    "name": {
+      "zh_tw": "冰波利卡片",
+      "en": "Marin_Card"
+    },
+    "icon_url": "/images/items/4196.gif",
+    "category": "卡片",
+    "description": {
+      "official": "每當擊殺魔物時，有一定的幾率會掉落傑勒比結晶或是巨大傑勒比結晶。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus2 bAddMonsterDropItem,909,2000; bonus2 bAddMonsterDropItem,7126,10; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2762,
+        "name": "精英冰波利 / 憤怒冰波利",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3816,
+        "name": "強化冰波利",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 3399,
+        "name": "冰波利",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1857,
+        "name": "冰波利",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1242,
+        "name": "冰波利",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4197": {
     "id": 4197,
     "name": {
@@ -10832,6 +10913,40 @@
       "老舊收集冊"
     ]
   },
+  "4283": {
+    "id": 4283,
+    "name": {
+      "zh_tw": "將軍魔碑卡片",
+      "en": "Greatest_General_Card"
+    },
+    "icon_url": "/images/items/4283.gif",
+    "category": "卡片",
+    "description": {
+      "official": "物理攻擊時，有幾率可搜集到氣球體或硬幣當裝備者是服事系列時，+聚集氣球體的幾率。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus3 bAutoSpell,\"MO_CALLSPIRITS\",5,2+18*(BaseClass == Job_Acolyte); },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2809,
+        "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1277,
+        "name": "將軍魔碑",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4306": {
     "id": 4306,
     "name": {
@@ -10859,6 +10974,40 @@
     ],
     "obtained_from": [
       "具有魔力的 卡片冊"
+    ]
+  },
+  "4307": {
+    "id": 4307,
+    "name": {
+      "zh_tw": "巨象甲蟲卡片",
+      "en": "Kind_Of_Beetle_Card"
+    },
+    "icon_url": "/images/items/4307.gif",
+    "category": "卡片",
+    "description": {
+      "official": "每當用近距離物理攻擊擊殺魚貝系魔物時，SP可恢復到5裝備解除時，SP會減少5",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus2 bSPGainRace,RC_Fish,5; },{},{ heal 0,-5; }",
+    "dropped_by": [
+      {
+        "monster_id": 2787,
+        "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1494,
+        "name": "巨象甲蟲",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
     ]
   },
   "5010": {
@@ -10964,6 +11113,61 @@
         "monster_id": 1116,
         "name": "轉轉蛋",
         "rate": 0.1
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "5035": {
+    "id": 5035,
+    "name": {
+      "zh_tw": "波利帽",
+      "en": "上"
+    },
+    "icon_url": "/images/items/5035.gif",
+    "category": "防具",
+    "description": {
+      "official": "依照人氣絕頂波利魔物的樣子，所做成的帽子，但材質絕對不會是不透氣的橡膠！",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 70
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1502,
+        "name": "魔王波利",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 2762,
+        "name": "精英冰波利 / 憤怒冰波利",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3816,
+        "name": "強化冰波利",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 3399,
+        "name": "冰波利",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1857,
+        "name": "冰波利",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1242,
+        "name": "冰波利",
+        "rate": 0.01
       }
     ],
     "obtained_from": [
@@ -14082,6 +14286,117 @@
     "obtained_from": [
       "神祕箱子",
       "神祕紫箱"
+    ]
+  },
+  "529": {
+    "id": 529,
+    "name": {
+      "zh_tw": "糖果",
+      "en": "Candy"
+    },
+    "icon_url": "/images/items/529.gif",
+    "category": "治療/恢復類",
+    "description": {
+      "official": "味道甜美的糖果，可恢復45點HP。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 10,
+      "sell_price": 5,
+      "weight": 3
+    },
+    "script": "{ itemheal rand(45,65),0; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1812,
+        "name": "南瓜魂",
+        "rate": 80.0
+      },
+      {
+        "monster_id": 2220,
+        "name": "萬聖魔_E",
+        "rate": 80.0
+      },
+      {
+        "monster_id": 1244,
+        "name": "聖誕南瓜先生",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 1245,
+        "name": "聖誕哥布靈",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 1588,
+        "name": "聖誕獸人戰士",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 1062,
+        "name": "聖誕波利",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 2025,
+        "name": "瘋狂的禮物箱",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2762,
+        "name": "精英冰波利 / 憤怒冰波利",
+        "rate": 8.75
+      },
+      {
+        "monster_id": 2737,
+        "name": "精英邪惡禮盒 / 憤怒邪惡禮盒",
+        "rate": 8.5
+      },
+      {
+        "monster_id": 2865,
+        "name": "精英甜餅人 / 菁英甜餅人",
+        "rate": 8.0
+      },
+      {
+        "monster_id": 2211,
+        "name": "玩偶熊_E",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 3399,
+        "name": "冰波利",
+        "rate": 1.75
+      },
+      {
+        "monster_id": 1857,
+        "name": "冰波利",
+        "rate": 1.75
+      },
+      {
+        "monster_id": 1242,
+        "name": "冰波利",
+        "rate": 1.75
+      },
+      {
+        "monster_id": 3816,
+        "name": "強化冰波利",
+        "rate": 1.75
+      },
+      {
+        "monster_id": 1249,
+        "name": "邪惡禮盒",
+        "rate": 1.7
+      },
+      {
+        "monster_id": 1265,
+        "name": "綠餅人",
+        "rate": 1.6
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱",
+      "禮物箱/禮盒"
     ]
   },
   "531": {
@@ -18402,6 +18717,80 @@
       "神祕紫箱"
     ]
   },
+  "662": {
+    "id": 662,
+    "name": {
+      "zh_tw": "馬牌",
+      "en": "Inspector_Certificate"
+    },
+    "icon_url": "/images/items/662.gif",
+    "category": "消耗類",
+    "description": {
+      "official": "在某個東方國家因公事到地方巡邏時，給官員的以銅鑄造之圓形牌子，據說古代御史憑此物懲治貪官汙吏。在一定的時間之內移動速度會增加。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1450,
+      "sell_price": 725,
+      "weight": 3
+    },
+    "script": "{ sc_start SC_SPEEDUP0,180000,25; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2651,
+        "name": "精英鬼女 / 迅捷鬼女",
+        "rate": 8.75
+      },
+      {
+        "monster_id": 2809,
+        "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+        "rate": 7.5
+      },
+      {
+        "monster_id": 1170,
+        "name": "鬼女",
+        "rate": 1.75
+      },
+      {
+        "monster_id": 1277,
+        "name": "將軍魔碑",
+        "rate": 1.5
+      }
+    ],
+    "obtained_from": []
+  },
+  "686": {
+    "id": 686,
+    "name": {
+      "zh_tw": "地震術 等級3",
+      "en": "Earth_Scroll_1_3"
+    },
+    "icon_url": "/images/items/686.gif",
+    "category": "延遲消耗類",
+    "description": {
+      "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著地屬性的魔法，可使用等級3的地震術。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1000,
+      "sell_price": 500,
+      "weight": 1
+    },
+    "script": "{ itemskill \"WZ_EARTHSPIKE\",3; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2809,
+        "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+        "rate": 2.5
+      },
+      {
+        "monster_id": 1277,
+        "name": "將軍魔碑",
+        "rate": 0.5
+      }
+    ],
+    "obtained_from": []
+  },
   "690": {
     "id": 690,
     "name": {
@@ -18477,6 +18866,53 @@
         "monster_id": 1018,
         "name": "克瑞米",
         "rate": 1.0
+      }
+    ],
+    "obtained_from": []
+  },
+  "700": {
+    "id": 700,
+    "name": {
+      "zh_tw": "冰凍術 等級1",
+      "en": "Cold_Scroll_2_1"
+    },
+    "icon_url": "/images/items/700.gif",
+    "category": "延遲消耗類",
+    "description": {
+      "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著水屬性的魔法，可使用等級1的冰凍術。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1000,
+      "sell_price": 500,
+      "weight": 1
+    },
+    "script": "{ itemskill \"MG_FROSTDIVER\",1; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2762,
+        "name": "精英冰波利 / 憤怒冰波利",
+        "rate": 2.5
+      },
+      {
+        "monster_id": 3816,
+        "name": "強化冰波利",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 3399,
+        "name": "冰波利",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1857,
+        "name": "冰波利",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1242,
+        "name": "冰波利",
+        "rate": 0.5
       }
     ],
     "obtained_from": []
@@ -19141,6 +19577,416 @@
         "monster_id": 2151,
         "name": "泰坦魔芋花",
         "rate": 1.25
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "7054": {
+    "id": 7054,
+    "name": {
+      "zh_tw": "布里刊",
+      "en": "Brigan"
+    },
+    "icon_url": "/images/items/7054.gif",
+    "category": "其他類",
+    "description": {
+      "official": "發出紅色光芒的稀有礦物，可賣給搜集品商人",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 746,
+      "sell_price": 373,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2744,
+        "name": "精英 / 迅捷 咪羅克門徒",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2886,
+        "name": "精英 / 狡猾 愛爾蘭女妖首領",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2644,
+        "name": "精英 / 憤怒 鐘乳巨石怪",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2876,
+        "name": "精英 / 憤怒 狂暴綠棉蟲",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2887,
+        "name": "精英女妖 / 迅捷惡耗女妖",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2690,
+        "name": "精英幽靈劍士 / 迅捷幽靈劍士",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2792,
+        "name": "精英邪惡使者 / 憤怒邪惡使者",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2908,
+        "name": "精英愛麗 / 菁英愛麗",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2691,
+        "name": "精英幽靈劍士 / 雄壯幽靈劍士",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2742,
+        "name": "精英 / 憤怒 咪羅克門徒",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2743,
+        "name": "精英 / 狡猾 咪羅克門徒",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2796,
+        "name": "精英妖君 / 菁英妖君",
+        "rate": 97.0
+      },
+      {
+        "monster_id": 2877,
+        "name": "精英 / 狡猾 卡拉特小丑",
+        "rate": 80.0
+      },
+      {
+        "monster_id": 2809,
+        "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 2879,
+        "name": "精英獨眼怪 / 雄壯獨眼怪",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 2485,
+        "name": "凱美拉-咪魘",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 2472,
+        "name": "受詛咒騎士 / 血腥騎士",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 20368,
+        "name": "汙染幽靈弓箭手",
+        "rate": 37.74
+      },
+      {
+        "monster_id": 20367,
+        "name": "汙染幽靈劍士",
+        "rate": 37.74
+      },
+      {
+        "monster_id": 2468,
+        "name": "王朝騎士 / 幽靈劍士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3639,
+        "name": "邪骸戰士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3640,
+        "name": "邪骸戰士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3638,
+        "name": "邪骸戰士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3074,
+        "name": "時間支配者 / 時間管理者",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3637,
+        "name": "邪骸戰士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3641,
+        "name": "邪骸戰士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 2918,
+        "name": "時光守護者",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 2469,
+        "name": "王朝弓箭手 / 四處徘徊的弓箭手",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3642,
+        "name": "邪骸戰士",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 1300,
+        "name": "狂暴綠棉蟲",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 3200,
+        "name": "邪惡的凱美拉",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1302,
+        "name": "迷幻之王",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1867,
+        "name": "女妖 / 惡耗女妖",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1257,
+        "name": "邪惡使者",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1283,
+        "name": "凱美拉",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1259,
+        "name": "獅鷲獸",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1270,
+        "name": "鐘塔守護者",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1974,
+        "name": "愛爾蘭女妖首領",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 3425,
+        "name": "凱美拉王",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1989,
+        "name": "希斯利安 / 三角幼獅獸",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1262,
+        "name": "半龍人",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1163,
+        "name": "幽靈劍士",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1268,
+        "name": "血腥騎士",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 3199,
+        "name": "邪惡半龍人",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1920,
+        "name": "咪羅克門徒之活屍",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 20271,
+        "name": "古代鐘乳巨石怪",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1278,
+        "name": "鐘乳巨石怪",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1918,
+        "name": "咪羅克門徒之邪靈",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1260,
+        "name": "鏡妖",
+        "rate": 23.28
+      },
+      {
+        "monster_id": 1276,
+        "name": "幽靈弓箭手",
+        "rate": 23.28
+      },
+      {
+        "monster_id": 2282,
+        "name": "深淵鏡妖 / 深淵魔鏡",
+        "rate": 23.28
+      },
+      {
+        "monster_id": 3747,
+        "name": "精英 / 菁英草寇 (散彈槍)",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 3748,
+        "name": "精英 / 菁英草寇 (左輪手槍)",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 3749,
+        "name": "精英 / 菁英草寇 (彎刀)",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 1737,
+        "name": "愛麗哲 / 愛麗莎",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 1512,
+        "name": "妖君",
+        "rate": 19.4
+      },
+      {
+        "monster_id": 1308,
+        "name": "狂暴哥布靈",
+        "rate": 17.5
+      },
+      {
+        "monster_id": 1322,
+        "name": "彈簧兔",
+        "rate": 17.5
+      },
+      {
+        "monster_id": 1267,
+        "name": "卡拉特小丑",
+        "rate": 16.0
+      },
+      {
+        "monster_id": 1305,
+        "name": "狂暴蜈蚣",
+        "rate": 12.5
+      },
+      {
+        "monster_id": 1277,
+        "name": "將軍魔碑",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 3738,
+        "name": "草寇 (彎刀)",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 3737,
+        "name": "草寇 (左輪手槍)",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2309,
+        "name": "獨眼怪",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 3736,
+        "name": "草寇 (散彈槍)",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2312,
+        "name": "猛酷巫師",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2310,
+        "name": "昂坎圖",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 1299,
+        "name": "哥布靈首領",
+        "rate": 7.5
+      },
+      {
+        "monster_id": 1712,
+        "name": "達納托斯的苦惱",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1704,
+        "name": "達納托斯的憎恨",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1711,
+        "name": "達納托斯的悲哀",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1706,
+        "name": "達納托斯的悲哀",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1709,
+        "name": "達納托斯的憎恨",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1705,
+        "name": "達納托斯的絕望",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1707,
+        "name": "達納托斯的苦惱",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1710,
+        "name": "達納托斯的絕望",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1256,
+        "name": "單眼蟲",
+        "rate": 1.0
       }
     ],
     "obtained_from": [
@@ -20240,6 +21086,41 @@
       "禮物箱/禮盒"
     ]
   },
+  "7190": {
+    "id": 7190,
+    "name": {
+      "zh_tw": "昆蟲硬殼",
+      "en": "Solid_Peeling"
+    },
+    "icon_url": "/images/items/7190.gif",
+    "category": "其他類",
+    "description": {
+      "official": "看起來很堅固的昆蟲硬殼。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 140,
+      "sell_price": 70,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2787,
+        "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 1494,
+        "name": "巨象甲蟲",
+        "rate": 32.5
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "720": {
     "id": 720,
     "name": {
@@ -20394,6 +21275,41 @@
       "神祕箱子",
       "神祕紫箱",
       "禮物箱/禮盒"
+    ]
+  },
+  "7202": {
+    "id": 7202,
+    "name": {
+      "zh_tw": "巨象甲蟲之螯",
+      "en": "Beetle_Nipper"
+    },
+    "icon_url": "/images/items/7202.gif",
+    "category": "其他類",
+    "description": {
+      "official": "甲蟲類前腳，被夾到的話會很痛的。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 290,
+      "sell_price": 145,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2787,
+        "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 1494,
+        "name": "巨象甲蟲",
+        "rate": 22.5
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
     ]
   },
   "721": {

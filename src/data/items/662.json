@@ -1,0 +1,42 @@
+{
+  "id": 662,
+  "name": {
+    "zh_tw": "馬牌",
+    "en": "Inspector_Certificate"
+  },
+  "icon_url": "/images/items/662.gif",
+  "category": "消耗類",
+  "description": {
+    "official": "在某個東方國家因公事到地方巡邏時，給官員的以銅鑄造之圓形牌子，據說古代御史憑此物懲治貪官汙吏。在一定的時間之內移動速度會增加。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1450,
+    "sell_price": 725,
+    "weight": 3
+  },
+  "script": "{ sc_start SC_SPEEDUP0,180000,25; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 8.75
+    },
+    {
+      "monster_id": 2809,
+      "name": "精英將軍魔碑 / 迅捷將軍魔碑",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1277,
+      "name": "將軍魔碑",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": []
+}

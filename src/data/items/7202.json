@@ -1,0 +1,35 @@
+{
+  "id": 7202,
+  "name": {
+    "zh_tw": "巨象甲蟲之螯",
+    "en": "Beetle_Nipper"
+  },
+  "icon_url": "/images/items/7202.gif",
+  "category": "其他類",
+  "description": {
+    "official": "甲蟲類前腳，被夾到的話會很痛的。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 290,
+    "sell_price": 145,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2787,
+      "name": "精英巨象甲蟲 / 憤怒巨象甲蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1494,
+      "name": "巨象甲蟲",
+      "rate": 22.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

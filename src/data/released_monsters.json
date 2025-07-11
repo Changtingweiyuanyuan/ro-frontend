@@ -913,7 +913,7 @@
   },
   "1277": {
     "name": "將軍魔碑",
-    "released": false
+    "released": true
   },
   "1278": {
     "name": "鐘乳巨石怪",
@@ -1481,7 +1481,7 @@
   },
   "1494": {
     "name": "巨象甲蟲",
-    "released": false
+    "released": true
   },
   "1495": {
     "name": "石炮火樹",
@@ -3405,7 +3405,7 @@
   },
   "2572": {
     "name": "刺蝟蟲",
-    "released": false
+    "released": true
   },
   "2573": {
     "name": "蒼蠅",
@@ -3417,11 +3417,11 @@
   },
   "2575": {
     "name": "松鼠",
-    "released": false
+    "released": true
   },
   "2576": {
     "name": "克瑞米",
-    "released": false
+    "released": true
   },
   "2577": {
     "name": "綠棉蟲",
@@ -3429,7 +3429,7 @@
   },
   "2578": {
     "name": "鍬形蟲",
-    "released": false
+    "released": true
   },
   "2579": {
     "name": "兔斯拉",
@@ -3481,7 +3481,7 @@
   },
   "2591": {
     "name": "野豬",
-    "released": false
+    "released": true
   },
   "2592": {
     "name": "胖胖波利",
@@ -3497,7 +3497,7 @@
   },
   "2595": {
     "name": "瓢蟲",
-    "released": false
+    "released": true
   },
   "2596": {
     "name": "石頭波利",
@@ -3557,7 +3557,7 @@
   },
   "2610": {
     "name": "精英森靈 / 菁英森靈",
-    "released": false
+    "released": true
   },
   "2611": {
     "name": "精英 / 憤怒 伍坦戰士",
@@ -3577,7 +3577,7 @@
   },
   "2615": {
     "name": "精英樹精 / 菁英樹精",
-    "released": false
+    "released": true
   },
   "2616": {
     "name": "精英 / 憤怒 狂暴野貓",
@@ -3701,7 +3701,7 @@
   },
   "2646": {
     "name": "精英魔菇 / 迅捷魔菇",
-    "released": false
+    "released": true
   },
   "2647": {
     "name": "精英岩石龜 / 雄壯岩石龜",
@@ -3729,7 +3729,7 @@
   },
   "2653": {
     "name": "精英青蛇 / 菁英青蛇",
-    "released": false
+    "released": true
   },
   "2654": {
     "name": "精英狸貓 / 憤怒狸貓",
@@ -3929,7 +3929,7 @@
   },
   "2703": {
     "name": "精英波波利 / 狡猾波波利",
-    "released": false
+    "released": true
   },
   "2704": {
     "name": "精英牛蛙 / 迅捷牛蛙",
@@ -4317,7 +4317,7 @@
   },
   "2800": {
     "name": "精英鍬形蟲 / 雄壯鍬形蟲",
-    "released": false
+    "released": true
   },
   "2801": {
     "name": "精英異形 / 菁英異形",
@@ -4353,7 +4353,7 @@
   },
   "2809": {
     "name": "精英將軍魔碑 / 迅捷將軍魔碑",
-    "released": false
+    "released": true
   },
   "2810": {
     "name": "精英 / 雄壯 七彩大嘴鳥",
@@ -4461,7 +4461,7 @@
   },
   "2836": {
     "name": "精英綠棉蟲 / 菁英綠棉蟲",
-    "released": false
+    "released": true
   },
   "2837": {
     "name": "精英爆炎蝙蝠 / 憤怒爆炎蝙蝠",
@@ -4653,7 +4653,7 @@
   },
   "2884": {
     "name": "精英大腳熊 / 菁英大腳熊",
-    "released": false
+    "released": true
   },
   "2885": {
     "name": "精英巫婆 / 憤怒巫婆",
@@ -5493,7 +5493,7 @@
   },
   "3384": {
     "name": "波利",
-    "released": false
+    "released": true
   },
   "3385": {
     "name": "瘋兔",
@@ -5501,7 +5501,7 @@
   },
   "3386": {
     "name": "綠棉蟲",
-    "released": false
+    "released": true
   },
   "3387": {
     "name": "小雞",
@@ -5513,15 +5513,15 @@
   },
   "3389": {
     "name": "樹精",
-    "released": false
+    "released": true
   },
   "3390": {
     "name": "魔菇",
-    "released": false
+    "released": true
   },
   "3391": {
     "name": "波波利",
-    "released": false
+    "released": true
   },
   "3392": {
     "name": "狸貓",
@@ -5537,7 +5537,7 @@
   },
   "3395": {
     "name": "森靈",
-    "released": false
+    "released": true
   },
   "3396": {
     "name": "狼",
@@ -5545,7 +5545,7 @@
   },
   "3397": {
     "name": "青蛇",
-    "released": false
+    "released": true
   },
   "3398": {
     "name": "毒蛇",
@@ -5553,7 +5553,7 @@
   },
   "3399": {
     "name": "冰波利",
-    "released": false
+    "released": true
   },
   "3400": {
     "name": "摩卡",
@@ -5701,7 +5701,7 @@
   },
   "3436": {
     "name": "大腳熊",
-    "released": false
+    "released": true
   },
   "3437": {
     "name": "狂暴木乃伊",
