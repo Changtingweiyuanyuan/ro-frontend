@@ -63,32 +63,32 @@ provide('releasedMonsters', releasedMonsters);
   &-text {
     position: relative;
 
-    &::after {
-      content: "NOTHING FOUND";
-      font-family: "Slackey";
-      position: absolute;
-      bottom: 38px;
-      left: 50%;
-      transform: translate(-50%, 0);
-      width: 100%;
-      font-size: 23px;
-      word-break: keep-all;
-      filter: drop-shadow(2px 2px 0px black) drop-shadow(-1px -1px 0px black);
-      //color: #000;
-      //filter: drop-shadow(2px 2px 0px #e6e6e6) drop-shadow(-1px -1px 0px #e6e6e6);
-    }
     //&::after {
-    //	content: "";
-    //	position: absolute;
-    //	bottom: 42px;
-    //	left: 50%;
-    //	transform: translate(-50%, 0);
-    //	width: 36px;
-    //	height: 36px;
-    //	background-image: url("/twroz-drop/images/ui/not-found.png");
-    //	background-repeat: no-repeat;
-    //	background-size: contain;
+    //  content: "NOTHING FOUND";
+    //  font-family: "Slackey";
+    //  position: absolute;
+    //  bottom: 38px;
+    //  left: 50%;
+    //  transform: translate(-50%, 0);
+    //  width: 100%;
+    //  font-size: 22px;
+    //  word-break: keep-all;
+    //  filter: drop-shadow(2px 2px 0px black) drop-shadow(-1px -1px 0px black);
+    //  color: #000;
+    //  filter: drop-shadow(2px 2px 0px #e6e6e6) drop-shadow(-1px -1px 0px #e6e6e6);
     //}
+    &::after {
+    	content: "";
+    	position: absolute;
+    	bottom: 42px;
+    	left: 50%;
+    	transform: translate(-50%, 0);
+    	width: 36px;
+    	height: 36px;
+    	background-image: url("/twroz-drop/images/ui/not-found.png");
+    	background-repeat: no-repeat;
+    	background-size: contain;
+    }
   }
 }
 </style>
