@@ -1,0 +1,34 @@
+{
+  "id": 4017,
+  "name": {
+    "zh_tw": "小野豬卡片",
+    "en": "Savage_Babe_Card"
+  },
+  "icon_url": "/images/items/4017.gif",
+  "category": "卡片",
+  "description": {
+    "official": "攻擊時，有5%的幾率使敵人陷入眩暈狀態。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddEff,Eff_Stun,500; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

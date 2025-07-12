@@ -1,0 +1,85 @@
+{
+  "id": 520,
+  "name": {
+    "zh_tw": "西納雷葉子",
+    "en": "Leaflet_Of_Hinal"
+  },
+  "icon_url": "/images/items/520.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "味道清新涼爽，具有令人忘卻苦痛的效果，可使體力恢復也就是恢復定量的HP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 150,
+    "sell_price": 75,
+    "weight": 1
+  },
+  "script": "{ itemheal rand(175,235),0; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1413,
+      "name": "人參精",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 2906,
+      "name": "精英 / 迅捷 泰坦魔芋花",
+      "rate": 10.65
+    },
+    {
+      "monster_id": 2781,
+      "name": "精英群葉貓 / 菁英群葉貓",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1883,
+      "name": "樹林女巫",
+      "rate": 4.5
+    },
+    {
+      "monster_id": 1270,
+      "name": "鐘塔守護者",
+      "rate": 4.25
+    },
+    {
+      "monster_id": 2918,
+      "name": "時光守護者",
+      "rate": 4.25
+    },
+    {
+      "monster_id": 2155,
+      "name": "布托異竺",
+      "rate": 2.25
+    },
+    {
+      "monster_id": 2151,
+      "name": "泰坦魔芋花",
+      "rate": 2.13
+    },
+    {
+      "monster_id": 1586,
+      "name": "群葉貓",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 7043,
+  "name": {
+    "zh_tw": "黃晶沙",
+    "en": "Fine_Sand"
+  },
+  "icon_url": "/images/items/7043.gif",
+  "category": "其他類",
+  "description": {
+    "official": "太漂亮了，但是用雙手很難撿起來的砂子",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2656,
+      "name": "精英沙妖 / 迅捷沙妖",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2655,
+      "name": "精英沙妖 / 狡猾沙妖",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2674,
+      "name": "精英泥人 / 憤怒泥人",
+      "rate": 8.75
+    },
+    {
+      "monster_id": 1386,
+      "name": "沙妖",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3409,
+      "name": "泥人",
+      "rate": 1.75
+    },
+    {
+      "monster_id": 1165,
+      "name": "泥人",
+      "rate": 1.75
+    }
+  ],
+  "obtained_from": []
+}

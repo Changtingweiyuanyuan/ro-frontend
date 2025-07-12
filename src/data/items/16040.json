@@ -1,0 +1,77 @@
+{
+  "id": 16040,
+  "name": {
+    "zh_tw": "緋紅色鐵鎚",
+    "en": "Scarlet_Mace"
+  },
+  "icon_url": "/images/items/16040.gif",
+  "category": "武器",
+  "description": {
+    "official": "散髮著紅光的鈍器。ATK增加至(精煉*精煉) (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。不可破壞",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 80
+  },
+  "script": "{ .@r = getrefine(); bonus bBaseAtk,(((BaseLevel-70)/10)*5)+(.@r<=15?pow(.@r,2):225); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2761,
+      "name": "精英傀儡娃娃 / 菁英傀儡娃娃",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2647,
+      "name": "精英岩石龜 / 雄壯岩石龜",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2778,
+      "name": "精英豹皮怪 / 狡猾豹皮怪",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2715,
+      "name": "精英 / 雄壯 畢帝特地龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2714,
+      "name": "精英 / 迅捷 畢帝特地龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1316,
+      "name": "岩石龜",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1517,
+      "name": "豹皮怪",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1155,
+      "name": "畢帝特地龍",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1296,
+      "name": "犬妖首領",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1301,
+      "name": "狂暴小土人",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1143,
+      "name": "傀儡娃娃",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

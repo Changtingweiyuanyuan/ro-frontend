@@ -1,0 +1,95 @@
+{
+  "id": 606,
+  "name": {
+    "zh_tw": "蘆薈汁液",
+    "en": "Aloebera"
+  },
+  "icon_url": "/images/items/606.gif",
+  "category": "延遲消耗類",
+  "description": {
+    "official": "將蘆薈的硬皮撕掉後，裡面露出的組織，味道很酸又冰涼，所以一開始會對它厭惡，但只要嘗過令人無法忘記它特殊的滋味。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1500,
+    "sell_price": 750,
+    "weight": 10
+  },
+  "script": "{ itemskill \"SM_SELFPROVOKE\",1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1811,
+      "name": "狸貓",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20270,
+      "name": "古代三葉蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3418,
+      "name": "三葉蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1279,
+      "name": "三葉蟲",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2715,
+      "name": "精英 / 雄壯 畢帝特地龍",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2714,
+      "name": "精英 / 迅捷 畢帝特地龍",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1156,
+      "name": "畢帝特飛龍",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1155,
+      "name": "畢帝特地龍",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1513,
+      "name": "狐仙",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

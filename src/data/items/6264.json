@@ -1,0 +1,62 @@
+{
+  "id": 6264,
+  "name": {
+    "zh_tw": "甜瓜",
+    "en": "Melon"
+  },
+  "icon_url": "/images/items/6264.gif",
+  "category": "其他類",
+  "description": {
+    "official": "圓圓的又有橫紋的果實，果肉是淺綠色並有淡淡的甜香味",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1313,
+      "name": "流氓",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 20664,
+      "name": "綠肉食人火龍果",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 20653,
+      "name": "綠肉食人火龍果",
+      "rate": 0.75
+    }
+  ],
+  "obtained_from": []
+}

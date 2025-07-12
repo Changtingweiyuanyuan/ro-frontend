@@ -1,0 +1,40 @@
+{
+  "id": 10010,
+  "name": {
+    "zh_tw": "變形鍋子",
+    "en": "Battered_Pot"
+  },
+  "icon_url": "/images/items/10010.gif",
+  "category": "可愛寵物裝備",
+  "description": {
+    "official": "被壓扁的鍋子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 0
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1862,
+      "name": "土撥鼠",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1622,
+  "name": {
+    "zh_tw": "催眠師的魔杖",
+    "en": "Hypnotist's_Staff_"
+  },
+  "icon_url": "/images/items/1622.gif",
+  "category": "武器",
+  "description": {
+    "official": "用催眠效果讓初學者好像變成，大魔法師一樣感覺的催眠師的魔杖INT+1，MATK+120",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 50
+  },
+  "script": "{ bonus bInt,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2442,
+      "name": "超級初心者之王 / 魔鬼孩子王",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2674,
+      "name": "精英泥人 / 憤怒泥人",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2656,
+      "name": "精英沙妖 / 迅捷沙妖",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2655,
+      "name": "精英沙妖 / 狡猾沙妖",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1165,
+      "name": "泥人",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3409,
+      "name": "泥人",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1386,
+      "name": "沙妖",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

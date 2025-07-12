@@ -1,0 +1,50 @@
+{
+  "id": 2276,
+  "name": {
+    "zh_tw": "大眼睛眼鏡",
+    "en": "中"
+  },
+  "icon_url": "/images/items/2276.gif",
+  "category": "防具",
+  "description": {
+    "official": "外觀上有睜大眼睛模樣的眼鏡。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1221,
+      "name": "野豬",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1311,
+      "name": "狂暴野豬",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

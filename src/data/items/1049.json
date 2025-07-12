@@ -1,0 +1,40 @@
+{
+  "id": 1049,
+  "name": {
+    "zh_tw": "韓服",
+    "en": "Skirt_Of_Virgin"
+  },
+  "icon_url": "/images/items/1049.gif",
+  "category": "其他類",
+  "description": {
+    "official": "韓國傳統衣服。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1700,
+    "sell_price": 850,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3762,
+      "name": "憤懣鬼女 / 憤恨的鬼女",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

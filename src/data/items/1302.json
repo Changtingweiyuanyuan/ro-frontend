@@ -1,0 +1,35 @@
+{
+  "id": 1302,
+  "name": {
+    "zh_tw": "斧",
+    "en": "Axe_"
+  },
+  "icon_url": "/images/items/1302.gif",
+  "category": "武器",
+  "description": {
+    "official": "簡單的使用方法，方便任何人使用的斧。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 80
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

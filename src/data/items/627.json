@@ -1,0 +1,35 @@
+{
+  "id": 627,
+  "name": {
+    "zh_tw": "魔物牛奶",
+    "en": "Sweet_Milk"
+  },
+  "icon_url": "/images/items/627.gif",
+  "category": "認養寵物之物品",
+  "description": {
+    "official": "特殊加工製作而成的甜味牛奶。是魔物小野豬最喜愛的食物。活動魔物、小兵魔物不能被認養。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 7000,
+    "sell_price": 3500,
+    "weight": 5
+  },
+  "script": "{ pet 1167; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2671,
+      "name": "精英小野豬 / 迅捷小野豬",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1167,
+      "name": "小野豬",
+      "rate": 0.2
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2504,
+  "name": {
+    "zh_tw": "披肩",
+    "en": "Muffler_"
+  },
+  "icon_url": "/images/items/2504.gif",
+  "category": "防具",
+  "description": {
+    "official": "遮住脖子和肩膀的圍巾式斗篷。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 5000,
+    "sell_price": 2500,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2852,
+      "name": "精英假面鬼 / 狡猾假面鬼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1654,
+      "name": "暗●商人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1506,
+      "name": "假面鬼",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

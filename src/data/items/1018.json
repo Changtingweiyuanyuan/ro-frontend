@@ -1,0 +1,45 @@
+{
+  "id": 1018,
+  "name": {
+    "zh_tw": "鼠指甲",
+    "en": "Nail_Of_Mole"
+  },
+  "icon_url": "/images/items/1018.gif",
+  "category": "其他類",
+  "description": {
+    "official": "鼠類的手指甲，因為常用手指甲來挖地，所以相當的尖硬。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 210,
+    "sell_price": 105,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2745,
+      "name": "精英摩爾 / 雄壯摩爾",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1628,
+      "name": "摩爾",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 25.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1024,
+  "name": {
+    "zh_tw": "墨汁",
+    "en": "Chinese_Ink"
+  },
+  "icon_url": "/images/items/1024.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魔物烏賊噴出的黑色液體。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 264,
+    "sell_price": 132,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2669,
+      "name": "精英賽杜拉 / 憤怒賽杜拉",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2193,
+      "name": "章魚腳",
+      "rate": 67.5
+    },
+    {
+      "monster_id": 2175,
+      "name": "深海魷魚",
+      "rate": 67.5
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2192,
+      "name": "小章魚",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 20804,
+      "name": "深海烏賊",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2204,
+      "name": "賽杜拉",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20806,
+      "name": "深海賽杜拉",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2203,
+      "name": "醬缸章魚",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

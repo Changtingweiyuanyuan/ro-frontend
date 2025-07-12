@@ -1,0 +1,37 @@
+{
+  "id": 6260,
+  "name": {
+    "zh_tw": "畢帝特龍的尾巴",
+    "en": "Petti_Tail"
+  },
+  "icon_url": "/images/items/6260.gif",
+  "category": "其他類",
+  "description": {
+    "official": "畢帝特地龍的尾巴部分，聽說切掉了還會再長出來。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2715,
+      "name": "精英 / 雄壯 畢帝特地龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2714,
+      "name": "精英 / 迅捷 畢帝特地龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1155,
+      "name": "畢帝特地龍",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

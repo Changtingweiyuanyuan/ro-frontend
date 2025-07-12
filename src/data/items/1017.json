@@ -1,0 +1,50 @@
+{
+  "id": 1017,
+  "name": {
+    "zh_tw": "鼠須",
+    "en": "Moustache_Of_Mole"
+  },
+  "icon_url": "/images/items/1017.gif",
+  "category": "其他類",
+  "description": {
+    "official": "剪下鼠類胡須所得到的東西，可向收集商購賣。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 106,
+    "sell_price": 53,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2745,
+      "name": "精英摩爾 / 雄壯摩爾",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1862,
+      "name": "土撥鼠",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1628,
+      "name": "摩爾",
+      "rate": 25.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

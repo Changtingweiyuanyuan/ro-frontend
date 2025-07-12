@@ -1,0 +1,50 @@
+{
+  "id": 1020,
+  "name": {
+    "zh_tw": "長發",
+    "en": "Long_Hair"
+  },
+  "icon_url": "/images/items/1020.gif",
+  "category": "其他類",
+  "description": {
+    "official": "細長的少女頭髮，對男性具有相當大的吸引力。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 292,
+    "sell_price": 146,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1630,
+      "name": "白素貞",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1518,
+      "name": "白素貞",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 20932,
+      "name": "戴德雷",
+      "rate": 15.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

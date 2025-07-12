@@ -1,0 +1,55 @@
+{
+  "id": 1013,
+  "name": {
+    "zh_tw": "彩色昆蟲外殼",
+    "en": "Colorful_Shell"
+  },
+  "icon_url": "/images/items/1013.gif",
+  "category": "其他類",
+  "description": {
+    "official": "花花綠綠的昆蟲外殼。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 90,
+    "sell_price": 45,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2629,
+      "name": "精英 / 菁英 溫古力安特",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20598,
+      "name": "珠寶蜘蛛",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1618,
+      "name": "溫古力安特",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20683,
+      "name": "書蟲",
+      "rate": 5.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

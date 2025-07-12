@@ -1,0 +1,40 @@
+{
+  "id": 2277,
+  "name": {
+    "zh_tw": "護士帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2277.gif",
+  "category": "防具",
+  "description": {
+    "official": "可以代替醫生照顧患者的護士所戴的帽子。INT+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 10
+  },
+  "script": "{ bonus bInt,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3762,
+      "name": "憤懣鬼女 / 憤恨的鬼女",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

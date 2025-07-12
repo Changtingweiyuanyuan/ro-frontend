@@ -493,15 +493,15 @@
   },
   "1133": {
     "name": "大斧犬妖",
-    "released": true
+    "released": false
   },
   "1134": {
     "name": "榔頭犬妖",
-    "released": true
+    "released": false
   },
   "1135": {
     "name": "刺錘犬妖",
-    "released": true
+    "released": false
   },
   "1138": {
     "name": "魔鍋蛋",
@@ -529,11 +529,11 @@
   },
   "1144": {
     "name": "烏賊",
-    "released": false
+    "released": true
   },
   "1145": {
     "name": "土撥鼠",
-    "released": false
+    "released": true
   },
   "1146": {
     "name": "黑狐",
@@ -573,11 +573,11 @@
   },
   "1155": {
     "name": "畢帝特地龍",
-    "released": false
+    "released": true
   },
   "1156": {
     "name": "畢帝特飛龍",
-    "released": false
+    "released": true
   },
   "1157": {
     "name": "法老王",
@@ -585,7 +585,7 @@
   },
   "1158": {
     "name": "劍魚",
-    "released": false
+    "released": true
   },
   "1159": {
     "name": "皮裡恩",
@@ -593,11 +593,11 @@
   },
   "1160": {
     "name": "工蟻",
-    "released": false
+    "released": true
   },
   "1161": {
     "name": "漂浮蟲",
-    "released": false
+    "released": true
   },
   "1162": {
     "name": "草精",
@@ -613,7 +613,7 @@
   },
   "1165": {
     "name": "泥人",
-    "released": false
+    "released": true
   },
   "1166": {
     "name": "野豬",
@@ -621,7 +621,7 @@
   },
   "1167": {
     "name": "小野豬",
-    "released": false
+    "released": true
   },
   "1169": {
     "name": "邪骸礦工",
@@ -629,11 +629,11 @@
   },
   "1170": {
     "name": "鬼女",
-    "released": false
+    "released": true
   },
   "1174": {
     "name": "瓢蟲",
-    "released": false
+    "released": true
   },
   "1175": {
     "name": "白鼠",
@@ -1857,7 +1857,7 @@
   },
   "1687": {
     "name": "綠變色龍",
-    "released": false
+    "released": true
   },
   "1688": {
     "name": "嗒妮小姐",
@@ -3405,7 +3405,7 @@
   },
   "2572": {
     "name": "刺蝟蟲",
-    "released": true
+    "released": false
   },
   "2573": {
     "name": "蒼蠅",
@@ -3417,11 +3417,11 @@
   },
   "2575": {
     "name": "松鼠",
-    "released": true
+    "released": false
   },
   "2576": {
     "name": "克瑞米",
-    "released": true
+    "released": false
   },
   "2577": {
     "name": "綠棉蟲",
@@ -3429,7 +3429,7 @@
   },
   "2578": {
     "name": "鍬形蟲",
-    "released": true
+    "released": false
   },
   "2579": {
     "name": "兔斯拉",
@@ -3481,7 +3481,7 @@
   },
   "2591": {
     "name": "野豬",
-    "released": true
+    "released": false
   },
   "2592": {
     "name": "胖胖波利",
@@ -3497,7 +3497,7 @@
   },
   "2595": {
     "name": "瓢蟲",
-    "released": true
+    "released": false
   },
   "2596": {
     "name": "石頭波利",
@@ -3801,7 +3801,7 @@
   },
   "2671": {
     "name": "精英小野豬 / 迅捷小野豬",
-    "released": false
+    "released": true
   },
   "2672": {
     "name": "精英野豬 / 雄壯野豬",
@@ -3809,11 +3809,11 @@
   },
   "2673": {
     "name": "精英野豬 / 菁英野豬",
-    "released": false
+    "released": true
   },
   "2674": {
     "name": "精英泥人 / 憤怒泥人",
-    "released": false
+    "released": true
   },
   "2675": {
     "name": "精英火蜥蜴 / 狡猾火蜥蜴",
@@ -5493,7 +5493,7 @@
   },
   "3384": {
     "name": "波利",
-    "released": true
+    "released": false
   },
   "3385": {
     "name": "瘋兔",
@@ -5501,7 +5501,7 @@
   },
   "3386": {
     "name": "綠棉蟲",
-    "released": true
+    "released": false
   },
   "3387": {
     "name": "小雞",
@@ -5513,15 +5513,15 @@
   },
   "3389": {
     "name": "樹精",
-    "released": true
+    "released": false
   },
   "3390": {
     "name": "魔菇",
-    "released": true
+    "released": false
   },
   "3391": {
     "name": "波波利",
-    "released": true
+    "released": false
   },
   "3392": {
     "name": "狸貓",
@@ -5537,7 +5537,7 @@
   },
   "3395": {
     "name": "森靈",
-    "released": true
+    "released": false
   },
   "3396": {
     "name": "狼",
@@ -5545,7 +5545,7 @@
   },
   "3397": {
     "name": "青蛇",
-    "released": true
+    "released": false
   },
   "3398": {
     "name": "毒蛇",
@@ -5553,7 +5553,7 @@
   },
   "3399": {
     "name": "冰波利",
-    "released": true
+    "released": false
   },
   "3400": {
     "name": "摩卡",
@@ -5701,7 +5701,7 @@
   },
   "3436": {
     "name": "大腳熊",
-    "released": true
+    "released": false
   },
   "3437": {
     "name": "狂暴木乃伊",

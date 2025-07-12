@@ -1,0 +1,40 @@
+{
+  "id": 1358,
+  "name": {
+    "zh_tw": "毀滅之斧",
+    "en": "Buster_"
+  },
+  "icon_url": "/images/items/1358.gif",
+  "category": "武器",
+  "description": {
+    "official": "無堅不摧的斧。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 34000,
+    "sell_price": 17000,
+    "weight": 220
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1654,
+      "name": "暗●商人",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2724,
+      "name": "精英邪骸獸人 / 迅捷邪骸獸人",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1152,
+      "name": "邪骸獸人",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

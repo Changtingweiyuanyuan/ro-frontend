@@ -1,0 +1,45 @@
+{
+  "id": 1007,
+  "name": {
+    "zh_tw": "慧眼",
+    "en": "Penetration"
+  },
+  "icon_url": "/images/items/1007.gif",
+  "category": "其他類",
+  "description": {
+    "official": "能預言並看到遙遠未來的慧眼與知識。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2,
+    "sell_price": 1,
+    "weight": 4
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2759,
+      "name": "精英米杜沙 / 迅捷米杜沙",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1144,
+      "name": "烏賊",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2175,
+      "name": "深海魷魚",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1148,
+      "name": "米杜沙",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

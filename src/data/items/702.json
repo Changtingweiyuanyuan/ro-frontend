@@ -1,0 +1,75 @@
+{
+  "id": 702,
+  "name": {
+    "zh_tw": "家畜血",
+    "en": "Animal_Blood"
+  },
+  "icon_url": "/images/items/702.gif",
+  "category": "其他類",
+  "description": {
+    "official": "裝有家畜新鮮的血的瓶子，有些魔物喜歡這樣的血腥氣味。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 450,
+    "sell_price": 225,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3739,
+      "name": "郊狼",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2759,
+      "name": "精英米杜沙 / 迅捷米杜沙",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1148,
+      "name": "米杜沙",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2067,
+      "name": "瘧蚊__E",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1311,
+      "name": "狂暴野豬",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1221,
+      "name": "野豬",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

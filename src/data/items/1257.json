@@ -1,0 +1,40 @@
+{
+  "id": 1257,
+  "name": {
+    "zh_tw": "刺藤拳刃",
+    "en": "Katar_Of_Thornbush"
+  },
+  "icon_url": "/images/items/1257.gif",
+  "category": "武器",
+  "description": {
+    "official": "以銳利的刺藤所做成的拳刃，有一定的幾率，使敵人陷入發獃的狀態",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 45000,
+    "sell_price": 22500,
+    "weight": 120
+  },
+  "script": "{ bonus bAtkEle,Ele_Earth; bonus2 bAddEff,Eff_Blind,500; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2674,
+      "name": "精英泥人 / 憤怒泥人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3409,
+      "name": "泥人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1165,
+      "name": "泥人",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

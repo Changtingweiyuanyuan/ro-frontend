@@ -1,0 +1,80 @@
+{
+  "id": 1037,
+  "name": {
+    "zh_tw": "龍尾",
+    "en": "Dragon_Train"
+  },
+  "icon_url": "/images/items/1037.gif",
+  "category": "其他類",
+  "description": {
+    "official": "龍的尾巴。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1200,
+    "sell_price": 600,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2849,
+      "name": "精英暴躁龍 / 雄壯暴躁龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20931,
+      "name": "飛拉加裡安",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1384,
+      "name": "七彩飛龍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1385,
+      "name": "七彩地龍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20374,
+      "name": "堅硬七彩飛龍",
+      "rate": 9.2
+    },
+    {
+      "monster_id": 20375,
+      "name": "堅硬七彩地龍",
+      "rate": 8.2
+    },
+    {
+      "monster_id": 2715,
+      "name": "精英 / 雄壯 畢帝特地龍",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2714,
+      "name": "精英 / 迅捷 畢帝特地龍",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2013,
+      "name": "飛龍 / 暴躁龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1156,
+      "name": "畢帝特飛龍",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1155,
+      "name": "畢帝特地龍",
+      "rate": 1.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

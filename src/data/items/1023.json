@@ -1,0 +1,65 @@
+{
+  "id": 1023,
+  "name": {
+    "zh_tw": "魚尾",
+    "en": "Fish_Tail"
+  },
+  "icon_url": "/images/items/1023.gif",
+  "category": "其他類",
+  "description": {
+    "official": "魚類的尾巴。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 196,
+    "sell_price": 98,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2781,
+      "name": "精英群葉貓 / 菁英群葉貓",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 27.5
+    },
+    {
+      "monster_id": 20646,
+      "name": "熱池食人魚",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20643,
+      "name": "熱池劍魚",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20645,
+      "name": "熱池變異魚",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1586,
+      "name": "群葉貓",
+      "rate": 5.5
+    },
+    {
+      "monster_id": 1513,
+      "name": "狐仙",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

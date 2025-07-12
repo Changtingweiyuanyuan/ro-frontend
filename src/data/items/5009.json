@@ -1,0 +1,50 @@
+{
+  "id": 5009,
+  "name": {
+    "zh_tw": "安全帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5009.gif",
+  "category": "防具",
+  "description": {
+    "official": "施工時戴在頭上以防止意外發生的帽子。圓形的構造讓頭部在受到沖擊時可以將傷害減到最低，絕對不會受損。MDEF+3",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 50
+  },
+  "script": "{ bonus bMdef,3; bonus bUnbreakableHelm; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2660,
+      "name": "精英 / 狡猾 邪骸礦工",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1169,
+      "name": "邪骸礦工",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1862,
+      "name": "土撥鼠",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

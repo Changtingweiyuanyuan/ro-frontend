@@ -1,0 +1,39 @@
+{
+  "id": 4046,
+  "name": {
+    "zh_tw": "土撥鼠卡片",
+    "en": "Martin_Card"
+  },
+  "icon_url": "/images/items/4046.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到攻擊時，被黑暗的幾率降低20%。DEF+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bResEff,Eff_Blind,2000; bonus bDef,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1862,
+      "name": "土撥鼠",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

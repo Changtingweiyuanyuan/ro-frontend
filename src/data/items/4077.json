@@ -1,0 +1,34 @@
+{
+  "id": 4077,
+  "name": {
+    "zh_tw": "劍魚卡片",
+    "en": "Phen_Card"
+  },
+  "icon_url": "/images/items/4077.gif",
+  "category": "卡片",
+  "description": {
+    "official": "詠唱時間不會被中斷。變動施法時間增加25%套裝資料:劍魚卡片 & Corrupt Life Card",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bNoCastCancel; bonus bVariableCastrate,25; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2713,
+      "name": "精英劍魚 / 狡猾劍魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6096,
+  "name": {
+    "zh_tw": "青背魚",
+    "en": "Fish_With_Blue_Back"
+  },
+  "icon_url": "/images/items/6096.gif",
+  "category": "其他類",
+  "description": {
+    "official": "來自冰凍水域的的青背魚，對身體非常好。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1158,
+      "name": "劍魚",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20643,
+      "name": "熱池劍魚",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": []
+}

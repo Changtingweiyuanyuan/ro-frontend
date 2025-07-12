@@ -1,0 +1,39 @@
+{
+  "id": 4377,
+  "name": {
+    "zh_tw": "綠變色龍卡片",
+    "en": "Green_Iguana_Card"
+  },
+  "icon_url": "/images/items/4377.gif",
+  "category": "卡片",
+  "description": {
+    "official": "當抓到無分類魔物時，有一定的幾率會掉落水果刨冰",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus3 bAddMonsterDropItem,12063,RC_Formless,50; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2808,
+      "name": "精英綠變色龍 / 狡猾綠變色龍",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3412,
+      "name": "綠變色龍",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1687,
+      "name": "綠變色龍",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

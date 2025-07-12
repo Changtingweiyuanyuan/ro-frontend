@@ -1,0 +1,34 @@
+{
+  "id": 4100,
+  "name": {
+    "zh_tw": "鬼女卡片",
+    "en": "Sohee_Card"
+  },
+  "icon_url": "/images/items/4100.gif",
+  "category": "卡片",
+  "description": {
+    "official": "MSP+15%SP恢復力提高3%套裝資料:鬼女卡片 & 憤懣鬼女卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bMaxSPrate,15; bonus bSPrecovRate,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

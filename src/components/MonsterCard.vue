@@ -147,7 +147,7 @@ const officialDescriptionLines = computed(() => {
       </div>
       <div class="attributes">
         <span>{{ monster.basic_info.race }}</span>
-        <span>{{ monster.basic_info.element.type }}屬性</span>
+        <span>{{ monster.basic_info.element.type }}屬性{{ monster.basic_info.element.level }}</span>
         <span>{{ monster.basic_info.size }}型</span>
       </div>
     </div>
@@ -155,6 +155,7 @@ const officialDescriptionLines = computed(() => {
     <div class="identity">
       <img :src="`${baseUrl}${monster.image_url}`" :alt="monster.name.zh_tw" class="monster-image-large">
       <div class="monster-name-primary">{{ monster.name.zh_tw }}</div>
+      <div class="monster-id">ID: {{ monster.id }}</div>
       <div class="monster-name-secondary">{{ monster.name.en }}</div>
     </div>
 
@@ -195,7 +196,7 @@ const officialDescriptionLines = computed(() => {
                     <div v-for="effect in formattedEffects" :key="effect" class="effect-item">{{ effect }}</div>
                 </div>
 
-                <div class="dropped-by-section" v-if="itemsDatabase[drop.item_id].dropped_by.length > 1">
+                <!-- <div class="dropped-by-section" v-if="itemsDatabase[drop.item_id].dropped_by.length > 1">
                     <div class="monster-drop-title">其他掉落來源</div>
                     <div class="monster-drop-list">
                         <template v-for="mob in itemsDatabase[drop.item_id].dropped_by" :key="mob.monster_id">
@@ -205,7 +206,7 @@ const officialDescriptionLines = computed(() => {
                             </div>
                         </template>
                     </div>
-                </div>
+                </div> -->
               </div>
               
               <div v-else class="details-error">找不到 ID:{{ drop.item_id }} 的物品資料。</div>
@@ -351,6 +352,14 @@ const officialDescriptionLines = computed(() => {
   font-weight: bold;
   color: #2A1F18;
 }
+
+.monster-id {
+  font-size: 12px;
+  color: #a0938a;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
 
 .monster-name-secondary {
   font-size: 14px;

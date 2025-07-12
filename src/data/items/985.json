@@ -1,0 +1,720 @@
+{
+  "id": 985,
+  "name": {
+    "zh_tw": "鋁",
+    "en": "Elunium"
+  },
+  "icon_url": "/images/items/985.gif",
+  "category": "其他類",
+  "description": {
+    "official": "很輕且沒有毒性的金屬。常被拿來作成盔甲，以此製成的所有防具將變成更強。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1100,
+    "sell_price": 550,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2483,
+      "name": "巴風特-咪魘",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1418,
+      "name": "墨蛇君",
+      "rate": 55.0
+    },
+    {
+      "monster_id": 1990,
+      "name": "硬石猛瑪",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2362,
+      "name": "古埃及王-咪魘",
+      "rate": 38.0
+    },
+    {
+      "monster_id": 2888,
+      "name": "精英 / 雄壯 巴拿斯帕堤",
+      "rate": 37.5
+    },
+    {
+      "monster_id": 1940,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1939,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1938,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1941,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1944,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1946,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1945,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1943,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 1942,
+      "name": "寶物箱子",
+      "rate": 36.38
+    },
+    {
+      "monster_id": 3473,
+      "name": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 3474,
+      "name": "不滅的受到詛咒的騎士",
+      "rate": 32.45
+    },
+    {
+      "monster_id": 3475,
+      "name": "不滅的風魔巫師",
+      "rate": 32.45
+    },
+    {
+      "monster_id": 1039,
+      "name": "巴風特",
+      "rate": 27.16
+    },
+    {
+      "monster_id": 1871,
+      "name": "墮落的大神官 希巴姆 / 悉潘",
+      "rate": 27.16
+    },
+    {
+      "monster_id": 2107,
+      "name": "墮落的大神官希巴姆_E",
+      "rate": 27.16
+    },
+    {
+      "monster_id": 2100,
+      "name": "巴風特_E2",
+      "rate": 27.16
+    },
+    {
+      "monster_id": 1272,
+      "name": "黑暗之王",
+      "rate": 25.71
+    },
+    {
+      "monster_id": 2102,
+      "name": "黑暗之王_E",
+      "rate": 25.71
+    },
+    {
+      "monster_id": 1688,
+      "name": "嗒妮小姐",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1251,
+      "name": "冰暴騎士",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 2094,
+      "name": "獸人英雄_E",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 1087,
+      "name": "獸人英雄",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 1059,
+      "name": "蜂後",
+      "rate": 21.34
+    },
+    {
+      "monster_id": 2099,
+      "name": "蜂後_E",
+      "rate": 21.34
+    },
+    {
+      "monster_id": 1190,
+      "name": "獸人酋長",
+      "rate": 21.34
+    },
+    {
+      "monster_id": 1252,
+      "name": "卡崙",
+      "rate": 19.89
+    },
+    {
+      "monster_id": 1511,
+      "name": "古埃及王",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 1046,
+      "name": "死靈",
+      "rate": 18.43
+    },
+    {
+      "monster_id": 2098,
+      "name": "死靈_E",
+      "rate": 18.43
+    },
+    {
+      "monster_id": 1147,
+      "name": "蟻後",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1492,
+      "name": "元靈武士",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1112,
+      "name": "海盜之王",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3428,
+      "name": "皮裡恩",
+      "rate": 14.5
+    },
+    {
+      "monster_id": 1159,
+      "name": "皮裡恩",
+      "rate": 14.5
+    },
+    {
+      "monster_id": 1150,
+      "name": "月夜貓",
+      "rate": 13.0
+    },
+    {
+      "monster_id": 1115,
+      "name": "虎王",
+      "rate": 12.0
+    },
+    {
+      "monster_id": 3426,
+      "name": "虎王",
+      "rate": 12.0
+    },
+    {
+      "monster_id": 2095,
+      "name": "虎王_E",
+      "rate": 11.5
+    },
+    {
+      "monster_id": 1086,
+      "name": "黃金蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2154,
+      "name": "巴拿斯帕堤",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2875,
+      "name": "精英 / 菁英 暗●智者 西里亞阿迪",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2607,
+      "name": "精英扎古丹 / 狡猾扎古丹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3505,
+      "name": "巨型蛋黃波利",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2068,
+      "name": "波伊塔塔",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2644,
+      "name": "精英 / 憤怒 鐘乳巨石怪",
+      "rate": 4.1
+    },
+    {
+      "monster_id": 2870,
+      "name": "精英古鐘魔 / 菁英古鐘魔",
+      "rate": 4.1
+    },
+    {
+      "monster_id": 2871,
+      "name": "精英古鐘魔 / 憤怒古鐘魔",
+      "rate": 4.1
+    },
+    {
+      "monster_id": 2742,
+      "name": "精英 / 憤怒 咪羅克門徒",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2744,
+      "name": "精英 / 迅捷 咪羅克門徒",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2743,
+      "name": "精英 / 狡猾 咪羅克門徒",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1307,
+      "name": "狂暴月夜貓",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 2604,
+      "name": "精英 / 雄壯 腐屍戰俘",
+      "rate": 2.8
+    },
+    {
+      "monster_id": 2691,
+      "name": "精英幽靈劍士 / 雄壯幽靈劍士",
+      "rate": 2.65
+    },
+    {
+      "monster_id": 2690,
+      "name": "精英幽靈劍士 / 迅捷幽靈劍士",
+      "rate": 2.65
+    },
+    {
+      "monster_id": 2774,
+      "name": "精英銀月魔女 / 迅捷銀月魔女",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2636,
+      "name": "精英玩偶熊 / 迅捷玩偶熊",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 1219,
+      "name": "深淵騎士",
+      "rate": 1.85
+    },
+    {
+      "monster_id": 1979,
+      "name": "扎庫坦 / 扎古丹",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2221,
+      "name": "暗●聖殿十字軍",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3503,
+      "name": "突擊巴西利斯克",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1668,
+      "name": "阿克坦",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3506,
+      "name": "叢林曼陀羅魔花",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2225,
+      "name": "暗●神行太保",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2916,
+      "name": "大笨鐘 / 大古鐘",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1132,
+      "name": "卡利斯格",
+      "rate": 0.96
+    },
+    {
+      "monster_id": 1269,
+      "name": "古鐘魔",
+      "rate": 0.82
+    },
+    {
+      "monster_id": 1278,
+      "name": "鐘乳巨石怪",
+      "rate": 0.82
+    },
+    {
+      "monster_id": 1920,
+      "name": "咪羅克門徒之活屍",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1918,
+      "name": "咪羅克門徒之邪靈",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 2817,
+      "name": "精英深淵犬妖 / 憤怒深淵犬妖",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 2818,
+      "name": "精英深淵犬妖 / 狡猾深淵犬妖",
+      "rate": 0.65
+    },
+    {
+      "monster_id": 1197,
+      "name": "腐屍戰俘",
+      "rate": 0.56
+    },
+    {
+      "monster_id": 1276,
+      "name": "幽靈弓箭手",
+      "rate": 0.53
+    },
+    {
+      "monster_id": 1163,
+      "name": "幽靈劍士",
+      "rate": 0.53
+    },
+    {
+      "monster_id": 2167,
+      "name": "雙角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2166,
+      "name": "獨角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2471,
+      "name": "王朝侍衛長 / 怨念的卡利斯格",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2169,
+      "name": "尖角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1505,
+      "name": "銀月魔女",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2469,
+      "name": "王朝弓箭手 / 四處徘徊的弓箭手",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2468,
+      "name": "王朝騎士 / 幽靈劍士",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1622,
+      "name": "玩偶熊",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2168,
+      "name": "鹿角甲蟲卵 (噩咪)",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2879,
+      "name": "精英獨眼怪 / 雄壯獨眼怪",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3419,
+      "name": "邪惡摩艾",
+      "rate": 0.31
+    },
+    {
+      "monster_id": 1156,
+      "name": "畢帝特飛龍",
+      "rate": 0.31
+    },
+    {
+      "monster_id": 1274,
+      "name": "邪惡摩艾",
+      "rate": 0.31
+    },
+    {
+      "monster_id": 20272,
+      "name": "古代邪惡摩艾",
+      "rate": 0.31
+    },
+    {
+      "monster_id": 1214,
+      "name": "巧克猴",
+      "rate": 0.27
+    },
+    {
+      "monster_id": 1861,
+      "name": "巧克猴",
+      "rate": 0.27
+    },
+    {
+      "monster_id": 2796,
+      "name": "精英妖君 / 菁英妖君",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2909,
+      "name": "精英愛麗削 / 憤怒愛麗削",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1615,
+      "name": "黑曜石",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2625,
+      "name": "精英凡娜圖 / 憤怒凡娜圖",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 20356,
+      "name": "高階貝拉雷 / 咪魘邪心獵人貝拉雷",
+      "rate": 0.24
+    },
+    {
+      "monster_id": 20358,
+      "name": "高階薩納雷 / 咪魘邪心獵人薩納雷",
+      "rate": 0.24
+    },
+    {
+      "monster_id": 20343,
+      "name": "E-13EN0",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 20364,
+      "name": "異種貝納姆",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1255,
+      "name": "奈利蟲",
+      "rate": 0.19
+    },
+    {
+      "monster_id": 1130,
+      "name": "南瓜先生",
+      "rate": 0.16
+    },
+    {
+      "monster_id": 3662,
+      "name": "南瓜先生",
+      "rate": 0.16
+    },
+    {
+      "monster_id": 3663,
+      "name": "南瓜先生",
+      "rate": 0.16
+    },
+    {
+      "monster_id": 2895,
+      "name": "精英 / 憤怒 阿修羅機械戰士",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2286,
+      "name": "深淵犬妖 (刺錘)",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 2284,
+      "name": "深淵犬妖 (大斧)",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 2285,
+      "name": "深淵犬妖 (榔頭)",
+      "rate": 0.13
+    },
+    {
+      "monster_id": 20355,
+      "name": "貝拉雷 / 邪心獵人貝拉雷",
+      "rate": 0.12
+    },
+    {
+      "monster_id": 20350,
+      "name": "A013-貝拉雷",
+      "rate": 0.12
+    },
+    {
+      "monster_id": 2309,
+      "name": "獨眼怪",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3180,
+      "name": "龍的影子 / 飛龍",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1778,
+      "name": "蓋俄斯提",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3444,
+      "name": "觀察者",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 20363,
+      "name": "貝納姆",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 20371,
+      "name": "越獄腐屍",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1774,
+      "name": "紅惡魔之眼",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3626,
+      "name": "強化邪心獵人",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 20369,
+      "name": "冰凍蝙蝠弓箭手",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 1678,
+      "name": "橘凡娜圖",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2090,
+      "name": "鹿角甲蟲卵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1677,
+      "name": "綠凡娜圖",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2091,
+      "name": "尖角甲蟲卵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1512,
+      "name": "妖君",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1676,
+      "name": "褐凡娜圖",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1736,
+      "name": "愛麗俄",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2089,
+      "name": "雙角甲蟲卵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1975,
+      "name": "眼魔首領",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1735,
+      "name": "愛麗削 / 愛麗瑟",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1679,
+      "name": "藍凡娜圖",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2088,
+      "name": "獨角甲蟲卵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1633,
+      "name": "惡魔之眼",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1978,
+      "name": "地獄阿修羅機械戰士",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1365,
+      "name": "阿修羅機械戰士",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1721,
+      "name": "龍蛋",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 3177,
+      "name": "目擊者 / 惡魔之眼",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

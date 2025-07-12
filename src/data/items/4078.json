@@ -1,0 +1,44 @@
+{
+  "id": 4078,
+  "name": {
+    "zh_tw": "野豬卡片",
+    "en": "Savage_Card"
+  },
+  "icon_url": "/images/items/4078.gif",
+  "category": "卡片",
+  "description": {
+    "official": "VIT+3",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bVit,3; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1221,
+      "name": "野豬",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

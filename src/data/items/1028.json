@@ -1,0 +1,50 @@
+{
+  "id": 1028,
+  "name": {
+    "zh_tw": "野豬毛",
+    "en": "Wild_Boar's_Mane"
+  },
+  "icon_url": "/images/items/1028.gif",
+  "category": "其他類",
+  "description": {
+    "official": "野豬身上的毛，像針一樣刺人且非常強韌。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 196,
+    "sell_price": 98,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1221,
+      "name": "野豬",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 1311,
+      "name": "狂暴野豬",
+      "rate": 17.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

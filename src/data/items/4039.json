@@ -1,0 +1,34 @@
+{
+  "id": 4039,
+  "name": {
+    "zh_tw": "瓢蟲卡片",
+    "en": "Stainer_Card"
+  },
+  "icon_url": "/images/items/4039.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到攻擊時，被沉默的幾率降低20%。DEF+1套裝資料:流氓套裝 : 暗●盜賊卡片, 火忍西怒畢卡片, 狂暴野貓卡片, 瓢蟲卡片, 邪骸浪人卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bResEff,Eff_Silence,2000; bonus bDef,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2645,
+      "name": "精英瓢蟲 / 狡猾瓢蟲",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1174,
+      "name": "瓢蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6249,
+  "name": {
+    "zh_tw": "野豬肉",
+    "en": "Savage_Meat"
+  },
+  "icon_url": "/images/items/6249.gif",
+  "category": "其他類",
+  "description": {
+    "official": "野豬最好吃的部位",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": []
+}

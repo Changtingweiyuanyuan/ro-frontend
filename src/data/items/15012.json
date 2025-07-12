@@ -1,0 +1,47 @@
+{
+  "id": 15012,
+  "name": {
+    "zh_tw": "皎潔長袍",
+    "en": "Puente_Robe"
+  },
+  "icon_url": "/images/items/15012.gif",
+  "category": "防具",
+  "description": {
+    "official": "手工刺繡而成的純白長袍。固定詠唱-3%。自身施展的治愈術的恢復量增加5%。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 12000,
+    "sell_price": 6000,
+    "weight": 40
+  },
+  "script": "{ bonus bFixedCastrate,-3; bonus bHealPower,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3762,
+      "name": "憤懣鬼女 / 憤恨的鬼女",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": []
+}

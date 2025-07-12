@@ -1,0 +1,40 @@
+{
+  "id": 1251,
+  "name": {
+    "zh_tw": "拳刃",
+    "en": "Jur_"
+  },
+  "icon_url": "/images/items/1251.gif",
+  "category": "武器",
+  "description": {
+    "official": "方便移動為要求所製造的拳刃。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 19500,
+    "sell_price": 9750,
+    "weight": 80
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1862,
+      "name": "土撥鼠",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

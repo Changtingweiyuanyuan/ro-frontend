@@ -1,0 +1,55 @@
+{
+  "id": 2225,
+  "name": {
+    "zh_tw": "防風皮革眼鏡",
+    "en": "上中"
+  },
+  "icon_url": "/images/items/2225.gif",
+  "category": "防具",
+  "description": {
+    "official": "皮革製成的防風眼鏡。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 30
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2760,
+      "name": "精英土撥鼠 / 雄壯土撥鼠",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 0.04
+    },
+    {
+      "monster_id": 1862,
+      "name": "土撥鼠",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1145,
+      "name": "土撥鼠",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

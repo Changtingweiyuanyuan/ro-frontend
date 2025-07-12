@@ -1,0 +1,27 @@
+{
+  "id": 13006,
+  "name": {
+    "zh_tw": "龍鱗",
+    "en": "Khukri"
+  },
+  "icon_url": "/images/items/13006.gif",
+  "category": "武器",
+  "description": {
+    "official": "把手用黑龍的鱗片，有著龍的鱗片黑暗氣息讓刀的存在更為不安近距離物理攻擊時，以較低的幾率對敵人詛咒",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 240000,
+    "sell_price": 120000,
+    "weight": 60
+  },
+  "script": "{ bonus bAtkEle,Ele_Dark; bonus2 bAddEff,Eff_Curse,1000; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1156,
+      "name": "畢帝特飛龍",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": []
+}

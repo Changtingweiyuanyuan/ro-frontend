@@ -1,0 +1,135 @@
+{
+  "id": 1035,
+  "name": {
+    "zh_tw": "龍牙",
+    "en": "Dragon_Canine"
+  },
+  "icon_url": "/images/items/1035.gif",
+  "category": "其他類",
+  "description": {
+    "official": "龍的牙齒，非常的堅硬，聽說連龍身上鋼鐵般的皮膚都可以輕易地穿透。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 484,
+    "sell_price": 242,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2715,
+      "name": "精英 / 雄壯 畢帝特地龍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2714,
+      "name": "精英 / 迅捷 畢帝特地龍",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2913,
+      "name": "精英俄希托斯 / 菁英俄希托斯",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2912,
+      "name": "精英俄希托斯 / 雄壯俄希托斯",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1155,
+      "name": "畢帝特地龍",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2832,
+      "name": "精英紅貝勒斯 / 憤怒綠貝勒斯",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 20931,
+      "name": "飛拉加裡安",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1716,
+      "name": "灰俄希托斯",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1713,
+      "name": "俄希托斯(黃)",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1720,
+      "name": "三頭龍",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 20375,
+      "name": "堅硬七彩地龍",
+      "rate": 13.34
+    },
+    {
+      "monster_id": 20374,
+      "name": "堅硬七彩飛龍",
+      "rate": 13.34
+    },
+    {
+      "monster_id": 1384,
+      "name": "七彩飛龍",
+      "rate": 13.0
+    },
+    {
+      "monster_id": 1385,
+      "name": "七彩地龍",
+      "rate": 13.0
+    },
+    {
+      "monster_id": 1714,
+      "name": "紅貝勒斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1717,
+      "name": "綠貝勒斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3178,
+      "name": "俄希托斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3179,
+      "name": "俄希托斯 / 灰俄希托斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1262,
+      "name": "半龍人",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3199,
+      "name": "邪惡半龍人",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2849,
+      "name": "精英暴躁龍 / 雄壯暴躁龍",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2013,
+      "name": "飛龍 / 暴躁龍",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": 1036,
+  "name": {
+    "zh_tw": "龍鱗",
+    "en": "Dragon_Scale"
+  },
+  "icon_url": "/images/items/1036.gif",
+  "category": "其他類",
+  "description": {
+    "official": "龍的鱗片，如鋼鐵般堅硬，傳說對於耐冷或耐熱都有非常大的效果。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 500,
+    "sell_price": 250,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2912,
+      "name": "精英俄希托斯 / 雄壯俄希托斯",
+      "rate": 89.75
+    },
+    {
+      "monster_id": 2832,
+      "name": "精英紅貝勒斯 / 憤怒綠貝勒斯",
+      "rate": 89.75
+    },
+    {
+      "monster_id": 2913,
+      "name": "精英俄希托斯 / 菁英俄希托斯",
+      "rate": 89.75
+    },
+    {
+      "monster_id": 1156,
+      "name": "畢帝特飛龍",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2849,
+      "name": "精英暴躁龍 / 雄壯暴躁龍",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2862,
+      "name": "精英舞獅 / 狡猾舞獅",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1716,
+      "name": "灰俄希托斯",
+      "rate": 17.95
+    },
+    {
+      "monster_id": 2377,
+      "name": "Novus",
+      "rate": 17.95
+    },
+    {
+      "monster_id": 1717,
+      "name": "綠貝勒斯",
+      "rate": 17.95
+    },
+    {
+      "monster_id": 2731,
+      "name": "精英諾博斯 / 菁英諾博斯",
+      "rate": 14.75
+    },
+    {
+      "monster_id": 2730,
+      "name": "精英諾博斯 / 雄壯諾博斯",
+      "rate": 14.75
+    },
+    {
+      "monster_id": 2728,
+      "name": "精英諾博斯 / 狡猾諾博斯",
+      "rate": 14.75
+    },
+    {
+      "monster_id": 2729,
+      "name": "精英諾博斯 / 迅捷諾博斯",
+      "rate": 14.75
+    },
+    {
+      "monster_id": 1385,
+      "name": "七彩地龍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1714,
+      "name": "紅貝勒斯",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1384,
+      "name": "七彩飛龍",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2013,
+      "name": "飛龍 / 暴躁龍",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1514,
+      "name": "舞獅",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3179,
+      "name": "俄希托斯 / 灰俄希托斯",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1718,
+      "name": "黃諾博斯",
+      "rate": 2.95
+    },
+    {
+      "monster_id": 1715,
+      "name": "諾博斯(紅)",
+      "rate": 2.95
+    },
+    {
+      "monster_id": 1262,
+      "name": "半龍人",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 3199,
+      "name": "邪惡半龍人",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

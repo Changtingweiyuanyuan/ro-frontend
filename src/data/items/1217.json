@@ -1,0 +1,35 @@
+{
+  "id": 1217,
+  "name": {
+    "zh_tw": "雙刃短劍",
+    "en": "Stiletto_"
+  },
+  "icon_url": "/images/items/1217.gif",
+  "category": "武器",
+  "description": {
+    "official": "以刀刃實用為要求，所製造出的雙刃短劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 19500,
+    "sell_price": 9750,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2651,
+      "name": "精英鬼女 / 迅捷鬼女",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1170,
+      "name": "鬼女",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

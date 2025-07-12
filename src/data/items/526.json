@@ -1,0 +1,186 @@
+{
+  "id": 526,
+  "name": {
+    "zh_tw": "蜂膠",
+    "en": "Royal_Jelly"
+  },
+  "icon_url": "/images/items/526.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "從蜂蜜收集來的物品，此物品蜂後專門食用的食品，對身體健康有相當幫助，可恢復所有狀態且增加HP和SP。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 7000,
+    "sell_price": 3500,
+    "weight": 15
+  },
+  "script": "{ itemheal rand(325,405),rand(40,60); sc_end SC_POISON; sc_end SC_SILENCE; sc_end SC_BLIND; sc_end SC_CONFUSION; sc_end SC_CURSE; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1399,
+      "name": "巴風特",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1157,
+      "name": "法老王",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1059,
+      "name": "蜂後",
+      "rate": 40.0
+    },
+    {
+      "monster_id": 2621,
+      "name": "精英薇歐莉 / 狡猾薇歐莉",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2623,
+      "name": "精英薇歐莉 / 雄壯薇歐莉",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2622,
+      "name": "精英薇歐莉 / 迅捷薇歐莉",
+      "rate": 35.0
+    },
+    {
+      "monster_id": 2099,
+      "name": "蜂後_E",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2775,
+      "name": "精英猴桃木 / 雄壯猴桃木",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2821,
+      "name": "精英狂暴蜂兵 / 菁英狂暴蜂兵",
+      "rate": 13.75
+    },
+    {
+      "monster_id": 1390,
+      "name": "薇歐莉",
+      "rate": 7.0
+    },
+    {
+      "monster_id": 2773,
+      "name": "精英 / 狡猾 魯修拉黃蜂",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1410,
+      "name": "猴桃木",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2830,
+      "name": "精英水靈龜 / 雄壯水靈龜",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 2831,
+      "name": "精英水靈龜 / 菁英水靈龜",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 1303,
+      "name": "狂暴蜂兵",
+      "rate": 2.75
+    },
+    {
+      "monster_id": 1417,
+      "name": "拉鏈熊",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1180,
+      "name": "九尾狐",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1994,
+      "name": "毒黃蜂 / 魯修拉黃蜂",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 1319,
+      "name": "水靈龜",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 1318,
+      "name": "火焰龜",
+      "rate": 0.7
+    },
+    {
+      "monster_id": 1296,
+      "name": "犬妖首領",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3803,
+      "name": "不祥火焰龜",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2627,
+      "name": "精英 / 迅捷 潘貝勒克",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2899,
+      "name": "精英虎蜥人 / 憤怒虎蜥人",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2704,
+      "name": "精英牛蛙 / 迅捷牛蛙",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2672,
+      "name": "精英野豬 / 雄壯野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1771,
+      "name": "潘貝勒克",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2673,
+      "name": "精英野豬 / 菁英野豬",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1206,
+      "name": "虎蜥人",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1402,
+      "name": "牛蛙",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1166,
+      "name": "野豬",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}
