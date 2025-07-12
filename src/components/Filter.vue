@@ -71,7 +71,7 @@ const sizeOptions = [
       <input
         type="text"
         class="search-input"
-        placeholder="請輸入怪物名稱、掉落物"
+        placeholder="請輸入怪物名稱、掉落物名稱"
         :value="searchQuery"
         @input="handleInput"
       />

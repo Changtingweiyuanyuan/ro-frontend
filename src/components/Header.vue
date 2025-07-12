@@ -1,19 +1,22 @@
 <script setup>
-const baseUrl = import.meta.env.BASE_URL;
+const baseUrl = import.meta.env.BASE_URL
 
 const reloadPage = () => {
-  window.location.reload();
+	window.location.reload()
 }
 </script>
 
 <template>
-  <div class="header">
+	<div class="header">
 		<div class="content">
-			<div class="link" @click="reloadPage">掉落物查詢</div>
-			<div class="hearts">
-				<img :src="`${baseUrl}images/ui/heart.png`" />
-				<img :src="`${baseUrl}images/ui/heart.png`" />
-				<img :src="`${baseUrl}images/ui/heart.png`" />
+			<div class="name">
+				<img :src="`${baseUrl}link.gif`" />
+				<div class="text">RO 樂園查詢工具</div>
+			</div>
+			<div
+				class="link"
+				@click="reloadPage">
+				掉落物查詢
 			</div>
 		</div>
 	</div>
@@ -26,15 +29,15 @@ const reloadPage = () => {
 	position: fixed;
 	top: 0;
 	left: 0;
-  background: #4C3B2B;
+	background: #606753;
 	color: #e6e6e6;
 	border-bottom: 1.5px solid #b2a99f;
 	z-index: 100;
-	
+
 	.content {
 		display: flex;
 		margin: auto;
-		padding: 0 40px;
+		padding: 2px 40px;
 
 		@media (min-width: 576px) {
 			max-width: 540px;
@@ -52,22 +55,30 @@ const reloadPage = () => {
 			max-width: 1320px;
 		}
 
+		.name {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin-right: 24px;
+
+			img {
+				width: 24px;
+				height: 24px;
+			}
+
+			.text {
+				background: #0f0f0f;
+				border-radius: 4px;
+				font-size: 12px;
+				margin-left: 4px;
+				padding: 2px 8px;
+			}
+		}
+
 		.link {
 			line-height: 36px;
 			font-weight: bold;
 			cursor: pointer;
-		}
-
-		.hearts {
-			display: flex;
-			align-items: center;
-			margin-left: 12px;
-			gap: 4px;
-
-			img {
-				width: 16px;
-				height: 16px;
-			}
 		}
 	}
 }
