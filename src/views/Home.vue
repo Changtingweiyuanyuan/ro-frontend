@@ -30,7 +30,7 @@ const filterAndReset = () => {
             monster.id.toString().includes(query) ||
             (monster.drops && monster.drops.some(drop => getCleanDropName(drop.name).includes(query)));
         
-        const raceMap = { '無形': 'FORMLESS', '魚貝': 'AQUATIC', '龍族': 'DRAGON', '動物': 'BEAST', '天使': 'ANGEL', '惡魔': 'DEMON', '昆蟲': 'INSECT', '植物': 'PLANT', '不死': 'UNDEAD', '人形': 'HUMANOID' };
+        const raceMap = { '無形': 'FORMLESS', '魚貝': 'AQUATIC', '龍': 'DRAGON', '動物': 'BEAST', '天使': 'ANGEL', '惡魔': 'DEMON', '昆蟲': 'INSECT', '植物': 'PLANT', '不死': 'UNDEAD', '人形': 'HUMANOID' };
         const elementMap = { '無': 'NONE', '水': 'WATER', '地': 'EARTH', '火': 'FIRE', '風': 'WIND', '毒': 'POISON', '聖': 'HOLY', '暗': 'DARK', '念': 'GHOST', '不死': 'UNDEAD' };
         const sizeMap = { '小': 'SMALL', '中': 'MEDIUM', '大': 'LARGE' };
 
