@@ -104,6 +104,9 @@ const getDropRate = (drop) => {
   if (typeof drop.rate === 'number' && drop.rate > 0) {
     return drop.rate % 1 === 0 ? `${drop.rate}%` : `${parseFloat(drop.rate.toFixed(2))}%`;
   }
+	if (typeof drop.rate === 'string' && drop.rate !== '') {
+		return drop.rate;
+	}
   if (typeof drop.name === 'string') {
     let match = drop.name.match(/([\d.]+%)\s*$/) || drop.name.match(/\(\s*([\d.]+%)\s*\)/);
     if (match) return match[1];
