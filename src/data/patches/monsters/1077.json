@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 510,
+      "name": "藍色藥草",
+      "rate": 0.3,
+      "icon_url": "/images/items/510.gif"
+    },
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 2.75,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 921,
+      "name": "香菇芽孢",
+      "rate": 6.0,
+      "icon_url": "/images/items/921.gif"
+    },
+    {
+      "item_id": 972,
+      "name": "卡勒波迪藥水",
+      "rate": 0.25,
+      "icon_url": "/images/items/972.gif"
+    },
+    {
+      "item_id": 2221,
+      "name": "漁夫帽[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/2221.gif"
+    },
+    {
+      "item_id": 4048,
+      "name": "毒魔菇卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7033,
+      "name": "毒魔菇芽孢",
+      "rate": 45.0,
+      "icon_url": "/images/items/7033.gif"
+    },
+    {
+      "item_id": 1458,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1157,
+  "name": {
+    "zh_tw": "雙手巨劍",
+    "en": "Two_Hand_Sword"
+  },
+  "icon_url": "/images/items/1157.gif",
+  "category": "武器",
+  "description": {
+    "official": "以重量和揮舞速度來制伏敵人的雙手巨劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 60000,
+    "sell_price": 30000,
+    "weight": 220
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2472,
+      "name": "受詛咒騎士 / 血腥騎士",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

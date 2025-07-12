@@ -1,0 +1,29 @@
+{
+  "id": 1160,
+  "name": {
+    "zh_tw": "雙手重劍",
+    "en": "Broad_Sword"
+  },
+  "icon_url": "/images/items/1160.gif",
+  "category": "武器",
+  "description": {
+    "official": "厚實的刀刃，既可攻擊又可防禦，多用途的雙手巨劍。DEF+5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 65000,
+    "sell_price": 32500,
+    "weight": 200
+  },
+  "script": "{ bonus bDef,5; bonus bUnbreakableWeapon; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2472,
+      "name": "受詛咒騎士 / 血腥騎士",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6263,
+  "name": {
+    "zh_tw": "椰果",
+    "en": "Coconut_Fruit"
+  },
+  "icon_url": "/images/items/6263.gif",
+  "category": "其他類",
+  "description": {
+    "official": "是椰子樹的果實，裡面有白色果汁。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 100,
+    "sell_price": 50,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1314,
+      "name": "果樹龜",
+      "rate": 1.0
+    }
+  ],
+  "obtained_from": []
+}

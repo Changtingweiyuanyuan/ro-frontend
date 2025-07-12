@@ -1,0 +1,117 @@
+{
+  "id": 568,
+  "name": {
+    "zh_tw": "檸檬",
+    "en": "Lemon"
+  },
+  "icon_url": "/images/items/568.gif",
+  "category": "治療/恢復類",
+  "description": {
+    "official": "屬橢圓形，成熟時變成黃色有香味的水果，光用想象的，嘴裡就有一股酸溜溜的感覺而產生口水！恢復少量的SP",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 60,
+    "sell_price": 30,
+    "weight": 4
+  },
+  "script": "{ itemheal 0,rand(10,20); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1585,
+      "name": "啞劇猴",
+      "rate": 46.66
+    },
+    {
+      "monster_id": 2485,
+      "name": "凱美拉-咪魘",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2870,
+      "name": "精英古鐘魔 / 菁英古鐘魔",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 2871,
+      "name": "精英古鐘魔 / 憤怒古鐘魔",
+      "rate": 8.0
+    },
+    {
+      "monster_id": 2747,
+      "name": "精英米洛斯 / 憤怒米洛斯",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2749,
+      "name": "精英米洛斯 / 迅捷米洛斯",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2748,
+      "name": "精英米洛斯 / 狡猾米洛斯",
+      "rate": 7.5
+    },
+    {
+      "monster_id": 2781,
+      "name": "精英群葉貓 / 菁英群葉貓",
+      "rate": 6.25
+    },
+    {
+      "monster_id": 1283,
+      "name": "凱美拉",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 3200,
+      "name": "邪惡的凱美拉",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2353,
+      "name": "米洛斯-咪魘",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1269,
+      "name": "古鐘魔",
+      "rate": 1.6
+    },
+    {
+      "monster_id": 2916,
+      "name": "大笨鐘 / 大古鐘",
+      "rate": 1.6
+    },
+    {
+      "monster_id": 1149,
+      "name": "米洛斯",
+      "rate": 1.5
+    },
+    {
+      "monster_id": 1209,
+      "name": "藍鼠",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1586,
+      "name": "群葉貓",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 20686,
+      "name": "下水道藍鼠",
+      "rate": 1.25
+    }
+  ],
+  "obtained_from": []
+}

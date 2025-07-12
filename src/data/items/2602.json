@@ -1,0 +1,36 @@
+{
+  "id": 2602,
+  "name": {
+    "zh_tw": "智力耳環",
+    "en": "Earring"
+  },
+  "icon_url": "/images/items/2602.gif",
+  "category": "防具",
+  "description": {
+    "official": "掛在耳朵時，會感覺到神祕的力量，是種讓精神抖擻的神奇耳環。INT+2",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 30000,
+    "sell_price": 15000,
+    "weight": 10
+  },
+  "script": "{ bonus bInt,2; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "寶石盒"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 1646,
+      "name": "拉格利瑪之杖[2]",
+      "rate": 2.0,
+      "icon_url": "/images/items/1646.gif"
+    },
+    {
+      "item_id": 4366,
+      "name": "暗●超魔導師卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5085,
+      "name": "紅色小髮帶",
+      "rate": 0.01,
+      "icon_url": "/images/items/5085.gif"
+    },
+    {
+      "item_id": 6223,
+      "name": "混沌金屬",
+      "rate": 0.01,
+      "icon_url": "/images/items/6223.gif"
+    },
+    {
+      "item_id": 6469,
+      "name": "勇士的意志",
+      "rate": 2.0,
+      "icon_url": "/images/items/6469.gif"
+    },
+    {
+      "item_id": 6471,
+      "name": "亡者的寒氣",
+      "rate": 0.01,
+      "icon_url": "/images/items/6471.gif"
+    },
+    {
+      "item_id": 7345,
+      "name": "犯人的手煉",
+      "rate": 15.0,
+      "icon_url": "/images/items/7345.gif"
+    },
+    {
+      "item_id": 25129,
+      "name": "不安的能量碎片",
+      "rate": 10.0,
+      "icon_url": "/images/items/25129.gif"
+    }
+  ]
+}

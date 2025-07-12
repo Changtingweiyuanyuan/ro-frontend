@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 3.5,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 514,
+      "name": "葡萄",
+      "rate": 0.5,
+      "icon_url": "/images/items/514.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 645,
+      "name": "集中藥水",
+      "rate": 0.25,
+      "icon_url": "/images/items/645.gif"
+    },
+    {
+      "item_id": 913,
+      "name": "蝙蝠牙",
+      "rate": 27.5,
+      "icon_url": "/images/items/913.gif"
+    },
+    {
+      "item_id": 1105,
+      "name": "圓月刀[4]",
+      "rate": 0.1,
+      "icon_url": "/images/items/1105.gif"
+    },
+    {
+      "item_id": 2209,
+      "name": "紫蝶髮帶[1]",
+      "rate": 0.08,
+      "icon_url": "/images/items/2209.gif"
+    },
+    {
+      "item_id": 4020,
+      "name": "吸血蝙蝠卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

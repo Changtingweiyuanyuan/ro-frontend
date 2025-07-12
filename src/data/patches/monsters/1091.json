@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 507,
+      "name": "紅色藥草",
+      "rate": 40.0,
+      "icon_url": "/images/items/507.gif"
+    },
+    {
+      "item_id": 533,
+      "name": "葡萄汁",
+      "rate": 15.0,
+      "icon_url": "/images/items/533.gif"
+    },
+    {
+      "item_id": 625,
+      "name": "鏽鐵",
+      "rate": 0.25,
+      "icon_url": "/images/items/625.gif"
+    },
+    {
+      "item_id": 719,
+      "name": "紫寶石",
+      "rate": 7.5,
+      "icon_url": "/images/items/719.gif"
+    },
+    {
+      "item_id": 742,
+      "name": "蒼蠅娃娃",
+      "rate": 10.0,
+      "icon_url": "/images/items/742.gif"
+    },
+    {
+      "item_id": 2245,
+      "name": "紳士帽",
+      "rate": 1.0,
+      "icon_url": "/images/items/2245.gif"
+    },
+    {
+      "item_id": 2607,
+      "name": "髮夾[1]",
+      "rate": 15.0,
+      "icon_url": "/images/items/2607.gif"
+    },
+    {
+      "item_id": 4179,
+      "name": "龍蠅卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 7.5,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 719,
+      "name": "紫寶石",
+      "rate": 0.05,
+      "icon_url": "/images/items/719.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.88,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 6.0,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 1042,
+      "name": "昆蟲後腳",
+      "rate": 26.68,
+      "icon_url": "/images/items/1042.gif"
+    },
+    {
+      "item_id": 2406,
+      "name": "戰士長靴[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2406.gif"
+    },
+    {
+      "item_id": 4114,
+      "name": "艾吉歐蜈蚣卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 1716,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    }
+  ]
+}

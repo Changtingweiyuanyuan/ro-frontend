@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 699,
+      "name": "火焰之壁5級卷軸",
+      "rate": 2.5,
+      "icon_url": "/images/items/699.gif"
+    },
+    {
+      "item_id": 1060,
+      "name": "金色頭髮",
+      "rate": 100.0,
+      "icon_url": "/images/items/1060.gif"
+    },
+    {
+      "item_id": 2294,
+      "name": "星星髮夾",
+      "rate": 0.15,
+      "icon_url": "/images/items/2294.gif"
+    },
+    {
+      "item_id": 2407,
+      "name": "玻璃鞋",
+      "rate": 0.05,
+      "icon_url": "/images/items/2407.gif"
+    },
+    {
+      "item_id": 2605,
+      "name": "敏捷別針",
+      "rate": 0.05,
+      "icon_url": "/images/items/2605.gif"
+    },
+    {
+      "item_id": 4113,
+      "name": "傀儡娃娃卡片",
+      "rate": 0.05,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5141,
+      "name": "傀儡娃娃[1]",
+      "rate": 0.1,
+      "icon_url": "/images/items/5141.gif"
+    },
+    {
+      "item_id": 16040,
+      "name": "緋紅色鐵鎚[2]",
+      "rate": 2.5,
+      "icon_url": "/images/items/16040.gif"
+    }
+  ]
+}

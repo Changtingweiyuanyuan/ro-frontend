@@ -1,0 +1,70 @@
+{
+  "id": 1517,
+  "name": {
+    "zh_tw": "尖刃鐵鎚",
+    "en": "Sword_Mace_"
+  },
+  "icon_url": "/images/items/1517.gif",
+  "category": "武器",
+  "description": {
+    "official": "上頭懸掛著鐵鍊，感覺更威武的鈍器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 50000,
+    "sell_price": 25000,
+    "weight": 120
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3640,
+      "name": "邪骸戰士",
+      "rate": 3.2
+    },
+    {
+      "monster_id": 3641,
+      "name": "邪骸戰士",
+      "rate": 3.2
+    },
+    {
+      "monster_id": 3642,
+      "name": "邪骸戰士",
+      "rate": 3.2
+    },
+    {
+      "monster_id": 3639,
+      "name": "邪骸戰士",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3638,
+      "name": "邪骸戰士",
+      "rate": 0.32
+    },
+    {
+      "monster_id": 3637,
+      "name": "邪骸戰士",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 2851,
+      "name": "精英土人 / 憤怒土人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3393,
+      "name": "土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1110,
+      "name": "土人",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

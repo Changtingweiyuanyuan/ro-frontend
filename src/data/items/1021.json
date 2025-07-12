@@ -1,0 +1,45 @@
+{
+  "id": 1021,
+  "name": {
+    "zh_tw": "土人之角",
+    "en": "Dokkaebi_Horn"
+  },
+  "icon_url": "/images/items/1021.gif",
+  "category": "其他類",
+  "description": {
+    "official": "土人尖細的角，據說土人的角可以為人帶來財富。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 292,
+    "sell_price": 146,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2851,
+      "name": "精英土人 / 憤怒土人",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3393,
+      "name": "土人",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1110,
+      "name": "土人",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1301,
+      "name": "狂暴小土人",
+      "rate": 22.75
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

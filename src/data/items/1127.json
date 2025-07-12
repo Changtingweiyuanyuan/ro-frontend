@@ -1,0 +1,65 @@
+{
+  "id": 1127,
+  "name": {
+    "zh_tw": "騎兵之劍",
+    "en": "Saber_"
+  },
+  "icon_url": "/images/items/1127.gif",
+  "category": "武器",
+  "description": {
+    "official": "騎兵們專用的單手劍。不過使用於騎兵儀式方面較多。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 49000,
+    "sell_price": 24500,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1112,
+      "name": "海盜之王",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3648,
+      "name": "吸血蝙蝠",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3647,
+      "name": "吸血蝙蝠",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3646,
+      "name": "吸血蝙蝠",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3645,
+      "name": "吸血蝙蝠",
+      "rate": 0.8
+    },
+    {
+      "monster_id": 3644,
+      "name": "吸血蝙蝠",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 1652,
+      "name": "暗●劍士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 3643,
+      "name": "吸血蝙蝠",
+      "rate": 0.1
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

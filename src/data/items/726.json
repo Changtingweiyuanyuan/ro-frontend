@@ -1,0 +1,56 @@
+{
+  "id": 726,
+  "name": {
+    "zh_tw": "藍寶石",
+    "en": "Blue_Jewel"
+  },
+  "icon_url": "/images/items/726.gif",
+  "category": "其他類",
+  "description": {
+    "official": "呈現出藍色光芒的寶石。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 4500,
+    "sell_price": 2250,
+    "weight": 10
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1313,
+      "name": "流氓",
+      "rate": 22.8
+    },
+    {
+      "monster_id": 1665,
+      "name": "黃真晶",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 1209,
+      "name": "藍鼠",
+      "rate": 0.4
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 0.25
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

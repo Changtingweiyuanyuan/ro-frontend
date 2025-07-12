@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 511,
+      "name": "綠色藥草",
+      "rate": 3.35,
+      "icon_url": "/images/items/511.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.31,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 6.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 1025,
+      "name": "蜘蛛絲",
+      "rate": 45.0,
+      "icon_url": "/images/items/1025.gif"
+    },
+    {
+      "item_id": 1042,
+      "name": "昆蟲後腳",
+      "rate": 2.5,
+      "icon_url": "/images/items/1042.gif"
+    },
+    {
+      "item_id": 4075,
+      "name": "艾斯蜘蛛卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 10017,
+      "name": "樹皮褲",
+      "rate": 0.08,
+      "icon_url": "/images/items/10017.gif"
+    },
+    {
+      "item_id": 1517,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

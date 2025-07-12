@@ -1,0 +1,65 @@
+{
+  "id": 1005,
+  "name": {
+    "zh_tw": "高級鐵砧",
+    "en": "Hammer_Of_Blacksmith"
+  },
+  "icon_url": "/images/items/1005.gif",
+  "category": "其他類",
+  "description": {
+    "official": "偉大的鐵匠大多數所使用的錘子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2,
+    "sell_price": 1,
+    "weight": 80
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2747,
+      "name": "精英米洛斯 / 憤怒米洛斯",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2748,
+      "name": "精英米洛斯 / 狡猾米洛斯",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2749,
+      "name": "精英米洛斯 / 迅捷米洛斯",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2851,
+      "name": "精英土人 / 憤怒土人",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2353,
+      "name": "米洛斯-咪魘",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1149,
+      "name": "米洛斯",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3393,
+      "name": "土人",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1110,
+      "name": "土人",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

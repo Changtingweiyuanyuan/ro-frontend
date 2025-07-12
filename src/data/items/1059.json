@@ -1,0 +1,105 @@
+{
+  "id": 1059,
+  "name": {
+    "zh_tw": "透明之布",
+    "en": "Transparent_Cloth"
+  },
+  "icon_url": "/images/items/1059.gif",
+  "category": "其他類",
+  "description": {
+    "official": "透明而且裡面會發光神奇的布塊。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 306,
+    "sell_price": 153,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2618,
+      "name": "精英白幽靈 / 雄壯白幽靈",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2733,
+      "name": "精英守墓怨靈 / 狡猾守墓怨靈",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2481,
+      "name": "守墓怨靈 / 被詛咒的守墓人",
+      "rate": 44.0
+    },
+    {
+      "monster_id": 1192,
+      "name": "惡靈",
+      "rate": 29.1
+    },
+    {
+      "monster_id": 1179,
+      "name": "白幽靈",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1186,
+      "name": "巨大白幽靈",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1120,
+      "name": "幽靈波利",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2772,
+      "name": "精英南瓜魂 / 憤怒南瓜魂",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1291,
+      "name": "狂暴惡靈",
+      "rate": 22.07
+    },
+    {
+      "monster_id": 20922,
+      "name": "變異納佩奧凱美拉",
+      "rate": 16.0
+    },
+    {
+      "monster_id": 3451,
+      "name": "不死軍團",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 20925,
+      "name": "變異利圖斯凱美拉",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20939,
+      "name": "伽利略南瓜魂",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1509,
+      "name": "南瓜魂",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2992,
+      "name": "陰森惡靈 / 工廠警衛的亡靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1185,
+      "name": "白幽靈",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

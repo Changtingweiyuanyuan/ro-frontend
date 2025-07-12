@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 508,
+      "name": "黃色藥草",
+      "rate": 17.5,
+      "icon_url": "/images/items/508.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 606,
+      "name": "蘆薈汁液",
+      "rate": 0.5,
+      "icon_url": "/images/items/606.gif"
+    },
+    {
+      "item_id": 4152,
+      "name": "啤酒企鵝卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5111,
+      "name": "啤酒企鵝之帽",
+      "rate": 0.01,
+      "icon_url": "/images/items/5111.gif"
+    },
+    {
+      "item_id": 6263,
+      "name": "椰果",
+      "rate": 1.5,
+      "icon_url": "/images/items/6263.gif"
+    },
+    {
+      "item_id": 6264,
+      "name": "甜瓜",
+      "rate": 1.5,
+      "icon_url": "/images/items/6264.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 26.68,
+      "icon_url": "/images/items/7053.gif"
+    },
+    {
+      "item_id": 1113,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

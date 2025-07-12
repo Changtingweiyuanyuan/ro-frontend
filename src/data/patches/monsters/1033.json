@@ -1,10 +1,58 @@
 {
-  "basic_info": {
-    "level": "37",
-    "race": "植物系",
-    "element": {
-      "type": "火屬性",
-      "level": 2
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 604,
+      "name": "枯樹枝",
+      "rate": 0.5,
+      "icon_url": "/images/items/604.gif"
+    },
+    {
+      "item_id": 690,
+      "name": "火箭術卷軸Lv3",
+      "rate": 0.5,
+      "icon_url": "/images/items/690.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.2,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 907,
+      "name": "枯木汁",
+      "rate": 45.0,
+      "icon_url": "/images/items/907.gif"
+    },
+    {
+      "item_id": 990,
+      "name": "火靈礦石",
+      "rate": 0.25,
+      "icon_url": "/images/items/990.gif"
+    },
+    {
+      "item_id": 4052,
+      "name": "長老樹精卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7939,
+      "name": "年老的樹枝",
+      "rate": 0.01,
+      "icon_url": "/images/items/7939.gif"
+    },
+    {
+      "item_id": 1458,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
     }
-  }
+  ]
 }

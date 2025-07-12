@@ -1,0 +1,28 @@
+{
+  "drops": [
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 0.05,
+      "icon_url": "/images/items/1001.gif"
+    },
+    {
+      "item_id": 1059,
+      "name": "透明之布",
+      "rate": 0.5,
+      "icon_url": "/images/items/1059.gif"
+    },
+    {
+      "item_id": 2333,
+      "name": "祕銀之衣[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2333.gif"
+    },
+    {
+      "item_id": 1211,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

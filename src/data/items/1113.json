@@ -1,0 +1,23 @@
+{
+  "id": 1113,
+  "name": {
+    "zh_tw": "彎刀",
+    "en": "Scimiter"
+  },
+  "icon_url": "/images/items/1113.gif",
+  "category": "武器",
+  "description": {
+    "official": "刀刃適當的彎曲，適合砍殺任何東西。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 17000,
+    "sell_price": 8500,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

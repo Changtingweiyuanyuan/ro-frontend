@@ -1,0 +1,40 @@
+{
+  "id": 701,
+  "name": {
+    "zh_tw": "歐拉歐拉",
+    "en": "Ora_Ora"
+  },
+  "icon_url": "/images/items/701.gif",
+  "category": "其他類",
+  "description": {
+    "official": "為了引誘盜蟲，利用盜蟲的習性所製成的物品。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 55000,
+    "sell_price": 27500,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1086,
+      "name": "黃金蟲",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2638,
+      "name": "精英白鼠 / 菁英白鼠",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1175,
+      "name": "白鼠",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

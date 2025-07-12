@@ -1,0 +1,35 @@
+{
+  "id": 1016,
+  "name": {
+    "zh_tw": "鼠尾",
+    "en": "Rat_Tail"
+  },
+  "icon_url": "/images/items/1016.gif",
+  "category": "其他類",
+  "description": {
+    "official": "細長的尾巴。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 52,
+    "sell_price": 26,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2638,
+      "name": "精英白鼠 / 菁英白鼠",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 1175,
+      "name": "白鼠",
+      "rate": 45.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

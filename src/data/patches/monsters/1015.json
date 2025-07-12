@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 724,
+      "name": "詛咒紅寶石",
+      "rate": 0.06,
+      "icon_url": "/images/items/724.gif"
+    },
+    {
+      "item_id": 727,
+      "name": "白寶石",
+      "rate": 0.7,
+      "icon_url": "/images/items/727.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 10.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 957,
+      "name": "亡者指甲",
+      "rate": 90.0,
+      "icon_url": "/images/items/957.gif"
+    },
+    {
+      "item_id": 958,
+      "name": "亡者牙齒",
+      "rate": 0.5,
+      "icon_url": "/images/items/958.gif"
+    },
+    {
+      "item_id": 4038,
+      "name": "腐屍卡片",
+      "rate": 0.1,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 1505,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

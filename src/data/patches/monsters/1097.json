@@ -1,0 +1,46 @@
+{
+  "drops": [
+    {
+      "item_id": 909,
+      "name": "傑勒比結晶",
+      "rate": 10.0,
+      "icon_url": "/images/items/909.gif"
+    },
+    {
+      "item_id": 935,
+      "name": "堅硬外殼",
+      "rate": 10.0,
+      "icon_url": "/images/items/935.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 3.25,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 1002,
+      "name": "鐵礦石",
+      "rate": 1.0,
+      "icon_url": "/images/items/1002.gif"
+    },
+    {
+      "item_id": 1010,
+      "name": "強化武器金屬-級數一",
+      "rate": 1.6,
+      "icon_url": "/images/items/1010.gif"
+    },
+    {
+      "item_id": 4013,
+      "name": "蟻卵卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 1214,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

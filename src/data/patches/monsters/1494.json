@@ -1,5 +1,49 @@
 {
   "basic_info": {
     "level": 66
-  }
+  },
+  "drops": [
+    {
+      "item_id": 928,
+      "name": "昆蟲觸角",
+      "rate": 5.0,
+      "icon_url": "images/items/928.gif"
+    },
+    {
+      "item_id": 955,
+      "name": "昆蟲外殼",
+      "rate": 2.5,
+      "icon_url": "images/items/955.gif"
+    },
+    {
+      "item_id": 2102,
+      "name": "鐵盾[1]",
+      "rate": 0.01,
+      "icon_url": "images/items/2102.gif"
+    },
+    {
+      "item_id": 4307,
+      "name": "巨象甲蟲卡片",
+      "rate": 0.01,
+      "icon_url": "images/items/card.gif"
+    },
+    {
+      "item_id": 7190,
+      "name": "昆蟲硬殼",
+      "rate": 32.5,
+      "icon_url": "images/items/7190.gif"
+    },
+    {
+      "item_id": 7202,
+      "name": "巨象甲蟲之螯",
+      "rate": 22.5,
+      "icon_url": "images/items/7202.gif"
+    },
+    {
+      "item_id": 1485,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    }
+  ]
 }

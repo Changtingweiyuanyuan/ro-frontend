@@ -1,0 +1,23 @@
+{
+  "id": 1704,
+  "name": {
+    "zh_tw": "坎普茲弓",
+    "en": "Composite_Bow"
+  },
+  "icon_url": "/images/items/1704.gif",
+  "category": "武器",
+  "description": {
+    "official": "用各種材料混合而成的弓，擁有較高的傷害為重點。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2500,
+    "sell_price": 1250,
+    "weight": 60
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

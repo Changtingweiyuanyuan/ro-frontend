@@ -1,0 +1,39 @@
+{
+  "id": 4326,
+  "name": {
+    "zh_tw": "海獺卡片",
+    "en": "See_Otter_Card"
+  },
+  "icon_url": "/images/items/4326.gif",
+  "category": "卡片",
+  "description": {
+    "official": "每當擊殺魚貝系魔物時，有一定的幾率會掉落明蝦壽司或是生魚片。吃下明蝦壽司或是生魚片時，HP恢復量增加50%。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddItemGroupHealRate,IG_Fish,50; bonus3 bAddMonsterDropItem,551,RC_Fish,300; bonus3 bAddMonsterDropItem,544,RC_Fish,300; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

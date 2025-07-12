@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 729,
+      "name": "青綠寶石",
+      "rate": 5.0,
+      "icon_url": "/images/items/729.gif"
+    },
+    {
+      "item_id": 970,
+      "name": "酒精",
+      "rate": 0.5,
+      "icon_url": "/images/items/970.gif"
+    },
+    {
+      "item_id": 971,
+      "name": "帝特立米藥水",
+      "rate": 0.5,
+      "icon_url": "/images/items/971.gif"
+    },
+    {
+      "item_id": 2244,
+      "name": "紅蝶髮帶",
+      "rate": 0.25,
+      "icon_url": "/images/items/2244.gif"
+    },
+    {
+      "item_id": 4642,
+      "name": "無限蛙王卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 5125,
+      "name": "天使之吻[1]",
+      "rate": 5.0,
+      "icon_url": "/images/items/5125.gif"
+    },
+    {
+      "item_id": 6905,
+      "name": "破碎的魔法石",
+      "rate": 100.0,
+      "icon_url": "/images/items/6905.gif"
+    },
+    {
+      "item_id": 7938,
+      "name": "光粒",
+      "rate": 2.5,
+      "icon_url": "/images/items/7938.gif"
+    }
+  ]
+}

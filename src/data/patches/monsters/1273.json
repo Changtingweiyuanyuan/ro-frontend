@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 2206,
+      "name": "婚禮頭紗",
+      "rate": 0.01,
+      "icon_url": "/images/items/2206.gif"
+    },
+    {
+      "item_id": 2338,
+      "name": "結婚禮服",
+      "rate": 0.01,
+      "icon_url": "/images/items/2338.gif"
+    },
+    {
+      "item_id": 2602,
+      "name": "智力耳環",
+      "rate": 0.01,
+      "icon_url": "/images/items/2602.gif"
+    },
+    {
+      "item_id": 4255,
+      "name": "獸人女戰士卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 23.28,
+      "icon_url": "/images/items/7053.gif"
+    },
+    {
+      "item_id": 7477,
+      "name": "6級烹飪書",
+      "rate": 0.02,
+      "icon_url": "/images/items/7477.gif"
+    },
+    {
+      "item_id": 15012,
+      "name": "皎潔長袍[1]",
+      "rate": 0.02,
+      "icon_url": "/images/items/15012.gif"
+    },
+    {
+      "item_id": 1125,
+      "name": " (將在打包時自動同步)",
+      "rate": 0.01,
+      "icon_url": ""
+    }
+  ]
+}

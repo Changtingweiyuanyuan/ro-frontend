@@ -1,0 +1,46 @@
+{
+  "drops": [
+    {
+      "item_id": 509,
+      "name": "白色藥草",
+      "rate": 5.0,
+      "icon_url": "/images/items/509.gif"
+    },
+    {
+      "item_id": 606,
+      "name": "蘆薈汁液",
+      "rate": 0.08,
+      "icon_url": "/images/items/606.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 7.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 985,
+      "name": "鋁",
+      "rate": 0.31,
+      "icon_url": "/images/items/985.gif"
+    },
+    {
+      "item_id": 1036,
+      "name": "龍鱗",
+      "rate": 26.68,
+      "icon_url": "/images/items/1036.gif"
+    },
+    {
+      "item_id": 1037,
+      "name": "龍尾",
+      "rate": 1.5,
+      "icon_url": "/images/items/1037.gif"
+    },
+    {
+      "item_id": 4120,
+      "name": "畢帝特飛龍卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

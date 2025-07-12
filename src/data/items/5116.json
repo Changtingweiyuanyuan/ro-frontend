@@ -1,0 +1,50 @@
+{
+  "id": 5116,
+  "name": {
+    "zh_tw": "香蕉帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5116.gif",
+  "category": "防具",
+  "description": {
+    "official": "每一個人都知道只要是踩下去就會跌到的果皮削，有人袋著這個果皮削打仗的話表示對方已經生氣了。物理攻擊時，自動唸咒、挑釁 3技能施展。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 20
+  },
+  "script": "{ bonus3 bAutoSpell,\"SM_PROVOKE\",3,30; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1688,
+      "name": "嗒妮小姐",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 0.12
+    },
+    {
+      "monster_id": 1498,
+      "name": "伍坦彈弓手",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

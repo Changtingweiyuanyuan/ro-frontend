@@ -1,0 +1,46 @@
+{
+  "drops": [
+    {
+      "item_id": 997,
+      "name": "土靈原石",
+      "rate": 0.3,
+      "icon_url": "/images/items/997.gif"
+    },
+    {
+      "item_id": 1003,
+      "name": "煤礦",
+      "rate": 1.6,
+      "icon_url": "/images/items/1003.gif"
+    },
+    {
+      "item_id": 7004,
+      "name": "泥團",
+      "rate": 10.0,
+      "icon_url": "/images/items/7004.gif"
+    },
+    {
+      "item_id": 10007,
+      "name": "寵物髮帶",
+      "rate": 0.13,
+      "icon_url": "/images/items/10007.gif"
+    },
+    {
+      "item_id": 25728,
+      "name": "影子神祕原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25728.gif"
+    },
+    {
+      "item_id": 25730,
+      "name": "鍺金原石",
+      "rate": 1.2,
+      "icon_url": "/images/items/25730.gif"
+    },
+    {
+      "item_id": 27357,
+      "name": "汙染史汀卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/27357.gif"
+    }
+  ]
+}

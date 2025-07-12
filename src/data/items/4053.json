@@ -1,0 +1,29 @@
+{
+  "id": 4053,
+  "name": {
+    "zh_tw": "黑蟻卡片",
+    "en": "Vitata_Card"
+  },
+  "icon_url": "/images/items/4053.gif",
+  "category": "卡片",
+  "description": {
+    "official": "可使用【治愈術】Lv1技能。使用技能時SP消耗增加25%。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ skill \"AL_HEAL\",1; bonus bUseSPrate,25; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1176,
+      "name": "黑蟻",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

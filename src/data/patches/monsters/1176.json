@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 518,
+      "name": "蜂蜜",
+      "rate": 1.75,
+      "icon_url": "/images/items/518.gif"
+    },
+    {
+      "item_id": 526,
+      "name": "蜂膠",
+      "rate": 1.0,
+      "icon_url": "/images/items/526.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.13,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 911,
+      "name": "雪勒結晶",
+      "rate": 1.0,
+      "icon_url": "/images/items/911.gif"
+    },
+    {
+      "item_id": 955,
+      "name": "昆蟲外殼",
+      "rate": 25.0,
+      "icon_url": "/images/items/955.gif"
+    },
+    {
+      "item_id": 993,
+      "name": "地靈礦石",
+      "rate": 0.45,
+      "icon_url": "/images/items/993.gif"
+    },
+    {
+      "item_id": 4053,
+      "name": "黑蟻卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 1216,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

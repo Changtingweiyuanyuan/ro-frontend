@@ -1,0 +1,30 @@
+{
+  "id": 1111,
+  "name": {
+    "zh_tw": "擊刺長劍",
+    "en": "Lapier_"
+  },
+  "icon_url": "/images/items/1111.gif",
+  "category": "武器",
+  "description": {
+    "official": "有著細長刃的劍，專門做刺穿用。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 10000,
+    "sell_price": 5000,
+    "weight": 50
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1205,
+      "name": "行刑者",
+      "rate": 0.4
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

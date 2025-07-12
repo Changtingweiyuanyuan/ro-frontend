@@ -1,0 +1,50 @@
+{
+  "id": 7196,
+  "name": {
+    "zh_tw": "木製護肩",
+    "en": "Shoulder_Protection"
+  },
+  "icon_url": "/images/items/7196.gif",
+  "category": "其他類",
+  "description": {
+    "official": "為了保護肩膀，用木頭製成的原始保護道具。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 230,
+    "sell_price": 115,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 20277,
+      "name": "古代伍坦防禦者",
+      "rate": 22.5
+    },
+    {
+      "monster_id": 20276,
+      "name": "古代伍坦戰士",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 20.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

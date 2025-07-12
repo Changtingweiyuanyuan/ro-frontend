@@ -1,0 +1,46 @@
+{
+  "drops": [
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 7.5,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 984,
+      "name": "神之金屬",
+      "rate": 1.0,
+      "icon_url": "/images/items/984.gif"
+    },
+    {
+      "item_id": 1095,
+      "name": "指針",
+      "rate": 30.0,
+      "icon_url": "/images/items/1095.gif"
+    },
+    {
+      "item_id": 2607,
+      "name": "髮夾[1]",
+      "rate": 0.01,
+      "icon_url": "/images/items/2607.gif"
+    },
+    {
+      "item_id": 4627,
+      "name": "大鐘怪卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7005,
+      "name": "骷髏頭",
+      "rate": 7.5,
+      "icon_url": "/images/items/7005.gif"
+    },
+    {
+      "item_id": 22515,
+      "name": "扭曲的時間鑰匙",
+      "rate": 0.1,
+      "icon_url": "/images/items/22515.gif"
+    }
+  ]
+}

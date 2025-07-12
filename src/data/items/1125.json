@@ -1,0 +1,30 @@
+{
+  "id": 1125,
+  "name": {
+    "zh_tw": "圓柄馬刀",
+    "en": "Ring_Pommel_Saber_"
+  },
+  "icon_url": "/images/items/1125.gif",
+  "category": "武器",
+  "description": {
+    "official": "刀柄末端呈現圓形的刀。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 24000,
+    "sell_price": 12000,
+    "weight": 90
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1112,
+      "name": "海盜之王",
+      "rate": 4.75
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

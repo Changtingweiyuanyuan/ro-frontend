@@ -1,0 +1,60 @@
+{
+  "id": 2333,
+  "name": {
+    "zh_tw": "祕銀之衣",
+    "en": "Silver_Robe_"
+  },
+  "icon_url": "/images/items/2333.gif",
+  "category": "防具",
+  "description": {
+    "official": "以價值不斐的銀絲所編制成的衣服。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 7000,
+    "sell_price": 3500,
+    "weight": 70
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2692,
+      "name": "精英 / 菁英 暗●魔法師",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 2618,
+      "name": "精英白幽靈 / 雄壯白幽靈",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1657,
+      "name": "暗●魔法師",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1179,
+      "name": "白幽靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1293,
+      "name": "狂暴克瑞米",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1186,
+      "name": "巨大白幽靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1185,
+      "name": "白幽靈",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

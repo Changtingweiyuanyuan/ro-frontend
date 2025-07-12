@@ -1,0 +1,90 @@
+{
+  "id": 605,
+  "name": {
+    "zh_tw": "曼特療傷藥",
+    "en": "Anodyne"
+  },
+  "icon_url": "/images/items/605.gif",
+  "category": "延遲消耗類",
+  "description": {
+    "official": "以名為曼特的植物為原料製作而成的藥品，可以讓人暫時忘卻苦痛的鎮痛劑。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 2000,
+    "sell_price": 1000,
+    "weight": 10
+  },
+  "script": "{ itemskill \"SM_ENDURE\",1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2727,
+      "name": "精英廢氣魔 / 憤怒廢氣魔",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 3444,
+      "name": "觀察者",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 3177,
+      "name": "目擊者 / 惡魔之眼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1975,
+      "name": "眼魔首領",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1633,
+      "name": "惡魔之眼",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 3740,
+      "name": "瓦斯特",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 20592,
+      "name": "奪命毒霧",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1620,
+      "name": "廢氣魔",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1151,
+      "name": "麥斯特",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1221,
+      "name": "野豬",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1311,
+      "name": "狂暴野豬",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1314,
+      "name": "果樹龜",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

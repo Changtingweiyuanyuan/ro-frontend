@@ -1,0 +1,39 @@
+{
+  "id": 1801,
+  "name": {
+    "zh_tw": "虎爪拳套",
+    "en": "Waghnakh"
+  },
+  "icon_url": "/images/items/1801.gif",
+  "category": "武器",
+  "description": {
+    "official": "模仿虎爪製成的拳套。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 8000,
+    "sell_price": 4000,
+    "weight": 40
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 0.08
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1458,
+  "name": {
+    "zh_tw": "雙刃長戟",
+    "en": "Partizan_"
+  },
+  "icon_url": "/images/items/1458.gif",
+  "category": "武器",
+  "description": {
+    "official": "寬刃上有兩個尖銳突起物之長戟。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 27000,
+    "sell_price": 13500,
+    "weight": 200
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2854,
+      "name": "精英 / 雄壯小惡魔",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1109,
+      "name": "小惡魔",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

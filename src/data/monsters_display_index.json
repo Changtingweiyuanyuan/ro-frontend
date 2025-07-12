@@ -378,7 +378,7 @@
       },
       {
         "item_id": 1208,
-        "name": "笨拙短劍",
+        "name": "笨拙短劍[4]",
         "rate": 0.2,
         "icon_url": "images/items/1208.gif"
       },
@@ -520,7 +520,7 @@
       },
       {
         "item_id": 2209,
-        "name": "紫蝶發帶",
+        "name": "紫蝶髮帶",
         "rate": 0.08,
         "icon_url": "images/items/2209.gif"
       },
@@ -541,9 +541,9 @@
     "image_url": "images/monsters/1007.gif",
     "basic_info": {
       "level": 6,
-      "race": "昆蟲系",
+      "race": "昆蟲",
       "element": {
-        "type": "地屬性",
+        "type": "地",
         "level": 1
       },
       "size": "小"
@@ -671,13 +671,13 @@
       },
       {
         "item_id": 1501,
-        "name": "木錘",
+        "name": "木錘[3]",
         "rate": 2.0,
         "icon_url": "images/items/1501.gif"
       },
       {
         "item_id": 1502,
-        "name": "木錘",
+        "name": "木錘[4]",
         "rate": 0.8,
         "icon_url": "images/items/1502.gif"
       },
@@ -686,6 +686,12 @@
         "name": "綠棉蟲卡片",
         "rate": 0.2,
         "icon_url": "images/items/4002.gif"
+      },
+      {
+        "item_id": 1704,
+        "name": "坎普茲弓[4]",
+        "rate": "???",
+        "icon_url": "/images/items/1704.gif"
       }
     ]
   },
@@ -1376,6 +1382,12 @@
         "name": "狼卡片",
         "rate": 0.01,
         "icon_url": "images/items/4029.gif"
+      },
+      {
+        "item_id": 1354,
+        "name": "鋼斧[3]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1354.gif"
       }
     ]
   },
@@ -1609,6 +1621,12 @@
         "name": "腐屍卡片",
         "rate": 0.1,
         "icon_url": "images/items/4038.gif"
+      },
+      {
+        "item_id": 1505,
+        "name": "鐵鎚[4]",
+        "rate": 1.0,
+        "icon_url": "images/items/1505.gif"
       }
     ]
   },
@@ -1705,7 +1723,7 @@
       },
       {
         "item_id": 1708,
-        "name": "克羅伊特弓",
+        "name": "克羅伊特弓[3]",
         "rate": 0.18,
         "icon_url": "images/items/1708.gif"
       },
@@ -1726,6 +1744,12 @@
         "name": "邪骸弓箭手卡片",
         "rate": 0.01,
         "icon_url": "images/items/4094.gif"
+      },
+      {
+        "item_id": 1354,
+        "name": "鋼斧[3]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1354.gif"
       }
     ]
   },
@@ -1929,7 +1953,7 @@
       },
       {
         "item_id": 1604,
-        "name": "橡木魔杖",
+        "name": "橡木魔杖[2]",
         "rate": 0.5,
         "icon_url": "images/items/1604.gif"
       },
@@ -2046,16 +2070,16 @@
         "icon_url": "images/items/1405.gif"
       },
       {
-        "item_id": 1967,
-        "name": "大地鞭子",
-        "rate": 0.05,
-        "icon_url": "images/items/1967.gif"
-      },
-      {
         "item_id": 4030,
         "name": "曼陀羅魔花卡片",
         "rate": 0.01,
         "icon_url": "images/items/4030.gif"
+      },
+      {
+        "item_id": 1352,
+        "name": "巨斧[4]",
+        "rate": 1.0,
+        "icon_url": "images/items/1352.gif"
       }
     ]
   },
@@ -2141,13 +2165,13 @@
       },
       {
         "item_id": 1304,
-        "name": "獸人斧",
+        "name": "獸人斧[4]",
         "rate": 0.03,
         "icon_url": "images/items/1304.gif"
       },
       {
         "item_id": 1352,
-        "name": "巨斧",
+        "name": "巨斧[4]",
         "rate": 0.05,
         "icon_url": "images/items/1352.gif"
       },
@@ -2504,6 +2528,12 @@
         "name": "殭屍卡片",
         "rate": 0.01,
         "icon_url": "images/items/4090.gif"
+      },
+      {
+        "item_id": 19849,
+        "name": "(服飾)殭屍帽(歸屬)",
+        "rate": "???",
+        "icon_url": "/images/items/19849.gif"
       }
     ]
   },
@@ -2595,13 +2625,13 @@
       },
       {
         "item_id": 1214,
-        "name": "大駒短劍",
+        "name": "大駒短劍[3]",
         "rate": 0.06,
         "icon_url": "images/items/1214.gif"
       },
       {
         "item_id": 1216,
-        "name": "雙刃短劍",
+        "name": "雙刃短劍[3]",
         "rate": 0.25,
         "icon_url": "images/items/1216.gif"
       },
@@ -2794,7 +2824,7 @@
       },
       {
         "item_id": 1207,
-        "name": "笨拙短劍",
+        "name": "笨拙短劍[3]",
         "rate": 0.2,
         "icon_url": "images/items/1207.gif"
       },
@@ -2814,10 +2844,10 @@
     },
     "image_url": "/images/monsters/1033.gif",
     "basic_info": {
-      "level": "37",
-      "race": "植物系",
+      "level": 34,
+      "race": "植物",
       "element": {
-        "type": "火屬性",
+        "type": "火",
         "level": 2
       },
       "size": "中"
@@ -2920,6 +2950,12 @@
         "name": "年老的樹枝",
         "rate": 0.01,
         "icon_url": "images/items/7939.gif"
+      },
+      {
+        "item_id": 1458,
+        "name": "雙刃長戟[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1458.gif"
       }
     ]
   },
@@ -3022,6 +3058,12 @@
         "name": "突變蛙卡片",
         "rate": 0.01,
         "icon_url": "images/items/4058.gif"
+      },
+      {
+        "item_id": 1520,
+        "name": "鏈錘[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1520.gif"
       }
     ]
   },
@@ -3149,13 +3191,13 @@
       },
       {
         "item_id": 1226,
-        "name": "大馬士革短劍",
+        "name": "大馬士革短劍[2]",
         "rate": 0.01,
         "icon_url": "images/items/1226.gif"
       },
       {
         "item_id": 2259,
-        "name": "竹蜻蜓發圈",
+        "name": "竹蜻蜓髮圈",
         "rate": 0.01,
         "icon_url": "images/items/2259.gif"
       },
@@ -3304,12 +3346,6 @@
         "name": "發亮鱗片",
         "rate": 26.68,
         "icon_url": "images/items/954.gif"
-      },
-      {
-        "item_id": 1120,
-        "name": "日本刀",
-        "rate": 0.01,
-        "icon_url": "images/items/1120.gif"
       },
       {
         "item_id": 4117,
@@ -3550,6 +3586,108 @@
         "name": "綠蒼蠅卡片",
         "rate": 0.01,
         "icon_url": "images/items/4042.gif"
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "name": {
+      "zh_tw": "人魚",
+      "en": "OBEAUNE"
+    },
+    "image_url": "/images/monsters/1044.gif",
+    "basic_info": {
+      "level": 53,
+      "race": "魚貝",
+      "element": {
+        "type": "水",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 2158,
+      "attack": {
+        "min": 192,
+        "max": 236
+      },
+      "magic_attack": {
+        "min": 124,
+        "max": 152
+      },
+      "defense": 48,
+      "magic_defense": 26,
+      "hit_100_percent": 305,
+      "flee_95_percent": 271,
+      "base_stats": {
+        "str": 54,
+        "agi": 47,
+        "vit": 21,
+        "int": 40,
+        "dex": 40,
+        "luk": 25
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@tower",
+        "description": "- 無限塔 (魔物終結塔) 1樓",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "iz_dun02",
+        "description": "- 依斯魯得海底洞穴 3層",
+        "spawn_info": "40x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 720,
+        "name": "天藍寶石",
+        "rate": 0.05,
+        "icon_url": "images/items/720.gif"
+      },
+      {
+        "item_id": 748,
+        "name": "永恆玫瑰",
+        "rate": 0.15,
+        "icon_url": "images/items/748.gif"
+      },
+      {
+        "item_id": 950,
+        "name": "人魚之心",
+        "rate": 45.0,
+        "icon_url": "/images/items/950.gif"
+      },
+      {
+        "item_id": 951,
+        "name": "背鰭",
+        "rate": 2.5,
+        "icon_url": "images/items/951.gif"
+      },
+      {
+        "item_id": 995,
+        "name": "水靈原石",
+        "rate": 0.07,
+        "icon_url": "images/items/995.gif"
+      },
+      {
+        "item_id": 2326,
+        "name": "聖職之衣",
+        "rate": 0.05,
+        "icon_url": "/images/items/2326.gif"
+      },
+      {
+        "item_id": 4093,
+        "name": "人魚卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4093.gif"
+      },
+      {
+        "item_id": 5014,
+        "name": "劍士頭盔",
+        "rate": 0.01,
+        "icon_url": "/images/items/5014.gif"
       }
     ]
   },
@@ -4547,7 +4685,7 @@
       },
       {
         "item_id": 1152,
-        "name": "雙手劍",
+        "name": "雙手劍[3]",
         "rate": 0.05,
         "icon_url": "images/items/1152.gif"
       },
@@ -4649,7 +4787,7 @@
       },
       {
         "item_id": 1451,
-        "name": "彎刃長矛",
+        "name": "彎刃長矛[2]",
         "rate": 0.25,
         "icon_url": "images/items/1451.gif"
       },
@@ -4761,7 +4899,7 @@
       },
       {
         "item_id": 2213,
-        "name": "貓耳發圈",
+        "name": "貓耳髮圈",
         "rate": 0.01,
         "icon_url": "images/items/2213.gif"
       },
@@ -4770,6 +4908,12 @@
         "name": "狸貓卡片",
         "rate": 0.01,
         "icon_url": "images/items/4044.gif"
+      },
+      {
+        "item_id": 1216,
+        "name": "雙刃短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1216.gif"
       }
     ]
   },
@@ -4887,6 +5031,12 @@
         "name": "可可",
         "rate": 4.5,
         "icon_url": "images/items/7182.gif"
+      },
+      {
+        "item_id": 1125,
+        "name": "圓柄馬刀",
+        "rate": 1.0,
+        "icon_url": "/images/items/1125.gif"
       }
     ]
   },
@@ -4999,6 +5149,12 @@
         "name": "重金屬蝗蟲卡片",
         "rate": 0.01,
         "icon_url": "images/items/4057.gif"
+      },
+      {
+        "item_id": 1157,
+        "name": "雙手巨劍[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1157.gif"
       }
     ]
   },
@@ -5370,6 +5526,12 @@
         "name": "邪骸食人魚卡片",
         "rate": 0.01,
         "icon_url": "images/items/4067.gif"
+      },
+      {
+        "item_id": 1226,
+        "name": "大馬士革短劍[2]",
+        "rate": 1.0,
+        "icon_url": "images/items/1226.gif"
       }
     ]
   },
@@ -5457,7 +5619,7 @@
       },
       {
         "item_id": 1461,
-        "name": "三叉戟[3]",
+        "name": "德瑞尹長戟[3]",
         "rate": 0.01,
         "icon_url": "images/items/1461.gif"
       },
@@ -5574,6 +5736,12 @@
         "name": "螃蟹卡片",
         "rate": 0.01,
         "icon_url": "images/items/4049.gif"
+      },
+      {
+        "item_id": 1511,
+        "name": "流星錘[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1511.gif"
       }
     ]
   },
@@ -6305,6 +6473,12 @@
         "name": "石頭",
         "rate": 3.5,
         "icon_url": "images/items/7049.gif"
+      },
+      {
+        "item_id": 1711,
+        "name": "十字弓[3]",
+        "rate": "???",
+        "icon_url": "/images/items/1711.gif"
       }
     ]
   },
@@ -6427,6 +6601,12 @@
         "name": "石頭",
         "rate": 2.5,
         "icon_url": "images/items/7049.gif"
+      },
+      {
+        "item_id": 1508,
+        "name": "思麥斯鐵鎚[3]",
+        "rate": "???",
+        "icon_url": "images/items/1508.gif"
       }
     ]
   },
@@ -6514,7 +6694,7 @@
       },
       {
         "item_id": 1505,
-        "name": "鐵鎚",
+        "name": "鐵鎚[4]",
         "rate": 0.8,
         "icon_url": "images/items/1505.gif"
       },
@@ -6636,6 +6816,12 @@
         "name": "毒魔菇芽孢",
         "rate": 45.0,
         "icon_url": "images/items/7033.gif"
+      },
+      {
+        "item_id": 1458,
+        "name": "雙刃長戟[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1458.gif"
       }
     ]
   },
@@ -8949,6 +9135,18 @@
         "name": "光粒",
         "rate": 2.5,
         "icon_url": "images/items/7938.gif"
+      },
+      {
+        "item_id": 1402,
+        "name": "長戟",
+        "rate": "???",
+        "icon_url": "images/items/1402.gif"
+      },
+      {
+        "item_id": 1408,
+        "name": "步兵長矛",
+        "rate": "???",
+        "icon_url": "images/items/1408.gif"
       }
     ]
   },
@@ -9030,7 +9228,7 @@
       },
       {
         "item_id": 2244,
-        "name": "紅蝶發帶",
+        "name": "紅蝶髮帶",
         "rate": 0.25,
         "icon_url": "images/items/2244.gif"
       },
@@ -9463,7 +9661,7 @@
       },
       {
         "item_id": 2250,
-        "name": "粉紗發圈",
+        "name": "粉紗髮圈",
         "rate": 1.0,
         "icon_url": "images/items/2250.gif"
       },
@@ -9708,6 +9906,12 @@
         "name": "白蟻卡片",
         "rate": 0.01,
         "icon_url": "images/items/4043.gif"
+      },
+      {
+        "item_id": 1156,
+        "name": "亞爾特劍[3]",
+        "rate": "???",
+        "icon_url": "/images/items/1156.gif"
       }
     ]
   },
@@ -9813,6 +10017,12 @@
         "name": "蟻卵卡片",
         "rate": 0.01,
         "icon_url": "images/items/4013.gif"
+      },
+      {
+        "item_id": 1214,
+        "name": "大駒短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1214.gif"
       }
     ]
   },
@@ -9934,6 +10144,12 @@
         "name": "艾吉歐蜈蚣卡片",
         "rate": 0.01,
         "icon_url": "images/items/4114.gif"
+      },
+      {
+        "item_id": 1716,
+        "name": "角弓[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1716.gif"
       }
     ]
   },
@@ -10056,6 +10272,12 @@
         "name": "樹皮褲",
         "rate": 0.08,
         "icon_url": "images/items/10017.gif"
+      },
+      {
+        "item_id": 1517,
+        "name": "尖刃鐵鎚",
+        "rate": 1.0,
+        "icon_url": "/images/items/1517.gif"
       }
     ]
   },
@@ -10067,10 +10289,10 @@
     },
     "image_url": "images/monsters/1103.gif",
     "basic_info": {
-      "level": "27",
-      "race": "動物系",
+      "level": 25,
+      "race": "動物",
       "element": {
-        "type": "地屬性",
+        "type": "地",
         "level": 1
       },
       "size": "小"
@@ -10163,6 +10385,18 @@
         "name": "刺蝟蟲卡片",
         "rate": 0.01,
         "icon_url": "images/items/4063.gif"
+      },
+      {
+        "item_id": 1152,
+        "name": "雙手劍[3]",
+        "rate": "???",
+        "icon_url": "images/items/1152.gif"
+      },
+      {
+        "item_id": 1,
+        "name": " (將在打包時自動同步)",
+        "rate": 1452.0,
+        "icon_url": ""
       }
     ]
   },
@@ -10402,118 +10636,12 @@
         "name": "白蟻卡片",
         "rate": 0.01,
         "icon_url": "images/items/4043.gif"
-      }
-    ]
-  },
-  {
-    "id": 1106,
-    "name": {
-      "zh_tw": "沙漠之狼",
-      "en": "DESERT_WOLF"
-    },
-    "image_url": "/images/monsters/1106.gif",
-    "basic_info": {
-      "level": 103,
-      "race": "動物",
-      "element": {
-        "type": "火",
-        "level": 1
-      },
-      "size": "中"
-    },
-    "stats": {
-      "hp": 9447,
-      "attack": {
-        "min": 736,
-        "max": 1008
-      },
-      "magic_attack": {
-        "min": 205,
-        "max": 241
-      },
-      "defense": 114,
-      "magic_defense": 47,
-      "hit_100_percent": 380,
-      "flee_95_percent": 385,
-      "base_stats": {
-        "str": 93,
-        "agi": 69,
-        "vit": 63,
-        "int": 61,
-        "dex": 98,
-        "luk": 42
-      }
-    },
-    "spawns": [
-      {
-        "map_name": "1@orcs",
-        "description": "- 獸人地下洞穴 1樓",
-        "spawn_info": ""
       },
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "ra_fild01",
-        "description": "- 拉赫 奧頓拉草原",
-        "spawn_info": "145x / 5 秒"
-      },
-      {
-        "map_name": "ra_fild04",
-        "description": "- 拉赫 奧頓拉草原",
-        "spawn_info": "23x / 5 秒"
-      }
-    ],
-    "drops": [
-      {
-        "item_id": 756,
-        "name": "神之金屬原石",
-        "rate": 0.27,
-        "icon_url": "images/items/756.gif"
-      },
-      {
-        "item_id": 1253,
-        "name": "卡塔勒拳刃",
-        "rate": 0.01,
-        "icon_url": "images/items/1253.gif"
-      },
-      {
-        "item_id": 1287,
-        "name": "聖靈拳刃",
-        "rate": 0.01,
-        "icon_url": "images/items/1287.gif"
-      },
-      {
-        "item_id": 2311,
-        "name": "毛皮大衣",
-        "rate": 0.01,
-        "icon_url": "images/items/2311.gif"
-      },
-      {
-        "item_id": 4082,
-        "name": "沙漠之狼卡片",
-        "rate": 0.01,
-        "icon_url": "images/items/4082.gif"
-      },
-      {
-        "item_id": 6252,
-        "name": "狼血",
-        "rate": 0.05,
-        "icon_url": "images/items/6252.gif"
-      },
-      {
-        "item_id": 7030,
-        "name": "沙漠之狼之指甲",
-        "rate": 27.5,
-        "icon_url": "images/items/7030.gif"
-      },
-      {
-        "item_id": 28705,
-        "name": "緋紅色大駒短劍",
-        "rate": 0.5,
-        "icon_url": "images/items/28705.gif"
+        "item_id": 1125,
+        "name": "圓柄馬刀",
+        "rate": 1.0,
+        "icon_url": "/images/items/1125.gif"
       }
     ]
   },
@@ -10635,12 +10763,6 @@
         "name": "沙漠幼狼卡片",
         "rate": 0.01,
         "icon_url": "images/items/4023.gif"
-      },
-      {
-        "item_id": 13011,
-        "name": "破壞劍",
-        "rate": 0.03,
-        "icon_url": "images/items/13011.gif"
       }
     ]
   },
@@ -10743,6 +10865,102 @@
         "name": "天線頭飾",
         "rate": 0.01,
         "icon_url": "images/items/5011.gif"
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "name": {
+      "zh_tw": "土人",
+      "en": "DOKEBI"
+    },
+    "image_url": "/images/monsters/1110.gif",
+    "basic_info": {
+      "level": 68,
+      "race": "惡魔",
+      "element": {
+        "type": "暗",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 2820,
+      "attack": {
+        "min": 386,
+        "max": 520
+      },
+      "magic_attack": {
+        "min": 109,
+        "max": 127
+      },
+      "defense": 85,
+      "magic_defense": 20,
+      "hit_100_percent": 329,
+      "flee_95_percent": 312,
+      "base_stats": {
+        "str": 52,
+        "agi": 56,
+        "vit": 35,
+        "int": 20,
+        "dex": 66,
+        "luk": 25
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "bra_fild01",
+        "description": "- 巴西平原",
+        "spawn_info": "10x / 5 秒"
+      },
+      {
+        "map_name": "pay_dun04",
+        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+        "spawn_info": "40x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 757,
+        "name": "鋁原石",
+        "rate": 0.75,
+        "icon_url": "images/items/757.gif"
+      },
+      {
+        "item_id": 969,
+        "name": "黃金",
+        "rate": 0.01,
+        "icon_url": "/images/items/969.gif"
+      },
+      {
+        "item_id": 1005,
+        "name": "高級鐵砧",
+        "rate": 0.03,
+        "icon_url": "/images/items/1005.gif"
+      },
+      {
+        "item_id": 1021,
+        "name": "土人之角",
+        "rate": 45.0,
+        "icon_url": "/images/items/1021.gif"
+      },
+      {
+        "item_id": 1517,
+        "name": "尖刃鐵鎚",
+        "rate": 0.01,
+        "icon_url": "/images/items/1517.gif"
+      },
+      {
+        "item_id": 4098,
+        "name": "土人卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4098.gif"
+      },
+      {
+        "item_id": 1613,
+        "name": "巫杖 魂咬",
+        "rate": 0.01,
+        "icon_url": "/images/items/1613.gif"
       }
     ]
   },
@@ -10905,6 +11123,12 @@
         "name": "紅色蝙蝠翅膀",
         "rate": 27.5,
         "icon_url": "images/items/7006.gif"
+      },
+      {
+        "item_id": 1127,
+        "name": "騎兵之劍[3]",
+        "rate": "???",
+        "icon_url": "/images/items/1127.gif"
       }
     ]
   },
@@ -11667,7 +11891,7 @@
       },
       {
         "item_id": 1211,
-        "name": "德克短劍",
+        "name": "德克短劍[3]",
         "rate": 0.05,
         "icon_url": "images/items/1211.gif"
       },
@@ -11768,7 +11992,7 @@
       },
       {
         "item_id": 1511,
-        "name": "流星鎚",
+        "name": "流星錘[3]",
         "rate": 0.05,
         "icon_url": "images/items/1511.gif"
       },
@@ -11792,7 +12016,7 @@
       },
       {
         "item_id": 5010,
-        "name": "印地安發箍",
+        "name": "印地安髮箍",
         "rate": 0.02,
         "icon_url": "images/items/5010.gif"
       }
@@ -11982,7 +12206,7 @@
       },
       {
         "item_id": 1508,
-        "name": "思麥斯鐵鎚",
+        "name": "思麥斯鐵鎚[3]",
         "rate": 0.05,
         "icon_url": "images/items/1508.gif"
       },
@@ -12084,7 +12308,7 @@
       },
       {
         "item_id": 1605,
-        "name": "橡木魔杖",
+        "name": "橡木魔杖[3]",
         "rate": 0.08,
         "icon_url": "images/items/1605.gif"
       },
@@ -12331,7 +12555,7 @@
       },
       {
         "item_id": 1452,
-        "name": "彎刃長矛",
+        "name": "彎刃長矛[3]",
         "rate": 0.08,
         "icon_url": "images/items/1452.gif"
       },
@@ -12549,6 +12773,12 @@
         "name": "高級的烹飪用具",
         "rate": 0.03,
         "icon_url": "images/items/12127.gif"
+      },
+      {
+        "item_id": 1120,
+        "name": "日本刀[2]",
+        "rate": "???",
+        "icon_url": "images/items/1120.gif"
       }
     ]
   },
@@ -12892,7 +13122,7 @@
       },
       {
         "item_id": 1520,
-        "name": "鍊錘",
+        "name": "鏈錘[3]",
         "rate": 0.05,
         "icon_url": "images/items/1520.gif"
       },
@@ -13009,6 +13239,12 @@
         "name": "烏賊卡片",
         "rate": 0.01,
         "icon_url": "/images/items/4095.gif"
+      },
+      {
+        "item_id": 1514,
+        "name": "日星鎚[3]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1514.gif"
       }
     ]
   },
@@ -13222,12 +13458,6 @@
         "name": "畢帝特龍的尾巴",
         "rate": 0.5,
         "icon_url": "/images/items/6260.gif"
-      },
-      {
-        "item_id": 16040,
-        "name": "緋紅色鐵鎚",
-        "rate": 0.5,
-        "icon_url": "/images/items/16040.gif"
       }
     ]
   },
@@ -13329,12 +13559,6 @@
         "name": "畢帝特飛龍卡片",
         "rate": 0.01,
         "icon_url": "/images/items/4120.gif"
-      },
-      {
-        "item_id": 13006,
-        "name": "龍鱗",
-        "rate": 0.03,
-        "icon_url": "/images/items/13006.gif"
       }
     ]
   },
@@ -13559,6 +13783,18 @@
         "name": "白蟻卡片",
         "rate": 0.01,
         "icon_url": "images/items/4043.gif"
+      },
+      {
+        "item_id": 1520,
+        "name": "鏈錘[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1520.gif"
+      },
+      {
+        "item_id": 1214,
+        "name": "大駒短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1214.gif"
       }
     ]
   },
@@ -13787,6 +14023,134 @@
     ]
   },
   {
+    "id": 1166,
+    "name": {
+      "zh_tw": "野豬",
+      "en": "SAVAGE"
+    },
+    "image_url": "/images/monsters/1166.gif",
+    "basic_info": {
+      "level": 59,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 2
+      },
+      "size": "大"
+    },
+    "stats": {
+      "hp": 2301,
+      "attack": {
+        "min": 259,
+        "max": 333
+      },
+      "magic_attack": {
+        "min": 85,
+        "max": 99
+      },
+      "defense": 126,
+      "magic_defense": 3,
+      "hit_100_percent": 283,
+      "flee_95_percent": 286,
+      "base_stats": {
+        "str": 56,
+        "agi": 21,
+        "vit": 54,
+        "int": 10,
+        "dex": 52,
+        "luk": 15
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@face",
+        "description": "- 人面蟲洞穴",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "bra_fild01",
+        "description": "- 巴西平原",
+        "spawn_info": "5x / 5 秒"
+      },
+      {
+        "map_name": "mjolnir_07",
+        "description": "- 妙勒尼 山脈",
+        "spawn_info": "161x / 5 秒"
+      },
+      {
+        "map_name": "mjolnir_08",
+        "description": "- 妙勒尼 山脈",
+        "spawn_info": "36x / 5 秒"
+      },
+      {
+        "map_name": "pay_fild10",
+        "description": "- 斐揚 樹林",
+        "spawn_info": "64x / 5 秒"
+      },
+      {
+        "map_name": "prt_maze01",
+        "description": "- 迷藏森林1層(普隆德拉北部)",
+        "spawn_info": "8x / 2~3 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 514,
+        "name": "葡萄",
+        "rate": 1.5,
+        "icon_url": "images/items/514.gif"
+      },
+      {
+        "item_id": 526,
+        "name": "蜂膠",
+        "rate": 0.01,
+        "icon_url": "/images/items/526.gif"
+      },
+      {
+        "item_id": 702,
+        "name": "家畜血",
+        "rate": 0.01,
+        "icon_url": "/images/items/702.gif"
+      },
+      {
+        "item_id": 757,
+        "name": "鋁原石",
+        "rate": 0.35,
+        "icon_url": "images/items/757.gif"
+      },
+      {
+        "item_id": 1028,
+        "name": "野豬毛",
+        "rate": 45.0,
+        "icon_url": "/images/items/1028.gif"
+      },
+      {
+        "item_id": 2276,
+        "name": "大眼睛眼鏡",
+        "rate": 0.01,
+        "icon_url": "/images/items/2276.gif"
+      },
+      {
+        "item_id": 4078,
+        "name": "野豬卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4078.gif"
+      },
+      {
+        "item_id": 6249,
+        "name": "野豬肉",
+        "rate": 0.25,
+        "icon_url": "/images/items/6249.gif"
+      },
+      {
+        "item_id": 1461,
+        "name": "德瑞尹長戟[3]",
+        "rate": "???",
+        "icon_url": "images/items/1461.gif"
+      }
+    ]
+  },
+  {
     "id": 1167,
     "name": {
       "zh_tw": "小野豬",
@@ -14003,10 +14367,10 @@
     },
     "image_url": "images/monsters/1174.gif",
     "basic_info": {
-      "level": "23",
-      "race": "昆蟲系",
+      "level": 21,
+      "race": "昆蟲",
       "element": {
-        "type": "風屬性",
+        "type": "風",
         "level": 1
       },
       "size": "小"
@@ -14109,6 +14473,872 @@
         "name": "瓢蟲卡片",
         "rate": 0.01,
         "icon_url": "/images/items/4039.gif"
+      },
+      {
+        "item_id": 1211,
+        "name": "德克短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1211.gif"
+      }
+    ]
+  },
+  {
+    "id": 1175,
+    "name": {
+      "zh_tw": "白鼠",
+      "en": "TAROU"
+    },
+    "image_url": "images/monsters/1175.gif",
+    "basic_info": {
+      "level": 22,
+      "race": "動物",
+      "element": {
+        "type": "暗",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 420,
+      "attack": {
+        "min": 100,
+        "max": 130
+      },
+      "magic_attack": {
+        "min": 27,
+        "max": 31
+      },
+      "defense": 23,
+      "magic_defense": 5,
+      "hit_100_percent": 228,
+      "flee_95_percent": 202,
+      "base_stats": {
+        "str": 21,
+        "agi": 6,
+        "vit": 12,
+        "int": 1,
+        "dex": 10,
+        "luk": 1
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@tower",
+        "description": "- 無限塔 (魔物終結塔) 1樓",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "einbech",
+        "description": "- 采礦村落 艾音貝赫",
+        "spawn_info": "5x / 30~55 分鐘"
+      },
+      {
+        "map_name": "mjo_dun01",
+        "description": "- 妙勒尼 廢棄礦場 1層",
+        "spawn_info": "63x / 5 秒"
+      },
+      {
+        "map_name": "prt_sewb1",
+        "description": "- 普隆德拉 地下水道 1樓",
+        "spawn_info": "13x / 5 秒"
+      },
+      {
+        "map_name": "prt_sewb2",
+        "description": "- 普隆德拉 地下水道 2樓",
+        "spawn_info": "60x / 5 秒"
+      },
+      {
+        "map_name": "prt_sewb3",
+        "description": "- 普隆德拉 地下水道 3樓",
+        "spawn_info": "15x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 528,
+        "name": "魔物飼料",
+        "rate": 5.0,
+        "icon_url": "images/items/528.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 701,
+        "name": "歐拉歐拉",
+        "rate": 0.01,
+        "icon_url": "/images/items/701.gif"
+      },
+      {
+        "item_id": 919,
+        "name": "動物外皮",
+        "rate": 15.0,
+        "icon_url": "images/items/919.gif"
+      },
+      {
+        "item_id": 949,
+        "name": "柔毛",
+        "rate": 4.0,
+        "icon_url": "images/items/949.gif"
+      },
+      {
+        "item_id": 1016,
+        "name": "鼠尾",
+        "rate": 45.0,
+        "icon_url": "/images/items/1016.gif"
+      },
+      {
+        "item_id": 4028,
+        "name": "白鼠卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4028.gif"
+      },
+      {
+        "item_id": 1111,
+        "name": "擊刺長劍[3]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1111.gif"
+      }
+    ]
+  },
+  {
+    "id": 1176,
+    "name": {
+      "zh_tw": "黑蟻",
+      "en": "VITATA"
+    },
+    "image_url": "/images/monsters/1176.gif",
+    "basic_info": {
+      "level": 35,
+      "race": "昆蟲",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 756,
+      "attack": {
+        "min": 109,
+        "max": 137
+      },
+      "magic_attack": {
+        "min": 67,
+        "max": 79
+      },
+      "defense": 44,
+      "magic_defense": 12,
+      "hit_100_percent": 247,
+      "flee_95_percent": 227,
+      "base_stats": {
+        "str": 20,
+        "agi": 11,
+        "vit": 24,
+        "int": 20,
+        "dex": 21,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "anthell01",
+        "description": "- 螞蟻地獄密穴 1層",
+        "spawn_info": "10x / 5 秒"
+      },
+      {
+        "map_name": "anthell02",
+        "description": "- 螞蟻地獄密穴 2層",
+        "spawn_info": "30x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 518,
+        "name": "蜂蜜",
+        "rate": 1.75,
+        "icon_url": "images/items/518.gif"
+      },
+      {
+        "item_id": 526,
+        "name": "蜂膠",
+        "rate": 1.0,
+        "icon_url": "/images/items/526.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 756,
+        "name": "神之金屬原石",
+        "rate": 0.13,
+        "icon_url": "images/items/756.gif"
+      },
+      {
+        "item_id": 911,
+        "name": "雪勒結晶",
+        "rate": 1.0,
+        "icon_url": "images/items/911.gif"
+      },
+      {
+        "item_id": 955,
+        "name": "昆蟲外殼",
+        "rate": 25.0,
+        "icon_url": "images/items/955.gif"
+      },
+      {
+        "item_id": 993,
+        "name": "地靈礦石",
+        "rate": 0.45,
+        "icon_url": "images/items/993.gif"
+      },
+      {
+        "item_id": 4053,
+        "name": "黑蟻卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4053.gif"
+      },
+      {
+        "item_id": 1216,
+        "name": "雙刃短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1216.gif"
+      }
+    ]
+  },
+  {
+    "id": 1185,
+    "name": {
+      "zh_tw": "白幽靈",
+      "en": "WHISPER_"
+    },
+    "image_url": "/images/monsters/1185.gif",
+    "basic_info": {
+      "level": 34,
+      "race": "不死",
+      "element": {
+        "type": "念",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 1796,
+      "attack": {
+        "min": 193,
+        "max": 273
+      },
+      "magic_attack": {
+        "min": 63,
+        "max": 89
+      },
+      "defense": 0,
+      "magic_defense": 45,
+      "hit_100_percent": 285,
+      "flee_95_percent": 264,
+      "base_stats": {
+        "str": 1,
+        "agi": 51,
+        "vit": 14,
+        "int": 1,
+        "dex": 60,
+        "luk": 1
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "gl_cas02",
+        "description": "- 克雷斯特漢姆古城 地上2層",
+        "spawn_info": "1x / 30~45 分鐘"
+      },
+      {
+        "map_name": "gl_cas02_",
+        "description": "- 克雷斯特漢姆古城 地上樓層 2樓 (噩咪模式)",
+        "spawn_info": "1x / 30~45 分鐘"
+      },
+      {
+        "map_name": "pay_d03_i",
+        "description": "- 幻影: 月夜貓的噩咪",
+        "spawn_info": "5x / 5 秒"
+      },
+      {
+        "map_name": "pay_dun03",
+        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
+        "spawn_info": "4x / 30 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 1001,
+        "name": "星星的粉末",
+        "rate": 0.05,
+        "icon_url": "images/items/1001.gif"
+      },
+      {
+        "item_id": 1059,
+        "name": "透明之布",
+        "rate": 0.5,
+        "icon_url": "/images/items/1059.gif"
+      },
+      {
+        "item_id": 2333,
+        "name": "祕銀之衣",
+        "rate": 0.01,
+        "icon_url": "/images/items/2333.gif"
+      },
+      {
+        "item_id": 1211,
+        "name": "德克短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1211.gif"
+      }
+    ]
+  },
+  {
+    "id": 1254,
+    "name": {
+      "zh_tw": "奈吉鳥",
+      "en": "RAGGLER"
+    },
+    "image_url": "/images/monsters/1254.gif",
+    "basic_info": {
+      "level": 48,
+      "race": "動物",
+      "element": {
+        "type": "風",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 1148,
+      "attack": {
+        "min": 135,
+        "max": 165
+      },
+      "magic_attack": {
+        "min": 90,
+        "max": 114
+      },
+      "defense": 56,
+      "magic_defense": 10,
+      "hit_100_percent": 295,
+      "flee_95_percent": 281,
+      "base_stats": {
+        "str": 30,
+        "agi": 42,
+        "vit": 38,
+        "int": 15,
+        "dex": 54,
+        "luk": 27
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "cmd_fild07",
+        "description": "- 發樂斯 燈塔島",
+        "spawn_info": "116x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 645,
+        "name": "集中藥水",
+        "rate": 1.0,
+        "icon_url": "images/items/645.gif"
+      },
+      {
+        "item_id": 756,
+        "name": "神之金屬原石",
+        "rate": 0.16,
+        "icon_url": "images/items/756.gif"
+      },
+      {
+        "item_id": 916,
+        "name": "羽毛",
+        "rate": 25.0,
+        "icon_url": "images/items/916.gif"
+      },
+      {
+        "item_id": 992,
+        "name": "風靈礦石",
+        "rate": 0.45,
+        "icon_url": "images/items/992.gif"
+      },
+      {
+        "item_id": 2225,
+        "name": "防風皮革眼鏡",
+        "rate": 0.04,
+        "icon_url": "/images/items/2225.gif"
+      },
+      {
+        "item_id": 4186,
+        "name": "奈吉鳥卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4186.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 15.0,
+        "icon_url": "/images/items/7053.gif"
+      },
+      {
+        "item_id": 1485,
+        "name": "三叉戟[3]",
+        "rate": "???",
+        "icon_url": "/images/items/1485.gif"
+      }
+    ]
+  },
+  {
+    "id": 1256,
+    "name": {
+      "zh_tw": "單眼蟲",
+      "en": "PEST"
+    },
+    "image_url": "/images/monsters/1256.gif",
+    "basic_info": {
+      "level": 89,
+      "race": "動物",
+      "element": {
+        "type": "暗",
+        "level": 2
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 5747,
+      "attack": {
+        "min": 429,
+        "max": 563
+      },
+      "magic_attack": {
+        "min": 137,
+        "max": 167
+      },
+      "defense": 55,
+      "magic_defense": 33,
+      "hit_100_percent": 371,
+      "flee_95_percent": 373,
+      "base_stats": {
+        "str": 73,
+        "agi": 77,
+        "vit": 48,
+        "int": 15,
+        "dex": 106,
+        "luk": 25
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "2@tower",
+        "description": "- 無限塔 (魔物終結塔) 2樓",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "beach_dun",
+        "description": "- 西邊 洞穴 加露",
+        "spawn_info": "20x / 5 秒"
+      },
+      {
+        "map_name": "tur_dun01",
+        "description": "- 烏龜島",
+        "spawn_info": "15x / 5 秒"
+      },
+      {
+        "map_name": "tur_dun02",
+        "description": "- 烏龜島 密穴 2層",
+        "spawn_info": "15x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 605,
+        "name": "曼特療傷藥",
+        "rate": 0.5,
+        "icon_url": "/images/items/605.gif"
+      },
+      {
+        "item_id": 702,
+        "name": "家畜血",
+        "rate": 0.05,
+        "icon_url": "/images/items/702.gif"
+      },
+      {
+        "item_id": 716,
+        "name": "紅色魔力礦石",
+        "rate": 1.25,
+        "icon_url": "images/items/716.gif"
+      },
+      {
+        "item_id": 756,
+        "name": "神之金屬原石",
+        "rate": 0.58,
+        "icon_url": "images/items/756.gif"
+      },
+      {
+        "item_id": 1055,
+        "name": "蚯蚓皮",
+        "rate": 27.5,
+        "icon_url": "images/items/1055.gif"
+      },
+      {
+        "item_id": 4315,
+        "name": "單眼蟲卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4315.gif"
+      },
+      {
+        "item_id": 7054,
+        "name": "布里刊",
+        "rate": 1.0,
+        "icon_url": "/images/items/7054.gif"
+      },
+      {
+        "item_id": 1220,
+        "name": "長柄短劍[3]",
+        "rate": 1.0,
+        "icon_url": "images/items/1220.gif"
+      }
+    ]
+  },
+  {
+    "id": 1261,
+    "name": {
+      "zh_tw": "狂暴野貓",
+      "en": "WILD_ROSE"
+    },
+    "image_url": "/images/monsters/1261.gif",
+    "basic_info": {
+      "level": 70,
+      "race": "動物",
+      "element": {
+        "type": "風",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 2682,
+      "attack": {
+        "min": 231,
+        "max": 291
+      },
+      "magic_attack": {
+        "min": 136,
+        "max": 164
+      },
+      "defense": 75,
+      "magic_defense": 15,
+      "hit_100_percent": 373,
+      "flee_95_percent": 335,
+      "base_stats": {
+        "str": 44,
+        "agi": 87,
+        "vit": 31,
+        "int": 35,
+        "dex": 69,
+        "luk": 80
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "um_fild04",
+        "description": "- 滬家叢林",
+        "spawn_info": "38x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 528,
+        "name": "魔物飼料",
+        "rate": 3.0,
+        "icon_url": "images/items/528.gif"
+      },
+      {
+        "item_id": 624,
+        "name": "腐臭之魚",
+        "rate": 0.18,
+        "icon_url": "images/items/624.gif"
+      },
+      {
+        "item_id": 748,
+        "name": "永恆玫瑰",
+        "rate": 0.25,
+        "icon_url": "images/items/748.gif"
+      },
+      {
+        "item_id": 2244,
+        "name": "紅蝶髮帶",
+        "rate": 0.01,
+        "icon_url": "images/items/2244.gif"
+      },
+      {
+        "item_id": 2336,
+        "name": "盜賊之衣",
+        "rate": 0.01,
+        "icon_url": "/images/items/2336.gif"
+      },
+      {
+        "item_id": 4257,
+        "name": "狂暴野貓卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4257.gif"
+      },
+      {
+        "item_id": 5037,
+        "name": "水果皮帽",
+        "rate": 0.6,
+        "icon_url": "/images/items/5037.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 26.68,
+        "icon_url": "/images/items/7053.gif"
+      }
+    ]
+  },
+  {
+    "id": 1264,
+    "name": {
+      "zh_tw": "人魚士兵",
+      "en": "MERMAN"
+    },
+    "image_url": "/images/monsters/1264.gif",
+    "basic_info": {
+      "level": 60,
+      "race": "人形",
+      "element": {
+        "type": "水",
+        "level": 3
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 2940,
+      "attack": {
+        "min": 209,
+        "max": 263
+      },
+      "magic_attack": {
+        "min": 101,
+        "max": 121
+      },
+      "defense": 62,
+      "magic_defense": 8,
+      "hit_100_percent": 291,
+      "flee_95_percent": 288,
+      "base_stats": {
+        "str": 45,
+        "agi": 29,
+        "vit": 30,
+        "int": 19,
+        "dex": 55,
+        "luk": 10
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@tower",
+        "description": "- 無限塔 (魔物終結塔) 1樓",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "beach_dun",
+        "description": "- 西邊 洞穴 加露",
+        "spawn_info": "3x / 5 秒"
+      },
+      {
+        "map_name": "iz_dun02",
+        "description": "- 依斯魯得海底洞穴 3層",
+        "spawn_info": "1x / 5 秒"
+      },
+      {
+        "map_name": "iz_dun03",
+        "description": "- 依斯魯得海底洞穴 4層",
+        "spawn_info": "3x / 5 秒"
+      },
+      {
+        "map_name": "iz_dun04",
+        "description": "- 依斯魯得海底洞穴 5層",
+        "spawn_info": "61x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 568,
+        "name": "檸檬",
+        "rate": 2.0,
+        "icon_url": "/images/items/568.gif"
+      },
+      {
+        "item_id": 720,
+        "name": "天藍寶石",
+        "rate": 0.2,
+        "icon_url": "images/items/720.gif"
+      },
+      {
+        "item_id": 756,
+        "name": "神之金屬原石",
+        "rate": 1.02,
+        "icon_url": "images/items/756.gif"
+      },
+      {
+        "item_id": 995,
+        "name": "水靈原石",
+        "rate": 0.18,
+        "icon_url": "images/items/995.gif"
+      },
+      {
+        "item_id": 1054,
+        "name": "人魚嘴巴",
+        "rate": 6.5,
+        "icon_url": "images/items/1054.gif"
+      },
+      {
+        "item_id": 1460,
+        "name": "德瑞尹長戟[2]",
+        "rate": 0.02,
+        "icon_url": "/images/items/1460.gif"
+      },
+      {
+        "item_id": 2317,
+        "name": "鋼鐵盔甲",
+        "rate": 0.01,
+        "icon_url": "/images/items/2317.gif"
+      },
+      {
+        "item_id": 4199,
+        "name": "人魚士兵卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4199.gif"
+      }
+    ]
+  },
+  {
+    "id": 1273,
+    "name": {
+      "zh_tw": "獸人女戰士",
+      "en": "ORC_LADY"
+    },
+    "image_url": "/images/monsters/1273.gif",
+    "basic_info": {
+      "level": 45,
+      "race": "人形",
+      "element": {
+        "type": "地",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1520,
+      "attack": {
+        "min": 142,
+        "max": 174
+      },
+      "magic_attack": {
+        "min": 78,
+        "max": 98
+      },
+      "defense": 83,
+      "magic_defense": 17,
+      "hit_100_percent": 257,
+      "flee_95_percent": 273,
+      "base_stats": {
+        "str": 36,
+        "agi": 11,
+        "vit": 28,
+        "int": 10,
+        "dex": 57,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "1@tower",
+        "description": "- 無限塔 (魔物終結塔) 1樓",
+        "spawn_info": ""
+      },
+      {
+        "map_name": "gef_fild03",
+        "description": "- 吉芬 區域",
+        "spawn_info": "160x / 5 秒"
+      },
+      {
+        "map_name": "gef_fild10",
+        "description": "- 東邊 獸人村落",
+        "spawn_info": "55x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 2206,
+        "name": "婚禮頭紗",
+        "rate": 0.01,
+        "icon_url": "/images/items/2206.gif"
+      },
+      {
+        "item_id": 2338,
+        "name": "結婚禮服",
+        "rate": 0.01,
+        "icon_url": "/images/items/2338.gif"
+      },
+      {
+        "item_id": 2602,
+        "name": "智力耳環",
+        "rate": 0.01,
+        "icon_url": "/images/items/2602.gif"
+      },
+      {
+        "item_id": 4255,
+        "name": "獸人女戰士卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4255.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 23.28,
+        "icon_url": "/images/items/7053.gif"
+      },
+      {
+        "item_id": 7477,
+        "name": "6級烹飪書",
+        "rate": 0.02,
+        "icon_url": "images/items/7477.gif"
+      },
+      {
+        "item_id": 15012,
+        "name": "皎潔長袍",
+        "rate": 0.02,
+        "icon_url": "/images/items/15012.gif"
+      },
+      {
+        "item_id": 1125,
+        "name": "圓柄馬刀",
+        "rate": 0.01,
+        "icon_url": "/images/items/1125.gif"
       }
     ]
   },
@@ -14200,7 +15430,7 @@
       },
       {
         "item_id": 1501,
-        "name": "木錘",
+        "name": "木錘[3]",
         "rate": 0.5,
         "icon_url": "images/items/1501.gif"
       },
@@ -14221,6 +15451,314 @@
         "name": "布里刊",
         "rate": 10.0,
         "icon_url": "/images/items/7054.gif"
+      }
+    ]
+  },
+  {
+    "id": 1317,
+    "name": {
+      "zh_tw": "海獺寶寶",
+      "en": "FUR_SEAL"
+    },
+    "image_url": "/images/monsters/1317.gif",
+    "basic_info": {
+      "level": 47,
+      "race": "動物",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1371,
+      "attack": {
+        "min": 153,
+        "max": 189
+      },
+      "magic_attack": {
+        "min": 114,
+        "max": 138
+      },
+      "defense": 42,
+      "magic_defense": 16,
+      "hit_100_percent": 290,
+      "flee_95_percent": 258,
+      "base_stats": {
+        "str": 37,
+        "agi": 40,
+        "vit": 30,
+        "int": 39,
+        "dex": 35,
+        "luk": 19
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "cmd_fild02",
+        "description": "- 克克魔 海邊",
+        "spawn_info": "162x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 525,
+        "name": "萬能藥",
+        "rate": 1.0,
+        "icon_url": "images/items/525.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 746,
+        "name": "玻璃珠",
+        "rate": 0.6,
+        "icon_url": "/images/items/746.gif"
+      },
+      {
+        "item_id": 912,
+        "name": "剎勒空結晶",
+        "rate": 21.83,
+        "icon_url": "images/items/912.gif"
+      },
+      {
+        "item_id": 1452,
+        "name": "彎刃長矛[3]",
+        "rate": 0.01,
+        "icon_url": "images/items/1452.gif"
+      },
+      {
+        "item_id": 2310,
+        "name": "長大衣",
+        "rate": 0.03,
+        "icon_url": "images/items/2310.gif"
+      },
+      {
+        "item_id": 4312,
+        "name": "海豹寶寶卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4312.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 6.0,
+        "icon_url": "/images/items/7053.gif"
+      }
+    ]
+  },
+  {
+    "id": 1323,
+    "name": {
+      "zh_tw": "海獺",
+      "en": "SEE_OTTER"
+    },
+    "image_url": "images/monsters/1323.gif",
+    "basic_info": {
+      "level": 48,
+      "race": "動物",
+      "element": {
+        "type": "水",
+        "level": 3
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 1820,
+      "attack": {
+        "min": 146,
+        "max": 180
+      },
+      "magic_attack": {
+        "min": 103,
+        "max": 129
+      },
+      "defense": 31,
+      "magic_defense": 18,
+      "hit_100_percent": 279,
+      "flee_95_percent": 268,
+      "base_stats": {
+        "str": 32,
+        "agi": 26,
+        "vit": 33,
+        "int": 26,
+        "dex": 41,
+        "luk": 28
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "cmd_fild04",
+        "description": "- 克克魔 海邊",
+        "spawn_info": "149x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 722,
+        "name": "珍珠",
+        "rate": 0.75,
+        "icon_url": "images/items/722.gif"
+      },
+      {
+        "item_id": 726,
+        "name": "藍寶石",
+        "rate": 0.25,
+        "icon_url": "/images/items/726.gif"
+      },
+      {
+        "item_id": 746,
+        "name": "玻璃珠",
+        "rate": 3.25,
+        "icon_url": "/images/items/746.gif"
+      },
+      {
+        "item_id": 965,
+        "name": "蛤蜊外殼",
+        "rate": 27.5,
+        "icon_url": "images/items/965.gif"
+      },
+      {
+        "item_id": 4326,
+        "name": "海獺卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4326.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 6.0,
+        "icon_url": "/images/items/7053.gif"
+      },
+      {
+        "item_id": 7065,
+        "name": "海獺的皮革",
+        "rate": 21.83,
+        "icon_url": "/images/items/7065.gif"
+      },
+      {
+        "item_id": 1157,
+        "name": "雙手巨劍[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1157.gif"
+      }
+    ]
+  },
+  {
+    "id": 1391,
+    "name": {
+      "zh_tw": "啤酒企鵝",
+      "en": "GALAPAGO"
+    },
+    "image_url": "/images/monsters/1391.gif",
+    "basic_info": {
+      "level": 45,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 1221,
+      "attack": {
+        "min": 129,
+        "max": 157
+      },
+      "magic_attack": {
+        "min": 87,
+        "max": 109
+      },
+      "defense": 70,
+      "magic_defense": 16,
+      "hit_100_percent": 276,
+      "flee_95_percent": 250,
+      "base_stats": {
+        "str": 30,
+        "agi": 28,
+        "vit": 29,
+        "int": 18,
+        "dex": 30,
+        "luk": 16
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "cmd_fild02",
+        "description": "- 克克魔 海邊",
+        "spawn_info": "40x / 5 秒"
+      },
+      {
+        "map_name": "cmd_fild04",
+        "description": "- 克克魔 海邊",
+        "spawn_info": "37x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 508,
+        "name": "黃色藥草",
+        "rate": 17.5,
+        "icon_url": "images/items/508.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 5.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 606,
+        "name": "蘆薈汁液",
+        "rate": 0.5,
+        "icon_url": "/images/items/606.gif"
+      },
+      {
+        "item_id": 4152,
+        "name": "啤酒企鵝卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4152.gif"
+      },
+      {
+        "item_id": 5111,
+        "name": "啤酒企鵝之帽",
+        "rate": 0.01,
+        "icon_url": "/images/items/5111.gif"
+      },
+      {
+        "item_id": 6263,
+        "name": "椰果",
+        "rate": 1.5,
+        "icon_url": "/images/items/6263.gif"
+      },
+      {
+        "item_id": 6264,
+        "name": "甜瓜",
+        "rate": 1.5,
+        "icon_url": "/images/items/6264.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 26.68,
+        "icon_url": "/images/items/7053.gif"
+      },
+      {
+        "item_id": 1113,
+        "name": "彎刀[3]",
+        "rate": 1.0,
+        "icon_url": "/images/items/1113.gif"
       }
     ]
   },
@@ -14326,6 +15864,124 @@
         "name": "巨象甲蟲之螯",
         "rate": 22.5,
         "icon_url": "/images/items/7202.gif"
+      },
+      {
+        "item_id": 1485,
+        "name": "三叉戟[3]",
+        "rate": "???",
+        "icon_url": "/images/items/1485.gif"
+      }
+    ]
+  },
+  {
+    "id": 1499,
+    "name": {
+      "zh_tw": "伍坦戰士",
+      "en": "WOOTAN_FIGHTER"
+    },
+    "image_url": "images/monsters/1499.gif",
+    "basic_info": {
+      "level": 67,
+      "race": "人形",
+      "element": {
+        "type": "火",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 2327,
+      "attack": {
+        "min": 334,
+        "max": 436
+      },
+      "magic_attack": {
+        "min": 97,
+        "max": 119
+      },
+      "defense": 103,
+      "magic_defense": 8,
+      "hit_100_percent": 284,
+      "flee_95_percent": 304,
+      "base_stats": {
+        "str": 63,
+        "agi": 14,
+        "vit": 36,
+        "int": 5,
+        "dex": 62,
+        "luk": 15
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "um_fild01",
+        "description": "- 嚕嚕卡森林",
+        "spawn_info": "16x / 5 秒"
+      },
+      {
+        "map_name": "um_fild02",
+        "description": "- 滬家森林",
+        "spawn_info": "68x / 5 秒"
+      },
+      {
+        "map_name": "um_fild03",
+        "description": "- 卡拉拉森林",
+        "spawn_info": "20x / 5 秒"
+      },
+      {
+        "map_name": "um_fild04",
+        "description": "- 滬家叢林",
+        "spawn_info": "6x / 5 秒"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 517,
+        "name": "肉",
+        "rate": 22.5,
+        "icon_url": "images/items/517.gif"
+      },
+      {
+        "item_id": 1801,
+        "name": "虎爪拳套",
+        "rate": 0.02,
+        "icon_url": "/images/items/1801.gif"
+      },
+      {
+        "item_id": 1812,
+        "name": "鷹爪拳套",
+        "rate": 0.01,
+        "icon_url": "/images/items/1812.gif"
+      },
+      {
+        "item_id": 4261,
+        "name": "伍坦戰士卡片",
+        "rate": 0.01,
+        "icon_url": "/images/items/4261.gif"
+      },
+      {
+        "item_id": 5116,
+        "name": "香蕉帽",
+        "rate": 0.03,
+        "icon_url": "/images/items/5116.gif"
+      },
+      {
+        "item_id": 7196,
+        "name": "木製護肩",
+        "rate": 20.0,
+        "icon_url": "/images/items/7196.gif"
+      },
+      {
+        "item_id": 7198,
+        "name": "巨大葉子",
+        "rate": 5.0,
+        "icon_url": "/images/items/7198.gif"
+      },
+      {
+        "item_id": 7939,
+        "name": "年老的樹枝",
+        "rate": 0.5,
+        "icon_url": "images/items/7939.gif"
       }
     ]
   },
@@ -14431,7 +16087,7 @@
       },
       {
         "item_id": 1358,
-        "name": "毀滅之斧",
+        "name": "毀滅之斧[2]",
         "rate": 0.1,
         "icon_url": "/images/items/1358.gif"
       }
@@ -14731,15 +16387,15 @@
   {
     "id": 2653,
     "name": {
-      "zh_tw": "精英青蛇 / 菁英青蛇",
+      "zh_tw": "菁英青蛇",
       "en": "C3_SNAKE"
     },
     "image_url": "/images/monsters/2653.gif",
     "basic_info": {
       "level": 18,
-      "race": "動物系",
+      "race": "動物",
       "element": {
-        "type": "地屬性",
+        "type": "地",
         "level": 1
       },
       "size": "中"
@@ -15206,7 +16862,7 @@
       },
       {
         "item_id": 1207,
-        "name": "笨拙短劍",
+        "name": "笨拙短劍[3]",
         "rate": 1.0,
         "icon_url": "images/items/1207.gif"
       },
@@ -15215,6 +16871,103 @@
         "name": "波波利卡片",
         "rate": 0.5,
         "icon_url": "images/items/4033.gif"
+      }
+    ]
+  },
+  {
+    "id": 2768,
+    "name": {
+      "zh_tw": "狡猾魔鍋蛋",
+      "en": "C5_MAGNOLIA"
+    },
+    "image_url": "/images/monsters/2768.gif",
+    "basic_info": {
+      "level": 53,
+      "race": "惡魔",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 9920,
+      "attack": {
+        "min": 194,
+        "max": 240
+      },
+      "magic_attack": {
+        "min": 218,
+        "max": 318
+      },
+      "defense": 51,
+      "magic_defense": 8,
+      "hit_100_percent": 295,
+      "flee_95_percent": 282,
+      "base_stats": {
+        "str": 49,
+        "agi": 25,
+        "vit": 21,
+        "int": 50,
+        "dex": 31,
+        "luk": 85
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "prt_fild09",
+        "description": "- 普隆德拉 區域",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 508,
+        "name": "黃色藥草",
+        "rate": 10.0,
+        "icon_url": "images/items/508.gif"
+      },
+      {
+        "item_id": 737,
+        "name": "黑色杓子",
+        "rate": 1.0,
+        "icon_url": "images/items/737.gif"
+      },
+      {
+        "item_id": 910,
+        "name": "加勒結晶",
+        "rate": 20.0,
+        "icon_url": "images/items/910.gif"
+      },
+      {
+        "item_id": 911,
+        "name": "雪勒結晶",
+        "rate": 2.5,
+        "icon_url": "images/items/911.gif"
+      },
+      {
+        "item_id": 912,
+        "name": "剎勒空結晶",
+        "rate": 0.25,
+        "icon_url": "images/items/912.gif"
+      },
+      {
+        "item_id": 4076,
+        "name": "魔鍋蛋卡片",
+        "rate": 0.05,
+        "icon_url": "images/items/4076.gif"
+      },
+      {
+        "item_id": 7031,
+        "name": "破舊平底鍋",
+        "rate": 100.0,
+        "icon_url": "images/items/7031.gif"
+      },
+      {
+        "item_id": 12127,
+        "name": "高級的烹飪用具",
+        "rate": 0.15,
+        "icon_url": "images/items/12127.gif"
       }
     ]
   },
@@ -15303,7 +17056,7 @@
       },
       {
         "item_id": 1452,
-        "name": "彎刃長矛",
+        "name": "彎刃長矛[3]",
         "rate": 0.4,
         "icon_url": "images/items/1452.gif"
       },
@@ -15312,6 +17065,103 @@
         "name": "鍬形蟲卡片",
         "rate": 0.05,
         "icon_url": "images/items/4045.gif"
+      }
+    ]
+  },
+  {
+    "id": 2802,
+    "name": {
+      "zh_tw": "憤怒蚯蚓",
+      "en": "C4_HODE"
+    },
+    "image_url": "/images/monsters/2802.gif",
+    "basic_info": {
+      "level": 63,
+      "race": "動物",
+      "element": {
+        "type": "地",
+        "level": 2
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 13380,
+      "attack": {
+        "min": 295,
+        "max": 381
+      },
+      "magic_attack": {
+        "min": 99,
+        "max": 127
+      },
+      "defense": 91,
+      "magic_defense": 24,
+      "hit_100_percent": 291,
+      "flee_95_percent": 278,
+      "base_stats": {
+        "str": 61,
+        "agi": 20,
+        "vit": 42,
+        "int": 5,
+        "dex": 32,
+        "luk": 40
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "moc_fild17",
+        "description": "- 蘇克拉特 沙漠",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 632,
+        "name": "營養蚯蚓",
+        "rate": 0.5,
+        "icon_url": "images/items/632.gif"
+      },
+      {
+        "item_id": 757,
+        "name": "鋁原石",
+        "rate": 2.0,
+        "icon_url": "images/items/757.gif"
+      },
+      {
+        "item_id": 938,
+        "name": "粘稠液體",
+        "rate": 75.0,
+        "icon_url": "images/items/938.gif"
+      },
+      {
+        "item_id": 993,
+        "name": "地靈礦石",
+        "rate": 3.0,
+        "icon_url": "images/items/993.gif"
+      },
+      {
+        "item_id": 1055,
+        "name": "蚯蚓皮",
+        "rate": 100.0,
+        "icon_url": "images/items/1055.gif"
+      },
+      {
+        "item_id": 1147,
+        "name": "湯恩劍",
+        "rate": 0.25,
+        "icon_url": "images/items/1147.gif"
+      },
+      {
+        "item_id": 4081,
+        "name": "蚯蚓卡片",
+        "rate": 0.05,
+        "icon_url": "images/items/4081.gif"
+      },
+      {
+        "item_id": 7021,
+        "name": "盲人之證",
+        "rate": 0.05,
+        "icon_url": "images/items/7021.gif"
       }
     ]
   },
@@ -15388,7 +17238,7 @@
       },
       {
         "item_id": 1501,
-        "name": "木錘",
+        "name": "木錘[3]",
         "rate": 2.5,
         "icon_url": "images/items/1501.gif"
       },
@@ -15409,6 +17259,103 @@
         "name": "布里刊",
         "rate": 50.0,
         "icon_url": "/images/items/7054.gif"
+      }
+    ]
+  },
+  {
+    "id": 2829,
+    "name": {
+      "zh_tw": "精英海獺寶寶",
+      "en": "C1_FUR_SEAL"
+    },
+    "image_url": "/images/monsters/2829.gif",
+    "basic_info": {
+      "level": 47,
+      "race": "動物",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 6855,
+      "attack": {
+        "min": 167,
+        "max": 209
+      },
+      "magic_attack": {
+        "min": 114,
+        "max": 138
+      },
+      "defense": 42,
+      "magic_defense": 16,
+      "hit_100_percent": 290,
+      "flee_95_percent": 258,
+      "base_stats": {
+        "str": 37,
+        "agi": 40,
+        "vit": 30,
+        "int": 39,
+        "dex": 35,
+        "luk": 19
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "cmd_fild02",
+        "description": "- 克克魔 海邊",
+        "spawn_info": "3x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 525,
+        "name": "萬能藥",
+        "rate": 5.0,
+        "icon_url": "images/items/525.gif"
+      },
+      {
+        "item_id": 601,
+        "name": "蒼蠅翅膀",
+        "rate": 25.0,
+        "icon_url": "images/items/601.gif"
+      },
+      {
+        "item_id": 746,
+        "name": "玻璃珠",
+        "rate": 3.0,
+        "icon_url": "/images/items/746.gif"
+      },
+      {
+        "item_id": 912,
+        "name": "剎勒空結晶",
+        "rate": 100.0,
+        "icon_url": "images/items/912.gif"
+      },
+      {
+        "item_id": 1452,
+        "name": "彎刃長矛[3]",
+        "rate": 0.05,
+        "icon_url": "images/items/1452.gif"
+      },
+      {
+        "item_id": 2310,
+        "name": "長大衣",
+        "rate": 0.15,
+        "icon_url": "images/items/2310.gif"
+      },
+      {
+        "item_id": 4312,
+        "name": "海豹寶寶卡片",
+        "rate": 0.05,
+        "icon_url": "/images/items/4312.gif"
+      },
+      {
+        "item_id": 7053,
+        "name": "賽依伐",
+        "rate": 30.0,
+        "icon_url": "/images/items/7053.gif"
       }
     ]
   },
@@ -15491,13 +17438,13 @@
       },
       {
         "item_id": 1501,
-        "name": "木錘",
+        "name": "木錘[3]",
         "rate": 10.0,
         "icon_url": "images/items/1501.gif"
       },
       {
         "item_id": 1502,
-        "name": "木錘",
+        "name": "木錘[4]",
         "rate": 4.0,
         "icon_url": "images/items/1502.gif"
       },
@@ -15506,6 +17453,97 @@
         "name": "綠棉蟲卡片",
         "rate": 1.0,
         "icon_url": "images/items/4002.gif"
+      }
+    ]
+  },
+  {
+    "id": 2851,
+    "name": {
+      "zh_tw": "憤怒土人",
+      "en": "C4_DOKEBI"
+    },
+    "image_url": "images/monsters/2851.gif",
+    "basic_info": {
+      "level": 68,
+      "race": "惡魔",
+      "element": {
+        "type": "暗",
+        "level": 1
+      },
+      "size": "小"
+    },
+    "stats": {
+      "hp": 14100,
+      "attack": {
+        "min": 438,
+        "max": 598
+      },
+      "magic_attack": {
+        "min": 109,
+        "max": 127
+      },
+      "defense": 85,
+      "magic_defense": 20,
+      "hit_100_percent": 345,
+      "flee_95_percent": 312,
+      "base_stats": {
+        "str": 52,
+        "agi": 72,
+        "vit": 35,
+        "int": 20,
+        "dex": 66,
+        "luk": 25
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_dun04",
+        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
+        "spawn_info": "2x / 5 分鐘"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 757,
+        "name": "鋁原石",
+        "rate": 3.75,
+        "icon_url": "images/items/757.gif"
+      },
+      {
+        "item_id": 969,
+        "name": "黃金",
+        "rate": 0.01,
+        "icon_url": "/images/items/969.gif"
+      },
+      {
+        "item_id": 1005,
+        "name": "高級鐵砧",
+        "rate": 0.15,
+        "icon_url": "/images/items/1005.gif"
+      },
+      {
+        "item_id": 1021,
+        "name": "土人之角",
+        "rate": 100.0,
+        "icon_url": "/images/items/1021.gif"
+      },
+      {
+        "item_id": 1517,
+        "name": "尖刃鐵鎚",
+        "rate": 0.05,
+        "icon_url": "/images/items/1517.gif"
+      },
+      {
+        "item_id": 4098,
+        "name": "土人卡片",
+        "rate": 0.05,
+        "icon_url": "/images/items/4098.gif"
+      },
+      {
+        "item_id": 1613,
+        "name": "巫杖 魂咬",
+        "rate": 0.05,
+        "icon_url": "/images/items/1613.gif"
       }
     ]
   },

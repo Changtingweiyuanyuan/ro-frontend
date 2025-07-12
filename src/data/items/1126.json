@@ -1,0 +1,23 @@
+{
+  "id": 1126,
+  "name": {
+    "zh_tw": "騎兵之劍",
+    "en": "Saber"
+  },
+  "icon_url": "/images/items/1126.gif",
+  "category": "武器",
+  "description": {
+    "official": "騎兵們專用的單手劍。不過使用於騎兵儀式方面較多。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 49000,
+    "sell_price": 24500,
+    "weight": 100
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

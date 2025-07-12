@@ -1,0 +1,40 @@
+{
+  "id": 7065,
+  "name": {
+    "zh_tw": "海獺的皮革",
+    "en": "Sea_Otter_Leather"
+  },
+  "icon_url": "/images/items/7065.gif",
+  "category": "其他類",
+  "description": {
+    "official": "看起來可以編織成衣服，非常溫暖的海獺的皮革，用看的就可以感覺到非常柔軟的樣子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 820,
+    "sell_price": 410,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 21.83
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 21.83
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

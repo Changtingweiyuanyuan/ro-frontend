@@ -1,0 +1,39 @@
+{
+  "id": 4261,
+  "name": {
+    "zh_tw": "伍坦戰士卡片",
+    "en": "Wootan_Fighter_Card"
+  },
+  "icon_url": "/images/items/4261.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到攻擊時，被出血的幾率降低20%DEF+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bDef,1; bonus2 bResEff,Eff_Bleeding,2000; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

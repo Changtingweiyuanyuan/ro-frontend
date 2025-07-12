@@ -1,0 +1,45 @@
+{
+  "id": 1613,
+  "name": {
+    "zh_tw": "巫杖 魂咬",
+    "en": "Mighty_Staff"
+  },
+  "icon_url": "/images/items/1613.gif",
+  "category": "武器",
+  "description": {
+    "official": "使用時可以將使用者的精神力轉換為破壞力的手杖。每次攻擊時SP-5，STR+10，MATK+100",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 70
+  },
+  "script": "{ bonus bStr,10; bonus bSPDrainValue,-2; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2851,
+      "name": "精英土人 / 憤怒土人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1296,
+      "name": "犬妖首領",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3393,
+      "name": "土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1110,
+      "name": "土人",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

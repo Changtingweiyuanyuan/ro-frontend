@@ -1,0 +1,60 @@
+{
+  "id": 950,
+  "name": {
+    "zh_tw": "人魚之心",
+    "en": "Heart_Of_Mermaid"
+  },
+  "icon_url": "/images/items/950.gif",
+  "category": "其他類",
+  "description": {
+    "official": "人魚的紅色心臟，不論何時看起來都是噗通噗通跳動著的樣子。可向收集商購買。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 264,
+    "sell_price": 132,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2795,
+      "name": "精英亞拉 / 雄壯亞拉",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 20647,
+      "name": "浴池人魚",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 1044,
+      "name": "人魚",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 1970,
+      "name": "人魚_E",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2184,
+      "name": "深海人魚",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 2069,
+      "name": "亞拉",
+      "rate": 45.0
+    },
+    {
+      "monster_id": 20802,
+      "name": "深海人魚",
+      "rate": 25.0
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

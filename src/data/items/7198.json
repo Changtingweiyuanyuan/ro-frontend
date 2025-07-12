@@ -1,0 +1,135 @@
+{
+  "id": 7198,
+  "name": {
+    "zh_tw": "巨大葉子",
+    "en": "Great_Leaf"
+  },
+  "icon_url": "/images/items/7198.gif",
+  "category": "其他類",
+  "description": {
+    "official": "下雨的時候，可以放在頭上當雨具用的大葉子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 610,
+    "sell_price": 305,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2781,
+      "name": "精英群葉貓 / 菁英群葉貓",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2711,
+      "name": "精英捕蟲堇妖 / 菁英捕蟲堇妖",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2710,
+      "name": "精英 / 雄壯 黑暗捕蟲堇妖",
+      "rate": 50.0
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2843,
+      "name": "精英森林妖姬 / 迅捷森林妖姬",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1586,
+      "name": "群葉貓",
+      "rate": 21.83
+    },
+    {
+      "monster_id": 2150,
+      "name": "西瓜",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 2720,
+      "name": "精英 / 雄壯 苗娃佩瑞絲",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 20626,
+      "name": "特殊泰坦魔芋花 / 花園監視者",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20625,
+      "name": "咪魘乾扁草精 / 花園監視者",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 2015,
+      "name": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20624,
+      "name": "乾扁草精 / 花園監視者",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1995,
+      "name": "捕蟲堇 / 捕蟲堇妖",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 20627,
+      "name": "咪魘特殊泰坦魔芋花 / 花園監視者",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 3420,
+      "name": "森林妖姬",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20276,
+      "name": "古代伍坦戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 20277,
+      "name": "古代伍坦防禦者",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2019,
+      "name": "古樹",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1493,
+      "name": "森林妖姬",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1500,
+      "name": "苗娃佩瑞絲",
+      "rate": 2.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 2317,
+  "name": {
+    "zh_tw": "鋼鐵盔甲",
+    "en": "Plate_Armor_"
+  },
+  "icon_url": "/images/items/2317.gif",
+  "category": "防具",
+  "description": {
+    "official": "用神祕金屬混和鋼鐵做成的鎧甲。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 80000,
+    "sell_price": 40000,
+    "weight": 450
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1046,
+      "name": "死靈",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2098,
+      "name": "死靈_E",
+      "rate": 1.25
+    },
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2421,
+      "name": "暗●十字軍",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2434,
+      "name": "暗●十字軍",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1268,
+      "name": "血腥騎士",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2071,
+      "name": "無頭騾",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 1388,
+      "name": "聖天使波利",
+      "rate": 0.02
+    },
+    {
+      "monster_id": 1652,
+      "name": "暗●劍士",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1366,
+      "name": "熔岩巨石",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

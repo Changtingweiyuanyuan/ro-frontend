@@ -1,0 +1,55 @@
+{
+  "name": {
+    "zh_tw": "海獺寶寶"
+  },
+  "drops": [
+    {
+      "item_id": 525,
+      "name": "萬能藥",
+      "rate": 1.0,
+      "icon_url": "/images/items/525.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 746,
+      "name": "玻璃珠",
+      "rate": 0.6,
+      "icon_url": "/images/items/746.gif"
+    },
+    {
+      "item_id": 912,
+      "name": "剎勒空結晶",
+      "rate": 21.83,
+      "icon_url": "/images/items/912.gif"
+    },
+    {
+      "item_id": 1452,
+      "name": "彎刃長矛[3]",
+      "rate": 0.01,
+      "icon_url": "/images/items/1452.gif"
+    },
+    {
+      "item_id": 2310,
+      "name": "長大衣[1]",
+      "rate": 0.03,
+      "icon_url": "/images/items/2310.gif"
+    },
+    {
+      "item_id": 4312,
+      "name": "海獺寶寶卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 6.0,
+      "icon_url": "/images/items/7053.gif"
+    }
+  ]
+}

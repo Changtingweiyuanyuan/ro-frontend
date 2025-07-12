@@ -1,0 +1,29 @@
+{
+  "id": 4315,
+  "name": {
+    "zh_tw": "單眼蟲卡片",
+    "en": "Pest_Card"
+  },
+  "icon_url": "/images/items/4315.gif",
+  "category": "卡片",
+  "description": {
+    "official": "受到物理傷害時，有一定的幾率讓敵人得到石化。INT77以上時，有更高的幾率，讓敵人得到石化。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddEffWhenHit,Eff_Stone,300+600*(readparam(bInt)>=77); },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1256,
+      "name": "單眼蟲",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

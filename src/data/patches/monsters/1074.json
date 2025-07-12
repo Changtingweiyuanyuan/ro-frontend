@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.09,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 965,
+      "name": "蛤蜊外殼",
+      "rate": 27.5,
+      "icon_url": "/images/items/965.gif"
+    },
+    {
+      "item_id": 966,
+      "name": "蛤蜊肉",
+      "rate": 5.0,
+      "icon_url": "/images/items/966.gif"
+    },
+    {
+      "item_id": 1001,
+      "name": "星星的粉末",
+      "rate": 0.05,
+      "icon_url": "/images/items/1001.gif"
+    },
+    {
+      "item_id": 1056,
+      "name": "黃玉碎片",
+      "rate": 5.0,
+      "icon_url": "/images/items/1056.gif"
+    },
+    {
+      "item_id": 4273,
+      "name": "貝殼魔靈卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7049,
+      "name": "石頭",
+      "rate": 2.5,
+      "icon_url": "/images/items/7049.gif"
+    },
+    {
+      "item_id": 1508,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    }
+  ]
+}

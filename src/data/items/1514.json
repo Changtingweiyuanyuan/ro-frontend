@@ -1,0 +1,35 @@
+{
+  "id": 1514,
+  "name": {
+    "zh_tw": "日星鎚",
+    "en": "Morning_Star_"
+  },
+  "icon_url": "/images/items/1514.gif",
+  "category": "武器",
+  "description": {
+    "official": "看起來非常凶暴，是種大型的鈍器。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 41000,
+    "sell_price": 20500,
+    "weight": 150
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1655,
+      "name": "暗●服事",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 1137,
+      "name": "犬妖",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

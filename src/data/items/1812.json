@@ -1,0 +1,40 @@
+{
+  "id": 1812,
+  "name": {
+    "zh_tw": "鷹爪拳套",
+    "en": "Finger_"
+  },
+  "icon_url": "/images/items/1812.gif",
+  "category": "武器",
+  "description": {
+    "official": "模仿鷹爪製成的拳套。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 58000,
+    "sell_price": 29000,
+    "weight": 50
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2611,
+      "name": "精英 / 憤怒 伍坦戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2246,
+      "name": "伍坦戰士 (任務,未完成)",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1499,
+      "name": "伍坦戰士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

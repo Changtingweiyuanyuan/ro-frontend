@@ -1,0 +1,21 @@
+{
+  "id": 1156,
+  "name": {
+    "zh_tw": "亞爾特劍",
+    "en": "Bastard_Sword__"
+  },
+  "icon_url": "/images/items/1156.gif",
+  "category": "武器",
+  "description": {
+    "official": "不論什麼砍殺或是刺殺時都很好使用的雙手劍。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 22500,
+    "sell_price": 11250,
+    "weight": 160
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": []
+}

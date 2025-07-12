@@ -1,0 +1,50 @@
+{
+  "id": 2326,
+  "name": {
+    "zh_tw": "聖職之衣",
+    "en": "Saint_Robe_"
+  },
+  "icon_url": "/images/items/2326.gif",
+  "category": "防具",
+  "description": {
+    "official": "受過洗禮的衣服。MDEF+5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 54000,
+    "sell_price": 27000,
+    "weight": 60
+  },
+  "script": "{ bonus bMdef,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2420,
+      "name": "暗●牧師",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 2427,
+      "name": "暗●武僧",
+      "rate": 0.2
+    },
+    {
+      "monster_id": 1970,
+      "name": "人魚_E",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2184,
+      "name": "深海人魚",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1044,
+      "name": "人魚",
+      "rate": 0.05
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

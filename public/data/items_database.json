@@ -686,6 +686,108 @@
       "尋找礦石技能 (鐵匠)"
     ]
   },
+  "10038": {
+    "id": 10038,
+    "name": {
+      "zh_tw": "護角",
+      "en": "Horn_Protector"
+    },
+    "icon_url": "/images/items/10038.gif",
+    "category": "可愛寵物裝備",
+    "description": {
+      "official": "非常適合熔岩魔獨角的護具，看起來很安全。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 0
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
+        "rate": 0.05
+      }
+    ],
+    "obtained_from": []
+  },
+  "1005": {
+    "id": 1005,
+    "name": {
+      "zh_tw": "高級鐵砧",
+      "en": "Hammer_Of_Blacksmith"
+    },
+    "icon_url": "/images/items/1005.gif",
+    "category": "其他類",
+    "description": {
+      "official": "偉大的鐵匠大多數所使用的錘子。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 2,
+      "sell_price": 1,
+      "weight": 80
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2747,
+        "name": "精英米洛斯 / 憤怒米洛斯",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 2748,
+        "name": "精英米洛斯 / 狡猾米洛斯",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 2749,
+        "name": "精英米洛斯 / 迅捷米洛斯",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 0.15
+      },
+      {
+        "monster_id": 2353,
+        "name": "米洛斯-咪魘",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 1149,
+        "name": "米洛斯",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 0.03
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
+        "rate": 0.03
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "1007": {
     "id": 1007,
     "name": {
@@ -1113,6 +1215,41 @@
       "神祕紫箱"
     ]
   },
+  "1016": {
+    "id": 1016,
+    "name": {
+      "zh_tw": "鼠尾",
+      "en": "Rat_Tail"
+    },
+    "icon_url": "/images/items/1016.gif",
+    "category": "其他類",
+    "description": {
+      "official": "細長的尾巴。可向收集商購買。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 52,
+      "sell_price": 26,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2638,
+        "name": "精英白鼠 / 菁英白鼠",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 1175,
+        "name": "白鼠",
+        "rate": 45.0
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "1017": {
     "id": 1017,
     "name": {
@@ -1371,6 +1508,51 @@
         "monster_id": 20932,
         "name": "戴德雷",
         "rate": 15.0
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1021": {
+    "id": 1021,
+    "name": {
+      "zh_tw": "土人之角",
+      "en": "Dokkaebi_Horn"
+    },
+    "icon_url": "/images/items/1021.gif",
+    "category": "其他類",
+    "description": {
+      "official": "土人尖細的角，據說土人的角可以為人帶來財富。可向收集商購買。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 292,
+      "sell_price": 146,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 45.0
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
+        "rate": 45.0
+      },
+      {
+        "monster_id": 1301,
+        "name": "狂暴小土人",
+        "rate": 22.75
       }
     ],
     "obtained_from": [
@@ -2933,6 +3115,111 @@
       "神祕紫箱"
     ]
   },
+  "1059": {
+    "id": 1059,
+    "name": {
+      "zh_tw": "透明之布",
+      "en": "Transparent_Cloth"
+    },
+    "icon_url": "/images/items/1059.gif",
+    "category": "其他類",
+    "description": {
+      "official": "透明而且裡面會發光神奇的布塊。可向收集商購買。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 306,
+      "sell_price": 153,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2618,
+        "name": "精英白幽靈 / 雄壯白幽靈",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2733,
+        "name": "精英守墓怨靈 / 狡猾守墓怨靈",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2481,
+        "name": "守墓怨靈 / 被詛咒的守墓人",
+        "rate": 44.0
+      },
+      {
+        "monster_id": 1192,
+        "name": "惡靈",
+        "rate": 29.1
+      },
+      {
+        "monster_id": 1179,
+        "name": "白幽靈",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1186,
+        "name": "巨大白幽靈",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1120,
+        "name": "幽靈波利",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 2772,
+        "name": "精英南瓜魂 / 憤怒南瓜魂",
+        "rate": 25.0
+      },
+      {
+        "monster_id": 1291,
+        "name": "狂暴惡靈",
+        "rate": 22.07
+      },
+      {
+        "monster_id": 20922,
+        "name": "變異納佩奧凱美拉",
+        "rate": 16.0
+      },
+      {
+        "monster_id": 3451,
+        "name": "不死軍團",
+        "rate": 15.0
+      },
+      {
+        "monster_id": 20925,
+        "name": "變異利圖斯凱美拉",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 20939,
+        "name": "伽利略南瓜魂",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1509,
+        "name": "南瓜魂",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2992,
+        "name": "陰森惡靈 / 工廠警衛的亡靈",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1185,
+        "name": "白幽靈",
+        "rate": 0.5
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "1066": {
     "id": 1066,
     "name": {
@@ -3197,6 +3484,59 @@
       "神祕紫箱"
     ]
   },
+  "1111": {
+    "id": 1111,
+    "name": {
+      "zh_tw": "擊刺長劍[3]",
+      "en": "Lapier_"
+    },
+    "icon_url": "/images/items/1111.gif",
+    "category": "武器",
+    "description": {
+      "official": "有著細長刃的劍，專門做刺穿用。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 10000,
+      "sell_price": 5000,
+      "weight": 50
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1205,
+        "name": "行刑者",
+        "rate": 0.4
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1113": {
+    "id": 1113,
+    "name": {
+      "zh_tw": "彎刀[3]",
+      "en": "Scimiter"
+    },
+    "icon_url": "/images/items/1113.gif",
+    "category": "武器",
+    "description": {
+      "official": "刀刃適當的彎曲，適合砍殺任何東西。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 17000,
+      "sell_price": 8500,
+      "weight": 70
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
   "1116": {
     "id": 1116,
     "name": {
@@ -3271,10 +3611,33 @@
       "神祕紫箱"
     ]
   },
+  "1119": {
+    "id": 1119,
+    "name": {
+      "zh_tw": "日本刀[1]",
+      "en": "Tsurugi"
+    },
+    "icon_url": "/images/items/1119.gif",
+    "category": "武器",
+    "description": {
+      "official": "非常恐怖且尖銳的劍，是專門用來傷害敵方時使用。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 51000,
+      "sell_price": 25500,
+      "weight": 120
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
   "1120": {
     "id": 1120,
     "name": {
-      "zh_tw": "日本刀",
+      "zh_tw": "日本刀[2]",
       "en": "Tsurugi_"
     },
     "icon_url": "images/items/1120.gif",
@@ -3304,6 +3667,124 @@
         "monster_id": 1037,
         "name": "黑蛇",
         "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1125": {
+    "id": 1125,
+    "name": {
+      "zh_tw": "圓柄馬刀",
+      "en": "Ring_Pommel_Saber_"
+    },
+    "icon_url": "/images/items/1125.gif",
+    "category": "武器",
+    "description": {
+      "official": "刀柄末端呈現圓形的刀。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 24000,
+      "sell_price": 12000,
+      "weight": 90
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1112,
+        "name": "海盜之王",
+        "rate": 4.75
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1126": {
+    "id": 1126,
+    "name": {
+      "zh_tw": "騎兵之劍[2]",
+      "en": "Saber"
+    },
+    "icon_url": "/images/items/1126.gif",
+    "category": "武器",
+    "description": {
+      "official": "騎兵們專用的單手劍。不過使用於騎兵儀式方面較多。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 49000,
+      "sell_price": 24500,
+      "weight": 100
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
+  "1127": {
+    "id": 1127,
+    "name": {
+      "zh_tw": "騎兵之劍[3]",
+      "en": "Saber_"
+    },
+    "icon_url": "/images/items/1127.gif",
+    "category": "武器",
+    "description": {
+      "official": "騎兵們專用的單手劍。不過使用於騎兵儀式方面較多。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 49000,
+      "sell_price": 24500,
+      "weight": 100
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1112,
+        "name": "海盜之王",
+        "rate": 3.0
+      },
+      {
+        "monster_id": 3648,
+        "name": "吸血蝙蝠",
+        "rate": 1.0
+      },
+      {
+        "monster_id": 3647,
+        "name": "吸血蝙蝠",
+        "rate": 1.0
+      },
+      {
+        "monster_id": 3646,
+        "name": "吸血蝙蝠",
+        "rate": 1.0
+      },
+      {
+        "monster_id": 3645,
+        "name": "吸血蝙蝠",
+        "rate": 0.8
+      },
+      {
+        "monster_id": 3644,
+        "name": "吸血蝙蝠",
+        "rate": 0.4
+      },
+      {
+        "monster_id": 1652,
+        "name": "暗●劍士",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 3643,
+        "name": "吸血蝙蝠",
+        "rate": 0.1
       }
     ],
     "obtained_from": [
@@ -3389,7 +3870,7 @@
   "1152": {
     "id": 1152,
     "name": {
-      "zh_tw": "雙手劍",
+      "zh_tw": "雙手劍[3]",
       "en": "Slayer_"
     },
     "icon_url": "images/items/1152.gif",
@@ -3414,6 +3895,85 @@
     "obtained_from": [
       "神祕箱子",
       "神祕紫箱"
+    ]
+  },
+  "1156": {
+    "id": 1156,
+    "name": {
+      "zh_tw": "亞爾特劍[3]",
+      "en": "Bastard_Sword__"
+    },
+    "icon_url": "/images/items/1156.gif",
+    "category": "武器",
+    "description": {
+      "official": "不論什麼砍殺或是刺殺時都很好使用的雙手劍。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 22500,
+      "sell_price": 11250,
+      "weight": 160
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": []
+  },
+  "1157": {
+    "id": 1157,
+    "name": {
+      "zh_tw": "雙手巨劍[2]",
+      "en": "Two_Hand_Sword"
+    },
+    "icon_url": "/images/items/1157.gif",
+    "category": "武器",
+    "description": {
+      "official": "以重量和揮舞速度來制伏敵人的雙手巨劍。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 60000,
+      "sell_price": 30000,
+      "weight": 220
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2472,
+        "name": "受詛咒騎士 / 血腥騎士",
+        "rate": 1.0
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
+  "1160": {
+    "id": 1160,
+    "name": {
+      "zh_tw": "雙手重劍[2]",
+      "en": "Broad_Sword"
+    },
+    "icon_url": "/images/items/1160.gif",
+    "category": "武器",
+    "description": {
+      "official": "厚實的刀刃，既可攻擊又可防禦，多用途的雙手巨劍。DEF+5",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 65000,
+      "sell_price": 32500,
+      "weight": 200
+    },
+    "script": "{ bonus bDef,5; bonus bUnbreakableWeapon; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2472,
+        "name": "受詛咒騎士 / 血腥騎士",
+        "rate": 1.0
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子"
     ]
   },
   "1202": {
@@ -3534,7 +4094,7 @@
   "1207": {
     "id": 1207,
     "name": {
-      "zh_tw": "笨拙短劍",
+      "zh_tw": "笨拙短劍[3]",
       "en": "Main_Gauche"
     },
     "icon_url": "images/items/1207.gif",
@@ -3588,7 +4148,7 @@
   "1208": {
     "id": 1208,
     "name": {
-      "zh_tw": "笨拙短劍",
+      "zh_tw": "笨拙短劍[4]",
       "en": "Main_Gauche_"
     },
     "icon_url": "images/items/1208.gif",
@@ -3623,7 +4183,7 @@
   "1211": {
     "id": 1211,
     "name": {
-      "zh_tw": "德克短劍",
+      "zh_tw": "德克短劍[3]",
       "en": "Dirk_"
     },
     "icon_url": "images/items/1211.gif",
@@ -3750,7 +4310,7 @@
   "1214": {
     "id": 1214,
     "name": {
-      "zh_tw": "大駒短劍",
+      "zh_tw": "大駒短劍[3]",
       "en": "Dagger_"
     },
     "icon_url": "images/items/1214.gif",
@@ -3800,7 +4360,7 @@
   "1216": {
     "id": 1216,
     "name": {
-      "zh_tw": "雙刃短劍",
+      "zh_tw": "雙刃短劍[3]",
       "en": "Stiletto"
     },
     "icon_url": "images/items/1216.gif",
@@ -3879,7 +4439,7 @@
   "1220": {
     "id": 1220,
     "name": {
-      "zh_tw": "長柄短劍",
+      "zh_tw": "長柄短劍[3]",
       "en": "Gladius_"
     },
     "icon_url": "images/items/1220.gif",
@@ -3914,7 +4474,7 @@
   "1226": {
     "id": 1226,
     "name": {
-      "zh_tw": "大馬士革短劍",
+      "zh_tw": "大馬士革短劍[2]",
       "en": "Damascus_"
     },
     "icon_url": "images/items/1226.gif",
@@ -4230,7 +4790,7 @@
   "1304": {
     "id": 1304,
     "name": {
-      "zh_tw": "獸人斧",
+      "zh_tw": "獸人斧[4]",
       "en": "Orcish_Axe"
     },
     "icon_url": "images/items/1304.gif",
@@ -4290,7 +4850,7 @@
   "1352": {
     "id": 1352,
     "name": {
-      "zh_tw": "巨斧",
+      "zh_tw": "巨斧[4]",
       "en": "Battle_Axe_"
     },
     "icon_url": "images/items/1352.gif",
@@ -4327,10 +4887,33 @@
       "神祕紫箱"
     ]
   },
+  "1354": {
+    "id": 1354,
+    "name": {
+      "zh_tw": "鋼斧[3]",
+      "en": "Hammer"
+    },
+    "icon_url": "/images/items/1354.gif",
+    "category": "武器",
+    "description": {
+      "official": "威力非常強的錘子。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 15500,
+      "sell_price": 7750,
+      "weight": 200
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
   "1358": {
     "id": 1358,
     "name": {
-      "zh_tw": "毀滅之斧",
+      "zh_tw": "毀滅之斧[2]",
       "en": "Buster_"
     },
     "icon_url": "/images/items/1358.gif",
@@ -4400,6 +4983,29 @@
     "obtained_from": [
       "神祕箱子",
       "神祕紫箱"
+    ]
+  },
+  "1404": {
+    "id": 1404,
+    "name": {
+      "zh_tw": "長矛",
+      "en": "Spear"
+    },
+    "icon_url": "/images/items/1404.gif",
+    "category": "武器",
+    "description": {
+      "official": "被廣泛使用的單手長矛。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1700,
+      "sell_price": 850,
+      "weight": 85
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
     ]
   },
   "1405": {
@@ -4510,7 +5116,7 @@
   "1451": {
     "id": 1451,
     "name": {
-      "zh_tw": "彎刃長矛",
+      "zh_tw": "彎刃長矛[2]",
       "en": "Guisarme"
     },
     "icon_url": "images/items/1451.gif",
@@ -4554,7 +5160,7 @@
   "1452": {
     "id": 1452,
     "name": {
-      "zh_tw": "彎刃長矛",
+      "zh_tw": "彎刃長矛[3]",
       "en": "Guisarme_"
     },
     "icon_url": "images/items/1452.gif",
@@ -4646,10 +5252,100 @@
       "神祕紫箱"
     ]
   },
+  "1456": {
+    "id": 1456,
+    "name": {
+      "zh_tw": "長槍",
+      "en": "Glaive__"
+    },
+    "icon_url": "/images/items/1456.gif",
+    "category": "武器",
+    "description": {
+      "official": "是劍還是長矛已經不清楚了，有著大刀刃的長矛。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20000,
+      "sell_price": 10000,
+      "weight": 120
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": []
+  },
+  "1458": {
+    "id": 1458,
+    "name": {
+      "zh_tw": "雙刃長戟[2]",
+      "en": "Partizan_"
+    },
+    "icon_url": "/images/items/1458.gif",
+    "category": "武器",
+    "description": {
+      "official": "寬刃上有兩個尖銳突起物之長戟。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 27000,
+      "sell_price": 13500,
+      "weight": 200
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2854,
+        "name": "精英 / 雄壯小惡魔",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1109,
+        "name": "小惡魔",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1460": {
+    "id": 1460,
+    "name": {
+      "zh_tw": "德瑞尹長戟[2]",
+      "en": "Trident"
+    },
+    "icon_url": "/images/items/1460.gif",
+    "category": "武器",
+    "description": {
+      "official": "專門用來狩獵的長戟，特徵是有三個刀刃。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 51000,
+      "sell_price": 25500,
+      "weight": 120
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2757,
+        "name": "精英人魚士兵 / 憤怒人魚士兵",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 1264,
+        "name": "人魚士兵",
+        "rate": 0.02
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
   "1461": {
     "id": 1461,
     "name": {
-      "zh_tw": "三叉戟[3]",
+      "zh_tw": "德瑞尹長戟[3]",
       "en": "Trident_"
     },
     "icon_url": "images/items/1461.gif",
@@ -4686,10 +5382,37 @@
       "神祕紫箱"
     ]
   },
+  "1485": {
+    "id": 1485,
+    "name": {
+      "zh_tw": "三叉戟[3]",
+      "en": "Battle_Fork"
+    },
+    "icon_url": "/images/items/1485.gif",
+    "category": "武器",
+    "description": {
+      "official": "通常稱之謂三叉戟的雙手槍，即輕便又實用",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 70
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1993,
+        "name": "納迦 / 那迦",
+        "rate": 0.05
+      }
+    ],
+    "obtained_from": []
+  },
   "1501": {
     "id": 1501,
     "name": {
-      "zh_tw": "木錘",
+      "zh_tw": "木錘[3]",
       "en": "Club"
     },
     "icon_url": "images/items/1501.gif",
@@ -4805,7 +5528,7 @@
   "1502": {
     "id": 1502,
     "name": {
-      "zh_tw": "木錘",
+      "zh_tw": "木錘[4]",
       "en": "Club_"
     },
     "icon_url": "images/items/1502.gif",
@@ -4860,7 +5583,7 @@
   "1505": {
     "id": 1505,
     "name": {
-      "zh_tw": "鐵鎚",
+      "zh_tw": "鐵鎚[4]",
       "en": "Mace_"
     },
     "icon_url": "images/items/1505.gif",
@@ -4905,7 +5628,7 @@
   "1508": {
     "id": 1508,
     "name": {
-      "zh_tw": "思麥斯鐵鎚",
+      "zh_tw": "思麥斯鐵鎚[3]",
       "en": "Smasher_"
     },
     "icon_url": "images/items/1508.gif",
@@ -4935,7 +5658,7 @@
   "1511": {
     "id": 1511,
     "name": {
-      "zh_tw": "流星鎚",
+      "zh_tw": "流星錘[3]",
       "en": "Flail_"
     },
     "icon_url": "images/items/1511.gif",
@@ -5004,10 +5727,115 @@
     ],
     "obtained_from": []
   },
+  "1514": {
+    "id": 1514,
+    "name": {
+      "zh_tw": "日星鎚[3]",
+      "en": "Morning_Star_"
+    },
+    "icon_url": "/images/items/1514.gif",
+    "category": "武器",
+    "description": {
+      "official": "看起來非常凶暴，是種大型的鈍器。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 41000,
+      "sell_price": 20500,
+      "weight": 150
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1655,
+        "name": "暗●服事",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 1137,
+        "name": "犬妖",
+        "rate": 0.03
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1517": {
+    "id": 1517,
+    "name": {
+      "zh_tw": "尖刃鐵鎚",
+      "en": "Sword_Mace_"
+    },
+    "icon_url": "/images/items/1517.gif",
+    "category": "武器",
+    "description": {
+      "official": "上頭懸掛著鐵鍊，感覺更威武的鈍器。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 50000,
+      "sell_price": 25000,
+      "weight": 120
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 3640,
+        "name": "邪骸戰士",
+        "rate": 3.2
+      },
+      {
+        "monster_id": 3641,
+        "name": "邪骸戰士",
+        "rate": 3.2
+      },
+      {
+        "monster_id": 3642,
+        "name": "邪骸戰士",
+        "rate": 3.2
+      },
+      {
+        "monster_id": 3639,
+        "name": "邪骸戰士",
+        "rate": 0.8
+      },
+      {
+        "monster_id": 3638,
+        "name": "邪骸戰士",
+        "rate": 0.32
+      },
+      {
+        "monster_id": 3637,
+        "name": "邪骸戰士",
+        "rate": 0.08
+      },
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "1520": {
     "id": 1520,
     "name": {
-      "zh_tw": "鍊錘",
+      "zh_tw": "鏈錘[3]",
       "en": "Chain_"
     },
     "icon_url": "images/items/1520.gif",
@@ -5108,7 +5936,7 @@
   "1604": {
     "id": 1604,
     "name": {
-      "zh_tw": "橡木魔杖",
+      "zh_tw": "橡木魔杖[2]",
       "en": "Wand"
     },
     "icon_url": "images/items/1604.gif",
@@ -5224,7 +6052,7 @@
   "1605": {
     "id": 1605,
     "name": {
-      "zh_tw": "橡木魔杖",
+      "zh_tw": "橡木魔杖[3]",
       "en": "Wand_"
     },
     "icon_url": "images/items/1605.gif",
@@ -5244,6 +6072,51 @@
         "monster_id": 1126,
         "name": "刺錘哥布靈",
         "rate": 0.08
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1613": {
+    "id": 1613,
+    "name": {
+      "zh_tw": "巫杖 魂咬",
+      "en": "Mighty_Staff"
+    },
+    "icon_url": "/images/items/1613.gif",
+    "category": "武器",
+    "description": {
+      "official": "使用時可以將使用者的精神力轉換為破壞力的手杖。每次攻擊時SP-5，STR+10，MATK+100",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 70
+    },
+    "script": "{ bonus bStr,10; bonus bSPDrainValue,-2; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1296,
+        "name": "犬妖首領",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
+        "rate": 0.01
       }
     ],
     "obtained_from": [
@@ -5430,10 +6303,33 @@
       "神祕紫箱"
     ]
   },
+  "1704": {
+    "id": 1704,
+    "name": {
+      "zh_tw": "坎普茲弓[4]",
+      "en": "Composite_Bow"
+    },
+    "icon_url": "/images/items/1704.gif",
+    "category": "武器",
+    "description": {
+      "official": "用各種材料混合而成的弓，擁有較高的傷害為重點。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 2500,
+      "sell_price": 1250,
+      "weight": 60
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
   "1708": {
     "id": 1708,
     "name": {
-      "zh_tw": "克羅伊特弓",
+      "zh_tw": "克羅伊特弓[3]",
       "en": "Great_Bow_"
     },
     "icon_url": "images/items/1708.gif",
@@ -5453,6 +6349,155 @@
         "monster_id": 1016,
         "name": "邪骸弓箭手",
         "rate": 0.18
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1711": {
+    "id": 1711,
+    "name": {
+      "zh_tw": "十字弓[3]",
+      "en": "CrossBow_"
+    },
+    "icon_url": "/images/items/1711.gif",
+    "category": "武器",
+    "description": {
+      "official": "優點為擁有快速連射和較高的破壞力為優點，為十字造型的弓。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 17000,
+      "sell_price": 8500,
+      "weight": 90
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2784,
+        "name": "精英 / 迅捷 犬妖弓箭手",
+        "rate": 0.15
+      },
+      {
+        "monster_id": 1282,
+        "name": "犬妖弓箭手",
+        "rate": 0.03
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1712": {
+    "id": 1712,
+    "name": {
+      "zh_tw": "十字弓",
+      "en": "CrossBow__"
+    },
+    "icon_url": "/images/items/1712.gif",
+    "category": "武器",
+    "description": {
+      "official": "十字造型的弓。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 17000,
+      "sell_price": 8500,
+      "weight": 90
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": []
+  },
+  "1713": {
+    "id": 1713,
+    "name": {
+      "zh_tw": "埃布爾雷弓",
+      "en": "Arbalest"
+    },
+    "icon_url": "/images/items/1713.gif",
+    "category": "武器",
+    "description": {
+      "official": "提昇HIT和傷害的弓。DEX+2",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 48000,
+      "sell_price": 24000,
+      "weight": 100
+    },
+    "script": "{ bonus bDex,2; },{},{}",
+    "dropped_by": [],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
+  "1715": {
+    "id": 1715,
+    "name": {
+      "zh_tw": "埃布爾雷弓",
+      "en": "Arbalest_"
+    },
+    "icon_url": "/images/items/1715.gif",
+    "category": "武器",
+    "description": {
+      "official": "提昇HIT和傷害的弓。DEX+2",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 48000,
+      "sell_price": 24000,
+      "weight": 100
+    },
+    "script": "{ bonus bDex,2; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1276,
+        "name": "幽靈弓箭手",
+        "rate": 0.02
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1716": {
+    "id": 1716,
+    "name": {
+      "zh_tw": "角弓[2]",
+      "en": "Kakkung_"
+    },
+    "icon_url": "/images/items/1716.gif",
+    "category": "武器",
+    "description": {
+      "official": "用動物的角作成的弓，優點為有較高的傷害和精準度。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 42000,
+      "sell_price": 21000,
+      "weight": 110
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1688,
+        "name": "嗒妮小姐",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 2923,
+        "name": "鶚梟假面",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1656,
+        "name": "暗●弓箭手",
+        "rate": 0.01
       }
     ],
     "obtained_from": [
@@ -5533,6 +6578,85 @@
         "monster_id": 2154,
         "name": "巴拿斯帕堤",
         "rate": 2.5
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "1801": {
+    "id": 1801,
+    "name": {
+      "zh_tw": "虎爪拳套",
+      "en": "Waghnakh"
+    },
+    "icon_url": "/images/items/1801.gif",
+    "category": "武器",
+    "description": {
+      "official": "模仿虎爪製成的拳套。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 8000,
+      "sell_price": 4000,
+      "weight": 40
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2611,
+        "name": "精英 / 憤怒 伍坦戰士",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 2246,
+        "name": "伍坦戰士 (任務,未完成)",
+        "rate": 0.08
+      },
+      {
+        "monster_id": 1499,
+        "name": "伍坦戰士",
+        "rate": 0.02
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子"
+    ]
+  },
+  "1812": {
+    "id": 1812,
+    "name": {
+      "zh_tw": "鷹爪拳套",
+      "en": "Finger_"
+    },
+    "icon_url": "/images/items/1812.gif",
+    "category": "武器",
+    "description": {
+      "official": "模仿鷹爪製成的拳套。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 58000,
+      "sell_price": 29000,
+      "weight": 50
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2611,
+        "name": "精英 / 憤怒 伍坦戰士",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2246,
+        "name": "伍坦戰士 (任務,未完成)",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1499,
+        "name": "伍坦戰士",
+        "rate": 0.01
       }
     ],
     "obtained_from": [
@@ -5689,6 +6813,27 @@
       "神祕箱子",
       "神祕紫箱"
     ]
+  },
+  "19849": {
+    "id": 19849,
+    "name": {
+      "zh_tw": "(服飾)殭屍帽(歸屬)",
+      "en": "时装"
+    },
+    "icon_url": "/images/items/19849.gif",
+    "category": "防具",
+    "description": {
+      "official": "魔物殭屍戴的帽子，帽子上跕著不明的符咒以及長辮子。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [],
+    "obtained_from": []
   },
   "20788": {
     "id": 20788,
@@ -6038,6 +7183,66 @@
     ],
     "obtained_from": []
   },
+  "2206": {
+    "id": 2206,
+    "name": {
+      "zh_tw": "婚禮頭紗",
+      "en": "上"
+    },
+    "icon_url": "/images/items/2206.gif",
+    "category": "防具",
+    "description": {
+      "official": "婚禮時，女生戴在頭上的紗，男生戴在頭上的話，會有可能被人家誤會。MDEF+5",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 23000,
+      "sell_price": 11500,
+      "weight": 10
+    },
+    "script": "{ bonus bMdef,5; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2465,
+        "name": "怨恨女僕 / 惡靈",
+        "rate": 1.0
+      },
+      {
+        "monster_id": 2733,
+        "name": "精英守墓怨靈 / 狡猾守墓怨靈",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 2481,
+        "name": "守墓怨靈 / 被詛咒的守墓人",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 2725,
+        "name": "精英 / 雄壯 獸人女戰士",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1192,
+        "name": "惡靈",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1291,
+        "name": "狂暴惡靈",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1273,
+        "name": "獸人女戰士",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "2207": {
     "id": 2207,
     "name": {
@@ -6153,13 +7358,13 @@
   "2209": {
     "id": 2209,
     "name": {
-      "zh_tw": "紫蝶發帶",
+      "zh_tw": "紫蝶髮帶",
       "en": "上"
     },
     "icon_url": "images/items/2209.gif",
     "category": "防具",
     "description": {
-      "official": "用布條做成的蝴蝶發帶，主要是給女性使用。MDEF+3",
+      "official": "用布條做成的蝴蝶髮帶，主要是給女性使用。MDEF+3",
       "tw_official": ""
     },
     "attributes": {
@@ -6188,13 +7393,13 @@
   "2213": {
     "id": 2213,
     "name": {
-      "zh_tw": "貓耳發圈",
+      "zh_tw": "貓耳髮圈",
       "en": "上"
     },
     "icon_url": "images/items/2213.gif",
     "category": "防具",
     "description": {
-      "official": "貓耳模樣的發圈。",
+      "official": "貓耳模樣的髮圈。",
       "tw_official": ""
     },
     "attributes": {
@@ -6398,7 +7603,7 @@
   "2244": {
     "id": 2244,
     "name": {
-      "zh_tw": "紅蝶發帶",
+      "zh_tw": "紅蝶髮帶",
       "en": "上"
     },
     "icon_url": "images/items/2244.gif",
@@ -6573,13 +7778,13 @@
   "2250": {
     "id": 2250,
     "name": {
-      "zh_tw": "粉紗發圈",
+      "zh_tw": "粉紗髮圈",
       "en": "上"
     },
     "icon_url": "images/items/2250.gif",
     "category": "防具",
     "description": {
-      "official": "用來固定頭髮的發圈，上面有一個小蝴蝶結為重點。最大SP+20",
+      "official": "用來固定頭髮的髮圈，上面有一個小蝴蝶結為重點。最大SP+20",
       "tw_official": ""
     },
     "attributes": {
@@ -6708,13 +7913,13 @@
   "2259": {
     "id": 2259,
     "name": {
-      "zh_tw": "竹蜻蜓發圈",
+      "zh_tw": "竹蜻蜓髮圈",
       "en": "上"
     },
     "icon_url": "images/items/2259.gif",
     "category": "防具",
     "description": {
-      "official": "攜帶的時候，會讓人感覺可以遨遊於天上的發圈。",
+      "official": "攜帶的時候，會讓人感覺可以遨遊於天上的髮圈。",
       "tw_official": ""
     },
     "attributes": {
@@ -8101,6 +9306,86 @@
       "神祕紫箱"
     ]
   },
+  "2317": {
+    "id": 2317,
+    "name": {
+      "zh_tw": "鋼鐵盔甲",
+      "en": "Plate_Armor_"
+    },
+    "icon_url": "/images/items/2317.gif",
+    "category": "防具",
+    "description": {
+      "official": "用神祕金屬混和鋼鐵做成的鎧甲。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 80000,
+      "sell_price": 40000,
+      "weight": 450
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1046,
+        "name": "死靈",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 2098,
+        "name": "死靈_E",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 2757,
+        "name": "精英人魚士兵 / 憤怒人魚士兵",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2421,
+        "name": "暗●十字軍",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2434,
+        "name": "暗●十字軍",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1268,
+        "name": "血腥騎士",
+        "rate": 0.03
+      },
+      {
+        "monster_id": 2071,
+        "name": "無頭騾",
+        "rate": 0.03
+      },
+      {
+        "monster_id": 1388,
+        "name": "聖天使波利",
+        "rate": 0.02
+      },
+      {
+        "monster_id": 1652,
+        "name": "暗●劍士",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1366,
+        "name": "熔岩巨石",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1264,
+        "name": "人魚士兵",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "2322": {
     "id": 2322,
     "name": {
@@ -8149,6 +9434,181 @@
         "monster_id": 1231,
         "name": "克瑞米",
         "rate": 0.05
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "2326": {
+    "id": 2326,
+    "name": {
+      "zh_tw": "聖職之衣",
+      "en": "Saint_Robe_"
+    },
+    "icon_url": "/images/items/2326.gif",
+    "category": "防具",
+    "description": {
+      "official": "受過洗禮的衣服。MDEF+5",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 54000,
+      "sell_price": 27000,
+      "weight": 60
+    },
+    "script": "{ bonus bMdef,5; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2420,
+        "name": "暗●牧師",
+        "rate": 0.2
+      },
+      {
+        "monster_id": 2427,
+        "name": "暗●武僧",
+        "rate": 0.2
+      },
+      {
+        "monster_id": 1970,
+        "name": "人魚_E",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 2184,
+        "name": "深海人魚",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1044,
+        "name": "人魚",
+        "rate": 0.05
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "2333": {
+    "id": 2333,
+    "name": {
+      "zh_tw": "祕銀之衣",
+      "en": "Silver_Robe_"
+    },
+    "icon_url": "/images/items/2333.gif",
+    "category": "防具",
+    "description": {
+      "official": "以價值不斐的銀絲所編制成的衣服。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 7000,
+      "sell_price": 3500,
+      "weight": 70
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2692,
+        "name": "精英 / 菁英 暗●魔法師",
+        "rate": 0.75
+      },
+      {
+        "monster_id": 2618,
+        "name": "精英白幽靈 / 雄壯白幽靈",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 1657,
+        "name": "暗●魔法師",
+        "rate": 0.15
+      },
+      {
+        "monster_id": 1179,
+        "name": "白幽靈",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1293,
+        "name": "狂暴克瑞米",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1186,
+        "name": "巨大白幽靈",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1185,
+        "name": "白幽靈",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "2336": {
+    "id": 2336,
+    "name": {
+      "zh_tw": "盜賊之衣",
+      "en": "Thief_Clothes_"
+    },
+    "icon_url": "/images/items/2336.gif",
+    "category": "防具",
+    "description": {
+      "official": "相當輕便的衣服。AGI+1",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 74000,
+      "sell_price": 37000,
+      "weight": 10
+    },
+    "script": "{ bonus bAgi,1; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1120,
+        "name": "幽靈波利",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 2782,
+        "name": "精英暗●流氓 / 憤怒暗●流氓",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 2664,
+        "name": "精英 / 憤怒 火忍西怒畢",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2435,
+        "name": "暗●流氓",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2422,
+        "name": "暗●流氓",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2616,
+        "name": "精英 / 憤怒 狂暴野貓",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1401,
+        "name": "火忍西怒畢",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1261,
+        "name": "狂暴野貓",
+        "rate": 0.01
       }
     ],
     "obtained_from": [
@@ -8210,6 +9670,38 @@
       "神祕箱子",
       "神祕紫箱"
     ]
+  },
+  "2338": {
+    "id": 2338,
+    "name": {
+      "zh_tw": "結婚禮服",
+      "en": "Wedding_Dress"
+    },
+    "icon_url": "/images/items/2338.gif",
+    "category": "防具",
+    "description": {
+      "official": "可以說是所有的女性，都咪想著有一天穿到這禮服是言之不為過的。MDEF+15",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 43000,
+      "sell_price": 21500,
+      "weight": 50
+    },
+    "script": "{ bonus bMdef,15; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2725,
+        "name": "精英 / 雄壯 獸人女戰士",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1273,
+        "name": "獸人女戰士",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": []
   },
   "2355": {
     "id": 2355,
@@ -8623,6 +10115,42 @@
       }
     ],
     "obtained_from": []
+  },
+  "2602": {
+    "id": 2602,
+    "name": {
+      "zh_tw": "智力耳環",
+      "en": "Earring"
+    },
+    "icon_url": "/images/items/2602.gif",
+    "category": "防具",
+    "description": {
+      "official": "掛在耳朵時，會感覺到神祕的力量，是種讓精神抖擻的神奇耳環。INT+2",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 30000,
+      "sell_price": 15000,
+      "weight": 10
+    },
+    "script": "{ bonus bInt,2; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2725,
+        "name": "精英 / 雄壯 獸人女戰士",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1273,
+        "name": "獸人女戰士",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱",
+      "寶石盒"
+    ]
   },
   "2607": {
     "id": 2607,
@@ -10039,6 +11567,40 @@
       "老舊收集冊"
     ]
   },
+  "4028": {
+    "id": 4028,
+    "name": {
+      "zh_tw": "白鼠卡片",
+      "en": "Tarou_Card"
+    },
+    "icon_url": "/images/items/4028.gif",
+    "category": "卡片",
+    "description": {
+      "official": "STR+2套裝資料:白鼠卡片 & 藍鼠卡片 套裝",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bStr,2; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2638,
+        "name": "精英白鼠 / 菁英白鼠",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1175,
+        "name": "白鼠",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4029": {
     "id": 4029,
     "name": {
@@ -10982,6 +12544,35 @@
       {
         "monster_id": 1033,
         "name": "長老樹精",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
+  "4053": {
+    "id": 4053,
+    "name": {
+      "zh_tw": "黑蟻卡片",
+      "en": "Vitata_Card"
+    },
+    "icon_url": "/images/items/4053.gif",
+    "category": "卡片",
+    "description": {
+      "official": "可使用【治愈術】Lv1技能。使用技能時SP消耗增加25%。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ skill \"AL_HEAL\",1; bonus bUseSPrate,25; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1176,
+        "name": "黑蟻",
         "rate": 0.01
       }
     ],
@@ -12074,6 +13665,40 @@
       "老舊收集冊"
     ]
   },
+  "4093": {
+    "id": 4093,
+    "name": {
+      "zh_tw": "人魚卡片",
+      "en": "Obeaune_Card"
+    },
+    "icon_url": "/images/items/4093.gif",
+    "category": "卡片",
+    "description": {
+      "official": "可使用【治療術】Lv1技能。套裝資料:人魚卡片 & 亞拉卡片",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ skill \"AL_CURE\",1; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1970,
+        "name": "人魚_E",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1044,
+        "name": "人魚",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4094": {
     "id": 4094,
     "name": {
@@ -12125,6 +13750,45 @@
       {
         "monster_id": 1144,
         "name": "烏賊",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
+  "4098": {
+    "id": 4098,
+    "name": {
+      "zh_tw": "土人卡片",
+      "en": "Dokebi_Card"
+    },
+    "icon_url": "/images/items/4098.gif",
+    "category": "卡片",
+    "description": {
+      "official": "可將鎧甲的屬性轉變為風屬性。DEF+1",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bDefEle,Ele_Wind; bonus bDef,1; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
         "rate": 0.01
       }
     ],
@@ -12511,6 +14175,40 @@
       "老舊收集冊"
     ]
   },
+  "4152": {
+    "id": 4152,
+    "name": {
+      "zh_tw": "啤酒企鵝卡片",
+      "en": "Galapago_Card"
+    },
+    "icon_url": "/images/items/4152.gif",
+    "category": "卡片",
+    "description": {
+      "official": "擊殺昆蟲系魔物時隨機的掉落，蘋果、香蕉、紅蘿蔔汁，每當飲用果汁的時HP恢復量，增加50%。套裝資料:啤酒企鵝卡片 & Flying Galapago",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus2 bAddItemGroupHealRate,IG_Juice,50; bonus3 bAddMonsterDropItem,531,RC_Insect,300; bonus3 bAddMonsterDropItem,532,RC_Insect,300; bonus3 bAddMonsterDropItem,534,RC_Insect,300; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 3414,
+        "name": "啤酒企鵝",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1391,
+        "name": "啤酒企鵝",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4153": {
     "id": 4153,
     "name": {
@@ -12598,6 +14296,45 @@
       "具有魔力的 卡片冊"
     ]
   },
+  "4186": {
+    "id": 4186,
+    "name": {
+      "zh_tw": "奈吉鳥卡片",
+      "en": "Raggler_Card"
+    },
+    "icon_url": "/images/items/4186.gif",
+    "category": "卡片",
+    "description": {
+      "official": "STR+1，VIT+1套裝資料:煉金術士套裝 : 摩卡卡片, 摩爾卡片, 拉鏈熊卡片, 小花豹卡片, 奈吉鳥卡片商人套裝 : 兔斯拉卡片, 奈吉鳥卡片, 小花豹卡片, 拉鏈熊卡片 & 邪惡禮盒卡片",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bStr,1; bonus bVit,1; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2694,
+        "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3410,
+        "name": "奈吉鳥",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1254,
+        "name": "奈吉鳥",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4196": {
     "id": 4196,
     "name": {
@@ -12676,6 +14413,40 @@
       "具有魔力的 卡片冊"
     ]
   },
+  "4199": {
+    "id": 4199,
+    "name": {
+      "zh_tw": "人魚士兵卡片",
+      "en": "Merman_Card"
+    },
+    "icon_url": "/images/items/4199.gif",
+    "category": "卡片",
+    "description": {
+      "official": "HP恢復力上升10%，SP恢復力上升10%玩具士兵、虎蜥人、鱷魚人、刺尾蜻蜓卡片一起裝備時，遠程傷害+20%。AGI+5，DEX+3誘導攻擊+20% (每次HIT的攻擊)當套裝裝備者是弓箭手系列角色時，擊殺動物系魔物得到的經驗值+5%，物理攻擊時有一定的幾率，讓動物系魔物變成直接死亡的狀態。套裝資料:弓箭手套裝 : 虎蜥人卡片, 鱷魚人卡片, 玩具士兵卡片, 人魚士兵卡片 & 刺尾蜻蜓卡片",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bHPrecovRate,10; bonus bSPrecovRate,10; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2757,
+        "name": "精英人魚士兵 / 憤怒人魚士兵",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1264,
+        "name": "人魚士兵",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4211": {
     "id": 4211,
     "name": {
@@ -12703,6 +14474,113 @@
     ],
     "obtained_from": [
       "具有魔力的 卡片冊"
+    ]
+  },
+  "4255": {
+    "id": 4255,
+    "name": {
+      "zh_tw": "獸人女戰士卡片",
+      "en": "Orc_Lady_Card"
+    },
+    "icon_url": "/images/items/4255.gif",
+    "category": "卡片",
+    "description": {
+      "official": "對所有獸人的傷害+30%(獸人酋長、獸人英雄除外)",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus2 bAddRace2,RC2_Orc,30; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2725,
+        "name": "精英 / 雄壯 獸人女戰士",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1273,
+        "name": "獸人女戰士",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
+  "4257": {
+    "id": 4257,
+    "name": {
+      "zh_tw": "狂暴野貓卡片",
+      "en": "Wild_Rose_Card"
+    },
+    "icon_url": "/images/items/4257.gif",
+    "category": "卡片",
+    "description": {
+      "official": "AGI+1當盜賊系列角色裝備時，完全迴避+5套裝資料:流氓套裝 : 暗●盜賊卡片, 火忍西怒畢卡片, 狂暴野貓卡片, 瓢蟲卡片, 邪骸浪人卡片盜賊套裝 : 紙妖, 邪骸浪人, 狂暴野貓, 火忍西怒畢 & 舞獅 卡片",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bAgi,1; if (BaseClass == Job_Thief) bonus bFlee2,5; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2616,
+        "name": "精英 / 憤怒 狂暴野貓",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1261,
+        "name": "狂暴野貓",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
+  "4261": {
+    "id": 4261,
+    "name": {
+      "zh_tw": "伍坦戰士卡片",
+      "en": "Wootan_Fighter_Card"
+    },
+    "icon_url": "/images/items/4261.gif",
+    "category": "卡片",
+    "description": {
+      "official": "受到攻擊時，被出血的幾率降低20%DEF+1",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bDef,1; bonus2 bResEff,Eff_Bleeding,2000; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2611,
+        "name": "精英 / 憤怒 伍坦戰士",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 2246,
+        "name": "伍坦戰士 (任務,未完成)",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1499,
+        "name": "伍坦戰士",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
     ]
   },
   "4266": {
@@ -12865,6 +14743,113 @@
       "老舊收集冊"
     ]
   },
+  "4312": {
+    "id": 4312,
+    "name": {
+      "zh_tw": "海豹寶寶卡片",
+      "en": "Fur_Seal_Card"
+    },
+    "icon_url": "/images/items/4312.gif",
+    "category": "卡片",
+    "description": {
+      "official": "HIT+10，FLEE+3每當服事系列角色裝備時，對惡魔系和不死系魔物，CRI+9套裝資料:服事套裝 : 邪惡向日葵卡片, 飛行魔書卡片, 猴桃木卡片, 甜餅人卡片 & 海豹寶寶卡片武道家套裝 : 海豹寶寶卡片, 甜餅人卡片, 飛行魔書卡片, 高鐵爐卡片",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus bFlee,3; bonus bHit,10; if (BaseClass == Job_Acolyte) { bonus2 bCriticalAddRace,RC_Undead,9; bonus2 bCriticalAddRace,RC_Demon,9; } },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2829,
+        "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3415,
+        "name": "海豹寶寶",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1317,
+        "name": "海豹寶寶",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
+  "4315": {
+    "id": 4315,
+    "name": {
+      "zh_tw": "單眼蟲卡片",
+      "en": "Pest_Card"
+    },
+    "icon_url": "/images/items/4315.gif",
+    "category": "卡片",
+    "description": {
+      "official": "受到物理傷害時，有一定的幾率讓敵人得到石化。INT77以上時，有更高的幾率，讓敵人得到石化。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus2 bAddEffWhenHit,Eff_Stone,300+600*(readparam(bInt)>=77); },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1256,
+        "name": "單眼蟲",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
+  "4326": {
+    "id": 4326,
+    "name": {
+      "zh_tw": "海獺卡片",
+      "en": "See_Otter_Card"
+    },
+    "icon_url": "/images/items/4326.gif",
+    "category": "卡片",
+    "description": {
+      "official": "每當擊殺魚貝系魔物時，有一定的幾率會掉落明蝦壽司或是生魚片。吃下明蝦壽司或是生魚片時，HP恢復量增加50%。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 1
+    },
+    "script": "{ bonus2 bAddItemGroupHealRate,IG_Fish,50; bonus3 bAddMonsterDropItem,551,RC_Fish,300; bonus3 bAddMonsterDropItem,544,RC_Fish,300; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2668,
+        "name": "精英海獺 / 菁英海獺",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 3413,
+        "name": "海獺",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1323,
+        "name": "海獺",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "老舊收集冊"
+    ]
+  },
   "4377": {
     "id": 4377,
     "name": {
@@ -12957,13 +14942,13 @@
   "5010": {
     "id": 5010,
     "name": {
-      "zh_tw": "印地安發箍",
+      "zh_tw": "印地安髮箍",
       "en": "上"
     },
     "icon_url": "images/items/5010.gif",
     "category": "防具",
     "description": {
-      "official": "印地安人所戴的發箍。",
+      "official": "印地安人所戴的髮箍。",
       "tw_official": ""
     },
     "attributes": {
@@ -13006,6 +14991,41 @@
       {
         "monster_id": 1108,
         "name": "狄奧斯",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "5014": {
+    "id": 5014,
+    "name": {
+      "zh_tw": "劍士頭盔",
+      "en": "中"
+    },
+    "icon_url": "/images/items/5014.gif",
+    "category": "防具",
+    "description": {
+      "official": "上頭有魚的背鰭模樣的頭具，象徵著守護劍士。使用時並不代表在水裡面可以呼吸，請小心。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 30
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1970,
+        "name": "人魚_E",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1044,
+        "name": "人魚",
         "rate": 0.01
       }
     ],
@@ -13112,6 +15132,41 @@
         "monster_id": 1242,
         "name": "冰波利",
         "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "5037": {
+    "id": 5037,
+    "name": {
+      "zh_tw": "水果皮帽",
+      "en": "上"
+    },
+    "icon_url": "/images/items/5037.gif",
+    "category": "防具",
+    "description": {
+      "official": "把堅固的果實切一半所做成的帽子，雖然提供堅固的防禦力，但若用鐵鎚敲打還是會破掉，所以不能精煉。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 15
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2616,
+        "name": "精英 / 憤怒 狂暴野貓",
+        "rate": 3.0
+      },
+      {
+        "monster_id": 1261,
+        "name": "狂暴野貓",
+        "rate": 0.6
       }
     ],
     "obtained_from": [
@@ -14658,6 +16713,91 @@
         "monster_id": 1152,
         "name": "邪骸獸人",
         "rate": 0.25
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "5111": {
+    "id": 5111,
+    "name": {
+      "zh_tw": "啤酒企鵝之帽",
+      "en": "上"
+    },
+    "icon_url": "/images/items/5111.gif",
+    "category": "防具",
+    "description": {
+      "official": "參考啤酒企鵝所做的模樣意外的很可愛，還有企鵝嘴巴部分遮陽效果非常優秀的擊殺魔物時會有較低的幾率獲得曼特療傷藥",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 50
+    },
+    "script": "{ bonus2 bAddMonsterDropItem,605,100; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 3414,
+        "name": "啤酒企鵝",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1391,
+        "name": "啤酒企鵝",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "5116": {
+    "id": 5116,
+    "name": {
+      "zh_tw": "香蕉帽",
+      "en": "上"
+    },
+    "icon_url": "/images/items/5116.gif",
+    "category": "防具",
+    "description": {
+      "official": "每一個人都知道只要是踩下去就會跌到的果皮削，有人袋著這個果皮削打仗的話表示對方已經生氣了。物理攻擊時，自動唸咒、挑釁 3技能施展。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 20,
+      "sell_price": 10,
+      "weight": 20
+    },
+    "script": "{ bonus3 bAutoSpell,\"SM_PROVOKE\",3,30; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1688,
+        "name": "嗒妮小姐",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2611,
+        "name": "精英 / 憤怒 伍坦戰士",
+        "rate": 0.15
+      },
+      {
+        "monster_id": 2246,
+        "name": "伍坦戰士 (任務,未完成)",
+        "rate": 0.12
+      },
+      {
+        "monster_id": 1498,
+        "name": "伍坦彈弓手",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1499,
+        "name": "伍坦戰士",
+        "rate": 0.03
       }
     ],
     "obtained_from": [
@@ -16683,6 +18823,123 @@
       "神祕箱子",
       "神祕紫箱"
     ]
+  },
+  "568": {
+    "id": 568,
+    "name": {
+      "zh_tw": "檸檬",
+      "en": "Lemon"
+    },
+    "icon_url": "/images/items/568.gif",
+    "category": "治療/恢復類",
+    "description": {
+      "official": "屬橢圓形，成熟時變成黃色有香味的水果，光用想象的，嘴裡就有一股酸溜溜的感覺而產生口水！恢復少量的SP",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 60,
+      "sell_price": 30,
+      "weight": 4
+    },
+    "script": "{ itemheal 0,rand(10,20); },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1585,
+        "name": "啞劇猴",
+        "rate": 46.66
+      },
+      {
+        "monster_id": 2485,
+        "name": "凱美拉-咪魘",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2757,
+        "name": "精英人魚士兵 / 憤怒人魚士兵",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2870,
+        "name": "精英古鐘魔 / 菁英古鐘魔",
+        "rate": 8.0
+      },
+      {
+        "monster_id": 2871,
+        "name": "精英古鐘魔 / 憤怒古鐘魔",
+        "rate": 8.0
+      },
+      {
+        "monster_id": 2747,
+        "name": "精英米洛斯 / 憤怒米洛斯",
+        "rate": 7.5
+      },
+      {
+        "monster_id": 2749,
+        "name": "精英米洛斯 / 迅捷米洛斯",
+        "rate": 7.5
+      },
+      {
+        "monster_id": 2748,
+        "name": "精英米洛斯 / 狡猾米洛斯",
+        "rate": 7.5
+      },
+      {
+        "monster_id": 2781,
+        "name": "精英群葉貓 / 菁英群葉貓",
+        "rate": 6.25
+      },
+      {
+        "monster_id": 1283,
+        "name": "凱美拉",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 3200,
+        "name": "邪惡的凱美拉",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2353,
+        "name": "米洛斯-咪魘",
+        "rate": 3.0
+      },
+      {
+        "monster_id": 1264,
+        "name": "人魚士兵",
+        "rate": 2.0
+      },
+      {
+        "monster_id": 1269,
+        "name": "古鐘魔",
+        "rate": 1.6
+      },
+      {
+        "monster_id": 2916,
+        "name": "大笨鐘 / 大古鐘",
+        "rate": 1.6
+      },
+      {
+        "monster_id": 1149,
+        "name": "米洛斯",
+        "rate": 1.5
+      },
+      {
+        "monster_id": 1209,
+        "name": "藍鼠",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 1586,
+        "name": "群葉貓",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 20686,
+        "name": "下水道藍鼠",
+        "rate": 1.25
+      }
+    ],
+    "obtained_from": []
   },
   "578": {
     "id": 578,
@@ -19093,6 +21350,96 @@
       "神祕紫箱"
     ]
   },
+  "605": {
+    "id": 605,
+    "name": {
+      "zh_tw": "曼特療傷藥",
+      "en": "Anodyne"
+    },
+    "icon_url": "/images/items/605.gif",
+    "category": "延遲消耗類",
+    "description": {
+      "official": "以名為曼特的植物為原料製作而成的藥品，可以讓人暫時忘卻苦痛的鎮痛劑。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 2000,
+      "sell_price": 1000,
+      "weight": 10
+    },
+    "script": "{ itemskill \"SM_ENDURE\",1; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2727,
+        "name": "精英廢氣魔 / 憤怒廢氣魔",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 3444,
+        "name": "觀察者",
+        "rate": 1.0
+      },
+      {
+        "monster_id": 3177,
+        "name": "目擊者 / 惡魔之眼",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1975,
+        "name": "眼魔首領",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1633,
+        "name": "惡魔之眼",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1256,
+        "name": "單眼蟲",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 3740,
+        "name": "瓦斯特",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 20592,
+        "name": "奪命毒霧",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 1620,
+        "name": "廢氣魔",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 1151,
+        "name": "麥斯特",
+        "rate": 0.1
+      },
+      {
+        "monster_id": 1221,
+        "name": "野豬",
+        "rate": 0.08
+      },
+      {
+        "monster_id": 1311,
+        "name": "狂暴野豬",
+        "rate": 0.08
+      },
+      {
+        "monster_id": 1314,
+        "name": "果樹龜",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "606": {
     "id": 606,
     "name": {
@@ -20718,6 +23065,43 @@
     ],
     "obtained_from": []
   },
+  "6263": {
+    "id": 6263,
+    "name": {
+      "zh_tw": "椰果",
+      "en": "Coconut_Fruit"
+    },
+    "icon_url": "/images/items/6263.gif",
+    "category": "其他類",
+    "description": {
+      "official": "是椰子樹的果實，裡面有白色果汁。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 100,
+      "sell_price": 50,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1391,
+        "name": "啤酒企鵝",
+        "rate": 1.5
+      },
+      {
+        "monster_id": 3414,
+        "name": "啤酒企鵝",
+        "rate": 1.5
+      },
+      {
+        "monster_id": 1314,
+        "name": "果樹龜",
+        "rate": 1.0
+      }
+    ],
+    "obtained_from": []
+  },
   "6264": {
     "id": 6264,
     "name": {
@@ -21505,6 +23889,46 @@
       "神祕紫箱"
     ]
   },
+  "701": {
+    "id": 701,
+    "name": {
+      "zh_tw": "歐拉歐拉",
+      "en": "Ora_Ora"
+    },
+    "icon_url": "/images/items/701.gif",
+    "category": "其他類",
+    "description": {
+      "official": "為了引誘盜蟲，利用盜蟲的習性所製成的物品。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 55000,
+      "sell_price": 27500,
+      "weight": 20
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1086,
+        "name": "黃金蟲",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2638,
+        "name": "精英白鼠 / 菁英白鼠",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1175,
+        "name": "白鼠",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "702": {
     "id": 702,
     "name": {
@@ -22224,6 +24648,256 @@
       "神祕紫箱"
     ]
   },
+  "7053": {
+    "id": 7053,
+    "name": {
+      "zh_tw": "賽依伐",
+      "en": "Cyfar"
+    },
+    "icon_url": "/images/items/7053.gif",
+    "category": "其他類",
+    "description": {
+      "official": "發出藍色光芒的稀有礦物，可賣給搜集品商人",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 772,
+      "sell_price": 386,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2616,
+        "name": "精英 / 憤怒 狂暴野貓",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2725,
+        "name": "精英 / 雄壯 獸人女戰士",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2792,
+        "name": "精英邪惡使者 / 憤怒邪惡使者",
+        "rate": 87.5
+      },
+      {
+        "monster_id": 2694,
+        "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+        "rate": 75.0
+      },
+      {
+        "monster_id": 2829,
+        "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 2668,
+        "name": "精英海獺 / 菁英海獺",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 3414,
+        "name": "啤酒企鵝",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1261,
+        "name": "狂暴野貓",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 1391,
+        "name": "啤酒企鵝",
+        "rate": 26.68
+      },
+      {
+        "monster_id": 2185,
+        "name": "變形釣魚河童",
+        "rate": 26.24
+      },
+      {
+        "monster_id": 2730,
+        "name": "精英諾博斯 / 雄壯諾博斯",
+        "rate": 25.9
+      },
+      {
+        "monster_id": 2729,
+        "name": "精英諾博斯 / 迅捷諾博斯",
+        "rate": 25.9
+      },
+      {
+        "monster_id": 2728,
+        "name": "精英諾博斯 / 狡猾諾博斯",
+        "rate": 25.9
+      },
+      {
+        "monster_id": 2731,
+        "name": "精英諾博斯 / 菁英諾博斯",
+        "rate": 25.9
+      },
+      {
+        "monster_id": 2630,
+        "name": "精英大嘴鳥 / 憤怒巨嘴鳥",
+        "rate": 25.0
+      },
+      {
+        "monster_id": 1519,
+        "name": "小青",
+        "rate": 24.25
+      },
+      {
+        "monster_id": 1273,
+        "name": "獸人女戰士",
+        "rate": 23.28
+      },
+      {
+        "monster_id": 1308,
+        "name": "狂暴哥布靈",
+        "rate": 22.07
+      },
+      {
+        "monster_id": 1289,
+        "name": "狂暴蟻後",
+        "rate": 22.07
+      },
+      {
+        "monster_id": 1631,
+        "name": "小青",
+        "rate": 21.0
+      },
+      {
+        "monster_id": 2780,
+        "name": "精英 / 雄壯 狂暴大腳熊",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 1280,
+        "name": "噴射哥布靈",
+        "rate": 19.4
+      },
+      {
+        "monster_id": 1257,
+        "name": "邪惡使者",
+        "rate": 17.5
+      },
+      {
+        "monster_id": 1919,
+        "name": "咪羅克門徒之泥怪",
+        "rate": 17.5
+      },
+      {
+        "monster_id": 1406,
+        "name": "釣魚河童",
+        "rate": 17.5
+      },
+      {
+        "monster_id": 1921,
+        "name": "咪羅克門徒之喜樂",
+        "rate": 17.5
+      },
+      {
+        "monster_id": 20270,
+        "name": "古代三葉蟲",
+        "rate": 15.0
+      },
+      {
+        "monster_id": 3410,
+        "name": "奈吉鳥",
+        "rate": 15.0
+      },
+      {
+        "monster_id": 1254,
+        "name": "奈吉鳥",
+        "rate": 15.0
+      },
+      {
+        "monster_id": 1322,
+        "name": "彈簧兔",
+        "rate": 12.5
+      },
+      {
+        "monster_id": 3442,
+        "name": "極凍戰狼 / 冰狼",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 1889,
+        "name": "卡崙",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 1887,
+        "name": "水靈龜",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 1317,
+        "name": "海豹寶寶",
+        "rate": 6.0
+      },
+      {
+        "monster_id": 3413,
+        "name": "海獺",
+        "rate": 6.0
+      },
+      {
+        "monster_id": 3415,
+        "name": "海豹寶寶",
+        "rate": 6.0
+      },
+      {
+        "monster_id": 1323,
+        "name": "海獺",
+        "rate": 6.0
+      },
+      {
+        "monster_id": 1715,
+        "name": "諾博斯(紅)",
+        "rate": 5.18
+      },
+      {
+        "monster_id": 1718,
+        "name": "黃諾博斯",
+        "rate": 5.18
+      },
+      {
+        "monster_id": 1255,
+        "name": "奈利蟲",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2073,
+        "name": "巨嘴鳥",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1392,
+        "name": "直升機哥布靈",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1306,
+        "name": "狂暴大腳熊",
+        "rate": 4.0
+      },
+      {
+        "monster_id": 3418,
+        "name": "三葉蟲",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1279,
+        "name": "三葉蟲",
+        "rate": 0.5
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "7054": {
     "id": 7054,
     "name": {
@@ -22713,6 +25387,46 @@
       "神祕箱子",
       "神祕紫箱",
       "禮物箱/禮盒"
+    ]
+  },
+  "7065": {
+    "id": 7065,
+    "name": {
+      "zh_tw": "海獺的皮革",
+      "en": "Sea_Otter_Leather"
+    },
+    "icon_url": "/images/items/7065.gif",
+    "category": "其他類",
+    "description": {
+      "official": "看起來可以編織成衣服，非常溫暖的海獺的皮革，用看的就可以感覺到非常柔軟的樣子。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 820,
+      "sell_price": 410,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2668,
+        "name": "精英海獺 / 菁英海獺",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 3413,
+        "name": "海獺",
+        "rate": 21.83
+      },
+      {
+        "monster_id": 1323,
+        "name": "海獺",
+        "rate": 21.83
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
     ]
   },
   "707": {
@@ -23761,6 +26475,191 @@
       "神祕紫箱"
     ]
   },
+  "7196": {
+    "id": 7196,
+    "name": {
+      "zh_tw": "木製護肩",
+      "en": "Shoulder_Protection"
+    },
+    "icon_url": "/images/items/7196.gif",
+    "category": "其他類",
+    "description": {
+      "official": "為了保護肩膀，用木頭製成的原始保護道具。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 230,
+      "sell_price": 115,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2611,
+        "name": "精英 / 憤怒 伍坦戰士",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2246,
+        "name": "伍坦戰士 (任務,未完成)",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 20277,
+        "name": "古代伍坦防禦者",
+        "rate": 22.5
+      },
+      {
+        "monster_id": 20276,
+        "name": "古代伍坦戰士",
+        "rate": 20.0
+      },
+      {
+        "monster_id": 1499,
+        "name": "伍坦戰士",
+        "rate": 20.0
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
+  "7198": {
+    "id": 7198,
+    "name": {
+      "zh_tw": "巨大葉子",
+      "en": "Great_Leaf"
+    },
+    "icon_url": "/images/items/7198.gif",
+    "category": "其他類",
+    "description": {
+      "official": "下雨的時候，可以放在頭上當雨具用的大葉子。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 610,
+      "sell_price": 305,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2781,
+        "name": "精英群葉貓 / 菁英群葉貓",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2711,
+        "name": "精英捕蟲堇妖 / 菁英捕蟲堇妖",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 2710,
+        "name": "精英 / 雄壯 黑暗捕蟲堇妖",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 2246,
+        "name": "伍坦戰士 (任務,未完成)",
+        "rate": 30.0
+      },
+      {
+        "monster_id": 2843,
+        "name": "精英森林妖姬 / 迅捷森林妖姬",
+        "rate": 25.0
+      },
+      {
+        "monster_id": 2611,
+        "name": "精英 / 憤怒 伍坦戰士",
+        "rate": 25.0
+      },
+      {
+        "monster_id": 1586,
+        "name": "群葉貓",
+        "rate": 21.83
+      },
+      {
+        "monster_id": 2150,
+        "name": "西瓜",
+        "rate": 15.0
+      },
+      {
+        "monster_id": 2720,
+        "name": "精英 / 雄壯 苗娃佩瑞絲",
+        "rate": 12.5
+      },
+      {
+        "monster_id": 20626,
+        "name": "特殊泰坦魔芋花 / 花園監視者",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 20625,
+        "name": "咪魘乾扁草精 / 花園監視者",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2015,
+        "name": "黑暗捕蟲堇 / 黑暗捕蟲堇妖",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 20624,
+        "name": "乾扁草精 / 花園監視者",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 1995,
+        "name": "捕蟲堇 / 捕蟲堇妖",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 20627,
+        "name": "咪魘特殊泰坦魔芋花 / 花園監視者",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 3420,
+        "name": "森林妖姬",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 20276,
+        "name": "古代伍坦戰士",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 20277,
+        "name": "古代伍坦防禦者",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2019,
+        "name": "古樹",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1493,
+        "name": "森林妖姬",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1499,
+        "name": "伍坦戰士",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1500,
+        "name": "苗娃佩瑞絲",
+        "rate": 2.5
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "720": {
     "id": 720,
     "name": {
@@ -24341,6 +27240,62 @@
       "禮物箱/禮盒"
     ]
   },
+  "726": {
+    "id": 726,
+    "name": {
+      "zh_tw": "藍寶石",
+      "en": "Blue_Jewel"
+    },
+    "icon_url": "/images/items/726.gif",
+    "category": "其他類",
+    "description": {
+      "official": "呈現出藍色光芒的寶石。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 4500,
+      "sell_price": 2250,
+      "weight": 10
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1313,
+        "name": "流氓",
+        "rate": 22.8
+      },
+      {
+        "monster_id": 1665,
+        "name": "黃真晶",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2668,
+        "name": "精英海獺 / 菁英海獺",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 1209,
+        "name": "藍鼠",
+        "rate": 0.4
+      },
+      {
+        "monster_id": 3413,
+        "name": "海獺",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 1323,
+        "name": "海獺",
+        "rate": 0.25
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱",
+      "禮物箱/禮盒"
+    ]
+  },
   "727": {
     "id": 727,
     "name": {
@@ -24770,6 +27725,87 @@
         "monster_id": 3501,
         "name": "變形魔菇",
         "rate": 0.1
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱",
+      "禮物箱/禮盒"
+    ]
+  },
+  "746": {
+    "id": 746,
+    "name": {
+      "zh_tw": "玻璃珠",
+      "en": "Glass_Bead"
+    },
+    "icon_url": "/images/items/746.gif",
+    "category": "其他類",
+    "description": {
+      "official": "用玻璃做成的小珠子，小朋友們常拿來當玩具。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1400,
+      "sell_price": 700,
+      "weight": 5
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2668,
+        "name": "精英海獺 / 菁英海獺",
+        "rate": 16.25
+      },
+      {
+        "monster_id": 3413,
+        "name": "海獺",
+        "rate": 3.25
+      },
+      {
+        "monster_id": 1323,
+        "name": "海獺",
+        "rate": 3.25
+      },
+      {
+        "monster_id": 2829,
+        "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+        "rate": 3.0
+      },
+      {
+        "monster_id": 3759,
+        "name": "憤怒九尾狐",
+        "rate": 2.0
+      },
+      {
+        "monster_id": 1180,
+        "name": "九尾狐",
+        "rate": 1.0
+      },
+      {
+        "monster_id": 2789,
+        "name": "精英傘妖 / 迅捷傘妖",
+        "rate": 0.75
+      },
+      {
+        "monster_id": 1317,
+        "name": "海豹寶寶",
+        "rate": 0.6
+      },
+      {
+        "monster_id": 3415,
+        "name": "海豹寶寶",
+        "rate": 0.6
+      },
+      {
+        "monster_id": 1209,
+        "name": "藍鼠",
+        "rate": 0.55
+      },
+      {
+        "monster_id": 1400,
+        "name": "傘妖",
+        "rate": 0.15
       }
     ],
     "obtained_from": [
@@ -31383,6 +34419,66 @@
       "神祕紫箱"
     ]
   },
+  "950": {
+    "id": 950,
+    "name": {
+      "zh_tw": "人魚之心",
+      "en": "Heart_Of_Mermaid"
+    },
+    "icon_url": "/images/items/950.gif",
+    "category": "其他類",
+    "description": {
+      "official": "人魚的紅色心臟，不論何時看起來都是噗通噗通跳動著的樣子。可向收集商購買。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 264,
+      "sell_price": 132,
+      "weight": 1
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2795,
+        "name": "精英亞拉 / 雄壯亞拉",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 20647,
+        "name": "浴池人魚",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 1044,
+        "name": "人魚",
+        "rate": 45.0
+      },
+      {
+        "monster_id": 1970,
+        "name": "人魚_E",
+        "rate": 45.0
+      },
+      {
+        "monster_id": 2184,
+        "name": "深海人魚",
+        "rate": 45.0
+      },
+      {
+        "monster_id": 2069,
+        "name": "亞拉",
+        "rate": 45.0
+      },
+      {
+        "monster_id": 20802,
+        "name": "深海人魚",
+        "rate": 25.0
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "951": {
     "id": 951,
     "name": {
@@ -32606,6 +35702,193 @@
     "obtained_from": [
       "神祕箱子",
       "神祕紫箱"
+    ]
+  },
+  "969": {
+    "id": 969,
+    "name": {
+      "zh_tw": "黃金",
+      "en": "Gold"
+    },
+    "icon_url": "/images/items/969.gif",
+    "category": "其他類",
+    "description": {
+      "official": "會發出如太陽般燦爛光芒的金屬，十分堅硬並且安定性高。雖然不易加工，但因為很稀少的關係，毫無疑問在金屬當中是非常有價值的東西，可以高價賣給收集商。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 150000,
+      "sell_price": 75000,
+      "weight": 20
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2306,
+        "name": "Golden Thief Bug",
+        "rate": 100.0
+      },
+      {
+        "monster_id": 2156,
+        "name": "讓特",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 1086,
+        "name": "黃金蟲",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1840,
+        "name": "黃金野豬",
+        "rate": 2.5
+      },
+      {
+        "monster_id": 2247,
+        "name": "米糕 (任務,未完成)",
+        "rate": 0.06
+      },
+      {
+        "monster_id": 2203,
+        "name": "醬缸章魚",
+        "rate": 0.03
+      },
+      {
+        "monster_id": 2706,
+        "name": "精英等離子體 / 菁英等離子體",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2750,
+        "name": "精英礦石魔 / 雄壯礦石魔",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 20597,
+        "name": "紫色礦石魔",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2793,
+        "name": "精英米糕 / 狡猾米糕",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 20594,
+        "name": "綠色礦石魔",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2335,
+        "name": "食月者的寶箱",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1693,
+        "name": "黃色等離子體",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2992,
+        "name": "陰森惡靈 / 工廠警衛的亡靈",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1976,
+        "name": "鈷礦石魔 / 惡精靈礦石",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2851,
+        "name": "精英土人 / 憤怒土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 20595,
+        "name": "紅色礦石魔",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2810,
+        "name": "精英 / 雄壯 七彩大嘴鳥",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1306,
+        "name": "狂暴大腳熊",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1301,
+        "name": "狂暴小土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2137,
+        "name": "異形毛毛怪",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 3393,
+        "name": "土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1369,
+        "name": "七彩大嘴鳥",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1110,
+        "name": "土人",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1307,
+        "name": "狂暴月夜貓",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1289,
+        "name": "狂暴蟻後",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2811,
+        "name": "精英 / 菁英 七彩大嘴鳥",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2751,
+        "name": "精英 / 菁英 異形毛毛怪",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1516,
+        "name": "米糕",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 1614,
+        "name": "礦石魔",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 20596,
+        "name": "白色礦石魔",
+        "rate": 0.01
+      },
+      {
+        "monster_id": 2780,
+        "name": "精英 / 雄壯 狂暴大腳熊",
+        "rate": 0.01
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱",
+      "禮物箱/禮盒",
+      "尋找礦石技能 (鐵匠)"
     ]
   },
   "970": {

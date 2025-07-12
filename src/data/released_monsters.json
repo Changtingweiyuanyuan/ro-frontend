@@ -145,7 +145,7 @@
   },
   "1044": {
     "name": "人魚",
-    "released": false
+    "released": true
   },
   "1045": {
     "name": "馬克",
@@ -385,7 +385,7 @@
   },
   "1106": {
     "name": "沙漠之狼",
-    "released": true
+    "released": false
   },
   "1107": {
     "name": "沙漠幼狼",
@@ -401,7 +401,7 @@
   },
   "1110": {
     "name": "土人",
-    "released": false
+    "released": true
   },
   "1111": {
     "name": "紅蝙蝠",
@@ -617,7 +617,7 @@
   },
   "1166": {
     "name": "野豬",
-    "released": false
+    "released": true
   },
   "1167": {
     "name": "小野豬",
@@ -637,11 +637,11 @@
   },
   "1175": {
     "name": "白鼠",
-    "released": false
+    "released": true
   },
   "1176": {
     "name": "黑蟻",
-    "released": false
+    "released": true
   },
   "1177": {
     "name": "茲諾克",
@@ -661,7 +661,7 @@
   },
   "1185": {
     "name": "白幽靈",
-    "released": false
+    "released": true
   },
   "1186": {
     "name": "巨大白幽靈",
@@ -821,7 +821,7 @@
   },
   "1254": {
     "name": "奈吉鳥",
-    "released": false
+    "released": true
   },
   "1255": {
     "name": "奈利蟲",
@@ -829,7 +829,7 @@
   },
   "1256": {
     "name": "單眼蟲",
-    "released": false
+    "released": true
   },
   "1257": {
     "name": "邪惡使者",
@@ -849,7 +849,7 @@
   },
   "1261": {
     "name": "狂暴野貓",
-    "released": false
+    "released": true
   },
   "1262": {
     "name": "半龍人",
@@ -861,7 +861,7 @@
   },
   "1264": {
     "name": "人魚士兵",
-    "released": false
+    "released": true
   },
   "1265": {
     "name": "綠餅人",
@@ -897,7 +897,7 @@
   },
   "1273": {
     "name": "獸人女戰士",
-    "released": false
+    "released": true
   },
   "1274": {
     "name": "邪惡摩艾",
@@ -1069,7 +1069,7 @@
   },
   "1317": {
     "name": "海豹寶寶",
-    "released": false
+    "released": true
   },
   "1318": {
     "name": "火焰龜",
@@ -1093,7 +1093,7 @@
   },
   "1323": {
     "name": "海獺",
-    "released": false
+    "released": true
   },
   "1324": {
     "name": "寶物箱子",
@@ -1361,7 +1361,7 @@
   },
   "1391": {
     "name": "啤酒企鵝",
-    "released": false
+    "released": true
   },
   "1392": {
     "name": "直升機哥布靈",
@@ -1497,7 +1497,7 @@
   },
   "1499": {
     "name": "伍坦戰士",
-    "released": false
+    "released": true
   },
   "1500": {
     "name": "苗娃佩瑞絲",
@@ -4189,7 +4189,7 @@
   },
   "2768": {
     "name": "精英魔鍋蛋 / 狡猾魔鍋蛋",
-    "released": false
+    "released": true
   },
   "2769": {
     "name": "精英岩漿波利 / 迅捷岩漿波利",
@@ -4325,7 +4325,7 @@
   },
   "2802": {
     "name": "精英蚯蚓 / 憤怒蚯蚓",
-    "released": false
+    "released": true
   },
   "2803": {
     "name": "精英希爾士兵 / 狡猾希爾士兵",
@@ -4433,7 +4433,7 @@
   },
   "2829": {
     "name": "精英海豹寶寶 / 迅捷海豹寶寶",
-    "released": false
+    "released": true
   },
   "2830": {
     "name": "精英水靈龜 / 雄壯水靈龜",
@@ -4521,7 +4521,7 @@
   },
   "2851": {
     "name": "精英土人 / 憤怒土人",
-    "released": false
+    "released": true
   },
   "2852": {
     "name": "精英假面鬼 / 狡猾假面鬼",

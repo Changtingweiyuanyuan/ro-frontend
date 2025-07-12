@@ -1,0 +1,250 @@
+{
+  "id": 7053,
+  "name": {
+    "zh_tw": "賽依伐",
+    "en": "Cyfar"
+  },
+  "icon_url": "/images/items/7053.gif",
+  "category": "其他類",
+  "description": {
+    "official": "發出藍色光芒的稀有礦物，可賣給搜集品商人",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 772,
+    "sell_price": 386,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2792,
+      "name": "精英邪惡使者 / 憤怒邪惡使者",
+      "rate": 87.5
+    },
+    {
+      "monster_id": 2694,
+      "name": "精英奈吉鳥 / 狡猾奈吉鳥",
+      "rate": 75.0
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 26.68
+    },
+    {
+      "monster_id": 2185,
+      "name": "變形釣魚河童",
+      "rate": 26.24
+    },
+    {
+      "monster_id": 2730,
+      "name": "精英諾博斯 / 雄壯諾博斯",
+      "rate": 25.9
+    },
+    {
+      "monster_id": 2729,
+      "name": "精英諾博斯 / 迅捷諾博斯",
+      "rate": 25.9
+    },
+    {
+      "monster_id": 2728,
+      "name": "精英諾博斯 / 狡猾諾博斯",
+      "rate": 25.9
+    },
+    {
+      "monster_id": 2731,
+      "name": "精英諾博斯 / 菁英諾博斯",
+      "rate": 25.9
+    },
+    {
+      "monster_id": 2630,
+      "name": "精英大嘴鳥 / 憤怒巨嘴鳥",
+      "rate": 25.0
+    },
+    {
+      "monster_id": 1519,
+      "name": "小青",
+      "rate": 24.25
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 23.28
+    },
+    {
+      "monster_id": 1308,
+      "name": "狂暴哥布靈",
+      "rate": 22.07
+    },
+    {
+      "monster_id": 1289,
+      "name": "狂暴蟻後",
+      "rate": 22.07
+    },
+    {
+      "monster_id": 1631,
+      "name": "小青",
+      "rate": 21.0
+    },
+    {
+      "monster_id": 2780,
+      "name": "精英 / 雄壯 狂暴大腳熊",
+      "rate": 20.0
+    },
+    {
+      "monster_id": 1280,
+      "name": "噴射哥布靈",
+      "rate": 19.4
+    },
+    {
+      "monster_id": 1257,
+      "name": "邪惡使者",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1919,
+      "name": "咪羅克門徒之泥怪",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1406,
+      "name": "釣魚河童",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 1921,
+      "name": "咪羅克門徒之喜樂",
+      "rate": 17.5
+    },
+    {
+      "monster_id": 20270,
+      "name": "古代三葉蟲",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 3410,
+      "name": "奈吉鳥",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1254,
+      "name": "奈吉鳥",
+      "rate": 15.0
+    },
+    {
+      "monster_id": 1322,
+      "name": "彈簧兔",
+      "rate": 12.5
+    },
+    {
+      "monster_id": 3442,
+      "name": "極凍戰狼 / 冰狼",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1889,
+      "name": "卡崙",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1887,
+      "name": "水靈龜",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 6.0
+    },
+    {
+      "monster_id": 1715,
+      "name": "諾博斯(紅)",
+      "rate": 5.18
+    },
+    {
+      "monster_id": 1718,
+      "name": "黃諾博斯",
+      "rate": 5.18
+    },
+    {
+      "monster_id": 1255,
+      "name": "奈利蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 2073,
+      "name": "巨嘴鳥",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1392,
+      "name": "直升機哥布靈",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1306,
+      "name": "狂暴大腳熊",
+      "rate": 4.0
+    },
+    {
+      "monster_id": 3418,
+      "name": "三葉蟲",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 1279,
+      "name": "三葉蟲",
+      "rate": 0.5
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

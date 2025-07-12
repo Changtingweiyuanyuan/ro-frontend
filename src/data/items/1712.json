@@ -1,0 +1,21 @@
+{
+  "id": 1712,
+  "name": {
+    "zh_tw": "十字弓",
+    "en": "CrossBow__"
+  },
+  "icon_url": "/images/items/1712.gif",
+  "category": "武器",
+  "description": {
+    "official": "十字造型的弓。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 17000,
+    "sell_price": 8500,
+    "weight": 90
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1716,
+  "name": {
+    "zh_tw": "角弓",
+    "en": "Kakkung_"
+  },
+  "icon_url": "/images/items/1716.gif",
+  "category": "武器",
+  "description": {
+    "official": "用動物的角作成的弓，優點為有較高的傷害和精準度。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 42000,
+    "sell_price": 21000,
+    "weight": 110
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1688,
+      "name": "嗒妮小姐",
+      "rate": 30.0
+    },
+    {
+      "monster_id": 2923,
+      "name": "鶚梟假面",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1656,
+      "name": "暗●弓箭手",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

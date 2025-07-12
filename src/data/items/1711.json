@@ -1,0 +1,35 @@
+{
+  "id": 1711,
+  "name": {
+    "zh_tw": "十字弓",
+    "en": "CrossBow_"
+  },
+  "icon_url": "/images/items/1711.gif",
+  "category": "武器",
+  "description": {
+    "official": "優點為擁有快速連射和較高的破壞力為優點，為十字造型的弓。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 17000,
+    "sell_price": 8500,
+    "weight": 90
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2784,
+      "name": "精英 / 迅捷 犬妖弓箭手",
+      "rate": 0.15
+    },
+    {
+      "monster_id": 1282,
+      "name": "犬妖弓箭手",
+      "rate": 0.03
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

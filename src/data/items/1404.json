@@ -1,0 +1,23 @@
+{
+  "id": 1404,
+  "name": {
+    "zh_tw": "長矛",
+    "en": "Spear"
+  },
+  "icon_url": "/images/items/1404.gif",
+  "category": "武器",
+  "description": {
+    "official": "被廣泛使用的單手長矛。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1700,
+    "sell_price": 850,
+    "weight": 85
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

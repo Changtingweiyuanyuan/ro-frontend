@@ -1,0 +1,39 @@
+{
+  "id": 4098,
+  "name": {
+    "zh_tw": "土人卡片",
+    "en": "Dokebi_Card"
+  },
+  "icon_url": "/images/items/4098.gif",
+  "category": "卡片",
+  "description": {
+    "official": "可將鎧甲的屬性轉變為風屬性。DEF+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bDefEle,Ele_Wind; bonus bDef,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2851,
+      "name": "精英土人 / 憤怒土人",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3393,
+      "name": "土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1110,
+      "name": "土人",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

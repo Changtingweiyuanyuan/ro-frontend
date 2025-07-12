@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 707,
+      "name": "哀唱草",
+      "rate": 0.1,
+      "icon_url": "/images/items/707.gif"
+    },
+    {
+      "item_id": 935,
+      "name": "堅硬外殼",
+      "rate": 15.0,
+      "icon_url": "/images/items/935.gif"
+    },
+    {
+      "item_id": 940,
+      "name": "蝗蟲後腿",
+      "rate": 32.5,
+      "icon_url": "/images/items/940.gif"
+    },
+    {
+      "item_id": 990,
+      "name": "火靈礦石",
+      "rate": 0.3,
+      "icon_url": "/images/items/990.gif"
+    },
+    {
+      "item_id": 1690,
+      "name": "神祕狐尾草魔杖[3]",
+      "rate": 0.15,
+      "icon_url": "/images/items/1690.gif"
+    },
+    {
+      "item_id": 1694,
+      "name": "狐尾草模型[3]",
+      "rate": 0.15,
+      "icon_url": "/images/items/1694.gif"
+    },
+    {
+      "item_id": 1914,
+      "name": "熱情的吉他",
+      "rate": 0.05,
+      "icon_url": "/images/items/1914.gif"
+    },
+    {
+      "item_id": 4057,
+      "name": "重金屬蝗蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 1157,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    }
+  ]
+}

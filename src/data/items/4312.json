@@ -1,0 +1,39 @@
+{
+  "id": 4312,
+  "name": {
+    "zh_tw": "海豹寶寶卡片",
+    "en": "Fur_Seal_Card"
+  },
+  "icon_url": "/images/items/4312.gif",
+  "category": "卡片",
+  "description": {
+    "official": "HIT+10，FLEE+3每當服事系列角色裝備時，對惡魔系和不死系魔物，CRI+9套裝資料:服事套裝 : 邪惡向日葵卡片, 飛行魔書卡片, 猴桃木卡片, 甜餅人卡片 & 海豹寶寶卡片武道家套裝 : 海豹寶寶卡片, 甜餅人卡片, 飛行魔書卡片, 高鐵爐卡片",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus bFlee,3; bonus bHit,10; if (BaseClass == Job_Acolyte) { bonus2 bCriticalAddRace,RC_Undead,9; bonus2 bCriticalAddRace,RC_Demon,9; } },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

@@ -1,10 +1,64 @@
 {
-  "basic_info": {
-    "level": "27",
-    "race": "動物系",
-    "element": {
-      "type": "地屬性",
-      "level": 1
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "images/items/601.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 27.5,
+      "icon_url": "images/items/919.gif"
+    },
+    {
+      "item_id": 1027,
+      "name": "刺蝟尖刺",
+      "rate": 45.0,
+      "icon_url": "images/items/1027.gif"
+    },
+    {
+      "item_id": 1405,
+      "name": "長矛[4]",
+      "rate": 0.08,
+      "icon_url": "images/items/1405.gif"
+    },
+    {
+      "item_id": 1408,
+      "name": "步兵長矛[4]",
+      "rate": 0.1,
+      "icon_url": "images/items/1408.gif"
+    },
+    {
+      "item_id": 1455,
+      "name": "長槍[3]",
+      "rate": 0.05,
+      "icon_url": "images/items/1455.gif"
+    },
+    {
+      "item_id": 2310,
+      "name": "長大衣[1]",
+      "rate": 0.03,
+      "icon_url": "images/items/2310.gif"
+    },
+    {
+      "item_id": 4063,
+      "name": "刺蝟蟲卡片",
+      "rate": 0.01,
+      "icon_url": "images/items/card.gif"
+    },
+    {
+      "item_id": 1152,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    },
+    {
+      "item_id": 1,
+      "name": " (將在打包時自動同步)",
+      "rate": 1452.0,
+      "icon_url": ""
     }
-  }
+  ]
 }

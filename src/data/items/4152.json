@@ -1,0 +1,34 @@
+{
+  "id": 4152,
+  "name": {
+    "zh_tw": "啤酒企鵝卡片",
+    "en": "Galapago_Card"
+  },
+  "icon_url": "/images/items/4152.gif",
+  "category": "卡片",
+  "description": {
+    "official": "擊殺昆蟲系魔物時隨機的掉落，蘋果、香蕉、紅蘿蔔汁，每當飲用果汁的時HP恢復量，增加50%。套裝資料:啤酒企鵝卡片 & Flying Galapago",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{ bonus2 bAddItemGroupHealRate,IG_Juice,50; bonus3 bAddMonsterDropItem,531,RC_Insect,300; bonus3 bAddMonsterDropItem,532,RC_Insect,300; bonus3 bAddMonsterDropItem,534,RC_Insect,300; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "老舊收集冊"
+  ]
+}

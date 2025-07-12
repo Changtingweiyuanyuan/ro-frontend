@@ -1,0 +1,65 @@
+{
+  "id": 2336,
+  "name": {
+    "zh_tw": "盜賊之衣",
+    "en": "Thief_Clothes_"
+  },
+  "icon_url": "/images/items/2336.gif",
+  "category": "防具",
+  "description": {
+    "official": "相當輕便的衣服。AGI+1",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 74000,
+    "sell_price": 37000,
+    "weight": 10
+  },
+  "script": "{ bonus bAgi,1; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1120,
+      "name": "幽靈波利",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2782,
+      "name": "精英暗●流氓 / 憤怒暗●流氓",
+      "rate": 0.25
+    },
+    {
+      "monster_id": 2664,
+      "name": "精英 / 憤怒 火忍西怒畢",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2435,
+      "name": "暗●流氓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2422,
+      "name": "暗●流氓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1401,
+      "name": "火忍西怒畢",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

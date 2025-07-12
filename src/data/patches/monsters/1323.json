@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "images/items/601.gif"
+    },
+    {
+      "item_id": 722,
+      "name": "珍珠",
+      "rate": 0.75,
+      "icon_url": "images/items/722.gif"
+    },
+    {
+      "item_id": 726,
+      "name": "藍寶石",
+      "rate": 0.25,
+      "icon_url": "images/items/726.gif"
+    },
+    {
+      "item_id": 746,
+      "name": "玻璃珠",
+      "rate": 3.25,
+      "icon_url": "images/items/746.gif"
+    },
+    {
+      "item_id": 965,
+      "name": "蛤蜊外殼",
+      "rate": 27.5,
+      "icon_url": "images/items/965.gif"
+    },
+    {
+      "item_id": 4326,
+      "name": "海獺卡片",
+      "rate": 0.01,
+      "icon_url": "images/items/card.gif"
+    },
+    {
+      "item_id": 7053,
+      "name": "賽依伐",
+      "rate": 6.0,
+      "icon_url": "images/items/7053.gif"
+    },
+    {
+      "item_id": 7065,
+      "name": "海獺的皮革",
+      "rate": 21.83,
+      "icon_url": "images/items/7065.gif"
+    },
+    {
+      "item_id": 1157,
+      "name": " (將在打包時自動同步)",
+      "rate": "???",
+      "icon_url": ""
+    }
+  ]
+}

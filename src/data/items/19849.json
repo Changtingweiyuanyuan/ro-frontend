@@ -1,0 +1,21 @@
+{
+  "id": 19849,
+  "name": {
+    "zh_tw": "(時裝)殭屍帽",
+    "en": "时装"
+  },
+  "icon_url": "/images/items/19849.gif",
+  "category": "防具",
+  "description": {
+    "official": "魔物殭屍戴的帽子，帽子上跕著不明的符咒以及長辮子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 1
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2206,
+  "name": {
+    "zh_tw": "婚禮頭紗",
+    "en": "上"
+  },
+  "icon_url": "/images/items/2206.gif",
+  "category": "防具",
+  "description": {
+    "official": "婚禮時，女生戴在頭上的紗，男生戴在頭上的話，會有可能被人家誤會。MDEF+5",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 23000,
+    "sell_price": 11500,
+    "weight": 10
+  },
+  "script": "{ bonus bMdef,5; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2465,
+      "name": "怨恨女僕 / 惡靈",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2733,
+      "name": "精英守墓怨靈 / 狡猾守墓怨靈",
+      "rate": 0.5
+    },
+    {
+      "monster_id": 2481,
+      "name": "守墓怨靈 / 被詛咒的守墓人",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1192,
+      "name": "惡靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1291,
+      "name": "狂暴惡靈",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

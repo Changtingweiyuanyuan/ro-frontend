@@ -1,0 +1,52 @@
+{
+  "drops": [
+    {
+      "item_id": 605,
+      "name": "曼特療傷藥",
+      "rate": 0.5,
+      "icon_url": "/images/items/605.gif"
+    },
+    {
+      "item_id": 702,
+      "name": "家畜血",
+      "rate": 0.05,
+      "icon_url": "/images/items/702.gif"
+    },
+    {
+      "item_id": 716,
+      "name": "紅色魔力礦石",
+      "rate": 1.25,
+      "icon_url": "/images/items/716.gif"
+    },
+    {
+      "item_id": 756,
+      "name": "神之金屬原石",
+      "rate": 0.58,
+      "icon_url": "/images/items/756.gif"
+    },
+    {
+      "item_id": 1055,
+      "name": "蚯蚓皮",
+      "rate": 27.5,
+      "icon_url": "/images/items/1055.gif"
+    },
+    {
+      "item_id": 4315,
+      "name": "單眼蟲卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 7054,
+      "name": "布里刊",
+      "rate": 1.0,
+      "icon_url": "/images/items/7054.gif"
+    },
+    {
+      "item_id": 1220,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

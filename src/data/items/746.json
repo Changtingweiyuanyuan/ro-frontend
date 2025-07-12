@@ -1,0 +1,81 @@
+{
+  "id": 746,
+  "name": {
+    "zh_tw": "玻璃珠",
+    "en": "Glass_Bead"
+  },
+  "icon_url": "/images/items/746.gif",
+  "category": "其他類",
+  "description": {
+    "official": "用玻璃做成的小珠子，小朋友們常拿來當玩具。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 1400,
+    "sell_price": 700,
+    "weight": 5
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2668,
+      "name": "精英海獺 / 菁英海獺",
+      "rate": 16.25
+    },
+    {
+      "monster_id": 3413,
+      "name": "海獺",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 1323,
+      "name": "海獺",
+      "rate": 3.25
+    },
+    {
+      "monster_id": 2829,
+      "name": "精英海豹寶寶 / 迅捷海豹寶寶",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 3759,
+      "name": "憤怒九尾狐",
+      "rate": 2.0
+    },
+    {
+      "monster_id": 1180,
+      "name": "九尾狐",
+      "rate": 1.0
+    },
+    {
+      "monster_id": 2789,
+      "name": "精英傘妖 / 迅捷傘妖",
+      "rate": 0.75
+    },
+    {
+      "monster_id": 1317,
+      "name": "海豹寶寶",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 3415,
+      "name": "海豹寶寶",
+      "rate": 0.6
+    },
+    {
+      "monster_id": 1209,
+      "name": "藍鼠",
+      "rate": 0.55
+    },
+    {
+      "monster_id": 1400,
+      "name": "傘妖",
+      "rate": 0.15
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒"
+  ]
+}

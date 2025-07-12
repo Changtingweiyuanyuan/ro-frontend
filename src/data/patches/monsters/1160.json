@@ -1,0 +1,64 @@
+{
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.16,
+      "icon_url": "/images/items/757.gif"
+    },
+    {
+      "item_id": 910,
+      "name": "加勒結晶",
+      "rate": 5.5,
+      "icon_url": "/images/items/910.gif"
+    },
+    {
+      "item_id": 938,
+      "name": "粘稠液體",
+      "rate": 3.0,
+      "icon_url": "/images/items/938.gif"
+    },
+    {
+      "item_id": 955,
+      "name": "昆蟲外殼",
+      "rate": 45.0,
+      "icon_url": "/images/items/955.gif"
+    },
+    {
+      "item_id": 992,
+      "name": "風靈礦石",
+      "rate": 0.15,
+      "icon_url": "/images/items/992.gif"
+    },
+    {
+      "item_id": 1002,
+      "name": "鐵礦石",
+      "rate": 2.0,
+      "icon_url": "/images/items/1002.gif"
+    },
+    {
+      "item_id": 4043,
+      "name": "白蟻卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    },
+    {
+      "item_id": 1520,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    },
+    {
+      "item_id": 1214,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

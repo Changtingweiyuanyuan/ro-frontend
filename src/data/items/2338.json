@@ -1,0 +1,32 @@
+{
+  "id": 2338,
+  "name": {
+    "zh_tw": "結婚禮服",
+    "en": "Wedding_Dress"
+  },
+  "icon_url": "/images/items/2338.gif",
+  "category": "防具",
+  "description": {
+    "official": "可以說是所有的女性，都咪想著有一天穿到這禮服是言之不為過的。MDEF+15",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 43000,
+    "sell_price": 21500,
+    "weight": 50
+  },
+  "script": "{ bonus bMdef,15; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2725,
+      "name": "精英 / 雄壯 獸人女戰士",
+      "rate": 0.05
+    },
+    {
+      "monster_id": 1273,
+      "name": "獸人女戰士",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": []
+}

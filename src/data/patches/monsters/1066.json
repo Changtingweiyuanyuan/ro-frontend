@@ -1,0 +1,58 @@
+{
+  "drops": [
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "images/items/601.gif"
+    },
+    {
+      "item_id": 757,
+      "name": "鋁原石",
+      "rate": 0.2,
+      "icon_url": "images/items/757.gif"
+    },
+    {
+      "item_id": 910,
+      "name": "加勒結晶",
+      "rate": 15.0,
+      "icon_url": "images/items/910.gif"
+    },
+    {
+      "item_id": 943,
+      "name": "堅硬外皮",
+      "rate": 0.5,
+      "icon_url": "images/items/943.gif"
+    },
+    {
+      "item_id": 960,
+      "name": "鉗子",
+      "rate": 45.0,
+      "icon_url": "images/items/960.gif"
+    },
+    {
+      "item_id": 991,
+      "name": "水靈礦石",
+      "rate": 0.2,
+      "icon_url": "images/items/991.gif"
+    },
+    {
+      "item_id": 2313,
+      "name": "鐵制盔甲[1]",
+      "rate": 0.03,
+      "icon_url": "images/items/2313.gif"
+    },
+    {
+      "item_id": 4049,
+      "name": "螃蟹卡片",
+      "rate": 0.01,
+      "icon_url": "images/items/card.gif"
+    },
+    {
+      "item_id": 1511,
+      "name": " (將在打包時自動同步)",
+      "rate": 1.0,
+      "icon_url": ""
+    }
+  ]
+}

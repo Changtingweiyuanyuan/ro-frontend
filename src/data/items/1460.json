@@ -1,0 +1,34 @@
+{
+  "id": 1460,
+  "name": {
+    "zh_tw": "德瑞尹長戟",
+    "en": "Trident"
+  },
+  "icon_url": "/images/items/1460.gif",
+  "category": "武器",
+  "description": {
+    "official": "專門用來狩獵的長戟，特徵是有三個刀刃。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 51000,
+    "sell_price": 25500,
+    "weight": 120
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2757,
+      "name": "精英人魚士兵 / 憤怒人魚士兵",
+      "rate": 0.1
+    },
+    {
+      "monster_id": 1264,
+      "name": "人魚士兵",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

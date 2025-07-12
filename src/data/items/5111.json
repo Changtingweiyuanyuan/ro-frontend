@@ -1,0 +1,35 @@
+{
+  "id": 5111,
+  "name": {
+    "zh_tw": "啤酒企鵝之帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5111.gif",
+  "category": "防具",
+  "description": {
+    "official": "參考啤酒企鵝所做的模樣意外的很可愛，還有企鵝嘴巴部分遮陽效果非常優秀的擊殺魔物時會有較低的幾率獲得曼特療傷藥",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 50
+  },
+  "script": "{ bonus2 bAddMonsterDropItem,605,100; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 3414,
+      "name": "啤酒企鵝",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1391,
+      "name": "啤酒企鵝",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

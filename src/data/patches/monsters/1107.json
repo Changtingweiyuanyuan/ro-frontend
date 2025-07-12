@@ -1,0 +1,46 @@
+{
+  "drops": [
+    {
+      "item_id": 582,
+      "name": "橙子",
+      "rate": 5.0,
+      "icon_url": "/images/items/582.gif"
+    },
+    {
+      "item_id": 601,
+      "name": "蒼蠅翅膀",
+      "rate": 5.0,
+      "icon_url": "/images/items/601.gif"
+    },
+    {
+      "item_id": 919,
+      "name": "動物外皮",
+      "rate": 27.5,
+      "icon_url": "/images/items/919.gif"
+    },
+    {
+      "item_id": 1010,
+      "name": "強化武器金屬-級數一",
+      "rate": 0.43,
+      "icon_url": "/images/items/1010.gif"
+    },
+    {
+      "item_id": 2301,
+      "name": "棉襯衫",
+      "rate": 1.0,
+      "icon_url": "/images/items/2301.gif"
+    },
+    {
+      "item_id": 2306,
+      "name": "冒險衣[1]",
+      "rate": 0.4,
+      "icon_url": "/images/items/2306.gif"
+    },
+    {
+      "item_id": 4023,
+      "name": "沙漠幼狼卡片",
+      "rate": 0.01,
+      "icon_url": "/images/items/card.gif"
+    }
+  ]
+}

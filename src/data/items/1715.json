@@ -1,0 +1,30 @@
+{
+  "id": 1715,
+  "name": {
+    "zh_tw": "埃布爾雷弓",
+    "en": "Arbalest_"
+  },
+  "icon_url": "/images/items/1715.gif",
+  "category": "武器",
+  "description": {
+    "official": "提昇HIT和傷害的弓。DEX+2",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 48000,
+    "sell_price": 24000,
+    "weight": 100
+  },
+  "script": "{ bonus bDex,2; },{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 1276,
+      "name": "幽靈弓箭手",
+      "rate": 0.02
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

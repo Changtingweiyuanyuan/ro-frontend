@@ -1,0 +1,187 @@
+{
+  "id": 969,
+  "name": {
+    "zh_tw": "黃金",
+    "en": "Gold"
+  },
+  "icon_url": "/images/items/969.gif",
+  "category": "其他類",
+  "description": {
+    "official": "會發出如太陽般燦爛光芒的金屬，十分堅硬並且安定性高。雖然不易加工，但因為很稀少的關係，毫無疑問在金屬當中是非常有價值的東西，可以高價賣給收集商。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 150000,
+    "sell_price": 75000,
+    "weight": 20
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2306,
+      "name": "Golden Thief Bug",
+      "rate": 100.0
+    },
+    {
+      "monster_id": 2156,
+      "name": "讓特",
+      "rate": 10.0
+    },
+    {
+      "monster_id": 1086,
+      "name": "黃金蟲",
+      "rate": 5.0
+    },
+    {
+      "monster_id": 1840,
+      "name": "黃金野豬",
+      "rate": 2.5
+    },
+    {
+      "monster_id": 2247,
+      "name": "米糕 (任務,未完成)",
+      "rate": 0.06
+    },
+    {
+      "monster_id": 2203,
+      "name": "醬缸章魚",
+      "rate": 0.03
+    },
+    {
+      "monster_id": 2706,
+      "name": "精英等離子體 / 菁英等離子體",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2750,
+      "name": "精英礦石魔 / 雄壯礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 20597,
+      "name": "紫色礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2793,
+      "name": "精英米糕 / 狡猾米糕",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 20594,
+      "name": "綠色礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2335,
+      "name": "食月者的寶箱",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1693,
+      "name": "黃色等離子體",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2992,
+      "name": "陰森惡靈 / 工廠警衛的亡靈",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1976,
+      "name": "鈷礦石魔 / 惡精靈礦石",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2851,
+      "name": "精英土人 / 憤怒土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 20595,
+      "name": "紅色礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2810,
+      "name": "精英 / 雄壯 七彩大嘴鳥",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1306,
+      "name": "狂暴大腳熊",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1301,
+      "name": "狂暴小土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2137,
+      "name": "異形毛毛怪",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 3393,
+      "name": "土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1369,
+      "name": "七彩大嘴鳥",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1110,
+      "name": "土人",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1307,
+      "name": "狂暴月夜貓",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1289,
+      "name": "狂暴蟻後",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2811,
+      "name": "精英 / 菁英 七彩大嘴鳥",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2751,
+      "name": "精英 / 菁英 異形毛毛怪",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1516,
+      "name": "米糕",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 1614,
+      "name": "礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 20596,
+      "name": "白色礦石魔",
+      "rate": 0.01
+    },
+    {
+      "monster_id": 2780,
+      "name": "精英 / 雄壯 狂暴大腳熊",
+      "rate": 0.01
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱",
+    "禮物箱/禮盒",
+    "尋找礦石技能 (鐵匠)"
+  ]
+}

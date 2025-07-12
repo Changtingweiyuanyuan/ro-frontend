@@ -1,0 +1,23 @@
+{
+  "id": 1354,
+  "name": {
+    "zh_tw": "鋼斧",
+    "en": "Hammer"
+  },
+  "icon_url": "/images/items/1354.gif",
+  "category": "武器",
+  "description": {
+    "official": "威力非常強的錘子。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 15500,
+    "sell_price": 7750,
+    "weight": 200
+  },
+  "script": "{},{},{}",
+  "dropped_by": [],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}

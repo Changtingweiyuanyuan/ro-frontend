@@ -1,0 +1,35 @@
+{
+  "id": 5037,
+  "name": {
+    "zh_tw": "水果皮帽",
+    "en": "上"
+  },
+  "icon_url": "/images/items/5037.gif",
+  "category": "防具",
+  "description": {
+    "official": "把堅固的果實切一半所做成的帽子，雖然提供堅固的防禦力，但若用鐵鎚敲打還是會破掉，所以不能精煉。",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 20,
+    "sell_price": 10,
+    "weight": 15
+  },
+  "script": "{},{},{}",
+  "dropped_by": [
+    {
+      "monster_id": 2616,
+      "name": "精英 / 憤怒 狂暴野貓",
+      "rate": 3.0
+    },
+    {
+      "monster_id": 1261,
+      "name": "狂暴野貓",
+      "rate": 0.6
+    }
+  ],
+  "obtained_from": [
+    "神祕箱子",
+    "神祕紫箱"
+  ]
+}

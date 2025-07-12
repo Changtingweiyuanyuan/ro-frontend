@@ -1,0 +1,23 @@
+{
+  "id": 1713,
+  "name": {
+    "zh_tw": "埃布爾雷弓",
+    "en": "Arbalest"
+  },
+  "icon_url": "/images/items/1713.gif",
+  "category": "武器",
+  "description": {
+    "official": "提昇HIT和傷害的弓。DEX+2",
+    "tw_official": ""
+  },
+  "attributes": {
+    "buy_price": 48000,
+    "sell_price": 24000,
+    "weight": 100
+  },
+  "script": "{ bonus bDex,2; },{},{}",
+  "dropped_by": [],
+  "obtained_from": [
+    "神祕箱子"
+  ]
+}
