@@ -45,7 +45,8 @@ const filterAndReset = () => {
         const matchesSize = activeSize.value === 'ALL' || monsterSize === activeSize.value;
         
         return matchesQuery && matchesRace && matchesElement && matchesSize;
-    });
+    })
+    .sort((a, b) => a.basic_info.level - b.basic_info.level);
 
     monstersToShow.value = [];
     loadMoreMonsters();
