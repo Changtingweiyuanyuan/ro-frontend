@@ -2092,7 +2092,7 @@
     "image_url": "/images/monsters/1023.gif",
     "basic_info": {
       "level": 52,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 1
@@ -11919,7 +11919,7 @@
     "image_url": "images/monsters/1122.gif",
     "basic_info": {
       "level": 57,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "風",
         "level": 1
@@ -12026,7 +12026,7 @@
     "image_url": "images/monsters/1123.gif",
     "basic_info": {
       "level": 52,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "火",
         "level": 1
@@ -12133,7 +12133,7 @@
     "image_url": "/images/monsters/1124.gif",
     "basic_info": {
       "level": 52,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "毒",
         "level": 1
@@ -12240,7 +12240,7 @@
     "image_url": "/images/monsters/1125.gif",
     "basic_info": {
       "level": 58,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 1
@@ -12347,7 +12347,7 @@
     "image_url": "/images/monsters/1126.gif",
     "basic_info": {
       "level": 67,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "水",
         "level": 1
@@ -15816,7 +15816,7 @@
     "image_url": "/images/monsters/1258.gif",
     "basic_info": {
       "level": 66,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "毒",
         "level": 1
@@ -16117,7 +16117,7 @@
     "image_url": "/images/monsters/1264.gif",
     "basic_info": {
       "level": 60,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "水",
         "level": 3
@@ -16446,7 +16446,7 @@
     "image_url": "/images/monsters/1273.gif",
     "basic_info": {
       "level": 54,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 2
@@ -16954,7 +16954,7 @@
     "image_url": "/images/monsters/1280.gif",
     "basic_info": {
       "level": 66,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "風",
         "level": 2
@@ -17051,7 +17051,7 @@
     "image_url": "/images/monsters/1299.gif",
     "basic_info": {
       "level": 66,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "風",
         "level": 1
@@ -17153,7 +17153,7 @@
     "image_url": "/images/monsters/1308.gif",
     "basic_info": {
       "level": 62,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "風",
         "level": 2
@@ -17250,7 +17250,7 @@
     "image_url": "/images/monsters/1313.gif",
     "basic_info": {
       "level": 58,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "無",
         "level": 1
@@ -18276,7 +18276,7 @@
     "image_url": "images/monsters/1498.gif",
     "basic_info": {
       "level": 87,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 1
@@ -18388,7 +18388,7 @@
     "image_url": "images/monsters/1499.gif",
     "basic_info": {
       "level": 87,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "火",
         "level": 2
@@ -18602,7 +18602,7 @@
     "image_url": "/images/monsters/1686.gif",
     "basic_info": {
       "level": 51,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 1
@@ -19234,7 +19234,7 @@
     "image_url": "images/monsters/2611.gif",
     "basic_info": {
       "level": 87,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "火",
         "level": 2
@@ -23021,7 +23021,7 @@
     "image_url": "images/monsters/2722.gif",
     "basic_info": {
       "level": 52,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 1
@@ -23118,7 +23118,7 @@
     "image_url": "/images/monsters/2725.gif",
     "basic_info": {
       "level": 54,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "地",
         "level": 2
@@ -23312,7 +23312,7 @@
     "image_url": "/images/monsters/2757.gif",
     "basic_info": {
       "level": 60,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "水",
         "level": 3
@@ -24561,7 +24561,7 @@
     "image_url": "/images/monsters/2813.gif",
     "basic_info": {
       "level": 57,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "風",
         "level": 1
@@ -24658,7 +24658,7 @@
     "image_url": "/images/monsters/2814.gif",
     "basic_info": {
       "level": 57,
-      "race": "人類",
+      "race": "人形",
       "element": {
         "type": "風",
         "level": 1
