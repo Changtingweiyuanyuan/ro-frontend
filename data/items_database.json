@@ -15203,7 +15203,7 @@
     "icon_url": "images/items/4115.gif",
     "category": "卡片",
     "description": {
-      "official": "用3%的幾率 給敵人的傷害中15%會吸收到HP裡。",
+      "official": "物理攻擊時，以一定機率5秒內每1秒恢復HP100。",
       "tw_official": ""
     },
     "attributes": {
