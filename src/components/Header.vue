@@ -3,10 +3,10 @@ const baseUrl = import.meta.env.BASE_URL
 
 const handleClick = (event) => {
 	gtag('config', 'G-7BFSQ0162D', {
-		page_path: '/',
+		page_path: baseUrl,
 	})
 
-	window.location.href = '/'
+	window.location.href = baseUrl
 }
 </script>
 
@@ -17,7 +17,7 @@ const handleClick = (event) => {
 				<img :src="`${baseUrl}link.gif`" />
 				<h1 class="text">RO 樂園查詢工具</h1>
 			</div>
-			<a href="/" class="link" @click.prevent="handleClick">
+			<a :href="`${baseUrl}`" class="link" @click.prevent="handleClick">
 				掉落物查詢
 			</a>
 		</div>
