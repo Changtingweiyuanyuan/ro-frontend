@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Runtime data
 node_modules
 dist
 dist-ssr
@@ -14,7 +15,10 @@ dist-ssr
 
 # Editor directories and files
 .vscode/*
-!.vscode/extensions.json
+# BUT, keep team-shared editor settings
+!/.vscode/extensions.json
+!/.vscode/settings.json
+
 .idea
 .DS_Store
 *.suo
@@ -22,3 +26,29 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# ----------------------------------------------------
+# --- RO Pokedex - Custom Rules for Public Repo ---
+# ----------------------------------------------------
+
+# 1. 忽略所有 Python 開發腳本和工具
+*.py
+/scripts/
+
+# 2. 忽略所有 CSV 來源資料
+*.csv
+
+# 3. 忽略所有原始資料、中間產物和報告
+/src/data/items/
+/src/data/monsters/
+/src/data/patches/
+# /src/data/released_monsters.json
+/src/data/unmatched_in_game_monsters.json
+# /src/data/required_item_list.json
+/validation_report.txt
+
+# 4. (最重要!) EXCEPTION: 不要忽略最終給網站使用的成品
+# These two files MUST be committed to the public repo.
+!/src/data/monsters_display_index.json
+!/public/data/items_database.json
+src/data/required_item_ids.json
