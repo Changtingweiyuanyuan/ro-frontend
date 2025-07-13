@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "gh-pages -d dist -r https://github.com/Changtingweiyuanyuan/twroz-drop",
+    "deploy": "gh-pages -d dist -r https://github.com/Changtingweiyuanyuan/twroz-drop -m 'ci: deployment completed 🚀'",
     "preview": "vite preview"
   },
   "dependencies": {
