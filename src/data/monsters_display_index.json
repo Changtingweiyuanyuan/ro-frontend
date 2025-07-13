@@ -4705,7 +4705,7 @@
     },
     "image_url": "/images/monsters/1055.gif",
     "basic_info": {
-      "level": "小25",
+      "level": 25,
       "race": "植物",
       "element": {
         "type": "地",
@@ -5048,7 +5048,7 @@
     },
     "image_url": "/images/monsters/1058.gif",
     "basic_info": {
-      "level": "小66",
+      "level": 66,
       "race": "昆蟲",
       "element": {
         "type": "火",
@@ -9136,7 +9136,7 @@
     },
     "image_url": "images/monsters/1088.gif",
     "basic_info": {
-      "level": "小15",
+      "level": 15,
       "race": "昆蟲",
       "element": {
         "type": "地",
@@ -12784,7 +12784,7 @@
     },
     "image_url": "images/monsters/1138.gif",
     "basic_info": {
-      "level": "小63",
+      "level": 63,
       "race": "惡魔",
       "element": {
         "type": "水",
@@ -18826,7 +18826,7 @@
     },
     "image_url": "/images/monsters/2398.gif",
     "basic_info": {
-      "level": "小1",
+      "level": 1,
       "race": "植物",
       "element": {
         "type": "水",
@@ -21562,7 +21562,7 @@
     },
     "image_url": "/images/monsters/2680.gif",
     "basic_info": {
-      "level": "小15",
+      "level": 15,
       "race": "昆蟲",
       "element": {
         "type": "地",
@@ -21756,7 +21756,7 @@
     },
     "image_url": "/images/monsters/2696.gif",
     "basic_info": {
-      "level": "小1",
+      "level": 1,
       "race": "植物",
       "element": {
         "type": "水",
@@ -21853,7 +21853,7 @@
     },
     "image_url": "/images/monsters/2697.gif",
     "basic_info": {
-      "level": "小1",
+      "level": 1,
       "race": "植物",
       "element": {
         "type": "水",
@@ -21950,7 +21950,7 @@
     },
     "image_url": "/images/monsters/2698.gif",
     "basic_info": {
-      "level": "小1",
+      "level": 1,
       "race": "植物",
       "element": {
         "type": "水",
@@ -23602,7 +23602,7 @@
     },
     "image_url": "/images/monsters/2768.gif",
     "basic_info": {
-      "level": "小63",
+      "level": 63,
       "race": "惡魔",
       "element": {
         "type": "水",
@@ -23699,7 +23699,7 @@
     },
     "image_url": "/images/monsters/2770.gif",
     "basic_info": {
-      "level": "小3",
+      "level": 3,
       "race": "動物",
       "element": {
         "type": "無",
@@ -27226,7 +27226,7 @@
     },
     "image_url": "/images/monsters/3423.gif",
     "basic_info": {
-      "level": "小18",
+      "level": 18,
       "race": "昆蟲",
       "element": {
         "type": "地",
