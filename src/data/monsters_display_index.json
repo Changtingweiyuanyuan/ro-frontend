@@ -9477,113 +9477,6 @@
     ]
   },
   {
-    "id": 1092,
-    "name": {
-      "zh_tw": "流浪之狼",
-      "en": "VAGABOND_WOLF"
-    },
-    "image_url": "images/monsters/1092.gif",
-    "basic_info": {
-      "level": 93,
-      "race": "動物",
-      "element": {
-        "type": "地",
-        "level": 1
-      },
-      "size": "中"
-    },
-    "stats": {
-      "hp": 8203,
-      "attack": {
-        "min": 580,
-        "max": 788
-      },
-      "magic_attack": {
-        "min": 154,
-        "max": 182
-      },
-      "defense": 102,
-      "magic_defense": 51,
-      "hit_100_percent": 359,
-      "flee_95_percent": 376,
-      "base_stats": {
-        "str": 72,
-        "agi": 63,
-        "vit": 55,
-        "int": 29,
-        "dex": 108,
-        "luk": 15
-      }
-    },
-    "spawns": [
-      {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "1x / 60~90 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "1x / 32~35 分鐘"
-      }
-    ],
-    "drops": [
-      {
-        "item_id": 626,
-        "name": "魔物飲料",
-        "rate": 0.25,
-        "icon_url": "images/items/626.gif"
-      },
-      {
-        "item_id": 728,
-        "name": "黃寶石",
-        "rate": 7.5,
-        "icon_url": "images/items/728.gif"
-      },
-      {
-        "item_id": 920,
-        "name": "狼指甲",
-        "rate": 40.0,
-        "icon_url": "images/items/920.gif"
-      },
-      {
-        "item_id": 1148,
-        "name": "星塵劍",
-        "rate": 0.5,
-        "icon_url": "images/items/1148.gif"
-      },
-      {
-        "item_id": 2248,
-        "name": "牛仔帽",
-        "rate": 1.0,
-        "icon_url": "images/items/2248.gif"
-      },
-      {
-        "item_id": 2521,
-        "name": "天使的溫氣",
-        "rate": 5.0,
-        "icon_url": "images/items/2521.gif"
-      },
-      {
-        "item_id": 4183,
-        "name": "流浪之狼卡片",
-        "rate": 0.01,
-        "icon_url": "images/items/4183.gif"
-      },
-      {
-        "item_id": 7938,
-        "name": "光粒",
-        "rate": 2.5,
-        "icon_url": "images/items/7938.gif"
-      }
-    ]
-  },
-  {
     "id": 1093,
     "name": {
       "zh_tw": "藍瘋兔",
@@ -12691,7 +12584,7 @@
       "size": "小"
     },
     "stats": {
-      "hp": 1984,
+      "hp": "5950-6050",
       "attack": {
         "min": 178,
         "max": 218
