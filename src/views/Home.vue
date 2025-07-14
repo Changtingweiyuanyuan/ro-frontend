@@ -41,8 +41,11 @@ const filterAndReset = () => {
           // 篩選邏輯不變
           const matchesQuery = !query ||
               monster.name.zh_tw.toLowerCase().includes(query) ||
+              
               monster.id.toString().includes(query) ||
-              monster.spawns.some((spawn: any) => spawn.description.toLowerCase().includes(query)) ||
+              monster.spawns.some((spawn: any) => 
+              spawn.description.toLowerCase().includes(query) || spawn.map_name.toLowerCase().includes(query)
+              ) ||
               (monster.drops && monster.drops.some((drop: any) => getCleanDropName(drop.name).includes(query)));
           
           const raceMap: { [key: string]: string } = { '無形': 'FORMLESS', '魚貝': 'AQUATIC', '龍': 'DRAGON', '動物': 'BEAST', '天使': 'ANGEL', '惡魔': 'DEMON', '昆蟲': 'INSECT', '植物': 'PLANT', '不死': 'UNDEAD', '人形': 'HUMANOID' };
