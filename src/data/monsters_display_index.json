@@ -40,19 +40,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild11",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "41x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild18",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "160x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -147,89 +142,44 @@
     },
     "spawns": [
       {
-        "map_name": "1@begi",
-        "description": "- 波利村 (新手副本)",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild00",
-        "description": "- 吉芬 區域",
-        "spawn_info": "34x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "20x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_fild01",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "38x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "25x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "16x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild01",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "42x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild06",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "32x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild08",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08a",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08b",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08c",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08d",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
-      },
-      {
-        "map_name": "sec_in02",
-        "description": "- 巴哈拉宮 內部",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "xmas_dun01",
-        "description": "- 玩具工廠 1樓 (倉庫)",
-        "spawn_info": "12x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -324,19 +274,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "mjolnir_09",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "34x / 5 秒"
+        "description": "妙勒尼山脈南邊山麓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild05",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "199x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -431,54 +376,34 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "20x / 5 秒"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "mjo_dun01",
-        "description": "- 妙勒尼 廢棄礦場 1層",
-        "spawn_info": "31x / 5 秒"
-      },
-      {
-        "map_name": "moc_pryd01",
-        "description": "- 金字塔 迷宮 1樓",
-        "spawn_info": "72x / 5 秒"
-      },
-      {
-        "map_name": "orcsdun01",
-        "description": "- 獸人地下洞窟 1層",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
-        "map_name": "pay_dun00",
-        "description": "- 斐揚 (殭屍洞) 地下1層",
-        "spawn_info": "15x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_sewb1",
-        "description": "- 普隆德拉 地下水道 1樓",
-        "spawn_info": "66x / 5 秒"
+        "description": "地下水道1樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "10x / 5 秒"
+        "description": "地下水道2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "20x / 5 秒"
+        "description": "地下水道3樓",
+        "spawn_info": "(普通)"
+      },
+      {
+        "map_name": "prt_sewb4",
+        "description": "地下水道4樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -574,68 +499,43 @@
     "spawns": [
       {
         "map_name": "gef_fild00",
-        "description": "- 吉芬 區域",
-        "spawn_info": "34x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild04",
-        "description": "- 吉芬 區域",
-        "spawn_info": "25x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "20x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild01",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "38x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "130x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild01",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "42x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild06",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "149x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild08",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "88x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08a",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "88x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08b",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "88x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08c",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "88x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08d",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "88x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -736,49 +636,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "134x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "20x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild08",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "66x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08a",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "66x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08b",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "66x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08c",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "66x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08d",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "66x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -874,18 +744,18 @@
     "spawns": [
       {
         "map_name": "moc_fild11",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "137x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild12",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "39x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild18",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "34x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -981,18 +851,18 @@
     "spawns": [
       {
         "map_name": "mjolnir_09",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "34x / 5 秒"
+        "description": "妙勒尼山脈南邊山麓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild01",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "181x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "25x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -1087,39 +957,24 @@
     },
     "spawns": [
       {
-        "map_name": "4@tower",
-        "description": "- 無限塔 (魔物終結塔) 4樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild00",
-        "description": "- 吉芬 區域",
-        "spawn_info": "160x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild04",
-        "description": "- 吉芬 區域",
-        "spawn_info": "25x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "20x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild07",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "46x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
-      },
-      {
-        "map_name": "un_bunker",
-        "description": "- 地下碉堡",
-        "spawn_info": ""
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -1215,28 +1070,23 @@
     "spawns": [
       {
         "map_name": "gef_fild01",
-        "description": "- 吉芬 區域",
-        "spawn_info": "112x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "gef_fild09",
-        "description": "- 吉芬 區域",
-        "spawn_info": "24x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild00",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "169x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild04",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "27x / 5 秒"
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "6x / 20 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -1320,18 +1170,8 @@
     "spawns": [
       {
         "map_name": "moc_fild03",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "164x / 5 秒"
-      },
-      {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -1433,28 +1273,23 @@
     "spawns": [
       {
         "map_name": "pay_fild02",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild08",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "148x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "12x / 20 秒"
+        "description": "地下水道2樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -1549,34 +1384,9 @@
     },
     "spawns": [
       {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "gef_dun01",
-        "description": "- 吉芬塔 地下密穴 2層",
-        "spawn_info": "25x / 5 秒"
-      },
-      {
         "map_name": "pay_dun00",
-        "description": "- 斐揚 (殭屍洞) 地下1層",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
-        "map_name": "pvp_n_8-4",
-        "description": "- PvP : 反十字 房間",
-        "spawn_info": "4x / 6~9 分鐘"
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "2x / 8 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "10x / 1 分鐘"
+        "description": "斐揚洞穴1樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -1671,29 +1481,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "moc_pryd02",
-        "description": "- 金字塔 迷宮 2樓",
-        "spawn_info": "31x / 5 秒"
-      },
-      {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "32x / 5 秒"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "20x / 5 秒"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "15x / 5 秒"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -1795,33 +1595,33 @@
     "spawns": [
       {
         "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "143x / 5 秒"
+        "description": "冷豔舞姬村",
+        "spawn_info": "(普通)"
+      },
+      {
+        "map_name": "gef_fild07",
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "23x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_06",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "30x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_fild07",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "26x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild02",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "1x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -1917,13 +1717,13 @@
     "spawns": [
       {
         "map_name": "moc_fild01",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "93x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild02",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "153x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -2012,24 +1812,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild04",
-        "description": "- 吉芬 區域",
-        "spawn_info": "125x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "3x / 5~7 分鐘"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "10x / 5~7 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
+      },
+      {
+        "map_name": "prt_fild06",
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -2124,24 +1924,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@orcs",
-        "description": "- 獸人地下洞穴 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild03",
-        "description": "- 吉芬 區域",
-        "spawn_info": "73x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "gef_fild10",
-        "description": "- 東邊 獸人村落",
-        "spawn_info": "179x / 5 秒"
+        "description": "獸人村",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -2237,18 +2027,18 @@
     "spawns": [
       {
         "map_name": "pay_fild02",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "140x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild08",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "31x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -2343,29 +2133,19 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "pay_fild02",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "142x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild08",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "31x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -2460,24 +2240,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "lou_dun02",
-        "description": "- 洛陽 古都王陵 2層 (內部)",
-        "spawn_info": "35x / 5 秒"
-      },
-      {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "40x / 5 秒"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "3x / 5 秒"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -2578,24 +2348,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "moc_pryd02",
-        "description": "- 金字塔 迷宮 2樓",
-        "spawn_info": "31x / 5 秒"
-      },
-      {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "53x / 5 秒"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "45x / 5 秒"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -2690,99 +2450,34 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "24x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "moc_pryd01",
-        "description": "- 金字塔 迷宮 1樓",
-        "spawn_info": "28x / 5 秒"
-      },
-      {
-        "map_name": "moc_pryd02",
-        "description": "- 金字塔 迷宮 2樓",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "mosk_dun01",
-        "description": "- 莫斯科比亞 森林",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "pay_dun00",
-        "description": "- 斐揚 (殭屍洞) 地下1層",
-        "spawn_info": "15x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "10x / 5 秒"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "141x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild02",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "40x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild03",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "38x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
-      },
-      {
-        "map_name": "prt_maze02",
-        "description": "- 迷藏森林2層(普隆德拉北部)",
-        "spawn_info": "32x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "52x / 5 秒"
-      },
-      {
-        "map_name": "sec_in02",
-        "description": "- 巴哈拉宮 內部",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "xmas_dun01",
-        "description": "- 玩具工廠 1樓 (倉庫)",
-        "spawn_info": "24x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -2877,29 +2572,24 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "24x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "154x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild09",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "25x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "157x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3001,13 +2691,8 @@
     "spawns": [
       {
         "map_name": "beach_dun3",
-        "description": "- 東邊 洞穴 馬吾",
-        "spawn_info": "50x / 5 秒"
-      },
-      {
-        "map_name": "tur_dun01",
-        "description": "- 烏龜島",
-        "spawn_info": "10x / 5 秒"
+        "description": "東邊洞穴馬吾",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -3084,7 +2769,7 @@
       "size": "小"
     },
     "stats": {
-      "hp": 2050,
+      "hp": "5750-5950",
       "attack": {
         "min": 275,
         "max": 367
@@ -3108,54 +2793,9 @@
     },
     "spawns": [
       {
-        "map_name": "4@tower",
-        "description": "- 無限塔 (魔物終結塔) 4樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "30x / 5 秒"
-      },
-      {
-        "map_name": "gef_dun02",
-        "description": "- 吉芬塔 地下密穴 3層",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "gl_chyard",
-        "description": "- 克雷斯特漢姆古城 地下公墓",
-        "spawn_info": "4x / 5 秒"
-      },
-      {
-        "map_name": "gl_prison",
-        "description": "- 克雷斯特漢姆 地下監獄1樓",
-        "spawn_info": "12x / 5 秒"
-      },
-      {
-        "map_name": "gl_prison1",
-        "description": "- 克雷斯特漢姆 地下監獄2樓",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
         "map_name": "mjolnir_12",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "43x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "1x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "30x / 5 秒"
-      },
-      {
-        "map_name": "prt_q",
-        "description": "- 被侵略的普隆德拉",
-        "spawn_info": ""
+        "description": "妙勒尼山脈北邊山麓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3250,64 +2890,19 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild06",
-        "description": "- 吉芬 區域",
-        "spawn_info": "36x / 5 秒"
-      },
-      {
-        "map_name": "gon_fild01",
-        "description": "- 昆崙原野",
-        "spawn_info": "12x / 5 秒"
-      },
-      {
-        "map_name": "in_sphinx5",
-        "description": "- 史芬克斯 密穴 5層",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "lou_dun01",
-        "description": "- 洛陽 古都王陵 1層",
-        "spawn_info": "11x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_03",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "140x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_04",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "43x / 5 秒"
-      },
-      {
-        "map_name": "mosk_fild02",
-        "description": "- 莫斯科比亞 原野",
-        "spawn_info": "56x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "3x / 2~3 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "pvp_n_8-1",
-        "description": "- PvP : 三明治 房間",
-        "spawn_info": "2x / 6~9 分鐘"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3396,24 +2991,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "cmd_fild06",
-        "description": "- 要塞都市 山特樂曼(西邊)",
-        "spawn_info": "165x / 5 秒"
+        "description": "山特樂曼西區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "2x / 5 秒"
+        "description": "山特樂曼東區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -3508,34 +3093,9 @@
     },
     "spawns": [
       {
-        "map_name": "4@tower",
-        "description": "- 無限塔 (魔物終結塔) 4樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild03",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "23x / 5 秒"
-      },
-      {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "140x / 5 秒"
-      },
-      {
-        "map_name": "orcsdun01",
-        "description": "- 獸人地下洞窟 1層",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "orcsdun02",
-        "description": "- 獸人地下洞窟 2層",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3630,14 +3190,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "40x / 5 秒"
+        "description": "海德洞穴3樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3733,8 +3288,8 @@
     "spawns": [
       {
         "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "40x / 5 秒"
+        "description": "海底洞穴4樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3824,23 +3379,23 @@
     "spawns": [
       {
         "map_name": "moc_fild01",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "31x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild02",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "11x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild07",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild12",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "45x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -3929,39 +3484,34 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "10x / 5 秒"
+        "description": "冷豔舞姬村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild05",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "42x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_sewb1",
-        "description": "- 普隆德拉 地下水道 1樓",
-        "spawn_info": "106x / 5 秒"
+        "description": "地下水道1樓",
+        "spawn_info": "(超多)"
       },
       {
         "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "20x / 5 秒"
+        "description": "地下水道2樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "10x / 5 秒"
+        "description": "地下水道3樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_sewb4",
-        "description": "- 普隆德拉 地下水道 4樓",
-        "spawn_info": "10x / 5 秒"
+        "description": "地下水道4樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -4057,13 +3607,23 @@
     "spawns": [
       {
         "map_name": "moc_fild07",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
+      },
+      {
+        "map_name": "moc_fild07",
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild12",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "65x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
+      },
+      {
+        "map_name": "moc_fild12",
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -4260,64 +3820,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "harboro2",
-        "description": "- 洛克里奇 地下水道",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "prt_fild05",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "42x / 5 秒"
-      },
-      {
         "map_name": "prt_sewb1",
-        "description": "- 普隆德拉 地下水道 1樓",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
-        "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "70x / 5 秒"
-      },
-      {
-        "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "prt_sewb4",
-        "description": "- 普隆德拉 地下水道 4樓",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "rockmi1",
-        "description": "- 洛克里奇礦山",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "rockrdg1",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "rockrdg2",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "un_bunker",
-        "description": "- 地下碉堡",
-        "spawn_info": ""
+        "description": "地下水道1樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -4519,24 +4024,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "10x / 5 秒"
+        "description": "地下水道2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "65x / 5 秒"
+        "description": "地下水道3樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "prt_sewb4",
-        "description": "- 普隆德拉 地下水道 4樓",
-        "spawn_info": "20x / 5 秒"
+        "description": "地下水道4樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -4631,19 +4131,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "65x / 5 秒"
+        "description": "地下水道3樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "prt_sewb4",
-        "description": "- 普隆德拉 地下水道 4樓",
-        "spawn_info": "70x / 5 秒"
+        "description": "地下水道4樓",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -4739,13 +4234,18 @@
     "spawns": [
       {
         "map_name": "moc_fild01",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "202x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild02",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "58x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
+      },
+      {
+        "map_name": "prt_fild09",
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -4840,24 +4340,14 @@
     },
     "spawns": [
       {
-        "map_name": "ayo_fild01",
-        "description": "- 哎喲泰雅 原野",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
         "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "20x / 5 秒"
+        "description": "冷豔舞姬村",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_06",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "70x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -4958,29 +4448,14 @@
     },
     "spawns": [
       {
-        "map_name": "ayo_fild01",
-        "description": "- 哎喲泰雅 原野",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
-        "map_name": "ayo_fild02",
-        "description": "- 哎喲泰雅 原野",
-        "spawn_info": "82x / 5 秒"
-      },
-      {
         "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "22x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild03",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "127x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "4x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -5082,23 +4557,18 @@
     "spawns": [
       {
         "map_name": "cmd_fild06",
-        "description": "- 要塞都市 山特樂曼(西邊)",
-        "spawn_info": "55x / 5 秒"
+        "description": "山特樂曼西區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild09",
-        "description": "- 要塞都市 山特樂曼(南邊)",
-        "spawn_info": "155x / 5 秒"
-      },
-      {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 5 秒"
+        "description": "山特樂曼南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild09",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "91x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -5199,44 +4669,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "ama_fild01",
-        "description": "- 櫻花城原野",
-        "spawn_info": "14x / 5 秒"
-      },
-      {
         "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "23x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_fild07",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "174x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
-      },
-      {
-        "map_name": "prt_maze02",
-        "description": "- 迷藏森林2層(普隆德拉北部)",
-        "spawn_info": "6x / 5 秒"
-      },
-      {
-        "map_name": "pvp_n_8-1",
-        "description": "- PvP : 三明治 房間",
-        "spawn_info": "2x / 6~9 分鐘"
-      },
-      {
-        "map_name": "sec_in02",
-        "description": "- 巴哈拉宮 內部",
-        "spawn_info": ""
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -5332,48 +4772,28 @@
     "spawns": [
       {
         "map_name": "gef_fild04",
-        "description": "- 吉芬 區域",
-        "spawn_info": "25x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild01",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "196x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
+      },
+      {
+        "map_name": "prt_fild02",
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild06",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "32x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild08",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08a",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08b",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08c",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_fild08d",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "110x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -5468,14 +4888,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "beach_dun3",
-        "description": "- 東邊 洞穴 馬吾",
-        "spawn_info": "30x / 5 秒"
+        "description": "東邊洞穴馬吾",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -5576,14 +4991,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "58x / 5 秒"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -5679,13 +5089,13 @@
     "spawns": [
       {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "20x / 5 秒"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "60x / 5 秒"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -5787,13 +5197,13 @@
     "spawns": [
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "15x / 5 秒"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "60x / 5 秒"
+        "description": "海德洞穴3樓",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -5888,89 +5298,59 @@
     },
     "spawns": [
       {
-        "map_name": "1@cash",
-        "description": "- 章魚洞穴",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "1@pump",
-        "description": "- 排水溝 一樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "ama_fild01",
-        "description": "- 櫻花城原野",
-        "spawn_info": "4x / 1~2 分鐘"
-      },
-      {
         "map_name": "beach_dun2",
-        "description": "- 北邊 洞穴 盧安達",
-        "spawn_info": "10x / 5 秒"
+        "description": "北邊洞穴盧安達",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "beach_dun3",
-        "description": "- 東邊 洞穴 馬吾",
-        "spawn_info": "30x / 5 秒"
-      },
-      {
-        "map_name": "bra_dun01",
-        "description": "- 巴西瀑布裡的洞穴入口",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
-        "map_name": "bra_dun02",
-        "description": "- 巴西瀑布裡的洞穴內部",
-        "spawn_info": "15x / 5 秒"
+        "description": "東邊洞穴馬吾",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "20x / 5 秒"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "30x / 5 秒"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "40x / 5 秒"
+        "description": "海德洞穴3樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "1x / 5~7 分鐘"
+        "description": "海底洞穴4樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "1x / 5~7 分鐘"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "1x / 5~6 分鐘"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "17x / 10~15 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "treasure01",
-        "description": "- 沉沒之船 1樓",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "失事輪1樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "treasure02",
-        "description": "- 沉沒之船 2樓",
-        "spawn_info": "18x / 5~7 分鐘"
+        "description": "失事輪2樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -6065,19 +5445,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "40x / 5 秒"
+        "description": "海底洞穴4樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "11x / 5 秒"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -6172,39 +5547,24 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "bra_dun01",
-        "description": "- 巴西瀑布裡的洞穴入口",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "bra_dun02",
-        "description": "- 巴西瀑布裡的洞穴內部",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "20x / 5 秒"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "50x / 5 秒"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "treasure01",
-        "description": "- 沉沒之船 1樓",
-        "spawn_info": "10x / 5 秒"
+        "description": "失事輪1樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "treasure02",
-        "description": "- 沉沒之船 2樓",
-        "spawn_info": "20x / 5 秒"
+        "description": "失事輪2樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -6299,19 +5659,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "treasure01",
-        "description": "- 沉沒之船 1樓",
-        "spawn_info": "56x / 5 秒"
+        "description": "失事輪1樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "treasure02",
-        "description": "- 沉沒之船 2樓",
-        "spawn_info": "40x / 5 秒"
+        "description": "失事輪2樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -6407,28 +5762,18 @@
     "spawns": [
       {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "27x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild04",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "24x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild07",
-        "description": "- 發樂斯 燈塔島",
-        "spawn_info": "34x / 5 秒"
-      },
-      {
-        "map_name": "hu_fild06",
-        "description": "- 毀葛原野",
-        "spawn_info": "35x / 5 秒"
-      },
-      {
-        "map_name": "mal_dun01",
-        "description": "- 星光珊瑚地帶 (綿綿島洞穴)",
-        "spawn_info": "10x / 5 秒"
+        "description": "發樂斯燈塔",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -6524,33 +5869,18 @@
     "spawns": [
       {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "27x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild04",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "24x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild07",
-        "description": "- 發樂斯 燈塔島",
-        "spawn_info": "34x / 5 秒"
-      },
-      {
-        "map_name": "hu_fild06",
-        "description": "- 毀葛原野",
-        "spawn_info": "87x / 5 秒"
-      },
-      {
-        "map_name": "jawaii",
-        "description": "- 蜜月島 爪哇咿",
-        "spawn_info": "2x / 70~110 分鐘"
-      },
-      {
-        "map_name": "mal_dun01",
-        "description": "- 星光珊瑚地帶 (綿綿島洞穴)",
-        "spawn_info": "10x / 5 秒"
+        "description": "發樂斯燈塔",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -6753,19 +6083,14 @@
     },
     "spawns": [
       {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "25x / 5 秒"
-      },
-      {
         "map_name": "mjolnir_06",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "100x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "15x / 5 秒"
+        "description": "地下水道3樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -6866,189 +6191,44 @@
     },
     "spawns": [
       {
-        "map_name": "ein_fild04",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "ein_fild06",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild07",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild08",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild09",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
         "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "15x / 3~5 分鐘"
-      },
-      {
-        "map_name": "gon_dun01",
-        "description": "- 昆崙洞 1層 (西王母神殿)",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "lhz_fild01",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "lhz_fild03",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "6x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "冷豔舞姬村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun00",
-        "description": "- 斐揚 (殭屍洞) 地下1層",
-        "spawn_info": "15x / 3~5 分鐘"
+        "description": "斐揚洞穴1樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "8x / 3~5 分鐘"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "15x / 3~5 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "ra_fild12",
-        "description": "- 拉赫 伊達曠野",
-        "spawn_info": "5x / 10 秒"
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "10x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "10x / 50 秒"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild02",
-        "description": "- 滬家森林",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "汶巴拉滬家森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "ve_fild01",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "ve_fild02",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "ve_fild03",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "yggdrasil01",
-        "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
-        "spawn_info": "15x / 1~2 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "15x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild02",
-        "description": "- 啟-海伊洛 別墅",
-        "spawn_info": "10x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild03",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "15x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild04",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "10x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild06",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "yuno_fild07",
-        "description": "- 爾邁斯 峽谷(深淵的峽谷)",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild08",
-        "description": "- 啟 海伊洛 學院",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild09",
-        "description": "- 秀發茲發德 警備隊 露營地",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild11",
-        "description": "- 朱諾 原野",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -7144,193 +6324,73 @@
     "spawns": [
       {
         "map_name": "cmd_fild01",
-        "description": "- 巴不其卡 森林",
-        "spawn_info": "6x / 30~45 分鐘"
-      },
-      {
-        "map_name": "gef_d01_i",
-        "description": "- 幻影: 吸血鬼幻影",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "gef_dun01",
-        "description": "- 吉芬塔 地下密穴 2層",
-        "spawn_info": "1x / 5~7 分鐘"
+        "description": "巴其卡森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild00",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 15~23 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "4x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "1x / 15~23 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild08",
-        "description": "- 吉芬 區域",
-        "spawn_info": "8x / 15~23 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild09",
-        "description": "- 吉芬 區域",
-        "spawn_info": "3x / 15~23 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild10",
-        "description": "- 東邊 獸人村落",
-        "spawn_info": "6x / 15~23 分鐘"
-      },
-      {
-        "map_name": "glast_01",
-        "description": "- 克雷斯特漢姆古城",
-        "spawn_info": "2x / 15~23 分鐘"
-      },
-      {
-        "map_name": "hu_fild04",
-        "description": "- 毀葛 原野",
-        "spawn_info": "6x / 2~12 分鐘"
-      },
-      {
-        "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "5x / 6~9 分鐘"
-      },
-      {
-        "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "6x / 6~9 分鐘"
-      },
-      {
-        "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "9x / 6~9 分鐘"
-      },
-      {
-        "map_name": "mjolnir_06",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 6~9 分鐘"
-      },
-      {
-        "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 6~9 分鐘"
-      },
-      {
-        "map_name": "mjolnir_08",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 6~9 分鐘"
-      },
-      {
-        "map_name": "mjolnir_11",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 6~9 分鐘"
+        "description": "獸人村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild17",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "1x / 3~5 分鐘"
-      },
-      {
-        "map_name": "odin_tem01",
-        "description": "- 奧丁神殿 1層",
-        "spawn_info": "7x / 10~15 分鐘"
-      },
-      {
-        "map_name": "odin_tem02",
-        "description": "- 奧丁神殿 2層",
-        "spawn_info": "13x / 30~45 分鐘"
-      },
-      {
-        "map_name": "odin_tem03",
-        "description": "- 奧丁神殿 3層",
-        "spawn_info": "18x / 30~45 分鐘"
-      },
-      {
-        "map_name": "pay_d03_i",
-        "description": "- 幻影: 月夜貓的噩咪",
-        "spawn_info": ""
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "1x / 10~15 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild10",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "3x / 6~9 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild01",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 15~23 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild03",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 15~23 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild05",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 15~23 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "3x / 30~45 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "5x / 30~45 分鐘"
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "10x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "10x / 50 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "ve_fild01",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "4x / 14 分鐘"
-      },
-      {
-        "map_name": "ve_fild04",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "3x / 11 分鐘"
-      },
-      {
-        "map_name": "yggdrasil01",
-        "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
-        "spawn_info": "10x / 20~30 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "2x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild03",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "4x / 30~45 分鐘"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -7425,314 +6485,144 @@
     },
     "spawns": [
       {
-        "map_name": "ayo_fild01",
-        "description": "- 哎喲泰雅 原野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
         "map_name": "cmd_fild01",
-        "description": "- 巴不其卡 森林",
-        "spawn_info": "5x / 30~45 分鐘"
-      },
-      {
-        "map_name": "ein_fild03",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "15x / 1~2 分鐘"
-      },
-      {
-        "map_name": "ein_fild04",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "1x / 5~8 分鐘"
+        "description": "巴其卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild00",
-        "description": "- 吉芬 區域",
-        "spawn_info": "6x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild01",
-        "description": "- 吉芬 區域",
-        "spawn_info": "5x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "8x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild03",
-        "description": "- 吉芬 區域",
-        "spawn_info": "21x / 3~5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild04",
-        "description": "- 吉芬 區域",
-        "spawn_info": "6x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "6x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild10",
-        "description": "- 東邊 獸人村落",
-        "spawn_info": "3x / 6~9 分鐘"
-      },
-      {
-        "map_name": "glast_01",
-        "description": "- 克雷斯特漢姆古城",
-        "spawn_info": "8x / 5 秒"
-      },
-      {
-        "map_name": "gon_fild01",
-        "description": "- 昆崙原野",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "hu_fild06",
-        "description": "- 毀葛原野",
-        "spawn_info": "10x / 10 分鐘"
-      },
-      {
-        "map_name": "lhz_fild01",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "lhz_fild02",
-        "description": "- 裡希塔樂鎮 原野(死神的峽谷)",
-        "spawn_info": "15x / 1~2 分鐘"
-      },
-      {
-        "map_name": "lhz_fild03",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "23x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_03",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "13x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_04",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "17x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "7x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_08",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "6x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_10",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mjolnir_11",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "11x / 3~5 分鐘"
+        "description": "獸人村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild02",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "7x / 3~5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild03",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "14x / 3~5 分鐘"
-      },
-      {
-        "map_name": "odin_tem01",
-        "description": "- 奧丁神殿 1層",
-        "spawn_info": "7x / 1~2 分鐘"
-      },
-      {
-        "map_name": "pay_d03_i",
-        "description": "- 幻影: 月夜貓的噩咪",
-        "spawn_info": "1x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "1x / 10~15 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild01",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild02",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "4x / 6~9 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "4x / 3~5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "5x / 6~9 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "10x / 6~9 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild07",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "8x / 15~23 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild08",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "10x / 1~2 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild09",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "10x / 6~9 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild10",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "15x / 6~9 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild00",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "5x / 6~9 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild01",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 6~9 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild03",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild04",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "5x / 15~23 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild05",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "6x / 15~23 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild06",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "15x / 15~23 分鐘"
-      },
-      {
-        "map_name": "rockrdg1",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "rockrdg2",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "10x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "10x / 50 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yggdrasil01",
-        "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
-        "spawn_info": "26x / 1~2 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "20x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild02",
-        "description": "- 啟-海伊洛 別墅",
-        "spawn_info": "10x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild03",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "15x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild04",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "10x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild06",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "yuno_fild07",
-        "description": "- 爾邁斯 峽谷(深淵的峽谷)",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild08",
-        "description": "- 啟 海伊洛 學院",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild09",
-        "description": "- 秀發茲發德 警備隊 露營地",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild11",
-        "description": "- 朱諾 原野",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -7827,274 +6717,69 @@
     },
     "spawns": [
       {
-        "map_name": "ayo_fild02",
-        "description": "- 哎喲泰雅 原野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
         "map_name": "cmd_fild06",
-        "description": "- 要塞都市 山特樂曼(西邊)",
-        "spawn_info": "5x / 30~45 分鐘"
+        "description": "山特樂曼西區",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "8x / 30~45 分鐘"
-      },
-      {
-        "map_name": "ein_fild03",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "15x / 1~2 分鐘"
-      },
-      {
-        "map_name": "ein_fild04",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "ein_fild06",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild07",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild08",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild09",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "10x / 2~3 分鐘"
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "1x / 5~8 分鐘"
-      },
-      {
-        "map_name": "gon_dun01",
-        "description": "- 昆崙洞 1層 (西王母神殿)",
-        "spawn_info": "11x / 5 秒"
-      },
-      {
-        "map_name": "gon_dun02",
-        "description": "- 昆崙洞 2層 (神仙的圍棋臺)",
-        "spawn_info": "13x / 5 秒"
-      },
-      {
-        "map_name": "hu_fild04",
-        "description": "- 毀葛 原野",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "hu_fild06",
-        "description": "- 毀葛原野",
-        "spawn_info": "10x / 10 分鐘"
-      },
-      {
-        "map_name": "lhz_fild01",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "10x / 1~2 分鐘"
-      },
-      {
-        "map_name": "lhz_fild02",
-        "description": "- 裡希塔樂鎮 原野(死神的峽谷)",
-        "spawn_info": "15x / 1~2 分鐘"
-      },
-      {
-        "map_name": "lou_fild01",
-        "description": "- 龍之城 原野",
-        "spawn_info": "10x / 10 秒"
+        "description": "山特樂曼東區",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild01",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "10x / 15~23 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild02",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "7x / 3~5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild07",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "5x / 6~9 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild12",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 3~5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild17",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "6x / 3~5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild18",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "8x / 3~5 分鐘"
-      },
-      {
-        "map_name": "mosk_dun03",
-        "description": "- 莫斯科比亞 深淵森林",
-        "spawn_info": "11x / 5 秒"
-      },
-      {
-        "map_name": "mosk_fild02",
-        "description": "- 莫斯科比亞 原野",
-        "spawn_info": "5x / 10 秒"
-      },
-      {
-        "map_name": "odin_tem01",
-        "description": "- 奧丁神殿 1層",
-        "spawn_info": "7x / 1~2 分鐘"
-      },
-      {
-        "map_name": "pay_d03_i",
-        "description": "- 幻影: 月夜貓的噩咪",
-        "spawn_info": "1x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "1x / 10~15 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild09",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 6~9 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "2x / 30~45 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "ra_fild12",
-        "description": "- 拉赫 伊達曠野",
-        "spawn_info": "15x / 10 秒"
-      },
-      {
-        "map_name": "rockrdg1",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "rockrdg2",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "10x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "10x / 50 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild02",
-        "description": "- 滬家森林",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "汶巴拉滬家森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "ve_fild01",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "ve_fild02",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "ve_fild03",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "ve_fild04",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "yggdrasil01",
-        "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
-        "spawn_info": "5x / 20~30 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "23x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild02",
-        "description": "- 啟-海伊洛 別墅",
-        "spawn_info": "10x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild03",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "15x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild04",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "10x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild06",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "10x / 10 秒"
-      },
-      {
-        "map_name": "yuno_fild07",
-        "description": "- 爾邁斯 峽谷(深淵的峽谷)",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild08",
-        "description": "- 啟 海伊洛 學院",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild09",
-        "description": "- 秀發茲發德 警備隊 露營地",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "yuno_fild11",
-        "description": "- 朱諾 原野",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -8189,104 +6874,19 @@
     },
     "spawns": [
       {
-        "map_name": "gef_d01_i",
-        "description": "- 幻影: 吸血鬼幻影",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "gef_dun01",
-        "description": "- 吉芬塔 地下密穴 2層",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "gef_dun02",
-        "description": "- 吉芬塔 地下密穴 3層",
-        "spawn_info": "12x / 3~5 分鐘"
-      },
-      {
-        "map_name": "gef_dun03",
-        "description": "- 吉芬塔 地下密穴 4層",
-        "spawn_info": "18x / 3~5 分鐘"
-      },
-      {
-        "map_name": "gon_dun01",
-        "description": "- 昆崙洞 1層 (西王母神殿)",
-        "spawn_info": "11x / 5 秒"
-      },
-      {
-        "map_name": "gon_dun03",
-        "description": "- 昆崙洞 3層 (武陵道院)",
-        "spawn_info": "13x / 5 秒"
-      },
-      {
-        "map_name": "mosk_dun03",
-        "description": "- 莫斯科比亞 深淵森林",
-        "spawn_info": "11x / 5 秒"
-      },
-      {
-        "map_name": "mosk_fild02",
-        "description": "- 莫斯科比亞 原野",
-        "spawn_info": "5x / 10 秒"
-      },
-      {
-        "map_name": "orcsdun01",
-        "description": "- 獸人地下洞窟 1層",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "orcsdun02",
-        "description": "- 獸人地下洞窟 2層",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "pay_d03_i",
-        "description": "- 幻影: 月夜貓的噩咪",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "6x / 3~5 分鐘"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "6x / 3~5 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "3x / 30~45 分鐘"
-      },
-      {
-        "map_name": "rockrdg2",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "10x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "10x / 50 秒"
-      },
-      {
-        "map_name": "ve_fild07",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "10x / 10 分鐘"
-      },
-      {
-        "map_name": "yggdrasil01",
-        "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
-        "spawn_info": "5x / 20~30 分鐘"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -8381,194 +6981,79 @@
     },
     "spawns": [
       {
-        "map_name": "1@md_gef",
-        "description": "- 周五副本",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "1@md_gef(hard)",
-        "description": "- 周五副本 - 噩咪模式",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "bra_dun02",
-        "description": "- 巴西瀑布裡的洞穴內部",
-        "spawn_info": "2x / 5 秒"
-      },
-      {
         "map_name": "cmd_fild01",
-        "description": "- 巴不其卡 森林",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "巴其卡森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "cmd_fild03",
-        "description": "- 基乃依 沼澤地",
-        "spawn_info": "3x / 30~45 分鐘"
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "1x / 50~75 分鐘"
-      },
-      {
-        "map_name": "gef_dun02",
-        "description": "- 吉芬塔 地下密穴 3層",
-        "spawn_info": "2x / 30~45 分鐘"
-      },
-      {
-        "map_name": "gef_dun03",
-        "description": "- 吉芬塔 地下密穴 4層",
-        "spawn_info": "5x / 30~45 分鐘"
+        "description": "基乃依沼澤地",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild06",
-        "description": "- 吉芬 區域",
-        "spawn_info": "4x / 30~45 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "glast_01",
-        "description": "- 克雷斯特漢姆古城",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "gon_fild01",
-        "description": "- 昆崙原野",
-        "spawn_info": "1x / 5 秒"
-      },
-      {
-        "map_name": "lou_dun01",
-        "description": "- 洛陽 古都王陵 1層",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 30~45 分鐘"
-      },
-      {
-        "map_name": "mjolnir_03",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 30~45 分鐘"
-      },
-      {
-        "map_name": "mjolnir_04",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "3x / 30~45 分鐘"
-      },
-      {
-        "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "mjolnir_10",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "mosk_dun03",
-        "description": "- 莫斯科比亞 深淵森林",
-        "spawn_info": "5x / 10 秒"
-      },
-      {
-        "map_name": "odin_tem03",
-        "description": "- 奧丁神殿 3層",
-        "spawn_info": "18x / 30~45 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "2x / 30~45 分鐘"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild08",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "1x / 60~90 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild09",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild00",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild02",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 30~45 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "2x / 30~45 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "5x / 30~45 分鐘"
-      },
-      {
-        "map_name": "rockrdg2",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "2x / 3~5 分鐘"
-      },
-      {
-        "map_name": "ve_fild01",
-        "description": "- 伯仁斯 曠野",
-        "spawn_info": "1x / 16 分鐘"
-      },
-      {
-        "map_name": "yggdrasil01",
-        "description": "- 禾貝勒開米勒之泉(天地樹樹幹)",
-        "spawn_info": "10x / 20~30 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "3x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild03",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "1x / 30~45 分鐘"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -8663,119 +7148,34 @@
     },
     "spawns": [
       {
-        "map_name": "bra_dun01",
-        "description": "- 巴西瀑布裡的洞穴入口",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "bra_dun02",
-        "description": "- 巴西瀑布裡的洞穴內部",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "gef_dun00",
-        "description": "- 吉芬塔 地下密穴 1層",
-        "spawn_info": "6x / 3~5 分鐘"
-      },
-      {
-        "map_name": "gef_dun01",
-        "description": "- 吉芬塔 地下密穴 2層",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "gl_knt01",
-        "description": "- 克雷斯特漢姆 騎士團1樓",
-        "spawn_info": "12x / 60~90 分鐘"
-      },
-      {
-        "map_name": "harboro2",
-        "description": "- 洛克里奇 地下水道",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "6x / 3~5 分鐘"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "10x / 3~5 分鐘"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "15x / 3~5 分鐘"
-      },
-      {
-        "map_name": "jawaii_in",
-        "description": "- 爪哇咿 內部",
-        "spawn_info": "2x / 50~70 分鐘"
-      },
-      {
-        "map_name": "lou_dun01",
-        "description": "- 洛陽 古都王陵 1層",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "orcsdun01",
-        "description": "- 獸人地下洞窟 1層",
-        "spawn_info": "10x / 15~23 分鐘"
-      },
-      {
-        "map_name": "orcsdun02",
-        "description": "- 獸人地下洞窟 2層",
-        "spawn_info": "5x / 3~5 分鐘"
+        "description": "海德洞穴3樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun00",
-        "description": "- 斐揚 (殭屍洞) 地下1層",
-        "spawn_info": "3x / 6~9 分鐘"
+        "description": "斐揚洞穴1樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "7x / 15~23 分鐘"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "1x / 10~15 分鐘"
-      },
-      {
-        "map_name": "prt_fild07",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 6~9 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "6x / 3~5 分鐘"
-      },
-      {
-        "map_name": "rockrdg1",
-        "description": "- 洛克里奇 契瓦瓦沙漠",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "40x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "20x / 50 秒"
-      },
-      {
-        "map_name": "un_bunker",
-        "description": "- 地下碉堡",
-        "spawn_info": ""
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -8870,109 +7270,54 @@
     },
     "spawns": [
       {
-        "map_name": "bra_fild01",
-        "description": "- 巴西平原",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "ein_fild07",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "12x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild08",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "13x / 2~3 分鐘"
-      },
-      {
-        "map_name": "ein_fild09",
-        "description": "- 艾音布羅克 原野",
-        "spawn_info": "13x / 2~3 分鐘"
-      },
-      {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "6x / 6~9 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild09",
-        "description": "- 吉芬 區域",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "jawaii_in",
-        "description": "- 爪哇咿 內部",
-        "spawn_info": "1x / 50~70 分鐘"
-      },
-      {
-        "map_name": "lhz_in01",
-        "description": "- 雷根貝勒總部",
-        "spawn_info": "1x / 2~4 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "mjolnir_06",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "8x / 3~5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 3~5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "mjolnir_09",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "11x / 3~5 分鐘"
-      },
-      {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "13x / 3~5 分鐘"
+        "description": "妙勒尼山脈南邊山麓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild02",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "4x / 6~9 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "6x / 15~23 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "8x / 3~5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "16x / 6~9 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "10x / 3~5 分鐘"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "5x / 3~5 分鐘"
-      },
-      {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "40x / 50 秒"
-      },
-      {
-        "map_name": "treasure_n2",
-        "description": "- 依斯魯得島 遇難船 2樓",
-        "spawn_info": "20x / 50 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -9067,24 +7412,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "prt_fild04",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 30~50 分鐘"
-      },
-      {
         "map_name": "prt_fild07",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 30~50 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "1x / 32~57 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -9192,13 +7522,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild03",
-        "description": "- 基乃依 沼澤地",
-        "spawn_info": "1x / 60~90 分鐘"
-      },
-      {
-        "map_name": "gef_fild01",
-        "description": "- 吉芬 區域",
-        "spawn_info": "1x / 60~90 分鐘"
+        "description": "基乃依沼澤地",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -9293,34 +7618,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "1x / 60~90 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "1x / 32~35 分鐘"
-      },
-      {
-        "map_name": "xmas_dun01",
-        "description": "- 玩具工廠 1樓 (倉庫)",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "yuno_fild04",
-        "description": "- 爾邁斯 瀑雷德",
-        "spawn_info": "1x / 60~90 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -9415,14 +7715,9 @@
     },
     "spawns": [
       {
-        "map_name": "4@tower",
-        "description": "- 無限塔 (魔物終結塔) 4樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild18",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "1x / 60~90 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -9518,13 +7813,8 @@
     "spawns": [
       {
         "map_name": "prt_fild02",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 30~50 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "1x / 32~35 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -9620,18 +7910,18 @@
     "spawns": [
       {
         "map_name": "gef_fild01",
-        "description": "- 吉芬 區域",
-        "spawn_info": "28x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild00",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "65x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild04",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "111x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -9726,29 +8016,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "15x / 5 秒"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "50x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "62x / 5 秒"
+        "description": "山特樂曼東區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild09",
-        "description": "- 要塞都市 山特樂曼(南邊)",
-        "spawn_info": "16x / 5 秒"
+        "description": "山特樂曼南區",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -9849,29 +8134,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "87x / 1~2 分鐘"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "15x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "37x / 5 秒"
+        "description": "山特樂曼東區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild09",
-        "description": "- 要塞都市 山特樂曼(南邊)",
-        "spawn_info": "10x / 5 秒"
+        "description": "山特樂曼南區",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -9960,39 +8240,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "dew_fild01",
-        "description": "- 德瓦他曠野 賈提族部落",
-        "spawn_info": "75x / 5 秒"
-      },
-      {
         "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "166x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_11",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "170x / 5 秒"
-      },
-      {
-        "map_name": "mosk_fild02",
-        "description": "- 莫斯科比亞 原野",
-        "spawn_info": "42x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "3x / 2~3 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -10087,34 +8342,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "mjolnir_10",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "194x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_11",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "45x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild03",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "23x / 5 秒"
-      },
-      {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "3x / 2~3 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -10216,18 +8456,13 @@
     "spawns": [
       {
         "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "167x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_fild07",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -10334,34 +8569,24 @@
     },
     "spawns": [
       {
-        "map_name": "ayo_fild01",
-        "description": "- 哎喲泰雅 原野",
-        "spawn_info": "40x / 5 秒"
-      },
-      {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "172x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "gef_fild09",
-        "description": "- 吉芬 區域",
-        "spawn_info": "98x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_fild09",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "38x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -10456,29 +8681,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "40x / 5 秒"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "15x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "62x / 5 秒"
+        "description": "山特樂曼東區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild09",
-        "description": "- 要塞都市 山特樂曼(南邊)",
-        "spawn_info": "16x / 5 秒"
+        "description": "山特樂曼南區",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -10579,39 +8799,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild11",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "137x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
+      },
+      {
+        "map_name": "moc_fild12",
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "moc_fild18",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "34x / 5 秒"
-      },
-      {
-        "map_name": "ra_fild01",
-        "description": "- 拉赫 奧頓拉草原",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "ra_fild08",
-        "description": "- 拉赫 伊達平原",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
-        "map_name": "ra_fild12",
-        "description": "- 拉赫 伊達曠野",
-        "spawn_info": "24x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -10700,14 +8900,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "3x / 5 秒"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -10802,14 +8997,9 @@
     },
     "spawns": [
       {
-        "map_name": "bra_fild01",
-        "description": "- 巴西平原",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "40x / 5 秒"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -10898,74 +9088,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "alde_dun01",
-        "description": "- 艾爾帕蘭 鐘塔地下樓層 1樓",
-        "spawn_info": "47x / 5 秒"
-      },
-      {
-        "map_name": "alde_dun03",
-        "description": "- 艾爾帕蘭 鐘塔地下樓層 3樓",
-        "spawn_info": "55x / 5 秒"
-      },
-      {
-        "map_name": "gef_dun01",
-        "description": "- 吉芬塔 地下密穴 2層",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "gl_sew04",
-        "description": "- 克雷斯特漢姆 地下水道 4樓",
-        "spawn_info": "12x / 5 秒"
-      },
-      {
-        "map_name": "in_sphinx1",
-        "description": "- 史芬克斯 密穴 1層",
-        "spawn_info": "76x / 5 秒"
-      },
-      {
-        "map_name": "in_sphinx2",
-        "description": "- 史芬克斯 密穴 2層",
-        "spawn_info": "24x / 5 秒"
-      },
-      {
-        "map_name": "mjo_dun02",
-        "description": "- 妙勒尼 廢棄礦場 2層",
-        "spawn_info": "23x / 5 秒"
-      },
-      {
-        "map_name": "moc_pryd02",
-        "description": "- 金字塔 迷宮 2樓",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "moc_pryd03",
-        "description": "- 金字塔 迷宮 3樓",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "orcsdun01",
-        "description": "- 獸人地下洞窟 1層",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "orcsdun02",
-        "description": "- 獸人地下洞窟 2層",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "prt_sewb4",
-        "description": "- 普隆德拉 地下水道 4樓",
-        "spawn_info": "20x / 5 秒"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -11066,39 +9191,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild07",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "214x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild12",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "39x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "21x / 5 秒"
-      },
-      {
-        "map_name": "sec_in02",
-        "description": "- 巴哈拉宮 內部",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "xmas_dun01",
-        "description": "- 玩具工廠 1樓 (倉庫)",
-        "spawn_info": "12x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -11169,7 +9274,7 @@
       "size": "小"
     },
     "stats": {
-      "hp": 2026,
+      "hp": "9300-9400",
       "attack": {
         "min": 240,
         "max": 308
@@ -11194,18 +9299,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_12",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "162x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "52x / 5 秒"
+        "description": "妙勒尼山脈北邊山麓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -11295,8 +9390,8 @@
     "spawns": [
       {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "16x / 5 秒"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -11391,49 +9486,39 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "cmd_fild01",
-        "description": "- 巴不其卡 森林",
-        "spawn_info": "67x / 5 秒"
+        "description": "巴其卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild03",
-        "description": "- 基乃依 沼澤地",
-        "spawn_info": "64x / 5 秒"
+        "description": "基乃依沼澤地",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "gef_fild08",
-        "description": "- 吉芬 區域",
-        "spawn_info": "37x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "34x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_08",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "36x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_10",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "41x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_11",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "45x / 5 秒"
-      },
-      {
-        "map_name": "sec_in02",
-        "description": "- 巴哈拉宮 內部",
-        "spawn_info": ""
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -11529,13 +9614,13 @@
     "spawns": [
       {
         "map_name": "moc_fild16",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "10x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild17",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "13x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -11630,24 +9715,9 @@
     },
     "spawns": [
       {
-        "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "1x / 5 秒"
-      },
-      {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "3x / 5 秒"
-      },
-      {
-        "map_name": "mjo_dun02",
-        "description": "- 妙勒尼 廢棄礦場 2層",
-        "spawn_info": "41x / 5 秒"
-      },
-      {
-        "map_name": "mjo_dun03",
-        "description": "- 妙勒尼 廢棄礦場 3層",
-        "spawn_info": "5x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -11742,19 +9812,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild11",
-        "description": "- 吉芬 區域",
-        "spawn_info": "58x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "10x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -11849,19 +9914,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild11",
-        "description": "- 吉芬 區域",
-        "spawn_info": "58x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "10x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -11956,19 +10016,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild11",
-        "description": "- 吉芬 區域",
-        "spawn_info": "58x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "10x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -12063,19 +10118,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild11",
-        "description": "- 吉芬 區域",
-        "spawn_info": "58x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "10x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -12170,14 +10220,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "60x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -12272,19 +10317,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild16",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "30x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "moc_fild17",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "170x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -12380,33 +10420,28 @@
     "spawns": [
       {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "24x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "33x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild09",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "181x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild03",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "38x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "22x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -12501,19 +10536,9 @@
     },
     "spawns": [
       {
-        "map_name": "ama_dun02",
-        "description": "- 櫻花城迷宮2層 (地下森林戰場)",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "lou_dun01",
-        "description": "- 洛陽 古都王陵 1層",
-        "spawn_info": "17x / 5 秒"
-      },
-      {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -12608,14 +10633,9 @@
     },
     "spawns": [
       {
-        "map_name": "moc_fild13",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
         "map_name": "prt_fild09",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "212x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -12716,74 +10736,34 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild06",
-        "description": "- 吉芬 區域",
-        "spawn_info": "36x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "gef_fild08",
-        "description": "- 吉芬 區域",
-        "spawn_info": "37x / 5 秒"
-      },
-      {
-        "map_name": "lou_fild01",
-        "description": "- 龍之城 原野",
-        "spawn_info": "28x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_03",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "37x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_04",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "43x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "44x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_12",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "43x / 5 秒"
-      },
-      {
-        "map_name": "mosk_dun01",
-        "description": "- 莫斯科比亞 森林",
-        "spawn_info": "11x / 5 秒"
-      },
-      {
-        "map_name": "mosk_fild02",
-        "description": "- 莫斯科比亞 原野",
-        "spawn_info": "14x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "3x / 2~3 分鐘"
-      },
-      {
-        "map_name": "prt_maze03",
-        "description": "- 迷藏森林3層(普隆德拉北部)",
-        "spawn_info": "30x / 1~2 分鐘"
-      },
-      {
-        "map_name": "yuno_fild01",
-        "description": "- 國界 檢查站",
-        "spawn_info": "52x / 5 秒"
-      },
-      {
-        "map_name": "yuno_fild12",
-        "description": "- 國界 檢查站",
-        "spawn_info": "34x / 5 秒"
+        "description": "妙勒尼山脈北邊山麓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -12878,24 +10858,14 @@
     },
     "spawns": [
       {
-        "map_name": "bra_dun01",
-        "description": "- 巴西瀑布裡的洞穴入口",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "bra_dun02",
-        "description": "- 巴西瀑布裡的洞穴內部",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "61x / 5 秒"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "15x / 5 秒"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -12985,13 +10955,13 @@
     "spawns": [
       {
         "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "20x / 5 秒"
+        "description": "海底洞穴4樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "11x / 5 秒"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -13074,14 +11044,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "40x / 5 秒"
+        "description": "海德洞穴3樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -13294,19 +11259,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "beach_dun",
-        "description": "- 西邊 洞穴 加露",
-        "spawn_info": "60x / 5 秒"
+        "description": "西邊洞穴加露",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -13401,19 +11356,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "4@tower",
-        "description": "- 無限塔 (魔物終結塔) 4樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild06",
-        "description": "- 吉芬 區域",
-        "spawn_info": "158x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -13502,19 +11447,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild08",
-        "description": "- 吉芬 區域",
-        "spawn_info": "163x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -13603,19 +11538,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "45x / 5 秒"
-      },
-      {
-        "map_name": "jawaii",
-        "description": "- 蜜月島 爪哇咿",
-        "spawn_info": "3x / 60~90 分鐘"
+        "description": "海底洞穴4樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -13710,29 +11635,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "50x / 5 秒"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "15x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "62x / 5 秒"
+        "description": "山特樂曼東區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild09",
-        "description": "- 要塞都市 山特樂曼(南邊)",
-        "spawn_info": "16x / 5 秒"
+        "description": "山特樂曼南區",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -13839,29 +11759,14 @@
     },
     "spawns": [
       {
-        "map_name": "bra_dun01",
-        "description": "- 巴西瀑布裡的洞穴入口",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "bra_dun02",
-        "description": "- 巴西瀑布裡的洞穴內部",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "88x / 5 秒"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "10x / 5 秒"
-      },
-      {
-        "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "5x / 5 秒"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -13956,19 +11861,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild16",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "130x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "moc_fild17",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "39x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -14063,34 +11963,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@face",
-        "description": "- 人面蟲洞穴",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "bra_fild01",
-        "description": "- 巴西平原",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
         "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "161x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_08",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "36x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(少)"
+      },
+      {
+        "map_name": "mjolnir_09",
+        "description": "妙勒尼山脈南邊山麓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild10",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "64x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "8x / 2~3 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -14191,24 +12081,19 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "mjolnir_09",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "159x / 5 秒"
+        "description": "妙勒尼山脈南邊山麓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild00",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "26x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "prt_fild07",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "67x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -14304,8 +12189,8 @@
     "spawns": [
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "70x / 5 秒"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -14401,28 +12286,23 @@
     "spawns": [
       {
         "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "20x / 5 秒"
+        "description": "冷豔舞姬村",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "23x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild07",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "26x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_fild02",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "188x / 5 秒"
-      },
-      {
-        "map_name": "prt_maze01",
-        "description": "- 迷藏森林1層(普隆德拉北部)",
-        "spawn_info": "5x / 2~3 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -14523,34 +12403,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "einbech",
-        "description": "- 采礦村落 艾音貝赫",
-        "spawn_info": "5x / 30~55 分鐘"
-      },
-      {
-        "map_name": "mjo_dun01",
-        "description": "- 妙勒尼 廢棄礦場 1層",
-        "spawn_info": "63x / 5 秒"
-      },
-      {
         "map_name": "prt_sewb1",
-        "description": "- 普隆德拉 地下水道 1樓",
-        "spawn_info": "13x / 5 秒"
+        "description": "地下水道1樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "60x / 5 秒"
+        "description": "地下水道2樓",
+        "spawn_info": "(多)"
       },
       {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "15x / 5 秒"
+        "description": "地下水道3樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -14646,13 +12511,13 @@
     "spawns": [
       {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "10x / 5 秒"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "30x / 5 秒"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -14883,24 +12748,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "1x / 5 秒"
-      },
-      {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "2x / 5 秒"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -14995,24 +12850,14 @@
     },
     "spawns": [
       {
-        "map_name": "gl_cas02",
-        "description": "- 克雷斯特漢姆古城 地上2層",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "gl_cas02_",
-        "description": "- 克雷斯特漢姆古城 地上樓層 2樓 (噩咪模式)",
-        "spawn_info": "1x / 30~45 分鐘"
-      },
-      {
-        "map_name": "pay_d03_i",
-        "description": "- 幻影: 月夜貓的噩咪",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "4x / 30 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
+      },
+      {
+        "map_name": "treasure02",
+        "description": "失事輪2樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -15083,19 +12928,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "30x / 5 秒"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "3x / 5 秒"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -15190,34 +13030,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "32x / 5 秒"
-      },
-      {
-        "map_name": "sec_in02",
-        "description": "- 巴哈拉宮 內部",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "xmas_dun01",
-        "description": "- 玩具工廠 1樓 (倉庫)",
-        "spawn_info": "24x / 5 秒"
-      },
-      {
-        "map_name": "xmas_fild01",
-        "description": "- 姜餅城原野",
-        "spawn_info": "65x / 5 秒"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -15313,8 +13128,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild07",
-        "description": "- 發樂斯 燈塔島",
-        "spawn_info": "116x / 5 秒"
+        "description": "發樂斯燈塔",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -15415,24 +13230,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "beach_dun",
-        "description": "- 西邊 洞穴 加露",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "beach_dun2",
-        "description": "- 北邊 洞穴 盧安達",
-        "spawn_info": "3x / 5 秒"
-      },
-      {
-        "map_name": "beach_dun3",
-        "description": "- 東邊 洞穴 馬吾",
-        "spawn_info": "1x / 5 秒"
+        "description": "西邊洞穴加露",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -15527,24 +13327,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "beach_dun",
-        "description": "- 西邊 洞穴 加露",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "tur_dun01",
-        "description": "- 烏龜島",
-        "spawn_info": "15x / 5 秒"
-      },
-      {
-        "map_name": "tur_dun02",
-        "description": "- 烏龜島 密穴 2層",
-        "spawn_info": "15x / 5 秒"
+        "description": "西邊洞穴加露",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -15639,14 +13424,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "50x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -15742,8 +13522,8 @@
     "spawns": [
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "38x / 5 秒"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -15838,14 +13618,9 @@
     },
     "spawns": [
       {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "cmd_fild03",
-        "description": "- 基乃依 沼澤地",
-        "spawn_info": "5x / 5 秒"
+        "description": "基乃依沼澤地",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -15940,29 +13715,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "beach_dun",
-        "description": "- 西邊 洞穴 加露",
-        "spawn_info": "3x / 5 秒"
-      },
-      {
-        "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "1x / 5 秒"
-      },
-      {
-        "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "3x / 5 秒"
-      },
-      {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "61x / 5 秒"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -16058,33 +13813,18 @@
     "spawns": [
       {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "13x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild04",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "12x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "cmd_fild07",
-        "description": "- 發樂斯 燈塔島",
-        "spawn_info": "34x / 5 秒"
-      },
-      {
-        "map_name": "hu_fild06",
-        "description": "- 毀葛原野",
-        "spawn_info": "35x / 5 秒"
-      },
-      {
-        "map_name": "jawaii",
-        "description": "- 蜜月島 爪哇咿",
-        "spawn_info": "2x / 60~100 分鐘"
-      },
-      {
-        "map_name": "mal_dun01",
-        "description": "- 星光珊瑚地帶 (綿綿島洞穴)",
-        "spawn_info": "20x / 5 秒"
+        "description": "發樂斯燈塔",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -16179,14 +13919,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "cmd_fild03",
-        "description": "- 基乃依 沼澤地",
-        "spawn_info": "194x / 5 秒"
+        "description": "基乃依沼澤地",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -16269,19 +14004,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild03",
-        "description": "- 吉芬 區域",
-        "spawn_info": "160x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(超多)"
       },
       {
         "map_name": "gef_fild10",
-        "description": "- 東邊 獸人村落",
-        "spawn_info": "55x / 5 秒"
+        "description": "獸人村",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -16383,8 +14113,8 @@
     "spawns": [
       {
         "map_name": "beach_dun2",
-        "description": "- 北邊 洞穴 盧安達",
-        "spawn_info": "15x / 5 秒"
+        "description": "北邊洞穴盧安達",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -16467,24 +14197,19 @@
     },
     "spawns": [
       {
-        "map_name": "1@face",
-        "description": "- 人面蟲洞穴",
-        "spawn_info": ""
-      },
-      {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "3x / 5 秒"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "15x / 5 秒"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "pay_fild10",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "129x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -16579,19 +14304,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@orcs",
-        "description": "- 獸人地下洞穴 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "beach_dun2",
-        "description": "- 北邊 洞穴 盧安達",
-        "spawn_info": "65x / 5 秒"
+        "description": "北邊洞穴盧安達",
+        "spawn_info": "(多)"
       }
     ],
     "drops": [
@@ -16687,8 +14402,8 @@
     "spawns": [
       {
         "map_name": "beach_dun2",
-        "description": "- 北邊 洞穴 盧安達",
-        "spawn_info": "20x / 5 秒"
+        "description": "北邊洞穴盧安達",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -16778,8 +14493,8 @@
     "spawns": [
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "30x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -16874,14 +14589,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild11",
-        "description": "- 吉芬 區域",
-        "spawn_info": "1x / 30~50 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -16977,8 +14687,8 @@
     "spawns": [
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 30~50 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -17073,14 +14783,9 @@
     },
     "spawns": [
       {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "1x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -17176,8 +14881,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "162x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -17273,8 +14978,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild04",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "149x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -17376,18 +15081,18 @@
     "spawns": [
       {
         "map_name": "mjolnir_03",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "37x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_04",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "162x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "44x / 5 秒"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -17459,13 +15164,13 @@
     "spawns": [
       {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "40x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "cmd_fild04",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "37x / 5 秒"
+        "description": "克克魔海邊",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -17567,8 +15272,8 @@
     "spawns": [
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "50x / 5 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -17663,14 +15368,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "97x / 5 秒"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -17765,29 +15465,24 @@
     },
     "spawns": [
       {
-        "map_name": "1@face",
-        "description": "- 人面蟲洞穴",
-        "spawn_info": ""
-      },
-      {
         "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "34x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "mjolnir_08",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "169x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "mjolnir_10",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "41x / 5 秒"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "pay_fild10",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "64x / 5 秒"
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -17876,29 +15571,24 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "40x / 5 秒"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "um_fild02",
-        "description": "- 滬家森林",
-        "spawn_info": "25x / 5 秒"
+        "description": "汶巴拉滬家森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "30x / 5 秒"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "19x / 5 秒"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -17987,24 +15677,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "16x / 5 秒"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "12x / 5 秒"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -18100,23 +15780,23 @@
     "spawns": [
       {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "16x / 5 秒"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild02",
-        "description": "- 滬家森林",
-        "spawn_info": "17x / 5 秒"
+        "description": "汶巴拉滬家森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "20x / 5 秒"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "6x / 5 秒"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -18212,23 +15892,23 @@
     "spawns": [
       {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "16x / 5 秒"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild02",
-        "description": "- 滬家森林",
-        "spawn_info": "68x / 5 秒"
+        "description": "汶巴拉滬家森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "20x / 5 秒"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(少)"
       },
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "6x / 5 秒"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -18323,14 +16003,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "121x / 5 秒"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -18425,29 +16100,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@tower",
-        "description": "- 無限塔 (魔物終結塔) 1樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "3@tower",
-        "description": "- 無限塔 (魔物終結塔) 3樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild03",
-        "description": "- 吉芬 區域",
-        "spawn_info": "24x / 5 秒"
+        "description": "吉芬區域",
+        "spawn_info": "(普通)"
       },
       {
         "map_name": "gef_fild10",
-        "description": "- 東邊 獸人村落",
-        "spawn_info": "27x / 5 秒"
+        "description": "獸人村",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -18542,14 +16202,9 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "cmd_fild01",
-        "description": "- 巴不其卡 森林",
-        "spawn_info": "202x / 5 秒"
+        "description": "巴其卡森林",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -18650,34 +16305,9 @@
     },
     "spawns": [
       {
-        "map_name": "new_1-3",
-        "description": "- 初學者 修練場",
-        "spawn_info": "30x / 50 秒"
-      },
-      {
         "map_name": "prt_fild08",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "33x / 50 秒"
-      },
-      {
-        "map_name": "prt_fild08a",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "33x / 50 秒"
-      },
-      {
-        "map_name": "prt_fild08b",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "33x / 50 秒"
-      },
-      {
-        "map_name": "prt_fild08c",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "33x / 50 秒"
-      },
-      {
-        "map_name": "prt_fild08d",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "33x / 50 秒"
+        "description": "普隆德拉區域",
+        "spawn_info": "(普通)"
       }
     ],
     "drops": [
@@ -18773,8 +16403,8 @@
     "spawns": [
       {
         "map_name": "pay_dun00",
-        "description": "- 斐揚 (殭屍洞) 地下1層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚洞穴1樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -18864,8 +16494,8 @@
     "spawns": [
       {
         "map_name": "prt_fild03",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -18961,8 +16591,8 @@
     "spawns": [
       {
         "map_name": "pay_fild06",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19058,8 +16688,8 @@
     "spawns": [
       {
         "map_name": "um_fild02",
-        "description": "- 滬家森林",
-        "spawn_info": "1x / 5 分鐘"
+        "description": "汶巴拉滬家森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19155,8 +16785,8 @@
     "spawns": [
       {
         "map_name": "moc_fild03",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19252,8 +16882,8 @@
     "spawns": [
       {
         "map_name": "pay_fild01",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19349,8 +16979,8 @@
     "spawns": [
       {
         "map_name": "um_fild04",
-        "description": "- 滬家叢林",
-        "spawn_info": "1x / 5 分鐘"
+        "description": "汶巴拉滬家叢林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19446,8 +17076,8 @@
     "spawns": [
       {
         "map_name": "iz_dun01",
-        "description": "- 依斯魯得海底洞穴 2層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "海底洞穴2樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19543,8 +17173,8 @@
     "spawns": [
       {
         "map_name": "prt_sewb4",
-        "description": "- 普隆德拉 地下水道 4樓",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "地下水道4樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19640,8 +17270,8 @@
     "spawns": [
       {
         "map_name": "prt_sewb3",
-        "description": "- 普隆德拉 地下水道 3樓",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "地下水道3樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19737,8 +17367,8 @@
     "spawns": [
       {
         "map_name": "prt_sewb2",
-        "description": "- 普隆德拉 地下水道 2樓",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "地下水道2樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19834,8 +17464,8 @@
     "spawns": [
       {
         "map_name": "beach_dun3",
-        "description": "- 東邊 洞穴 馬吾",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "東邊洞穴馬吾",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -19930,14 +17560,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "beach_dun2",
-        "description": "- 北邊 洞穴 盧安達",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "北邊洞穴盧安達",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20033,8 +17658,8 @@
     "spawns": [
       {
         "map_name": "prt_fild02",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20129,9 +17754,9 @@
     },
     "spawns": [
       {
-        "map_name": "treasure_n1",
-        "description": "- 依斯魯得島 遇難船 1樓",
-        "spawn_info": "2x / 5 分鐘"
+        "map_name": "pay_fild08",
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20226,14 +17851,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "pay_dun02",
-        "description": "- 斐揚 (殭屍洞) 地下3層",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "斐揚洞穴3樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20329,8 +17949,8 @@
     "spawns": [
       {
         "map_name": "pay_dun01",
-        "description": "- 斐揚 (殭屍洞) 地下2層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚洞穴2樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20426,8 +18046,8 @@
     "spawns": [
       {
         "map_name": "pay_dun03",
-        "description": "- 斐揚 (殭屍洞) 地下4層 廢棄村落",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20523,8 +18143,8 @@
     "spawns": [
       {
         "map_name": "pay_fild02",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20620,8 +18240,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_03",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20717,8 +18337,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild04",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "克克魔海邊",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20813,14 +18433,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "moc_fild18",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -20916,8 +18531,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_09",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈南邊山麓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21012,14 +18627,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "mjolnir_07",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21115,8 +18725,8 @@
     "spawns": [
       {
         "map_name": "moc_fild16",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21211,14 +18821,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "prt_fild00",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21302,8 +18907,8 @@
     "spawns": [
       {
         "map_name": "gef_fild01",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21387,8 +18992,8 @@
     "spawns": [
       {
         "map_name": "prt_fild07",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21484,8 +19089,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild07",
-        "description": "- 發樂斯 燈塔島",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "發樂斯燈塔",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21580,9 +19185,9 @@
     },
     "spawns": [
       {
-        "map_name": "lhz_fild01",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "2x / 5 分鐘"
+        "map_name": "prt_fild08",
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21677,9 +19282,9 @@
     },
     "spawns": [
       {
-        "map_name": "lhz_fild01",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "2x / 5 分鐘"
+        "map_name": "prt_fild08",
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21774,9 +19379,9 @@
     },
     "spawns": [
       {
-        "map_name": "lhz_fild01",
-        "description": "- 裡希塔樂鎮 原野",
-        "spawn_info": "2x / 5 分鐘"
+        "map_name": "prt_fild08",
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21871,14 +19476,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
+        "map_name": "gef_fild07",
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       },
       {
-        "map_name": "gef_fild07",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "map_name": "prt_fild08",
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -21974,8 +19579,8 @@
     "spawns": [
       {
         "map_name": "pay_fild04",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22070,14 +19675,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "mjolnir_06",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22173,8 +19773,8 @@
     "spawns": [
       {
         "map_name": "iz_dun00",
-        "description": "- 依斯魯得海底洞穴 1層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "海底洞穴1樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22270,8 +19870,8 @@
     "spawns": [
       {
         "map_name": "moc_fild12",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22367,8 +19967,8 @@
     "spawns": [
       {
         "map_name": "iz_dun03",
-        "description": "- 依斯魯得海底洞穴 4層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "海底洞穴4樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22458,8 +20058,8 @@
     "spawns": [
       {
         "map_name": "gef_fild08",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22554,14 +20154,9 @@
     },
     "spawns": [
       {
-        "map_name": "1@pump",
-        "description": "- 排水溝 一樓",
-        "spawn_info": ""
-      },
-      {
         "map_name": "gef_fild06",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22657,8 +20252,8 @@
     "spawns": [
       {
         "map_name": "moc_fild02",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22748,8 +20343,8 @@
     "spawns": [
       {
         "map_name": "um_fild03",
-        "description": "- 卡拉拉森林",
-        "spawn_info": "1x / 5 分鐘"
+        "description": "汶巴拉卡拉拉森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22845,8 +20440,8 @@
     "spawns": [
       {
         "map_name": "gef_fild10",
-        "description": "- 東邊 獸人村落",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "獸人村",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -22942,8 +20537,8 @@
     "spawns": [
       {
         "map_name": "gef_fild03",
-        "description": "- 吉芬 區域",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23039,8 +20634,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild09",
-        "description": "- 要塞都市 山特樂曼(南邊)",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "山特樂曼南區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23136,8 +20731,8 @@
     "spawns": [
       {
         "map_name": "iz_dun04",
-        "description": "- 依斯魯得海底洞穴 5層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "海底洞穴5樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23233,8 +20828,8 @@
     "spawns": [
       {
         "map_name": "beach_dun",
-        "description": "- 西邊 洞穴 加露",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "西邊洞穴加露",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23330,8 +20925,8 @@
     "spawns": [
       {
         "map_name": "gef_fild04",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23427,8 +21022,8 @@
     "spawns": [
       {
         "map_name": "prt_fild09",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23524,8 +21119,8 @@
     "spawns": [
       {
         "map_name": "prt_fild08",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "1x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23621,8 +21216,8 @@
     "spawns": [
       {
         "map_name": "prt_fild01",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23718,8 +21313,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_08",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23803,8 +21398,8 @@
     "spawns": [
       {
         "map_name": "prt_fild05",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23900,8 +21495,8 @@
     "spawns": [
       {
         "map_name": "pay_fild09",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -23997,8 +21592,8 @@
     "spawns": [
       {
         "map_name": "moc_fild17",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24094,8 +21689,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild01",
-        "description": "- 巴不其卡 森林",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "巴其卡森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24191,8 +21786,8 @@
     "spawns": [
       {
         "map_name": "pay_fild10",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24288,8 +21883,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild06",
-        "description": "- 要塞都市 山特樂曼(西邊)",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "山特樂曼西區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24385,8 +21980,8 @@
     "spawns": [
       {
         "map_name": "prt_fild11",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24482,8 +22077,8 @@
     "spawns": [
       {
         "map_name": "gef_fild11",
-        "description": "- 吉芬 區域",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24579,8 +22174,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild02",
-        "description": "- 克克魔 海邊",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "克克魔海邊",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24676,8 +22271,8 @@
     "spawns": [
       {
         "map_name": "prt_sewb1",
-        "description": "- 普隆德拉 地下水道 1樓",
-        "spawn_info": "1x / 5 分鐘"
+        "description": "地下水道1樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24773,8 +22368,8 @@
     "spawns": [
       {
         "map_name": "prt_fild06",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24870,8 +22465,8 @@
     "spawns": [
       {
         "map_name": "pay_fild03",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -24967,8 +22562,8 @@
     "spawns": [
       {
         "map_name": "prt_fild10",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25064,8 +22659,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_02",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25161,8 +22756,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_12",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈北邊山麓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25252,8 +22847,8 @@
     "spawns": [
       {
         "map_name": "um_fild01",
-        "description": "- 嚕嚕卡森林",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "汶巴拉嚕嚕卡森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25349,8 +22944,8 @@
     "spawns": [
       {
         "map_name": "moc_fild07",
-        "description": "- 蘇克拉特 沙漠",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25446,8 +23041,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_04",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25519,8 +23114,8 @@
     "spawns": [
       {
         "map_name": "pay_dun04",
-        "description": "- 斐揚 (殭屍洞) 地下5層 廢棄村落",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚洞穴5樓-廢村",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25609,9 +23204,9 @@
     },
     "spawns": [
       {
-        "map_name": "ra_fild01",
-        "description": "- 拉赫 奧頓拉草原",
-        "spawn_info": "2x / 5 分鐘"
+        "map_name": "moc_fild11",
+        "description": "蘇克拉特沙漠",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25706,19 +23301,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@def01",
-        "description": "- 波動模式迷宮 - 森林",
-        "spawn_info": ""
-      },
-      {
         "map_name": "anthell01",
-        "description": "- 螞蟻地獄密穴 1層",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "螞蟻地獄密穴1樓",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "cmd_fild08",
-        "description": "- 要塞都市 山特樂曼(東邊)",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "山特樂曼東區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25814,8 +23404,8 @@
     "spawns": [
       {
         "map_name": "gef_fild05",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "冷豔舞姬村",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -25911,8 +23501,8 @@
     "spawns": [
       {
         "map_name": "iz_dun02",
-        "description": "- 依斯魯得海底洞穴 3層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "海德洞穴3樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26008,8 +23598,8 @@
     "spawns": [
       {
         "map_name": "gef_fild09",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26105,8 +23695,8 @@
     "spawns": [
       {
         "map_name": "gef_fild02",
-        "description": "- 吉芬 區域",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26202,8 +23792,8 @@
     "spawns": [
       {
         "map_name": "gef_fild00",
-        "description": "- 吉芬 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "吉芬區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26299,8 +23889,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_01",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26396,8 +23986,8 @@
     "spawns": [
       {
         "map_name": "pay_fild07",
-        "description": "- 斐揚 樹林",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "斐揚森林",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26493,8 +24083,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_10",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26590,8 +24180,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_11",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈南區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26681,8 +24271,8 @@
     "spawns": [
       {
         "map_name": "mjolnir_05",
-        "description": "- 妙勒尼 山脈",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "妙勒尼山脈北區",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26772,8 +24362,8 @@
     "spawns": [
       {
         "map_name": "anthell02",
-        "description": "- 螞蟻地獄密穴 2層",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "螞蟻地獄密穴2樓",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26869,8 +24459,8 @@
     "spawns": [
       {
         "map_name": "prt_fild04",
-        "description": "- 普隆德拉 區域",
-        "spawn_info": "2x / 5 分鐘"
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -26966,8 +24556,8 @@
     "spawns": [
       {
         "map_name": "cmd_fild03",
-        "description": "- 基乃依 沼澤地",
-        "spawn_info": "3x / 5 分鐘"
+        "description": "基乃依沼澤地",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
@@ -27050,9 +24640,14 @@
     },
     "spawns": [
       {
-        "map_name": "1@infi",
-        "description": "- 無限空間",
-        "spawn_info": ""
+        "map_name": "prt_fild04",
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
+      },
+      {
+        "map_name": "prt_fild07",
+        "description": "普隆德拉區域",
+        "spawn_info": "(超少)"
       }
     ],
     "drops": [
