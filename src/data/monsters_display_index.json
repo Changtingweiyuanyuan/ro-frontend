@@ -12704,6 +12704,12 @@
         "name": "白幽靈卡片",
         "rate": 0.01,
         "icon_url": "/images/items/4102.gif"
+      },
+      {
+        "item_id": 1211,
+        "name": "德克短劍[3]",
+        "rate": "???",
+        "icon_url": "images/items/1211.gif"
       }
     ]
   },
@@ -12806,84 +12812,6 @@
         "name": "九尾狐卡片",
         "rate": 0.01,
         "icon_url": "/images/items/4159.gif"
-      }
-    ]
-  },
-  {
-    "id": 1185,
-    "name": {
-      "zh_tw": "白幽靈",
-      "en": "WHISPER_"
-    },
-    "image_url": "/images/monsters/1185.gif",
-    "basic_info": {
-      "level": 34,
-      "race": "不死",
-      "element": {
-        "type": "念",
-        "level": 1
-      },
-      "size": "小"
-    },
-    "stats": {
-      "hp": 1796,
-      "attack": {
-        "min": 193,
-        "max": 273
-      },
-      "magic_attack": {
-        "min": 63,
-        "max": 89
-      },
-      "defense": 0,
-      "magic_defense": 45,
-      "hit_100_percent": 285,
-      "flee_95_percent": 264,
-      "base_stats": {
-        "str": 1,
-        "agi": 51,
-        "vit": 14,
-        "int": 1,
-        "dex": 60,
-        "luk": 1
-      }
-    },
-    "spawns": [
-      {
-        "map_name": "pay_dun03",
-        "description": "斐揚洞穴4樓-廢村",
-        "spawn_info": "(超少)"
-      },
-      {
-        "map_name": "treasure02",
-        "description": "失事輪2樓",
-        "spawn_info": "(少)"
-      }
-    ],
-    "drops": [
-      {
-        "item_id": 1001,
-        "name": "星星的粉末",
-        "rate": 0.05,
-        "icon_url": "images/items/1001.gif"
-      },
-      {
-        "item_id": 1059,
-        "name": "透明之布",
-        "rate": 0.5,
-        "icon_url": "/images/items/1059.gif"
-      },
-      {
-        "item_id": 2333,
-        "name": "祕銀之衣",
-        "rate": 0.01,
-        "icon_url": "/images/items/2333.gif"
-      },
-      {
-        "item_id": 1211,
-        "name": "德克短劍[3]",
-        "rate": 1.0,
-        "icon_url": "images/items/1211.gif"
       }
     ]
   },
