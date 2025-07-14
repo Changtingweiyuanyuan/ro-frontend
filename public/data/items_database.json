@@ -26446,6 +26446,153 @@
       "神祕紫箱"
     ]
   },
+  "644": {
+    "id": 644,
+    "name": {
+      "zh_tw": "禮物箱",
+      "en": "Gift_Box"
+    },
+    "icon_url": "/images/items/644.gif",
+    "category": "消耗類",
+    "description": {
+      "official": "裡頭裝滿了禮物的箱子。在沒打開之前不會知道里頭到底裝了什麼樣的禮物。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1000,
+      "sell_price": 500,
+      "weight": 20
+    },
+    "script": "{ getrandgroupitem(IG_GiftBox,1); },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 1973,
+        "name": "波利_E",
+        "rate": 50.0
+      },
+      {
+        "monster_id": 1658,
+        "name": "暗●劍士 賽尼亞",
+        "rate": 25.0
+      },
+      {
+        "monster_id": 2211,
+        "name": "玩偶熊_E",
+        "rate": 15.0
+      },
+      {
+        "monster_id": 1247,
+        "name": "邪惡老公公",
+        "rate": 10.0
+      },
+      {
+        "monster_id": 2451,
+        "name": "神奇貝比",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2450,
+        "name": "神偷波利",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1245,
+        "name": "聖誕哥布靈",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1588,
+        "name": "聖誕獸人戰士",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 1244,
+        "name": "聖誕南瓜先生",
+        "rate": 5.0
+      },
+      {
+        "monster_id": 2903,
+        "name": "精英 / 菁英 狂暴邪惡箱",
+        "rate": 1.25
+      },
+      {
+        "monster_id": 1877,
+        "name": "元素_5",
+        "rate": 0.5
+      },
+      {
+        "monster_id": 1699,
+        "name": "狂暴邪惡箱",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 2706,
+        "name": "精英等離子體 / 菁英等離子體",
+        "rate": 0.25
+      },
+      {
+        "monster_id": 1695,
+        "name": "綠色等離子體",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1697,
+        "name": "藍色等離子體",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1660,
+        "name": "商人 娣潔",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1663,
+        "name": "魔法師 龐德",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1694,
+        "name": "紅色等離子體",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1696,
+        "name": "紫色等離子體",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1661,
+        "name": "服事 艾貝西",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1662,
+        "name": "弓箭手 伊卡勒斯",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1693,
+        "name": "黃色等離子體",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1659,
+        "name": "盜賊 特麗絲",
+        "rate": 0.05
+      },
+      {
+        "monster_id": 1246,
+        "name": "甜餅人",
+        "rate": 0.03
+      }
+    ],
+    "obtained_from": [
+      "恐怖玩具工廠",
+      "神祕箱子",
+      "神祕紫箱",
+      "禮物箱/禮盒"
+    ]
+  },
   "645": {
     "id": 645,
     "name": {
@@ -28556,6 +28703,33 @@
       "神祕箱子",
       "神祕紫箱"
     ]
+  },
+  "7056": {
+    "id": 7056,
+    "name": {
+      "zh_tw": "卡普拉薪資明細表",
+      "en": "Payroll_Of_Kafra"
+    },
+    "icon_url": "/images/items/7056.gif",
+    "category": "其他類",
+    "description": {
+      "official": "給卡普拉職員們支付薪資時，所使用的薪資明細表。",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 1,
+      "sell_price": 0,
+      "weight": 5
+    },
+    "script": "{},{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2450,
+        "name": "神偷波利",
+        "rate": 50.0
+      }
+    ],
+    "obtained_from": []
   },
   "706": {
     "id": 706,

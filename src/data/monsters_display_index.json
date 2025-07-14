@@ -8519,12 +8519,6 @@
         "name": "雙手劍[3]",
         "rate": "???",
         "icon_url": "images/items/1152.gif"
-      },
-      {
-        "item_id": 1,
-        "name": " (將在打包時自動同步)",
-        "rate": 1452.0,
-        "icon_url": ""
       }
     ]
   },
@@ -12618,54 +12612,14 @@
     },
     "spawns": [
       {
-        "map_name": "2@tower",
-        "description": "- 無限塔 (魔物終結塔) 2樓",
-        "spawn_info": ""
-      },
-      {
-        "map_name": "alde_dun04",
-        "description": "- 艾爾帕蘭 鐘塔地下樓層 4樓",
-        "spawn_info": "11x / 5 秒"
-      },
-      {
-        "map_name": "ayo_dun01",
-        "description": "- 古代神殿 迷宮",
-        "spawn_info": "16x / 5 秒"
-      },
-      {
-        "map_name": "ayo_dun02",
-        "description": "- 古代神殿 內部",
-        "spawn_info": "23x / 5 秒"
-      },
-      {
-        "map_name": "c_tower4",
-        "description": "- 艾爾帕蘭 鐘塔地上樓層 4樓",
-        "spawn_info": "5x / 5 秒"
-      },
-      {
-        "map_name": "gef_dun02",
-        "description": "- 吉芬塔 地下密穴 3層",
-        "spawn_info": "20x / 5 秒"
-      },
-      {
-        "map_name": "gl_cas01",
-        "description": "- 克雷斯特漢姆古城 地上1層",
-        "spawn_info": "17x / 5 秒"
-      },
-      {
-        "map_name": "gl_sew01",
-        "description": "- 克雷斯特漢姆 地下水道 1樓",
-        "spawn_info": "66x / 5 秒"
-      },
-      {
-        "map_name": "pvp_n_8-3",
-        "description": "- PvP : 四通道 房間",
-        "spawn_info": "3x / 6~9 分鐘"
+        "map_name": "pay_dun03",
+        "description": "斐揚洞穴4樓-廢村",
+        "spawn_info": "(超少)"
       },
       {
         "map_name": "treasure02",
-        "description": "- 沉沒之船 2樓",
-        "spawn_info": "10x / 5 秒"
+        "description": "失事輪2樓",
+        "spawn_info": "(少)"
       }
     ],
     "drops": [
@@ -14960,10 +14914,10 @@
         "icon_url": "/images/items/7065.gif"
       },
       {
-        "item_id": 1157,
-        "name": "雙手巨劍[2]",
+        "item_id": 1160,
+        "name": "雙手重劍[2]",
         "rate": "???",
-        "icon_url": "/images/items/1157.gif"
+        "icon_url": "/images/items/1160.gif"
       }
     ]
   },
@@ -16286,6 +16240,85 @@
         "name": "寶貝波利卡片",
         "rate": 1.0,
         "icon_url": "/images/items/4545.gif"
+      }
+    ]
+  },
+  {
+    "id": 2450,
+    "name": {
+      "zh_tw": "小偷波利",
+      "en": "THIEF_PORING"
+    },
+    "image_url": "/images/monsters/2450.gif",
+    "basic_info": {
+      "level": 1,
+      "race": "植物",
+      "element": {
+        "type": "水",
+        "level": 1
+      },
+      "size": "中"
+    },
+    "stats": {
+      "hp": 30,
+      "attack": {
+        "min": 13,
+        "max": 17
+      },
+      "magic_attack": {
+        "min": 2,
+        "max": 4
+      },
+      "defense": 2,
+      "magic_defense": 5,
+      "hit_100_percent": 203,
+      "flee_95_percent": 178,
+      "base_stats": {
+        "str": 6,
+        "agi": 1,
+        "vit": 1,
+        "int": 1,
+        "dex": 6,
+        "luk": 5
+      }
+    },
+    "spawns": [
+      {
+        "map_name": "pay_fild01",
+        "description": "斐揚森林",
+        "spawn_info": "(少)"
+      }
+    ],
+    "drops": [
+      {
+        "item_id": 603,
+        "name": "神祕箱子",
+        "rate": 1.0,
+        "icon_url": "images/items/603.gif"
+      },
+      {
+        "item_id": 644,
+        "name": "禮物箱",
+        "rate": 5.0,
+        "icon_url": "/images/items/644.gif"
+      },
+      {
+        "item_id": 7056,
+        "name": "卡普拉薪資明細表",
+        "rate": 50.0,
+        "icon_url": "/images/items/7056.gif"
+      },
+      {
+        "item_id": 7056,
+        "name": "卡普拉薪資明細表",
+        "rate": 50.0,
+        "icon_url": "/images/items/7056.gif"
+      },
+      {
+        "item_id": 7056,
+        "name": "卡普拉薪資明細表",
+        "rate": 50.0,
+        "icon_url": "/images/items/7056.gif"
       }
     ]
   },
