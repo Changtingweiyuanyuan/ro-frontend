@@ -187,6 +187,7 @@ const officialDescriptionLines = computed(() => {
                 <div class="details-basic-info">
                   <span>類型: {{ itemsDatabase[drop.item_id].category }}</span>
                   <span v-if="itemsDatabase[drop.item_id].attributes.weight">重量: {{ itemsDatabase[drop.item_id].attributes.weight }}</span>
+                  <span v-if="drop.slot && drop.slot !== '--'">規格: {{ drop.slot }}</span>
                 </div>
                 
                 <div class="effects-section" v-if="itemsDatabase[drop.item_id].description.official && itemsDatabase[drop.item_id].description.official.trim() !== '- 沒有 -'">
