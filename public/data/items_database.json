@@ -7,6 +7,7 @@
     },
     "icon_url": "/images/items/1000.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "掛在天空著的星群碎片，用來製造武器時可提高武器的強度。",
       "tw_official": ""
@@ -128,6 +129,7 @@
     },
     "icon_url": "images/items/10003.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "以魔法的素材所做成圓形頭部保護罩，不同於其它材質，戴上它還可呼吸。",
       "tw_official": ""
@@ -158,6 +160,7 @@
     },
     "icon_url": "/images/items/10004.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "小孩子拿在手上可玩耍的奶嘴。",
       "tw_official": ""
@@ -198,6 +201,7 @@
     },
     "icon_url": "images/items/1001.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "星星的一角，提煉之後可以製造星星的碎片。",
       "tw_official": ""
@@ -363,6 +367,7 @@
     },
     "icon_url": "/images/items/10010.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "被壓扁的鍋子。",
       "tw_official": ""
@@ -403,6 +408,7 @@
     },
     "icon_url": "images/items/10012.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "寵物專用蛋殼帽。",
       "tw_official": ""
@@ -438,6 +444,7 @@
     },
     "icon_url": "images/items/10015.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "給可愛寵物或是小孩配帶的綠色圍兜兜。",
       "tw_official": ""
@@ -470,36 +477,6 @@
       "神祕紫箱"
     ]
   },
-  "10016": {
-    "id": 10016,
-    "name": {
-      "zh_tw": "寵物鈴鐺",
-      "en": "Golden_Bell"
-    },
-    "icon_url": "/images/items/10016.gif",
-    "category": "可愛寵物裝備",
-    "description": {
-      "official": "用金制成的鈴鐺，清澈的聲音，非常動聽。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 0
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1086,
-        "name": "黃金蟲",
-        "rate": 2.5
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "10017": {
     "id": 10017,
     "name": {
@@ -508,6 +485,7 @@
     },
     "icon_url": "images/items/10017.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "用木頭與樹皮編成的褲子。",
       "tw_official": ""
@@ -543,6 +521,7 @@
     },
     "icon_url": "images/items/1002.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "含有鐵成分的礦石，提煉的話可得到鐵。",
       "tw_official": ""
@@ -759,6 +738,7 @@
     },
     "icon_url": "images/items/1003.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "含有很多碳成分的礦石，和鐵一起提煉可以得到鋼鐵。",
       "tw_official": ""
@@ -885,6 +865,7 @@
     },
     "icon_url": "/images/items/10038.gif",
     "category": "可愛寵物裝備",
+    "slot": "--",
     "description": {
       "official": "非常適合熔岩魔獨角的護具，看起來很安全。",
       "tw_official": ""
@@ -922,6 +903,7 @@
     },
     "icon_url": "/images/items/1005.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "偉大的鐵匠大多數所使用的錘子。",
       "tw_official": ""
@@ -987,6 +969,7 @@
     },
     "icon_url": "/images/items/1007.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "能預言並看到遙遠未來的慧眼與知識。",
       "tw_official": ""
@@ -1032,6 +1015,7 @@
     },
     "icon_url": "images/items/1010.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "用來強化武器在製作武器所使用的金屬，可以強化等級一的武器。",
       "tw_official": ""
@@ -1143,6 +1127,7 @@
     },
     "icon_url": "images/items/1011.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "用來強化武器在製作武器所使用的金屬，可以強化級數二的武器。",
       "tw_official": ""
@@ -1319,6 +1304,7 @@
     },
     "icon_url": "images/items/1012.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "住在沙漠中的傘蜥有著華麗圖案的頸部。可向收集商購買。",
       "tw_official": ""
@@ -1359,6 +1345,7 @@
     },
     "icon_url": "/images/items/1013.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "花花綠綠的昆蟲外殼。可向收集商購買。",
       "tw_official": ""
@@ -1414,6 +1401,7 @@
     },
     "icon_url": "/images/items/1016.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "細長的尾巴。可向收集商購買。",
       "tw_official": ""
@@ -1449,6 +1437,7 @@
     },
     "icon_url": "/images/items/1017.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "剪下鼠類胡須所得到的東西，可向收集商購賣。",
       "tw_official": ""
@@ -1499,6 +1488,7 @@
     },
     "icon_url": "/images/items/1018.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "鼠類的手指甲，因為常用手指甲來挖地，所以相當的尖硬。可向收集商購買。",
       "tw_official": ""
@@ -1544,6 +1534,7 @@
     },
     "icon_url": "images/items/1019.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "瑪哪樹枝。可向收集商購買。",
       "tw_official": ""
@@ -1664,6 +1655,7 @@
     },
     "icon_url": "/images/items/1020.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "細長的少女頭髮，對男性具有相當大的吸引力。可向收集商購買。",
       "tw_official": ""
@@ -1714,6 +1706,7 @@
     },
     "icon_url": "/images/items/1021.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "土人尖細的角，據說土人的角可以為人帶來財富。可向收集商購買。",
       "tw_official": ""
@@ -1759,6 +1752,7 @@
     },
     "icon_url": "/images/items/1022.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "狐狸的尾巴。可向收集商購買。",
       "tw_official": ""
@@ -1799,6 +1793,7 @@
     },
     "icon_url": "/images/items/1023.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魚類的尾巴。可向收集商購買。",
       "tw_official": ""
@@ -1864,6 +1859,7 @@
     },
     "icon_url": "/images/items/1024.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物烏賊噴出的黑色液體。可向收集商購買。",
       "tw_official": ""
@@ -1934,6 +1930,7 @@
     },
     "icon_url": "images/items/1025.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "蜘蛛所吐出來的蜘蛛絲，具有黏性且相當結實。可向收集商購買。",
       "tw_official": ""
@@ -1979,6 +1976,7 @@
     },
     "icon_url": "images/items/1026.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "橡木的果實。可向收集商購買。",
       "tw_official": ""
@@ -2034,6 +2032,7 @@
     },
     "icon_url": "images/items/1027.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "刺蝟身上尖細的刺，不好好保管的話可能會造成傷害。可向收集商購買。",
       "tw_official": ""
@@ -2074,6 +2073,7 @@
     },
     "icon_url": "/images/items/1028.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "野豬身上的毛，像針一樣刺人且非常強韌。可向收集商購買。",
       "tw_official": ""
@@ -2124,6 +2124,7 @@
     },
     "icon_url": "images/items/1031.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "如鐮刀般銳利的螳螂手臂，可向收集商購買。",
       "tw_official": ""
@@ -2164,6 +2165,7 @@
     },
     "icon_url": "images/items/1032.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "像人一般擁有各種器官的花。可向收集商購買。",
       "tw_official": ""
@@ -2226,106 +2228,6 @@
       "神祕紫箱"
     ]
   },
-  "1034": {
-    "id": 1034,
-    "name": {
-      "zh_tw": "犬妖的毛",
-      "en": "Cobold_Hair"
-    },
-    "icon_url": "images/items/1034.gif",
-    "category": "其他類",
-    "description": {
-      "official": "從魔物犬妖身上剪下來的毛，相當柔軟。可向收集商購買。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 342,
-      "sell_price": 171,
-      "weight": 1
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2784,
-        "name": "精英 / 迅捷 犬妖弓箭手",
-        "rate": 100.0
-      },
-      {
-        "monster_id": 2818,
-        "name": "精英深淵犬妖 / 狡猾深淵犬妖",
-        "rate": 100.0
-      },
-      {
-        "monster_id": 2817,
-        "name": "精英深淵犬妖 / 憤怒深淵犬妖",
-        "rate": 100.0
-      },
-      {
-        "monster_id": 2785,
-        "name": "精英犬妖 / 雄壯犬妖",
-        "rate": 100.0
-      },
-      {
-        "monster_id": 1296,
-        "name": "犬妖首領",
-        "rate": 31.53
-      },
-      {
-        "monster_id": 1137,
-        "name": "犬妖",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 1135,
-        "name": "刺錘犬妖",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 1136,
-        "name": "犬妖",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 1134,
-        "name": "榔頭犬妖",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 1133,
-        "name": "大斧犬妖",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 2286,
-        "name": "深淵犬妖 (刺錘)",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 2284,
-        "name": "深淵犬妖 (大斧)",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 2285,
-        "name": "深淵犬妖 (榔頭)",
-        "rate": 26.68
-      },
-      {
-        "monster_id": 1282,
-        "name": "犬妖弓箭手",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 2287,
-        "name": "深淵犬妖弓箭手",
-        "rate": 24.25
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "1035": {
     "id": 1035,
     "name": {
@@ -2334,6 +2236,7 @@
     },
     "icon_url": "/images/items/1035.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "龍的牙齒，非常的堅硬，聽說連龍身上鋼鐵般的皮膚都可以輕易地穿透。可向收集商購買。",
       "tw_official": ""
@@ -2469,6 +2372,7 @@
     },
     "icon_url": "/images/items/1036.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "龍的鱗片，如鋼鐵般堅硬，傳說對於耐冷或耐熱都有非常大的效果。可向收集商購買。",
       "tw_official": ""
@@ -2609,6 +2513,7 @@
     },
     "icon_url": "/images/items/1037.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "龍的尾巴。可向收集商購買。",
       "tw_official": ""
@@ -2689,6 +2594,7 @@
     },
     "icon_url": "images/items/1040.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "老妖精的胡須。可向收集商購買。",
       "tw_official": ""
@@ -2729,6 +2635,7 @@
     },
     "icon_url": "images/items/1042.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "昆蟲又細又短的腿。可向收集商購買。",
       "tw_official": ""
@@ -2814,6 +2721,7 @@
     },
     "icon_url": "/images/items/1048.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "蛇模樣的頭髮。可向收集商購買。",
       "tw_official": ""
@@ -2869,6 +2777,7 @@
     },
     "icon_url": "/images/items/1049.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "韓國傳統衣服。可向收集商購買。",
       "tw_official": ""
@@ -2909,6 +2818,7 @@
     },
     "icon_url": "images/items/1050.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "血管。相當結實。可向收集商購買。",
       "tw_official": ""
@@ -2969,6 +2879,7 @@
     },
     "icon_url": "images/items/1051.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "腦管。像動物的腦一樣圓圓的。可向收集商購買。",
       "tw_official": ""
@@ -2999,6 +2910,7 @@
     },
     "icon_url": "images/items/1052.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "單細胞。可向收集商購買。",
       "tw_official": ""
@@ -3079,6 +2991,7 @@
     },
     "icon_url": "images/items/1053.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從生長在深海中的魚類身上得來的牙齒。可向收集商購買。",
       "tw_official": ""
@@ -3129,6 +3042,7 @@
     },
     "icon_url": "images/items/1054.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從生長在深海中的魚類身上得來的嘴巴。可向收集商購買。",
       "tw_official": ""
@@ -3194,6 +3108,7 @@
     },
     "icon_url": "images/items/1055.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "蚯蚓的皮。可向收集商購買。",
       "tw_official": ""
@@ -3244,6 +3159,7 @@
     },
     "icon_url": "images/items/1056.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "黃玉碎片。可向收集商購買。",
       "tw_official": ""
@@ -3329,6 +3245,7 @@
     },
     "icon_url": "images/items/1057.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從蛾蝶翅膀上掉落的粉末。可向收集商購買。",
       "tw_official": ""
@@ -3374,6 +3291,7 @@
     },
     "icon_url": "images/items/1058.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "蛾蝶的翅膀。可向收集商購買。",
       "tw_official": ""
@@ -3409,6 +3327,7 @@
     },
     "icon_url": "/images/items/1059.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "透明而且裡面會發光神奇的布塊。可向收集商購買。",
       "tw_official": ""
@@ -3514,6 +3433,7 @@
     },
     "icon_url": "images/items/1066.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "樹木的一角，可向收集商購買。",
       "tw_official": ""
@@ -3554,6 +3474,7 @@
     },
     "icon_url": "images/items/1067.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "樹木的一角，可向收集商購買。",
       "tw_official": ""
@@ -3594,6 +3515,7 @@
     },
     "icon_url": "images/items/1068.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "樹木的一角，可向收集商購買。",
       "tw_official": ""
@@ -3634,6 +3556,7 @@
     },
     "icon_url": "/images/items/1094.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "看起來有點短的辮子。可向收集商人購買。",
       "tw_official": ""
@@ -3664,6 +3587,7 @@
     },
     "icon_url": "/images/items/1099.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "太過老舊無法再繼續使用的犯人服。可向收集商人購買。",
       "tw_official": ""
@@ -3714,6 +3638,7 @@
     },
     "icon_url": "images/items/1102.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "看起來任何人都可使用的劍，但服事不能使用。",
       "tw_official": ""
@@ -3754,6 +3679,7 @@
     },
     "icon_url": "images/items/1104.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "有著圓刃的刀。",
       "tw_official": ""
@@ -3793,6 +3719,7 @@
     },
     "icon_url": "images/items/1105.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "有著圓刃的刀。",
       "tw_official": ""
@@ -3828,6 +3755,7 @@
     },
     "icon_url": "images/items/1108.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "有著厚刃的劍，用處很廣泛。",
       "tw_official": ""
@@ -3858,6 +3786,7 @@
     },
     "icon_url": "/images/items/1111.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "有著細長刃的劍，專門做刺穿用。",
       "tw_official": ""
@@ -3888,6 +3817,7 @@
     },
     "icon_url": "/images/items/1113.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "刀刃適當的彎曲，適合砍殺任何東西。",
       "tw_official": ""
@@ -3911,6 +3841,7 @@
     },
     "icon_url": "images/items/1116.gif",
     "category": "武器",
+    "slot": "雙手劍",
     "description": {
       "official": "非常傳神且做的不錯的刀。",
       "tw_official": ""
@@ -3940,6 +3871,7 @@
     },
     "icon_url": "images/items/1117.gif",
     "category": "武器",
+    "slot": "雙手劍",
     "description": {
       "official": "非常傳神且做的不錯的刀。",
       "tw_official": ""
@@ -3977,29 +3909,6 @@
       "神祕紫箱"
     ]
   },
-  "1119": {
-    "id": 1119,
-    "name": {
-      "zh_tw": "日本刀[1]",
-      "en": "Tsurugi"
-    },
-    "icon_url": "/images/items/1119.gif",
-    "category": "武器",
-    "description": {
-      "official": "非常恐怖且尖銳的劍，是專門用來傷害敵方時使用。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 51000,
-      "sell_price": 25500,
-      "weight": 120
-    },
-    "script": "{},{},{}",
-    "dropped_by": [],
-    "obtained_from": [
-      "神祕箱子"
-    ]
-  },
   "1120": {
     "id": 1120,
     "name": {
@@ -4008,6 +3917,7 @@
     },
     "icon_url": "images/items/1120.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "非常恐怖且尖銳的劍，是專門用來傷害敵方時使用。",
       "tw_official": ""
@@ -4048,6 +3958,7 @@
     },
     "icon_url": "/images/items/1125.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "刀柄末端呈現圓形的刀。",
       "tw_official": ""
@@ -4070,29 +3981,6 @@
       "神祕紫箱"
     ]
   },
-  "1126": {
-    "id": 1126,
-    "name": {
-      "zh_tw": "騎兵之劍[2]",
-      "en": "Saber"
-    },
-    "icon_url": "/images/items/1126.gif",
-    "category": "武器",
-    "description": {
-      "official": "騎兵們專用的單手劍。不過使用於騎兵儀式方面較多。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 49000,
-      "sell_price": 24500,
-      "weight": 100
-    },
-    "script": "{},{},{}",
-    "dropped_by": [],
-    "obtained_from": [
-      "神祕箱子"
-    ]
-  },
   "1127": {
     "id": 1127,
     "name": {
@@ -4101,6 +3989,7 @@
     },
     "icon_url": "/images/items/1127.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "騎兵們專用的單手劍。不過使用於騎兵儀式方面較多。",
       "tw_official": ""
@@ -4166,6 +4055,7 @@
     },
     "icon_url": "images/items/1147.gif",
     "category": "武器",
+    "slot": "單手劍",
     "description": {
       "official": "對一般老百姓廣泛供給的使用性劍。",
       "tw_official": ""
@@ -4193,46 +4083,6 @@
       "神祕紫箱"
     ]
   },
-  "1148": {
-    "id": 1148,
-    "name": {
-      "zh_tw": "星塵劍",
-      "en": "Star_Dust_Blade"
-    },
-    "icon_url": "images/items/1148.gif",
-    "category": "武器",
-    "description": {
-      "official": "據說刀刃部分是用隕石鑄造的特殊劍，到晚上時刀刃部分像星星一樣閃亮著。攻擊時有5%的幾率對敵人眩暈，不可破壞。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 100
-    },
-    "script": "{ bonus2 bAddEff,Eff_Stun,500; bonus bUnbreakableWeapon; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2441,
-        "name": "最後的初心者 / 魔鬼孩子王",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 3422,
-        "name": "流浪之狼",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1092,
-        "name": "流浪之狼",
-        "rate": 0.5
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "1152": {
     "id": 1152,
     "name": {
@@ -4241,6 +4091,7 @@
     },
     "icon_url": "images/items/1152.gif",
     "category": "武器",
+    "slot": "雙手劍",
     "description": {
       "official": "用於制伏敵人時，有不錯效果的雙手劍。",
       "tw_official": ""
@@ -4271,6 +4122,7 @@
     },
     "icon_url": "/images/items/1156.gif",
     "category": "武器",
+    "slot": "雙手劍",
     "description": {
       "official": "不論什麼砍殺或是刺殺時都很好使用的雙手劍。",
       "tw_official": ""
@@ -4292,6 +4144,7 @@
     },
     "icon_url": "/images/items/1157.gif",
     "category": "武器",
+    "slot": "雙手劍",
     "description": {
       "official": "以重量和揮舞速度來制伏敵人的雙手巨劍。",
       "tw_official": ""
@@ -4321,6 +4174,7 @@
     },
     "icon_url": "/images/items/1160.gif",
     "category": "武器",
+    "slot": "雙手劍",
     "description": {
       "official": "厚實的刀刃，既可攻擊又可防禦，多用途的雙手巨劍。DEF+5",
       "tw_official": ""
@@ -4350,6 +4204,7 @@
     },
     "icon_url": "images/items/1202.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "為了方便任何人使用所製作出來的短劍。",
       "tw_official": ""
@@ -4420,6 +4275,7 @@
     },
     "icon_url": "images/items/1205.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "專門為了割東西所製造出來的短劍。",
       "tw_official": ""
@@ -4465,6 +4321,7 @@
     },
     "icon_url": "images/items/1207.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "以多功能使用為要求，所製造出來的短劍。",
       "tw_official": ""
@@ -4519,6 +4376,7 @@
     },
     "icon_url": "images/items/1208.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "以多功能使用為要求，所製造出來的短劍。",
       "tw_official": ""
@@ -4554,6 +4412,7 @@
     },
     "icon_url": "images/items/1211.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "古代某個西方國家所使用的短劍。以刺擊為要求，所製造出來的短劍。",
       "tw_official": ""
@@ -4594,6 +4453,7 @@
     },
     "icon_url": "images/items/12127.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "把一些高級料理器具搜集成整組的，感覺能烹飪出更棒的料理來似的。",
       "tw_official": ""
@@ -4681,6 +4541,7 @@
     },
     "icon_url": "images/items/1214.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "將刀刃適當彎曲的短劍。",
       "tw_official": ""
@@ -4731,6 +4592,7 @@
     },
     "icon_url": "images/items/1216.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "以刀刃實用為要求，所製造出的雙刃短劍。",
       "tw_official": ""
@@ -4775,6 +4637,7 @@
     },
     "icon_url": "/images/items/1217.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "以刀刃實用為要求，所製造出的雙刃短劍。",
       "tw_official": ""
@@ -4810,6 +4673,7 @@
     },
     "icon_url": "images/items/1220.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "古代某個王國使用的長握柄短劍。劍身有點長的短劍。套裝資料:長柄短劍[3] & 重裝步兵帽子[1]",
       "tw_official": ""
@@ -4845,6 +4709,7 @@
     },
     "icon_url": "images/items/1226.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "以特殊的方法所製作出來的短劍，非常華麗。以大馬士革鋼製成的短劍。絕對不會受損。",
       "tw_official": ""
@@ -4880,6 +4745,7 @@
     },
     "icon_url": "/images/items/1239.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "紫色閃爍的刀刃，讓看到這把刀的人，會感覺到害怕。在刀上面塗有強烈的劇毒。有高几率使敵人陷入中毒狀態。",
       "tw_official": ""
@@ -4922,6 +4788,7 @@
     },
     "icon_url": "/images/items/1251.gif",
     "category": "武器",
+    "slot": "拳刃",
     "description": {
       "official": "方便移動為要求所製造的拳刃。",
       "tw_official": ""
@@ -4954,41 +4821,6 @@
       "神祕紫箱"
     ]
   },
-  "1253": {
-    "id": 1253,
-    "name": {
-      "zh_tw": "卡塔勒拳刃",
-      "en": "Katar_"
-    },
-    "icon_url": "images/items/1253.gif",
-    "category": "武器",
-    "description": {
-      "official": "用古代祕術所製作出來的拳刃，刀刃會不斷的晃動，造成敵人混亂的兵器。DEX+1",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 41000,
-      "sell_price": 20500,
-      "weight": 120
-    },
-    "script": "{ bonus bDex,1; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1220,
-        "name": "沙漠之狼",
-        "rate": 0.03
-      },
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "1256": {
     "id": 1256,
     "name": {
@@ -4997,6 +4829,7 @@
     },
     "icon_url": "images/items/1256.gif",
     "category": "武器",
+    "slot": "拳刃",
     "description": {
       "official": "冰冷又銳利，以冰晶所做成的水屬性拳刃，有一定的幾率，使敵人陷入冷凍狀態",
       "tw_official": ""
@@ -5037,6 +4870,7 @@
     },
     "icon_url": "/images/items/1257.gif",
     "category": "武器",
+    "slot": "拳刃",
     "description": {
       "official": "以銳利的刺藤所做成的拳刃，有一定的幾率，使敵人陷入發獃的狀態",
       "tw_official": ""
@@ -5069,33 +4903,6 @@
       "神祕紫箱"
     ]
   },
-  "1287": {
-    "id": 1287,
-    "name": {
-      "zh_tw": "聖靈拳刃",
-      "en": "Durga"
-    },
-    "icon_url": "images/items/1287.gif",
-    "category": "武器",
-    "description": {
-      "official": "優於高速突刺攻擊之用的拳刃。套裝資料:聖靈拳刃[1] & Whikebain Suit[1]",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 120
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": []
-  },
   "13006": {
     "id": 13006,
     "name": {
@@ -5104,6 +4911,7 @@
     },
     "icon_url": "/images/items/13006.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "把手用黑龍的鱗片，有著龍的鱗片黑暗氣息讓刀的存在更為不安近距離物理攻擊時，以較低的幾率對敵人詛咒",
       "tw_official": ""
@@ -5131,6 +4939,7 @@
     },
     "icon_url": "images/items/13011.gif",
     "category": "武器",
+    "slot": "短劍",
     "description": {
       "official": "遠古以前神賜給人類的劍，擁有這把劍的話感覺到一股破壞的沖動MATK+50。",
       "tw_official": ""
@@ -5168,6 +4977,7 @@
     },
     "icon_url": "/images/items/1302.gif",
     "category": "武器",
+    "slot": "單手斧",
     "description": {
       "official": "簡單的使用方法，方便任何人使用的斧。",
       "tw_official": ""
@@ -5203,6 +5013,7 @@
     },
     "icon_url": "images/items/1304.gif",
     "category": "武器",
+    "slot": "單手斧",
     "description": {
       "official": "獸人使用的斧。",
       "tw_official": ""
@@ -5263,6 +5074,7 @@
     },
     "icon_url": "/images/items/13104.gif",
     "category": "武器",
+    "slot": "手槍",
     "description": {
       "official": "以訂單方式製作的稍微稀有的手槍，據說真品上刻有製作人的姓名Hit-10",
       "tw_official": ""
@@ -5290,6 +5102,7 @@
     },
     "icon_url": "/images/items/13158.gif",
     "category": "武器",
+    "slot": "格林機關槍",
     "description": {
       "official": "回轉電動式連發火器那威力太強大了有著 '屠殺者'的名稱對動物系魔物CRI+10",
       "tw_official": ""
@@ -5317,6 +5130,7 @@
     },
     "icon_url": "images/items/1352.gif",
     "category": "武器",
+    "slot": "雙手斧",
     "description": {
       "official": "多人戰鬥時所使用的雙手斧。",
       "tw_official": ""
@@ -5357,6 +5171,7 @@
     },
     "icon_url": "/images/items/1354.gif",
     "category": "武器",
+    "slot": "雙手斧",
     "description": {
       "official": "威力非常強的錘子。",
       "tw_official": ""
@@ -5380,6 +5195,7 @@
     },
     "icon_url": "/images/items/1358.gif",
     "category": "武器",
+    "slot": "雙手斧",
     "description": {
       "official": "無堅不摧的斧。",
       "tw_official": ""
@@ -5420,6 +5236,7 @@
     },
     "icon_url": "images/items/1402.gif",
     "category": "武器",
+    "slot": "單手矛/槍/戟",
     "description": {
       "official": "以前當作雙手長矛來使用的，被改良成單手長矛。",
       "tw_official": ""
@@ -5447,29 +5264,6 @@
       "神祕紫箱"
     ]
   },
-  "1404": {
-    "id": 1404,
-    "name": {
-      "zh_tw": "長矛",
-      "en": "Spear"
-    },
-    "icon_url": "/images/items/1404.gif",
-    "category": "武器",
-    "description": {
-      "official": "被廣泛使用的單手長矛。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 1700,
-      "sell_price": 850,
-      "weight": 85
-    },
-    "script": "{},{},{}",
-    "dropped_by": [],
-    "obtained_from": [
-      "神祕箱子"
-    ]
-  },
   "1405": {
     "id": 1405,
     "name": {
@@ -5478,6 +5272,7 @@
     },
     "icon_url": "images/items/1405.gif",
     "category": "武器",
+    "slot": "單手矛/槍/戟",
     "description": {
       "official": "被廣泛使用的單手長矛。",
       "tw_official": ""
@@ -5533,6 +5328,7 @@
     },
     "icon_url": "images/items/1408.gif",
     "category": "武器",
+    "slot": "單手矛/槍/戟",
     "description": {
       "official": "步兵們所使用的單手長矛。套裝資料:步兵長矛[4] & 重裝步兵帽子[1]",
       "tw_official": ""
@@ -5583,6 +5379,7 @@
     },
     "icon_url": "images/items/1451.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "有著向內彎曲的刀刃之長矛。",
       "tw_official": ""
@@ -5627,6 +5424,7 @@
     },
     "icon_url": "images/items/1452.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "有著向內彎曲的刀刃之長矛。",
       "tw_official": ""
@@ -5677,6 +5475,7 @@
     },
     "icon_url": "images/items/1455.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "是劍還是長矛已經不清楚了，有著大刀刃的長矛。",
       "tw_official": ""
@@ -5714,27 +5513,6 @@
       "神祕紫箱"
     ]
   },
-  "1456": {
-    "id": 1456,
-    "name": {
-      "zh_tw": "長槍",
-      "en": "Glaive__"
-    },
-    "icon_url": "/images/items/1456.gif",
-    "category": "武器",
-    "description": {
-      "official": "是劍還是長矛已經不清楚了，有著大刀刃的長矛。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20000,
-      "sell_price": 10000,
-      "weight": 120
-    },
-    "script": "{},{},{}",
-    "dropped_by": [],
-    "obtained_from": []
-  },
   "1458": {
     "id": 1458,
     "name": {
@@ -5743,6 +5521,7 @@
     },
     "icon_url": "/images/items/1458.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "寬刃上有兩個尖銳突起物之長戟。",
       "tw_official": ""
@@ -5778,6 +5557,7 @@
     },
     "icon_url": "/images/items/1460.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "專門用來狩獵的長戟，特徵是有三個刀刃。",
       "tw_official": ""
@@ -5812,6 +5592,7 @@
     },
     "icon_url": "images/items/1461.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "專門用來狩獵的長戟，特徵是有三個刀刃。",
       "tw_official": ""
@@ -5852,6 +5633,7 @@
     },
     "icon_url": "/images/items/1485.gif",
     "category": "武器",
+    "slot": "雙手矛/槍/戟",
     "description": {
       "official": "通常稱之謂三叉戟的雙手槍，即輕便又實用",
       "tw_official": ""
@@ -5879,6 +5661,7 @@
     },
     "icon_url": "images/items/1501.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "木製的鈍器，任何人都方便使用。",
       "tw_official": ""
@@ -5948,6 +5731,7 @@
     },
     "icon_url": "/images/items/15012.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "手工刺繡而成的純白長袍。固定詠唱-3%。自身施展的治愈術的恢復量增加5%。",
       "tw_official": ""
@@ -5995,6 +5779,7 @@
     },
     "icon_url": "images/items/1502.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "木製的鈍器，任何人都方便使用。",
       "tw_official": ""
@@ -6050,6 +5835,7 @@
     },
     "icon_url": "images/items/1505.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "鐵制的鈍器，是一種可以對對方痛擊的鈍器。",
       "tw_official": ""
@@ -6095,6 +5881,7 @@
     },
     "icon_url": "images/items/1508.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "被打到時，精神會變成眩暈狀態的鈍器。",
       "tw_official": ""
@@ -6125,6 +5912,7 @@
     },
     "icon_url": "images/items/1511.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "被打到時，會讓人感到好像被好幾個鈍器一起攻擊的感覺。",
       "tw_official": ""
@@ -6147,48 +5935,6 @@
       "神祕紫箱"
     ]
   },
-  "15126": {
-    "id": 15126,
-    "name": {
-      "zh_tw": "喵族專屬外套",
-      "en": "Doram_Only_Suit"
-    },
-    "icon_url": "images/items/15126.gif",
-    "category": "防具",
-    "description": {
-      "official": "愛乾淨的喵族所喜愛的輕裝。MHP+500，MSP+100。精煉值每+3時，DEX+1，INT+1。搭配喵族專屬鞋子、喵族專屬斗篷時，MHP+2000，詠唱不會中斷，固定詠唱-15%。(依外套、鞋子、斗篷的精煉值總和固定詠唱會再增加)套裝資料:杜蘭族專屬的道具套裝杜蘭族專屬的初級葉子套裝杜蘭族專屬的初級兔子套裝杜蘭族專屬的初級魚套裝",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 10000,
-      "sell_price": 5000,
-      "weight": 70
-    },
-    "script": "{ bonus bMaxHP,500; bonus bMaxSP,100; .@r = getrefine()/3; bonus bDex,.@r; bonus bInt,.@r; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2904,
-        "name": "精英毒蛇 / 憤怒毒蛇",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1318,
-        "name": "火焰龜",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1030,
-        "name": "毒蛇",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1135,
-        "name": "刺錘犬妖",
-        "rate": 0.2
-      }
-    ],
-    "obtained_from": []
-  },
   "1514": {
     "id": 1514,
     "name": {
@@ -6197,6 +5943,7 @@
     },
     "icon_url": "/images/items/1514.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "看起來非常凶暴，是種大型的鈍器。",
       "tw_official": ""
@@ -6232,6 +5979,7 @@
     },
     "icon_url": "/images/items/1517.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "上頭懸掛著鐵鍊，感覺更威武的鈍器。",
       "tw_official": ""
@@ -6302,6 +6050,7 @@
     },
     "icon_url": "images/items/1520.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "上頭懸掛著鐵鍊的鈍器。",
       "tw_official": ""
@@ -6324,33 +6073,6 @@
       "神祕紫箱"
     ]
   },
-  "1524": {
-    "id": 1524,
-    "name": {
-      "zh_tw": "黃金之錘",
-      "en": "Golden_Mace"
-    },
-    "icon_url": "/images/items/1524.gif",
-    "category": "武器",
-    "description": {
-      "official": "黃金製作成的鈍器。絕對不會受損。對不死系魔物增加10%的傷害。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 80
-    },
-    "script": "{ bonus2 bAddRace,RC_Undead,10; bonus bUnbreakableWeapon; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1086,
-        "name": "黃金蟲",
-        "rate": 0.75
-      }
-    ],
-    "obtained_from": []
-  },
   "1558": {
     "id": 1558,
     "name": {
@@ -6359,6 +6081,7 @@
     },
     "icon_url": "images/items/1558.gif",
     "category": "武器",
+    "slot": "書",
     "description": {
       "official": "少女的日記本。內容上寫的好像是日期天氣以及當天生活內容的樣子。因為是由未知的文字所寫成的，因此無法閱讀辨識。對魔物'妖道'增加150%的傷害。套裝資料:日記本[1] & 憤懣殭屍卡片",
       "tw_official": ""
@@ -6390,6 +6113,7 @@
     },
     "icon_url": "/images/items/1559.gif",
     "category": "武器",
+    "slot": "書",
     "description": {
       "official": "載入著所有龍族的起源和歷史的書，對龍族來說傳家之寶的寶物。INT+3無視龍族魔物的防禦力，以近身物理攻擊消滅龍族魔物時，增加SP10。套裝資料:天龍的遺產 & 天龍頭盔[1]",
       "tw_official": ""
@@ -6425,6 +6149,7 @@
     },
     "icon_url": "images/items/1602.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "輕巧又短小的手杖。MATK上升30",
       "tw_official": ""
@@ -6465,6 +6190,7 @@
     },
     "icon_url": "images/items/1604.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "蘊含魔力的手杖。INT+1，MATK上升45",
       "tw_official": ""
@@ -6504,6 +6230,7 @@
     },
     "icon_url": "/images/items/16040.gif",
     "category": "武器",
+    "slot": "鈍器",
     "description": {
       "official": "散髮著紅光的鈍器。ATK增加至(精煉*精煉) (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。不可破壞",
       "tw_official": ""
@@ -6581,6 +6308,7 @@
     },
     "icon_url": "images/items/1605.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "蘊含魔力的手杖。INT+1，MATK上升45",
       "tw_official": ""
@@ -6603,6 +6331,42 @@
       "神祕紫箱"
     ]
   },
+  "1611": {
+    "id": 1611,
+    "name": {
+      "zh_tw": "言靈魔杖[2]",
+      "en": "Arc_Wand_"
+    },
+    "icon_url": "/images/items/1611.gif",
+    "category": "武器",
+    "slot": "單手杖",
+    "description": {
+      "official": "蘊含魔法力量的手杖。INT+3，MATK上升95",
+      "tw_official": ""
+    },
+    "attributes": {
+      "buy_price": 45000,
+      "sell_price": 22500,
+      "weight": 40
+    },
+    "script": "{ bonus bInt,3; },{},{}",
+    "dropped_by": [
+      {
+        "monster_id": 2614,
+        "name": "精英 / 雄壯 風魔巫師",
+        "rate": 0.2
+      },
+      {
+        "monster_id": 1263,
+        "name": "風魔巫師",
+        "rate": 0.04
+      }
+    ],
+    "obtained_from": [
+      "神祕箱子",
+      "神祕紫箱"
+    ]
+  },
   "1613": {
     "id": 1613,
     "name": {
@@ -6611,6 +6375,7 @@
     },
     "icon_url": "/images/items/1613.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "使用時可以將使用者的精神力轉換為破壞力的手杖。每次攻擊時SP-5，STR+10，MATK+100",
       "tw_official": ""
@@ -6656,6 +6421,7 @@
     },
     "icon_url": "/images/items/1622.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "用催眠效果讓初學者好像變成，大魔法師一樣感覺的催眠師的魔杖INT+1，MATK+120",
       "tw_official": ""
@@ -6716,6 +6482,7 @@
     },
     "icon_url": "/images/items/1649.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "守護精靈族將魔石加工而成的手杖，精煉每提高1點，固定詠唱就-1%(不會跟卡片或其他道具的減少效果重疊)。MATK+180。套裝資料:拉菲尼之杖 & 守護精靈神盾[1]",
       "tw_official": ""
@@ -6748,6 +6515,7 @@
     },
     "icon_url": "images/items/1690.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "上面坐著蜻蜓且蘊含魔法的堅固狐尾草。MATK+180，MSP+50。精煉值每+3時，MATK+10，MSP+10。無法破壞",
       "tw_official": ""
@@ -6790,6 +6558,7 @@
     },
     "icon_url": "images/items/1694.gif",
     "category": "武器",
+    "slot": "單手杖",
     "description": {
       "official": "用塑膠製成的狐尾草模型。遠程物理攻擊力+8%，MHP+100。精煉值每+3時，DEX+2，MSP+10。無法破壞",
       "tw_official": ""
@@ -6832,6 +6601,7 @@
     },
     "icon_url": "images/items/1702.gif",
     "category": "武器",
+    "slot": "弓",
     "description": {
       "official": "傷害並不是很高，但使用起來很方便的弓。",
       "tw_official": ""
@@ -6867,6 +6637,7 @@
     },
     "icon_url": "/images/items/1704.gif",
     "category": "武器",
+    "slot": "弓",
     "description": {
       "official": "用各種材料混合而成的弓，擁有較高的傷害為重點。",
       "tw_official": ""
@@ -6890,6 +6661,7 @@
     },
     "icon_url": "/images/items/1705.gif",
     "category": "武器",
+    "slot": "弓",
     "description": {
       "official": "用各種材料混合而成的弓，擁有較高的傷害為重點。",
       "tw_official": ""
@@ -6920,6 +6692,7 @@
     },
     "icon_url": "images/items/1708.gif",
     "category": "武器",
+    "slot": "弓",
     "description": {
       "official": "巨大的弓，看起來很難操作。",
       "tw_official": ""
@@ -6950,6 +6723,7 @@
     },
     "icon_url": "/images/items/1711.gif",
     "category": "武器",
+    "slot": "弓",
     "description": {
       "official": "優點為擁有快速連射和較高的破壞力為優點，為十字造型的弓。",
       "tw_official": ""
@@ -6977,80 +6751,6 @@
       "神祕紫箱"
     ]
   },
-  "1712": {
-    "id": 1712,
-    "name": {
-      "zh_tw": "十字弓",
-      "en": "CrossBow__"
-    },
-    "icon_url": "/images/items/1712.gif",
-    "category": "武器",
-    "description": {
-      "official": "十字造型的弓。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 17000,
-      "sell_price": 8500,
-      "weight": 90
-    },
-    "script": "{},{},{}",
-    "dropped_by": [],
-    "obtained_from": []
-  },
-  "1713": {
-    "id": 1713,
-    "name": {
-      "zh_tw": "埃布爾雷弓",
-      "en": "Arbalest"
-    },
-    "icon_url": "/images/items/1713.gif",
-    "category": "武器",
-    "description": {
-      "official": "提昇HIT和傷害的弓。DEX+2",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 48000,
-      "sell_price": 24000,
-      "weight": 100
-    },
-    "script": "{ bonus bDex,2; },{},{}",
-    "dropped_by": [],
-    "obtained_from": [
-      "神祕箱子"
-    ]
-  },
-  "1715": {
-    "id": 1715,
-    "name": {
-      "zh_tw": "埃布爾雷弓",
-      "en": "Arbalest_"
-    },
-    "icon_url": "/images/items/1715.gif",
-    "category": "武器",
-    "description": {
-      "official": "提昇HIT和傷害的弓。DEX+2",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 48000,
-      "sell_price": 24000,
-      "weight": 100
-    },
-    "script": "{ bonus bDex,2; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1276,
-        "name": "幽靈弓箭手",
-        "rate": 0.02
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "1716": {
     "id": 1716,
     "name": {
@@ -7059,6 +6759,7 @@
     },
     "icon_url": "/images/items/1716.gif",
     "category": "武器",
+    "slot": "弓",
     "description": {
       "official": "用動物的角作成的弓，優點為有較高的傷害和精準度。",
       "tw_official": ""
@@ -7099,6 +6800,7 @@
     },
     "icon_url": "images/items/1750.gif",
     "category": "彈藥/扔的武器",
+    "slot": "箭矢",
     "description": {
       "official": "在任何地方都可以取得，是種一般常見的箭矢。",
       "tw_official": ""
@@ -7134,6 +6836,7 @@
     },
     "icon_url": "images/items/1752.gif",
     "category": "彈藥/扔的武器",
+    "slot": "箭矢",
     "description": {
       "official": "前端可以點火的箭矢。套裝資料:灼熱之弓[1] + 火箭矢 套裝灼熱之_弓[1] , 火箭矢 & 元素衣服[1]火箭矢 & 灼熱之_弓[2]火箭矢, 灼熱之_弓[2] & 元素衣服[1]",
       "tw_official": ""
@@ -7179,6 +6882,7 @@
     },
     "icon_url": "/images/items/1765.gif",
     "category": "彈藥/扔的武器",
+    "slot": "箭矢",
     "description": {
       "official": "以神之金屬製成且非常強大的箭矢。",
       "tw_official": ""
@@ -7209,6 +6913,7 @@
     },
     "icon_url": "/images/items/1801.gif",
     "category": "武器",
+    "slot": "拳套",
     "description": {
       "official": "模仿虎爪製成的拳套。",
       "tw_official": ""
@@ -7248,6 +6953,7 @@
     },
     "icon_url": "/images/items/1812.gif",
     "category": "武器",
+    "slot": "拳套",
     "description": {
       "official": "模仿鷹爪製成的拳套。",
       "tw_official": ""
@@ -7288,6 +6994,7 @@
     },
     "icon_url": "images/items/1914.gif",
     "category": "武器",
+    "slot": "樂器",
     "description": {
       "official": "只要拿在手上就會想要彈些熱情的歌曲，擁有魔力般的吉他。",
       "tw_official": ""
@@ -7328,6 +7035,7 @@
     },
     "icon_url": "images/items/1916.gif",
     "category": "武器",
+    "slot": "樂器",
     "description": {
       "official": "據說擁有這吉他的人可以和石頭對話的，不過實際上不要嘗試，因為只會留下自身的。",
       "tw_official": ""
@@ -7363,6 +7071,7 @@
     },
     "icon_url": "images/items/1917.gif",
     "category": "武器",
+    "slot": "樂器",
     "description": {
       "official": "演奏音樂時不知道從哪裡漂來一陣風，突然間想要讓你去旅行的吉他。",
       "tw_official": ""
@@ -7398,6 +7107,7 @@
     },
     "icon_url": "/images/items/1957.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "尾端系著小錘子的鞭子。",
       "tw_official": ""
@@ -7433,6 +7143,7 @@
     },
     "icon_url": "/images/items/1964.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "鞭子裡面鑲嵌一些鐵珠，提高傷害的殺傷用武器。CRI+5FLEE+10完全迴避+2",
       "tw_official": ""
@@ -7470,6 +7181,7 @@
     },
     "icon_url": "/images/items/1965.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "有火焰的氣息，用魔物的堅韌皮革所做成的鞭子",
       "tw_official": ""
@@ -7505,6 +7217,7 @@
     },
     "icon_url": "/images/items/1966.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "不會融化因魔法處理過的銳利的冰角，所縫紉成的鞭子",
       "tw_official": ""
@@ -7535,6 +7248,7 @@
     },
     "icon_url": "images/items/1967.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "只選用堅韌的樹根，所編織成的鞭子",
       "tw_official": ""
@@ -7575,6 +7289,7 @@
     },
     "icon_url": "/images/items/1969.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "把碎裂的刀刃用繩子縫紉製成鞭子的型態，有砍的味道很過癮的鞭子，幾乎很接近劍的型態。攻擊時會有3%的幾率引起敵人出血。",
       "tw_official": ""
@@ -7610,6 +7325,7 @@
     },
     "icon_url": "/images/items/1973.gif",
     "category": "武器",
+    "slot": "鞭子",
     "description": {
       "official": "據說是用西洋有名的海洋魔女之腳所做成的鞭，據說有著能把對象的正氣給搶走的力量，若見到魔女的話請小心。當敵人死亡時，恢復SP5當受到物理攻擊時，有一定的幾率啟動霜凍之術 3級當攻擊時，有一定的幾率以自身為中心11x11空格範圍內 對所有的敵人施展沉默",
       "tw_official": ""
@@ -7645,6 +7361,7 @@
     },
     "icon_url": "/images/items/19849.gif",
     "category": "防具",
+    "slot": "服裝裝備 (上中下)",
     "description": {
       "official": "魔物殭屍戴的帽子，帽子上跕著不明的符咒以及長辮子。",
       "tw_official": ""
@@ -7658,48 +7375,6 @@
     "dropped_by": [],
     "obtained_from": []
   },
-  "20788": {
-    "id": 20788,
-    "name": {
-      "zh_tw": "喵族專屬斗篷",
-      "en": "Doram_Only_Cape"
-    },
-    "icon_url": "images/items/20788.gif",
-    "category": "防具",
-    "description": {
-      "official": "喵族所喜愛紋路的斗篷。FLEE+5、無屬性抗性+2%。精煉值每+3時，完全迴避+1。套裝資料:杜蘭族專屬的道具套裝杜蘭族專屬的初級葉子套裝杜蘭族專屬的初級兔子套裝杜蘭族專屬的初級魚套裝",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 10000,
-      "sell_price": 5000,
-      "weight": 30
-    },
-    "script": "{ bonus bFlee,5; bonus2 bSubEle,Ele_Neutral,2; bonus bFlee2,getrefine()/3; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2889,
-        "name": "精英風靈龜 / 菁英風靈龜",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1315,
-        "name": "風靈龜",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1135,
-        "name": "刺錘犬妖",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1384,
-        "name": "七彩飛龍",
-        "rate": 0.2
-      }
-    ],
-    "obtained_from": []
-  },
   "2102": {
     "id": 2102,
     "name": {
@@ -7708,6 +7383,7 @@
     },
     "icon_url": "images/items/2102.gif",
     "category": "防具",
+    "slot": "盾牌",
     "description": {
       "official": "可以抵擋敵人攻擊的簡易道具。",
       "tw_official": ""
@@ -7773,6 +7449,7 @@
     },
     "icon_url": "images/items/2104.gif",
     "category": "防具",
+    "slot": "盾牌",
     "description": {
       "official": "製作簡單且方便使用，所以普遍使用的圓形盾牌。可以裝備",
       "tw_official": ""
@@ -7843,6 +7520,7 @@
     },
     "icon_url": "images/items/2106.gif",
     "category": "防具",
+    "slot": "盾牌",
     "description": {
       "official": "用堅硬的金屬製成的防禦道具。",
       "tw_official": ""
@@ -7898,6 +7576,7 @@
     },
     "icon_url": "images/items/2116.gif",
     "category": "防具",
+    "slot": "盾牌",
     "description": {
       "official": "負責超級初學者天使的盾牌，裡面滲透著打敗惡的神聖的力量對惡魔型魔物傷害減少5%套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
       "tw_official": ""
@@ -7925,6 +7604,7 @@
     },
     "icon_url": "images/items/2146.gif",
     "category": "防具",
+    "slot": "盾牌",
     "description": {
       "official": "把銀和鐵混合而成的一般薄盾，據說反射光線時很衒。",
       "tw_official": ""
@@ -7972,6 +7652,7 @@
     },
     "icon_url": "images/items/2147.gif",
     "category": "防具",
+    "slot": "盾牌",
     "description": {
       "official": "普遍廣泛被使用的圓形盾牌，外框上使用鋁以加強防禦力。",
       "tw_official": ""
@@ -8014,6 +7695,7 @@
     },
     "icon_url": "/images/items/2206.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "婚禮時，女生戴在頭上的紗，男生戴在頭上的話，會有可能被人家誤會。MDEF+5",
       "tw_official": ""
@@ -8074,6 +7756,7 @@
     },
     "icon_url": "images/items/2207.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "用來插在頭上當裝飾的花。受到植物系魔物的攻擊時，可減少10% 的傷害。",
       "tw_official": ""
@@ -8136,48 +7819,6 @@
       "神祕紫箱"
     ]
   },
-  "22083": {
-    "id": 22083,
-    "name": {
-      "zh_tw": "喵族專屬靴子",
-      "en": "Doram_Only_Shoes"
-    },
-    "icon_url": "images/items/22083.gif",
-    "category": "防具",
-    "description": {
-      "official": "考慮喵族的小腳而訂做的專屬鞋子。MHP+100，MSP+50。精煉值每+3時，HP恢復速度+10%，SP恢復速度+10%。套裝資料:杜蘭族專屬的道具套裝杜蘭族專屬的初級葉子套裝杜蘭族專屬的初級兔子套裝杜蘭族專屬的初級魚套裝",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 10000,
-      "sell_price": 5000,
-      "weight": 50
-    },
-    "script": "{ bonus bMaxHP,100; bonus bMaxSP,50; .@r = getrefine()/3; bonus bHPrecovRate,.@r*10; bonus bSPrecovRate,.@r*10; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2647,
-        "name": "精英岩石龜 / 雄壯岩石龜",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1134,
-        "name": "榔頭犬妖",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1316,
-        "name": "岩石龜",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1385,
-        "name": "七彩地龍",
-        "rate": 0.2
-      }
-    ],
-    "obtained_from": []
-  },
   "2209": {
     "id": 2209,
     "name": {
@@ -8186,6 +7827,7 @@
     },
     "icon_url": "images/items/2209.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "用布條做成的蝴蝶髮帶，主要是給女性使用。MDEF+3",
       "tw_official": ""
@@ -8221,6 +7863,7 @@
     },
     "icon_url": "images/items/2213.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "貓耳模樣的髮圈。",
       "tw_official": ""
@@ -8261,6 +7904,7 @@
     },
     "icon_url": "images/items/2220.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "可以遮蔽陽光的寬鬆帽子。",
       "tw_official": ""
@@ -8301,6 +7945,7 @@
     },
     "icon_url": "images/items/2221.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "可以遮蔽陽光的寬鬆帽子。",
       "tw_official": ""
@@ -8341,6 +7986,7 @@
     },
     "icon_url": "/images/items/2225.gif",
     "category": "防具",
+    "slot": "頭飾 (上中)",
     "description": {
       "official": "皮革製成的防風眼鏡。",
       "tw_official": ""
@@ -8396,6 +8042,7 @@
     },
     "icon_url": "images/items/2227.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "簡單的設計，有著活動性和使用性的帽子。",
       "tw_official": ""
@@ -8431,6 +8078,7 @@
     },
     "icon_url": "images/items/2244.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "大蝴蝶結，可讓女性更可愛、漂亮。MDEF+3",
       "tw_official": ""
@@ -8476,6 +8124,7 @@
     },
     "icon_url": "images/items/2245.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "紳士們戴的時髦帽子，外觀給人感覺莊重大方。",
       "tw_official": ""
@@ -8528,36 +8177,6 @@
       "神祕紫箱"
     ]
   },
-  "2246": {
-    "id": 2246,
-    "name": {
-      "zh_tw": "黃金帽",
-      "en": "上"
-    },
-    "icon_url": "/images/items/2246.gif",
-    "category": "防具",
-    "description": {
-      "official": "用黃金制成的保護頭部用器具。因為主要的原料為黃金，所以相當的堅硬，防禦力強。絕對不會受損。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 90
-    },
-    "script": "{ bonus bUnbreakableHelm; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1086,
-        "name": "黃金蟲",
-        "rate": 1.25
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "2247": {
     "id": 2247,
     "name": {
@@ -8566,6 +8185,7 @@
     },
     "icon_url": "images/items/2247.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "年老者戴的帽子，可以讓人回想起年少時期的歡樂時光。",
       "tw_official": ""
@@ -8593,41 +8213,6 @@
       "神祕紫箱"
     ]
   },
-  "2248": {
-    "id": 2248,
-    "name": {
-      "zh_tw": "牛仔帽",
-      "en": "上"
-    },
-    "icon_url": "images/items/2248.gif",
-    "category": "防具",
-    "description": {
-      "official": "帶有西部風味，西部牛仔們戴的帽子。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 15000,
-      "sell_price": 7500,
-      "weight": 40
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 3422,
-        "name": "流浪之狼",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1092,
-        "name": "流浪之狼",
-        "rate": 1.0
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "2250": {
     "id": 2250,
     "name": {
@@ -8636,6 +8221,7 @@
     },
     "icon_url": "images/items/2250.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "用來固定頭髮的髮圈，上面有一個小蝴蝶結為重點。最大SP+20",
       "tw_official": ""
@@ -8671,6 +8257,7 @@
     },
     "icon_url": "images/items/2253.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "戴在頭上裝飾用的向日葵頭飾。受到昆蟲系魔物的攻擊時，可減少10%的傷害",
       "tw_official": ""
@@ -8716,6 +8303,7 @@
     },
     "icon_url": "images/items/2257.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "純白色的角，尾端不但不尖銳，還相當的圓滑。",
       "tw_official": ""
@@ -8771,6 +8359,7 @@
     },
     "icon_url": "images/items/2259.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "攜帶的時候，會讓人感覺可以遨遊於天上的髮圈。",
       "tw_official": ""
@@ -8806,6 +8395,7 @@
     },
     "icon_url": "images/items/2262.gif",
     "category": "防具",
+    "slot": "頭飾 (下)",
     "description": {
       "official": "小丑戴在鼻子上的飾品。",
       "tw_official": ""
@@ -8866,6 +8456,7 @@
     },
     "icon_url": "images/items/2263.gif",
     "category": "防具",
+    "slot": "頭飾 (中)",
     "description": {
       "official": "時髦的眼罩。",
       "tw_official": ""
@@ -8896,6 +8487,7 @@
     },
     "icon_url": "images/items/2264.gif",
     "category": "防具",
+    "slot": "頭飾 (上中下)",
     "description": {
       "official": "魔物殭屍戴的帽子。帽子上有不知名的符咒以及長辮子。對不死系魔物的損害，10%下降。不可精煉",
       "tw_official": ""
@@ -8928,6 +8520,7 @@
     },
     "icon_url": "images/items/2267.gif",
     "category": "防具",
+    "slot": "頭飾 (下)",
     "description": {
       "official": "吸菸有害人體健康，未成年的人絕對禁止吸菸。受到昆蟲系敵人的攻擊時，可減少3%的傷害。",
       "tw_official": ""
@@ -8968,6 +8561,7 @@
     },
     "icon_url": "images/items/2269.gif",
     "category": "防具",
+    "slot": "頭飾 (下)",
     "description": {
       "official": "小小的花葉，含在嘴裡會讓人有幸福浪漫的感覺。受到植物系敵人的攻擊時，可減少3%的傷害。套裝資料:花葉 & Persika[1]花葉 & Ancient Elven Ear",
       "tw_official": ""
@@ -9033,6 +8627,7 @@
     },
     "icon_url": "images/items/2270.gif",
     "category": "防具",
+    "slot": "頭飾 (下)",
     "description": {
       "official": "草葉，含在嘴裡時，會隨著風飄蕩，有到處流浪的感覺。受到植物系敵人的攻擊時，可減少3%的傷害。套裝資料:草葉 & Persika[1]草葉 & Ancient Elven Ear",
       "tw_official": ""
@@ -9133,6 +8728,7 @@
     },
     "icon_url": "/images/items/2272.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "上面寫著STOP的標誌板。",
       "tw_official": ""
@@ -9165,6 +8761,7 @@
     },
     "icon_url": "images/items/2275.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "可防止陽光照射，擁有相當好的隔熱能力。用通風材料做成的頭巾。",
       "tw_official": ""
@@ -9195,6 +8792,7 @@
     },
     "icon_url": "/images/items/2276.gif",
     "category": "防具",
+    "slot": "頭飾 (中)",
     "description": {
       "official": "外觀上有睜大眼睛模樣的眼鏡。",
       "tw_official": ""
@@ -9245,6 +8843,7 @@
     },
     "icon_url": "/images/items/2277.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "可以代替醫生照顧患者的護士所戴的帽子。INT+1",
       "tw_official": ""
@@ -9285,6 +8884,7 @@
     },
     "icon_url": "images/items/2279.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "仿照火線樣式製造而成的頭飾。",
       "tw_official": ""
@@ -9315,6 +8915,7 @@
     },
     "icon_url": "/images/items/2282.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "亡者前往天國時頭上出現的光環，配帶時並不會有隱匿的效果。受到聖屬性的傷害減少15%。",
       "tw_official": ""
@@ -9375,6 +8976,7 @@
     },
     "icon_url": "images/items/2285.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "據說那蘋果是古代某位神射手在相當遠的距離下所射中的蘋果。DEX+3",
       "tw_official": ""
@@ -9415,6 +9017,7 @@
     },
     "icon_url": "images/items/2286.gif",
     "category": "防具",
+    "slot": "頭飾 (中)",
     "description": {
       "official": "仿照妖精的耳朵做成的，配帶時可以感覺到變身為妖精的感覺。套裝資料:妖精長耳朵飾 & Skull Cap [1]",
       "tw_official": ""
@@ -9459,6 +9062,7 @@
     },
     "icon_url": "images/items/2287.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "有象徵海盜骷髏頭的圖案，會賦予佩帶此頭巾的人勇猛的力量。STR+1",
       "tw_official": ""
@@ -9499,6 +9103,7 @@
     },
     "icon_url": "images/items/2289.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "動物的屎或大便等的，說起來會比較不文雅，因此統稱糞便。受到人型系敵人的攻擊時，可減少10%的傷害不可精煉",
       "tw_official": ""
@@ -9549,6 +9154,7 @@
     },
     "icon_url": "images/items/2291.gif",
     "category": "防具",
+    "slot": "頭飾 (中)",
     "description": {
       "official": "蝴蝶模樣製成的眼鏡，戴上時會有很奇妙的感覺。對人型系敵人，增加3%的傷害",
       "tw_official": ""
@@ -9589,6 +9195,7 @@
     },
     "icon_url": "images/items/2297.gif",
     "category": "防具",
+    "slot": "頭飾 (中下)",
     "description": {
       "official": "哥布靈族戴的假面，帶的時候會被人指指點點。",
       "tw_official": ""
@@ -9645,6 +9252,7 @@
     },
     "icon_url": "images/items/2298.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "昆蟲草綠色的觸鬚，配帶時會感覺到如蝗蟲跳躍。不可精煉",
       "tw_official": ""
@@ -9680,6 +9288,7 @@
     },
     "icon_url": "/images/items/2299.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "獸人族的頭盔。獸人們的頭具樣式相當的原始。",
       "tw_official": ""
@@ -9720,6 +9329,7 @@
     },
     "icon_url": "images/items/2301.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "純棉製成的衣服，穿著時非常舒服的衣物。",
       "tw_official": ""
@@ -9759,6 +9369,7 @@
     },
     "icon_url": "images/items/2302.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "純棉製成的衣服。",
       "tw_official": ""
@@ -9799,6 +9410,7 @@
     },
     "icon_url": "images/items/2303.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "價格低廉的皮製外套，穿久了會有特別的皮革風采。",
       "tw_official": ""
@@ -9843,6 +9455,7 @@
     },
     "icon_url": "images/items/2304.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "價格低廉的皮製外套。",
       "tw_official": ""
@@ -9888,6 +9501,7 @@
     },
     "icon_url": "images/items/2305.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "專為冒險者製作的衣服。",
       "tw_official": ""
@@ -9917,6 +9531,7 @@
     },
     "icon_url": "images/items/2306.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "專為冒險者製作的衣服。",
       "tw_official": ""
@@ -9957,6 +9572,7 @@
     },
     "icon_url": "images/items/2308.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "沒有腰身的長大衣。",
       "tw_official": ""
@@ -10012,6 +9628,7 @@
     },
     "icon_url": "images/items/2310.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "長度到膝蓋的大衣，有防寒效果。不過夏天穿起來會很熱喔。",
       "tw_official": ""
@@ -10074,41 +9691,6 @@
       "神祕紫箱"
     ]
   },
-  "2311": {
-    "id": 2311,
-    "name": {
-      "zh_tw": "毛皮大衣",
-      "en": "Mink_Coat"
-    },
-    "icon_url": "images/items/2311.gif",
-    "category": "防具",
-    "description": {
-      "official": "用柔軟的動物皮毛作成的外套，不過是被保育團體批評最多的衣服。希望大家能愛護動物。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 230
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1220,
-        "name": "沙漠之狼",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "2312": {
     "id": 2312,
     "name": {
@@ -10117,6 +9699,7 @@
     },
     "icon_url": "/images/items/2312.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "用堅硬的金屬做成的鎧甲。套裝資料:鐵制鎧甲 & 過度的改變",
       "tw_official": ""
@@ -10151,6 +9734,7 @@
     },
     "icon_url": "images/items/2313.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "用堅硬的金屬做成的鎧甲。套裝資料:鐵制鎧甲 [1] & 過度的改變",
       "tw_official": ""
@@ -10211,6 +9795,7 @@
     },
     "icon_url": "images/items/2315.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "堅硬的金屬編成的鎧甲。",
       "tw_official": ""
@@ -10301,6 +9886,7 @@
     },
     "icon_url": "/images/items/2317.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "用神祕金屬混和鋼鐵做成的鎧甲。",
       "tw_official": ""
@@ -10381,6 +9967,7 @@
     },
     "icon_url": "images/items/2322.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "用高級的布料製成的衣服，具有卓越的魔法防禦力。MDEF+10",
       "tw_official": ""
@@ -10436,6 +10023,7 @@
     },
     "icon_url": "/images/items/2326.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "受過洗禮的衣服。MDEF+5",
       "tw_official": ""
@@ -10486,6 +10074,7 @@
     },
     "icon_url": "/images/items/2333.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "以價值不斐的銀絲所編制成的衣服。",
       "tw_official": ""
@@ -10546,6 +10135,7 @@
     },
     "icon_url": "/images/items/2336.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "相當輕便的衣服。AGI+1",
       "tw_official": ""
@@ -10611,6 +10201,7 @@
     },
     "icon_url": "images/items/2337.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "在東方某一島國傳進來的輕便衣服。AGI+1，MDEF+3套裝資料:忍服 血櫻 & 火忍西怒畢的腰帶",
       "tw_official": ""
@@ -10666,6 +10257,7 @@
     },
     "icon_url": "/images/items/2338.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "可以說是所有的女性，都咪想著有一天穿到這禮服是言之不為過的。MDEF+15",
       "tw_official": ""
@@ -10698,6 +10290,7 @@
     },
     "icon_url": "images/items/2355.gif",
     "category": "防具",
+    "slot": "盔甲",
     "description": {
       "official": "負責超級初學者天使的外袍，把全身輕柔包圍的試穿感最棒了！MDEF+20當把天使的加護、天使的降臨、天使的保護、天使的溫氣、天使之吻 一起裝備時，HP+900，SP+100，受到物理攻擊時，以較低的幾率給自身聖母之祈福 1技能套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
       "tw_official": ""
@@ -10730,6 +10323,7 @@
     },
     "icon_url": "images/items/2402.gif",
     "category": "防具",
+    "slot": "鞋子",
     "description": {
       "official": "很方便著裝的鞋子，不過沒有什麼防禦力。",
       "tw_official": ""
@@ -10800,6 +10394,7 @@
     },
     "icon_url": "images/items/2404.gif",
     "category": "防具",
+    "slot": "鞋子",
     "description": {
       "official": "保護到腳腕的長靴。",
       "tw_official": ""
@@ -10845,6 +10440,7 @@
     },
     "icon_url": "images/items/2406.gif",
     "category": "防具",
+    "slot": "鞋子",
     "description": {
       "official": "用堅硬的布料做成的長靴。",
       "tw_official": ""
@@ -10935,6 +10531,7 @@
     },
     "icon_url": "images/items/2420.gif",
     "category": "防具",
+    "slot": "鞋子",
     "description": {
       "official": "負責超級初學者天使的涼鞋，穿著這雙涼鞋跳躍的話，感覺上可以跳到天空似的MHP+100套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
       "tw_official": ""
@@ -10969,6 +10566,7 @@
     },
     "icon_url": "images/items/2502.gif",
     "category": "防具",
+    "slot": "披風",
     "description": {
       "official": "保護肩膀和頭部的連帽披肩。",
       "tw_official": ""
@@ -11029,6 +10627,7 @@
     },
     "icon_url": "/images/items/2504.gif",
     "category": "防具",
+    "slot": "披風",
     "description": {
       "official": "遮住脖子和肩膀的圍巾式斗篷。",
       "tw_official": ""
@@ -11071,38 +10670,6 @@
       "神祕紫箱"
     ]
   },
-  "2521": {
-    "id": 2521,
-    "name": {
-      "zh_tw": "天使的溫氣",
-      "en": "Angel's_Warmth"
-    },
-    "icon_url": "images/items/2521.gif",
-    "category": "防具",
-    "description": {
-      "official": "負責超級初學者天使的小背心，披在身上的話較暖和，即使睡在外面好像也不會被著涼的HP自然恢復力增加5%套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 10000,
-      "sell_price": 5000,
-      "weight": 40
-    },
-    "script": "{ bonus bHPrecovRate,5; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 3422,
-        "name": "流浪之狼",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 1092,
-        "name": "流浪之狼",
-        "rate": 5.0
-      }
-    ],
-    "obtained_from": []
-  },
   "2527": {
     "id": 2527,
     "name": {
@@ -11111,6 +10678,7 @@
     },
     "icon_url": "/images/items/2527.gif",
     "category": "防具",
+    "slot": "披風",
     "description": {
       "official": "把龍的呼吸吹進到裡面的圍巾，有著暖暖的黏稠的感覺是無法避免的從龍族魔物那裡得到的傷害減少15%，當和龍牙劍、天龍短劍、加野矛一起裝備時，對龍族增加5%的傷害套裝資料:龍牙劍 & 龍之呼吸加野矛 & 龍之呼吸[1] 套裝加野矛[2] , 龍之_呼吸[1] & 天龍頭盔[1]加野矛, 龍之_呼吸[1] & 天龍頭盔[1]龍牙劍[2] , 龍之_呼吸[1] & 天龍頭盔[1]龍之呼吸[1] & 天龍短劍龍牙劍, 龍之_呼吸[1] & 天龍頭盔[1]龍之_呼吸[1] , 天龍頭盔[1] & 天龍短劍龍之_呼吸[1] , 天龍頭盔[1] & 天龍短劍[2]加野矛[2] & 龍之_呼吸[1]龍之_呼吸[1] & 天龍短劍[2]龍牙劍[2] & 龍之_呼吸[1]",
       "tw_official": ""
@@ -11143,6 +10711,7 @@
     },
     "icon_url": "/images/items/2602.gif",
     "category": "防具",
+    "slot": "裝飾品",
     "description": {
       "official": "掛在耳朵時，會感覺到神祕的力量，是種讓精神抖擻的神奇耳環。INT+2",
       "tw_official": ""
@@ -11179,6 +10748,7 @@
     },
     "icon_url": "images/items/2607.gif",
     "category": "防具",
+    "slot": "裝飾品",
     "description": {
       "official": "仔細看的話，可以插某種物品的裝飾品。SP+10套裝資料:發夾[1] & 精靈戒指發夾[1] & 精靈戒指 (租賃物品)發夾[1] & Spiritual Ring (M)",
       "tw_official": ""
@@ -11235,6 +10805,7 @@
     },
     "icon_url": "images/items/2609.gif",
     "category": "防具",
+    "slot": "裝飾品",
     "description": {
       "official": "骷髏頭模樣的戒指，內部刻有 '死後也將永遠。。。'的字樣在上面。",
       "tw_official": ""
@@ -11391,6 +10962,7 @@
     },
     "icon_url": "/images/items/2621.gif",
     "category": "防具",
+    "slot": "裝飾品",
     "description": {
       "official": "古代的戒指STR+1",
       "tw_official": ""
@@ -11519,209 +11091,6 @@
       "寶石盒"
     ]
   },
-  "28106": {
-    "id": 28106,
-    "name": {
-      "zh_tw": "緋紅色雙手斧",
-      "en": "Scarlet_Twohand_Axe"
-    },
-    "icon_url": "images/items/28106.gif",
-    "category": "武器",
-    "description": {
-      "official": "散髮著紅光的雙手斧。ATK增加至(精煉*精煉) (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。不可破壞",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 200
-    },
-    "script": "{ .@r = getrefine(); bonus bBaseAtk,(((BaseLevel-70)/10)*5)+(.@r<=15?pow(.@r,2):225); bonus bUnbreakableWeapon; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2767,
-        "name": "精英 / 憤怒 狂暴米諾斯",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 2353,
-        "name": "米洛斯-咪魘",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1310,
-        "name": "狂暴米諾斯",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1135,
-        "name": "刺錘犬妖",
-        "rate": 0.5
-      }
-    ],
-    "obtained_from": []
-  },
-  "28380": {
-    "id": 28380,
-    "name": {
-      "zh_tw": "青澀草項鍊",
-      "en": "Fresh_G_Necklace"
-    },
-    "icon_url": "images/items/28380.gif",
-    "category": "防具",
-    "description": {
-      "official": "用幸運草編制的青澀項鍊。完全迴避+5，白鼠創傷技能冷卻時間-5秒。套裝資料:杜蘭族專屬的初級兔子套裝杜蘭族高級的中級兔子套裝杜蘭族優雅的高級兔子套裝",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 10
-    },
-    "script": "{ bonus bFlee2,5; bonus2 bSkillCooldown,\"SU_SCAROFTAROU\",-5000; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2640,
-        "name": "精英史汀 / 狡猾史汀",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1134,
-        "name": "榔頭犬妖",
-        "rate": 0.2
-      },
-      {
-        "monster_id": 1207,
-        "name": "史汀",
-        "rate": 0.2
-      }
-    ],
-    "obtained_from": []
-  },
-  "2859": {
-    "id": 2859,
-    "name": {
-      "zh_tw": "鈦合金靈球",
-      "en": "Golden_Rod_Orb"
-    },
-    "icon_url": "images/items/2859.gif",
-    "category": "防具",
-    "description": {
-      "official": "保存著風之力量之金色水晶球。INT+1，MDEF+2。受到風屬性的傷害減少15%。受到物理、魔法攻擊時有幾率觸發雷鳴術Lv3。套裝資料:黃金領主之杖[2] , 黃金領主之靴[1] , 黃金領主之珠[1] & 黃金領主外袍黃金領主之杖Ⅱ[1] , 黃金領主之靴[1] , 黃金領主之珠[1] & 黃金領主外袍",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 20
-    },
-    "script": "{ bonus bMdef,2; bonus bInt,1; bonus2 bSubEle,Ele_Wind,15; bonus5 bAutoSpellWhenHit,\"WZ_JUPITEL\",3,30,BF_WEAPON|BF_MAGIC,1; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2785,
-        "name": "精英犬妖 / 雄壯犬妖",
-        "rate": 0.25
-      },
-      {
-        "monster_id": 1133,
-        "name": "大斧犬妖",
-        "rate": 0.05
-      }
-    ],
-    "obtained_from": []
-  },
-  "28705": {
-    "id": 28705,
-    "name": {
-      "zh_tw": "緋紅色大駒短劍",
-      "en": "Scarlet_Dagger"
-    },
-    "icon_url": "images/items/28705.gif",
-    "category": "武器",
-    "description": {
-      "official": "劍身上散髮著紅光的短劍。ATK增加至(精煉*精煉) (套用至精煉+15)MATK增加至(精煉*精煉)/2 (套用至精煉+15)角色等級70以上 : BaseLv每上升10時ATK+5。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 55
-    },
-    "script": "{ .@r = getrefine(); bonus bBaseAtk,(((BaseLevel-70)/10)*5)+(.@r<=15?pow(.@r,2):225); bonus bMatk,(.@r<=15?(pow(.@r,2)/2):225); },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2700,
-        "name": "精英 / 雄壯 三葉鐵甲蟲",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 2719,
-        "name": "精英帕莎納 / 迅捷帕莎納",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 2655,
-        "name": "精英沙妖 / 狡猾沙妖",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 2656,
-        "name": "精英沙妖 / 迅捷沙妖",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 2658,
-        "name": "精英 / 菁英 邪骸戰士長",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 2659,
-        "name": "精英 / 憤怒 邪骸戰士長",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 1204,
-        "name": "獸牙怪",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 2199,
-        "name": "胖胖波利",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1290,
-        "name": "邪骸戰士長",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1154,
-        "name": "帕莎納",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1203,
-        "name": "弒神者",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1386,
-        "name": "沙妖",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1619,
-        "name": "三葉鐵甲蟲",
-        "rate": 0.5
-      }
-    ],
-    "obtained_from": []
-  },
   "4001": {
     "id": 4001,
     "name": {
@@ -11730,6 +11099,7 @@
     },
     "icon_url": "images/items/4001.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "LUK+2完全迴避+1套裝資料:波利卡片 & 波利之王卡片 套裝",
       "tw_official": ""
@@ -11789,6 +11159,7 @@
     },
     "icon_url": "images/items/4002.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "VIT+1MHP+100",
       "tw_official": ""
@@ -11838,6 +11209,7 @@
     },
     "icon_url": "images/items/4003.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "MHP+700",
       "tw_official": ""
@@ -11872,6 +11244,7 @@
     },
     "icon_url": "images/items/4004.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "DEX+1HIT+3",
       "tw_official": ""
@@ -11911,6 +11284,7 @@
     },
     "icon_url": "images/items/4006.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "LUK+1CRI+1完全迴避+1套裝資料:瘋兔卡片 & 藍瘋兔卡片 套裝",
       "tw_official": ""
@@ -11955,6 +11329,7 @@
     },
     "icon_url": "images/items/4007.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對無形系魔物增加20%的傷害。",
       "tw_official": ""
@@ -11989,6 +11364,7 @@
     },
     "icon_url": "images/items/4008.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "STR+1ATK+10",
       "tw_official": ""
@@ -12028,6 +11404,7 @@
     },
     "icon_url": "images/items/4009.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "AGI+1FLEE+2套裝資料:蒼蠅卡片 & 龍蠅卡片 套裝",
       "tw_official": ""
@@ -12072,6 +11449,7 @@
     },
     "icon_url": "images/items/4010.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "MSP+80",
       "tw_official": ""
@@ -12111,6 +11489,7 @@
     },
     "icon_url": "images/items/4011.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "VIT+1MHP+100",
       "tw_official": ""
@@ -12150,6 +11529,7 @@
     },
     "icon_url": "images/items/4012.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "MHP+400",
       "tw_official": ""
@@ -12179,6 +11559,7 @@
     },
     "icon_url": "images/items/4013.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "MHP+5%",
       "tw_official": ""
@@ -12213,6 +11594,7 @@
     },
     "icon_url": "images/items/4014.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "MHP+400MSP+50套裝資料:羅達蛙卡片 & 蛙王卡片 套裝",
       "tw_official": ""
@@ -12252,6 +11634,7 @@
     },
     "icon_url": "images/items/4015.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "FLEE+10套裝資料:禿鷹卡片 & Flying Galapago",
       "tw_official": ""
@@ -12286,6 +11669,7 @@
     },
     "icon_url": "images/items/4016.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "AGI+1",
       "tw_official": ""
@@ -12330,6 +11714,7 @@
     },
     "icon_url": "/images/items/4017.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人陷入眩暈狀態。",
       "tw_official": ""
@@ -12364,6 +11749,7 @@
     },
     "icon_url": "images/items/4019.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "STR+1ATK+3",
       "tw_official": ""
@@ -12398,6 +11784,7 @@
     },
     "icon_url": "images/items/4020.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人陷入黑暗狀態。ATK+5套裝資料:吸血蝙蝠卡片 & Corrupt Life Card",
       "tw_official": ""
@@ -12462,6 +11849,7 @@
     },
     "icon_url": "images/items/4021.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "DEX+1ATK+5套裝資料:蝗蟲之王卡片 & 搖滾蝗蟲卡片 套裝",
       "tw_official": ""
@@ -12496,6 +11884,7 @@
     },
     "icon_url": "images/items/4022.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "VIT+2",
       "tw_official": ""
@@ -12535,6 +11924,7 @@
     },
     "icon_url": "images/items/4023.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "INT+1套裝資料:沙漠幼狼卡片 & Corrupt Life Card",
       "tw_official": ""
@@ -12574,6 +11964,7 @@
     },
     "icon_url": "/images/items/4024.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人陷入沉睡狀態。ATK+5",
       "tw_official": ""
@@ -12613,6 +12004,7 @@
     },
     "icon_url": "images/items/4025.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有2%的幾率使敵人陷入眩暈狀態。ATK+10套裝資料:邪骸戰俘卡片 & 邪骸戰士卡片 套裝",
       "tw_official": ""
@@ -12672,6 +12064,7 @@
     },
     "icon_url": "images/items/4026.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "AGI+1FLEE+1",
       "tw_official": ""
@@ -12701,6 +12094,7 @@
     },
     "icon_url": "images/items/4027.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "AGI+2",
       "tw_official": ""
@@ -12730,6 +12124,7 @@
     },
     "icon_url": "/images/items/4028.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "STR+2套裝資料:白鼠卡片 & 藍鼠卡片 套裝",
       "tw_official": ""
@@ -12764,6 +12159,7 @@
     },
     "icon_url": "images/items/4029.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "ATK+15CRI+1套裝資料:狼卡片 & 流浪之狼卡片 套裝",
       "tw_official": ""
@@ -12803,6 +12199,7 @@
     },
     "icon_url": "images/items/4030.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對風屬性魔物增加20%的傷害。",
       "tw_official": ""
@@ -12842,6 +12239,7 @@
     },
     "icon_url": "images/items/4031.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "MHP+10%套裝資料:大嘴鳥卡片 & 七彩大嘴鳥卡片 套裝",
       "tw_official": ""
@@ -12881,6 +12279,7 @@
     },
     "icon_url": "images/items/4032.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "DEF+2",
       "tw_official": ""
@@ -12915,6 +12314,7 @@
     },
     "icon_url": "images/items/4033.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【解毒】Lv1技能。",
       "tw_official": ""
@@ -12969,6 +12369,7 @@
     },
     "icon_url": "images/items/4034.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "DEX+2",
       "tw_official": ""
@@ -13008,6 +12409,7 @@
     },
     "icon_url": "images/items/4035.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對人型系魔物增加20%的傷害。",
       "tw_official": ""
@@ -13037,6 +12439,7 @@
     },
     "icon_url": "images/items/4036.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "HP恢復力上升10%套裝資料:煉金術士套裝 : 摩卡卡片, 摩爾卡片, 拉鏈熊卡片, 小花豹卡片, 奈吉鳥卡片",
       "tw_official": ""
@@ -13081,6 +12484,7 @@
     },
     "icon_url": "images/items/4037.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人中毒。ATK+5",
       "tw_official": ""
@@ -13120,6 +12524,7 @@
     },
     "icon_url": "images/items/4038.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "HP恢復力+20%",
       "tw_official": ""
@@ -13189,6 +12594,7 @@
     },
     "icon_url": "/images/items/4039.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "受到攻擊時，被沉默的幾率降低20%。DEF+1套裝資料:流氓套裝 : 暗●盜賊卡片, 火忍西怒畢卡片, 狂暴野貓卡片, 瓢蟲卡片, 邪骸浪人卡片",
       "tw_official": ""
@@ -13223,6 +12629,7 @@
     },
     "icon_url": "images/items/4040.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【瞬間移動】Lv1技能。(未實裝)",
       "tw_official": ""
@@ -13255,6 +12662,7 @@
     },
     "icon_url": "images/items/4041.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "受到攻擊時，被[睡眠]的幾率降低20%。DEF+1",
       "tw_official": ""
@@ -13299,6 +12707,7 @@
     },
     "icon_url": "images/items/4042.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "DEF+2受到風屬性的傷害減少10%。",
       "tw_official": ""
@@ -13333,6 +12742,7 @@
     },
     "icon_url": "images/items/4043.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "ATK+20",
       "tw_official": ""
@@ -13412,6 +12822,7 @@
     },
     "icon_url": "images/items/4044.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【隱匿】Lv1 技能。",
       "tw_official": ""
@@ -13451,6 +12862,7 @@
     },
     "icon_url": "images/items/4045.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到的遠程傷害-35%。套裝資料:鍬形蟲卡片 & Rectangular Large Sleeve[1]",
       "tw_official": ""
@@ -13485,6 +12897,7 @@
     },
     "icon_url": "/images/items/4046.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "受到攻擊時，被黑暗的幾率降低20%。DEF+1",
       "tw_official": ""
@@ -13524,6 +12937,7 @@
     },
     "icon_url": "images/items/4048.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【施毒】Lv3技能。",
       "tw_official": ""
@@ -13563,6 +12977,7 @@
     },
     "icon_url": "images/items/4049.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對火屬性魔物增加20%的傷害。",
       "tw_official": ""
@@ -13602,6 +13017,7 @@
     },
     "icon_url": "images/items/4050.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "AGI+2",
       "tw_official": ""
@@ -13631,6 +13047,7 @@
     },
     "icon_url": "images/items/4051.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "完全迴避+5AGI+1",
       "tw_official": ""
@@ -13675,6 +13092,7 @@
     },
     "icon_url": "images/items/4052.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "INT+2",
       "tw_official": ""
@@ -13714,6 +13132,7 @@
     },
     "icon_url": "/images/items/4053.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【治愈術】Lv1技能。使用技能時SP消耗增加25%。",
       "tw_official": ""
@@ -13743,6 +13162,7 @@
     },
     "icon_url": "images/items/4055.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人陷入冰凍狀態。ATK+5",
       "tw_official": ""
@@ -13777,6 +13197,7 @@
     },
     "icon_url": "images/items/4056.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "受到風屬性的傷害減少30%。FLEE+5",
       "tw_official": ""
@@ -13811,6 +13232,7 @@
     },
     "icon_url": "images/items/4057.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人陷入沉默狀態。ATK+5",
       "tw_official": ""
@@ -13850,6 +13272,7 @@
     },
     "icon_url": "images/items/4058.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到人型系魔物攻擊時，可減少30%的傷害。",
       "tw_official": ""
@@ -13884,6 +13307,7 @@
     },
     "icon_url": "images/items/4060.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對動物系魔物增加20%的傷害。",
       "tw_official": ""
@@ -13943,6 +13367,7 @@
     },
     "icon_url": "images/items/4061.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "可使鎧甲完全不受損。DEF+1",
       "tw_official": ""
@@ -13977,6 +13402,7 @@
     },
     "icon_url": "images/items/4063.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對昆蟲系魔物增加20%的傷害。",
       "tw_official": ""
@@ -14011,6 +13437,7 @@
     },
     "icon_url": "images/items/4066.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到動物系敵人(含喵族)攻擊時，可減少30%的傷害。套裝資料:獸人戰士卡片 & Corrupt Life Card",
       "tw_official": ""
@@ -14050,6 +13477,7 @@
     },
     "icon_url": "images/items/4067.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到攻擊時，被冰凍的幾率降低20%。DEF+1套裝資料:邪骸食人魚卡片 & Corrupt Life Card",
       "tw_official": ""
@@ -14084,6 +13512,7 @@
     },
     "icon_url": "images/items/4068.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對植物系魔物增加20%的傷害。",
       "tw_official": ""
@@ -14123,6 +13552,7 @@
     },
     "icon_url": "images/items/4069.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對水屬性魔物增加20%的傷害。",
       "tw_official": ""
@@ -14167,6 +13597,7 @@
     },
     "icon_url": "images/items/4070.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "SP恢復力上升15%",
       "tw_official": ""
@@ -14196,6 +13627,7 @@
     },
     "icon_url": "images/items/4072.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "可使武器完全不受損。ATK+5套裝資料:巨石怪卡片 & Hetairoi Sword[2]",
       "tw_official": ""
@@ -14235,6 +13667,7 @@
     },
     "icon_url": "images/items/4073.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【低價買進】Lv5技能",
       "tw_official": ""
@@ -14264,6 +13697,7 @@
     },
     "icon_url": "images/items/4074.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到昆蟲系魔物攻擊時，可減少30%的傷害。套裝資料:大腳熊卡片 & 暴焰野熊卡片 套裝",
       "tw_official": ""
@@ -14308,6 +13742,7 @@
     },
     "icon_url": "images/items/4075.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到攻擊時，被石化的幾率降低20%。DEF+1",
       "tw_official": ""
@@ -14342,6 +13777,7 @@
     },
     "icon_url": "images/items/4076.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "攻擊時，有5%的幾率使敵人陷入受詛咒的狀態。ATK+5",
       "tw_official": ""
@@ -14381,6 +13817,7 @@
     },
     "icon_url": "/images/items/4077.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "詠唱時間不會被中斷。變動施法時間增加25%套裝資料:劍魚卡片 & Corrupt Life Card",
       "tw_official": ""
@@ -14415,6 +13852,7 @@
     },
     "icon_url": "/images/items/4078.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "VIT+3",
       "tw_official": ""
@@ -14459,6 +13897,7 @@
     },
     "icon_url": "images/items/4079.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "STR+3套裝資料:螳螂卡片 & Chaotic Mantis Card",
       "tw_official": ""
@@ -14493,6 +13932,7 @@
     },
     "icon_url": "images/items/4080.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對魚貝系魔物增加20%的傷害。",
       "tw_official": ""
@@ -14522,6 +13962,7 @@
     },
     "icon_url": "images/items/4081.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "受到地屬性的傷害減少30%。FLEE+5",
       "tw_official": ""
@@ -14548,40 +13989,6 @@
       "老舊收集冊"
     ]
   },
-  "4082": {
-    "id": 4082,
-    "name": {
-      "zh_tw": "沙漠之狼卡片",
-      "en": "Desert_Wolf_Card"
-    },
-    "icon_url": "images/items/4082.gif",
-    "category": "卡片",
-    "description": {
-      "official": "對小型魔物增加15%的傷害。ATK+5套裝資料:沙漠之狼卡片 & Corrupt Life Card",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 1
-    },
-    "script": "{ bonus2 bAddSize,Size_Small,15; bonus bBaseAtk,5; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1220,
-        "name": "沙漠之狼",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": [
-      "老舊收集冊"
-    ]
-  },
   "4084": {
     "id": 4084,
     "name": {
@@ -14590,6 +13997,7 @@
     },
     "icon_url": "images/items/4084.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【怒爆】Lv3技能。",
       "tw_official": ""
@@ -14619,6 +14027,7 @@
     },
     "icon_url": "images/items/4086.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "CRI+9",
       "tw_official": ""
@@ -14658,6 +14067,7 @@
     },
     "icon_url": "images/items/4087.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "避免陷入混亂的狀態。受到地屬性的傷害減少15%。",
       "tw_official": ""
@@ -14687,6 +14097,7 @@
     },
     "icon_url": "images/items/4088.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "使用【偽裝】Lv1技能。",
       "tw_official": ""
@@ -14716,6 +14127,7 @@
     },
     "icon_url": "images/items/4089.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "可將鎧甲的屬性轉變為水屬性。DEF+1",
       "tw_official": ""
@@ -14745,6 +14157,7 @@
     },
     "icon_url": "images/items/4090.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "受到攻擊時，被石化的幾率降低15%。受到地屬性的傷害減少5%。DEF+1套裝資料:妖君卡片, 妖道卡片 & 殭屍卡片 套裝殭屍卡片 & 憤懣殭屍卡片",
       "tw_official": ""
@@ -14766,60 +14179,6 @@
       "老舊收集冊"
     ]
   },
-  "4091": {
-    "id": 4091,
-    "name": {
-      "zh_tw": "犬妖卡片",
-      "en": "Kobold_Card"
-    },
-    "icon_url": "images/items/4091.gif",
-    "category": "卡片",
-    "description": {
-      "official": "CRI+4STR+1",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 1
-    },
-    "script": "{ bonus bStr,1; bonus bCritical,4; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2785,
-        "name": "精英犬妖 / 雄壯犬妖",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1137,
-        "name": "犬妖",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 1136,
-        "name": "犬妖",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 1134,
-        "name": "榔頭犬妖",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 1133,
-        "name": "大斧犬妖",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 1135,
-        "name": "刺錘犬妖",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": [
-      "老舊收集冊"
-    ]
-  },
   "4093": {
     "id": 4093,
     "name": {
@@ -14828,6 +14187,7 @@
     },
     "icon_url": "/images/items/4093.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【治療術】Lv1技能。套裝資料:人魚卡片 & 亞拉卡片",
       "tw_official": ""
@@ -14862,6 +14222,7 @@
     },
     "icon_url": "images/items/4094.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "遠距離物理傷害+10%。套裝資料:邪骸弓箭手卡片 & 憤懣邪骸弓箭手卡片",
       "tw_official": ""
@@ -14891,6 +14252,7 @@
     },
     "icon_url": "/images/items/4095.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "受到水屬性的傷害減少30%。FLEE+5",
       "tw_official": ""
@@ -14920,6 +14282,7 @@
     },
     "icon_url": "/images/items/4098.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "可將鎧甲的屬性轉變為風屬性。DEF+1",
       "tw_official": ""
@@ -14959,6 +14322,7 @@
     },
     "icon_url": "/images/items/4100.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "MSP+15%SP恢復力提高3%套裝資料:鬼女卡片 & 憤懣鬼女卡片",
       "tw_official": ""
@@ -14993,6 +14357,7 @@
     },
     "icon_url": "/images/items/4101.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "可將鎧甲的屬性轉變為地屬性。DEF+1",
       "tw_official": ""
@@ -15032,6 +14397,7 @@
     },
     "icon_url": "/images/items/4102.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "受念屬性魔物攻擊時，+50%的傷害。FLEE+20",
       "tw_official": ""
@@ -15066,6 +14432,7 @@
     },
     "icon_url": "images/items/4103.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "可使用【火狩】Lv1技能。",
       "tw_official": ""
@@ -15095,6 +14462,7 @@
     },
     "icon_url": "images/items/4105.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "可避免陷入冰凍的狀態。受到水屬性的傷害減少5%。",
       "tw_official": ""
@@ -15129,6 +14497,7 @@
     },
     "icon_url": "images/items/4111.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對惡魔系魔物增加20%的傷害。",
       "tw_official": ""
@@ -15163,6 +14532,7 @@
     },
     "icon_url": "images/items/4114.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "可將鎧甲的屬性轉變為毒屬性。DEF+1",
       "tw_official": ""
@@ -15202,6 +14572,7 @@
     },
     "icon_url": "images/items/4115.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "物理攻擊時，以一定機率5秒內每1秒恢復HP100。",
       "tw_official": ""
@@ -15236,6 +14607,7 @@
     },
     "icon_url": "images/items/4117.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "可使用【二刀連擊】Lv1技能遠程武器無法使用。當習得二刀連擊技能後，因技能等級的不同，啟動二刀連擊的幾率也將有所不同。",
       "tw_official": ""
@@ -15275,6 +14647,7 @@
     },
     "icon_url": "/images/items/4118.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對龍族系魔物增加20%的傷害。",
       "tw_official": ""
@@ -15314,6 +14687,7 @@
     },
     "icon_url": "/images/items/4120.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "可減少龍族系魔物30%的傷害。",
       "tw_official": ""
@@ -15343,6 +14717,7 @@
     },
     "icon_url": "/images/items/4124.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "可避免陷入石化的狀態。可減少惡魔系魔物15%的傷害。",
       "tw_official": ""
@@ -15375,6 +14750,7 @@
     },
     "icon_url": "images/items/4125.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對人類，動物類，植物類及昆蟲類型魔物增加7%的傷害。",
       "tw_official": ""
@@ -15396,38 +14772,6 @@
       "老舊收集冊"
     ]
   },
-  "4128": {
-    "id": 4128,
-    "name": {
-      "zh_tw": "黃金蟲卡片",
-      "en": "Golden_Bug_Card"
-    },
-    "icon_url": "/images/items/4128.gif",
-    "category": "卡片",
-    "description": {
-      "official": "可避免被施任何魔法 (包括治療術在內)。技能使用時增加100%的SP消耗量。(攻城戰無效)",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 1
-    },
-    "script": "{ bonus bNoMagicDamage,100; bonus bUseSPrate,100; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1086,
-        "name": "黃金蟲",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 2306,
-        "name": "Golden Thief Bug",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": []
-  },
   "4152": {
     "id": 4152,
     "name": {
@@ -15436,6 +14780,7 @@
     },
     "icon_url": "/images/items/4152.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "擊殺昆蟲系魔物時隨機的掉落，蘋果、香蕉、紅蘿蔔汁，每當飲用果汁的時HP恢復量，增加50%。套裝資料:啤酒企鵝卡片 & Flying Galapago",
       "tw_official": ""
@@ -15470,6 +14815,7 @@
     },
     "icon_url": "images/items/4153.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對海星的傷害增加30%，ATK+5卡拉蟹、貝殼魔靈、海星卡片全部裝備後，擊殺魚貝類魔物時，有30%的幾率會掉落生魚片。對水屬性魔物增加30%的傷害。套裝資料:貝殼魔靈卡片, 卡拉蟹卡片 & 海星卡片 套裝卡拉蟹卡片 & 大蝦帽子",
       "tw_official": ""
@@ -15499,6 +14845,7 @@
     },
     "icon_url": "/images/items/4155.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對哥布靈增加30%的傷害。",
       "tw_official": ""
@@ -15526,6 +14873,7 @@
     },
     "icon_url": "/images/items/4156.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "普通攻擊暴擊時，傷害增加10%，對無型系魔物對CRI+7。",
       "tw_official": ""
@@ -15555,6 +14903,7 @@
     },
     "icon_url": "/images/items/4157.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "普通攻擊暴擊時，傷害增加10%，對不死系魔物對CRI+7。",
       "tw_official": ""
@@ -15584,6 +14933,7 @@
     },
     "icon_url": "/images/items/4159.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "AGI+2精煉9以上時，FLEE+20套裝資料:九尾狐卡片 & 憤怒九尾狐卡片",
       "tw_official": ""
@@ -15613,6 +14963,7 @@
     },
     "icon_url": "/images/items/4167.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "每當用近距離物理攻擊擊殺動物系魔物時，SP可恢復到5裝備解除時，SP會減少5",
       "tw_official": ""
@@ -15642,6 +14993,7 @@
     },
     "icon_url": "/images/items/4177.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "每當擊殺植物系魔物時，有一定的幾率得到地靈礦石。受到地屬性的傷害減少10%。",
       "tw_official": ""
@@ -15681,6 +15033,7 @@
     },
     "icon_url": "images/items/4179.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "AGI+1裝備蒼蠅卡片時，FLEE+18套裝資料:蒼蠅卡片 & 龍蠅卡片 套裝",
       "tw_official": ""
@@ -15710,6 +15063,7 @@
     },
     "icon_url": "/images/items/4180.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "每當用近距離物理攻擊擊殺龍族魔物時，SP可恢復到5。裝備解除時，SP減少5",
       "tw_official": ""
@@ -15736,35 +15090,6 @@
       "老舊收集冊"
     ]
   },
-  "4183": {
-    "id": 4183,
-    "name": {
-      "zh_tw": "流浪之狼卡片",
-      "en": "Vagabond_Wolf_Card"
-    },
-    "icon_url": "images/items/4183.gif",
-    "category": "卡片",
-    "description": {
-      "official": "STR+1裝備狼卡片時，FLEE+18套裝資料:狼卡片 & 流浪之狼卡片 套裝",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 20,
-      "sell_price": 10,
-      "weight": 1
-    },
-    "script": "{ bonus bStr,1; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1092,
-        "name": "流浪之狼",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": [
-      "具有魔力的 卡片冊"
-    ]
-  },
   "4186": {
     "id": 4186,
     "name": {
@@ -15773,6 +15098,7 @@
     },
     "icon_url": "/images/items/4186.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "STR+1，VIT+1套裝資料:煉金術士套裝 : 摩卡卡片, 摩爾卡片, 拉鏈熊卡片, 小花豹卡片, 奈吉鳥卡片商人套裝 : 兔斯拉卡片, 奈吉鳥卡片, 小花豹卡片, 拉鏈熊卡片 & 邪惡禮盒卡片",
       "tw_official": ""
@@ -15812,6 +15138,7 @@
     },
     "icon_url": "/images/items/4192.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "普通攻擊暴擊時，傷害增加10%。對魚貝系魔物，CRI+7",
       "tw_official": ""
@@ -15841,6 +15168,7 @@
     },
     "icon_url": "/images/items/4196.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "每當擊殺魔物時，有一定的幾率會掉落傑勒比結晶或是巨大傑勒比結晶。",
       "tw_official": ""
@@ -15890,6 +15218,7 @@
     },
     "icon_url": "images/items/4197.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "LUK+1，裝備波利卡片時，FLEE+18套裝資料:波利卡片 & 波利之王卡片 套裝",
       "tw_official": ""
@@ -15919,6 +15248,7 @@
     },
     "icon_url": "/images/items/4199.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "HP恢復力上升10%，SP恢復力上升10%玩具士兵、虎蜥人、鱷魚人、刺尾蜻蜓卡片一起裝備時，遠程傷害+20%。AGI+5，DEX+3誘導攻擊+20% (每次HIT的攻擊)當套裝裝備者是弓箭手系列角色時，擊殺動物系魔物得到的經驗值+5%，物理攻擊時有一定的幾率，讓動物系魔物變成直接死亡的狀態。套裝資料:弓箭手套裝 : 虎蜥人卡片, 鱷魚人卡片, 玩具士兵卡片, 人魚士兵卡片 & 刺尾蜻蜓卡片",
       "tw_official": ""
@@ -15953,6 +15283,7 @@
     },
     "icon_url": "/images/items/4200.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "精煉5以下時，MDEF+7",
       "tw_official": ""
@@ -15987,6 +15318,7 @@
     },
     "icon_url": "/images/items/4203.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "ATK+15 物理攻擊時，有一定的幾率自動唸咒、火球術 3技能。習得火球術10技能時，當自動唸咒3技能時，會代替施展火球術10技能。",
       "tw_official": ""
@@ -16016,6 +15348,7 @@
     },
     "icon_url": "images/items/4211.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "MDEF+3當裝備搖滾蝗蟲卡片時，FLEE+18套裝資料:蝗蟲之王卡片 & 搖滾蝗蟲卡片 套裝",
       "tw_official": ""
@@ -16045,6 +15378,7 @@
     },
     "icon_url": "/images/items/4212.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "物理攻擊時，有一定的幾率自動唸咒、狂擊1技能。當使用狂擊技能時，讓敵人退移5格。從殭屍受到的傷害，增加100%。套裝資料:妖君卡片, 妖道卡片 & 殭屍卡片 套裝妖道卡片 & 憤懣妖道卡片",
       "tw_official": ""
@@ -16074,6 +15408,7 @@
     },
     "icon_url": "/images/items/4223.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "DEF+1受到攻擊時，被眩暈的幾率降低20%",
       "tw_official": ""
@@ -16108,6 +15443,7 @@
     },
     "icon_url": "/images/items/4225.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "HIT+10，ATK+10",
       "tw_official": ""
@@ -16137,6 +15473,7 @@
     },
     "icon_url": "/images/items/4247.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對貝殼魔靈的傷害，增加30%。ATK+5套裝資料:貝殼魔靈卡片, 卡拉蟹卡片 & 海星卡片 套裝海星卡片 & 大蝦帽子",
       "tw_official": ""
@@ -16166,6 +15503,7 @@
     },
     "icon_url": "/images/items/4252.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "受到的遠程傷害-5%套裝資料:弓箭手套裝 : 虎蜥人卡片, 鱷魚人卡片, 玩具士兵卡片, 人魚士兵卡片 & 刺尾蜻蜓卡片吟遊詩人, 舞孃套裝 : 綠貝勒斯卡片, 虎蜥人卡片, 鱷魚人卡片, 玩具士兵卡片 & 刺尾蜻蜓卡片",
       "tw_official": ""
@@ -16205,6 +15543,7 @@
     },
     "icon_url": "/images/items/4255.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對所有獸人的傷害+30%(獸人酋長、獸人英雄除外)",
       "tw_official": ""
@@ -16239,6 +15578,7 @@
     },
     "icon_url": "/images/items/4257.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "AGI+1當盜賊系列角色裝備時，完全迴避+5套裝資料:流氓套裝 : 暗●盜賊卡片, 火忍西怒畢卡片, 狂暴野貓卡片, 瓢蟲卡片, 邪骸浪人卡片盜賊套裝 : 紙妖, 邪骸浪人, 狂暴野貓, 火忍西怒畢 & 舞獅 卡片",
       "tw_official": ""
@@ -16273,6 +15613,7 @@
     },
     "icon_url": "/images/items/4259.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "HP恢復力上升30%DEF+1",
       "tw_official": ""
@@ -16302,6 +15643,7 @@
     },
     "icon_url": "/images/items/4260.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "受到攻擊時，被混亂的幾率降低20%DEF+1",
       "tw_official": ""
@@ -16331,6 +15673,7 @@
     },
     "icon_url": "/images/items/4261.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "受到攻擊時，被出血的幾率降低20%DEF+1",
       "tw_official": ""
@@ -16370,6 +15713,7 @@
     },
     "icon_url": "images/items/4266.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "VIT+1裝備瘋兔卡片時，FLEE+18套裝資料:瘋兔卡片 & 藍瘋兔卡片 套裝",
       "tw_official": ""
@@ -16399,6 +15743,7 @@
     },
     "icon_url": "images/items/4273.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "對卡拉蟹的傷害，增加30%ATK+5套裝資料:貝殼魔靈卡片, 卡拉蟹卡片 & 海星卡片 套裝貝殼魔靈卡片 & 大蝦帽子",
       "tw_official": ""
@@ -16433,6 +15778,7 @@
     },
     "icon_url": "/images/items/4283.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "物理攻擊時，有幾率可搜集到氣球體或硬幣當裝備者是服事系列時，+聚集氣球體的幾率。",
       "tw_official": ""
@@ -16467,6 +15813,7 @@
     },
     "icon_url": "images/items/4306.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "完全迴避+1裝備羅達蛙卡片時，FLEE+18套裝資料:羅達蛙卡片 & 蛙王卡片 套裝",
       "tw_official": ""
@@ -16496,6 +15843,7 @@
     },
     "icon_url": "/images/items/4307.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "每當用近距離物理攻擊擊殺魚貝系魔物時，SP可恢復到5裝備解除時，SP會減少5",
       "tw_official": ""
@@ -16530,6 +15878,7 @@
     },
     "icon_url": "/images/items/4308.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "每當用近距離物理攻擊擊殺無型系魔物時，SP可恢復到5裝備解除時，SP會減少5",
       "tw_official": ""
@@ -16564,6 +15913,7 @@
     },
     "icon_url": "/images/items/4309.gif",
     "category": "卡片",
+    "slot": "盾牌類卡片",
     "description": {
       "official": "DEF+1受到無屬性的傷害減少5%套裝資料:魔法師套裝 : 妖仙女卡片, 米雅畢卡片, 苗娃佩瑞絲卡片, 血蝴蝶卡片, 銀月魔女卡片 & 鳥人哈比卡片",
       "tw_official": ""
@@ -16598,6 +15948,7 @@
     },
     "icon_url": "/images/items/4310.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "普通攻擊暴擊時，傷害增加10%，對惡魔系魔物，CRI+7",
       "tw_official": ""
@@ -16627,6 +15978,7 @@
     },
     "icon_url": "/images/items/4312.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "HIT+10，FLEE+3每當服事系列角色裝備時，對惡魔系和不死系魔物，CRI+9套裝資料:服事套裝 : 邪惡向日葵卡片, 飛行魔書卡片, 猴桃木卡片, 甜餅人卡片 & 海豹寶寶卡片武道家套裝 : 海豹寶寶卡片, 甜餅人卡片, 飛行魔書卡片, 高鐵爐卡片",
       "tw_official": ""
@@ -16666,6 +16018,7 @@
     },
     "icon_url": "/images/items/4315.gif",
     "category": "卡片",
+    "slot": "盔甲類卡片",
     "description": {
       "official": "受到物理傷害時，有一定的幾率讓敵人得到石化。INT77以上時，有更高的幾率，讓敵人得到石化。",
       "tw_official": ""
@@ -16695,6 +16048,7 @@
     },
     "icon_url": "/images/items/4317.gif",
     "category": "卡片",
+    "slot": "武器類卡片",
     "description": {
       "official": "普通攻擊暴擊時，傷害增加15%，當盜賊系列角色裝備時，CRI+4",
       "tw_official": ""
@@ -16722,6 +16076,7 @@
     },
     "icon_url": "/images/items/4326.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "每當擊殺魚貝系魔物時，有一定的幾率會掉落明蝦壽司或是生魚片。吃下明蝦壽司或是生魚片時，HP恢復量增加50%。",
       "tw_official": ""
@@ -16761,6 +16116,7 @@
     },
     "icon_url": "/images/items/4375.gif",
     "category": "卡片",
+    "slot": "披風類卡片",
     "description": {
       "official": "FLEE+10，受到無屬性的傷害減少10%。當精煉+9以上時，受到無屬性的傷害額外減少5%，FLEE+5套裝資料:獸人嬰兒卡片 & Corrupt Life Card",
       "tw_official": ""
@@ -16790,6 +16146,7 @@
     },
     "icon_url": "/images/items/4377.gif",
     "category": "卡片",
+    "slot": "裝飾品類卡片",
     "description": {
       "official": "當抓到無分類魔物時，有一定的幾率會掉落水果刨冰",
       "tw_official": ""
@@ -16829,6 +16186,7 @@
     },
     "icon_url": "/images/items/4545.gif",
     "category": "卡片",
+    "slot": "頭飾類卡片",
     "description": {
       "official": "LUK+1。與克里圖拉學院帽一起裝備時，ATK+5、MATK+5。套裝資料:寶貝波利卡片 & 克里圖拉學院帽[1]",
       "tw_official": ""
@@ -16861,6 +16219,7 @@
     },
     "icon_url": "/images/items/4644.gif",
     "category": "卡片",
+    "slot": "鞋子類卡片",
     "description": {
       "official": "MDEF+5。精煉+7時，MDEF+10精煉+9時，MDEF+15套裝資料:無限蝗蟲之王卡片 & 無限凱美拉卡片",
       "tw_official": ""
@@ -16888,6 +16247,7 @@
     },
     "icon_url": "/images/items/5009.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "施工時戴在頭上以防止意外發生的帽子。圓形的構造讓頭部在受到沖擊時可以將傷害減到最低，絕對不會受損。MDEF+3",
       "tw_official": ""
@@ -16938,6 +16298,7 @@
     },
     "icon_url": "images/items/5010.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "印地安人所戴的髮箍。",
       "tw_official": ""
@@ -16968,6 +16329,7 @@
     },
     "icon_url": "images/items/5011.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "配帶時會被左右人嫌棄，討厭與他人交往溝通的人所佩帶，是種傳說中的頭飾。",
       "tw_official": ""
@@ -16998,6 +16360,7 @@
     },
     "icon_url": "/images/items/5014.gif",
     "category": "防具",
+    "slot": "頭飾 (中)",
     "description": {
       "official": "上頭有魚的背鰭模樣的頭具，象徵著守護劍士。使用時並不代表在水裡面可以呼吸，請小心。",
       "tw_official": ""
@@ -17033,6 +16396,7 @@
     },
     "icon_url": "images/items/5015.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "戴在頭上裝飾用的蛋殼，相當堅硬。",
       "tw_official": ""
@@ -17083,6 +16447,7 @@
     },
     "icon_url": "/images/items/5035.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "依照人氣絕頂波利魔物的樣子，所做成的帽子，但材質絕對不會是不透氣的橡膠！",
       "tw_official": ""
@@ -17138,6 +16503,7 @@
     },
     "icon_url": "/images/items/5037.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "把堅固的果實切一半所做成的帽子，雖然提供堅固的防禦力，但若用鐵鎚敲打還是會破掉，所以不能精煉。",
       "tw_official": ""
@@ -17173,6 +16539,7 @@
     },
     "icon_url": "/images/items/5046.gif",
     "category": "防具",
+    "slot": "頭飾 (上中下)",
     "description": {
       "official": "是魔物妖道所戴的帽子，重點是前面有一部分撕成一半的符，此帽相當堅固，同時因為撕掉的符，也減少了視線的阻擋。不可精煉",
       "tw_official": ""
@@ -17205,6 +16572,7 @@
     },
     "icon_url": "images/items/507.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "在治療傷處上有一定功效的珍貴藥草，可恢復少量的HP。",
       "tw_official": ""
@@ -17545,6 +16913,7 @@
     },
     "icon_url": "images/items/508.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "在治療傷處上有相當功效的珍貴藥草，可恢復少量的HP。",
       "tw_official": ""
@@ -17820,6 +17189,7 @@
     },
     "icon_url": "images/items/5087.gif",
     "category": "防具",
+    "slot": "頭飾 (中下)",
     "description": {
       "official": "眼睛和嘴巴是同一個模樣，好像遠離世俗的表情，無預警的聽到冷笑話時，那時候可以試著帶帶看。",
       "tw_official": ""
@@ -17849,6 +17219,7 @@
     },
     "icon_url": "images/items/5088.gif",
     "category": "防具",
+    "slot": "頭飾 (中下)",
     "description": {
       "official": "眼睛睜很大圓圓表情的假面，假如有驚嚇的事情時，試著帶帶看。",
       "tw_official": ""
@@ -17880,6 +17251,7 @@
     },
     "icon_url": "images/items/5089.gif",
     "category": "防具",
+    "slot": "頭飾 (中下)",
     "description": {
       "official": "當你遇到非常討厭又不好笑又很煩的事情時，所攜帶的假面，它的用途只有這樣。",
       "tw_official": ""
@@ -17911,6 +17283,7 @@
     },
     "icon_url": "images/items/509.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "在治療傷處上功效相當顯著的珍貴藥草，可恢復少量的HP。",
       "tw_official": ""
@@ -18206,6 +17579,7 @@
     },
     "icon_url": "/images/items/5090.gif",
     "category": "防具",
+    "slot": "頭飾 (中下)",
     "description": {
       "official": "像似哥布靈首領般，感覺到堅強意志的假面，再怎麼裝還是哥布靈。",
       "tw_official": ""
@@ -18237,6 +17611,7 @@
     },
     "icon_url": "images/items/510.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "擁有特殊香味且能使精神飽滿的珍貴藥草，可恢復少量的SP。",
       "tw_official": ""
@@ -18457,6 +17832,7 @@
     },
     "icon_url": "images/items/511.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "可中和所有毒性的珍貴藥草，具有治療的功效解毒。",
       "tw_official": ""
@@ -18782,6 +18158,7 @@
     },
     "icon_url": "/images/items/5111.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "參考啤酒企鵝所做的模樣意外的很可愛，還有企鵝嘴巴部分遮陽效果非常優秀的擊殺魔物時會有較低的幾率獲得曼特療傷藥",
       "tw_official": ""
@@ -18817,6 +18194,7 @@
     },
     "icon_url": "/images/items/5113.gif",
     "category": "防具",
+    "slot": "頭飾 (下)",
     "description": {
       "official": "參考憤怒的嘴模樣所做成的物品，可以演出憤怒的貓、憤怒的兔子，可以做出多樣的演出！",
       "tw_official": ""
@@ -18862,6 +18240,7 @@
     },
     "icon_url": "/images/items/5116.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "每一個人都知道只要是踩下去就會跌到的果皮削，有人袋著這個果皮削打仗的話表示對方已經生氣了。物理攻擊時，自動唸咒、挑釁 3技能施展。",
       "tw_official": ""
@@ -18912,6 +18291,7 @@
     },
     "icon_url": "images/items/512.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "清爽香甜的水果，可恢復少量的HP。",
       "tw_official": ""
@@ -19092,6 +18472,7 @@
     },
     "icon_url": "images/items/5125.gif",
     "category": "防具",
+    "slot": "頭飾 (上)",
     "description": {
       "official": "受到負責超級初學者天使之吻的頭具裝飾，若對這頭具來一個吻的話，也許就是跟天使來一個間接之吻。。。SP自然恢復力增加3%套裝資料:天使套裝 : 天使的加護[1], 天使的降臨[1], 天使的保護[1], 天使的溫氣[1] & 天使之吻[1]]",
       "tw_official": ""
@@ -19124,6 +18505,7 @@
     },
     "icon_url": "images/items/513.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "香甜好吃的水果，可恢復少量的HP。",
       "tw_official": ""
@@ -19194,6 +18576,7 @@
     },
     "icon_url": "images/items/514.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "清新且味道酸的水果，可恢復少量SP。",
       "tw_official": ""
@@ -19354,6 +18737,7 @@
     },
     "icon_url": "images/items/515.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "紅色的蔬菜。味道香甜，常被拿來作菜食用可恢復少量的HP。",
       "tw_official": ""
@@ -19414,6 +18798,7 @@
     },
     "icon_url": "images/items/516.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "含有豐富的澱粉，味道香甜，常被拿來食用可恢復少量的HP。",
       "tw_official": ""
@@ -19504,6 +18889,7 @@
     },
     "icon_url": "images/items/517.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "味道很棒。可恢復少量的HP。",
       "tw_official": ""
@@ -19629,6 +19015,7 @@
     },
     "icon_url": "images/items/518.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "味道香甜的液體，營養價值相當高，常被拿來治療用可恢復少量HP與SP。",
       "tw_official": ""
@@ -19874,6 +19261,7 @@
     },
     "icon_url": "images/items/519.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "牛奶加工而成的液體，被視為小孩子成長期時最具營養價值的食品。可恢復少量HP。",
       "tw_official": ""
@@ -19949,6 +19337,7 @@
     },
     "icon_url": "/images/items/520.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "味道清新涼爽，具有令人忘卻苦痛的效果，可使體力恢復也就是恢復定量的HP。",
       "tw_official": ""
@@ -20034,6 +19423,7 @@
     },
     "icon_url": "images/items/521.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "將蘆薈的葉子剪下收集在一起，可恢復定量的HP。",
       "tw_official": ""
@@ -20134,6 +19524,7 @@
     },
     "icon_url": "images/items/522.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "瑪絲黛拉樹上採下的紫色果實，可恢復大量的HP。",
       "tw_official": ""
@@ -20319,6 +19710,7 @@
     },
     "icon_url": "images/items/525.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "幾乎可以恢復所有陷入異常狀態的神祕藥水。",
       "tw_official": ""
@@ -20429,6 +19821,7 @@
     },
     "icon_url": "/images/items/526.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "從蜂蜜收集來的物品，此物品蜂後專門食用的食品，對身體健康有相當幫助，可恢復所有狀態且增加HP和SP。",
       "tw_official": ""
@@ -20615,6 +20008,7 @@
     },
     "icon_url": "images/items/528.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "魔物們最喜愛的加工食品，可恢復少量的HP。",
       "tw_official": ""
@@ -20750,6 +20144,7 @@
     },
     "icon_url": "/images/items/529.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "味道甜美的糖果，可恢復45點HP。",
       "tw_official": ""
@@ -20861,6 +20256,7 @@
     },
     "icon_url": "images/items/531.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "蘋果所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",
       "tw_official": ""
@@ -20896,6 +20292,7 @@
     },
     "icon_url": "images/items/533.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "葡萄所壓榨成的果汁，食用時較為方便，恢復的速度會比直接食用還要快。",
       "tw_official": ""
@@ -20931,6 +20328,7 @@
     },
     "icon_url": "/images/items/568.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "屬橢圓形，成熟時變成黃色有香味的水果，光用想象的，嘴裡就有一股酸溜溜的感覺而產生口水！恢復少量的SP",
       "tw_official": ""
@@ -21048,6 +20446,7 @@
     },
     "icon_url": "images/items/578.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "酸甜的滋味，深受大家喜愛的紅色果實可以恢復少量的SP",
       "tw_official": ""
@@ -21150,6 +20549,7 @@
     },
     "icon_url": "images/items/582.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "橘色圓形的果實，清爽的香味，可以直接吃或打成果汁、果醬等可以恢復少量的HP和SP",
       "tw_official": ""
@@ -21237,6 +20637,7 @@
     },
     "icon_url": "images/items/601.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "將蒼蠅的翅膀剪下後，製作出的具有魔法力量的物品，可在地圖上移動至任意的位置上。【此物品無法交易、露天販賣、露天收購】",
       "tw_official": ""
@@ -22367,6 +21768,7 @@
     },
     "icon_url": "images/items/603.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "會散髮出神祕藍色光芒的舊箱子，打開的話好像有什麼東西會跑出來似的。",
       "tw_official": ""
@@ -23207,6 +22609,7 @@
     },
     "icon_url": "images/items/604.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "經過極為長久歲月帶有魔力的樹枝，它的神祕力量可以召喚來任何有生命的東西。(此物品限定部分地圖使用)",
       "tw_official": ""
@@ -23457,6 +22860,7 @@
     },
     "icon_url": "/images/items/605.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "以名為曼特的植物為原料製作而成的藥品，可以讓人暫時忘卻苦痛的鎮痛劑。",
       "tw_official": ""
@@ -23547,6 +22951,7 @@
     },
     "icon_url": "/images/items/606.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "將蘆薈的硬皮撕掉後，裡面露出的組織，味道很酸又冰涼，所以一開始會對它厭惡，但只要嘗過令人無法忘記它特殊的滋味。",
       "tw_official": ""
@@ -23642,6 +23047,7 @@
     },
     "icon_url": "images/items/607.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "天地樹的果實，據說食用後精神會為之一振，感覺活力滿滿。可將使用者的HP和SP全數恢復。再使用等候時間 :5秒",
       "tw_official": ""
@@ -24298,6 +23704,7 @@
     },
     "icon_url": "images/items/608.gif",
     "category": "治療/恢復類",
+    "slot": "--",
     "description": {
       "official": "形成這個世界根源的天地樹果實之芽，透露著微微香氣且甘甜美味，可恢復一半的HP與SP。",
       "tw_official": ""
@@ -24599,6 +24006,7 @@
     },
     "icon_url": "images/items/609.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "可令死人死而復生的符咒，可以保持在半生半死的狀態，也就是成為不死的狀態。",
       "tw_official": ""
@@ -24664,6 +24072,7 @@
     },
     "icon_url": "/images/items/6096.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "來自冰凍水域的的青背魚，對身體非常好。",
       "tw_official": ""
@@ -24696,6 +24105,7 @@
     },
     "icon_url": "/images/items/617.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "透著神祕的紫色光芒且年代久遠的老舊箱子。打開來看的話好像有什麼東西會跑出來的樣子。",
       "tw_official": ""
@@ -25457,6 +24867,7 @@
     },
     "icon_url": "/images/items/618.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "老舊破爛的紙卷。打開來看，上面寫滿了許多未知的文字。",
       "tw_official": ""
@@ -25487,6 +24898,7 @@
     },
     "icon_url": "images/items/619.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "尚未熟透就掉落的蘋果。是魔物波利最喜愛的食物。",
       "tw_official": ""
@@ -25557,6 +24969,7 @@
     },
     "icon_url": "images/items/620.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "濃縮柳橙汁是魔物土波利最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -25597,6 +25010,7 @@
     },
     "icon_url": "images/items/621.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "非常苦的草，是魔物波波利最喜愛的食物。",
       "tw_official": ""
@@ -25642,6 +25056,7 @@
     },
     "icon_url": "images/items/622.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "有五種彩虹光芒顏色的紅蘿蔔，隱隱約約的香氣實在誘人，是魔物瘋兔最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -25697,6 +25112,7 @@
     },
     "icon_url": "images/items/623.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "變態蚯蚓，脖子上有紅色蝴蝶結，是魔物小雞最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -25732,6 +25148,7 @@
     },
     "icon_url": "images/items/624.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "腐爛的魚，是魔物蒼蠅最喜愛的食物。",
       "tw_official": ""
@@ -25777,6 +25194,7 @@
     },
     "icon_url": "/images/items/6249.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "野豬最好吃的部位",
       "tw_official": ""
@@ -25814,6 +25232,7 @@
     },
     "icon_url": "images/items/625.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "嚴重生鏽的鐵，是魔物綠蒼蠅最喜愛的食物。",
       "tw_official": ""
@@ -25861,63 +25280,6 @@
       "神祕紫箱"
     ]
   },
-  "6252": {
-    "id": 6252,
-    "name": {
-      "zh_tw": "狼血",
-      "en": "Wolf_Blood"
-    },
-    "icon_url": "images/items/6252.gif",
-    "category": "其他類",
-    "description": {
-      "official": "藥用的沙漠之狼血",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 100,
-      "sell_price": 50,
-      "weight": 1
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 0.05
-      }
-    ],
-    "obtained_from": []
-  },
-  "626": {
-    "id": 626,
-    "name": {
-      "zh_tw": "魔物飲料",
-      "en": "Monster_Juice"
-    },
-    "icon_url": "images/items/626.gif",
-    "category": "認養寵物之物品",
-    "description": {
-      "official": "以家禽的血做成的飲料，是魔物赤蒼蠅最喜愛的食物。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 1500,
-      "sell_price": 750,
-      "weight": 5
-    },
-    "script": "{ pet 1035; },{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1092,
-        "name": "流浪之狼",
-        "rate": 0.25
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "6260": {
     "id": 6260,
     "name": {
@@ -25926,6 +25288,7 @@
     },
     "icon_url": "/images/items/6260.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "畢帝特地龍的尾巴部分，聽說切掉了還會再長出來。",
       "tw_official": ""
@@ -25963,6 +25326,7 @@
     },
     "icon_url": "/images/items/6263.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "是椰子樹的果實，裡面有白色果汁。",
       "tw_official": ""
@@ -26000,6 +25364,7 @@
     },
     "icon_url": "/images/items/6264.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "圓圓的又有橫紋的果實，果肉是淺綠色並有淡淡的甜香味",
       "tw_official": ""
@@ -26062,6 +25427,7 @@
     },
     "icon_url": "/images/items/6265.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "有著爽口的酸甜美味的果實，果皮硬又尖要小心",
       "tw_official": ""
@@ -26114,6 +25480,7 @@
     },
     "icon_url": "/images/items/627.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "特殊加工製作而成的甜味牛奶。是魔物小野豬最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -26149,6 +25516,7 @@
     },
     "icon_url": "images/items/628.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "在熾熱的陽光下晒乾而成的骨骼。是魔物沙漠幼狼最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -26194,6 +25562,7 @@
     },
     "icon_url": "images/items/629.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "唱歌草上所開出來的花。是魔物搖滾蝗蟲最喜愛的食物。",
       "tw_official": ""
@@ -26239,6 +25608,7 @@
     },
     "icon_url": "images/items/630.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "喝飲清晨的露水所長成的青苔。是魔物魔菇最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -26309,6 +25679,7 @@
     },
     "icon_url": "images/items/631.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "擁有劇毒的草。是魔物毒魔菇最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -26359,6 +25730,7 @@
     },
     "icon_url": "images/items/632.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "健康又胖嘟嘟的蚯蚓，是魔物大嘴鳥最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -26394,6 +25766,7 @@
     },
     "icon_url": "images/items/633.gif",
     "category": "認養寵物之物品",
+    "slot": "--",
     "description": {
       "official": "烤好的地瓜，是魔物狸貓最喜愛的食物。活動魔物、小兵魔物不能被認養。",
       "tw_official": ""
@@ -26424,6 +25797,7 @@
     },
     "icon_url": "images/items/643.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "可以把魔物的蛋孵化的裝備，攜帶方便，可叫醒睡覺的寵物。",
       "tw_official": ""
@@ -26454,6 +25828,7 @@
     },
     "icon_url": "/images/items/644.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "裡頭裝滿了禮物的箱子。在沒打開之前不會知道里頭到底裝了什麼樣的禮物。",
       "tw_official": ""
@@ -26601,6 +25976,7 @@
     },
     "icon_url": "images/items/645.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "含有可讓敏捷能力上升成份的藥水，服用時，可讓攻擊速度上升。全職業都可以使用。",
       "tw_official": ""
@@ -26711,6 +26087,7 @@
     },
     "icon_url": "/images/items/662.gif",
     "category": "消耗類",
+    "slot": "--",
     "description": {
       "official": "在某個東方國家因公事到地方巡邏時，給官員的以銅鑄造之圓形牌子，據說古代御史憑此物懲治貪官汙吏。在一定的時間之內移動速度會增加。",
       "tw_official": ""
@@ -26753,6 +26130,7 @@
     },
     "icon_url": "/images/items/686.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著地屬性的魔法，可使用等級3的地震術。",
       "tw_official": ""
@@ -26785,6 +26163,7 @@
     },
     "icon_url": "images/items/690.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著火屬性的魔法，可使用等級3的火箭術。",
       "tw_official": ""
@@ -26832,6 +26211,7 @@
     },
     "icon_url": "/images/items/6905.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "以前可能是魔法石形狀的結晶碎片，有一些愛好者需要它。",
       "tw_official": ""
@@ -26909,6 +26289,7 @@
     },
     "icon_url": "images/items/692.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著風屬性的魔法，可使用等級3的雷擊術。",
       "tw_official": ""
@@ -26941,6 +26322,7 @@
     },
     "icon_url": "/images/items/700.gif",
     "category": "延遲消耗類",
+    "slot": "--",
     "description": {
       "official": "以古代魔道學精髓而制成，並有著魔法師咒文的紙張，有著水屬性的魔法，可使用等級1的冰凍術。",
       "tw_official": ""
@@ -26988,6 +26370,7 @@
     },
     "icon_url": "/images/items/7003.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "亞諾利安身上黏稠的皮膚。可向收集商人購買。",
       "tw_official": ""
@@ -27043,6 +26426,7 @@
     },
     "icon_url": "/images/items/7004.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "溼黏，讓人感覺很不舒服的一團泥巴。可向收集商人購買。",
       "tw_official": ""
@@ -27133,6 +26517,7 @@
     },
     "icon_url": "images/items/7006.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "紅色蝙蝠的翅膀。可向收集商人購買。",
       "tw_official": ""
@@ -27208,6 +26593,7 @@
     },
     "icon_url": "/images/items/701.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "為了引誘盜蟲，利用盜蟲的習性所製成的物品。",
       "tw_official": ""
@@ -27248,6 +26634,7 @@
     },
     "icon_url": "/images/items/7013.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "海裡剪下的珊瑚。可向收集商人購買。",
       "tw_official": ""
@@ -27298,6 +26685,7 @@
     },
     "icon_url": "/images/items/7014.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "上頭畫有一位少女模樣的自畫像。雖然自畫像已經老舊破爛，不能看出少女原來的面貌，但可以想見她一定是位有著相當可愛的外貌的女孩。",
       "tw_official": ""
@@ -27333,6 +26721,7 @@
     },
     "icon_url": "/images/items/702.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "裝有家畜新鮮的血的瓶子，有些魔物喜歡這樣的血腥氣味。",
       "tw_official": ""
@@ -27408,6 +26797,7 @@
     },
     "icon_url": "images/items/7021.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "眼睛瞎掉無法辨清事物的人。因為眼睛瞎了，所以很容易輕易的受人欺騙。",
       "tw_official": ""
@@ -27440,6 +26830,7 @@
     },
     "icon_url": "images/items/703.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "世界各地隨處都可見到的普通植物，雖沒什麼香味，外觀也不顯眼，卻可給很多人帶來淡淡喜悅。",
       "tw_official": ""
@@ -27482,41 +26873,6 @@
       "神祕紫箱"
     ]
   },
-  "7030": {
-    "id": 7030,
-    "name": {
-      "zh_tw": "沙漠之狼之指甲",
-      "en": "Claw_Of_Desert_Wolf"
-    },
-    "icon_url": "images/items/7030.gif",
-    "category": "其他類",
-    "description": {
-      "official": "棲息在沙漠之中 狼的指甲。可向收集商人購買。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 208,
-      "sell_price": 104,
-      "weight": 1
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1220,
-        "name": "沙漠之狼",
-        "rate": 27.5
-      },
-      {
-        "monster_id": 1106,
-        "name": "沙漠之狼",
-        "rate": 27.5
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱"
-    ]
-  },
   "7031": {
     "id": 7031,
     "name": {
@@ -27525,6 +26881,7 @@
     },
     "icon_url": "images/items/7031.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "破舊的平底鍋，用這平底鍋再做料理已經是不可能了，賣給收集品商人。",
       "tw_official": ""
@@ -27570,6 +26927,7 @@
     },
     "icon_url": "images/items/7032.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "破掉的蛋殼碎片，賣給收集品商人。",
       "tw_official": ""
@@ -27670,6 +27028,7 @@
     },
     "icon_url": "images/items/7033.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "具有毒性的魔菇芽孢。賣給收集品商人。",
       "tw_official": ""
@@ -27745,6 +27104,7 @@
     },
     "icon_url": "images/items/704.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "只在森林深處開花的植物，因為一年中只在特定的季節開花，所以不是那麼容易可以碰得到。",
       "tw_official": ""
@@ -27780,6 +27140,7 @@
     },
     "icon_url": "images/items/7041.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "黃晶沙的粉末結晶",
       "tw_official": ""
@@ -27815,6 +27176,7 @@
     },
     "icon_url": "/images/items/7043.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "太漂亮了，但是用雙手很難撿起來的砂子",
       "tw_official": ""
@@ -27867,6 +27229,7 @@
     },
     "icon_url": "images/items/7049.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "在地面上滾動的石頭",
       "tw_official": ""
@@ -27957,6 +27320,7 @@
     },
     "icon_url": "images/items/705.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "有著三片心型葉子的植物，6至7月間會開著白色的花，有時候還可以找到有四片葉子的，這類的植物名為幸運草，傳說它會為人帶來好運。",
       "tw_official": ""
@@ -28052,6 +27416,7 @@
     },
     "icon_url": "/images/items/7053.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "發出藍色光芒的稀有礦物，可賣給搜集品商人",
       "tw_official": ""
@@ -28302,6 +27667,7 @@
     },
     "icon_url": "/images/items/7054.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "發出紅色光芒的稀有礦物，可賣給搜集品商人",
       "tw_official": ""
@@ -28712,6 +28078,7 @@
     },
     "icon_url": "/images/items/7056.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "給卡普拉職員們支付薪資時，所使用的薪資明細表。",
       "tw_official": ""
@@ -28739,6 +28106,7 @@
     },
     "icon_url": "images/items/706.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "有著四片葉子的幸運草，傳說它會為人帶來好運。",
       "tw_official": ""
@@ -28820,6 +28188,7 @@
     },
     "icon_url": "/images/items/7065.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "看起來可以編織成衣服，非常溫暖的海獺的皮革，用看的就可以感覺到非常柔軟的樣子。",
       "tw_official": ""
@@ -28860,6 +28229,7 @@
     },
     "icon_url": "images/items/707.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "一到有滿月的夜晚就會獨自唱著哀傷的歌曲的神祕植物，傳說以前有位少女，她唱著歌思念離開很久的戀人，但是心愛的他終究沒有歸來，等著等著她就這樣化成了一株草。",
       "tw_official": ""
@@ -28920,6 +28290,7 @@
     },
     "icon_url": "images/items/708.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "可消除記憶的白色植物，含有讓人忘卻苦痛的成分。",
       "tw_official": ""
@@ -28970,6 +28341,7 @@
     },
     "icon_url": "images/items/710.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "在深夜裡發著光芒的植物，在人跡罕見的森林裡獨自發著光芒。聽說雖然可以在那光芒中看見天國，但若將花摘下來看的話，它的光芒就會消失。",
       "tw_official": ""
@@ -29035,6 +28407,7 @@
     },
     "icon_url": "/images/items/7100.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "類似刀刃一樣，有點銳利綠光的葉子，被割傷的話真的很痛。",
       "tw_official": ""
@@ -29125,6 +28498,7 @@
     },
     "icon_url": "images/items/711.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "剛剛纔從這個世上出生的幼小植物，單純無瑕的樣子非常可愛。",
       "tw_official": ""
@@ -29205,6 +28579,7 @@
     },
     "icon_url": "images/items/712.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "沒有名稱的花。沒有香味也沒有荊棘。",
       "tw_official": ""
@@ -29280,6 +28655,7 @@
     },
     "icon_url": "/images/items/7126.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "不知道是屬於那裡的。。。反正是一個大塊傑勒比結晶",
       "tw_official": ""
@@ -29385,6 +28761,7 @@
     },
     "icon_url": "images/items/714.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "帶有耀眼光芒的華麗金屬，據古代文獻記載，它只出現在可以改變這世界的命運的人的面前。",
       "tw_official": ""
@@ -29475,6 +28852,7 @@
     },
     "icon_url": "images/items/715.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",
       "tw_official": ""
@@ -29665,6 +29043,7 @@
     },
     "icon_url": "images/items/716.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "帶著魔法力量的礦石，使用魔法時可以代替施法者抵消魔法的反作用力。",
       "tw_official": ""
@@ -29920,6 +29299,7 @@
     },
     "icon_url": "images/items/7182.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "又稱為可可亞，熱帶常綠植物，錦葵科，原產於南美。將果實取出乾燥後便是可可豆，將其烘焙後磨成粉便是可可膏。將可可膏濃縮萃取出脂肪厚就成為可可亞，而萃取出的脂肪則稱為可可脂。在可可膏的階段添加牛奶香料使其定型後便是巧克力。",
       "tw_official": ""
@@ -29975,6 +29355,7 @@
     },
     "icon_url": "/images/items/7186.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "細長的藤條，可讓攀爬植物抓住某處攀爬上去。",
       "tw_official": ""
@@ -30015,6 +29396,7 @@
     },
     "icon_url": "/images/items/7188.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "附帶著泥土呈現著褐色的植物根。",
       "tw_official": ""
@@ -30110,6 +29492,7 @@
     },
     "icon_url": "/images/items/7189.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "是機木人的原動力，以木頭製作的魔法心臟。",
       "tw_official": ""
@@ -30140,6 +29523,7 @@
     },
     "icon_url": "images/items/719.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出紫色光芒的寶石。",
       "tw_official": ""
@@ -30231,6 +29615,7 @@
     },
     "icon_url": "/images/items/7190.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "看起來很堅固的昆蟲硬殼。",
       "tw_official": ""
@@ -30266,6 +29651,7 @@
     },
     "icon_url": "/images/items/7193.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從植物的種子裡，剛長出來的苗芽。",
       "tw_official": ""
@@ -30301,6 +29687,7 @@
     },
     "icon_url": "/images/items/7194.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "是淺綠色的，摸起來非常柔軟的草葉。",
       "tw_official": ""
@@ -30371,6 +29758,7 @@
     },
     "icon_url": "/images/items/7195.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "採用有分叉的樹枝，連上有彈力的繩子後，可用石頭做遠程攻擊的道具。",
       "tw_official": ""
@@ -30406,6 +29794,7 @@
     },
     "icon_url": "/images/items/7196.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "為了保護肩膀，用木頭製成的原始保護道具。",
       "tw_official": ""
@@ -30456,6 +29845,7 @@
     },
     "icon_url": "/images/items/7197.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "太強韌了絕對不可能用手把它扯斷的藤條，可以當做繩子利用。",
       "tw_official": ""
@@ -30506,6 +29896,7 @@
     },
     "icon_url": "/images/items/7198.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "下雨的時候，可以放在頭上當雨具用的大葉子。",
       "tw_official": ""
@@ -30641,6 +30032,7 @@
     },
     "icon_url": "images/items/720.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出天空藍之光芒的寶石。",
       "tw_official": ""
@@ -30797,6 +30189,7 @@
     },
     "icon_url": "/images/items/7200.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "加點力拉長的話，馬上又回復到原來狀態的神奇的繩子。",
       "tw_official": ""
@@ -30832,6 +30225,7 @@
     },
     "icon_url": "/images/items/7201.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "加工的話，可以做出某些東西的木塊。",
       "tw_official": ""
@@ -30887,6 +30281,7 @@
     },
     "icon_url": "/images/items/7202.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "甲蟲類前腳，被夾到的話會很痛的。",
       "tw_official": ""
@@ -30922,6 +30317,7 @@
     },
     "icon_url": "/images/items/7203.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "看起來很堅固，可以用在很多用途的樹枝。",
       "tw_official": ""
@@ -30977,6 +30373,7 @@
     },
     "icon_url": "images/items/721.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出綠色光芒的寶石。",
       "tw_official": ""
@@ -31078,6 +30475,7 @@
     },
     "icon_url": "images/items/722.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出粉紅色光芒的寶石。",
       "tw_official": ""
@@ -31174,6 +30572,7 @@
     },
     "icon_url": "images/items/724.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出深紅色光芒的寶石，有著超凡無比的神祕力量。",
       "tw_official": ""
@@ -31290,6 +30689,7 @@
     },
     "icon_url": "images/items/725.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出赤色光芒的寶石。",
       "tw_official": ""
@@ -31366,6 +30766,7 @@
     },
     "icon_url": "/images/items/726.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出藍色光芒的寶石。",
       "tw_official": ""
@@ -31422,6 +30823,7 @@
     },
     "icon_url": "/images/items/7269.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "為了防止嬰兒的口水和牛奶不要沾在衣服上，用來放在下巴下麵的小塊柔軟的布。",
       "tw_official": ""
@@ -31457,6 +30859,7 @@
     },
     "icon_url": "images/items/727.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出白色光芒的寶石。",
       "tw_official": ""
@@ -31558,6 +30961,7 @@
     },
     "icon_url": "/images/items/7270.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "為了方便餵食嬰兒的瓶子，裡面有牛奶。",
       "tw_official": ""
@@ -31585,107 +30989,6 @@
       "神祕紫箱"
     ]
   },
-  "728": {
-    "id": 728,
-    "name": {
-      "zh_tw": "黃寶石",
-      "en": "Golden_Jewel"
-    },
-    "icon_url": "images/items/728.gif",
-    "category": "其他類",
-    "description": {
-      "official": "呈現出黃色光芒的寶石。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 4500,
-      "sell_price": 2250,
-      "weight": 10
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 2726,
-        "name": "精英監視者 / 菁英監視者",
-        "rate": 25.0
-      },
-      {
-        "monster_id": 2750,
-        "name": "精英礦石魔 / 雄壯礦石魔",
-        "rate": 12.5
-      },
-      {
-        "monster_id": 2377,
-        "name": "Novus",
-        "rate": 10.0
-      },
-      {
-        "monster_id": 1092,
-        "name": "流浪之狼",
-        "rate": 7.5
-      },
-      {
-        "monster_id": 3422,
-        "name": "流浪之狼",
-        "rate": 7.5
-      },
-      {
-        "monster_id": 1583,
-        "name": "塔奧群卡",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 20273,
-        "name": "古代塔奧群卡",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 1150,
-        "name": "月夜貓",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 1700,
-        "name": "監視者",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 1667,
-        "name": "藍真晶",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 3430,
-        "name": "塔奧群卡",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 1976,
-        "name": "鈷礦石魔 / 惡精靈礦石",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 1614,
-        "name": "礦石魔",
-        "rate": 2.5
-      },
-      {
-        "monster_id": 3811,
-        "name": "巨大黃金波利",
-        "rate": 0.1
-      },
-      {
-        "monster_id": 1721,
-        "name": "龍蛋",
-        "rate": 0.05
-      }
-    ],
-    "obtained_from": [
-      "神祕箱子",
-      "神祕紫箱",
-      "禮物箱/禮盒"
-    ]
-  },
   "729": {
     "id": 729,
     "name": {
@@ -31694,6 +30997,7 @@
     },
     "icon_url": "images/items/729.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "呈現出青綠色之光芒的寶石。",
       "tw_official": ""
@@ -31750,6 +31054,7 @@
     },
     "icon_url": "/images/items/7296.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "地殼的重要岩石或隕石等裡包含的造岩礦物。淡紅色或綠色透明的會拿來當裝飾用。治愈及再生。",
       "tw_official": ""
@@ -31782,6 +31087,7 @@
     },
     "icon_url": "images/items/736.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "純白乾淨的盤子。",
       "tw_official": ""
@@ -31818,6 +31124,7 @@
     },
     "icon_url": "images/items/737.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "黑色的杓子，因為用特殊材質製造的關係，所以相當輕巧耐用。",
       "tw_official": ""
@@ -31864,6 +31171,7 @@
     },
     "icon_url": "images/items/742.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "一部分特殊的人依照他們自身喜歡的魔物蒼蠅的外型所製造的玩偶。",
       "tw_official": ""
@@ -31915,6 +31223,7 @@
     },
     "icon_url": "images/items/743.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "依照棲息在潮溼地區的魔菇外型所製造的玩偶。",
       "tw_official": ""
@@ -31961,6 +31270,7 @@
     },
     "icon_url": "/images/items/746.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "用玻璃做成的小珠子，小朋友們常拿來當玩具。",
       "tw_official": ""
@@ -32042,6 +31352,7 @@
     },
     "icon_url": "images/items/7477.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "封面寫著“在密室裡也能做出料理的人-結果總是只有一種！ 料理在此鍋子裡！！”的字句，是本令人印象深刻的書。記載著所有6等料理的數據。",
       "tw_official": ""
@@ -32106,6 +31417,7 @@
     },
     "icon_url": "images/items/748.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "永不枯萎的玫瑰，因為數量不多，所以價值不菲。雖然如此，但因為帶有永不凋謝的愛情的意義，是年輕男子必備的珍貴物品。",
       "tw_official": ""
@@ -32187,6 +31499,7 @@
     },
     "icon_url": "images/items/752.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "根據在草原上蹦蹦跳跳悠閒的拉著弦樂器的魔物搖滾蝗蟲的模樣所制做來的玩偶，雖然它們不和諧的音樂經常引起收割的農人不滿，但因為搖滾蝗蟲的外型看起來相當的討喜，因此成為買氣相當旺盛的人氣商品。",
       "tw_official": ""
@@ -32228,6 +31541,7 @@
     },
     "icon_url": "images/items/753.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "根據在深林裡群居的魔物溜溜猴的模樣所制做出來的玩偶，溜溜猴的模樣相當聰明伶俐可愛，讓人備感親切，因此深深獲得女性及小孩子們的喜愛。",
       "tw_official": ""
@@ -32274,6 +31588,7 @@
     },
     "icon_url": "images/items/754.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "根據在樹林中存活的魔物狸貓的模樣所製作出來的玩偶，意外的相當受到男性的喜愛。",
       "tw_official": ""
@@ -32315,6 +31630,7 @@
     },
     "icon_url": "images/items/756.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "是被稱為神之金屬的礦石。相當稀少，且得來不易，可以說是相當珍貴的物品。",
       "tw_official": ""
@@ -32905,6 +32221,7 @@
     },
     "icon_url": "images/items/757.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "可以拿來煉鋁的礦石，拿來提煉作成盔甲。",
       "tw_official": ""
@@ -33590,6 +32907,7 @@
     },
     "icon_url": "images/items/7932.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "危險: 不要被漂亮紅花和花香所蠱惑。",
       "tw_official": ""
@@ -33632,6 +32950,7 @@
     },
     "icon_url": "images/items/7933.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "危險: 看起來美味的紅果實，其味道猶如動物的排泄物。",
       "tw_official": ""
@@ -33664,6 +32983,7 @@
     },
     "icon_url": "images/items/7934.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "危險: 小葉子有點像綠茶葉，但味道卻不同。",
       "tw_official": ""
@@ -33696,6 +33016,7 @@
     },
     "icon_url": "images/items/7935.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "危險: 不像美麗的外表，卻沒有香味。",
       "tw_official": ""
@@ -33733,6 +33054,7 @@
     },
     "icon_url": "/images/items/7936.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "危險: 紫色漂亮的小花碰觸會發癢。",
       "tw_official": ""
@@ -33765,6 +33087,7 @@
     },
     "icon_url": "images/items/7938.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "金光的結晶體，猶如裝著太陽般的感覺。",
       "tw_official": ""
@@ -33962,6 +33285,7 @@
     },
     "icon_url": "images/items/7939.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "生長在聖地的古老樹上採的小樹枝。",
       "tw_official": ""
@@ -34169,6 +33493,7 @@
     },
     "icon_url": "images/items/901.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從少女頭上所剪下來的辮子，可向收集商購買。",
       "tw_official": ""
@@ -34199,6 +33524,7 @@
     },
     "icon_url": "images/items/902.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "樹木的根，可用來綁東西或當成藥材食用，用途非常廣泛，可向收集商購買。",
       "tw_official": ""
@@ -34244,6 +33570,7 @@
     },
     "icon_url": "images/items/903.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "爬蟲類的舌頭，可向收集品商購買。",
       "tw_official": ""
@@ -34349,6 +33676,7 @@
     },
     "icon_url": "images/items/904.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從蠍子尾端剪下來的尾巴，可向收集商人購買。",
       "tw_official": ""
@@ -34394,6 +33722,7 @@
     },
     "icon_url": "images/items/905.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "植物細長的梗，可以當做藥材，可向收集商購買。",
       "tw_official": ""
@@ -34524,6 +33853,7 @@
     },
     "icon_url": "images/items/906.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "有著鱗片的梗，是從魔物森靈身上得來的，可向收集商購買。",
       "tw_official": ""
@@ -34574,6 +33904,7 @@
     },
     "icon_url": "images/items/907.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "搜集從樹上流出的液體，可用在製造數種生活用品，可向收集商購買。",
       "tw_official": ""
@@ -34639,6 +33970,7 @@
     },
     "icon_url": "images/items/908.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從魔物羅達蛙取下來的卯，可向收集商購買。",
       "tw_official": ""
@@ -34704,6 +34036,7 @@
     },
     "icon_url": "images/items/909.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
       "tw_official": ""
@@ -34904,6 +34237,7 @@
     },
     "icon_url": "images/items/910.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
       "tw_official": ""
@@ -35149,6 +34483,7 @@
     },
     "icon_url": "images/items/911.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
       "tw_official": ""
@@ -35379,6 +34714,7 @@
     },
     "icon_url": "images/items/912.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從一部分魔物身上得來的結晶，可向收集商購買。",
       "tw_official": ""
@@ -35869,6 +35205,7 @@
     },
     "icon_url": "images/items/913.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物吸血蝙蝠尖銳的牙齒，可以用來做衣服或裝飾用。可向收集商購買。",
       "tw_official": ""
@@ -35969,6 +35306,7 @@
     },
     "icon_url": "images/items/914.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "小型魔物身上的毛，可以用來做衣服的原料，可向收集商購買。",
       "tw_official": ""
@@ -36069,6 +35407,7 @@
     },
     "icon_url": "images/items/915.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從魔物身上得來的堅硬的外殼，可向收集商購買。",
       "tw_official": ""
@@ -36109,6 +35448,7 @@
     },
     "icon_url": "images/items/916.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從飛行魔物或動物身上得來的毛，可以用來做衣服或裝飾用。可向收集商購買。",
       "tw_official": ""
@@ -36209,6 +35549,7 @@
     },
     "icon_url": "images/items/917.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從飛行魔物或動物身上得來的腳指甲，可以向收集商購買。",
       "tw_official": ""
@@ -36254,6 +35595,7 @@
     },
     "icon_url": "images/items/918.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "割下有蹼的魔物的後腳得來的物品。可向收集商購買。",
       "tw_official": ""
@@ -36314,6 +35656,7 @@
     },
     "icon_url": "images/items/919.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "剝下動物的外皮得來的，可以用來衣服或棉被等物品。可向收集商購買。",
       "tw_official": ""
@@ -36524,6 +35867,7 @@
     },
     "icon_url": "images/items/920.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從狼的腳上剪下來的腳指甲，可向收集品購買。",
       "tw_official": ""
@@ -36579,6 +35923,7 @@
     },
     "icon_url": "images/items/921.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從香菇類的植物那得來的芽孢。可向收集商購買。",
       "tw_official": ""
@@ -36654,6 +35999,7 @@
     },
     "icon_url": "images/items/924.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "將蝴蝶翅膀上掉落下來的粉末，可向收集商高價販賣。價值不菲。",
       "tw_official": ""
@@ -36739,6 +36085,7 @@
     },
     "icon_url": "images/items/925.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從飛行魔怪或動物身上得來的嘴巴，可向收集商購買。",
       "tw_official": ""
@@ -36779,6 +36126,7 @@
     },
     "icon_url": "images/items/926.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "蛇的鱗片，可以用來制做各種衣物。可向收集商購買。",
       "tw_official": ""
@@ -36854,6 +36202,7 @@
     },
     "icon_url": "images/items/928.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從部分魔物或昆蟲身上得來的觸鬚。可向收集商購買。",
       "tw_official": ""
@@ -36939,6 +36288,7 @@
     },
     "icon_url": "/images/items/930.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "老舊看起來沒有任何價值的繃帶。可向收集商購買。",
       "tw_official": ""
@@ -37034,6 +36384,7 @@
     },
     "icon_url": "images/items/931.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "代表獸人戰士身份地位的雕刻品。可向收集商購買。",
       "tw_official": ""
@@ -37089,6 +36440,7 @@
     },
     "icon_url": "images/items/932.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "不死的邪骸戰士的骨頭。可向收集商購買。",
       "tw_official": ""
@@ -37284,6 +36636,7 @@
     },
     "icon_url": "images/items/935.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物身上堅硬的外殼，可向收集商購買。",
       "tw_official": ""
@@ -37409,6 +36762,7 @@
     },
     "icon_url": "images/items/937.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "含有毒液的犬齒，可向收集商購買。",
       "tw_official": ""
@@ -37479,6 +36833,7 @@
     },
     "icon_url": "images/items/938.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "不知名的黏稠液體，可向收集商購買。",
       "tw_official": ""
@@ -38009,6 +37364,7 @@
     },
     "icon_url": "images/items/939.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "大黃蜂尾端用來做武器的又長又細的蜂針，可向收集商購買。",
       "tw_official": ""
@@ -38049,6 +37405,7 @@
     },
     "icon_url": "images/items/940.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物搖滾蝗蟲的後腿。可向收集商購買。",
       "tw_official": ""
@@ -38109,6 +37466,7 @@
     },
     "icon_url": "images/items/942.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物溜溜猴的尾巴。可向收集商購買。",
       "tw_official": ""
@@ -38164,6 +37522,7 @@
     },
     "icon_url": "images/items/943.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物身上堅硬的外皮，可向收集商購買。",
       "tw_official": ""
@@ -38409,6 +37768,7 @@
     },
     "icon_url": "images/items/945.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物狸貓變身用的葉子，可向收集商購買。",
       "tw_official": ""
@@ -38449,6 +37809,7 @@
     },
     "icon_url": "images/items/946.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "堅硬的蝸牛外殼。可向收集商購買。",
       "tw_official": ""
@@ -38484,6 +37845,7 @@
     },
     "icon_url": "images/items/947.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "尖銳且硬尖的魔物的角。可向收集商購買。",
       "tw_official": ""
@@ -38529,6 +37891,7 @@
     },
     "icon_url": "images/items/948.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "熊的腳掌，聽說有著相當特殊的風味。可向收集商購買。",
       "tw_official": ""
@@ -38589,6 +37952,7 @@
     },
     "icon_url": "images/items/949.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "相當柔軟的毛，可用來製作高級衣物。可向收集商購買。",
       "tw_official": ""
@@ -38774,6 +38138,7 @@
     },
     "icon_url": "/images/items/950.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "人魚的紅色心臟，不論何時看起來都是噗通噗通跳動著的樣子。可向收集商購買。",
       "tw_official": ""
@@ -38834,6 +38199,7 @@
     },
     "icon_url": "images/items/951.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從魚類或是部分魔物身上得來的背鰭。可向收集商購買。",
       "tw_official": ""
@@ -38974,6 +38340,7 @@
     },
     "icon_url": "images/items/952.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "具有保護仙人掌作用的尖銳的刺，可向收集商購買。",
       "tw_official": ""
@@ -39019,6 +38386,7 @@
     },
     "icon_url": "images/items/953.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "擁有魔力，是讓石頭髮揮力量的原動力之石心臟，可向收集商購買。",
       "tw_official": ""
@@ -39084,6 +38452,7 @@
     },
     "icon_url": "images/items/954.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "閃閃發亮的神祕麟片，可向收集商購買。",
       "tw_official": ""
@@ -39134,6 +38503,7 @@
     },
     "icon_url": "images/items/955.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "魔物身上堅硬的外殼，可向收集商購買。",
       "tw_official": ""
@@ -39279,6 +38649,7 @@
     },
     "icon_url": "images/items/956.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "從魚類或某些魔物身上得來的鰓刺，可向收集商購買。",
       "tw_official": ""
@@ -39374,6 +38745,7 @@
     },
     "icon_url": "images/items/957.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "亡者身上的手指甲，可向收集商購買。",
       "tw_official": ""
@@ -39454,6 +38826,7 @@
     },
     "icon_url": "images/items/958.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "亡者身上的牙齒，可向收集商購買。",
       "tw_official": ""
@@ -39589,6 +38962,7 @@
     },
     "icon_url": "images/items/959.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "嚴重腐爛且發出惡臭的鱗片，雖然不知道用處為何，但可向收集商購買。",
       "tw_official": ""
@@ -39624,6 +38998,7 @@
     },
     "icon_url": "images/items/960.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "螃蟹的鉗子，比想象中還要堅硬，注意一旦被夾到，就不容易甩開，可向收集商購買。",
       "tw_official": ""
@@ -39694,6 +39069,7 @@
     },
     "icon_url": "images/items/961.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "生活在海中的海螺的殼，放到耳邊時還可以隱約聽到朦朧的海浪聲。可向收集商購買。",
       "tw_official": ""
@@ -39734,6 +39110,7 @@
     },
     "icon_url": "images/items/962.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "溼溼地還殘留水分的觸鬚，可向收集商購買。",
       "tw_official": ""
@@ -39829,6 +39206,7 @@
     },
     "icon_url": "images/items/963.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "像刀子般銳利的鱗片，加工後可以製成多種相當有用的道具。可向收集商購買。",
       "tw_official": ""
@@ -39909,6 +39287,7 @@
     },
     "icon_url": "images/items/964.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "螃蟹背上的外殼，晒乾後相當堅硬而且會散髮出特殊的香味。可向收集商購買。",
       "tw_official": ""
@@ -39944,6 +39323,7 @@
     },
     "icon_url": "images/items/965.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "蛤蜊的外殼，晒乾後相當堅硬。可向收集商購買。",
       "tw_official": ""
@@ -40009,6 +39389,7 @@
     },
     "icon_url": "images/items/966.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "有好幾種方法可以食用，但若未將殘留其中的沙子清除掉，味道會變得極差。可向收集商購買。",
       "tw_official": ""
@@ -40059,6 +39440,7 @@
     },
     "icon_url": "/images/items/969.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "會發出如太陽般燦爛光芒的金屬，十分堅硬並且安定性高。雖然不易加工，但因為很稀少的關係，毫無疑問在金屬當中是非常有價值的東西，可以高價賣給收集商。",
       "tw_official": ""
@@ -40246,6 +39628,7 @@
     },
     "icon_url": "images/items/970.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "帶有獨特香味的液體，因為在常溫中容易蒸發的關係，所以必須保存於密閉的空間中。具有容易著火的特性，還可以融化水無法溶解的物質。",
       "tw_official": ""
@@ -40328,6 +39711,7 @@
     },
     "icon_url": "images/items/971.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "DetriminDEXta的縮寫。是無法輕易得到的液體，有著無法與水混合的特性，非常的稀少，常常被用來製成中和劑。",
       "tw_official": ""
@@ -40408,6 +39792,7 @@
     },
     "icon_url": "images/items/972.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "Karvodailnirol的縮寫。是無法輕易得到的液體，有著無法與水混合的特性，非常的稀少，常常被用來製成混合劑。",
       "tw_official": ""
@@ -40480,536 +39865,6 @@
       "神祕紫箱"
     ]
   },
-  "984": {
-    "id": 984,
-    "name": {
-      "zh_tw": "神之金屬",
-      "en": "Oridecon"
-    },
-    "icon_url": "/images/items/984.gif",
-    "category": "其他類",
-    "description": {
-      "official": "被稱為神之金屬的神祕金屬，比什麼東西都堅硬，用它來製造武器可以得到相當強大的破壞力，可以強化等級三和等級四的武器。",
-      "tw_official": ""
-    },
-    "attributes": {
-      "buy_price": 1100,
-      "sell_price": 550,
-      "weight": 20
-    },
-    "script": "{},{},{}",
-    "dropped_by": [
-      {
-        "monster_id": 1583,
-        "name": "塔奧群卡",
-        "rate": 60.0
-      },
-      {
-        "monster_id": 3430,
-        "name": "塔奧群卡",
-        "rate": 60.0
-      },
-      {
-        "monster_id": 2483,
-        "name": "巴風特-咪魘",
-        "rate": 41.0
-      },
-      {
-        "monster_id": 3473,
-        "name": "史蒂芬 傑克 厄尼斯特 狼 / 歐內斯特 斯特凡 傑克",
-        "rate": 35.0
-      },
-      {
-        "monster_id": 3475,
-        "name": "不滅的風魔巫師",
-        "rate": 32.45
-      },
-      {
-        "monster_id": 3474,
-        "name": "不滅的受到詛咒的騎士",
-        "rate": 32.45
-      },
-      {
-        "monster_id": 1945,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1938,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1946,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1939,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1943,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1944,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1942,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1941,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1940,
-        "name": "寶物箱子",
-        "rate": 24.25
-      },
-      {
-        "monster_id": 1039,
-        "name": "巴風特",
-        "rate": 20.86
-      },
-      {
-        "monster_id": 2100,
-        "name": "巴風特_E2",
-        "rate": 20.86
-      },
-      {
-        "monster_id": 1252,
-        "name": "卡崙",
-        "rate": 14.5
-      },
-      {
-        "monster_id": 2098,
-        "name": "死靈_E",
-        "rate": 13.5
-      },
-      {
-        "monster_id": 1046,
-        "name": "死靈",
-        "rate": 13.5
-      },
-      {
-        "monster_id": 1086,
-        "name": "黃金蟲",
-        "rate": 7.5
-      },
-      {
-        "monster_id": 2734,
-        "name": "精英孤魂怨靈 / 迅捷孤魂怨靈",
-        "rate": 5.5
-      },
-      {
-        "monster_id": 2620,
-        "name": "精英 / 憤怒 邪骸浪人",
-        "rate": 5.45
-      },
-      {
-        "monster_id": 2068,
-        "name": "波伊塔塔",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 2607,
-        "name": "精英扎古丹 / 狡猾扎古丹",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 3505,
-        "name": "巨型蛋黃波利",
-        "rate": 5.0
-      },
-      {
-        "monster_id": 1307,
-        "name": "狂暴月夜貓",
-        "rate": 4.0
-      },
-      {
-        "monster_id": 3640,
-        "name": "邪骸戰士",
-        "rate": 3.6
-      },
-      {
-        "monster_id": 3641,
-        "name": "邪骸戰士",
-        "rate": 3.6
-      },
-      {
-        "monster_id": 3642,
-        "name": "邪骸戰士",
-        "rate": 3.6
-      },
-      {
-        "monster_id": 2899,
-        "name": "精英虎蜥人 / 憤怒虎蜥人",
-        "rate": 3.35
-      },
-      {
-        "monster_id": 2910,
-        "name": "精英鐘怪 / 狡猾鐘怪",
-        "rate": 2.65
-      },
-      {
-        "monster_id": 2750,
-        "name": "精英礦石魔 / 雄壯礦石魔",
-        "rate": 2.0
-      },
-      {
-        "monster_id": 2485,
-        "name": "凱美拉-咪魘",
-        "rate": 1.5
-      },
-      {
-        "monster_id": 1203,
-        "name": "弒神者",
-        "rate": 1.22
-      },
-      {
-        "monster_id": 2477,
-        "name": "孤魂怨靈 / 被詛咒的邪骸浪人",
-        "rate": 1.1
-      },
-      {
-        "monster_id": 1208,
-        "name": "邪骸浪人",
-        "rate": 1.09
-      },
-      {
-        "monster_id": 2224,
-        "name": "暗●武術宗師",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 3506,
-        "name": "叢林曼陀羅魔花",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 2226,
-        "name": "暗●搞笑藝人",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 2222,
-        "name": "暗●創造者",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 3504,
-        "name": "突擊巴西利斯克",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1668,
-        "name": "阿克坦",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 2917,
-        "name": "大鐘怪",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 1979,
-        "name": "扎庫坦 / 扎古丹",
-        "rate": 1.0
-      },
-      {
-        "monster_id": 2183,
-        "name": "突變虎蜥人",
-        "rate": 0.98
-      },
-      {
-        "monster_id": 1204,
-        "name": "獸牙怪",
-        "rate": 0.95
-      },
-      {
-        "monster_id": 1259,
-        "name": "獅鷲獸",
-        "rate": 0.93
-      },
-      {
-        "monster_id": 3639,
-        "name": "邪骸戰士",
-        "rate": 0.9
-      },
-      {
-        "monster_id": 3631,
-        "name": "人型凱美拉",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 3632,
-        "name": "物質型凱美拉",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 1921,
-        "name": "咪羅克門徒之喜樂",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 3200,
-        "name": "邪惡的凱美拉",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 1283,
-        "name": "凱美拉",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 1919,
-        "name": "咪羅克門徒之泥怪",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 3425,
-        "name": "凱美拉王",
-        "rate": 0.8
-      },
-      {
-        "monster_id": 1202,
-        "name": "獸人腐屍 / 阿修羅狂戰士",
-        "rate": 0.75
-      },
-      {
-        "monster_id": 1289,
-        "name": "狂暴蟻後",
-        "rate": 0.75
-      },
-      {
-        "monster_id": 1205,
-        "name": "行刑者",
-        "rate": 0.73
-      },
-      {
-        "monster_id": 1206,
-        "name": "虎蜥人",
-        "rate": 0.67
-      },
-      {
-        "monster_id": 20420,
-        "name": "汙染邪骸浪人",
-        "rate": 0.57
-      },
-      {
-        "monster_id": 1098,
-        "name": "安畢斯 / 胡狼頭神",
-        "rate": 0.53
-      },
-      {
-        "monster_id": 1193,
-        "name": "鐘怪",
-        "rate": 0.53
-      },
-      {
-        "monster_id": 1131,
-        "name": "裘卡",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1507,
-        "name": "嗜血怪人",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 3664,
-        "name": "綠腐屍",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 3665,
-        "name": "綠腐屍",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1201,
-        "name": "瑞比歐",
-        "rate": 0.5
-      },
-      {
-        "monster_id": 1209,
-        "name": "藍鼠",
-        "rate": 0.48
-      },
-      {
-        "monster_id": 1614,
-        "name": "礦石魔",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 20595,
-        "name": "紅色礦石魔",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 1976,
-        "name": "鈷礦石魔 / 惡精靈礦石",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 20596,
-        "name": "白色礦石魔",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 2767,
-        "name": "精英 / 憤怒 狂暴米諾斯",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 20597,
-        "name": "紫色礦石魔",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 20594,
-        "name": "綠色礦石魔",
-        "rate": 0.4
-      },
-      {
-        "monster_id": 3638,
-        "name": "邪骸戰士",
-        "rate": 0.36
-      },
-      {
-        "monster_id": 1101,
-        "name": "小巴風特",
-        "rate": 0.32
-      },
-      {
-        "monster_id": 3666,
-        "name": "紅蝙蝠",
-        "rate": 0.3
-      },
-      {
-        "monster_id": 3660,
-        "name": "咪魘",
-        "rate": 0.3
-      },
-      {
-        "monster_id": 3661,
-        "name": "咪魘",
-        "rate": 0.3
-      },
-      {
-        "monster_id": 1061,
-        "name": "咪魘",
-        "rate": 0.3
-      },
-      {
-        "monster_id": 3667,
-        "name": "紅蝙蝠",
-        "rate": 0.3
-      },
-      {
-        "monster_id": 2853,
-        "name": "精英迪靡克 / 迅捷迪靡克",
-        "rate": 0.25
-      },
-      {
-        "monster_id": 2617,
-        "name": "精英妖仙女 / 狡猾妖仙女",
-        "rate": 0.25
-      },
-      {
-        "monster_id": 2794,
-        "name": "精英冰巨人 / 迅捷冰巨人",
-        "rate": 0.25
-      },
-      {
-        "monster_id": 20357,
-        "name": "薩納雷 / 邪心獵人薩納雷",
-        "rate": 0.12
-      },
-      {
-        "monster_id": 1382,
-        "name": "赤焰小惡魔",
-        "rate": 0.1
-      },
-      {
-        "monster_id": 2313,
-        "name": "邪魔馬",
-        "rate": 0.1
-      },
-      {
-        "monster_id": 3637,
-        "name": "邪骸戰士",
-        "rate": 0.09
-      },
-      {
-        "monster_id": 3622,
-        "name": "特殊警衛",
-        "rate": 0.08
-      },
-      {
-        "monster_id": 1310,
-        "name": "狂暴米諾斯",
-        "rate": 0.08
-      },
-      {
-        "monster_id": 1671,
-        "name": "冰凍迪靡克",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1777,
-        "name": "冰巨人",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1670,
-        "name": "暴風迪靡克",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1673,
-        "name": "火焰迪靡克",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 2854,
-        "name": "精英 / 雄壯小惡魔",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1672,
-        "name": "崩裂迪靡克",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1416,
-        "name": "妖仙女",
-        "rate": 0.05
-      },
-      {
-        "monster_id": 1109,
-        "name": "小惡魔",
-        "rate": 0.01
-      },
-      {
-        "monster_id": 3153,
-        "name": "挖掘機器人",
-        "rate": 0.01
-      }
-    ],
-    "obtained_from": [
-      "禮物箱/禮盒",
-      "尋找礦石技能 (鐵匠)"
-    ]
-  },
   "985": {
     "id": 985,
     "name": {
@@ -41018,6 +39873,7 @@
     },
     "icon_url": "/images/items/985.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "很輕且沒有毒性的金屬。常被拿來作成盔甲，以此製成的所有防具將變成更強。",
       "tw_official": ""
@@ -41738,6 +40594,7 @@
     },
     "icon_url": "images/items/990.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "紅色的小礦石塊。擁有火屬性，提煉後可以製作出火靈原石。",
       "tw_official": ""
@@ -41859,6 +40716,7 @@
     },
     "icon_url": "images/items/991.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "藍色的小礦石塊。擁有水屬性，提煉後可以製作出水靈原石。",
       "tw_official": ""
@@ -42040,6 +40898,7 @@
     },
     "icon_url": "images/items/992.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "黃色的小礦石塊。擁有風屬性，提煉後可以製作出風靈原石。",
       "tw_official": ""
@@ -42176,6 +41035,7 @@
     },
     "icon_url": "images/items/993.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "綠色的小礦石塊。擁有地屬性，提煉後可以製作出地靈原石。",
       "tw_official": ""
@@ -42422,6 +41282,7 @@
     },
     "icon_url": "/images/items/994.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "擁有火屬性的礦石。",
       "tw_official": ""
@@ -42549,6 +41410,7 @@
     },
     "icon_url": "images/items/995.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "擁有水屬性的礦石。",
       "tw_official": ""
@@ -42786,6 +41648,7 @@
     },
     "icon_url": "images/items/996.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "擁有風屬性的礦石。",
       "tw_official": ""
@@ -42948,6 +41811,7 @@
     },
     "icon_url": "images/items/997.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "擁有地屬性的礦石。",
       "tw_official": ""
@@ -43175,6 +42039,7 @@
     },
     "icon_url": "images/items/998.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "除了硬度夠，它也較為輕薄，與其他金屬比較起來，加工較容易。",
       "tw_official": ""
@@ -43436,6 +42301,7 @@
     },
     "icon_url": "images/items/999.gif",
     "category": "其他類",
+    "slot": "--",
     "description": {
       "official": "將鐵浸泡幾次特殊藥水後，可以使其強度更高，製造出來的武器或防具硬度更高。",
       "tw_official": ""

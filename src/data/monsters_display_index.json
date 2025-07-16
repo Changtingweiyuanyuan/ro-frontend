@@ -3485,6 +3485,13 @@
         "rate": 0.01,
         "icon_url": "/images/items/5014.gif",
         "slot": "頭飾 (中)"
+      },
+      {
+        "item_id": 1611,
+        "name": "言靈魔杖[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1611.gif",
+        "slot": "單手杖"
       }
     ]
   },
@@ -16126,6 +16133,13 @@
         "rate": 0.01,
         "icon_url": "/images/items/4180.gif",
         "slot": "武器類卡片"
+      },
+      {
+        "item_id": 1611,
+        "name": "言靈魔杖[2]",
+        "rate": "???",
+        "icon_url": "/images/items/1611.gif",
+        "slot": "單手杖"
       }
     ]
   },
