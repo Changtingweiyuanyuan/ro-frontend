@@ -293,7 +293,7 @@ const officialDescriptionLines = computed(() => {
 		border: 1.5px solid #B5A093;
 		padding: 8px 12px;
 		border-radius: 4px;
-		z-index: 10;
+		z-index: 2;
 		width: max-content;
 		max-width: 200px;
 		top: calc(100% - 32px);

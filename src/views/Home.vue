@@ -7,7 +7,9 @@ import allMonstersData from '../data/monsters_display_index.json'
 
 const searchQuery = ref('')
 const activeRace = ref('ALL')
+const raceSwitchType = ref(false)
 const activeElement = ref('ALL')
+const elementSwitchType = ref(false)
 const activeSize = ref('ALL')
 
 const filteredMonsters = ref<any[]>([]); 
@@ -108,7 +110,9 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
   <Filter
     v-model:searchQuery="searchQuery"
     v-model:activeRace="activeRace"
+    v-model:raceSwitchType="raceSwitchType"
     v-model:activeElement="activeElement"
+    v-model:elementSwitchType="elementSwitchType"
     v-model:activeSize="activeSize"
   />
   <MonsterList :monsters="monstersToShow" />

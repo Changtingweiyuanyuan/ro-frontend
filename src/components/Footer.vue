@@ -26,7 +26,10 @@ onUnmounted(() => {
 			<div class="content">
 				<div>網站為《RO仙境傳說: 樂園》非官方掉落查詢工具，</div>
 				<div>
-					若有錯誤或遺漏 歡迎大家踴躍至
+					資料以台版正服為基準，怪物資訊已盡力核實，掉落率等未公開數值僅供參考。
+				</div>
+				<div>
+					若有錯誤或遺漏 歡迎至
 					<a
 						href="https://docs.google.com/spreadsheets/d/1qECMl1dgV0_NnNvcfKj3VmOdgtsV9guMRZFUJzC9TWA/edit?hl=zh-tw&gid=538271007#gid=538271007"
 						target="_blank"
@@ -53,7 +56,6 @@ onUnmounted(() => {
 	background: #606753;
 	color: #e6e6e6;
 	border-bottom: 1.5px solid #b2a99f;
-	z-index: 100;
 
 	.content {
 		min-height: 36px;
