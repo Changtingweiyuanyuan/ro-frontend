@@ -102,7 +102,8 @@ defineProps({
 				height: 24px;
 			}
 			& > .img-text {
-				font-size: 14px;
+				font-size: 16px;
+				margin-left: 2px;
 			}
 		}
 

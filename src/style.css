@@ -87,3 +87,16 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }*/
+
+ul {
+	margin: 0;
+	padding-left: 12px;
+}
+
+li {
+	margin-bottom: 4px;
+}
+
+u {
+	text-underline-offset: 3px;
+}
