@@ -106,7 +106,7 @@ onMounted(async () => {
   window.addEventListener('scroll', handleScroll);
 
   try {
-    const response = await fetch(monsterDataUrl);
+    const response = await fetch(`${monsterDataUrl}?t=${new Date().getTime()}`);
     const data = await response.json();
     allMonsters.value = data;
   } catch (e) {

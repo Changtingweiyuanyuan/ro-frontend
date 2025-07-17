@@ -52,3 +52,4 @@ dist-ssr
 !/src/data/monsters_display_index.json
 !/public/data/items_database.json
 src/data/required_item_ids.json
+.yarn/install-state.gz
