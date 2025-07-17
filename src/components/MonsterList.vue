@@ -1,13 +1,11 @@
 <script setup>
 import { provide, ref } from 'vue';
 import MonsterCard from './MonsterCard.vue'
-import releasedMonsters from '../data/released_monsters.json';
 
 defineProps({
   monsters: Array,
 })
 
-const baseUrl = import.meta.env.BASE_URL;
 const itemsDatabase = ref(null);
 const isLoadingItems = ref(false);
 
@@ -16,7 +14,8 @@ const ensureItemsDatabase = async () => {
     
     isLoadingItems.value = true;
     try {
-        const response = await fetch(`${baseUrl}data/items_database.json`);
+        const itemsDataUrl = 'https://jyo238.github.io/twz-data/items_database.json';
+        const response = await fetch(itemsDataUrl);
         itemsDatabase.value = await response.json();
     } catch (e) {
         console.error("Failed to load items database:", e);
@@ -27,7 +26,6 @@ const ensureItemsDatabase = async () => {
 
 provide('itemsDatabase', itemsDatabase);
 provide('ensureItemsDatabase', ensureItemsDatabase);
-provide('releasedMonsters', releasedMonsters);
 </script>
 
 <template>

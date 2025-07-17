@@ -3,8 +3,8 @@ import { ref, watch, onMounted, onUnmounted } from 'vue'
 import Filter from '../components/Filter.vue'
 import MonsterList from '../components/MonsterList.vue'
 
-import allMonstersData from '../data/monsters_display_index.json'
-
+const monsterDataUrl = 'https://jyo238.github.io/twz-data/monsters_display_index.json';
+const allMonsters = ref<any[]>([]);
 const searchQuery = ref('')
 const activeRace = ref('ALL')
 const raceSwitchType = ref(false)
@@ -38,7 +38,7 @@ const getRelevanceScore = (monster: any, query: string): number => {
 const filterAndReset = () => {
     const query = searchQuery.value.toLowerCase().trim();
     
-    filteredMonsters.value = allMonstersData
+    filteredMonsters.value = allMonsters.value
       .filter((monster: any) => {
           // 篩選邏輯不變
           const matchesQuery = !query ||
@@ -93,7 +93,7 @@ const loadMoreMonsters = () => {
     monstersToShow.value.push(...nextMonsters);
 }
 
-watch([searchQuery, activeRace, activeElement, activeSize], filterAndReset, { immediate: true });
+watch([allMonsters,searchQuery, activeRace, activeElement, activeSize], filterAndReset, { immediate: true });
 
 const handleScroll = () => {
     const buffer = 500;
@@ -102,7 +102,18 @@ const handleScroll = () => {
     }
 }
 
-onMounted(() => window.addEventListener('scroll', handleScroll));
+onMounted(async () => {
+  window.addEventListener('scroll', handleScroll);
+
+  try {
+    const response = await fetch(monsterDataUrl);
+    const data = await response.json();
+    allMonsters.value = data;
+  } catch (e) {
+    console.error("無法載入魔物資料:", e);
+    // 這裡可以選擇性地處理錯誤，例如設定一個錯誤狀態
+  }
+});
 onUnmounted(() => window.removeEventListener('scroll', handleScroll));
 </script>
 
