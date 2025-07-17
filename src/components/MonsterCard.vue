@@ -10,7 +10,7 @@ const baseUrl = import.meta.env.BASE_URL;
 const expandedItemId = ref(null);
 const itemsDatabase = inject('itemsDatabase'); 
 const ensureItemsDatabase = inject('ensureItemsDatabase'); 
-const releasedMonsters = inject('releasedMonsters');
+//const releasedMonsters = inject('releasedMonsters');
 
 const toggleItemDetails = async (drop) => {
   const itemId = drop.item_id;

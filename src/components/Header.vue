@@ -4,6 +4,7 @@ import Dialog from '../components/Feedback/Dialog.vue'
 import {ElIcon} from 'element-plus'
 import {Setting} from '@element-plus/icons-vue'
 import {usePreferencesStore} from '../stores/preferences'
+import {gtagTrackEvent} from '../utils/gtagHelper'
 
 const preferencesStore = usePreferencesStore()
 
@@ -73,7 +74,12 @@ const preferences = ref({
 						<div class="preferences-block__footer">
 							<div
 								class="btn"
-								@click.stop="isPreferencesModalShown = false">
+								@click.stop="
+									() => {
+										isPreferencesModalShown = false
+										gtagTrackEvent('preferences_button_click')
+									}
+								">
 								CLOSE
 							</div>
 						</div>

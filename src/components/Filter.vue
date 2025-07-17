@@ -1,6 +1,7 @@
 <script setup>
 import FilterButton from './FilterButton.vue'
 import {usePreferencesStore} from '../stores/preferences'
+import {gtagTrackEvent} from '../utils/gtagHelper'
 
 const preferencesStore = usePreferencesStore()
 
@@ -22,6 +23,9 @@ const emit = defineEmits([
 
 const handleInput = event => {
 	emit('update:searchQuery', event.target.value)
+	gtagTrackEvent('filter_search_input', {
+		search_keyword: event.target.value,
+	})
 }
 
 const RACES = {
@@ -189,11 +193,9 @@ const sizeOptions = [
 function onFilterButtonClick({emitEvent, label}) {
 	emit(emitEvent, label)
 
-	if (typeof gtag === 'function') {
-		gtag('event', 'filter_button_click', {
-			filter_type: label,
-		})
-	}
+	gtagTrackEvent('filter_button_click', {
+		filter_type: label,
+	})
 }
 </script>
 
