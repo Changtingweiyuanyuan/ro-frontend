@@ -190,9 +190,9 @@ const preferences = ref({
 						font-size: 14px;
 						line-height: 36px;
 						outline: none;
-						background: #392d20;
+						color: #e6e6e6;
+						background: #484d3f;
 						border-radius: 4px;
-						color: #cccccc;
 						width: 100%;
 						text-align: center;
 						margin-bottom: 12px;
@@ -201,7 +201,7 @@ const preferences = ref({
 					&__content {
 						width: -webkit-fill-available;
 						height: 160px;
-						background: #dfbc85;
+						background: #f9e7d0;
 						box-shadow: inset 4px 4px 0 rgba(0, 0, 0, 0.25),
 							inset -4px -4px 0 rgba(0, 0, 0, 0.25);
 						padding: 12px 16px;
@@ -239,7 +239,8 @@ const preferences = ref({
 								.slider {
 									position: absolute;
 									cursor: pointer;
-									background-color: #6c5543;
+									border: 1px solid #000;
+									background-color: #fff;
 									box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.25);
 									border-radius: 4px;
 									top: 0;
@@ -256,8 +257,8 @@ const preferences = ref({
 									width: 18px;
 									left: 3px;
 									bottom: 3px;
-									background-color: #392d20;
-									box-shadow: inset -2px -2px 0 #000;
+									background-color: #606753;
+									box-shadow: inset -2px -2px 0 #484d3f;
 									border-radius: 4px;
 									transition: 0.4s;
 								}
@@ -274,13 +275,11 @@ const preferences = ref({
 						line-height: 36px;
 						font-family: 'Slackey';
 						outline: none;
-						filter: drop-shadow(2px 2px 0px black)
-							drop-shadow(-1px -1px 0px black);
 
 						.btn {
 							width: 100px;
 							height: 40px;
-							background: #dfbc85;
+							background: #f9e7d0;
 							color: #392d20;
 							border-radius: 4px;
 							display: flex;
@@ -289,6 +288,10 @@ const preferences = ref({
 							margin: auto;
 							margin-top: 12px;
 							cursor: pointer;
+
+							&:hover {
+								color: #000;
+							}
 						}
 					}
 				}

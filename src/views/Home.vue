@@ -199,6 +199,5 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll))
 	<Notification
 		v-model:isShown="isNotificationShown"
 		title="更新內容一覽"
-		position="top-right"
 		:message="message" />
 </template>

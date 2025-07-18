@@ -14,7 +14,7 @@ const props = withDefaults(defineProps<Props>(), {
 	modalClass: '',
 	title: undefined,
 	size: 'md',
-	positionAbsoluteTop: undefined,
+	positionAbsoluteTop: '100px',
 	isCloseBtnShown: true,
 })
 
@@ -49,6 +49,10 @@ const dialogWidth = computed(() => {
 const shouldShowHeader = computed(() => {
 	return !!props.title || props.isCloseBtnShown
 })
+
+defineOptions({
+	name: 'Dialog',
+})
 </script>
 
 <template>
@@ -80,15 +84,15 @@ const shouldShowHeader = computed(() => {
 		cursor: auto;
 
 		.el-dialog {
-			background: #6c5543;
+			background-color: #606753;
+			border: 1px solid #b2a99f;
 			min-height: 280px;
 			border-radius: 4px;
 			padding: 12px 8px;
-			filter: drop-shadow(2px 2px 0px black) drop-shadow(-1px -1px 0px black);
 
 			.el-dialog__header {
 				text-align: start;
-				color: #b2a99f;
+				color: #f9e7d0;
 				font-size: 16px;
 				font-weight: bold;
 
@@ -98,7 +102,8 @@ const shouldShowHeader = computed(() => {
 
 				.el-dialog__headerbtn {
 					.el-dialog__close {
-						color: #b2a99f;
+						color: #f9e7d0;
+
 						&:hover {
 							color: #fbe12b;
 						}

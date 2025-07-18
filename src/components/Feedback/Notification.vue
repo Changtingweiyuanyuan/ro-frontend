@@ -8,7 +8,6 @@ interface Props {
 	title?: string
 	message: string
 	//type?: 'primary' | 'success' | 'warning' | 'info' | 'error'
-	position?: 'top-left' | 'top-right' | 'bottom-left' | 'bottom-right'
 	isCloseBtnShown?: boolean
 }
 
@@ -16,7 +15,6 @@ const props = withDefaults(defineProps<Props>(), {
 	modalClass: '',
 	title: undefined,
 	//type: undefined,
-	position: 'bottom-right',
 	isCloseBtnShown: true,
 })
 
@@ -27,19 +25,28 @@ const localIsShown = ref(props.isShown)
 watch(
 	() => props.isShown,
 	val => {
-		console.log('props.isShown', props.isShown)
+		const app = document.getElementById('app')
+		const appRightOffset = window.innerWidth / 2 - (app?.clientWidth || 0) / 2
 
 		if (val) {
 			ElNotification({
 				title: props.title,
 				message: props.message,
-				position: props.position,
+				position: 'top-right',
 				//type: props.type,
 				showClose: props.isCloseBtnShown,
 				customClass: 'ro-notification',
 				offset: 40,
 				duration: 0,
 				dangerouslyUseHTMLString: true,
+			})
+
+			requestAnimationFrame(() => {
+				const notification = document.querySelector('.el-notification.ro-notification') as HTMLElement
+
+				if (notification && appRightOffset) {
+					notification.style.right = `${appRightOffset}px`
+				}
 			})
 
 			emit('update:isShown', false)
@@ -49,7 +56,7 @@ watch(
 )
 
 defineOptions({
-	name: 'NotificationModal',
+	name: 'Notification',
 })
 </script>
 
