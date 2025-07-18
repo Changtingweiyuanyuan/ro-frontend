@@ -1,6 +1,6 @@
 <script setup>
 import {ref, computed} from 'vue'
-import Dialog from '../components/Feedback/Dialog.vue'
+import Dialog from '../components/feedback/Dialog.vue'
 import {ElIcon} from 'element-plus'
 import {Setting} from '@element-plus/icons-vue'
 import {usePreferencesStore} from '../stores/preferences'

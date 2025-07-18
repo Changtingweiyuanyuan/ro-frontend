@@ -304,7 +304,7 @@ function onFilterButtonClick({emitEvent, label}) {
 	}
 
 	.search-input {
-		width: 100%;
+		width: calc(100% - 2px);
 		max-width: 800px;
 		margin-bottom: 4px;
 		padding: 4px 8px;

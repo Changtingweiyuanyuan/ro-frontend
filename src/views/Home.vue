@@ -2,10 +2,10 @@
 import {ref, watch, onMounted, onUnmounted} from 'vue'
 import Filter from '../components/Filter.vue'
 import MonsterList from '../components/MonsterList.vue'
-import Notification from '../components/Feedback/Notification.vue'
+import Notification from '../components/feedback/Notification.vue'
+import Backtop from '../components/navigation/Backtop.vue'
 
-
-const assetsUrl = import.meta.env.VITE_ASSETS_URL;
+const assetsUrl = import.meta.env.VITE_ASSETS_URL
 const monsterDataUrl = `${assetsUrl}/monsters_display_index.json`
 const allMonsters = ref<any[]>([])
 const searchQuery = ref('')
@@ -154,7 +154,9 @@ const handleScroll = () => {
 }
 
 const UPDATE_READ_KEY = 'has_seen_update_v1'
-const isNotificationShown = ref(localStorage.getItem(UPDATE_READ_KEY) !== 'true')
+const isNotificationShown = ref(
+	localStorage.getItem(UPDATE_READ_KEY) !== 'true'
+)
 const message = `
 <ul>
 	<li>卡片與武器新增「<b>規格</b>」欄位</li>
@@ -200,4 +202,6 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll))
 		v-model:isShown="isNotificationShown"
 		title="更新內容一覽"
 		:message="message" />
+
+	<Backtop />
 </template>
