@@ -273,6 +273,14 @@ const officialDescriptionLines = computed(() => {
 				<span class="stat-label">血量</span>
 				<span class="stat-value">{{ monster.stats.hp }}</span>
 			</div>
+      <div class="stat-row">
+				<span class="stat-label">經驗值</span>
+				<span class="stat-value">{{ monster.stats.exp?.base || "未知" }}</span>
+			</div>
+      <div class="stat-row">
+				<span class="stat-label">職業經驗值</span>
+				<span class="stat-value">{{ monster.stats.exp?.job || "未知" }}</span>
+			</div>
 			<div class="stat-row">
 				<span class="stat-label">攻擊力</span>
 				<span class="stat-value">{{ attackRange }}</span>
