@@ -8,13 +8,13 @@ defineProps({
 
 const itemsDatabase = ref(null)
 const isLoadingItems = ref(false)
-
+const assetsUrl = import.meta.env.VITE_ASSETS_URL;
 const ensureItemsDatabase = async () => {
 	if (itemsDatabase.value || isLoadingItems.value) return
 
 	isLoadingItems.value = true
 	try {
-		const itemsDataUrl = 'https://jyo238.github.io/twz-data/items_database.json'
+		const itemsDataUrl = `${assetsUrl}/items_database.json`
 		const response = await fetch(itemsDataUrl)
 		itemsDatabase.value = await response.json()
 	} catch (e) {

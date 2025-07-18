@@ -6,7 +6,14 @@ const props = defineProps({
 })
 
 const baseUrl = import.meta.env.BASE_URL;
-
+const assetsUrl = import.meta.env.VITE_ASSETS_URL;
+const monsterImageUrl = computed(() => {
+  return new URL(props.monster.image_url, assetsUrl).href;
+});
+const getDropIconUrl = (drop) => {
+  if (!drop || !drop.icon_url) return '';
+  return new URL(drop.icon_url, assetsUrl).href;
+};
 const expandedItemId = ref(null);
 const itemsDatabase = inject('itemsDatabase'); 
 const ensureItemsDatabase = inject('ensureItemsDatabase'); 
@@ -156,7 +163,7 @@ const officialDescriptionLines = computed(() => {
     </div>
     
     <div class="identity">
-      <img :src="`${baseUrl}${monster.image_url}`" :alt="`RO 怪物「${monster.name.zh_tw}」的圖片與掉落資訊 (種族:${monster.basic_info.race})`" class="monster-image-large">
+      <img :src="monsterImageUrl" :alt="`RO 怪物「${monster.name.zh_tw}」的圖片與掉落資訊 (種族:${monster.basic_info.race})`" class="monster-image-large">
       <div class="monster-name-primary">{{ monster.name.zh_tw }}</div>
       <div class="monster-id">ID: {{ monster.id }}</div>
       <div class="monster-name-secondary">{{ monster.name.en }}</div>
@@ -174,7 +181,7 @@ const officialDescriptionLines = computed(() => {
     <div class="drops-list" v-if="monster.drops && monster.drops.length > 0">
       <template v-for="drop in monster.drops" :key="`${monster.id}-${drop.item_id}`">
         <div class="drop-item-row clickable" @click="toggleItemDetails(drop)">
-          <img :src="`${baseUrl}${drop.icon_url}`" :alt="`RO 怪物「${monster.name.zh_tw}」掉落物品「${getDropName(drop)}」的圖片`" class="drop-icon">
+          <img :src="getDropIconUrl(drop)" :alt="`RO 怪物「${monster.name.zh_tw}」掉落物品「${getDropName(drop)}」的圖片`" class="drop-icon">
           <span class="drop-name">{{ getDropName(drop) }}</span>
           <span class="drop-rate">{{ getDropRate(drop) }}</span>
         </div>

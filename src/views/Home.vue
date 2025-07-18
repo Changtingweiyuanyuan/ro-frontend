@@ -3,10 +3,10 @@ import {ref, watch, onMounted, onUnmounted} from 'vue'
 import Filter from '../components/Filter.vue'
 import MonsterList from '../components/MonsterList.vue'
 import Notification from '../components/Feedback/Notification.vue'
-import {Setting} from '@element-plus/icons-vue'
 
-const monsterDataUrl =
-	'https://jyo238.github.io/twz-data/monsters_display_index.json'
+
+const assetsUrl = import.meta.env.VITE_ASSETS_URL;
+const monsterDataUrl = `${assetsUrl}/monsters_display_index.json`
 const allMonsters = ref<any[]>([])
 const searchQuery = ref('')
 const activeRace = ref('ALL')

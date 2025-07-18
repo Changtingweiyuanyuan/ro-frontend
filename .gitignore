@@ -53,3 +53,4 @@ dist-ssr
 !/public/data/items_database.json
 src/data/required_item_ids.json
 .yarn/install-state.gz
+.env
